@@ -1,0 +1,17 @@
+[
+  {"source": "CIPER Chile", "site": "https://www.ciperchile.cl"},
+  {"source": "Radio Bío-Bío", "site": "https://www.biobiochile.cl"},
+  {"source": "Radio Cooperativa", "site": "https://cooperativa.cl"},
+  {"source": "El Mostrador", "site": "https://www.elmostrador.cl"},
+  {"source": "Ex-Ante", "site": "https://www.ex-ante.cl"},
+  {"source": "Emol", "site": "https://www.emol.com"},
+  {"source": "Río en Línea", "site": "https://www.rioenlinea.cl"},
+  {"source": "Reuters", "site": "https://www.reuters.com"},
+  {"source": "Associated Press", "site": "https://apnews.com"},
+  {"source": "BBC Mundo", "site": "https://www.bbc.com/mundo", "url": "https://feeds.bbci.co.uk/mundo/rss.xml", "category": "América Latina"},
+  {"source": "Deutsche Welle", "site": "https://www.dw.com/es", "url": "https://rss.dw.com/xml/rss-sp-all", "category": "Europa"},
+  {"source": "France 24", "site": "https://www.france24.com/es"},
+  {"source": "Al Jazeera", "site": "https://www.aljazeera.com", "url": "https://www.aljazeera.com/xml/rss/all.xml", "category": "Oriente Medio"},
+  {"source": "The Guardian", "site": "https://www.theguardian.com", "url": "https://www.theguardian.com/world/rss", "category": "Relaciones internacionales y geopolítica"},
+  {"source": "Agencia EFE", "site": "https://efe.com"}
+]
