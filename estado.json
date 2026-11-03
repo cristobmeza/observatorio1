@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T00:46:17.176842+00:00",
+ "updated": "2026-11-03T01:17:48.714678+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -12,8 +12,9 @@
    "url": "https://feeds.feedburner.com/radiobiobio/NNeJ"
   },
   "Radio Cooperativa": {
-   "ok": false,
-   "err": "HTTP Error 404: Not Found"
+   "ok": true,
+   "n": 15,
+   "url": "https://www.cooperativa.cl/noticias/site/tax/port/all/rss____1.xml"
   },
   "El Mostrador": {
    "ok": false,
@@ -68,7 +69,7 @@
   },
   "Agencia EFE": {
    "ok": false,
-   "err": "HTTP Error 500: Internal Server Error"
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
