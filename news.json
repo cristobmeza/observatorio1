@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-03T01:58:49.426314+00:00",
+ "updated": "2026-11-03T02:44:25.909696+00:00",
  "items": [
+  {
+   "id": "f6d7885fc3bc",
+   "source": "France 24",
+   "title": "Nuevo revés electoral para Trump: la Corte Suprema rechaza su intento de impugnar boletas en California",
+   "description": "Una decisión de emergencia del máximo tribunal de Estados Unidos se alineó con la posición de tribunales inferiores de negar una petición del Departamento de Justicia de segregar 20.000 papeletas que según la Administración Trump serían usadas por no ciudadanos en las midterms de",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261103-nuevo-rev%C3%A9s-electoral-para-trump-la-corte-suprema-rechaza-su-intento-de-impugnar-boletas-en-california",
+   "date": "2026-11-03T02:35:41+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "8d46c850c62e",
+   "source": "Radio Cooperativa",
+   "title": "Fujimori anunció que se reordenarán presos de todas las cárceles de Perú",
+   "description": "Las autoridades de Perú reordenarán a los presos de todas las cárceles como parte de la decisión que tomó el Gobierno de fortalecer el control en los penale s, tras una reyerta que el domingo dejó tres muertos en una prisión del norte del país, informó este lunes la presidenta Ke",
+   "url": "https://www.cooperativa.cl/noticias/mundo/peru/fujimori-anuncio-que-se-reordenaran-presos-de-todas-las-carceles-de/2026-11-02/231551.html",
+   "date": "2026-11-03T02:15:51+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "471627aa5381",
+   "source": "Deutsche Welle",
+   "title": "Corte Suprema de Estados Unidos rechaza nuevo intento de Trump de invalidar 20.000 votos en California",
+   "description": "El gobierno republicano intentaba separar unas 20.000 papeletas alegando dudas sobre la nacionalidad de los votantes.",
+   "url": "https://www.dw.com/es/corte-suprema-de-estados-unidos-rechaza-nuevo-intento-de-trump-de-invalidar-20-000-votos-en-california/a-79835036?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-03T02:13:00+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "ce66c6927125",
+   "source": "Radio Cooperativa",
+   "title": "El triunfo ante Palestino que reavivó la ilusión de Sudamericana para D. Concepción",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/el-triunfo-ante-palestino-que-reavivo-la-ilusion-de-sudamericana-para-d/2026-11-02/231237.html",
+   "date": "2026-11-03T02:12:37+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "674dda7bdcf4",
+   "source": "Al Jazeera",
+   "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
+   "description": "At least 150 Afghans are facing deportation to Pakistan and on to Afghanistan.",
+   "url": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss",
+   "date": "2026-11-03T02:12:33+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "ff46ea56ba93",
+   "source": "The Guardian",
+   "title": "RBA interest rates live: Reserve Bank of Australia meeting today before cash rate decision and announcement – latest news",
+   "description": "Reserve Bank is expected to raise interest rates to an 18-year high on Tuesday, the fifth hike this year Use our loan calculator to check how a rate rise may affect you Get our breaking news email , free app or daily news podcast How would your mortgage change? For someone with a",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
+   "date": "2026-11-03T02:12:10+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "08d1700e1e16",
    "source": "BBC Mundo",
@@ -9,6 +69,16 @@
    "url": "https://www.bbc.com/mundo/articles/c61m4yyjyrrxo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-03T01:52:36+00:00",
    "category": "Conflictos armados y seguridad internacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "83b7b13daec7",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver a Betis de Pellegrini ante Borussia Dortmund en la Champions?",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este miércoles 4 de noviembre el Real Betis de Manuel Pellegrini v isita a Borussia Dortmund en el imponente Signal Iduna Park, por la cuarta fecha en la fase de liga de la UEFA Champions League. El partido está programado ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/cuando-y-donde-ver-a-betis-de-pellegrini-ante-borussia-dortmund-en-la/2026-11-02/225210.html",
+   "date": "2026-11-03T01:52:10+00:00",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -32,13 +102,13 @@
    "type": "Prensa"
   },
   {
-   "id": "ff46ea56ba93",
-   "source": "The Guardian",
-   "title": "RBA interest rates live: Reserve Bank of Australia meeting today before cash rate decision and announcement – latest news",
-   "description": "Reserve Bank is expected to raise interest rates to an 18-year high on Tuesday, the fifth hike this year Get our breaking news email , free app or daily news podcast Asked why Labor can’t guarantee it won’t find net savings in the mid-year budget update, Chalmers told RN the gove",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
-   "date": "2026-11-03T01:39:59+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "id": "1875141394dd",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] Colo Colo entrenó con público en el Monumental tras vencer a Puerto Montt",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Inmediatamente después del triunfo por 3-0 de Colo Colo ante Deportes Puerto Montt por cuartos de Copa Chile, Fernando Ortiz ordenó una sesión de entrenamiento sobre el césped del Estadio Monumental. Con Arturo Vidal y Vozi",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-colo-colo-entreno-con-publico-en-el-monumental-tras-vencer-a/2026-11-02/223834.html",
+   "date": "2026-11-03T01:38:34+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -122,6 +192,16 @@
    "type": "Prensa"
   },
   {
+   "id": "fd714a731e00",
+   "source": "Deutsche Welle",
+   "title": "Irán anuncia contactos \"intensos\" con Estados Unidos para evitar una escalada en el conflicto",
+   "description": "Desde Washington, el vicepresidente J.D. Vance manifestó optimismo por alcanzar un acuerdo negociado con Teherán.",
+   "url": "https://www.dw.com/es/irán-anuncia-contactos-intensos-con-estados-unidos-para-evitar-una-escalada-en-el-conflicto/a-79834973?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-03T00:43:00+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
    "id": "a21539e5520a",
    "source": "Radio Cooperativa",
    "title": "La Roja confirmó su nómina para el Mundial sub 17 en Catar",
@@ -165,10 +245,20 @@
    "id": "0b04bb27fa43",
    "source": "The Guardian",
    "title": "Investigative journalist Kate McClymont gives evidence in Alan Jones indecent assault trial",
-   "description": "Jones, a former radio broadcaster, has pleaded not guilty to 21 charges of indecent assault and sexual touching The Sydney Morning Herald’s chief investigative reporter, Kate McClymont, has told a Sydney court the alleged victims of Alan Jones she interviewed received no benefit ",
+   "description": "Jones, a former radio broadcaster, has pleaded not guilty to 21 charges of indecent assault and sexual touching Get our breaking news email , free app or daily news podcast The Sydney Morning Herald’s chief investigative reporter, Kate McClymont, has told a Sydney court the alleg",
    "url": "https://www.theguardian.com/australia-news/2026/nov/03/kate-mcclymont-evidence-alan-jones-trial-ntwnfb",
    "date": "2026-11-03T00:30:57+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "4d66e3e27c4c",
+   "source": "Deutsche Welle",
+   "title": "EEUU mediará en negociaciones entre Rusia y Ucrania en Abu Dabi la próxima semana",
+   "description": "El enviado especial Steve Witkoff dijo que las pláticas abarcarán \"acuerdos de seguridad para la posguerra, la desescalada, medidas humanitarias y el fin de la guerra\".",
+   "url": "https://www.dw.com/es/eeuu-mediará-en-negociaciones-entre-rusia-y-ucrania-en-abu-dabi-la-próxima-semana/a-79834962?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-03T00:21:00+00:00",
+   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -252,6 +342,16 @@
    "type": "Prensa"
   },
   {
+   "id": "1c5e9543826a",
+   "source": "Deutsche Welle",
+   "title": "Trump abre la puerta a indultos para favorecer a sus aliados ante posible triunfo demócrata",
+   "description": "\"Ni siquiera me lo pensaría (...) Lo haría\", aseguró el mandatario en una entrevista al diario New York Post.",
+   "url": "https://www.dw.com/es/trump-abre-la-puerta-a-indultos-para-favorecer-a-sus-aliados-ante-posible-triunfo-demócrata/a-79834954?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-02T23:40:00+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
    "id": "9e9b559caaee",
    "source": "BBC Mundo",
    "title": "Qué se sabe de la dramática caída de un avión privado en Florida que dejó 9 muertos",
@@ -299,16 +399,6 @@
    "url": "https://www.biobiochile.cl/noticias/internacional/europa/2026/11/02/identifican-a-los-69-fallecidos-que-dejo-colision-de-trenes-en-espana-15-son-extranjeros.shtml",
    "date": "2026-11-02T23:27:00+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "77cbdca55930",
-   "source": "Radio Cooperativa",
-   "title": "Limache se afianzó en zona de Sudamericana con un triunfo sobre Audax",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Deportes Limache dio un paso importante en su sueño por clasificar por primera vez a un torneo internacional, gracias a un 2-0 sobre Audax Italiano por la fecha 26 de la Liga de Primera que le permitió afianzarse en puestos",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/limache-se-afianzo-en-zona-de-sudamericana-con-un-triunfo-sobre-audax/2026-11-02/202309.html",
-   "date": "2026-11-02T23:23:09+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -362,16 +452,6 @@
    "type": "Prensa"
   },
   {
-   "id": "db688b5dd536",
-   "source": "Radio Cooperativa",
-   "title": "Colo Colo festejó con un intratable Romero en su revancha con Puerto Montt por Copa Chile",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-festejo-con-un-intratable-romero-en-su-revancha-con-puerto/2026-11-02/200436.html",
-   "date": "2026-11-02T23:04:36+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "51c3cf0e9bd3",
    "source": "France 24",
    "title": "Bulgaria elige a Iliana Yotova y la continuidad de una línea cercana a Moscú",
@@ -422,16 +502,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8c90583cb578",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] Romero aprovechó nuevo error de Puerto Montt y marcó un golazo para Colo Colo",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Deportes Puerto Montt volvió a sufrir con los errores propios en defensa ante Colo Colo , permitiendo el 3-0 definitivo en el cierre de su llave por cuartos de final de la Copa Chile. Maximiliano Riveros envió un pase que l",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/video-romero-aprovecho-nuevo-error-de-puerto-montt-y-marco-un-golazo/2026-11-02/195619.html",
-   "date": "2026-11-02T22:56:19+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "f0e0e7f8eec4",
    "source": "Radio Bío-Bío",
    "title": "Oposición evalúa aplazar reunión con Boric y Bachelet tras polémica desatada por rebajas de Rabat",
@@ -439,16 +509,6 @@
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/02/oposicion-evalua-aplazar-reunion-con-boric-y-bachelet-tras-polemica-desatada-por-rebajas-de-rabat.shtml",
    "date": "2026-11-02T22:53:45+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "a547fe3735af",
-   "source": "Radio Cooperativa",
-   "title": "Colo Colo liquidó la serie ante Puerto Montt y ratificó su paso a semis de Copa Chile",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Después de 27 días de espera, Colo Colo finalmente completó su serie ante Deportes Puerto Montt y disputó los 45 minutos pendientes, en los que concretó un contundente 3-0 para clasificar con un marcador global de 4-0 a sem",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-liquido-la-serie-ante-puerto-montt-y-ratifico-su-paso-a-semis/2026-11-02/195239.html",
-   "date": "2026-11-02T22:52:39+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -712,16 +772,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b6919d3fc3a2",
-   "source": "Deutsche Welle",
-   "title": "Cuatro claves que decidirán si Irán camina hacia la guerra o la paz",
-   "description": "Las elecciones intermedias en EE. UU. podrían abrir una oportunidad para la diplomacia con Irán o desencadenar una nueva escalada militar. ¿Qué factores podrían inclinar la balanza hacia la guerra o la paz?",
-   "url": "https://www.dw.com/es/cuatro-claves-que-decidirán-si-irán-camina-hacia-la-guerra-o-la-paz/a-79833938?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-02T21:06:00+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "14f6c8ea5722",
    "source": "Deutsche Welle",
    "title": "El clima desaparece de la campaña demócrata para las Midterms",
@@ -732,13 +782,23 @@
    "type": "Prensa"
   },
   {
+   "id": "b6919d3fc3a2",
+   "source": "Deutsche Welle",
+   "title": "Cuatro claves que decidirán si Irán camina hacia la guerra o la paz",
+   "description": "Las elecciones intermedias en EE. UU. podrían abrir una oportunidad para la diplomacia con Irán o desencadenar una nueva escalada militar. ¿Qué factores podrían inclinar la balanza hacia la guerra o la paz?",
+   "url": "https://www.dw.com/es/cuatro-claves-que-decidirán-si-irán-camina-hacia-la-guerra-o-la-paz/a-79833938?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-02T21:06:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
    "id": "a650f6eeae41",
    "source": "France 24",
-   "title": "En directo: Trump abre dudas sobre una reanudación de los ataques contra Irán y la posibilidad de un acuerdo",
-   "description": "El presidente Donald Trump generó este 2 de noviembre sus dudas sobre si cumpliría con la amenaza de reanudar los ataques militares contra Irán al firmar que podría llegarse a un acuerdo con Teherán. En las últimas semanas, Trump había insinuado la posibilidad de reanudar la ofen",
+   "title": "Trump abre dudas sobre una reanudación de los ataques a Irán a horas de las elecciones en EE. UU.",
+   "description": "Donald Trump abrió este 2 de noviembre nuevas dudas sobre si cumpliría con la amenaza de reanudar los ataques contra Irán al afirmar que podría llegarse a un acuerdo. En las últimas semanas, Trump había insinuado la posibilidad de reanudar la ofensiva tras las elecciones de mitad",
    "url": "https://www.france24.com/es/medio-oriente/20261102-en-directo-trump-abre-dudas-sobre-una-reanudaci%C3%B3n-de-los-ataques-contra-ir%C3%A1n-y-la-posibilidad-de-un-acuerdo",
    "date": "2026-11-02T20:58:40+00:00",
-   "category": "Oriente Medio",
+   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -955,7 +1015,7 @@
    "id": "18ab38352648",
    "source": "The Guardian",
    "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
-   "description": "After a second apparent cyber-attack in as many weeks, we examine possible culprits and their motives Shop fridges and freezers across Europe hit by fresh suspected cyber-attack Supermarket fridges and freezers in seven European countries have malfunctioned , their thermostats re",
+   "description": "After a second apparent cyber-attack in weeks, we examine possible culprits and their motives Shop fridges and freezers across Europe hit by fresh suspected cyber-attack Supermarket fridges and freezers in seven European countries have malfunctioned , their thermostats remotely c",
    "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
    "date": "2026-11-02T19:07:40+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -1062,16 +1122,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cfdc87f7f9d6",
-   "source": "Radio Cooperativa",
-   "title": "Colo Colo venció a Puerto Montt en los minutos pendientes en cuartos de Copa Chile",
-   "description": "Este lunes, Colo Colo y Deportes Puerto Montt vuelven al Monumental para completar el segundo tiempo de la revancha de cuartos de final de la Copa Chile tras dos intentos por completar el encuentro, siendo el original el 6 de octubre y otro uno fallido el 19 de dicho mes. Sigue e",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-vencio-a-puerto-montt-en-los-minutos-pendientes-en-cuartos-de/2026-11-02/154324.html",
-   "date": "2026-11-02T18:43:24+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "f291fa4627c9",
    "source": "France 24",
    "title": "¿Qué hay detrás de la violencia contra los periodistas que las autoridades no pueden frenar?",
@@ -1098,16 +1148,6 @@
    "description": "Diesel prices ease to $6.29 per gallon, offering slight relief amid a global fuel demand squeeze.",
    "url": "https://www.aljazeera.com/economy/2026/11/2/us-petrol-prices-dip-ahead-of-midterms-as-voters-eye-costs?traffic_source=rss",
    "date": "2026-11-02T18:32:30+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "53d11bc58ae0",
-   "source": "Al Jazeera",
-   "title": "Russian bombing of Ukrainian aid centre kills 26 people",
-   "description": "Ukraine's president calls attack further proof that Russia does not want any ‌kind of de-escalation or real justice.",
-   "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
-   "date": "2026-11-02T18:23:02+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
@@ -1149,16 +1189,6 @@
    "url": "https://www.dw.com/es/alemania-lleva-carne-de-mapache-a-la-mesa-para-combatir-su-propagación/a-79833593?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T18:15:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "f32e476ebf47",
-   "source": "France 24",
-   "title": "Trump entra en la lista de depredadores de la prensa de RSF por \"reducir el periodismo a propaganda\"",
-   "description": "Reporteros Sin Fronteras incluye en la lista anual de depredadores de la prensa al mandatario estadounidense, Donald Trump, \"como resultado de su espantoso historial de ataques\" contra los periodistas. El veto a algunos medios de comunicación en la Casa Blanca, \"acciones legales ",
-   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261102-trump-entra-en-la-lista-de-depredadores-de-la-prensa-de-rsf-por-reducir-el-periodismo-a-propaganda",
-   "date": "2026-11-02T18:02:44+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1232,26 +1262,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9a17d197542c",
-   "source": "Deutsche Welle",
-   "title": "La paz como bandera: así ganó Iliana Yotova la elección en Bulgaria",
-   "description": "Iliana Yotova ganó las elecciones presidenciales en Bulgaria con la promesa de ser una \"presidenta de la paz\". Pero la campaña dejó en evidencia la profunda división de los búlgaros frente a la guerra en Ucrania.",
-   "url": "https://www.dw.com/es/la-paz-como-bandera-así-ganó-iliana-yotova-la-elección-en-bulgaria/a-79832285?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-02T16:51:00+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "5ffe988e3b16",
-   "source": "Deutsche Welle",
-   "title": "Una mexicana hace historia como la primera mujer laica al frente de la comunicación del Vaticano",
-   "description": "María Montserrat Alvarado, de 39 años, asume la dirección del dicasterio que supervisa los medios de comunicación de la Santa Sede.",
-   "url": "https://www.dw.com/es/una-mexicana-hace-historia-como-la-primera-mujer-laica-al-frente-de-la-comunicación-del-vaticano/a-79832728?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-02T16:48:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "d51dadd0d560",
    "source": "The Guardian",
    "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
@@ -1279,26 +1289,6 @@
    "url": "https://www.bbc.com/mundo/articles/cw1l31v5rnrpo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T15:39:51+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "65d4e3a38364",
-   "source": "Deutsche Welle",
-   "title": "Tu nombre puede marcar tu vida: del estigma al orgullo",
-   "description": "¿Qué sucede cuando tu nombre provoca risas o burlas? Las investigaciones apuntan a consecuencias negativas en la vida, pero algunas personas aprenden a aceptar sus nombres desafortunados.",
-   "url": "https://www.dw.com/es/tu-nombre-puede-marcar-tu-vida-del-estigma-al-orgullo/a-79824792?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-02T14:50:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "6291be415b00",
-   "source": "Deutsche Welle",
-   "title": "Jefe de banda en Haití pediría mediación de la ONU para un diálogo de paz",
-   "description": "Circula en medios haitianos una carta supuestamente dirigida al secretario general de la ONU por alias Lanmò San Jou, líder de la banda 400 Mawozo, mientras soldados salvadoreños buscan a colegas desaparecidos.",
-   "url": "https://www.dw.com/es/jefe-de-banda-en-haití-pediría-mediación-de-la-onu-para-un-diálogo-de-paz/a-79828193?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-02T14:45:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1450,6 +1440,16 @@
    "date": "2026-11-02T00:00:00+00:00",
    "category": "Comercio internacional",
    "type": "Oficial"
+  },
+  {
+   "id": "936c64d77636",
+   "source": "Radio Cooperativa",
+   "title": "Resumen: Colo Colo brilló y quedó a un triunfo del título tras la caída de la U en el clásico ante la UC",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este fin de semana se disputó la fecha 26 de la Liga de Primera, que quedó marcada por una aplastante exhibición de Colo Colo , que quedó a un triunfo del título del torneo gracias al triunfo de Universidad Católica sobre U",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-brillo-y-quedo-a-un-triunfo-del-titulo-tras-la-caida/2026-11-01/201023.html",
+   "date": "2026-11-01T23:10:23+00:00",
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "9a3776dd428f",
@@ -2432,16 +2432,6 @@
    "type": "Oficial"
   },
   {
-   "id": "2d4af2a0aefc",
-   "source": "Organización Mundial de la Salud",
-   "title": "Digital payments to health workers boost retention, motivation, and impact",
-   "description": "An immunization worker gets set up to receive her wages on her mobile wallet in the Democratic Republic of the Congo. Credit: WHO Campaigns in Africa to stop polio and other diseases have a more stable, better-motivated workforce thanks to WHO’s collaboration with countries and p",
-   "url": "https://www.who.int/news/item/09-02-2024-digital-payments-to-health-workers-boost-retention--motivation--and-impact",
-   "date": "2024-02-09T11:34:25+00:00",
-   "category": "África",
-   "type": "Oficial"
-  },
-  {
    "id": "9745c15368a2",
    "source": "Organización Mundial de la Salud",
    "title": "COVID-19 disrupting mental health services in most countries, WHO survey",
@@ -2658,6 +2648,16 @@
    "description": "Seventy-three countries have warned that they are at risk of stock-outs of antiretroviral (ARV) medicines as a result of the COVID-19 pandemic, according to a new WHO survey conducted ahead of the International AIDS Society’s biannual conference. Twenty-four countries reported ha",
    "url": "https://www.who.int/news/item/06-07-2020-who-access-to-hiv-medicines-severely-impacted-by-covid-19-as-aids-response-stalls",
    "date": "2020-07-06T14:00:26+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "826334fa4250",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO discontinues hydroxychloroquine and lopinavir/ritonavir treatment arms for COVID-19",
+   "description": "WHO today accepted the recommendation from the Solidarity Trial’s International Steering Committee to discontinue the trial’s hydroxychloroquine and lopinavir/ritonavir arms. The Solidarity Trial was established by WHO to find an effective COVID-19 treatment for hospitalized pati",
+   "url": "https://www.who.int/news/item/04-07-2020-who-discontinues-hydroxychloroquine-and-lopinavir-ritonavir-treatment-arms-for-covid-19",
+   "date": "2020-07-04T15:56:35+00:00",
    "category": "",
    "type": "Oficial"
   },
