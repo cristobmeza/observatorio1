@@ -1,0 +1,71 @@
+{
+ "updated": "2026-11-03T00:31:10.690567+00:00",
+ "feeds": {
+  "CIPER Chile": {
+   "ok": true,
+   "n": 16,
+   "url": "https://www.ciperchile.cl/feed/"
+  },
+  "Radio Bío-Bío": {
+   "ok": true,
+   "n": 20,
+   "url": "https://feeds.feedburner.com/radiobiobio/NNeJ"
+  },
+  "Radio Cooperativa": {
+   "ok": false,
+   "err": "no se encontró RSS en la portada"
+  },
+  "El Mostrador": {
+   "ok": false,
+   "err": "no se encontró RSS en la portada"
+  },
+  "Ex-Ante": {
+   "ok": false,
+   "err": "no se encontró RSS en la portada"
+  },
+  "Emol": {
+   "ok": false,
+   "err": "no se encontró RSS en la portada"
+  },
+  "Río en Línea": {
+   "ok": false,
+   "err": "no se encontró RSS en la portada"
+  },
+  "Reuters": {
+   "ok": false,
+   "err": "HTTP Error 401: HTTP Forbidden"
+  },
+  "Associated Press": {
+   "ok": false,
+   "err": "HTTP Error 403: Forbidden"
+  },
+  "BBC Mundo": {
+   "ok": true,
+   "n": 34,
+   "url": "https://feeds.bbci.co.uk/mundo/rss.xml"
+  },
+  "Deutsche Welle": {
+   "ok": true,
+   "n": 19,
+   "url": "https://rss.dw.com/xml/rss-sp-all"
+  },
+  "France 24": {
+   "ok": false,
+   "err": "HTTP Error 403: Forbidden"
+  },
+  "Al Jazeera": {
+   "ok": true,
+   "n": 25,
+   "url": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  "The Guardian": {
+   "ok": true,
+   "n": 40,
+   "url": "https://www.theguardian.com/world/rss"
+  },
+  "Agencia EFE": {
+   "ok": false,
+   "err": "no se encontró RSS en la portada"
+  }
+ }
+}
