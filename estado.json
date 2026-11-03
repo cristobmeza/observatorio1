@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T01:17:48.714678+00:00",
+ "updated": "2026-11-03T01:54:22.077594+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -69,7 +69,7 @@
   },
   "Agencia EFE": {
    "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "err": "HTTP Error 500: Internal Server Error"
   }
  }
 }

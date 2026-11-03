@@ -1,11 +1,56 @@
 {
- "updated": "2026-11-03T01:17:48.714678+00:00",
+ "updated": "2026-11-03T01:54:22.077594+00:00",
  "items": [
+  {
+   "id": "08d1700e1e16",
+   "source": "BBC Mundo",
+   "title": "\"Era como si cayera un misil\": 9 muertos al estrellarse un avión privado en un vecindario de Florida",
+   "description": "La aeronave privada se estrelló en el condado de Palm Beach, Florida. Imágenes captadas por los residentes mostraban al jet cayendo a gran velocidad antes de estrellarse.",
+   "url": "https://www.bbc.com/mundo/articles/c61m4yyjyrrxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T01:52:36+00:00",
+   "category": "Conflictos armados y seguridad internacional"
+  },
+  {
+   "id": "ff46ea56ba93",
+   "source": "The Guardian",
+   "title": "RBA interest rates live: Reserve Bank of Australia meeting today before cash rate decision and announcement – latest news",
+   "description": "Reserve Bank is expected to raise interest rates to an 18-year high on Tuesday, the fifth hike this year Get our breaking news email , free app or daily news podcast Asked why Labor can’t guarantee it won’t find net savings in the mid-year budget update, Chalmers told RN the gove",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
+   "date": "2026-11-03T01:39:59+00:00",
+   "category": "Relaciones internacionales y geopolítica"
+  },
+  {
+   "id": "de11e95bdb38",
+   "source": "Al Jazeera",
+   "title": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+   "description": "At least 26 people were killed in Russian strikes on a school being used as a humanitarian aid centre.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
+   "date": "2026-11-03T01:17:57+00:00",
+   "category": "Oriente Medio"
+  },
+  {
+   "id": "7c5d0ae96117",
+   "source": "Radio Cooperativa",
+   "title": "D. Concepción cortó su mala racha y trepó a costa de un Palestino que volvió a enredarse",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Luego de cuatro partidos, Deportes Concepción volvió a celebrar por la Liga de Primera con un 1-0 sobre Palestino en la fecha 26, reactivando el sueño de clasificar a Copa Sudamericana para la próxima temporada. Penquistas ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/d-concepcion-corto-su-mala-racha-y-trepo-a-costa-de-un-palestino-que/2026-11-02/221613.html",
+   "date": "2026-11-03T01:16:13+00:00",
+   "category": "Partidos políticos"
+  },
+  {
+   "id": "48d1730715a2",
+   "source": "The Guardian",
+   "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
+   "description": "Ukrainian president Zelenskyy says attack on aid hub was ‘vile’ and shows Russia does not want to de-escalate Russia on Monday bombed an aid distribution centre and neighbouring shelter in southern Ukraine, killing at least 26 ​people, Ukrainian president Volodymyr Zelenskyy and ",
+   "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
+   "date": "2026-11-03T01:13:52+00:00",
+   "category": "Relaciones internacionales y geopolítica"
+  },
   {
    "id": "71d42ff961cf",
    "source": "The Guardian",
    "title": "Man and boy arrested after One Nation volunteer allegedly attacked with baseball bat in Victoria",
-   "description": "Police confirm arrest of 37-year-old and 14-year-old boy over alleged assault outside Torquay home on Sunday night A man and boy have been arrested after a One Nation volunteer was allegedly attacked with a baseball bat outside his home on Victoria’s Surf Coast. Police on Tuesday",
+   "description": "Police confirm arrest of 37-year-old and 14-year-old boy over alleged assault outside Torquay home on Sunday night Get our breaking news email , free app or daily news podcast A man and boy have been arrested after a One Nation volunteer was allegedly attacked with a baseball bat",
    "url": "https://www.theguardian.com/australia-news/2026/nov/03/one-nation-volunteer-alleged-attack-assault-torquay-victoria-ntwnfb",
    "date": "2026-11-03T01:09:34+00:00",
    "category": "Relaciones internacionales y geopolítica"
@@ -396,15 +441,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/02/andy-burnham-ask-countries-affected-uk-role-slavery-shape-formal-apology",
    "date": "2026-11-02T22:30:30+00:00",
    "category": "Relaciones internacionales y geopolítica"
-  },
-  {
-   "id": "c4791f7fef91",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] Le erró al balón: El \"regalo\" del arquero de Puerto Montt que permitió gol de Colo Colo",
-   "description": "Colo Colo aumentó su ventaja ante Deportes Puerto Montt en los cuartos de final de Copa Chile , gracias a un grosero error del arquero Gonzalo Collao en la reanudación del partido que había quedado interrumpido por lluvia hace un par de semanas. El golero recibió un pase y se dis",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/video-le-erro-al-balon-el-regalo-del-arquero-de-puerto-montt-que/2026-11-02/192950.html",
-   "date": "2026-11-02T22:29:50+00:00",
-   "category": "Partidos políticos"
   },
   {
    "id": "ebcf029cf637",
@@ -940,8 +976,8 @@
   {
    "id": "53d11bc58ae0",
    "source": "Al Jazeera",
-   "title": "Russian bombing of Ukrainian aid centre kills 26 people",
-   "description": "Ukraine's president calls attack further proof that Russia does not want any ‌kind of de-escalation or real justice.",
+   "title": "Russian strike on Ukraine aid hub kills 26 as US announces new peace talks",
+   "description": "Zelenskyy condemns 'vile' attack, saying Russian forces hit a school used as an aid centre in southern Zaporizhzhia.",
    "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
    "date": "2026-11-02T18:23:02+00:00",
    "category": "Oriente Medio"
@@ -981,15 +1017,6 @@
    "url": "https://www.dw.com/es/alemania-lleva-carne-de-mapache-a-la-mesa-para-combatir-su-propagación/a-79833593?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T18:15:00+00:00",
    "category": "Europa"
-  },
-  {
-   "id": "d063d28c8748",
-   "source": "Al Jazeera",
-   "title": "Judge dismisses charges against FBI agents involved in Hunter Biden case",
-   "description": "A federal judge tossed charges accusing two former FBI officials of lying to Congress about Hunter Biden investigation.",
-   "url": "https://www.aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case?traffic_source=rss",
-   "date": "2026-11-02T18:10:26+00:00",
-   "category": "Oriente Medio"
   },
   {
    "id": "f32e476ebf47",
@@ -1181,15 +1208,6 @@
    "category": "Relaciones internacionales y geopolítica"
   },
   {
-   "id": "dedc5551c699",
-   "source": "The Guardian",
-   "title": "NSW council refuses to show world-renowned Gaza artwork over ‘unacceptable’ safety risk",
-   "description": "Exclusive: Shoalhaven council says Wall of Tears installation by Phil Buehler posed risk to staff, visitors and tenants Get our breaking news email , free app or daily news podcast A New South Wales local council has refused to show a world-renowned artwork about children killed ",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/03/shoalhaven-council-refuses-to-show-wall-of-tears-gaza-artwork-safety-risk-ntwnfb",
-   "date": "2026-11-02T14:00:44+00:00",
-   "category": "Oriente Medio"
-  },
-  {
    "id": "f8ad3e2b332d",
    "source": "BBC Mundo",
    "title": "Cuál es el futuro del bolsonarismo tras la salida de Flávio de Brasil y cómo será la oposición a Lula",
@@ -1208,15 +1226,6 @@
    "category": ""
   },
   {
-   "id": "85707b84c2fa",
-   "source": "The Guardian",
-   "title": "Ryanair faces clash with unions as it mulls pay freezes amid soaring fuel costs",
-   "description": "Airline also weighs up reducing crew on flights and increasing use of AI as part of cost-cutting measures Business live – latest updates Ryanair has said it is considering implementing pay freezes, setting the scene for a confrontation with unions as the airline tries to offset s",
-   "url": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai",
-   "date": "2026-11-02T12:57:53+00:00",
-   "category": "Relaciones internacionales y geopolítica"
-  },
-  {
    "id": "f6a8c4af6f9f",
    "source": "BBC Mundo",
    "title": "Las imágenes del desastre causado por el Súper Niño en Galápagos que obligó a cerrar atracciones turísticas y enviar ayuda de emergencia",
@@ -1224,15 +1233,6 @@
    "url": "https://www.bbc.com/mundo/articles/cr3wv0pgg31vo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T12:35:05+00:00",
    "category": "Gobierno y administración pública"
-  },
-  {
-   "id": "08d1700e1e16",
-   "source": "BBC Mundo",
-   "title": "\"Era como si cayera un misil\": 9 muertos al estrellarse un avión privado en un vecindario de Florida",
-   "description": "La aeronave privada se estrelló en el condado de Palm Beach, Florida. Imágenes captadas por los residentes mostraban al jet cayendo a gran velocidad antes de estrellarse.",
-   "url": "https://www.bbc.com/mundo/articles/c61m4yyjyrrxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-02T12:19:19+00:00",
-   "category": "Conflictos armados y seguridad internacional"
   },
   {
    "id": "ceed82e26ff0",
@@ -1523,13 +1523,13 @@
    "category": "Jurisprudencia"
   },
   {
-   "id": "4b022721b001",
+   "id": "aa1965f5947d",
    "source": "Radio Cooperativa",
-   "title": "Deportes Concepción vence a Palestino en el cierre de la fecha 26",
+   "title": "Los resultados de la fecha 26 de la Liga de Primera",
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con el clásico universtiario entre la U y la UC como plato fuerte, además de una intensa pelea en la tabla, la Liga de Primera 2026 desarrolla este fin de semana su fecha 26 . Lunes 2 de noviembre Deportes Limache 2-0 Audax",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-concepcion-vence-a-palestino-en-el-cierre-de-la-fecha-26/2026-10-30/162011.html",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-26-de-la-liga-de-primera/2026-10-30/162011.html",
    "date": "2026-10-30T19:20:11+00:00",
-   "category": "Oriente Medio"
+   "category": ""
   },
   {
    "id": "d8b7035cd8bc",
