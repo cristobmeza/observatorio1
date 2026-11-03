@@ -1,6 +1,226 @@
 {
- "updated": "2026-11-03T11:44:48.160918+00:00",
+ "updated": "2026-11-03T12:52:24.916358+00:00",
  "items": [
+  {
+   "id": "14f987104304",
+   "source": "The Guardian",
+   "title": "Four separate flights from London, Copenhagen, Manchester and Israel affected by bomb threats – Europe live",
+   "description": "All the flights landed safely with the situations now being monitored by local security forces; Warsaw Modlin airport has resumed operations Back to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the airport where the Lon",
+   "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+   "date": "2026-11-03T12:44:22+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a7de75c5c74a",
+   "source": "BBC Mundo",
+   "title": "Por qué (ahora sí) los demócratas pueden lograr en Texas un triunfo trascendental tras décadas de derrotas",
+   "description": "La pelea por el Senado en Texas va mucho más allá del control del Congreso. Te explicamos los motivos.",
+   "url": "https://www.bbc.com/mundo/articles/cr2ke7qdk71eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T12:40:18+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "fe8cd8f0d262",
+   "source": "Al Jazeera",
+   "title": "Cyberattack disrupts supermarkets across Europe",
+   "description": "Cyberattack disrupts supermarkets across Europe",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/cyberattack-disrupts-supermarkets-across-europe?traffic_source=rss",
+   "date": "2026-11-03T12:38:21+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "8e865eebba3f",
+   "source": "The Guardian",
+   "title": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
+   "description": "Up to 25% of 16,000 workforce could go as telecoms group says it will increase use of AI in areas including customer service Business live – latest updates Virgin Media O2 is to cut thousands of jobs in an £800m cost-cutting drive as the telecommunications company aims to tackle ",
+   "url": "https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai",
+   "date": "2026-11-03T12:34:21+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "47ac0b816240",
+   "source": "Al Jazeera",
+   "title": "Two police officers protecting polio workers in Pakistan shot dead",
+   "description": "The attackers, travelling on a motorcycle, opened fire on a police car in Khyber Pakhtunkhwa province.",
+   "url": "https://www.aljazeera.com/news/2026/11/3/two-police-officers-protecting-polio-workers-in-pakistan-shot-dead?traffic_source=rss",
+   "date": "2026-11-03T12:33:03+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "57d884b28ac6",
+   "source": "Deutsche Welle",
+   "title": "Tasa de personas conectadas a internet en el mundo supera por primera vez el 75 %",
+   "description": "Unos 6.300 millones de personas, el 76 % de la población mundial, utilizan internet en 2026, indican las estadísticas anuales de la Unión Internacional de Telecomunicaciones (UIT).",
+   "url": "https://www.dw.com/es/tasa-de-personas-conectadas-a-internet-en-el-mundo-supera-por-primera-vez-el-75/a-79840551?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-03T12:28:00+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "4a72666eb4b5",
+   "source": "Radio Cooperativa",
+   "title": "Maximiliano Romero tras brillar en Copa Chile: \"Encontré un lugar donde soy feliz\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Una positiva jornada vivió el delantero de Colo Colo Maximiliano Romero, quien se alzó como la gran figura en la victoria por 3-0 sobre Deportes Puerto Montt en el Estadio Monumental, sellando la clasificación a las semifin",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/maximiliano-romero-tras-brillar-en-copa-chile-encontre-un-lugar-donde/2026-11-03/092728.html",
+   "date": "2026-11-03T12:27:28+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "48d1730715a2",
+   "source": "The Guardian",
+   "title": "Russia bombs humanitarian hub in Ukraine, killing at least 31 people",
+   "description": "Other overnight strikes targeted power plants across Ukraine, damaged hospitals and wounded scores of people Russia has bombed a humanitarian hub in southern Ukraine, killing at least 31 people and leaving dozens missing, as part of a wave of strikes across the country. Other ove",
+   "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
+   "date": "2026-11-03T12:25:07+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "bdf7a866d2ca",
+   "source": "Radio Cooperativa",
+   "title": "Rusia no cree versión de que EE.UU. usará un arma nuclear en Irán",
+   "description": "El ministro de Relaciones Exteriores de Rusia, Serguéi Lavrov, afirmó que no hay motivos para hablar de un posible ataque nuclear de Estados Unidos contra Irán , tal y como adelantó el periodista estadounidense Tucker Carlson, expartidario de Trump, y que respondería a una petici",
+   "url": "https://www.cooperativa.cl/noticias/mundo/iran/rusia-no-cree-version-de-que-ee-uu-usara-un-arma-nuclear-en-iran/2026-11-03/092251.html",
+   "date": "2026-11-03T12:22:51+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "5a8ea436ff7e",
+   "source": "Radio Cooperativa",
+   "title": "Boy George se reunió con el presidente de Israel tras sacar una canción en apoyo al país",
+   "description": "El cantante británico Boy George se reunió con el presidente de Israel , Isaac Herzog, en el marco de un viaje tras lanzar la canción \"We will dance again\" en apoyo al país tras los sucesos del 7 de octubre de 2023 en el que tropas de Hamas atacaron un festival de música israelí.",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/pop-en-ingles/boy-george-se-reunio-con-el-presidente-de-israel-tras-sacar-una-cancion/2026-11-03/091929.html",
+   "date": "2026-11-03T12:19:29+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b2537cb10dc3",
+   "source": "Radio Cooperativa",
+   "title": "Diputada Ossandón: Se hace muy difícil la continuidad del ministro Rabat",
+   "description": "La vicepresidenta de la Cámara de Diputados, Ximena Ossandón (RN), dijo en Cooperativa que \"se hace muy difícil\" la continuidad del ministro de Justicia, Fernando Rabat, en medio de la polémica generada por el decreto que permitió la rebaja de condenas de abusadores y violadores ",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/diputada-ossandon-se-hace-muy-dificil-la-continuidad-del-ministro-rabat/2026-11-03/091617.html",
+   "date": "2026-11-03T12:16:17+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "cd4b42448f48",
+   "source": "Al Jazeera",
+   "title": "Al Jazeera journalist recounts arrest during Israeli raid on his home",
+   "description": "Released Al Jazeera Arabic correspondent Montaser Nassar describes how Israeli forces raided his home and arrested him.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/al-jazeera-journalist-recounts-arrest-during-israeli-raid-on-his-home?traffic_source=rss",
+   "date": "2026-11-03T12:14:19+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e7087ef4900d",
+   "source": "Radio Cooperativa",
+   "title": "Trump: Tenemos el control total de Venezuela y el 50% del petróleo mundial",
+   "description": "El presidente de Estados Unidos, Donald Trump, afirmó este lunes que su país tiene \"control total\" sobre Venezuela y aseguró haber conseguido \"el 50 % del petróleo mundial\", durante dos entrevistas con Fox News, a pocas horas de la apertura de los colegios electorales para las el",
+   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/donald-trump/trump-tenemos-el-control-total-de-venezuela-y-el-50-del-petroleo-mundial/2026-11-03/091401.html",
+   "date": "2026-11-03T12:14:01+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "d0c035f8784f",
+   "source": "CIPER Chile",
+   "title": "Isabel Margarita, la infatigable",
+   "description": "La entrada Isabel Margarita, la infatigable se publicó primero en CIPER Chile .",
+   "url": "https://www.ciperchile.cl/2026/11/03/isabel-margarita-la-infatigable/?utm_source=rss&utm_medium=rss&utm_campaign=isabel-margarita-la-infatigable",
+   "date": "2026-11-03T12:11:00+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "530e3a433fa4",
+   "source": "Al Jazeera",
+   "title": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply",
+   "description": "Renewed strikes on Black Sea shipping imperil grain exports, drive up food prices and deepen global food insecurity.",
+   "url": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss",
+   "date": "2026-11-03T12:10:47+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "928c5e6803d6",
+   "source": "Radio Cooperativa",
+   "title": "Harry Kane reconoció que está a detalles de renovar con Bayern Munich",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La renovación del delantero inglés Harry Kane con Bayern Múnich está muy cerca, según expresó este lunes el propio delantero y Balón de Oro, antes de su partido de la Liga de Campeones de este martes ante Atlético de Madrid",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-alemana/harry-kane-reconocio-que-esta-a-detalles-de-renovar-con-bayern-munich/2026-11-03/090837.html",
+   "date": "2026-11-03T12:08:37+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "ad1b23c7421b",
+   "source": "BBC Mundo",
+   "title": "La madre en Chile a la que obligaron a esperar que su bebé muriera en su vientre y ahora un fallo histórico le otorga una indemnización millonaria",
+   "description": "Luego de que su hija fuera diagnosticada a las 11 semanas de gestación de un grave cuadro médico, Catalina Pizarro intentó por distintas vías acceder al aborto por inviabilidad fetal, una de las causales legales en Chile, pero no lo logró. Un tribunal dictaminó que su médico obst",
+   "url": "https://www.bbc.com/mundo/articles/cm3el01qqeqxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T11:58:03+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "870b0b38e860",
+   "source": "The Guardian",
+   "title": "UK’s most polluting power plant could power country’s largest AI datacentre",
+   "description": "Drax’s FTSE 250 owner strikes £20bn deal to build infrastructure in what it says is site’s ‘next chapter’ Business live – latest updates Britain’s most polluting power plant could soon power the country’s largest datacentre under a £20bn deal to build AI infrastructure on the sit",
+   "url": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
+   "date": "2026-11-03T11:55:28+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "fc5cef0d5763",
+   "source": "Radio Cooperativa",
+   "title": "Famosos fueron parte del circo en nuevo capítulo de \"Vértigo Extremo\"",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/magazine/television/canal-13/famosos-fueron-parte-del-circo-en-nuevo-capitulo-de-vertigo-extremo/2026-11-03/085230.html",
+   "date": "2026-11-03T11:52:30+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "d3289de0a4ab",
+   "source": "Deutsche Welle",
+   "title": "Abren colegios electorales en la costa este de EE. UU. en elecciones intermedias cruciales",
+   "description": "Varias encuestas pronostican que los demócratas tomarán el control de la Cámara de Representantes y tienen posibilidades de arrebatar el Senado a los republicanos.",
+   "url": "https://www.dw.com/es/abren-colegios-electorales-en-la-costa-este-de-ee-uu-en-elecciones-intermedias-cruciales/a-79840523?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-03T11:48:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "5fa2b69be27f",
+   "source": "Radio Cooperativa",
+   "title": "Chilena Laura Fingerhuth brilló y se metió en la final de la natación en Dakar 2026",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Una destacada jornada protagonizó la nadadora del Team Chile, Laura Fingerhuth, luego de conseguir una brillante clasificación a la final de los 100 metros pecho en los Juegos Olímpicos de la Juventud Dakar 2026. La abander",
+   "url": "https://www.cooperativa.cl/noticias/deportes/polideportivo/team-chile/chilena-laura-fingerhuth-brillo-y-se-metio-en-la-final-de-la-natacion-en/2026-11-03/084725.html",
+   "date": "2026-11-03T11:47:25+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "d91658d66409",
+   "source": "The Guardian",
+   "title": "Burnham says he has not proposed return to EU freedom of movement – UK politics live",
+   "description": "The prime minister wants an ‘honest discussion’ about how immigration has changed since Brexit Q: Do you think the UK should reconsider Commonwealth membership, given other countries just keep asking us for slavery reparations? Badenoch said she did not agree with that “because m",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
+   "date": "2026-11-03T11:43:46+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "ffd208ddb0e8",
    "source": "Radio Cooperativa",
@@ -14,8 +234,8 @@
   {
    "id": "8d139d9ac231",
    "source": "Al Jazeera",
-   "title": "How India pulled 500 million people out of poverty, as inequality deepens",
-   "description": "India's extreme poverty has declined from 27.1 percent to 2.6 percent between 2011 and 2023, according to the World Bank.",
+   "title": "How India pulled 500 million people out of poverty as inequality deepens",
+   "description": "India's extreme poverty declined from 27.1 percent to 2.6 percent between 2011 and 2023, according to the World Bank.",
    "url": "https://www.aljazeera.com/news/2026/11/3/how-india-pulled-500-million-people-out-of-poverty-as-inequality-deepens?traffic_source=rss",
    "date": "2026-11-03T11:30:34+00:00",
    "category": "China y Asia",
@@ -24,7 +244,7 @@
   {
    "id": "a53c36fc4a06",
    "source": "BBC Mundo",
-   "title": "Qué es el \"zeptoverso\", el mundo más pequeño jamás detectado en la naturaleza y por qué es clave para entender el universo",
+   "title": "Qué es el \"zeptoverso\", el mundo más pequeño jamás detectado en la naturaleza, y por qué es clave para entender el universo",
    "description": "Investigadores de la Universidad de Cambridge detectaron señales procedentes de la escala más pequeña de la naturaleza jamás explorada.",
    "url": "https://www.bbc.com/mundo/articles/c60rldxq8k1ro?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-03T11:29:22+00:00",
@@ -52,16 +272,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d91658d66409",
-   "source": "The Guardian",
-   "title": "Burnham says he has not proposed return to EU freedom of movement – UK politics live",
-   "description": "The prime minister wants an ‘honest discussion’ about how immigration has changed since Brexit Q: Do you think the UK should reconsider Commonwealth membership, given other countries just keep asking us for slavery reparations? Badenoch said she did not agree with that “because m",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
-   "date": "2026-11-03T11:17:48+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "039bcc985bd9",
    "source": "Radio Cooperativa",
    "title": "Kast abordó inversiones y seguridad con Felipe VI en Madrid",
@@ -82,19 +292,9 @@
    "type": "Prensa"
   },
   {
-   "id": "14f987104304",
-   "source": "The Guardian",
-   "title": "Warsaw Modlin airport resumes operations after bomb threat reported on London flight – Europe live",
-   "description": "Part of the airport where the flight from Heathrow was parked remain closed Back to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the airport where the London flight was parked remain closed and is being checked by secur",
-   "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
-   "date": "2026-11-03T11:07:31+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "0f448c8ae6f6",
    "source": "BBC Mundo",
-   "title": "Muere Jesús de Miguel, futbolista del Tenerife español, tras un choque en el campo de juego con un arquero rival",
+   "title": "Muere Jesús de Miguel, futbolista del Tenerife español, tras un choque en el campo de juego con el arquero rival",
    "description": "El delantero del Tenerife, Jesús de Miguel, falleció, este martes, tras sufrir una lesión grave durante un partido de segunda división española, el lunes.",
    "url": "https://www.bbc.com/mundo/articles/c64g1vx4vv3go?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-03T11:06:37+00:00",
@@ -132,11 +332,11 @@
    "type": "Prensa"
   },
   {
-   "id": "4e6e5ebf6f93",
+   "id": "dd3e4d18aa53",
    "source": "The Guardian",
    "title": "‘I am deeply sorry’: Craig Silvey pens 9,000-word apology for child exploitation material offences",
    "description": "The children’s author claims he experienced trauma in childhood as he begins seven-month sentence for possessing depraved material Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast The disgraced best-selling author Craig S",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/03/i-am-deeply-sorry-craig-silvey-pens-9000-word-apology-child-porn-offences-ntwnfb",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/03/i-am-deeply-sorry-craig-silvey-pens-9000-word-apology-for-child-exploitation-material-offences-ntwnfb",
    "date": "2026-11-03T10:47:41+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
@@ -179,26 +379,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-conducts-series-of-defensive-strikes-against-iran?traffic_source=rss",
    "date": "2026-11-03T10:39:36+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "48d1730715a2",
-   "source": "The Guardian",
-   "title": "Russia bombs aid centre and shelter in Ukraine, killing at least 29 people",
-   "description": "Volodymyr Zelenskyy says attack in Komyshuvakha was ‘vile’ and shows Putin does not want to de-escalate Russia has bombed an aid distribution centre and neighbouring shelter in southern Ukraine, killing at least 29 ​people, with 48 still missing, as a wave of overnight strikes ta",
-   "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
-   "date": "2026-11-03T10:37:57+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "2c1f8f02d42b",
-   "source": "Radio Cooperativa",
-   "title": "Tragedia en el fútbol español: Falleció jugador que colisionó con arquero rival en pleno partido",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El delantero de CD Tenerife J esús de Miguel, de 30 años, falleció este martes en el Hospital Universitario de Nuestra Señora de la Candelaria , donde estaba ingresado desde ayer lunes en cuidados intensivos a consecuencia ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-espanola/tragedia-en-el-futbol-espanol-fallecio-jugador-que-colisiono-con/2026-11-03/073110.html",
-   "date": "2026-11-03T10:31:10+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -329,26 +509,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast?traffic_source=rss",
    "date": "2026-11-03T09:33:18+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "8e865eebba3f",
-   "source": "The Guardian",
-   "title": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
-   "description": "Up to 25% of 16,000 workforce could go as telecoms group says it will increase use of AI in areas including customer service Business live – latest updates Virgin Media O2 is to cut thousands of jobs in an £800m cost-cutting drive as the telecommunications company aims to tackle ",
-   "url": "https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai",
-   "date": "2026-11-03T09:29:11+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "cf93dacecc84",
-   "source": "The Guardian",
-   "title": "‘Mogging’ crowned Collins English dictionary word of the year",
-   "description": "Bodybuilding slang referring to making someone else look inferior beat entries concerning AI and climate crisis Mogging – meaning to outperform or outshine someone or something – has been named Collins’s word of the year 2026. Announcing the winner in an article for Collins , the",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/03/mogging-crowned-collins-word-of-the-year",
-   "date": "2026-11-03T09:25:09+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -502,46 +662,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b90654383370",
-   "source": "Al Jazeera",
-   "title": "Two helicopters crash near Everest base camp, killing Indian tourist",
-   "description": "Two helicopters have collided while preparing to land in Nepal’s Mount Everest region, killing an Indian tourist.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/two-helicopters-crash-near-everest-base-camp-killing-indian-tourist?traffic_source=rss",
-   "date": "2026-11-03T07:34:36+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "2871db85899c",
-   "source": "Al Jazeera",
-   "title": "When will we know the US midterm election results?",
-   "description": "The first results are expected on Tuesday as polls begin to close at 23:00 GMT. But final results might take days.",
-   "url": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
-   "date": "2026-11-03T07:27:21+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "f7546c3da588",
-   "source": "Al Jazeera",
-   "title": "A response to Andy Burnham: We need an apology and reparations",
-   "description": "It is good news the British PM is open to calls for an apology. But debt restructuring instead of reparations won’t do.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/3/a-response-to-andy-burnham-we-need-an-apology-and-reparations?traffic_source=rss",
-   "date": "2026-11-03T07:07:54+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "373e46379f35",
-   "source": "Al Jazeera",
-   "title": "One dead after two helicopters collide near Mount Everest in Nepal",
-   "description": "Authorities have confirmed that a 47-year-old Indian national was killed and two people injured.",
-   "url": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
-   "date": "2026-11-03T07:06:07+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "39e5ec778169",
    "source": "The Guardian",
    "title": "Australia’s social media ban ‘ill-thought-out’, Reddit argues in high court challenge",
@@ -672,26 +792,6 @@
    "type": "Prensa"
   },
   {
-   "id": "500ca8ac0ffd",
-   "source": "Radio Cooperativa",
-   "title": "Adolescente mató a su hermanastro tras una discusión en La Serena",
-   "description": "Un adolescente de 16 años quedó con internación provisoria tras ser formalizado por el Juzgado de Garantía de La Serena por el homicidio de su hermanastro de 19 años , crimen perpetrado tras una discusión familiar en el sector de Las Compañías. El ataque se registró durante la no",
-   "url": "https://www.cooperativa.cl/noticias/pais/region-de-coquimbo/adolescente-mato-a-su-hermanastro-tras-una-discusion-en-la-serena/2026-11-03/003335.html",
-   "date": "2026-11-03T03:33:35+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a085215ac96a",
-   "source": "Radio Cooperativa",
-   "title": "PSG y Aston Villa quieren seguir su ruta perfecta en Champions ante Villarreal y Barcelona",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este martes 3 de noviembre arranca la cuarta fecha de la Champions League, con París Saint-Germain y Aston Villa en busca de sostener su plena conquista de triunfos en el máximo torneo europeo de clubes. Gracias a una difer",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/psg-y-aston-villa-quieren-seguir-su-ruta-perfecta-en-champions-ante/2026-11-03/003210.html",
-   "date": "2026-11-03T03:32:10+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "9e9b559caaee",
    "source": "BBC Mundo",
    "title": "Qué se sabe de la dramática caída de un avión privado en Florida que dejó 9 muertos",
@@ -802,16 +902,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1e62981c8f32",
-   "source": "Radio Cooperativa",
-   "title": "Argentinos Juniors de Brayan Cortés ganó y aseguró clasificación a la Libertadores 2027",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-argentina/argentinos-juniors-de-brayan-cortes-gano-y-aseguro-clasificacion-a-la/2026-11-02/235829.html",
-   "date": "2026-11-03T02:58:29+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "21fb74a318d9",
    "source": "Radio Bío-Bío",
    "title": "Marcela Vacarezza y el quiebre de su amistad con Fran García-Huidobro: \"Ha dicho cosas mías\"",
@@ -872,16 +962,6 @@
    "type": "Prensa"
   },
   {
-   "id": "30928262028c",
-   "source": "Radio Cooperativa",
-   "title": "Team Chile de vóleibol playa se instaló en cuartos de los Juegos Olímpicos de la Juventud",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El representativo chileno de vóleibol playa compuesto por Gael Arias y Francisco Farías clasificó a los cuartos de final en los Juegos Olímpicos de la Juventud Dakar 2026 , tras derrotar a los anfitriones senegaleses Mohame",
-   "url": "https://www.cooperativa.cl/noticias/deportes/olimpismo/juegos-de-la-juventud/team-chile-de-voleibol-playa-se-instalo-en-cuartos-de-los-juegos/2026-11-02/230216.html",
-   "date": "2026-11-03T02:02:16+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "83a1465829ed",
    "source": "Radio Bío-Bío",
    "title": "EEUU ataca una isla de Irán, según el Wall Street Journal",
@@ -938,16 +1018,6 @@
    "description": "Julio César Rodríguez habló sobre la reciente rutina de Stefan Kramer en Vértigo el jueves pasado, cuando se presentó en el programa personificándolo. Entre risas, el verdadero JC le mandó un recado al comediante. En su podcast Seré weón? de este lunes, dijo que “creo que la imit",
    "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/02/antes-me-imitaba-mejor-julio-cesar-rodriguez-critica-parodia-de-stefan-kramer-en-vertigo.shtml",
    "date": "2026-11-03T01:33:14+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "918ca40af16a",
-   "source": "Radio Cooperativa",
-   "title": "Las llaves de las semifinales de la Copa Chile 2026",
-   "description": "Este lunes se completó una nueva llave de los cuartos de final de la Copa Chile 2026, dejando definida la primera semifinal del certamen. Esta instancia también incluirán duelos de ida y vuelta, en fechas aún por determinar por la gerencia de ligas y competencias de la ANFP. Revi",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/las-llaves-de-las-semifinales-de-la-copa-chile-2026/2026-11-02/222510.html",
-   "date": "2026-11-03T01:25:10+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -1012,16 +1082,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1f6f58054c1c",
-   "source": "Radio Cooperativa",
-   "title": "Atlético de Madrid recibe al poderío de Bayern Munich en la cuarta fecha de la Champions",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La cuarta jornada de la fase liga de la Champions League presentará un cruce de distintos estilos este martes 3 de noviembre, donde Atlético de Madrid medirá fuerzas ante Bayern Munich en el Estadio Metropolitano a partir d",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/atletico-de-madrid-recibe-al-poderio-de-bayern-munich-en-la-cuarta-fecha/2026-11-02/214118.html",
-   "date": "2026-11-03T00:41:18+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "9c34737fb96c",
    "source": "BBC Mundo",
    "title": "El emotivo regreso a casa de Karl Bushby, el aventurero británico que recorrió el mundo a pie tras partir de Chile hace 28 años",
@@ -1059,16 +1119,6 @@
    "url": "https://www.dw.com/es/eeuu-mediará-en-negociaciones-entre-rusia-y-ucrania-en-abu-dabi-la-próxima-semana/a-79834962?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-03T00:21:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "1c5e9543826a",
-   "source": "Deutsche Welle",
-   "title": "Trump abre la puerta a indultos para favorecer a sus aliados ante posible triunfo demócrata",
-   "description": "\"Ni siquiera me lo pensaría (...) Lo haría\", aseguró el mandatario en una entrevista al diario New York Post.",
-   "url": "https://www.dw.com/es/trump-abre-la-puerta-a-indultos-para-favorecer-a-sus-aliados-ante-posible-triunfo-demócrata/a-79834954?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-02T23:40:00+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1209,16 +1259,6 @@
    "url": "https://www.france24.com/es/video/20261102-minurso-misi%C3%B3n-de-la-onu-en-el-sahara-occidental-sin-respaldo-por-vetos-de-ee-uu-y-rusia",
    "date": "2026-11-02T21:23:34+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "b6919d3fc3a2",
-   "source": "Deutsche Welle",
-   "title": "Cuatro claves que decidirán si Irán camina hacia la guerra o la paz",
-   "description": "Las elecciones intermedias en EE. UU. podrían abrir una oportunidad para la diplomacia con Irán o desencadenar una nueva escalada militar. ¿Qué factores podrían inclinar la balanza hacia la guerra o la paz?",
-   "url": "https://www.dw.com/es/cuatro-claves-que-decidirán-si-irán-camina-hacia-la-guerra-o-la-paz/a-79833938?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-02T21:06:00+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1562,16 +1602,6 @@
    "type": "Oficial"
   },
   {
-   "id": "936c64d77636",
-   "source": "Radio Cooperativa",
-   "title": "Resumen: Colo Colo brilló y quedó a un triunfo del título tras la caída de la U en el clásico ante la UC",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este fin de semana se disputó la fecha 26 de la Liga de Primera, que quedó marcada por una aplastante exhibición de Colo Colo , que quedó a un triunfo del título del torneo gracias al triunfo de Universidad Católica sobre U",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-brillo-y-quedo-a-un-triunfo-del-titulo-tras-la-caida/2026-11-01/201023.html",
-   "date": "2026-11-01T23:10:23+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "9a3776dd428f",
    "source": "The Guardian",
    "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
@@ -1579,6 +1609,16 @@
    "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
    "date": "2026-11-01T22:26:11+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "2d95e21944fb",
+   "source": "Radio Cooperativa",
+   "title": "La programación de la cuarta fecha de la fase de liga de la Champions League",
+   "description": "Esta semana se reanuda la acción de la Champions League en Europa, con el desarrollo de la cuarta fecha de la fase de liga. Uno de los duelos estelares se disputará el miércoles en Alemania, cuando Real Betis Real Beti, el equipo del chileno Manuel Pellegrini, visite al poderoso ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/la-programacion-de-la-cuarta-fecha-de-la-fase-de-liga-de-la-champions/2026-11-01/191456.html",
+   "date": "2026-11-01T22:14:56+00:00",
+   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -2052,16 +2092,6 @@
    "type": "Oficial"
   },
   {
-   "id": "6b8b4f0fe233",
-   "source": "BBC Mundo",
-   "title": "\"Vinimos a luchar contra los malvados\": Bukele muestra el despliegue militar de El Salvador en Haití para rescatar a 4 soldados secuestrados por las pandillas",
-   "description": "Las tropas están intentando recuperar a cuatro militares desaparecidos en una emboscada en las afueras de Puerto Príncipe, la capital de Haití.",
-   "url": "https://www.bbc.com/mundo/articles/cm20wdy1w5p8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-29T23:19:10+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "3471c3874ffc",
    "source": "CIPER Chile",
    "title": "Desempleo sube a 9,8%; camioneros de San Antonio inician el primer paro del gobierno de Kast, y Corte confirma prisión preventiva para alcalde de Río Bueno por cohecho y lavado de activos",
@@ -2219,16 +2249,6 @@
    "url": "https://www.ciperchile.cl/2026/10/28/radar-28-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=radar-28-10-2026",
    "date": "2026-10-28T23:32:49+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "406bb795649f",
-   "source": "CIPER Chile",
-   "title": "VIDEO | Defensa de Hermosilla apuntó a Chadwick como responsable de la contratación de Guerra en la USS",
-   "description": "La entrada VIDEO | Defensa de Hermosilla apuntó a Chadwick como responsable de la contratación de Guerra en la USS se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/10/28/video-defensa-de-hermosilla-apunto-a-chadwick-como-responsable-de-la-contratacion-de-guerra-en-la-uss/?utm_source=rss&utm_medium=rss&utm_campaign=video-defensa-de-hermosilla-apunto-a-chadwick-como-responsable-de-la-contratacion-de-guerra-en-la-uss",
-   "date": "2026-10-28T21:15:32+00:00",
-   "category": "Conflictos armados y seguridad internacional",
    "type": "Prensa"
   },
   {
@@ -2462,16 +2482,6 @@
    "type": "Académica"
   },
   {
-   "id": "75174da675c1",
-   "source": "BBC Mundo",
-   "title": "Qué comer para que tu piel se vea más joven y sana",
-   "description": "Los alimentos de origen vegetal, las grasas y los productos fermentados pueden reducir las arrugas, aumentar la producción de colágeno y mejorar la textura de nuestra piel.",
-   "url": "https://www.bbc.com/mundo/articles/c3ewe42k1k0qo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-25T10:01:25+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "f19392cc3606",
    "source": "The Guardian",
    "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
@@ -2570,16 +2580,6 @@
    "date": "2026-10-10T07:49:45+00:00",
    "category": "",
    "type": "Oficial"
-  },
-  {
-   "id": "dbbc4dc71f68",
-   "source": "Radio Cooperativa",
-   "title": "Cartelera de conciertos 2026 en Chile",
-   "description": "CONCIERTOS 2026 EN CHILE CONCIERTOS NOVIEMBRE 2026 1 de noviembre - Iron Maiden - Estadio Nacional - Entradas 1 de noviembre - Alex Serra y Totidub - Club Chocolate - Entradas 1 de noviembre - Opeth - Santander Arena - Entradas 1 de noviembre - Nicole - Teatro Municipal Valparaís",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html",
-   "date": "2025-12-01T11:21:52+00:00",
-   "category": "",
-   "type": "Prensa"
   },
   {
    "id": "9745c15368a2",
