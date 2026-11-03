@@ -10,7 +10,7 @@
   {"source": "Associated Press", "site": "https://apnews.com"},
   {"source": "BBC Mundo", "site": "https://www.bbc.com/mundo", "url": "https://feeds.bbci.co.uk/mundo/rss.xml", "category": "América Latina"},
   {"source": "Deutsche Welle", "site": "https://www.dw.com/es", "url": "https://rss.dw.com/xml/rss-sp-all", "category": "Europa"},
-  {"source": "France 24", "site": "https://www.france24.com/es"},
+  {"source": "France 24", "site": "https://www.france24.com/es", "urls": ["https://www.france24.com/es/rss"]},
   {"source": "Al Jazeera", "site": "https://www.aljazeera.com", "url": "https://www.aljazeera.com/xml/rss/all.xml", "category": "Oriente Medio"},
   {"source": "The Guardian", "site": "https://www.theguardian.com", "url": "https://www.theguardian.com/world/rss", "category": "Relaciones internacionales y geopolítica"},
   {"source": "Agencia EFE", "site": "https://efe.com"}

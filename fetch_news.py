@@ -117,11 +117,18 @@ items, estado = [], {}
 for f in json.load(open("feeds.json", encoding="utf-8")):
     nombre, err, usada = f["source"], "", ""
     try:
-        cand = [f["url"]] if f.get("url") else []
+        cand = list(f.get("urls", []))
+        if f.get("url"):
+            cand.append(f["url"])
         if not cand and f.get("site"):
-            cand = descubrir(f["site"])
+            try:
+                cand = descubrir(f["site"])
+            except Exception as e:
+                err = str(e)[:120]
+            # Rutas habituales de RSS; solo valen si responden con un feed válido.
+            cand += [urllib.parse.urljoin(f["site"], p) for p in ("/feed/", "/rss", "/rss.xml", "/feed")]
         if not cand:
-            raise RuntimeError("no se encontró RSS en la portada")
+            raise RuntimeError("no se encontró RSS")
         got = None
         for u in cand:
             try:
