@@ -94,19 +94,25 @@ def enlace(el):
     return href
 
 def descargar(url):
-    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
+    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=12) as r:
         return r.read()
 
-def descubrir(site):
-    """Busca <link rel="alternate" type="application/rss+xml|atom+xml"> en la portada."""
-    h = descargar(site).decode("utf-8", "ignore")
+def enlaces_rss(pagina):
+    """Busca en una página enlaces a feeds: <link rel=alternate> y enlaces <a> con rss/feed/.xml."""
+    h = descargar(pagina).decode("utf-8", "ignore")
     urls = []
     for tag in re.findall(r"<link[^>]+>", h, flags=re.I):
         if re.search(r"alternate", tag, re.I) and re.search(r"(rss|atom)\+xml", tag, re.I):
             m = re.search(r'href=["\']([^"\']+)', tag, re.I)
             if m:
-                urls.append(urllib.parse.urljoin(site, html.unescape(m.group(1))))
-    return urls
+                urls.append(urllib.parse.urljoin(pagina, html.unescape(m.group(1))))
+    for href in re.findall(r'<a[^>]+href=["\']([^"\']+)["\']', h, flags=re.I):
+        low = href.lower()
+        if low.startswith(("mailto:", "javascript:", "#")) or "sitemap" in low:
+            continue
+        if "rss" in low or "feed" in low or low.endswith(".xml"):
+            urls.append(urllib.parse.urljoin(pagina, html.unescape(href)))
+    return list(dict.fromkeys(urls))
 
 def parsear(raw, nombre, defecto):
     raiz = ET.fromstring(raw)
@@ -132,18 +138,22 @@ for f in json.load(open("feeds.json", encoding="utf-8")):
         if f.get("url"):
             cand.append(f["url"])
         if not cand and f.get("site"):
-            try:
-                cand = descubrir(f["site"])
-            except Exception as e:
-                err = str(e)[:120]
+            for pg in [f["site"]] + f.get("pages", []):
+                try:
+                    cand += enlaces_rss(pg)
+                except Exception as e:
+                    err = str(e)[:120]
             # Rutas habituales de RSS; solo valen si responden con un feed válido.
             cand += [urllib.parse.urljoin(f["site"], p) for p in ("/feed/", "/rss", "/rss.xml", "/feed")]
+            cand = list(dict.fromkeys(cand))[:8]
         if not cand:
             raise RuntimeError("no se encontró RSS")
         got = None
         for u in cand:
             try:
                 got = parsear(descargar(u), nombre, f.get("category"))
+                for g in (got or []):
+                    g["type"] = f.get("tipo", "Prensa")
                 if got:
                     usada = u
                     break

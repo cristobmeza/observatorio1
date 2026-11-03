@@ -59,15 +59,16 @@ const ld=(k,d)=>{try{const v=localStorage.getItem("obs_"+k);return v?JSON.parse(
 const sv=(k,v)=>{try{localStorage.setItem("obs_"+k,JSON.stringify(v))}catch(e){}};
 let sources=ld("src",SRC0),fav=ld("fav",{}),later=ld("later",{}),hist=ld("hist",[]),hid=ld("hid",[]);
 let items=[],mode="demo",stamp="",estado={};
-const st={v:"home",g:"all",s:"all",src:"all",o:"new",q:""};
+const st={v:"home",g:"all",s:"all",src:"all",t:"all",o:"new",q:""};
 const $=id=>document.getElementById(id);
+const stT=n=>estado[n]?(estado[n].ok?"RSS activo · "+estado[n].n+" artículos":"sin RSS utilizable · solo acceso directo"):"sin datos de actualización · solo acceso directo";
 const esc=t=>String(t||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 function demo(){const out=[],now=Date.now();let k=0;
-SRC0.forEach((s,i)=>{for(let j=0;j<4;j++){const c=ALLSUB[(i*5+j*7)%ALLSUB.length];out.push({id:"d"+(k++),src:s.n,title:"[DEMO] Titular de ejemplo · "+c.s,desc:"Texto de demostración. No es una noticia real: sirve para probar la interfaz.",url:s.u,date:new Date(now-(i*3+j*11+1)*36e5).toISOString(),cat:c.s,demo:1})}});return out}
+SRC0.forEach((s,i)=>{for(let j=0;j<4;j++){const c=ALLSUB[(i*5+j*7)%ALLSUB.length];out.push({id:"d"+(k++),src:s.n,title:"[DEMO] Titular de ejemplo · "+c.s,desc:"Texto de demostración. No es una noticia real: sirve para probar la interfaz.",url:s.u,date:new Date(now-(i*3+j*11+1)*36e5).toISOString(),cat:c.s,tipo:"Prensa",demo:1})}});return out}
 async function load(){items=demo();
 try{const r=await fetch("estado.json",{cache:"no-store"});if(r.ok){const j=await r.json();estado=j.feeds||{}}}catch(e){}
 try{const r=await fetch("news.json",{cache:"no-store"});if(!r.ok)throw 0;const j=await r.json();
-if(Array.isArray(j.items)&&j.items.length){items=j.items.map((x,i)=>({id:x.id||"r"+i,src:x.source||x.src,title:x.title,desc:x.description||x.desc||"",url:x.url,date:x.date,cat:x.category||x.cat||""}));mode="real";stamp=j.updated||""}}catch(e){}
+if(Array.isArray(j.items)&&j.items.length){items=j.items.map((x,i)=>({id:x.id||"r"+i,src:x.source||x.src,title:x.title,desc:x.description||x.desc||"",url:x.url,date:x.date,cat:x.category||x.cat||"",tipo:x.type||x.tipo||"Prensa"}));mode="real";stamp=j.updated||""}}catch(e){}
 render()}
 function fdate(d){const x=new Date(d);return isNaN(x)?"s/f":x.toLocaleString("es-CL",{dateStyle:"medium",timeStyle:"short"})}
 function pool(){const hs=new Set(hid);let a=items.filter(i=>{
@@ -75,6 +76,7 @@ const g=ALLSUB.find(x=>x.s===i.cat);if(g&&hid.includes(g.s))return false;
 if(st.g!=="all"&&(!g||g.g!==st.g))return false;
 if(st.s!=="all"&&i.cat!==st.s)return false;
 if(st.src!=="all"&&i.src!==st.src)return false;
+if(st.t!=="all"&&i.tipo!==st.t)return false;
 if(st.q&&!(i.title+" "+i.desc+" "+i.src).toLowerCase().includes(st.q.toLowerCase()))return false;return true});
 a.sort(st.o==="src"?(x,y)=>x.src.localeCompare(y.src):st.o==="old"?(x,y)=>new Date(x.date)-new Date(y.date):(x,y)=>new Date(y.date)-new Date(x.date));return a}
 function card(i,f){const nw=Date.now()-new Date(i.date)<864e5;
@@ -91,14 +93,14 @@ $("ss").innerHTML='<option value="all">Todas las subsecciones</option>'+subs.map
 const app=$("app");let h="";
 if(st.v==="home"){const a=pool();
 h+=`<div class="st">${mode==="real"?"Datos reales leídos de news.json"+(stamp?" · actualizado "+fdate(stamp):""):"<b>Modo demostración.</b> Los titulares marcados «Demo» son marcadores de posición, no noticias. No hay actualización automática activa: se activa al desplegar el proyecto con su archivo news.json."}</div>`;
-h+=`<div class="bar"><select id="sm"><option value="all">Todos los medios</option>${sources.map(s=>`<option${st.src===s.n?" selected":""}>${esc(s.n)}</option>`).join("")}</select><span class="sm" style="align-self:center">${a.length} artículos</span></div>`;
+h+=`<div class="bar"><select id="sm"><option value="all">Todos los medios</option>${[...new Set([...sources.map(s=>s.n),...items.map(i=>i.src)])].map(n=>`<option${st.src===n?" selected":""}>${esc(n)}</option>`).join("")}</select><select id="sy"><option value="all">Todos los tipos</option>${["Prensa","Oficial","Académica"].map(t=>`<option${st.t===t?" selected":""}>${t}</option>`).join("")}</select><span class="sm" style="align-self:center">${a.length} artículos</span></div>`;
 h+='<div class="grid">'+(a.length?a.map((i,n)=>card(i,n===0&&st.q==="")).join(""):"<p>Sin resultados.</p>")+"</div>"}
 else if(st.v==="fav"||st.v==="later"){const a=byIds(st.v==="fav"?fav:later);h+='<div class="grid">'+(a.length?a.map(i=>card(i)).join(""):"<p>Aún no hay artículos aquí.</p>")+"</div>"}
 else if(st.v==="hist"){h+=`<div class="bar"><button data-clr="1">Borrar historial</button></div><div class="grid">`+(hist.length?hist.map(i=>card(i)).join(""):"<p>Aún no has abierto artículos.</p>")+"</div>"}
 else{h+=`<h2>Medios periodísticos</h2><p class="sm">Un medio sin dirección RSS verificada solo ofrece acceso directo a su sitio; no se simula actualización. Puedes añadir o editar la dirección RSS.</p>`;
-h+=sources.map(s=>`<div class="li"><span><a href="${esc(s.u)}" target="_blank" rel="noopener">${esc(s.n)}</a> <span class="sm">${estado[s.n]?(estado[s.n].ok?"RSS activo · "+estado[s.n].n+" artículos":"sin RSS utilizable · solo acceso directo"):"sin datos de actualización · solo acceso directo"}</span></span><span><button data-rss="${s.id}">RSS</button> <button data-del="${s.id}">Eliminar</button></span></div>`).join("");
+h+=sources.map(s=>`<div class="li"><span><a href="${esc(s.u)}" target="_blank" rel="noopener">${esc(s.n)}</a> <span class="sm">${esc(stT(s.n))}</span></span><span><button data-rss="${s.id}">RSS</button> <button data-del="${s.id}">Eliminar</button></span></div>`).join("");
 h+=`<div class="fm"><input id="an" placeholder="Nombre del medio"><input id="au" placeholder="https://sitio"><input id="ar" placeholder="RSS (opcional)"><button data-add="1">Añadir</button></div><button data-rst="1">Restaurar catálogo inicial</button>`;
-for(const k in OFI)h+=`<h2>${k}</h2>`+OFI[k].map(([n,u])=>`<div class="li"><a href="${u}" target="_blank" rel="noopener">${n} ↗</a></div>`).join("");
+for(const k in OFI)h+=`<h2>${k}</h2>`+OFI[k].map(([n,u])=>`<div class="li"><a href="${u}" target="_blank" rel="noopener">${n} ↗</a><span class="sm">${esc(stT(n))}</span></div>`).join("");
 h+=`<h2>Configurar categorías</h2><p class="sm">Desmarca las subsecciones que no quieras ver.</p>`+G.map(g=>`<b>${g.n}</b><br>`+g.s.map(s=>`<label class="c"><input type="checkbox" data-hc="${esc(s)}"${hid.includes(s)?"":" checked"}> ${esc(s)}</label>`).join("")+"<br>").join("")}
 app.innerHTML=h}
 document.addEventListener("click",e=>{const t=e.target,d=t.dataset||{};let ch=1;
@@ -116,7 +118,7 @@ else ch=0;
 if(ch)render()});
 document.addEventListener("change",e=>{const t=e.target;
 if(t.dataset.hc){const s=t.dataset.hc;hid=t.checked?hid.filter(x=>x!==s):[...hid,s];sv("hid",hid);return}
-if(t.id==="sg"){st.g=t.value;st.s="all"}else if(t.id==="ss")st.s=t.value;else if(t.id==="so")st.o=t.value;else if(t.id==="sm")st.src=t.value;else return;
+if(t.id==="sg"){st.g=t.value;st.s="all"}else if(t.id==="ss")st.s=t.value;else if(t.id==="so")st.o=t.value;else if(t.id==="sm")st.src=t.value;else if(t.id==="sy")st.t=t.value;else return;
 st.v="home";render()});
 $("q").addEventListener("input",e=>{st.q=e.target.value;st.v="home";render();const q=$("q");q.focus()});
 function tick(){$("dt").textContent="Consulta: "+new Date().toLocaleString("es-CL",{dateStyle:"full",timeStyle:"short"})}

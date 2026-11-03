@@ -1,76 +1,271 @@
 [
  {
   "source": "CIPER Chile",
-  "site": "https://www.ciperchile.cl"
+  "site": "https://www.ciperchile.cl",
+  "tipo": "Prensa"
  },
  {
   "source": "Radio Bío-Bío",
-  "site": "https://www.biobiochile.cl"
+  "site": "https://www.biobiochile.cl",
+  "tipo": "Prensa"
  },
  {
   "source": "Radio Cooperativa",
   "site": "https://cooperativa.cl",
   "urls": [
    "https://www.cooperativa.cl/noticias/site/tax/port/all/rss____1.xml"
-  ]
+  ],
+  "tipo": "Prensa"
  },
  {
   "source": "El Mostrador",
-  "site": "https://www.elmostrador.cl"
+  "site": "https://www.elmostrador.cl",
+  "tipo": "Prensa"
  },
  {
   "source": "Ex-Ante",
-  "site": "https://www.ex-ante.cl"
+  "site": "https://www.ex-ante.cl",
+  "tipo": "Prensa"
  },
  {
   "source": "Emol",
-  "site": "https://www.emol.com"
+  "site": "https://www.emol.com",
+  "tipo": "Prensa"
  },
  {
   "source": "Río en Línea",
-  "site": "https://www.rioenlinea.cl"
+  "site": "https://www.rioenlinea.cl",
+  "tipo": "Prensa"
  },
  {
   "source": "Reuters",
-  "site": "https://www.reuters.com"
+  "site": "https://www.reuters.com",
+  "tipo": "Prensa"
  },
  {
   "source": "Associated Press",
-  "site": "https://apnews.com"
+  "site": "https://apnews.com",
+  "tipo": "Prensa"
  },
  {
   "source": "BBC Mundo",
   "site": "https://www.bbc.com/mundo",
   "url": "https://feeds.bbci.co.uk/mundo/rss.xml",
-  "category": "América Latina"
+  "category": "América Latina",
+  "tipo": "Prensa"
  },
  {
   "source": "Deutsche Welle",
   "site": "https://www.dw.com/es",
   "url": "https://rss.dw.com/xml/rss-sp-all",
-  "category": "Europa"
+  "category": "Europa",
+  "tipo": "Prensa"
  },
  {
   "source": "France 24",
   "site": "https://www.france24.com/es",
   "urls": [
    "https://www.france24.com/es/rss"
-  ]
+  ],
+  "tipo": "Prensa"
  },
  {
   "source": "Al Jazeera",
   "site": "https://www.aljazeera.com",
   "url": "https://www.aljazeera.com/xml/rss/all.xml",
-  "category": "Oriente Medio"
+  "category": "Oriente Medio",
+  "tipo": "Prensa"
  },
  {
   "source": "The Guardian",
   "site": "https://www.theguardian.com",
   "url": "https://www.theguardian.com/world/rss",
-  "category": "Relaciones internacionales y geopolítica"
+  "category": "Relaciones internacionales y geopolítica",
+  "tipo": "Prensa"
  },
  {
   "source": "Agencia EFE",
-  "site": "https://efe.com"
+  "site": "https://efe.com",
+  "tipo": "Prensa"
+ },
+ {
+  "source": "Biblioteca del Congreso Nacional",
+  "site": "https://www.bcn.cl",
+  "tipo": "Oficial",
+  "category": "Legislación chilena"
+ },
+ {
+  "source": "Diario Oficial",
+  "site": "https://www.diariooficial.interior.gob.cl",
+  "tipo": "Oficial",
+  "category": "Legislación chilena"
+ },
+ {
+  "source": "Cámara de Diputadas y Diputados",
+  "site": "https://www.camara.cl",
+  "tipo": "Oficial",
+  "category": "Actividad parlamentaria"
+ },
+ {
+  "source": "Senado",
+  "site": "https://www.senado.cl",
+  "tipo": "Oficial",
+  "category": "Congreso Nacional"
+ },
+ {
+  "source": "Contraloría General de la República",
+  "site": "https://www.contraloria.cl",
+  "tipo": "Oficial",
+  "category": "Administración pública"
+ },
+ {
+  "source": "Banco Central de Chile",
+  "site": "https://www.bcentral.cl",
+  "tipo": "Oficial",
+  "category": "Política monetaria",
+  "pages": [
+   "https://www.bcentral.cl/es/noticias-y-publicaciones/prensa"
+  ]
+ },
+ {
+  "source": "Instituto Nacional de Estadísticas",
+  "site": "https://www.ine.gob.cl",
+  "tipo": "Oficial",
+  "category": "Economía nacional"
+ },
+ {
+  "source": "Dirección de Presupuestos",
+  "site": "https://www.dipres.gob.cl",
+  "tipo": "Oficial",
+  "category": "Finanzas públicas"
+ },
+ {
+  "source": "Servicio Electoral",
+  "site": "https://www.servel.cl",
+  "tipo": "Oficial",
+  "category": "Elecciones"
+ },
+ {
+  "source": "Poder Judicial",
+  "site": "https://www.pjud.cl",
+  "tipo": "Oficial",
+  "category": "Jurisprudencia"
+ },
+ {
+  "source": "Naciones Unidas",
+  "site": "https://www.un.org",
+  "tipo": "Oficial",
+  "category": "Relaciones internacionales y geopolítica",
+  "urls": [
+   "https://news.un.org/feed/subscribe/es/news/all/rss.xml"
+  ]
+ },
+ {
+  "source": "Fondo Monetario Internacional",
+  "site": "https://www.imf.org",
+  "tipo": "Oficial",
+  "category": "Economía internacional",
+  "pages": [
+   "https://www.imf.org/en/rss-list"
+  ]
+ },
+ {
+  "source": "Banco Mundial",
+  "site": "https://www.worldbank.org",
+  "tipo": "Oficial",
+  "category": "Economía internacional"
+ },
+ {
+  "source": "OCDE",
+  "site": "https://www.oecd.org",
+  "tipo": "Oficial",
+  "category": "Economía internacional"
+ },
+ {
+  "source": "CEPAL",
+  "site": "https://www.cepal.org",
+  "tipo": "Oficial",
+  "category": "Economía internacional"
+ },
+ {
+  "source": "Organización Mundial del Comercio",
+  "site": "https://www.wto.org",
+  "tipo": "Oficial",
+  "category": "Comercio internacional",
+  "urls": [
+   "https://www.wto.org/library/rss/latest_news_s.xml"
+  ]
+ },
+ {
+  "source": "Organización Mundial de la Salud",
+  "site": "https://www.who.int",
+  "tipo": "Oficial",
+  "urls": [
+   "https://www.who.int/rss-feeds/news-english.xml"
+  ]
+ },
+ {
+  "source": "Organismo Internacional de Energía Atómica",
+  "site": "https://www.iaea.org",
+  "tipo": "Oficial",
+  "urls": [
+   "https://www.iaea.org/feeds/topnews"
+  ]
+ },
+ {
+  "source": "ACNUR",
+  "site": "https://www.acnur.org",
+  "tipo": "Oficial"
+ },
+ {
+  "source": "Revista Estudios Internacionales (U. de Chile)",
+  "site": "https://www.revistaei.uchile.cl",
+  "tipo": "Académica",
+  "category": "Relaciones internacionales"
+ },
+ {
+  "source": "Estudios Públicos (CEP)",
+  "site": "https://www.cepchile.cl",
+  "tipo": "Académica",
+  "category": "Políticas públicas"
+ },
+ {
+  "source": "Revista de Ciencia Política (UC)",
+  "site": "https://www.revistacienciapolitica.cl",
+  "tipo": "Académica",
+  "category": "Ciencia política"
+ },
+ {
+  "source": "Chatham House",
+  "site": "https://www.chathamhouse.org",
+  "tipo": "Académica",
+  "category": "Relaciones internacionales"
+ },
+ {
+  "source": "International Crisis Group",
+  "site": "https://www.crisisgroup.org",
+  "tipo": "Académica",
+  "category": "Conflictos armados y seguridad internacional",
+  "urls": [
+   "https://www.crisisgroup.org/rss"
+  ]
+ },
+ {
+  "source": "Publicaciones de CEPAL",
+  "site": "https://www.cepal.org",
+  "tipo": "Académica",
+  "category": "Economía internacional",
+  "pages": [
+   "https://www.cepal.org/es/publicaciones"
+  ]
+ },
+ {
+  "source": "Publicaciones del FMI",
+  "site": "https://www.imf.org",
+  "tipo": "Académica",
+  "category": "Economía internacional",
+  "pages": [
+   "https://www.imf.org/en/Publications"
+  ]
  }
 ]
