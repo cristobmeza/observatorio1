@@ -1,14 +1,274 @@
 {
- "updated": "2026-11-03T16:48:29.157813+00:00",
+ "updated": "2026-11-03T17:44:10.645305+00:00",
  "items": [
+  {
+   "id": "e2bdad0fdbe2",
+   "source": "Ex-Ante",
+   "title": "Pugna interna en el oficialismo por caso Rabat: Ahora RN apunta contra el Segundo Piso",
+   "description": "En Republicanos y La Moneda han intentado descomprimir el conflicto, que se ha extendido a cuestionamientos al Segundo Piso. Mientras el vicepresidente Claudio Alvarado citó…",
+   "url": "https://www.ex-ante.cl/politica/rabat-division-oficialista-rn-segundo-piso/",
+   "date": "2026-11-03T17:42:37+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "14b480823a89",
+   "source": "Radio Cooperativa",
+   "title": "Rivarola fue objeto de burlas por frase sobre inminente título de Colo Colo",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Diego Rivarola, exdelantero e ídolo de Universidad de Chile , fue objeto de burlas en redes sociales luego de una particular reflexión sobre los títulos de Colo Colo, que puede conquistar su estrella número 35 este domingo ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/rivarola-fue-objeto-de-burlas-por-frase-sobre-inminente-titulo-de-colo/2026-11-03/143234.html",
+   "date": "2026-11-03T17:32:34+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "c8d07e82c43c",
+   "source": "The Guardian",
+   "title": "Protect Poundland from predatory capitalism, MPs tell government",
+   "description": "Budget retailer and 12,000 jobs at risk after US owner fails to accept buyout offers MPs have called on the government to protect Poundland and other high street stores from “predatory capitalism” and asset-stripping. The fate of the retail chain and its 12,000 staff remains unce",
+   "url": "https://www.theguardian.com/business/2026/nov/03/protect-poundland-mps-tell-government-retail",
+   "date": "2026-11-03T17:29:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "26d5ee906c13",
+   "source": "The Guardian",
+   "title": "Freezers of UK meat suppliers heat up after cyber-attacks in Europe",
+   "description": "Cybersecurity experts say incidents had minimal effect but may represent the ‘foothills’ of a wider threat Meat suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe. The UK’s National Cyber Security Centre ",
+   "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
+   "date": "2026-11-03T17:28:49+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "be3060fd695a",
+   "source": "France 24",
+   "title": "Voto anticipado supera cifras históricas en Carolina del Norte, prioridad demócrata",
+   "description": "El Partido Demócrata tiene altas expectativas en Carolina del Norte, un estado péndulo, donde cuenta con uno de sus candidatos más fuertes en estas midterms: el exgobernador Roy Cooper, quien se enfrenta al expresidente del Comité Nacional Republicano Michael Whatley este 3 de no",
+   "url": "https://www.france24.com/es/video/20261103-voto-anticipado-supera-cifras-hist%C3%B3ricas-en-carolina-del-norte-prioridad-dem%C3%B3crata",
+   "date": "2026-11-03T17:24:25+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "81ec08c1c792",
+   "source": "France 24",
+   "title": "Directo a... Miami y el impacto de la política migratoria de Trump en las midterms",
+   "description": "¿Seguirá siendo Florida un bastión republicano? Esa es la pregunta que surge de cara a las midterms de este 3 de noviembre. La gestión económica del Gobierno y la política migratoria de Donald Trump han impactado a uno de los estados que más migrantes acoge en Estados Unidos. Con",
+   "url": "https://www.france24.com/es/video/20261103-directo-a-miami-y-el-impacto-de-la-pol%C3%ADtica-migratoria-de-trump-en-las-midterms",
+   "date": "2026-11-03T17:24:01+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "d91658d66409",
+   "source": "The Guardian",
+   "title": "King tells Commonwealth leaders that Britain’s role in slave trade was ‘shameful’ but stops short of apology – UK politics live",
+   "description": "Speech by Charles marks formal opening of Commonwealth Heads of Government Meeting (Chogm) in Antigua Q: Do you think the UK should reconsider Commonwealth membership, given other countries just keep asking us for slavery reparations? Badenoch said she did not agree with that “be",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
+   "date": "2026-11-03T17:23:41+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "db8f0964eae5",
+   "source": "France 24",
+   "title": "Estados Unidos: ¿qué se elige y cómo funcionan las midterms?",
+   "description": "Las elecciones de medio mandato de Estados Unidos ponen a prueba el sistema de pesos y contrapesos este 3 de noviembre. Estos comicios definirán el margen de gobernabilidad del presidente Donald Trump, pues los votantes elegirán a los candidatos que ocuparán escaños en el Congres",
+   "url": "https://www.france24.com/es/video/20261103-estados-unidos-qu%C3%A9-se-elige-y-c%C3%B3mo-funcionan-las-midterms",
+   "date": "2026-11-03T17:23:30+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "0f43bfdd3aa6",
+   "source": "The Guardian",
+   "title": "UK cuts aid to Commonwealth countries despite warm words at Chogm summit",
+   "description": "Nations in the group fare worse than others, with funding for nature projects especially hard hit even as climate crisis intensifies global need The UK government has slashed overseas aid to Commonwealth countries, the Guardian can reveal, in contrast to the warm words for the gr",
+   "url": "https://www.theguardian.com/world/2026/nov/03/uk-cuts-aid-commonwealth-countries-despite-warm-words-at-chogm-summit",
+   "date": "2026-11-03T17:22:58+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "14f987104304",
    "source": "The Guardian",
    "title": "Seven reported bomb threats against European flights confirmed as false alarms – Europe live",
    "description": "Bomb threats were made on routes involving a number of airlines, including Ryanair and WizzAir Back to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the airport where the London flight was parked remain closed and is bei",
    "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
-   "date": "2026-11-03T16:41:44+00:00",
+   "date": "2026-11-03T17:21:08+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "2a4d82294416",
+   "source": "Radio Cooperativa",
+   "title": "El editorial de Igor Ochoa: En el Ascenso hay mucho margen para la especulación",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/cooperativa-deportes/opinion/el-editorial-de-igor-ochoa-en-el-ascenso-hay-mucho-margen-para-la/2026-11-03/142007.html",
+   "date": "2026-11-03T17:20:07+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "f44312c28ab9",
+   "source": "Radio Cooperativa",
+   "title": "La cuarta fecha de la fase de liga de la Champions League",
+   "description": "Esta semana se reanuda la acción de la Champions League en Europa, con el desarrollo de la cuarta fecha de la fase de liga. Sigue los partidos en vivo y online por Cooperativa.cl. Martes 3 de noviembre Galatasaray vs. Stuttgart . 14:45 horas. Rams Park. Shaktar vs. Sporting de Li",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/la-cuarta-fecha-de-la-fase-de-liga-de-la-champions-league/2026-11-03/141735.html",
+   "date": "2026-11-03T17:17:35+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "89e3e6a534b1",
+   "source": "The Guardian",
+   "title": "Trump says US will end military aid to Israel by the end of this year",
+   "description": "US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment Donald Trump has said that the US will end military aid to Israel at the end of this year in a surprise election day announcement that appeared to be targeted at voters scept",
+   "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
+   "date": "2026-11-03T17:17:11+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f54a4f347dac",
+   "source": "Ex-Ante",
+   "title": "Por qué el PDG mantiene el misterio sobre su voto en la acusación contra Rabat",
+   "description": "Franco Parisi apostaba a fijar anoche una estrategia frente al libelo contra el ministro de Justicia, pero sigue sin anunciar su voto. Con 14 diputados…",
+   "url": "https://www.ex-ante.cl/politica/pdg-mantiene-misterio-ac-contra-rabat/",
+   "date": "2026-11-03T17:10:59+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "330b64c49cda",
+   "source": "Radio Cooperativa",
+   "title": "Cruzados descartó denuncia por gestos de Vargas y Morales: No queremos entrar en ese juego",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Matías Claro, presidente de Cruzados , descartó que Universidad Católica presente una denuncia contra Eduardo Vargas y Marcelo Morales por los gestos que realizaron hacia los hinchas locales después de la derrota de Univers",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/cruzados-descarto-denuncia-por-gestos-de-vargas-y-morales-no-queremos/2026-11-03/140737.html",
+   "date": "2026-11-03T17:07:37+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "953d09b168a7",
+   "source": "Radio Cooperativa",
+   "title": "Rebaja de penas: Gobierno convocó mesa con víctimas sin incluir a Defensoría de la Niñez",
+   "description": "En medio de la controversia por la liberación anticipada de condenados por delitos sexuales contra menores de edad , el Ministerio de Justicia y Derechos Humanos anunció este martes la instalación de una mesa de trabajo intersectorial con organizaciones de víctimas . Denominada \"",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/delitos-sexuales/rebaja-de-penas-gobierno-convoco-mesa-con-victimas-sin-incluir-a/2026-11-03/140717.html",
+   "date": "2026-11-03T17:07:17+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "20f930304717",
+   "source": "Radio Cooperativa",
+   "title": "ANFP analiza cambio de horario para duelo de Universidad Católica con Deportes Limache",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El calendario de la fecha 27 de la Liga de Primera podría tener una nueva reestructuración dado que la ANFP analiza un cambio de horario para el duelo de Universidad Católica con Deportes Limache , buscando adelantar el com",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/anfp-analiza-cambio-de-horario-para-duelo-de-universidad-catolica-con/2026-11-03/140526.html",
+   "date": "2026-11-03T17:05:26+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "4ba55b843e5f",
+   "source": "Al Jazeera",
+   "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
+   "description": "Survivors of attacks on displacement camps in Darfur recall the lives they built, and violence that forced them to flee.",
+   "url": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
+   "date": "2026-11-03T17:03:24+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a09e8c3b77e9",
+   "source": "Radio Cooperativa",
+   "title": "Kast y Meloni abordaron seguridad, migración y comercio en Roma",
+   "description": "El Presidente José Antonio Kast viajó hasta Italia tras su paso por Madrid para reunirse con la primera ministra italiana Giorgia Meloni , con quien t iene una relación cercana. El Mandatario llegó hasta la Piazza Collona, en el centro histórico de Roma, donde se encuentra el Con",
+   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-y-meloni-abordaron-seguridad-migracion-y-comercio-en-roma/2026-11-03/140319.html",
+   "date": "2026-11-03T17:03:19+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "77a5aefb756b",
+   "source": "Al Jazeera",
+   "title": "Barcelona vs Aston Villa LIVE: Champions League",
+   "description": "Follow updates from the league stage clash, including the build-up, analysis, and live text commentary of the game.",
+   "url": "https://www.aljazeera.com/sports/liveblog/2026/11/3/barcelona-vs-aston-villa-live-champions-league?traffic_source=rss",
+   "date": "2026-11-03T17:00:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b4ba32be735b",
+   "source": "Radio Cooperativa",
+   "title": "Cooperativa Deportes: Tragedia en el fútbol por muerte de Jesús de Miguel, delantero de Tenerife",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/cooperativa-deportes/opinion/cooperativa-deportes-tragedia-en-el-futbol-por-muerte-de-jesus-de/2026-11-03/135530.html",
+   "date": "2026-11-03T16:55:30+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "b7c19f295b4a",
+   "source": "France 24",
+   "title": "Trump anuncia que Estados Unidos dejará de entregar 4.000 millones de dólares anuales en ayuda a Israel",
+   "description": "Según explicó en una entrevista telefónica con Fox News, la decisión fue acordada con el primer ministro israelí, Benjamín Netanyahu, quien habría planteado la posibilidad de interrumpir los fondos. Trump justificó la medida al afirmar que Israel es un país próspero que ya no nec",
+   "url": "https://www.france24.com/es/medio-oriente/20261103-trump-anuncia-que-estados-unidos-dejar%C3%A1-de-entregar-4-000-millones-de-d%C3%B3lares-anuales-en-ayuda-a-israel",
+   "date": "2026-11-03T16:55:22+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "53a245c3ce30",
+   "source": "Ex-Ante",
+   "title": "La historia y las características del buque chileno que reactivará la ruta comercial Punta Arenas-Malvinas",
+   "description": "El carguero chileno de 50 años, fue construido en Dinamarca y cubría la ruta entre Valparaíso. Su viaje va mucho más allá de los negocios:…",
+   "url": "https://www.ex-ante.cl/nacional/buque-danstar-punta-arenas-malvinas/",
+   "date": "2026-11-03T16:50:06+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "312735bb97c1",
+   "source": "Al Jazeera",
+   "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
+   "description": "With neither bloc near a majority, Arab and ultra-Orthodox parties hold the key to Israel’s next government..",
+   "url": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
+   "date": "2026-11-03T16:49:10+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "3327c132b90e",
+   "source": "Radio Cooperativa",
+   "title": "Ya son cuatro los hijos de Angelina Jolie y Brad Pitt que borran el apellido paterno",
+   "description": "Vivienne , la hija de Angelina Jolie y Brad Pitt , se ha convertido en la cuarta de sus hijos que deja voluntariamente de usar el apellido de su padre . La joven de 18 años cambió legalmente su nombre de \"Vivienne Marcheline Jolie-Pitt\" a \"Vivienne Marcheline Jolie\" , según docum",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/ya-son-cuatro-los-hijos-de-angelina-jolie-y-brad-pitt-que-borran-el/2026-11-03/134658.html",
+   "date": "2026-11-03T16:46:58+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "69ba921bfb7c",
+   "source": "Radio Cooperativa",
+   "title": "Revelaron polémicos registros del arquero Jesús Owono antes del fatal choque en Tenerife",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes En medio de la conmoción y el luto que golpea al fútbol internacional tras la muerte del delantero de CD Tenerife Jesús de Miguel, un registro audiovisual encendió la controversia en España luego de que se difundieran imáge",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-espanola/revelaron-polemicos-registros-del-arquero-jesus-owono-antes-del-fatal/2026-11-03/134331.html",
+   "date": "2026-11-03T16:43:31+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "d14f3219af89",
+   "source": "Deutsche Welle",
+   "title": "'La bola negra', el fenómeno cinematográfico español que triunfa en taquilla y también conquista Hollywood",
+   "description": "La cinta basada en una obra inacabada de Lorca supera en espectadores a los grandes estrenos de Hollywood con 5.2 millones de entradas. El filme de 'los Javis' es ya el tercer mayor éxito en la historia del cine español.",
+   "url": "https://www.dw.com/es/la-bola-negra-el-fenómeno-cinematográfico-español-que-triunfa-en-taquilla-y-también-conquista-hollywood/a-79845445?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-03T16:43:00+00:00",
+   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -22,13 +282,13 @@
    "type": "Prensa"
   },
   {
-   "id": "d91658d66409",
-   "source": "The Guardian",
-   "title": "King tells Commonwealth leaders that Britain’s role in slave trade was ‘shameful’ but stops short of apology – UK politics live",
-   "description": "Speech by Charles marks formal opening of Commonwealth Heads of Government Meeting (Chogm) in Antigua Q: Do you think the UK should reconsider Commonwealth membership, given other countries just keep asking us for slavery reparations? Badenoch said she did not agree with that “be",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
-   "date": "2026-11-03T16:33:48+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "id": "4ba519aded10",
+   "source": "Al Jazeera",
+   "title": "Opposition party organiser killed before South Africa elections",
+   "description": "Police are investigating the motive in murder of MKP coordinator as political killings rise during municipal elections.",
+   "url": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss",
+   "date": "2026-11-03T16:39:00+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -72,16 +332,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c8766670bda0",
-   "source": "The Guardian",
-   "title": "Snap and crackle but no pop: Rice Krispies reformulated due to lack of rice",
-   "description": "Kellogg’s substitutes ingredient with rice flour, as climate crisis affects availability of some grains They will snap and they will crackle, but they may no longer pop, as Kellogg’s has removed rice from its Rice Krispies and Coco Pops cereals due to “changing weather conditions",
-   "url": "https://www.theguardian.com/food/2026/nov/03/kelloggs-rice-krispies-coco-pops-reformulated-rice-shortage",
-   "date": "2026-11-03T16:23:48+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "16b9e40766d8",
    "source": "Al Jazeera",
    "title": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
@@ -112,26 +362,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5acbf90d6518",
-   "source": "The Guardian",
-   "title": "Jury in Russell Brand rape and sexual assault trial retires to consider verdicts",
-   "description": "Judge tells jurors he will be able to accept only a unanimous decision on seven charges against the comedian The jury in Russell Brand’s rape and sexual assault trial has retired to consider its verdicts. Brand, 51, has been described as a ruthless, calculated and manipulative se",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/03/jury-russel-brand-rape-sexual-assault-trial-retires-consider-verdicts",
-   "date": "2026-11-03T16:19:33+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "08c748f7df7b",
-   "source": "Radio Cooperativa",
-   "title": "Zaldivia: Quiero un Campeonato Nacional con este club, no voy a parar hasta conseguirlo",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/zaldivia-quiero-un-campeonato-nacional-con-este-club-no-voy-a-parar/2026-11-03/131649.html",
-   "date": "2026-11-03T16:16:49+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "831bed48035d",
    "source": "Radio Cooperativa",
    "title": "Académico UC: \"Las redes sociales no sustituyen a la amistad ni las relaciones interpersonales\"",
@@ -142,23 +372,23 @@
    "type": "Prensa"
   },
   {
-   "id": "15ce79734e20",
+   "id": "b5769beb8c94",
    "source": "Radio Cooperativa",
-   "title": "CGE revisará 87.600 postes y despejará 600 kilómetros de vegetación antes del verano",
-   "description": "La compañía eléctrica CGE, que atiende a más de 3,4 millones de clientes en 12 regiones del país , desarrolla un plan de mantenimiento preventivo de sus instalaciones de cara al verano 2026/2027. El llamado Plan Verano CGE contempla a la fecha casi 100 mil actividades en terreno,",
-   "url": "https://www.cooperativa.cl/noticias/corporativo/especiales/cge-presenta/cge-revisara-87-600-postes-y-despejara-600-kilometros-de-vegetacion/2026-11-03/130435.html",
-   "date": "2026-11-03T16:04:35+00:00",
+   "title": "Zaldivia aún lamenta la derrota ante la UC: Fue un golpe muy duro",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Matías Zaldivia, defensor de Universidad de Chile , reconoció que la derrota por 1-0 ante Universidad Católica en el clásico universitario significó un duro golpe para el plantel azul, que perdió una oportunidad importante ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/zaldivia-aun-lamenta-la-derrota-ante-la-uc-fue-un-golpe-muy-duro/2026-11-03/131450.html",
+   "date": "2026-11-03T16:14:50+00:00",
    "category": "",
    "type": "Prensa"
   },
   {
-   "id": "c1ca65e42b51",
-   "source": "Deutsche Welle",
-   "title": "Estadounidenses apuestan casi 2.000 millones de USD en las elecciones intermedias",
-   "description": "En total hay más de 7.000 posibles resultados en las votaciones de las elecciones intermedias en Estados Unidos. Las tendencias son claras, pero no definitivas.",
-   "url": "https://www.dw.com/es/estadounidenses-apuestan-casi-2-000-millones-de-usd-en-las-elecciones-intermedias/a-79844846?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-03T15:58:00+00:00",
-   "category": "Elecciones",
+   "id": "45acbb500f2b",
+   "source": "Radio Cooperativa",
+   "title": "Seis meses después, el jefe del Segundo Piso vuelve a estar al centro de las críticas",
+   "description": "Dirigentes de Chile Vamos llegaron este martes hasta el Palacio de La Moneda para reunirse con el vicepresidente de la República, Claudio Alvarado , y manifestar su \"disconformidad\" por el manejo político y comunicacional del Gobierno frente a la crisis generada por los decretos ",
+   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/seis-meses-despues-el-jefe-del-segundo-piso-vuelve-a-estar-al-centro-de/2026-11-03/130618.html",
+   "date": "2026-11-03T16:06:18+00:00",
+   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -172,13 +402,13 @@
    "type": "Prensa"
   },
   {
-   "id": "a39b51d3b54d",
-   "source": "Radio Cooperativa",
-   "title": "UEFA rendirá homenaje a Jesús de Miguel con un minuto de silencio",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La UEFA anunció que se guardará un minuto de silencio en todos los partidos de sus competiciones durante esta semana en memoria de Jesús de Miguel, delantero de CD Tenerife que falleció este martes a los 30 años tras sufrir",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/uefa/uefa-rendira-homenaje-a-jesus-de-miguel-con-un-minuto-de-silencio/2026-11-03/125524.html",
-   "date": "2026-11-03T15:55:24+00:00",
-   "category": "Partidos políticos",
+   "id": "c1ca65e42b51",
+   "source": "Deutsche Welle",
+   "title": "Estadounidenses apuestan casi 2.000 millones de USD en las elecciones intermedias",
+   "description": "En total hay más de 7.000 posibles resultados en las votaciones de las elecciones intermedias en Estados Unidos. Las tendencias son claras, pero no definitivas.",
+   "url": "https://www.dw.com/es/estadounidenses-apuestan-casi-2-000-millones-de-usd-en-las-elecciones-intermedias/a-79844846?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-03T15:58:00+00:00",
+   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -212,36 +442,6 @@
    "type": "Prensa"
   },
   {
-   "id": "26d5ee906c13",
-   "source": "The Guardian",
-   "title": "Freezers of UK meat suppliers heat up after cyber-attacks in Europe",
-   "description": "Cybersecurity experts say incidents had minimal effect but may represent the ‘foothills’ of a wider threat Meat suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe. The UK’s National Cyber Security Centre ",
-   "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
-   "date": "2026-11-03T15:43:14+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "31a01ad29c4e",
-   "source": "Radio Cooperativa",
-   "title": "Cita terminó en secuestro y asalto en Temuco: dos colombianas detenidas",
-   "description": "Dos mujeres colombianas fueron detenidas este martes en Temuco , en la Región de La Araucanía, acusadas de participar en un violento asalto contra un hombre que las había invitado a su domicilio en el contexto de una cita. De acuerdo con los antecedentes conocidos, la víctima fue",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/robos/cita-termino-en-secuestro-y-asalto-en-temuco-dos-colombianas-detenidas/2026-11-03/124132.html",
-   "date": "2026-11-03T15:41:32+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "00531e49d423",
-   "source": "Radio Cooperativa",
-   "title": "Una hija de apenas 16 meses: El lado más doloroso de la muerte de Jesús de Miguel",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La trágica muerte de Jesús de Miguel, delantero de CD Tenerife que falleció a los 30 años , dejó una historia familiar especialmente dolorosa: El futbolista español era padre de Carla, una niña de apenas 16 meses , fruto de",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-espanola/una-hija-de-apenas-16-meses-el-lado-mas-doloroso-de-la-muerte-de-jesus/2026-11-03/124123.html",
-   "date": "2026-11-03T15:41:23+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "f76c67d7b4b2",
    "source": "Al Jazeera",
    "title": "How US midterms have cost a record $12bn as cost of living soars",
@@ -259,16 +459,6 @@
    "url": "https://www.france24.com/es/video/20261103-directo-par%C3%ADs-y-los-bloqueos-y-movilizaciones-de-liceos-en-francia",
    "date": "2026-11-03T15:39:44+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "8fa8bd3dd69d",
-   "source": "Radio Cooperativa",
-   "title": "Don Francisco llama a aportar a la Teletón: \"Son momentos difíciles\"",
-   "description": "A tres días de celebrar la Teletón 2026 este 6 y 7 de noviembre, Don Francisco dio el vamos a la tradicional campaña de recaudación solidaria en un enfático llamado a donar al ser \"momentos difíciles\" . En la Casa Matriz de Banco de Chile, ubicada en Santiago, el conductor Mario ",
-   "url": "https://www.cooperativa.cl/noticias/magazine/television/teleton/don-francisco-llama-a-aportar-a-la-teleton-son-momentos-dificiles/2026-11-03/123937.html",
-   "date": "2026-11-03T15:39:37+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -292,26 +482,6 @@
    "type": "Prensa"
   },
   {
-   "id": "bdeccd682cb5",
-   "source": "Radio Cooperativa",
-   "title": "Del sol a los granizos: El cambiante día en Santiago",
-   "description": "Sol, nubes y hasta granizos ha tenido este martes la Región Metropolitana, en la que se había pronosticado chubascos para la jornada. En el Barrio Yungay , en las inmediaciones de Radio Cooperativa, tuvimos una intensa granizada que se extenidió por algunos minutos. Granizos en e",
-   "url": "https://www.cooperativa.cl/noticias/pais/tiempo/del-sol-a-los-granizos-el-cambiante-dia-en-santiago/2026-11-03/122446.html",
-   "date": "2026-11-03T15:24:46+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "79f00c6161b2",
-   "source": "Radio Cooperativa",
-   "title": "Matthei comparó a Rabat con la gangrena y dijo que votaría a favor de la AC",
-   "description": "La exministra Evelyn Matthei (UDI) dijo que, si fuera parlamentaria, apoyaría la acusación constitucional contra el ministro de Justicia, Fernando Rabat , en medio de la polémica generada por los decretos con que rebajó condenas a violadores y abusadores de menores de 14 años. En",
-   "url": "https://www.cooperativa.cl/noticias/pais/politica/matthei-comparo-a-rabat-con-la-gangrena-y-dijo-que-votaria-a-favor-de-la/2026-11-03/121954.html",
-   "date": "2026-11-03T15:19:54+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "5416f77e7180",
    "source": "Al Jazeera",
    "title": "Nordic nations refuse to face Russia in ice hockey World Championship",
@@ -322,16 +492,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2e0b630eb4ac",
-   "source": "Radio Cooperativa",
-   "title": "\"¿A quién protegen?\": Vía Contraloría, oposición exige transparentar decretos de rebaja a pederastas",
-   "description": "Parlamentarios y dirigentes de partidos de oposición , desde la Democracia Cristiana (DC) hasta el Partido Comunista (PC) , presentaron este martes un requerimiento ante la Contraloría General de la República (CGR) para que se pronuncie sobre la negativa del Ministerio de Justici",
-   "url": "https://www.cooperativa.cl/noticias/pais/judicial/a-quien-protegen-via-contraloria-oposicion-exige-transparentar/2026-11-03/121658.html",
-   "date": "2026-11-03T15:16:58+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "f00420ef84b9",
    "source": "BBC Mundo",
    "title": "\"Soy morra, cis y hetero, pero creo que es mejor tener menos novios y más amigas\"",
@@ -339,16 +499,6 @@
    "url": "https://www.bbc.com/mundo/articles/cme3xkq104ejo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-03T15:14:21+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "ce49e748a5fe",
-   "source": "Radio Cooperativa",
-   "title": "Ley Ricarte Soto: pacientes evalúan marcha ante posible recorte del 14%",
-   "description": "Alejandro Andrade , presidente de la Federación Chilena de Enfermedades Raras (Fecher), afirmó en Una Nueva Mañana que la organización evalúa convocar una marcha ante la propuesta de reducir en un 14% los recursos del Fondo para Diagnósticos y Tratamientos de Alto Costo de la Ley",
-   "url": "https://www.cooperativa.cl/noticias/pais/salud/ley-ricarte-soto-pacientes-evaluan-marcha-ante-posible-recorte-del-14/2026-11-03/120342.html",
-   "date": "2026-11-03T15:03:42+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -449,16 +599,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-midterm-voting-begins-in-high-stakes-test-of-trumps-presidency?traffic_source=rss",
    "date": "2026-11-03T14:42:41+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "23fb3ba2b32c",
-   "source": "Radio Cooperativa",
-   "title": "Líder deberá indemnizar a 48 cajeros despedidos tras rechazar cambio de contrato",
-   "description": "La Corte Suprema confirmó la condena por despido discriminatorio de 48 trabajadores de supermercados Líder , quienes fueron desvinculados tras rechazar un anexo de contrato que modificaba sus funciones y les hacía perder beneficios salariales. La Cuarta Sala del máximo tribunal a",
-   "url": "https://www.cooperativa.cl/noticias/pais/trabajo/denuncias/lider-debera-indemnizar-a-48-cajeros-despedidos-tras-rechazar-cambio-de/2026-11-03/113747.html",
-   "date": "2026-11-03T14:37:47+00:00",
-   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -619,16 +759,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
    "date": "2026-11-03T13:21:57+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "19166c0e46f0",
-   "source": "Radio Cooperativa",
-   "title": "Italia, Rumanía y Portugal registraron nuevos ciberataques a supermercados",
-   "description": "Una nueva serie de ciberataques se registraron en las últimas horas en Europa, afectando a supermercados en Italia, Rumanía y Portugal , donde hackers aumentaron las t emperaturas de los sistemas de refrigeración hasta 50 grados, generando pérdidas de alimentos. El Gobierno de It",
-   "url": "https://www.cooperativa.cl/noticias/mundo/europa/italia-rumania-y-portugal-registraron-nuevos-ciberataques-a/2026-11-03/102114.html",
-   "date": "2026-11-03T13:21:14+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -802,16 +932,6 @@
    "type": "Prensa"
   },
   {
-   "id": "530e3a433fa4",
-   "source": "Al Jazeera",
-   "title": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply",
-   "description": "Renewed strikes on Black Sea shipping imperil grain exports, drive up food prices and deepen global food insecurity.",
-   "url": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss",
-   "date": "2026-11-03T12:10:47+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "ad1b23c7421b",
    "source": "BBC Mundo",
    "title": "La madre en Chile a la que obligaron a esperar que su bebé muriera en su vientre y ahora un fallo histórico le otorga una indemnización millonaria",
@@ -832,16 +952,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8d139d9ac231",
-   "source": "Al Jazeera",
-   "title": "How India pulled 500 million people out of poverty as inequality deepens",
-   "description": "India's extreme poverty declined from 27.1 percent to 2.6 percent between 2011 and 2023, according to the World Bank.",
-   "url": "https://www.aljazeera.com/news/2026/11/3/how-india-pulled-500-million-people-out-of-poverty-as-inequality-deepens?traffic_source=rss",
-   "date": "2026-11-03T11:30:34+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "a53c36fc4a06",
    "source": "BBC Mundo",
    "title": "Qué es el \"zeptoverso\", el mundo más pequeño jamás detectado en la naturaleza, y por qué es clave para entender el universo",
@@ -849,16 +959,6 @@
    "url": "https://www.bbc.com/mundo/articles/c60rldxq8k1ro?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-03T11:29:22+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "31005bd37a5b",
-   "source": "Al Jazeera",
-   "title": "Polls open in closely contested US midterm elections 2026",
-   "description": "Democrats are eyeing historic gains in the US Congress that could change the trajectory of the country.",
-   "url": "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss",
-   "date": "2026-11-03T11:27:14+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -879,16 +979,6 @@
    "url": "https://www.bbc.com/mundo/articles/c64g1vx4vv3go?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-03T11:06:37+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "68701d230bcb",
-   "source": "Al Jazeera",
-   "title": "Alaska Senate candidates trade accusations ahead of election",
-   "description": "Alaska Senate candidates trade accusations ahead of election",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/alaska-senate-candidates-trade-accusations-ahead-of-election?traffic_source=rss",
-   "date": "2026-11-03T11:01:27+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1108,46 +1198,6 @@
    "description": "La campaña demócrata en Michigan atraviesa una fuerte turbulencia después de que la congresista Haley Stevens anunciara su respaldo al candidato republicano Mike Rogers en la disputada carrera por el Senado, en lugar de apoyar al candidato de su propio partido, Abdul El-Sayed. De",
    "url": "https://www.france24.com/es/video/20261103-informe-desde-dearborn-tormenta-en-la-campa%C3%B1a-dem%C3%B3crata-por-apoyo-de-stevens-a-rogers",
    "date": "2026-11-03T03:31:42+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "9018eec86b98",
-   "source": "France 24",
-   "title": "Directo Midterms y el inusual último acto de campaña de Donald Trump",
-   "description": "El presidente Donald Trump cerró la campaña para las elecciones de medio término con un acto inusual junto al estanque reflectante del Monumento a Lincoln, en Washington. En lugar de centrarse en los temas que dominan la contienda electoral, dedicó buena parte de su discurso a de",
-   "url": "https://www.france24.com/es/video/20261103-directo-midterms-y-el-inusual-%C3%BAltimo-acto-de-campa%C3%B1a-de-donald-trump",
-   "date": "2026-11-03T03:30:41+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "2ca2429872ba",
-   "source": "France 24",
-   "title": "Chile: miles de jubilados pierden sus ahorros tras la apuesta fallida de los fondos de pensiones",
-   "description": "Más de 760.000 chilenos vieron reducirse sus ahorros previsionales, entre ellos cerca de 70.000 adultos mayores, tras las pérdidas registradas por el fondo más conservador del sistema. El revés se originó en inversiones realizadas por las AFP en instrumentos vinculados a las tasa",
-   "url": "https://www.france24.com/es/video/20261103-chile-miles-de-jubilados-pierden-sus-ahorros-tras-la-apuesta-fallida-de-los-fondos-de-pensiones",
-   "date": "2026-11-03T03:29:23+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "894747121026",
-   "source": "France 24",
-   "title": "Abdul El-Sayed busca conquistar el voto musulmán desencantado en Michigan",
-   "description": "En Dearborn, corazón de la comunidad árabe y musulmana de Michigan, muchos votantes que castigaron a los demócratas por el apoyo de Joe Biden a Israel en la guerra de Gaza ahora también expresan su decepción con Donald Trump. En este escenario, el candidato al Senado El Sayed int",
-   "url": "https://www.france24.com/es/video/20261103-abdul-el-sayed-busca-conquistar-el-voto-musulm%C3%A1n-desencantado-en-michigan",
-   "date": "2026-11-03T03:27:51+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "321caf0e5a07",
-   "source": "France 24",
-   "title": "Trump se la juega a todo o nada en las midterms: ¿perderá el control del Congreso?",
-   "description": "Donald Trump se enfrenta a una de las pruebas políticas más importantes de su mandato. Las elecciones de medio mandato pondrán en juego el control del Congreso estadounidense, donde los republicanos mantienen actualmente una ajustada mayoría en ambas cámaras. Los sondeos apuntan ",
-   "url": "https://www.france24.com/es/programas/el-debate/20261103-trump-se-la-juega-a-todo-o-nada-en-las-midterms-perder%C3%A1-el-control-del-congreso",
-   "date": "2026-11-03T03:26:30+00:00",
    "category": "Elecciones",
    "type": "Prensa"
   },
@@ -1382,16 +1432,6 @@
    "type": "Prensa"
   },
   {
-   "id": "364e457e7206",
-   "source": "Ex-Ante",
-   "title": "De Leonardo DiCaprio al nieto de Jimmy Carter: el mercado de islas del sur de Chile que se venden hasta en US$35 millones",
-   "description": "Según un catastro de Colliers, existen unas 20 islas privadas a la venta entre Los Lagos y Magallanes, un 25% más que en 2025. Los…",
-   "url": "https://www.ex-ante.cl/negocios/mercado-islas-sur-chile-por-us35millones/",
-   "date": "2026-11-02T20:06:30+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "f73dfa53b1bb",
    "source": "The Guardian",
    "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
@@ -1399,26 +1439,6 @@
    "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
    "date": "2026-11-02T20:00:27+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "bf6d882c0346",
-   "source": "Ex-Ante",
-   "title": "Rebaja de penas: Oposición cuestiona presupuesto de Justicia para subir presión a Rabat",
-   "description": "La partida del Presupuesto 2027 para Justicia recibió 74 indicaciones, vale decir, propuestas para modificar el erario del Ministerio. El PS y el FA ya…",
-   "url": "https://www.ex-ante.cl/politica/rabat-oposicion-pone-en-jaque-justicia/",
-   "date": "2026-11-02T19:38:23+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "f8ac6ce09956",
-   "source": "Ex-Ante",
-   "title": "Meses de errores de manual",
-   "description": "Es hora de guardar silencio táctico, ordenar prioridades de verdad, asumir decisiones difíciles y convocar a personeros con oficio probado. Se gobierna para liderar un…",
-   "url": "https://www.ex-ante.cl/opinion/meses-de-errores-de-manual/",
-   "date": "2026-11-02T19:06:29+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1669,16 +1689,6 @@
    "url": "https://www.dw.com/es/boca-juniors-gana-el-superclásico-argentino-al-river-plate/a-79824836?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-01T21:24:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "55fca5eba918",
-   "source": "The Guardian",
-   "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
-   "description": "Third day of indirect talks as Qatar tries to negotiate release of $6bn in Iranian assets that could lead to waterway’s reopening Officials from the Gulf states are “braced for the worst” as they wait for Washington’s response to an Iranian proposal that could reopen the strait o",
-   "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
-   "date": "2026-11-01T17:49:28+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
