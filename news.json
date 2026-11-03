@@ -1,24 +1,344 @@
 {
- "updated": "2026-11-03T14:05:32.744028+00:00",
+ "updated": "2026-11-03T15:43:52.184163+00:00",
  "items": [
+  {
+   "id": "28aac1f288f3",
+   "source": "Radio Cooperativa",
+   "title": "Fernando Díaz: \"Nos olvidamos del descenso y ahora luchamos por una copa\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Un revitalizador triunfo consiguió Deportes Concepción tras superar por 1-0 a Palestino en el Estadio \"Ester Roa Rebolledo\" , resultado que no sólo cortó una racha de dos fechas sin festejos en la Liga de Primera, sino que ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/deportes-concepcion/fernando-diaz-nos-olvidamos-del-descenso-y-ahora-luchamos-por-una-copa/2026-11-03/122843.html",
+   "date": "2026-11-03T15:28:43+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a0fb7f72dae0",
+   "source": "The Guardian",
+   "title": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
+   "description": "A previously unseen family archive offers a glimpse into the Indian Nobel prize winner’s artistic process and personal relationships in his final years Don’t get This is India delivered to your inbox? Sign up here It’s easy to run out of words to describe Rabindranath Tagore. The",
+   "url": "https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india",
+   "date": "2026-11-03T15:24:53+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "bdeccd682cb5",
+   "source": "Radio Cooperativa",
+   "title": "Del sol a los granizos: El cambiante día en Santiago",
+   "description": "Sol, nubes y hasta granizos ha tenido este martes la Región Metropolitana, en la que se había pronosticado chubascos para la jornada. En el Barrio Yungay , en las inmediaciones de Radio Cooperativa, tuvimos una intensa granizada que se extenidió por algunos minutos. Granizos en e",
+   "url": "https://www.cooperativa.cl/noticias/pais/tiempo/del-sol-a-los-granizos-el-cambiante-dia-en-santiago/2026-11-03/122446.html",
+   "date": "2026-11-03T15:24:46+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "d91658d66409",
    "source": "The Guardian",
-   "title": "King to give speech to Commonwealth leaders as Burnham opens slavery apology talks – UK politics live",
+   "title": "King tells Commonwealth leaders that Britain’s role in slave trade was ‘shameful’ but stops short of apology – UK politics live",
    "description": "Speech by Charles marks formal opening of Commonwealth Heads of Government Meeting (Chogm) in Antigua Q: Do you think the UK should reconsider Commonwealth membership, given other countries just keep asking us for slavery reparations? Badenoch said she did not agree with that “be",
    "url": "https://www.theguardian.com/politics/live/2026/nov/03/shabana-mahmood-migration-brexit-eu-labour-andy-burnham-kemi-badenoch-king-charles-commonwealth-uk-politics-latest-news",
-   "date": "2026-11-03T13:56:28+00:00",
+   "date": "2026-11-03T15:23:11+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "79f00c6161b2",
+   "source": "Radio Cooperativa",
+   "title": "Matthei comparó a Rabat con la gangrena y dijo que votaría a favor de la AC",
+   "description": "La exministra Evelyn Matthei (UDI) dijo que, si fuera parlamentaria, apoyaría la acusación constitucional contra el ministro de Justicia, Fernando Rabat , en medio de la polémica generada por los decretos con que rebajó condenas a violadores y abusadores de menores de 14 años. En",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/matthei-comparo-a-rabat-con-la-gangrena-y-dijo-que-votaria-a-favor-de-la/2026-11-03/121954.html",
+   "date": "2026-11-03T15:19:54+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "d974090c51f6",
+   "source": "The Guardian",
+   "title": "Reform UK councillor charged with 12 counts of rape and multiple other offences",
+   "description": "Charges against party’s leader on Hampshire county council, George Madgwick, linked to events alleged to have taken place in Portsmouth and Wales Reform UK’s leader on Hampshire county council has been charged with 12 counts of rape and one of distributing indecent images of a ch",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape",
+   "date": "2026-11-03T15:15:58+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "f00420ef84b9",
+   "source": "BBC Mundo",
+   "title": "\"Soy morra, cis y hetero, pero creo que es mejor tener menos novios y más amigas\"",
+   "description": "La escritora mexicana y ganadora del Premio Biblioteca Breve 2026, conversa con BBC Mundo sobre su obra y cómo es vivir al lado de la frontera con EE.UU.",
+   "url": "https://www.bbc.com/mundo/articles/cme3xkq104ejo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T15:14:21+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "d6568fb001cd",
+   "source": "Radio Cooperativa",
+   "title": "Timonel PPD: \"La crisis se está empezando a hacer generalizada\"",
+   "description": "El presidente del PPD, Raúl Soto , alertó en El Primer Café que la conjunción del caso Rabat con los problemas de crecimiento y empleo -que hoy tienen incluso movilizados a los camioneros- están dibujando un escenario de \"crisis generalizada\" en Chile , cuya responsabilidad es de",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/ppd/timonel-ppd-la-crisis-se-esta-empezando-a-hacer-generalizada/2026-11-03/121110.html",
+   "date": "2026-11-03T15:11:10+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "6d6d8c31712e",
+   "source": "Radio Cooperativa",
+   "title": "Lollapalooza Chile 2027 revela su line up por día: ¿Cuánto cuesta una entrada?",
+   "description": "El Festival Lollapalooza Chile dio a conocer el line up de artistas por día de cara a su edición de 2027. Para el día viernes 12 de marzo se fijaron los shows de Charli XCX y el DJ David Guetta al cierre, además de las presentaciones de Dominic Fike, Cage The Elephant, Lola Young",
+   "url": "https://www.cooperativa.cl/noticias/magazine/festivales/lollapalooza/lollapalooza-chile-2027-revela-su-line-up-por-dia-cuanto-cuesta-una/2026-11-03/120659.html",
+   "date": "2026-11-03T15:06:59+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e95b4f5432af",
+   "source": "Radio Cooperativa",
+   "title": "Un jugador con el mismo apellido que Owono denunció insultos y amenazas en las redes",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El defensa del club FC Can Vidalet, de la sexta división española, Michel Owono denunció estar recibiendo \"mensajes de odio, racismo, insultos y amenazas\" de aficionados que lo han confundido con el portero de Andorra Jesús",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-espanola/un-jugador-con-el-mismo-apellido-que-owono-denuncio-insultos-y-amenazas/2026-11-03/120256.html",
+   "date": "2026-11-03T15:02:56+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "b4a7b3e0dfa1",
+   "source": "Ex-Ante",
+   "title": "Desafíos y estrategias en la incorporación de la IA",
+   "description": "Si somos capaces de combinar la innovación con una reflexión crítica, excelencia académica con formación integral y desarrollo tecnológico con responsabilidad ética, se podrá convertir…",
+   "url": "https://www.ex-ante.cl/opinion/desafios-y-estrategias-incorporacion-ia/",
+   "date": "2026-11-03T15:02:25+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "64c5274f8f8a",
+   "source": "Deutsche Welle",
+   "title": "Harry Kane cambiaría la gloria del Balón de Oro por levantar la Champions League con el Bayern Múnich",
+   "description": "El delantero inglés asegura que los títulos colectivos están por encima de los reconocimientos individuales.",
+   "url": "https://www.dw.com/es/harry-kane-cambiaría-la-gloria-del-balón-de-oro-por-levantar-la-champions-league-con-el-bayern-múnich/a-79844138?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-03T15:02:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "aec4dc790f58",
+   "source": "Al Jazeera",
+   "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
+   "description": "Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.",
+   "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
+   "date": "2026-11-03T15:00:10+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f150908ed880",
+   "source": "Al Jazeera",
+   "title": "Global food security is under threat",
+   "description": "Attacks on grain shipments from Russia and Ukraine may drive up food prices, hitting import-dependent countries hardest.",
+   "url": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
+   "date": "2026-11-03T14:58:10+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
    "id": "14f987104304",
    "source": "The Guardian",
-   "title": "Four separate flights from London, Copenhagen, Manchester and Israel affected by bomb threats – Europe live",
-   "description": "Warsaw-Modlin Airport gives the all-clear after concluding security sweeps on a LOT Polish Airlines flight from London Back to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the airport where the London flight was parked ",
+   "title": "Bulgaria confirms bomb threats against flights from Bergamo and Dublin – Europe live",
+   "description": "Seven bomb threats have now been reported across Europe, all incidents have been confirmed as false alarms Back to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the airport where the London flight was parked remain close",
    "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
-   "date": "2026-11-03T13:53:38+00:00",
+   "date": "2026-11-03T14:57:15+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "15dc013bac4c",
+   "source": "The Guardian",
+   "title": "‘Well-known individual’ fails in bid for injunction against Guardian and ITN",
+   "description": "Person’s anonymity remains in place subject to any appeal against high court decision A “well-known individual” has failed in his bid to stop two media organisations from publishing allegations of inappropriate sexual activities, the high court has ruled. The legal team for the a",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/03/well-known-individual-fails-injunction-bid-guardian-itn",
+   "date": "2026-11-03T14:56:17+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c2d0fd703fb2",
+   "source": "Ex-Ante",
+   "title": "Economía y mercados: ¿cuántas caras tiene la moneda?",
+   "description": "A septiembre, la actividad cumplió uno de sus peores ciclos sin crisis global. A pesar de que la cifra está muy influida por la minería…",
+   "url": "https://www.ex-ante.cl/afteroffice/economia-y-mercados-caras-de-la-moneda/",
+   "date": "2026-11-03T14:49:39+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "03d371404367",
+   "source": "Deutsche Welle",
+   "title": "Trump dice que cortará casi 4.000 millones de dólares en ayuda militar a Israel a final de año",
+   "description": "El presidente de Estados Unidos, Donald Trump, dijo que Washington terminaría un acuerdo de asistencia de seguridad de 10 años con Israel, que preveía el envío anual de 3.800 millones de dólares a su aliado hasta 2028.",
+   "url": "https://www.dw.com/es/trump-dice-que-cortará-casi-4-000-millones-de-dólares-en-ayuda-militar-a-israel-a-final-de-año/a-79843694?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-03T14:48:00+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "6e6eaa773cf8",
+   "source": "Radio Cooperativa",
+   "title": "Fondo E repuntó en octubre, pero acumula caída de 7,56%",
+   "description": "El fondo E registró una rentabilidad positiva de 3,16% en octubre , lo que permitió reducir su caída acumulada en el año a 7,56% , de acuerdo con un informe de MMDB Consultores elaborado a partir de cifras de la Superintendencia de Pensiones. El resultado representa su mejor reto",
+   "url": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/fondo-e-repunto-en-octubre-pero-acumula-caida-de-7-56/2026-11-03/114715.html",
+   "date": "2026-11-03T14:47:15+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "6acc1cac8794",
+   "source": "Al Jazeera",
+   "title": "US midterm voting begins in high-stakes test of Trump’s presidency",
+   "description": "Voting is under way across the US in midterm elections that could strip Trump’s Republicans of control of Congress.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-midterm-voting-begins-in-high-stakes-test-of-trumps-presidency?traffic_source=rss",
+   "date": "2026-11-03T14:42:41+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "460eb9a09d48",
+   "source": "Radio Cooperativa",
+   "title": "En \"shock\" y acosado en redes: El dramático momento de Jesús Owono tras el fatal choque en España",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Un complejo presente atraviesa el arquero de FC Andorra y de la selección de Guinea Ecuatorial, Jesús Owono , luego de protagonizar la desafortunada jugada que derivó en la muerte del delantero de CD Tenerife, Jesús de Migu",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-espanola/en-shock-y-acosado-en-redes-el-dramatico-momento-de-jesus-owono-tras/2026-11-03/113905.html",
+   "date": "2026-11-03T14:39:05+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "23fb3ba2b32c",
+   "source": "Radio Cooperativa",
+   "title": "Líder deberá indemnizar a 48 cajeros despedidos tras rechazar cambio de contrato",
+   "description": "La Corte Suprema confirmó la condena por despido discriminatorio de 48 trabajadores de supermercados Líder , quienes fueron desvinculados tras rechazar un anexo de contrato que modificaba sus funciones y les hacía perder beneficios salariales. En una sentencia del 30 de octubre, ",
+   "url": "https://www.cooperativa.cl/noticias/pais/trabajo/denuncias/lider-debera-indemnizar-a-48-cajeros-despedidos-tras-rechazar-cambio-de/2026-11-03/113747.html",
+   "date": "2026-11-03T14:37:47+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "a03237d04c8c",
+   "source": "The Guardian",
+   "title": "True crime novel about 1949 murder of Paris life model wins France’s biggest literary prize",
+   "description": "Philippe Jaenada wins Prix Goncourt with novel that seeks to solve 77-year-old case and rehabilitates reputation of its victim A literary true-crime investigation that tries to solve a 77-year-old cold case and ends up rehabilitating the reputation of its life model victim has wo",
+   "url": "https://www.theguardian.com/books/2026/nov/03/true-crime-novel-murdered-model-wins-france-literary-prize-prix-goncourt-philippe-jaenada",
+   "date": "2026-11-03T14:31:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "7adeb6948fc8",
+   "source": "Al Jazeera",
+   "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
+   "description": "The banned UK group, which targets Israel's war machine, has inspired activists in Europe and beyond.",
+   "url": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
+   "date": "2026-11-03T14:30:24+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "26d5ee906c13",
+   "source": "The Guardian",
+   "title": "Freezers of UK meat suppliers heat up after cyber-attacks in Europe",
+   "description": "Cybersecurity experts say incidents had minimal effect but may represent the ‘foothills’ of a wider threat Meat suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe. The UK’s National Cyber Security Centre ",
+   "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
+   "date": "2026-11-03T14:29:37+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "9e609d8766ee",
+   "source": "Deutsche Welle",
+   "title": "El consorcio BioNTech dice adiós a sus fundadores con reporte de ganancias",
+   "description": "El fabricante de vacunas que cobró celebridad durante la pandemia de COVID-19 pasa ahora por tiempos difíciles y es sometida a recortes drásticos.",
+   "url": "https://www.dw.com/es/el-consorcio-biontech-dice-adiós-a-sus-fundadores-con-reporte-de-ganancias/a-79843457?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-03T14:25:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "112926a30192",
+   "source": "The Guardian",
+   "title": "Four planes flying across Europe targeted by bomb threats",
+   "description": "Flights from London, Manchester, Copenhagen and Israel affected but no explosives found after touchdown Europe live – latest updates Four planes have landed safely after bomb threats were made across Europe, including for two flights that departed from the UK, according to report",
+   "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
+   "date": "2026-11-03T14:21:24+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "6f04db03c420",
+   "source": "Al Jazeera",
+   "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
+   "description": "Cold stores in supermarkets across Europe have been targeted in a cyberattack with no clear culprit.",
+   "url": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
+   "date": "2026-11-03T14:17:29+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "af1570d643e3",
+   "source": "Radio Cooperativa",
+   "title": "Hinchas llenaron de flores el estadio de Tenerife en memoria de Jesús de Miguel",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-espanola/hinchas-llenaron-de-flores-el-estadio-de-tenerife-en-memoria-de-jesus-de/2026-11-03/111251.html",
+   "date": "2026-11-03T14:12:51+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "c89043f664c4",
+   "source": "Radio Cooperativa",
+   "title": "Romero y Pardo se enfrascaron sobre lealtades a Kast en medio de la crisis",
+   "description": "Los diputados Agustín Romero (Partido Republicano) y Luis Pardo (Renovación Nacional) tuvieron este martes en El Primer Café intensos cruces de palabras a propósito la crisis que golpea al Gobierno y al oficialismo a raíz de las rebajas de condena a pederastas. El intercambio par",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/partido-republicano/romero-y-pardo-se-enfrascaron-sobre-lealtades-a-kast-en-medio-de-la-crisis/2026-11-03/110604.html",
+   "date": "2026-11-03T14:06:04+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "21ed9867c8df",
+   "source": "Al Jazeera",
+   "title": "Who is goalkeeper Owono and will he be punished after De Miguel’s death?",
+   "description": "Andorra goalkeeper Jesus Owono is at the centre of a social media storm after the death of Tenerife's Jesus de Miguel.",
+   "url": "https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss",
+   "date": "2026-11-03T14:02:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "faa98111eb00",
+   "source": "France 24",
+   "title": "En medio de las midterms, Trump anuncia que pondrá fin a la ayuda financiera a Israel",
+   "description": "",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261103-en-directo-estados-unidos-midterms-elecciones-medio-mandato-congreso-gobernaciones-trump-democratas-republicanos",
+   "date": "2026-11-03T14:00:48+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "efde3fa54a01",
+   "source": "The Guardian",
+   "title": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
+   "description": "Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government Get our breaking news email , free app or daily news podcast Victoria’s public servants union says it will not support Labor at this m",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election",
+   "date": "2026-11-03T14:00:46+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "bde6d33b459d",
+   "source": "The Guardian",
+   "title": "Snowy Hydro 2.0 executives awarded bonuses totalling $751,925 despite cost blowout",
+   "description": "Annual reports show NSW renewable company’s CEO opted out of cash bonus, while CSIRO’s chief received an extra $200,000 Get our breaking news email , free app or daily news podcast Executives at the troubled Snowy Hydro company collectively banked bonuses worth a combined $751,92",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/04/snowy-hydro-20-executives-awarded-bonuses-totalling-751925-despite-cost-blowout",
+   "date": "2026-11-03T14:00:44+00:00",
+   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -62,6 +382,16 @@
    "type": "Prensa"
   },
   {
+   "id": "b20a686b580b",
+   "source": "Al Jazeera",
+   "title": "Trump says US will stop giving Israel aid after year-end",
+   "description": "Military aid to Israel and campaign contributions from Israel's backers to US candidates has animated political debate.",
+   "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
+   "date": "2026-11-03T13:42:05+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
    "id": "ff4dbcaba759",
    "source": "The Guardian",
    "title": "Car finance: Barclays becomes first big lender to offer payouts for mis-selling of loans",
@@ -92,26 +422,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e22bc3c62f4f",
-   "source": "Radio Cooperativa",
-   "title": "La Policía española abrió una investigación por la muerte de Jesús de Miguel",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La Policía Nacional española abrió una investigación sobre la muerte del futbolista del Club Deportivo Tenerife Jesús de Miguel , que está ya bajo supervisión judicial, según confirmaron a la Agencia EFE fuentes de la Comis",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-espanola/la-policia-espanola-abrio-una-investigacion-por-la-muerte-de-jesus-de/2026-11-03/102930.html",
-   "date": "2026-11-03T13:29:30+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "3e24d941bff8",
-   "source": "Radio Cooperativa",
-   "title": "Documental chileno \"No todas las niñas\" se estrenará en prestigioso festival en Nueva York",
-   "description": "El largometraje documental \"No todas las niñas\" , dirigido por la cineasta chilena Carolina Astudillo Muñoz , celebrará su estreno mundial en la 17ª edición del festival DOC NYC de Nueva York , el cual se realizará durante el mes de noviembre. De acuerdo a un comunicado, la cinta",
-   "url": "https://www.cooperativa.cl/noticias/magazine/cine/documentales/documental-chileno-no-todas-las-ninas-se-estrenara-en-prestigioso/2026-11-03/102401.html",
-   "date": "2026-11-03T13:24:01+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "9cbcc37c132d",
    "source": "Deutsche Welle",
    "title": "Cuatro vuelos reciben amenazas en Europa y obligan a activar dispositivos de seguridad",
@@ -129,6 +439,16 @@
    "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
    "date": "2026-11-03T13:21:57+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "19166c0e46f0",
+   "source": "Radio Cooperativa",
+   "title": "Italia, Rumanía y Portugal registraron nuevos ciberataques a supermercados",
+   "description": "Una nueva serie de ciberataques se registraron en las últimas horas en Europa, afectando a supermercados en Italia, Rumanía y Portugal , donde hackers aumentaron las t emperaturas de los sistemas de refrigeración hasta 50 grados, generando pérdidas de alimentos. El Gobierno de It",
+   "url": "https://www.cooperativa.cl/noticias/mundo/europa/italia-rumania-y-portugal-registraron-nuevos-ciberataques-a/2026-11-03/102114.html",
+   "date": "2026-11-03T13:21:14+00:00",
+   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -172,26 +492,6 @@
    "type": "Prensa"
   },
   {
-   "id": "15bbefa6bfaf",
-   "source": "Radio Cooperativa",
-   "title": "Dibujante irá a la cárcel por publicar caricaturas del rey de Marruecos",
-   "description": "El dibujante marroquí Yassir Mounbir fue condenado a cuatro años de prisión por el Tribunal de Primera Instancia de Casablanca, acusado de \"insultar al rey\" al publicar en su cuenta de Instagram varias caricaturas del monarca Mohamed VI. El joven, de 22 años, también fue condenad",
-   "url": "https://www.cooperativa.cl/noticias/mundo/africa/marruecos/dibujante-ira-a-la-carcel-por-publicar-caricaturas-del-rey-de-marruecos/2026-11-03/101234.html",
-   "date": "2026-11-03T13:12:34+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "c148336b1c8c",
-   "source": "Radio Cooperativa",
-   "title": "Real Betis reafirmó su intención de negociar una renovación con Manuel Pellegrini",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El anhelo de ver a Manuel Pellegrini en la banca de la selección chilena para encabezar el proceso clasificatorio rumbo al Mundial de 2030 sufrió un duro revés en España, luego de que el presidente de Real Betis, Ángel Haro",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/manuel-pellegrini/real-betis-reafirmo-su-intencion-de-negociar-una-renovacion-con-manuel/2026-11-03/100928.html",
-   "date": "2026-11-03T13:09:28+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "d7482a2b06d5",
    "source": "Al Jazeera",
    "title": "Qatar remains hopeful the US and Iran can reach a deal",
@@ -199,16 +499,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/qatar-remains-hopeful-the-us-and-iran-can-reach-a-deal?traffic_source=rss",
    "date": "2026-11-03T13:05:39+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "8787b319ad87",
-   "source": "The Guardian",
-   "title": "New tool will help gardeners move away from thirsty English classics to drought-resistant plants",
-   "description": "Exclusive: Garden Climate Assessment Tool will allow users to predict a plant’s response to the projected climate in a given location “In the 20th century, we could pretty much grow the same things with confidence, we could learn from previous generations,” said Prof Sam Brocking",
-   "url": "https://www.theguardian.com/environment/2026/nov/03/garden-climate-assessment-tool-drought-gardening",
-   "date": "2026-11-03T13:05:28+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -242,36 +532,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0d6b5f831142",
-   "source": "The Guardian",
-   "title": "Rent rises of up to 88% still passing in England despite Renters’ Reform Act",
-   "description": "Exclusive: While tenants are challenging increases in record numbers, renters and landlords say system is ‘not working for anyone’ The rent tribunal system is “not working for anyone”, tenants and landlords have said, as rent increases of up to 88% continue to be approved despite",
-   "url": "https://www.theguardian.com/society/2026/nov/03/big-rent-rises-passing-in-england-despite-renters-reform-act",
-   "date": "2026-11-03T12:59:44+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "faa98111eb00",
-   "source": "France 24",
-   "title": "Midterms en directo: abren las urnas en la costa este para unos comicios determinantes en EE. UU.",
-   "description": "",
-   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261103-en-directo-estados-unidos-midterms-elecciones-medio-mandato-congreso-gobernaciones-trump-democratas-republicanos",
-   "date": "2026-11-03T12:59:19+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "8aa640a4fd69",
-   "source": "Radio Cooperativa",
-   "title": "Julio César Rodríguez reaccionó a imitación de Kramer: \"Le sale mal, fome\"",
-   "description": "El animador Julio César Rodríguez reaccionó a la imitación que le hizo Stefan Kramer en el más reciente episodio de \"Vértigo\". En su canal de Youtube Yuly, JC analizó la performance del comediante y señaló que \"la imitación fue débil\" y que \"era el guion más débil de los tres (ca",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/julio-cesar-rodriguez-reacciono-a-imitacion-de-kramer-le-sale-mal/2026-11-03/095615.html",
-   "date": "2026-11-03T12:56:15+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "a503ae9c7c4c",
    "source": "France 24",
    "title": "Economía circular: ¿podemos romper el ciclo de comprar y desechar?",
@@ -282,16 +542,6 @@
    "type": "Prensa"
   },
   {
-   "id": "690da163ef10",
-   "source": "The Guardian",
-   "title": "Andrew Scott drama Elsinore leads British independent film award nominations",
-   "description": "Elsinore is in contention for 12 Bifas, including for Scott’s highly praised performance, while Clio Barnard’s I See Buildings Fall Like Lightning, Ashley Walters’ Animol and Mike Leigh’s Tender Loving Care are also recognised Elsinore, the drama in which Andrew Scott plays the a",
-   "url": "https://www.theguardian.com/film/2026/nov/03/andrew-scott-elsinore-shakespeare-bifas-british-independent-film-award-nominations",
-   "date": "2026-11-03T12:49:40+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "54ff5d741d48",
    "source": "France 24",
    "title": "Abogado de Luisa González denuncia una 'clara persecución política' en Ecuador",
@@ -299,6 +549,16 @@
    "url": "https://www.france24.com/es/programas/la-entrevista/20261103-abogado-de-luisa-gonz%C3%A1lez-denuncia-una-clara-persecuci%C3%B3n-pol%C3%ADtica-en-ecuador",
    "date": "2026-11-03T12:49:04+00:00",
    "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "27d7ab7b037e",
+   "source": "Radio Cooperativa",
+   "title": "Cuatro vuelos reciben amenazas en Europa y obligan a activar dispositivos de seguridad",
+   "description": "Cuatro vuelos europeos , dos con dirección a Varsovia (Polonia) procedentes de Londres y Copenhague, otro que cubría la ruta Manchester (Reino Unido)-Murcia (España) y otro proveniente de Israel que aterrizó en Sofía han registrado amenazas que han obligado a activar los disposit",
+   "url": "https://www.cooperativa.cl/noticias/mundo/europa/cuatro-vuelos-reciben-amenazas-en-europa-y-obligan-a-activar/2026-11-03/094018.html",
+   "date": "2026-11-03T12:40:18+00:00",
+   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -322,16 +582,6 @@
    "type": "Prensa"
   },
   {
-   "id": "16d627874715",
-   "source": "Radio Cooperativa",
-   "title": "Sujetos a caballo agredieron y amenazaron de muerte a funcionarios de Peñalolén",
-   "description": "La Municipalidad de Peñalolén denunció la agresión por parte de sujetos a caballo en contra de dos funcionarios municipales que realizaban labores de limpieza y retiro de residuos en el Parque Natural Quebrada de Macul . De acuerdo a los antecedentes, los trabajadores se desplaza",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/sujetos-a-caballo-agredieron-y-amenazaron-de-muerte-a-funcionarios-de/2026-11-03/093601.html",
-   "date": "2026-11-03T12:36:01+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "47ac0b816240",
    "source": "Al Jazeera",
    "title": "Two police officers protecting polio workers in Pakistan shot dead",
@@ -352,16 +602,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4a72666eb4b5",
-   "source": "Radio Cooperativa",
-   "title": "Maximiliano Romero tras brillar en Copa Chile: \"Encontré un lugar donde soy feliz\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Una positiva jornada vivió el delantero de Colo Colo Maximiliano Romero, quien se alzó como la gran figura en la victoria por 3-0 sobre Deportes Puerto Montt en el Estadio Monumental, sellando la clasificación a las semifin",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/maximiliano-romero-tras-brillar-en-copa-chile-encontre-un-lugar-donde/2026-11-03/092728.html",
-   "date": "2026-11-03T12:27:28+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "48d1730715a2",
    "source": "The Guardian",
    "title": "Russia bombs humanitarian hub in Ukraine, killing at least 31 people",
@@ -372,36 +612,6 @@
    "type": "Prensa"
   },
   {
-   "id": "bdf7a866d2ca",
-   "source": "Radio Cooperativa",
-   "title": "Rusia no cree versión de que EE.UU. usará un arma nuclear en Irán",
-   "description": "El ministro de Relaciones Exteriores de Rusia, Serguéi Lavrov, afirmó que no hay motivos para hablar de un posible ataque nuclear de Estados Unidos contra Irán , tal y como adelantó el periodista estadounidense Tucker Carlson, expartidario de Trump, y que respondería a una petici",
-   "url": "https://www.cooperativa.cl/noticias/mundo/iran/rusia-no-cree-version-de-que-ee-uu-usara-un-arma-nuclear-en-iran/2026-11-03/092251.html",
-   "date": "2026-11-03T12:22:51+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "5a8ea436ff7e",
-   "source": "Radio Cooperativa",
-   "title": "Boy George se reunió con el presidente de Israel tras sacar una canción en apoyo al país",
-   "description": "El cantante británico Boy George se reunió con el presidente de Israel , Isaac Herzog, en el marco de un viaje tras lanzar la canción \"We will dance again\" en apoyo al país tras los sucesos del 7 de octubre de 2023 en el que tropas de Hamas atacaron un festival de música israelí.",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/pop-en-ingles/boy-george-se-reunio-con-el-presidente-de-israel-tras-sacar-una-cancion/2026-11-03/091929.html",
-   "date": "2026-11-03T12:19:29+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "b2537cb10dc3",
-   "source": "Radio Cooperativa",
-   "title": "Diputada Ossandón: Se hace muy difícil la continuidad del ministro Rabat",
-   "description": "La vicepresidenta de la Cámara de Diputados, Ximena Ossandón (RN), dijo en Cooperativa que \"se hace muy difícil\" la continuidad del ministro de Justicia, Fernando Rabat, en medio de la polémica generada por el decreto que permitió la rebaja de condenas de abusadores y violadores ",
-   "url": "https://www.cooperativa.cl/noticias/pais/politica/diputada-ossandon-se-hace-muy-dificil-la-continuidad-del-ministro-rabat/2026-11-03/091617.html",
-   "date": "2026-11-03T12:16:17+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "cd4b42448f48",
    "source": "Al Jazeera",
    "title": "Al Jazeera journalist recounts arrest during Israeli raid on his home",
@@ -409,16 +619,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/al-jazeera-journalist-recounts-arrest-during-israeli-raid-on-his-home?traffic_source=rss",
    "date": "2026-11-03T12:14:19+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "e7087ef4900d",
-   "source": "Radio Cooperativa",
-   "title": "Trump: Tenemos el control total de Venezuela y el 50% del petróleo mundial",
-   "description": "El presidente de Estados Unidos, Donald Trump, afirmó este lunes que su país tiene \"control total\" sobre Venezuela y aseguró haber conseguido \"el 50 % del petróleo mundial\", durante dos entrevistas con Fox News, a pocas horas de la apertura de los colegios electorales para las el",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/donald-trump/trump-tenemos-el-control-total-de-venezuela-y-el-50-del-petroleo-mundial/2026-11-03/091401.html",
-   "date": "2026-11-03T12:14:01+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -439,16 +639,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss",
    "date": "2026-11-03T12:10:47+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "928c5e6803d6",
-   "source": "Radio Cooperativa",
-   "title": "Harry Kane reconoció que está a detalles de renovar con Bayern Munich",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La renovación del delantero inglés Harry Kane con Bayern Múnich está muy cerca, según expresó este lunes el propio delantero y Balón de Oro, antes de su partido de la Liga de Campeones de este martes ante Atlético de Madrid",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-alemana/harry-kane-reconocio-que-esta-a-detalles-de-renovar-con-bayern-munich/2026-11-03/090837.html",
-   "date": "2026-11-03T12:08:37+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -505,7 +695,7 @@
    "id": "b08b5c37c98d",
    "source": "Deutsche Welle",
    "title": "Muere el delantero del Tenerife Jesús de Miguel tras golpe y paro cardíaco sufridos en un partido de Segunda División",
-   "description": "El delantero del Tenerife Jesús de Miguel, de 30 años, murió este martes 3 de noviembre tras el golpe que sufrió con un contrario el lunes en un partido de la Segunda División española contra el Andorra.",
+   "description": "El delantero del Tenerife Jesús de Miguel, de 30 años, murió este martes 3 de noviembre tras el choque que sufrió con un contrario el lunes en un partido de la Segunda División española contra el Andorra.",
    "url": "https://www.dw.com/es/muere-el-delantero-del-tenerife-jesús-de-miguel-tras-golpe-y-paro-cardíaco-sufridos-en-un-partido-de-segunda-división/a-79837882?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-03T11:09:00+00:00",
    "category": "Partidos políticos",
@@ -622,46 +812,6 @@
    "type": "Prensa"
   },
   {
-   "id": "134e27a8c8d6",
-   "source": "Al Jazeera",
-   "title": "Lebanon cuts power to public bodies as electricity crisis deepens",
-   "description": "Political disputes and war worsen Lebanon's electricity crisis, as experts say deeper reforms are necessary.",
-   "url": "https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens?traffic_source=rss",
-   "date": "2026-11-03T10:17:27+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "0ced97cde752",
-   "source": "Al Jazeera",
-   "title": "US midterm elections live: Polls open in test for Trump",
-   "description": "First results are expected on Tuesday after polls begin to close at 23:00 GMT, but final results might take days.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-elections-live-polls-due-to-open-in-test-for-trump?traffic_source=rss",
-   "date": "2026-11-03T10:10:48+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "9d40b0d9741b",
-   "source": "Al Jazeera",
-   "title": "Tenerife’s Jesus de Miguel dies after on-field collision with goalkeeper",
-   "description": "Tenerife forward Jesus de Miguel suffered a cardiac arrest after a keeper's challenge in Spanish second division match.",
-   "url": "https://www.aljazeera.com/sports/2026/11/3/footballer-dies-after-on-field-collision?traffic_source=rss",
-   "date": "2026-11-03T09:59:03+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "a791ef734a7a",
-   "source": "Al Jazeera",
-   "title": "‘It gets better’: Olympic president’s advice for bullying victims",
-   "description": "Tell bullies to ‘sod off’. That’s the advice IOC President Kirsty Coventry has for young athletes facing bullying.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/it-gets-better-olympic-presidents-advice-for-bullying-victims?traffic_source=rss",
-   "date": "2026-11-03T09:45:09+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "a3b3552db0da",
    "source": "Deutsche Welle",
    "title": "Trump entra en la lista de \"Depredadores de la Libertad de Prensa\" de Reporteros sin Fronteras",
@@ -672,16 +822,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0447aa6d0277",
-   "source": "Al Jazeera",
-   "title": "Cyclone Murasu makes landfall on India’s eastern coast",
-   "description": "Severe cyclonic storm uproots trees and downs power lines, days after another cyclone battered the same region.",
-   "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast?traffic_source=rss",
-   "date": "2026-11-03T09:33:18+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "30aa501052a8",
    "source": "The Guardian",
    "title": "UK and EU agree deal to remove Brexit checks on food and animal products",
@@ -689,26 +829,6 @@
    "url": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
    "date": "2026-11-03T09:19:21+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "369e92605b03",
-   "source": "Al Jazeera",
-   "title": "Sudan’s displaced return to new challenges in war-battered Khartoum",
-   "description": "The capital was one of the first areas to be affected, and one of the worst hit, by the war between the SAF and the RSF.",
-   "url": "https://www.aljazeera.com/features/2026/11/3/sudans-displaced-return-to-new-challenges-in-war-battered-khartoum?traffic_source=rss",
-   "date": "2026-11-03T09:18:48+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "b87783226fbf",
-   "source": "Al Jazeera",
-   "title": "Surging ICE raids shadow final weeks of California congressional race",
-   "description": "Local organisations and representatives say immigration raids have spread fear and uncertainty through communities.",
-   "url": "https://www.aljazeera.com/news/2026/11/3/surging-ice-raids-shadow-final-weeks-of-california-congressional-race?traffic_source=rss",
-   "date": "2026-11-03T09:13:49+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -759,36 +879,6 @@
    "url": "https://www.bbc.com/mundo/articles/cvp8gx0p2elno?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-03T07:47:39+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "10bab7b3b1be",
-   "source": "The Guardian",
-   "title": "RBA interest rates: Bullock says ‘pain now’ will prevent worse later as Reserve Bank hikes rates for fifth time",
-   "description": "Reserve Bank of Australia increases official cash rate to 4.85%, bringing it to highest level since 2008 RBA interest rates live updates: Reserve Bank cash rate decision Get our daily political email , free app or daily news podcast The Reserve Bank governor Michele Bullock has s",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
-   "date": "2026-11-03T07:36:42+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "39e5ec778169",
-   "source": "The Guardian",
-   "title": "Australia’s social media ban ‘ill-thought-out’, Reddit argues in high court challenge",
-   "description": "Reddit challenges ban on grounds it impinges implied freedom of political communications for teens Get our breaking news email , free app or daily news podcast The Australian government’s rush to pass the under-16s social media ban legislation in 2024 led to “ill-thought-out, ove",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/03/reddit-under-16s-social-media-ban-australia-high-court",
-   "date": "2026-11-03T06:36:58+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "6f2ed7598699",
-   "source": "The Guardian",
-   "title": "Denmark pushes for EU ban on ‘turbo chickens’ as secret footage causes outrage",
-   "description": "Minister says government will work towards banning fast-growing breed across country and throughout EU The Danish government is pursuing a national ban on “turbo chickens” and is calling for the fast-growing breed to be prohibited across Europe. The move comes amid widespread out",
-   "url": "https://www.theguardian.com/world/2026/nov/03/denmark-pushes-for-eu-ban-on-turbo-chickens-as-secret-footage-causes-outrage",
-   "date": "2026-11-03T06:00:39+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1182,16 +1272,6 @@
    "type": "Prensa"
   },
   {
-   "id": "fd714a731e00",
-   "source": "Deutsche Welle",
-   "title": "Irán anuncia contactos \"intensos\" con Estados Unidos para evitar una escalada en el conflicto",
-   "description": "Desde Washington, el vicepresidente J.D. Vance manifestó optimismo por alcanzar un acuerdo negociado con Teherán.",
-   "url": "https://www.dw.com/es/irán-anuncia-contactos-intensos-con-estados-unidos-para-evitar-una-escalada-en-el-conflicto/a-79834973?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-03T00:43:00+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "9c34737fb96c",
    "source": "BBC Mundo",
    "title": "El emotivo regreso a casa de Karl Bushby, el aventurero británico que recorrió el mundo a pie tras partir de Chile hace 28 años",
@@ -1249,16 +1329,6 @@
    "url": "https://www.france24.com/es/video/20261102-qu%C3%A9-tan-precisas-son-las-encuestas-para-estas-elecciones-en-estados-unidos",
    "date": "2026-11-02T23:13:00+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "51c3cf0e9bd3",
-   "source": "France 24",
-   "title": "Bulgaria elige a Iliana Yotova y la continuidad de una línea cercana a Moscú",
-   "description": "La candidata y presidenta en funciones de Bulgaria, Iliana Yotova, se impuso en la segunda vuelta de las elecciones presidenciales, un resultado que apunta a la continuidad de una política de acercamiento a Moscú, dado que su postura ha sido tradicionalmente favorable al presiden",
-   "url": "https://www.france24.com/es/video/20261102-bulgaria-elige-a-iliana-yotova-y-la-continuidad-de-una-l%C3%ADnea-cercana-a-mosc%C3%BA",
-   "date": "2026-11-02T23:02:36+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1342,16 +1412,6 @@
    "type": "Prensa"
   },
   {
-   "id": "18ab38352648",
-   "source": "The Guardian",
-   "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
-   "description": "After a second apparent cyber-attack in weeks, we examine possible culprits and their motives Shop fridges and freezers across Europe hit by fresh suspected cyber-attack Supermarket fridges and freezers in seven European countries have malfunctioned , their thermostats remotely c",
-   "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
-   "date": "2026-11-02T19:07:40+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "f8ac6ce09956",
    "source": "Ex-Ante",
    "title": "Meses de errores de manual",
@@ -1402,16 +1462,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b5f6134be18a",
-   "source": "Ex-Ante",
-   "title": "La Fed de Warsh y las tasas de interés en Chile",
-   "description": "Los bonos del Tesoro estadounidense sirven como referencia para el costo del financiamiento de largo plazo en buena parte del mundo. Cuando sus tasas suben…",
-   "url": "https://www.ex-ante.cl/afteroffice/fed-warsh-y-tasas-de-interes-en-chile/",
-   "date": "2026-11-02T17:49:03+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "97b5ed3248a2",
    "source": "Deutsche Welle",
    "title": "Muere en Ciudad de México a los 64 años el DJ estadounidense Juan Atkins, pionero del tecno",
@@ -1419,16 +1469,6 @@
    "url": "https://www.dw.com/es/muere-en-ciudad-de-méxico-a-los-64-años-el-dj-estadounidense-juan-atkins-pionero-del-tecno/a-79833640?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T17:41:00+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "2d86f1e1148d",
-   "source": "Ex-Ante",
-   "title": "“La jaula VIP”: Los días en Capitán Yáber con Hermosilla y Jadue que Rodrigo Topelberg relata en su libro",
-   "description": "“No me acuerdo exactamente en qué momento, pero llevaba un buen rato adentro cuando me di cuenta. Casi la totalidad de los reclusos que por…",
-   "url": "https://www.ex-ante.cl/nacional/capitan-yaber-rodrigo-topelberg-libro/",
-   "date": "2026-11-02T17:27:59+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1622,16 +1662,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2d95e21944fb",
-   "source": "Radio Cooperativa",
-   "title": "La programación de la cuarta fecha de la fase de liga de la Champions League",
-   "description": "Esta semana se reanuda la acción de la Champions League en Europa, con el desarrollo de la cuarta fecha de la fase de liga. Uno de los duelos estelares se disputará el miércoles en Alemania, cuando Real Betis Real Beti, el equipo del chileno Manuel Pellegrini, visite al poderoso ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/la-programacion-de-la-cuarta-fecha-de-la-fase-de-liga-de-la-champions/2026-11-01/191456.html",
-   "date": "2026-11-01T22:14:56+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "341f6d49409f",
    "source": "Deutsche Welle",
    "title": "Boca Juniors gana el superclásico argentino al River Plate",
@@ -1799,16 +1829,6 @@
    "url": "https://www.bbc.com/mundo/articles/c60me2mwjygko?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-31T20:51:06+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "2e6b30b98987",
-   "source": "BBC Mundo",
-   "title": "Cómo el socialismo ha ganado peso en la política de EE.UU. y por qué plantea un dilema para los demócratas",
-   "description": "En estas elecciones de mitad de periodo presidencial, la creciente popularidad de candidatos de los DSA plantea retos para los demócratas.",
-   "url": "https://www.bbc.com/mundo/articles/cm87zqgqq5l5o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-31T13:57:30+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -2510,16 +2530,6 @@
    "date": "2026-10-23T12:00:00+00:00",
    "category": "Oriente Medio",
    "type": "Oficial"
-  },
-  {
-   "id": "35c70f91577e",
-   "source": "The Guardian",
-   "title": "India slashes cost of cancer drugs after court rules mark-ups are ‘extortion’",
-   "description": "Case filed in 2022 by patient unable to afford medicine leads to cap on drug prices for millions who face ruin if diagnosed The Indian government has moved to reduce the price of cancer drugs after a retired bank clerk took her case to the supreme court. From next month, 137 canc",
-   "url": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
-   "date": "2026-10-23T07:00:03+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
   },
   {
    "id": "c7b3ea9420cc",
