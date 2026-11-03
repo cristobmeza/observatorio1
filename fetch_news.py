@@ -73,12 +73,25 @@ def fecha(s):
         d = d.replace(tzinfo=timezone.utc)
     return d.astimezone(timezone.utc).isoformat()
 
-def txt(el, *tags):
-    for t in tags:
-        f = el.find(t)
-        if f is not None and (f.text or "").strip():
-            return f.text.strip()
+def local(e):
+    return e.tag.rsplit("}", 1)[-1] if isinstance(e.tag, str) else ""
+
+def txt(el, *names):
+    for n in names:
+        for c in el:
+            if local(c) == n and (c.text or "").strip():
+                return c.text.strip()
     return ""
+
+def enlace(el):
+    href = ""
+    for c in el:
+        if local(c) == "link":
+            if (c.text or "").strip():
+                return c.text.strip()
+            if c.get("href") and (not href or c.get("rel") in (None, "alternate")):
+                href = c.get("href")
+    return href
 
 def descargar(url):
     with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
@@ -97,20 +110,18 @@ def descubrir(site):
 
 def parsear(raw, nombre, defecto):
     raiz = ET.fromstring(raw)
+    nodos = [e for e in raiz.iter() if local(e) in ("item", "entry")]
     out = []
-    for it in (raiz.findall(".//item") or raiz.findall(".//" + A + "entry"))[:MAX_POR_FEED]:
-        link = txt(it, "link")
-        if not link:
-            l = it.find(A + "link")
-            link = l.get("href", "") if l is not None else ""
-        d = fecha(txt(it, "pubDate", A + "published", A + "updated"))
-        titulo = limpiar(txt(it, "title", A + "title"))
+    for it in nodos[:MAX_POR_FEED]:
+        link, d = enlace(it), fecha(txt(it, "pubDate", "published", "updated", "date"))
+        titulo = limpiar(txt(it, "title"))
         if not (titulo and link and d):
             continue
-        desc = limpiar(txt(it, "description", A + "summary", A + "content"))
+        desc = limpiar(txt(it, "description", "summary", "content"))
         out.append({"id": hashlib.md5(link.encode()).hexdigest()[:12], "source": nombre,
                     "title": titulo, "description": desc, "url": link, "date": d,
                     "category": clasificar(titulo, desc, defecto)})
+    print("   ", nombre, "-> elementos en el XML:", len(nodos), "| válidos:", len(out))
     return out
 
 items, estado = [], {}
