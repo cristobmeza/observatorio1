@@ -1,6 +1,33 @@
 {
- "updated": "2026-11-02T23:32:48.876621+00:00",
+ "updated": "2026-11-03T00:13:36.975312+00:00",
  "items": [
+  {
+   "id": "e2d5f029b413",
+   "source": "Al Jazeera",
+   "title": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
+   "description": "Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached.",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+   "date": "2026-11-03T00:00:00+00:00",
+   "category": "Oriente Medio"
+  },
+  {
+   "id": "25546dedd508",
+   "source": "Al Jazeera",
+   "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+   "description": "Hit hard by Trump's tariffs and the war on Iran, countries in the Asia-Pacific want 'enormous changes' in US policies.",
+   "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+   "date": "2026-11-02T23:41:18+00:00",
+   "category": "Oriente Medio"
+  },
+  {
+   "id": "9e9b559caaee",
+   "source": "BBC Mundo",
+   "title": "Qué se sabe de la dramática caída de un avión privado en Florida que dejó 9 muertos",
+   "description": "Investigadores de la Junta Nacional de Seguridad en el Transporte de EE.UU. informaron de los primeros indicios en la trágica caída de un jet privado que cobró la vida de todos sus ocupantes.",
+   "url": "https://www.bbc.com/mundo/articles/ckvg7l4dp0n8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-02T23:39:04+00:00",
+   "category": "América Latina"
+  },
   {
    "id": "707abaef8093",
    "source": "Al Jazeera",
@@ -32,7 +59,7 @@
    "id": "5a7ef09d8ed7",
    "source": "The Guardian",
    "title": "PM to ask countries affected by UK’s role in slavery to help shape formal apology",
-   "description": "Andy Burnham to launch ‘structured dialogue’ on issue at Commonwealth summit in Antigua and Baruda Andy Burnham will ask countries affected by Britain’s role in slavery to help shape an expected formal apology, Downing Street has indicated, arguing that their input is indispensab",
+   "description": "Andy Burnham to launch ‘structured dialogue’ on issue at Commonwealth summit in Antigua and Barbuda Andy Burnham will ask countries affected by Britain’s role in slavery to help shape an expected formal apology, Downing Street has indicated, arguing that their input is indispensa",
    "url": "https://www.theguardian.com/world/2026/nov/02/andy-burnham-ask-countries-affected-uk-role-slavery-shape-formal-apology",
    "date": "2026-11-02T22:30:30+00:00",
    "category": "Relaciones internacionales y geopolítica"
@@ -265,8 +292,8 @@
   {
    "id": "759bea19cbfd",
    "source": "Al Jazeera",
-   "title": "Iran pushing accelerated plan for ceasefire talks with US",
-   "description": "Tehran says plan has been condensed and can be implemented within two days as it continues talks with mediators.",
+   "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
+   "description": "Iran says its offer to reopen the Strait of Hormuz can be implemented in two days if the US agrees to terms.",
    "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
    "date": "2026-11-02T18:49:26+00:00",
    "category": "Oriente Medio"
@@ -405,24 +432,6 @@
    "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
    "date": "2026-11-02T17:14:23+00:00",
    "category": "Relaciones internacionales y geopolítica"
-  },
-  {
-   "id": "6128625ce3b8",
-   "source": "Al Jazeera",
-   "title": "Real Madrid matches still banned in China despite Mbappe apology",
-   "description": "Real Madrid matches still banned in China despite Mbappe apology",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology?traffic_source=rss",
-   "date": "2026-11-02T17:08:25+00:00",
-   "category": "Oriente Medio"
-  },
-  {
-   "id": "cfd54724bbd8",
-   "source": "Al Jazeera",
-   "title": "Trump, Vance campaign with candidates on last day before US midterms",
-   "description": "President Donald Trump closes his midterm campaign push at the Reflecting Pool, urging supporters to vote.",
-   "url": "https://www.aljazeera.com/news/2026/11/2/trump-vance-and-candidates-make-final-push-before-us-midterms?traffic_source=rss",
-   "date": "2026-11-02T17:07:14+00:00",
-   "category": "Oriente Medio"
   },
   {
    "id": "9a17d197542c",
@@ -767,33 +776,6 @@
    "category": "América Latina"
   },
   {
-   "id": "5dfbee5eab10",
-   "source": "BBC Mundo",
-   "title": "Refugiados ucranianos se reúnen con sus familias luego de estar años atrapados en territorio ocupado por Rusia",
-   "description": "Los habitantes de Oleshky se habían quedado sin comida, agua ni electricidad, y muchos recurrieron a cocinar hierbas de sus huertos para sobrevivir.",
-   "url": "https://www.bbc.com/mundo/articles/cw5ynz0e3d02o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-31T17:57:37+00:00",
-   "category": "América Latina"
-  },
-  {
-   "id": "77b7977537ac",
-   "source": "Deutsche Welle",
-   "title": "Cómo el aumento de los tipos de interés está haciendo estallar el presupuesto de Francia",
-   "description": "Debido a las protestas, Francia se propone invertir 4.000 millones de euros más en el sector educativo. El endeudado país apenas tiene margen de maniobra financiero. Y los intereses de la deuda siguen subiendo.",
-   "url": "https://www.dw.com/es/cómo-el-aumento-de-los-tipos-de-interés-está-haciendo-estallar-el-presupuesto-de-francia/a-79814756?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-10-31T17:44:00+00:00",
-   "category": "Europa"
-  },
-  {
-   "id": "214d101488ba",
-   "source": "Deutsche Welle",
-   "title": "BUNDESLIGA: escuche el partido Bayern Múnich vs. Borussia Dortmund",
-   "description": "Siga en directo el partido estelar de la jornada 8 de Bundesliga entre Bayern Múnich vs. Borussia Dortmund. Con la narración de Andrea Ariet y el análisis de Erick Elola.",
-   "url": "https://www.dw.com/es/bundesliga-escuche-el-partido-bayern-múnich-vs-borussia-dortmund/a-79817741?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-10-31T17:23:00+00:00",
-   "category": "Europa"
-  },
-  {
    "id": "2e6b30b98987",
    "source": "BBC Mundo",
    "title": "Cómo el socialismo ha ganado peso en la política de EE.UU. y por qué plantea un dilema para los demócratas",
@@ -819,15 +801,6 @@
    "url": "https://www.bbc.com/mundo/articles/crwyqg71e5z4o?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-31T12:50:02+00:00",
    "category": "América Latina"
-  },
-  {
-   "id": "fc7c71b8d64e",
-   "source": "Deutsche Welle",
-   "title": "Protestas juveniles previstas en más de treinta ciudades alemanas",
-   "description": "Alemania despliega a la policía antes de una gran jornada de protestas, que se esperan también en otros países como Francia o España.",
-   "url": "https://www.dw.com/es/protestas-juveniles-previstas-en-más-de-treinta-ciudades-alemanas/a-79815512?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-10-31T12:19:00+00:00",
-   "category": "Europa"
   },
   {
    "id": "15e6dcf48f0d",
