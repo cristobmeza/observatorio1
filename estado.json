@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T00:31:10.690567+00:00",
+ "updated": "2026-11-03T00:40:16.736475+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -13,23 +13,25 @@
   },
   "Radio Cooperativa": {
    "ok": false,
-   "err": "no se encontró RSS en la portada"
+   "err": "HTTP Error 404: Not Found"
   },
   "El Mostrador": {
    "ok": false,
-   "err": "no se encontró RSS en la portada"
+   "err": "HTTP Error 404: Not Found"
   },
   "Ex-Ante": {
-   "ok": false,
-   "err": "no se encontró RSS en la portada"
+   "ok": true,
+   "n": 10,
+   "url": "https://www.ex-ante.cl/feed/"
   },
   "Emol": {
    "ok": false,
-   "err": "no se encontró RSS en la portada"
+   "err": "[Errno 104] Connection reset by peer"
   },
   "Río en Línea": {
-   "ok": false,
-   "err": "no se encontró RSS en la portada"
+   "ok": true,
+   "n": 1,
+   "url": "https://www.rioenlinea.cl/feed/"
   },
   "Reuters": {
    "ok": false,
@@ -50,8 +52,9 @@
    "url": "https://rss.dw.com/xml/rss-sp-all"
   },
   "France 24": {
-   "ok": false,
-   "err": "HTTP Error 403: Forbidden"
+   "ok": true,
+   "n": 24,
+   "url": "https://www.france24.com/es/rss"
   },
   "Al Jazeera": {
    "ok": true,
@@ -65,7 +68,7 @@
   },
   "Agencia EFE": {
    "ok": false,
-   "err": "no se encontró RSS en la portada"
+   "err": "HTTP Error 500: Internal Server Error"
   }
  }
 }

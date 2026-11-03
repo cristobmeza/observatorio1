@@ -1,14 +1,32 @@
 {
- "updated": "2026-11-03T00:31:10.690567+00:00",
+ "updated": "2026-11-03T00:40:16.736475+00:00",
  "items": [
   {
-   "id": "0b04bb27fa43",
-   "source": "The Guardian",
-   "title": "Investigative journalist Kate McClymont gives evidence in Alan Jones indecent assault trial",
-   "description": "Jones, a former radio broadcaster, has pleaded not guilty to 21 charges of indecent assault and sexual touching The Sydney Morning Herald’s chief investigative reporter, Kate McClymont, has told a Sydney court the alleged victims of Alan Jones she interviewed received no benefit ",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/03/kate-mcclymont-evidence-alan-jones-trial-ntwnfb",
-   "date": "2026-11-03T00:29:59+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "id": "9c34737fb96c",
+   "source": "BBC Mundo",
+   "title": "El emotivo regreso a casa de Karl Bushby, el aventurero británico que recorrió el mundo a pie tras partir de Chile hace 28 años",
+   "description": "El aventurero británico culmina este lunes su travesía por el mundo. Un viaje que emprendió hace 28 años desde Chile para regresar a su hogar en Reino Unido.",
+   "url": "https://www.bbc.com/mundo/articles/c8wy941ee4rzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-03T00:38:16+00:00",
+   "category": "Europa"
+  },
+  {
+   "id": "99e01c9e0d77",
+   "source": "France 24",
+   "title": "Ucrania: al menos 26 muertos en un ataque ruso durante una distribución de ayuda en Zaporizhia",
+   "description": "Rusia llevó a cabo varios ataques aéreos el lunes 2 de noviembre contra una escuela que distribuía ayuda humanitaria en Komyshuvakha, en la región de Zaporizhia, en el sureste de Ucrania. Al menos 26 personas murieron. Estos bombardeos han destruido \"cualquier esperanza de progre",
+   "url": "https://www.france24.com/es/europa/20261103-ucrania-al-menos-26-muertos-en-un-ataque-ruso-durante-una-distribuci%C3%B3n-de-ayuda-en-zaporizhia",
+   "date": "2026-11-03T00:34:35+00:00",
+   "category": "Rusia y espacio postsoviético"
+  },
+  {
+   "id": "9e1a4ba10594",
+   "source": "France 24",
+   "title": "Midterms: agricultores de Carolina del Norte, asfixiados por la inflación",
+   "description": "En vísperas de las elecciones de medio mandato, la impopularidad del presidente estadounidense Donald Trump está afectando a los republicanos en general. Muchos estados que antes eran bastiones republicanos se encuentran ahora en una situación precaria. Uno de ellos es Carolina d",
+   "url": "https://www.france24.com/es/programas/en-foco/20261103-midterms-agricultores-de-carolina-del-norte-asfixiados-por-la-inflaci%C3%B3n",
+   "date": "2026-11-03T00:32:29+00:00",
+   "category": "Elecciones"
   },
   {
    "id": "d1930724069a",
@@ -119,6 +137,24 @@
    "category": ""
   },
   {
+   "id": "7ddaa956cddb",
+   "source": "France 24",
+   "title": "Midterms 2026: Trump se aleja del foco electoral a horas de unos decisivos comicios",
+   "description": "En la víspera de las midterms, Donald Trump regresó a Washington para dar un discurso en el que dio prioridad a hablar de las renovaciones físicas hechas en su mandato, como la del estanque del Monumento a Abraham Lincoln. Luego se refirió a las elecciones de mitad de mandato, qu",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261102-midterms-2026-trump-se-aleja-del-foco-electoral-a-horas-de-unos-decisivos-comicios",
+   "date": "2026-11-02T23:13:10+00:00",
+   "category": "Elecciones"
+  },
+  {
+   "id": "4ae7cb499aa7",
+   "source": "France 24",
+   "title": "¿Qué tan precisas son las encuestas sobre las midterms en Estados Unidos?",
+   "description": "Las encuestas vuelven a estar bajo escrutinio en Estados Unidos de cara a las midterms. Tras lo ocurrido en procesos anteriores, especialmente en las elecciones presidenciales en las que el apoyo a Donald Trump fue subestimado por numerosos sondeos, surge una pregunta clave: ¿son",
+   "url": "https://www.france24.com/es/video/20261102-qu%C3%A9-tan-precisas-son-las-encuestas-para-estas-elecciones-en-estados-unidos",
+   "date": "2026-11-02T23:13:00+00:00",
+   "category": "Estados Unidos y Canadá"
+  },
+  {
    "id": "707abaef8093",
    "source": "Al Jazeera",
    "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
@@ -128,6 +164,24 @@
    "category": "Estados Unidos y Canadá"
   },
   {
+   "id": "51c3cf0e9bd3",
+   "source": "France 24",
+   "title": "Bulgaria elige a Iliana Yotova y la continuidad de una línea cercana a Moscú",
+   "description": "La candidata y presidenta en funciones de Bulgaria, Iliana Yotova, se impuso en la segunda vuelta de las elecciones presidenciales, un resultado que apunta a la continuidad de una política de acercamiento a Moscú, dado que su postura ha sido tradicionalmente favorable al presiden",
+   "url": "https://www.france24.com/es/video/20261102-bulgaria-elige-a-iliana-yotova-y-la-continuidad-de-una-l%C3%ADnea-cercana-a-mosc%C3%BA",
+   "date": "2026-11-02T23:02:36+00:00",
+   "category": "Elecciones"
+  },
+  {
+   "id": "103c2e91c799",
+   "source": "France 24",
+   "title": "Ciberataque en Europa arruina cientos de kilos de alimentos en supermercados de diferentes países",
+   "description": "Una ola de ciberataques ha afectado los sistemas de refrigeración de supermercados en varios países de la Unión Europea, provocando fallos en neveras y congeladores y obligando a algunos establecimientos a retirar productos o desechar alimentos. Además, los incidentes recuerdan a",
+   "url": "https://www.france24.com/es/video/20261102-ciberataque-en-europa-arruina-cientos-de-kilos-de-alimentos-en-supermercados-de-diferentes-pa%C3%ADses",
+   "date": "2026-11-02T23:00:35+00:00",
+   "category": "Europa"
+  },
+  {
    "id": "c9ef3f85e263",
    "source": "Al Jazeera",
    "title": "Powerful storm tears through beach resort on Italy’s southern coast",
@@ -135,6 +189,15 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/powerful-storm-tears-through-beach-resort-on-italys-southern-coast?traffic_source=rss",
    "date": "2026-11-02T22:59:41+00:00",
    "category": "Oriente Medio"
+  },
+  {
+   "id": "5763fb67ebf7",
+   "source": "France 24",
+   "title": "Israel negocia contrarreloj antes de que Herzog anuncie al líder que intentará formar gobierno",
+   "description": "En Israel, las principales fuerzas políticas intensifican las negociaciones para formar una coalición de gobierno antes de que el presidente Isaac Herzog anuncie a qué líder encargará oficialmente la misión de intentar conformar un Ejecutivo. Las conversaciones se centran en la b",
+   "url": "https://www.france24.com/es/video/20261102-israel-negocia-contrarreloj-antes-de-que-herzog-anuncie-al-l%C3%ADder-que-intentar%C3%A1-formar-gobierno",
+   "date": "2026-11-02T22:58:18+00:00",
+   "category": "Partidos políticos"
   },
   {
    "id": "f0e0e7f8eec4",
@@ -236,6 +299,15 @@
    "category": ""
   },
   {
+   "id": "5eb3fc613361",
+   "source": "France 24",
+   "title": "Polémica en Texas por cambios electorales que favorecerían a los republicanos",
+   "description": "De cara a las elecciones de mitad de mandato en Estados Unidos, los republicanos de Texas están siendo acusados ​​de modificar las reglas electorales a su favor. En el condado de Tarrant, cerca de Dallas, han reducido el número de centros de votación en casi un 30%. Esta decisión",
+   "url": "https://www.france24.com/es/programas/en-foco/20261102-pol%C3%A9mica-en-texas-por-cambios-electorales-que-favorecer%C3%ADan-a-los-republicanos",
+   "date": "2026-11-02T22:12:08+00:00",
+   "category": "Elecciones"
+  },
+  {
    "id": "db793758227f",
    "source": "The Guardian",
    "title": "Reddit and libertarian group challenge Australia’s under-16s social media ban in high court",
@@ -252,6 +324,15 @@
    "url": "https://www.bbc.com/mundo/articles/c9ly0x3jr86eo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T22:06:33+00:00",
    "category": "Elecciones"
+  },
+  {
+   "id": "931c128989fb",
+   "source": "France 24",
+   "title": "Entre selvas y mares helados: el británico Karl Bushby termina una travesía de 28 años a pie por el mundo",
+   "description": "El exparacaidista británico Karl Bushby puso fin este lunes 2 de noviembre a su viaje de 28 años alrededor del mundo al llegar a su ciudad natal, Hull, tras cruzar a nado el Canal de la Mancha. Su recorrido le llevó desde el extremo sur de América Latina hasta el helado estrecho ",
+   "url": "https://www.france24.com/es/europa/20261102-entre-selvas-y-mares-helados-el-brit%C3%A1nico-karl-bushby-termina-una-traves%C3%ADa-de-28-a%C3%B1os-a-pie-por-el-mundo",
+   "date": "2026-11-02T22:01:23+00:00",
+   "category": ""
   },
   {
    "id": "41cc673ae7eb",
@@ -281,6 +362,24 @@
    "category": ""
   },
   {
+   "id": "65264eda029d",
+   "source": "Ex-Ante",
+   "title": "San Antonio: Tras seis años de tramitación se destraba proyecto portuario por US$ 4.450 millones",
+   "description": "En una nueva sesión del Comité de Ministros se destrabaron dos proyectos por cerca de US$ 4.700 millones: el Puerto Exterior de San Antonio y…",
+   "url": "https://www.ex-ante.cl/negocios/gobierno-destraba-proyecto-de-puerto/",
+   "date": "2026-11-02T21:56:27+00:00",
+   "category": "Gobierno y administración pública"
+  },
+  {
+   "id": "307f3c67f80b",
+   "source": "France 24",
+   "title": "La mafia y el narcotráfico, un riesgo para los periodistas en Italia",
+   "description": "Ser periodista en Italia va acompañado con el riesgo de volverse objetivo de la mafia y los narcotraficantes si las investigaciones se vuelven incómodas para las grupos. En el marco de la conmemoración del Día Internacional para Poner Fin a la Impunidad de los Crímenes contra Per",
+   "url": "https://www.france24.com/es/video/20261102-la-mafia-y-el-narcotr%C3%A1fico-un-riesgo-para-los-periodistas-en-italia",
+   "date": "2026-11-02T21:54:08+00:00",
+   "category": "Europa"
+  },
+  {
    "id": "63f57e8d3969",
    "source": "Radio Bío-Bío",
    "title": "\"Mis Navidades siempre fueron pobres\": youtuber Ariel Osses busca entregar 10 mil regalos navideños",
@@ -288,6 +387,24 @@
    "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/02/mis-navidades-siempre-fueron-pobres-youtuber-ariel-osses-quiere-entregar-10-mil-regalos-navidenos.shtml",
    "date": "2026-11-02T21:53:16+00:00",
    "category": ""
+  },
+  {
+   "id": "df446d1999e8",
+   "source": "Ex-Ante",
+   "title": "Visita al Vaticano: Qué es Schoenstatt, el movimiento católico al que pertenece el presidente Kast",
+   "description": "Su primer encuentro privado con el Papa, este miércoles 4, tiene un peso que va más allá del protocolo y de los temas de Estado.…",
+   "url": "https://www.ex-ante.cl/politica/visita-vaticano-schoenstatt-kast/",
+   "date": "2026-11-02T21:46:38+00:00",
+   "category": ""
+  },
+  {
+   "id": "501c49980d11",
+   "source": "France 24",
+   "title": "Ucrania y Rusia se acusan mutuamente ataques cibernéticos durante la noche",
+   "description": "Ucrania y Rusia informaron que sus aplicaciones de alerta de emergencia fueron hackeadas durante la noche, enviando falsas advertencias a la población sobre inminentes ataques aéreos, químicos y nucleares.",
+   "url": "https://www.france24.com/es/video/20261102-ucrania-y-rusia-se-acusan-mutuamente-ataques-cibern%C3%A9ticos-durante-la-noche",
+   "date": "2026-11-02T21:40:16+00:00",
+   "category": "Rusia y espacio postsoviético"
   },
   {
    "id": "2e1813a0d7ef",
@@ -299,6 +416,15 @@
    "category": "Oriente Medio"
   },
   {
+   "id": "7aa0ff4ee343",
+   "source": "France 24",
+   "title": "Minurso, misión de la ONU en el Sahara Occidental sin respaldo por vetos de EE. UU. y Rusia",
+   "description": "Luego de 35 años ininterrumpidos de operaciones, la Misión de la ONU para el Sahara Occidental (Minurso) comenzó el 1 de noviembre su proceso de desmantelamiento, después de que el veto cruzado entre Estados Unidos y Rusia impidiera la renovación de su mandato en el Consejo de Se",
+   "url": "https://www.france24.com/es/video/20261102-minurso-misi%C3%B3n-de-la-onu-en-el-sahara-occidental-sin-respaldo-por-vetos-de-ee-uu-y-rusia",
+   "date": "2026-11-02T21:23:34+00:00",
+   "category": "Rusia y espacio postsoviético"
+  },
+  {
    "id": "fb82cedf2c12",
    "source": "Al Jazeera",
    "title": "‘Work to do’: Authorities give update on Florida private jet crash",
@@ -306,6 +432,15 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/work-to-do-authorities-give-update-on-florida-private-jet-crash?traffic_source=rss",
    "date": "2026-11-02T21:23:31+00:00",
    "category": "Oriente Medio"
+  },
+  {
+   "id": "1228d16b5472",
+   "source": "France 24",
+   "title": "'Al este del Edén', 'El Juicio' y 'Furious': tres series para empezar noviembre",
+   "description": "En esta crónica de Cultura hablamos de tres series: la nueva adaptación a la pantalla del clásico de la literatura estadounidense 'Al este del Edén' (Netflix); y dos obras que exploran la justicia, la impunidad y la venganza: 'El Juicio' (Prime Video) y 'Furious' (Disney+). Miram",
+   "url": "https://www.france24.com/es/programas/cultura/20261102-al-este-del-ed%C3%A9n-el-juicio-y-furious-tres-series-para-empezar-noviembre",
+   "date": "2026-11-02T21:07:05+00:00",
+   "category": ""
   },
   {
    "id": "b6919d3fc3a2",
@@ -324,6 +459,15 @@
    "url": "https://www.dw.com/es/el-clima-desaparece-de-la-campaña-demócrata-para-las-midterms/a-79832303?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T21:06:00+00:00",
    "category": "Europa"
+  },
+  {
+   "id": "a650f6eeae41",
+   "source": "France 24",
+   "title": "En directo: Trump abre dudas sobre una reanudación de los ataques contra Irán y la posibilidad de un acuerdo",
+   "description": "El presidente Donald Trump generó este 2 de noviembre sus dudas sobre si cumpliría con la amenaza de reanudar los ataques militares contra Irán al firmar que podría llegarse a un acuerdo con Teherán. En las últimas semanas, Trump había insinuado la posibilidad de reanudar la ofen",
+   "url": "https://www.france24.com/es/medio-oriente/20261102-en-directo-trump-abre-dudas-sobre-una-reanudaci%C3%B3n-de-los-ataques-contra-ir%C3%A1n-y-la-posibilidad-de-un-acuerdo",
+   "date": "2026-11-02T20:58:40+00:00",
+   "category": "Oriente Medio"
   },
   {
    "id": "744a633dc668",
@@ -353,6 +497,15 @@
    "category": "Oriente Medio"
   },
   {
+   "id": "4fbd183cff15",
+   "source": "France 24",
+   "title": "¿Trump volverá a la guerra con Irán? Las señales de una nueva escalada",
+   "description": "En nuestra sección En Contexto revisamos las señales que están dando Donald Trump y Benjamin Netanyahu sobre si reanudarán la guerra contra Irán una vez que concluyan las midterms en Estados Unidos. De su lado, Teherán sigue negociando pero se prepara para responder. En tanto, la",
+   "url": "https://www.france24.com/es/programas/en-contexto/20261102-trump-volver%C3%A1-a-la-guerra-con-ir%C3%A1n-las-se%C3%B1ales-de-una-nueva-escalada",
+   "date": "2026-11-02T20:41:23+00:00",
+   "category": "Estados Unidos y Canadá"
+  },
+  {
    "id": "9bd4a9046e50",
    "source": "The Guardian",
    "title": "Migration is a moral issue for Burnham – but is he trying to please everyone?",
@@ -380,6 +533,15 @@
    "category": "Estados Unidos y Canadá"
   },
   {
+   "id": "447c54a200c5",
+   "source": "Ex-Ante",
+   "title": "La muerte de Hugo Cárdenas, el legendario pintor de los bajos fondos y las tribus de Santiago",
+   "description": "Hugo Cárdenas tenía una voz que no pasaba inadvertida. Siembre bien vestido, casi siempre con chaqueta y camisa, se transformó en un personaje ineludible de…",
+   "url": "https://www.ex-ante.cl/cultura/muerte-hugo-cardenas-pintor-santiago/",
+   "date": "2026-11-02T20:35:32+00:00",
+   "category": ""
+  },
+  {
    "id": "01c4e32e482e",
    "source": "Al Jazeera",
    "title": "UK bookshop helps meet demand for Sally Rooney novels",
@@ -396,6 +558,42 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/mamdani-endorsed-progressives-fight-to-join-congress?traffic_source=rss",
    "date": "2026-11-02T20:28:52+00:00",
    "category": "Elecciones"
+  },
+  {
+   "id": "efc4622009fe",
+   "source": "France 24",
+   "title": "Francia: ¿por qué piden el cierre del canal 'CNews' y qué tiene que ver el tiroteo cerca de París?",
+   "description": "Una petición para que el canal de televisión de derecha 'CNews' sea retirado del aire superó el medio millón de firmas este lunes 2 de noviembre. La iniciativa para lograr su cierre ganó un gran impulso tras un ataque racista ocurrido el 23 de octubre pasado en la periferia de Pa",
+   "url": "https://www.france24.com/es/francia/20261102-francia-por-qu%C3%A9-piden-el-cierre-del-canal-cnews-y-qu%C3%A9-tiene-que-ver-el-tiroteo-cerca-de-par%C3%ADs",
+   "date": "2026-11-02T20:08:40+00:00",
+   "category": "Europa"
+  },
+  {
+   "id": "bb59b01cd56e",
+   "source": "Ex-Ante",
+   "title": "Ambición en permisos, sin mirarnos el ombligo",
+   "description": "Chile necesita una agenda ambiciosa en materia de permisos y generar un consenso respecto a su importancia, Estados Unidos muestra que, incluso en su época…",
+   "url": "https://www.ex-ante.cl/opinion/ambicion-en-permisos-sin-mirarnos-ombligo/",
+   "date": "2026-11-02T20:08:24+00:00",
+   "category": "Estados Unidos y Canadá"
+  },
+  {
+   "id": "364e457e7206",
+   "source": "Ex-Ante",
+   "title": "De Leonardo DiCaprio al nieto de Jimmy Carter: el mercado de islas del sur de Chile que se venden hasta en US$35 millones",
+   "description": "Según un catastro de Colliers, existen unas 20 islas privadas a la venta entre Los Lagos y Magallanes, un 25% más que en 2025. Los…",
+   "url": "https://www.ex-ante.cl/negocios/mercado-islas-sur-chile-por-us35millones/",
+   "date": "2026-11-02T20:06:30+00:00",
+   "category": ""
+  },
+  {
+   "id": "8dc430d2ffa6",
+   "source": "France 24",
+   "title": "Trump vuelve a amenazar a Irán; Teherán responde que podría reabrir Ormuz si cumplen sus demandas",
+   "description": "De cara a las elecciones de medio mandato, el presidente de Estados Unidos, Donald Trump, volvió a amenazar a Irán y se jactó de \"ser amable\". El primer ministro israelí, Benjamin Netanyahu, ha presionado repetidamente a Trump para volver a atacar territorio iraní, pero Teherán r",
+   "url": "https://www.france24.com/es/video/20261102-trump-vuelve-a-amenazar-a-ir%C3%A1n-teher%C3%A1n-responde-que-podr%C3%ADa-reabrir-ormuz-si-cumplen-sus-demandas",
+   "date": "2026-11-02T20:01:36+00:00",
+   "category": "Oriente Medio"
   },
   {
    "id": "f73dfa53b1bb",
@@ -416,6 +614,15 @@
    "category": "Relaciones internacionales y geopolítica"
   },
   {
+   "id": "39a06e421f0c",
+   "source": "Río en Línea",
+   "title": "Presidio perpetuo para hombre que asesinó a su hermano, cuñada embarazada y sobrina en Río Bueno",
+   "description": "El Tribunal de Juicio Oral en lo Penal de Valdivia condenó a Francisco Javier Uribe Obando a presidio perpetuo calificado por el asesinato de su hermano, su cuñada embarazada y su sobrina de 10 años, ocurrido en marzo de 2024 en el sector de Cayurruca, comuna de Río Bueno. La sen",
+   "url": "https://www.rioenlinea.cl/presidio-perpetuo-para-hombre-que-asesino-a-su-hermano-cunada-embarazada-y-sobrina-en-rio-bueno/",
+   "date": "2026-11-02T19:50:56+00:00",
+   "category": "Regiones (Los Ríos)"
+  },
+  {
    "id": "a8791a75a24a",
    "source": "Al Jazeera",
    "title": "HRW calls on Zambia to halt post-election crackdown",
@@ -432,6 +639,15 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/protesters-i-support-genocide-sign-appears-to-face-no-police-action?traffic_source=rss",
    "date": "2026-11-02T19:39:24+00:00",
    "category": "Oriente Medio"
+  },
+  {
+   "id": "bf6d882c0346",
+   "source": "Ex-Ante",
+   "title": "Rebaja de penas: Oposición cuestiona presupuesto de Justicia para subir presión a Rabat",
+   "description": "La partida del Presupuesto 2027 para Justicia recibió 74 indicaciones, vale decir, propuestas para modificar el erario del Ministerio. El PS y el FA ya…",
+   "url": "https://www.ex-ante.cl/politica/rabat-oposicion-pone-en-jaque-justicia/",
+   "date": "2026-11-02T19:38:23+00:00",
+   "category": "Partidos políticos"
   },
   {
    "id": "121563584b34",
@@ -470,6 +686,15 @@
    "category": "Relaciones internacionales y geopolítica"
   },
   {
+   "id": "f8ac6ce09956",
+   "source": "Ex-Ante",
+   "title": "Meses de errores de manual",
+   "description": "Es hora de guardar silencio táctico, ordenar prioridades de verdad, asumir decisiones difíciles y convocar a personeros con oficio probado. Se gobierna para liderar un…",
+   "url": "https://www.ex-ante.cl/opinion/meses-de-errores-de-manual/",
+   "date": "2026-11-02T19:06:29+00:00",
+   "category": ""
+  },
+  {
    "id": "c0df9ba40f34",
    "source": "BBC Mundo",
    "title": "Quién era Nathalia Gadelha Filgueiras, la copiloto de 20 años que murió al estrellarse el avión en el que viajaba junto a otras 8 personas en Florida",
@@ -477,6 +702,24 @@
    "url": "https://www.bbc.com/mundo/articles/ck4g1xpx1e81o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T19:04:56+00:00",
    "category": "América Latina"
+  },
+  {
+   "id": "5494c5469a49",
+   "source": "France 24",
+   "title": "\"Muchas gracias, Trump\": Los conservadores de Wyoming divididos antes de las elecciones",
+   "description": "Bienvenidos a Wyoming, el estado estadounidense más favorable a Donald Trump. El republicano obtuvo casi el 70% de los votos allí durante sus tres campañas presidenciales. El \"Estado Vaquero\" es el menos poblado, el más rural y el más conservador de Estados Unidos. De cara a las ",
+   "url": "https://www.france24.com/es/programas/reporteros/20261102-muchas-gracias-trump-los-conservadores-de-wyoming-divididos-antes-de-las-elecciones",
+   "date": "2026-11-02T19:04:31+00:00",
+   "category": "Estados Unidos y Canadá"
+  },
+  {
+   "id": "9ce62825135f",
+   "source": "France 24",
+   "title": "Midterms: seguridad y economía, preocupaciones de los votantes de Carolina del Norte",
+   "description": "El nombre de la refugiada ucraniana Iryna Zarutska ha estado en medio de la campaña republicana en Carolina del Norte. El hombre que la asesinó, quien tiene problemas de salud mental, había quedado libre en 2020 tras un beneficio otorgado por el ex gobernador demócrata Roy Cooper",
+   "url": "https://www.france24.com/es/video/20261102-midterms-seguridad-y-econom%C3%ADa-preocupaciones-de-los-votantes-de-carolina-del-norte",
+   "date": "2026-11-02T18:58:32+00:00",
+   "category": "Sociedad"
   },
   {
    "id": "a0681a74bc08",
@@ -515,6 +758,15 @@
    "category": "Oriente Medio"
   },
   {
+   "id": "f291fa4627c9",
+   "source": "France 24",
+   "title": "¿Qué hay detrás de la violencia contra los periodistas que las autoridades no pueden frenar?",
+   "description": "¿Qué hay detrás de la violencia contra los periodistas que las autoridades no pueden frenar? Cada 2 de noviembre, el mundo conmemora el Día Internacional para Poner Fin a la Impunidad de los Crímenes contra Periodistas, una fecha establecida por la ONU hace 13 años tras el asesin",
+   "url": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20261102-qu%C3%A9-hay-detr%C3%A1s-de-la-violencia-contra-los-periodistas-que-las-autoridades-no-pueden-frenar",
+   "date": "2026-11-02T18:35:14+00:00",
+   "category": "Relaciones internacionales y geopolítica"
+  },
+  {
    "id": "fdaf8bc638fd",
    "source": "Al Jazeera",
    "title": "After Israel’s election: What’s next?",
@@ -540,6 +792,15 @@
    "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
    "date": "2026-11-02T18:23:02+00:00",
    "category": "Oriente Medio"
+  },
+  {
+   "id": "185321479172",
+   "source": "France 24",
+   "title": "Los aliados \"temen que Trump ataque a la OTAN\" si pierde las Midterms: 'Politico'",
+   "description": "Estados Unidos irá a las urnas este 3 de noviembre para sus elecciones de medio mandato, que definirán la nueva configuración del Senado y la Cámara de Representantes. A su vez, las Midterms servirán como un referendo sobre el segundo Gobierno del presidente Donald Trump y de sus",
+   "url": "https://www.france24.com/es/programas/revista-de-prensa/20261102-los-aliados-temen-que-trump-ataque-a-la-otan-si-pierde-las-midterms-politico",
+   "date": "2026-11-02T18:20:45+00:00",
+   "category": "Estados Unidos y Canadá"
   },
   {
    "id": "e14005c4b1c7",
@@ -578,6 +839,15 @@
    "category": "Oriente Medio"
   },
   {
+   "id": "f32e476ebf47",
+   "source": "France 24",
+   "title": "Trump entra en la lista de depredadores de la prensa de RSF por \"reducir el periodismo a propaganda\"",
+   "description": "Reporteros Sin Fronteras incluye en la lista anual de depredadores de la prensa al mandatario estadounidense, Donald Trump, \"como resultado de su espantoso historial de ataques\" contra los periodistas. El veto a algunos medios de comunicación en la Casa Blanca, \"acciones legales ",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261102-trump-entra-en-la-lista-de-depredadores-de-la-prensa-de-rsf-por-reducir-el-periodismo-a-propaganda",
+   "date": "2026-11-02T18:02:44+00:00",
+   "category": "Estados Unidos y Canadá"
+  },
+  {
    "id": "0d772073d5d9",
    "source": "BBC Mundo",
    "title": "Por qué Trump se enfrenta al mismo problema económico que hundió a Biden",
@@ -594,6 +864,15 @@
    "url": "https://www.dw.com/es/ee-uu-aprueba-versión-económica-de-tratamiento-preventivo-contra-el-vih/a-79833664?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T17:57:00+00:00",
    "category": "Europa"
+  },
+  {
+   "id": "b5f6134be18a",
+   "source": "Ex-Ante",
+   "title": "La Fed de Warsh y las tasas de interés en Chile",
+   "description": "Los bonos del Tesoro estadounidense sirven como referencia para el costo del financiamiento de largo plazo en buena parte del mundo. Cuando sus tasas suben…",
+   "url": "https://www.ex-ante.cl/afteroffice/fed-warsh-y-tasas-de-interes-en-chile/",
+   "date": "2026-11-02T17:49:03+00:00",
+   "category": ""
   },
   {
    "id": "c54272c1481c",
@@ -614,6 +893,15 @@
    "category": "América Latina"
   },
   {
+   "id": "2d86f1e1148d",
+   "source": "Ex-Ante",
+   "title": "“La jaula VIP”: Los días en Capitán Yáber con Hermosilla y Jadue que Rodrigo Topelberg relata en su libro",
+   "description": "“No me acuerdo exactamente en qué momento, pero llevaba un buen rato adentro cuando me di cuenta. Casi la totalidad de los reclusos que por…",
+   "url": "https://www.ex-ante.cl/nacional/capitan-yaber-rodrigo-topelberg-libro/",
+   "date": "2026-11-02T17:27:59+00:00",
+   "category": ""
+  },
+  {
    "id": "b6f64f84cdb3",
    "source": "Al Jazeera",
    "title": "Drone attacks extend campaign targeting Sudan’s power system",
@@ -621,6 +909,15 @@
    "url": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss",
    "date": "2026-11-02T17:26:32+00:00",
    "category": "Oriente Medio"
+  },
+  {
+   "id": "62d1d50d0962",
+   "source": "Ex-Ante",
+   "title": "Por qué a Chile le podría convenir una derrota de Trump en las elecciones de mañana",
+   "description": "Las encuestas anticipan que los demócratas recuperarían la Cámara y probablemente el Senado. Su agenda, con menos aranceles y el fin de la guerra con…",
+   "url": "https://www.ex-ante.cl/internacional/chile-podria-convenir-derrota-trump/",
+   "date": "2026-11-02T17:26:18+00:00",
+   "category": "Elecciones"
   },
   {
    "id": "2d576177b0fd",
@@ -659,6 +956,15 @@
    "category": "Relaciones internacionales y geopolítica"
   },
   {
+   "id": "700f3f92446b",
+   "source": "France 24",
+   "title": "De Bélgica a Suecia, nueva ola de ciberataques contra sistemas de refrigeración afecta a decenas de supermercados",
+   "description": "A primera hora de este lunes 2 de noviembre, tiendas y supermercados de al menos siete países, entre ellos Bélgica, Luxemburgo, Finlandia, Estonia y Suecia, informaron sobre un aumento repentino de la temperatura en sus neveras y congeladores, en un aparente ciberataque dirigido ",
+   "url": "https://www.france24.com/es/europa/20261102-de-b%C3%A9lgica-a-suecia-nueva-ola-de-ciberataques-contra-sistemas-de-refrigeraci%C3%B3n-afecta-a-decenas-de-supermercados",
+   "date": "2026-11-02T16:34:29+00:00",
+   "category": ""
+  },
+  {
    "id": "877146e7d709",
    "source": "The Guardian",
    "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
@@ -668,21 +974,21 @@
    "category": "Relaciones internacionales y geopolítica"
   },
   {
+   "id": "6d9c1949b633",
+   "source": "France 24",
+   "title": "Informe desde París: estudiantes continúan los bloqueos tras dos semanas de vacaciones",
+   "description": "A pesar de que el Gobierno francés contaba con la desmovilización de los estudiantes tras dos semanas de vacaciones, los jóvenes vuelven a clases y los bloqueos continúan en al menos 41 establecimientos educativos bloqueados en todo el país. Nuestra periodista Erika Olavarría nos",
+   "url": "https://www.france24.com/es/video/20261102-informe-desde-par%C3%ADs-estudiantes-contin%C3%BAan-los-bloqueos-tras-dos-semanas-de-vacaciones",
+   "date": "2026-11-02T16:17:04+00:00",
+   "category": "Gobierno y administración pública"
+  },
+  {
    "id": "95439ad968ed",
    "source": "BBC Mundo",
    "title": "Investigan un posible ciberataque que afecta los refrigeradores de supermercados en 7 países europeos y causa pérdidas millonarias",
    "description": "Según los informes, la temperatura de los congeladores en varias tiendas de toda Europa llegó a alcanzar los 50°C.",
    "url": "https://www.bbc.com/mundo/articles/cw1l31v5rnrpo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T15:39:51+00:00",
-   "category": "Europa"
-  },
-  {
-   "id": "9c34737fb96c",
-   "source": "BBC Mundo",
-   "title": "El emotivo regreso a casa de Karl Bushby, el aventurero británico que recorrió el mundo a pie tras partir de Chile hace 28 años",
-   "description": "El aventurero británico culmina este lunes su travesía por el mundo. Un viaje que emprendió hace 28 años desde Chile para regresar a su hogar en Reino Unido.",
-   "url": "https://www.bbc.com/mundo/articles/c8wy941ee4rzo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-02T14:54:04+00:00",
    "category": "Europa"
   },
   {
@@ -818,6 +1124,15 @@
    "description": "Jasper Jones writer sent multiple messages about his sexual desire for young boys, Western Australian district court hears Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast The award‑winning author Craig Silvey sent multip",
    "url": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb",
    "date": "2026-11-02T08:01:34+00:00",
+   "category": "Relaciones internacionales y geopolítica"
+  },
+  {
+   "id": "71caa6bbe64e",
+   "source": "The Guardian",
+   "title": "‘Sharper, longer slowdown’ predicted for Australian economy as fifth interest rate hike looms",
+   "description": "Australia’s central bank expected to hit mortgage holders again on Tuesday, as war in Middle East combines with collapsing house prices Get our breaking news email , free app or daily news podcast Australia’s economy is set for a “sharper, longer slowdown”, major bank economists ",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms",
+   "date": "2026-11-02T06:57:29+00:00",
    "category": "Relaciones internacionales y geopolítica"
   },
   {
