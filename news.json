@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T01:54:22.077594+00:00",
+ "updated": "2026-11-03T01:58:49.426314+00:00",
  "items": [
   {
    "id": "08d1700e1e16",
@@ -8,7 +8,28 @@
    "description": "La aeronave privada se estrelló en el condado de Palm Beach, Florida. Imágenes captadas por los residentes mostraban al jet cayendo a gran velocidad antes de estrellarse.",
    "url": "https://www.bbc.com/mundo/articles/c61m4yyjyrrxo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-03T01:52:36+00:00",
-   "category": "Conflictos armados y seguridad internacional"
+   "category": "Conflictos armados y seguridad internacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "c00e2b27a28b",
+   "source": "France 24",
+   "title": "Rubio aborda con el nuevo canciller de Venezuela las reformas para lograr unas elecciones \"creíbles\"",
+   "description": "El secretario de Estado estadounidense, Marco Rubio, habló este lunes 2 de noviembre con su homólogo venezolano, Oliver Blanco, sobre las reformas que creen que pueden sentar las bases para futuras \"elecciones libres, justas y creíbles\" en el país suramericano, informaron fuentes",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261103-rubio-aborda-con-el-nuevo-canciller-de-venezuela-las-reformas-para-lograr-unas-elecciones-cre%C3%ADbles",
+   "date": "2026-11-03T01:49:52+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "f556abdf2378",
+   "source": "Radio Cooperativa",
+   "title": "Embajador Coloma fijó como prioridad atraer inversión española en gira de Kast a Europa",
+   "description": "El embajador de Chile en España , Juan Antonio Coloma , abordó este lunes la importancia de captar inversión extranjera directa durante la gira del Presidente José Antonio Kast por Europa , advirtiendo que la reactivación económica del país depende de la confianza y el arribo de ",
+   "url": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/espana/embajador-coloma-fijo-como-prioridad-atraer-inversion-espanola-en-gira/2026-11-02/224417.html",
+   "date": "2026-11-03T01:44:17+00:00",
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "ff46ea56ba93",
@@ -17,7 +38,8 @@
    "description": "Reserve Bank is expected to raise interest rates to an 18-year high on Tuesday, the fifth hike this year Get our breaking news email , free app or daily news podcast Asked why Labor can’t guarantee it won’t find net savings in the mid-year budget update, Chalmers told RN the gove",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
    "date": "2026-11-03T01:39:59+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "de11e95bdb38",
@@ -26,7 +48,8 @@
    "description": "At least 26 people were killed in Russian strikes on a school being used as a humanitarian aid centre.",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
    "date": "2026-11-03T01:17:57+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "7c5d0ae96117",
@@ -35,7 +58,8 @@
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Luego de cuatro partidos, Deportes Concepción volvió a celebrar por la Liga de Primera con un 1-0 sobre Palestino en la fecha 26, reactivando el sueño de clasificar a Copa Sudamericana para la próxima temporada. Penquistas ",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/d-concepcion-corto-su-mala-racha-y-trepo-a-costa-de-un-palestino-que/2026-11-02/221613.html",
    "date": "2026-11-03T01:16:13+00:00",
-   "category": "Partidos políticos"
+   "category": "Partidos políticos",
+   "type": "Prensa"
   },
   {
    "id": "48d1730715a2",
@@ -44,7 +68,8 @@
    "description": "Ukrainian president Zelenskyy says attack on aid hub was ‘vile’ and shows Russia does not want to de-escalate Russia on Monday bombed an aid distribution centre and neighbouring shelter in southern Ukraine, killing at least 26 ​people, Ukrainian president Volodymyr Zelenskyy and ",
    "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
    "date": "2026-11-03T01:13:52+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "71d42ff961cf",
@@ -53,7 +78,18 @@
    "description": "Police confirm arrest of 37-year-old and 14-year-old boy over alleged assault outside Torquay home on Sunday night Get our breaking news email , free app or daily news podcast A man and boy have been arrested after a One Nation volunteer was allegedly attacked with a baseball bat",
    "url": "https://www.theguardian.com/australia-news/2026/nov/03/one-nation-volunteer-alleged-attack-assault-torquay-victoria-ntwnfb",
    "date": "2026-11-03T01:09:34+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "83f140852704",
+   "source": "France 24",
+   "title": "'Mano dura' contra la migración, los efectos de la agresiva estrategia de Trump",
+   "description": "El balance del medio mandato del presidente de Estados Unidos Donald Trump en materia migratoria podría resumirse en dos palabras: 'mano dura'. El gobierno republicano ha tomado varias medidas polémicas para cumplir con una de las principales promesas de campaña del presidente, e",
+   "url": "https://www.france24.com/es/programas/migrantes/20261103-mano-dura-contra-la-migraci%C3%B3n-los-efectos-de-la-agresiva-estrategia-trump",
+   "date": "2026-11-03T01:07:10+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "0de1f1e0a679",
@@ -62,7 +98,8 @@
    "description": "US President Donald Trump urged supporters to turn out ahead of Election Day",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss",
    "date": "2026-11-03T01:01:16+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "d585d2a5e220",
@@ -71,7 +108,8 @@
    "description": "The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results.",
    "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
    "date": "2026-11-03T00:50:38+00:00",
-   "category": "África"
+   "category": "África",
+   "type": "Prensa"
   },
   {
    "id": "b93a7091cb40",
@@ -80,7 +118,8 @@
    "description": "El fiscal nacional, Ángel Valencia, confirmó este lunes que el ministro de Justicia, Fernando Rabat, se encuentra en calidad de imputado debido a que enfrenta una denuncia por el presunto delito de prevaricación administrativa . La acción judicial fue presentada a la Fiscalía Met",
    "url": "https://www.cooperativa.cl/noticias/pais/judicial/ministerio-publico/fiscal-valencia-confirmo-que-rabat-figura-como-imputado-tras-denuncia/2026-11-02/214727.html",
    "date": "2026-11-03T00:47:27+00:00",
-   "category": "Gobierno y administración pública"
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
   },
   {
    "id": "a21539e5520a",
@@ -89,7 +128,8 @@
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes A través de sus canales oficiales, la selección chilena anunció la lista de 21 convocados para afrontar la Copa Mundial sub 17 que se disputará en Catar entre el 19 de noviembre y el 13 de diciembre. El delantero de Colo Co",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-confirmo-su-nomina-para-el-mundial-sub-17-en-catar/2026-11-02/214146.html",
    "date": "2026-11-03T00:41:46+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "9c34737fb96c",
@@ -98,7 +138,8 @@
    "description": "El aventurero británico culmina este lunes su travesía por el mundo. Un viaje que emprendió hace 28 años desde Chile para regresar a su hogar en Reino Unido.",
    "url": "https://www.bbc.com/mundo/articles/c8wy941ee4rzo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-03T00:38:16+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "99e01c9e0d77",
@@ -107,7 +148,8 @@
    "description": "Rusia llevó a cabo varios ataques aéreos el lunes 2 de noviembre contra una escuela que distribuía ayuda humanitaria en Komyshuvakha, en la región de Zaporizhia, en el sureste de Ucrania. Al menos 26 personas murieron. Estos bombardeos han destruido \"cualquier esperanza de progre",
    "url": "https://www.france24.com/es/europa/20261103-ucrania-al-menos-26-muertos-en-un-ataque-ruso-durante-una-distribuci%C3%B3n-de-ayuda-en-zaporizhia",
    "date": "2026-11-03T00:34:35+00:00",
-   "category": "Rusia y espacio postsoviético"
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
   },
   {
    "id": "9e1a4ba10594",
@@ -116,7 +158,8 @@
    "description": "En vísperas de las elecciones de medio mandato, la impopularidad del presidente estadounidense Donald Trump está afectando a los republicanos en general. Muchos estados que antes eran bastiones republicanos se encuentran ahora en una situación precaria. Uno de ellos es Carolina d",
    "url": "https://www.france24.com/es/programas/en-foco/20261103-midterms-agricultores-de-carolina-del-norte-asfixiados-por-la-inflaci%C3%B3n",
    "date": "2026-11-03T00:32:29+00:00",
-   "category": "Elecciones"
+   "category": "Elecciones",
+   "type": "Prensa"
   },
   {
    "id": "0b04bb27fa43",
@@ -125,7 +168,8 @@
    "description": "Jones, a former radio broadcaster, has pleaded not guilty to 21 charges of indecent assault and sexual touching The Sydney Morning Herald’s chief investigative reporter, Kate McClymont, has told a Sydney court the alleged victims of Alan Jones she interviewed received no benefit ",
    "url": "https://www.theguardian.com/australia-news/2026/nov/03/kate-mcclymont-evidence-alan-jones-trial-ntwnfb",
    "date": "2026-11-03T00:30:57+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "40d79e9034bd",
@@ -134,7 +178,8 @@
    "description": "",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/audax-choco-contra-la-muralla-de-cesar-dutra-y-perdio-ante-limache/2026-11-02/211640.html",
    "date": "2026-11-03T00:16:40+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "d1930724069a",
@@ -143,7 +188,8 @@
    "description": "National Cyber Security Centre expects attacks on critical facilities such as power stations, airports and hospitals AI-powered malicious software is “highly likely” to be used in hacking attacks against the UK’s power stations, airports and hospitals by 2028, according to the st",
    "url": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure",
    "date": "2026-11-03T00:01:32+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "9ed8f18b8e09",
@@ -152,7 +198,8 @@
    "description": "El próximo 3 de noviembre se decide la nueva composición del 120º Congreso de EEUU en unas elecciones de Medio Mandato que ponen en juego los 435 escaños de la Cámara de Representantes y un tercio (35) de los 100 escaños del Senado, y representan un referéndum del pueblo norteame",
    "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/02/7004864que-ocurrira-con-el-gobierno-de-trump-si-los-democratas-se-hacen-con-la-camara-y-el-senado-en-eeuu-elecciones.shtml",
    "date": "2026-11-03T00:00:58+00:00",
-   "category": "Congreso Nacional"
+   "category": "Congreso Nacional",
+   "type": "Prensa"
   },
   {
    "id": "e2d5f029b413",
@@ -161,7 +208,8 @@
    "description": "Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached.",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
    "date": "2026-11-03T00:00:00+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "8649f6317508",
@@ -170,7 +218,8 @@
    "description": "Las intensas lluvias que cayeron en las últimas horas en el norte de Perú, conforme a los pronósticos derivados del fenómeno de El Niño, han provocado que el caudal del río Tumbes, en la región del mismo nombre, suba este lunes a 1.021 metros cúbicos por segundo y movilice a equi",
    "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/02/el-nino-causa-estragos-en-el-norte-de-peru-con-intensas-lluvias-e-inundaciones.shtml",
    "date": "2026-11-02T23:58:01+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "c09c116e59ac",
@@ -179,7 +228,8 @@
    "description": "Una pugna política amenaza con retrasar los proyectos que buscan impedir rebajas de penas a condenados por delitos sexuales contra menores. Mientras el oficialismo y el Gobierno quieren llevarlos a la sala del Senado la próxima semana, sectores opositores buscan evitar que la ini",
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/02/el-plan-para-darle-oxigeno-a-rabat-y-el-bloqueo-que-prepara-la-oposicion-en-el-senado.shtml",
    "date": "2026-11-02T23:53:07+00:00",
-   "category": "Partidos políticos"
+   "category": "Partidos políticos",
+   "type": "Prensa"
   },
   {
    "id": "edc989941178",
@@ -188,7 +238,8 @@
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Fernando Ortiz , director técnico de Colo Colo, atendió a los medios tras la clasificación a las semifinales de la Copa Chile y aprovechó la instancia para referirse a la opción matemática de consagrarse campeón de la Liga ",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/fernando-ortiz-y-la-cercania-del-titulo-en-otros-clubes-tuve-la/2026-11-02/204238.html",
    "date": "2026-11-02T23:42:38+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "25546dedd508",
@@ -197,7 +248,8 @@
    "description": "Hit hard by Trump's tariffs and the war on Iran, countries in the Asia-Pacific want 'enormous changes' in US policies.",
    "url": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
    "date": "2026-11-02T23:41:18+00:00",
-   "category": "China y Asia"
+   "category": "China y Asia",
+   "type": "Prensa"
   },
   {
    "id": "9e9b559caaee",
@@ -206,7 +258,8 @@
    "description": "Investigadores de la Junta Nacional de Seguridad en el Transporte de EE.UU. informaron de los primeros indicios en la trágica caída de un jet privado que cobró la vida de todos sus ocupantes.",
    "url": "https://www.bbc.com/mundo/articles/ckvg7l4dp0n8o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T23:39:04+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "df038d0f74f9",
@@ -215,7 +268,8 @@
    "description": "La entrada Economía crece 0,2% y gobierno sigue optimista; tribunales ordenan a tres fundaciones restituir $1.000 millones por Caso Convenios, y Corte Suprema establece que gatos son “seres sintientes” se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/11/02/radar-02-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-02-11-26",
    "date": "2026-11-02T23:36:54+00:00",
-   "category": "Jurisprudencia"
+   "category": "Jurisprudencia",
+   "type": "Prensa"
   },
   {
    "id": "6e7377574c28",
@@ -224,7 +278,8 @@
    "description": "La Fiscalía Centro Norte formalizó este lunes 2 de noviembre a un imputado por el delito de homicidio frustrado del que fue víctima su propia defensora penal pública durante una audiencia de control de detención. De acuerdo con los antecedentes, “el ” al término de una audiencia ",
    "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/02/hombre-ataco-con-lapiz-al-cuello-y-grilletes-a-su-defensora-tras-audiencia-en-tribunal-de-santiago.shtml",
    "date": "2026-11-02T23:28:02+00:00",
-   "category": "Jurisprudencia"
+   "category": "Jurisprudencia",
+   "type": "Prensa"
   },
   {
    "id": "c810aeb244f0",
@@ -233,7 +288,8 @@
    "description": "Este lunes, Colo Colo superó sin mayores complicaciones a Deportes Puerto Montt por 3-0 (4-0 global) en la reanudación de 45 minutos de los cuartos de final de Copa Chile 2026, accediendo con el triunfo a las semifinales del certamen. En dicha instancia, chocarán -en programación",
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/02/colo-colo-goleo-a-puerto-montt-y-avanzo-a-primera-semi-de-copa-chile-albos-chocaran-con-ohiggins.shtml",
    "date": "2026-11-02T23:27:19+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "be61a363b41d",
@@ -242,7 +298,8 @@
    "description": "El Instituto de Medicina Legal y Ciencias Forenses de Toledo y Ciudad Real , según los datos facilitados este lunes por el Centro Integrado de Datos (CID). Según el balance provisional difundido por el Tribunal Superior de Justicia de Castilla-La Mancha, 54 de las personas fallec",
    "url": "https://www.biobiochile.cl/noticias/internacional/europa/2026/11/02/identifican-a-los-69-fallecidos-que-dejo-colision-de-trenes-en-espana-15-son-extranjeros.shtml",
    "date": "2026-11-02T23:27:00+00:00",
-   "category": "Jurisprudencia"
+   "category": "Jurisprudencia",
+   "type": "Prensa"
   },
   {
    "id": "77cbdca55930",
@@ -251,7 +308,8 @@
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Deportes Limache dio un paso importante en su sueño por clasificar por primera vez a un torneo internacional, gracias a un 2-0 sobre Audax Italiano por la fecha 26 de la Liga de Primera que le permitió afianzarse en puestos",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/limache-se-afianzo-en-zona-de-sudamericana-con-un-triunfo-sobre-audax/2026-11-02/202309.html",
    "date": "2026-11-02T23:23:09+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "f3b6cd76bd53",
@@ -260,7 +318,8 @@
    "description": "",
    "url": "https://www.cooperativa.cl/noticias/pais/politica/ottone-critico-actitud-del-gobierno-la-soberbia-y-la-tozudez-no-son/2026-11-02/201801.html",
    "date": "2026-11-02T23:18:01+00:00",
-   "category": "Gobierno y administración pública"
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
   },
   {
    "id": "8b6c928a42ca",
@@ -269,7 +328,8 @@
    "description": "Aunque los dinosaurios se alimentaban de una gran variedad de cosas, incluidos otros dinosaurios, durante mucho tiempo se creyó que las frutas no formaban parte de su dieta. Sin embargo, científicos han encontrado fósiles de un dinosaurio del tamaño de un pavo, sin dientes y con ",
    "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/11/02/descubren-al-primer-dinosaurio-conocido-que-comia-frutas-lo-llaman-pollo-del-infierno.shtml",
    "date": "2026-11-02T23:17:57+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "7ddaa956cddb",
@@ -278,7 +338,8 @@
    "description": "En la víspera de las midterms, Donald Trump regresó a Washington para dar un discurso en el que dio prioridad a hablar de las renovaciones físicas hechas en su mandato, como la del estanque del Monumento a Abraham Lincoln. Luego se refirió a las elecciones de mitad de mandato, qu",
    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261102-midterms-2026-trump-se-aleja-del-foco-electoral-a-horas-de-unos-decisivos-comicios",
    "date": "2026-11-02T23:13:10+00:00",
-   "category": "Elecciones"
+   "category": "Elecciones",
+   "type": "Prensa"
   },
   {
    "id": "4ae7cb499aa7",
@@ -287,7 +348,8 @@
    "description": "Las encuestas vuelven a estar bajo escrutinio en Estados Unidos de cara a las midterms. Tras lo ocurrido en procesos anteriores, especialmente en las elecciones presidenciales en las que el apoyo a Donald Trump fue subestimado por numerosos sondeos, surge una pregunta clave: ¿son",
    "url": "https://www.france24.com/es/video/20261102-qu%C3%A9-tan-precisas-son-las-encuestas-para-estas-elecciones-en-estados-unidos",
    "date": "2026-11-02T23:13:00+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "707abaef8093",
@@ -296,7 +358,8 @@
    "description": "Only 32 percent of voters approve of Trump's job performance in the latest Reuters/Ipsos poll.",
    "url": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
    "date": "2026-11-02T23:05:30+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "db688b5dd536",
@@ -305,7 +368,8 @@
    "description": "",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-festejo-con-un-intratable-romero-en-su-revancha-con-puerto/2026-11-02/200436.html",
    "date": "2026-11-02T23:04:36+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "51c3cf0e9bd3",
@@ -314,7 +378,18 @@
    "description": "La candidata y presidenta en funciones de Bulgaria, Iliana Yotova, se impuso en la segunda vuelta de las elecciones presidenciales, un resultado que apunta a la continuidad de una política de acercamiento a Moscú, dado que su postura ha sido tradicionalmente favorable al presiden",
    "url": "https://www.france24.com/es/video/20261102-bulgaria-elige-a-iliana-yotova-y-la-continuidad-de-una-l%C3%ADnea-cercana-a-mosc%C3%BA",
    "date": "2026-11-02T23:02:36+00:00",
-   "category": "Elecciones"
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "a9253c09ff95",
+   "source": "Radio Cooperativa",
+   "title": "\"Da pena ver a este nuevo Mauricio\": Gissella Gallardo habló del presente de Pinilla",
+   "description": "Tras sus recientes declaraciones, Gissella Gallardo volvió a referirse referirse a Mauricio Pinilla y al complejo momento que atraviesa su expareja. En conversación con \"Alfombra Roja\", la periodista expresó su preocupación por los cambios que ha observado en el exfutbolista y re",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/da-pena-ver-a-este-nuevo-mauricio-gissella-gallardo-hablo-del/2026-11-02/200212.html",
+   "date": "2026-11-02T23:02:12+00:00",
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "103c2e91c799",
@@ -323,7 +398,8 @@
    "description": "Una ola de ciberataques ha afectado los sistemas de refrigeración de supermercados en varios países de la Unión Europea, provocando fallos en neveras y congeladores y obligando a algunos establecimientos a retirar productos o desechar alimentos. Además, los incidentes recuerdan a",
    "url": "https://www.france24.com/es/video/20261102-ciberataque-en-europa-arruina-cientos-de-kilos-de-alimentos-en-supermercados-de-diferentes-pa%C3%ADses",
    "date": "2026-11-02T23:00:35+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "c9ef3f85e263",
@@ -332,7 +408,8 @@
    "description": "Surveillance footage captured the moment a tornado ripped through a beach resort restaurant in Castellaneta Marina",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/powerful-storm-tears-through-beach-resort-on-italys-southern-coast?traffic_source=rss",
    "date": "2026-11-02T22:59:41+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "5763fb67ebf7",
@@ -341,7 +418,8 @@
    "description": "En Israel, las principales fuerzas políticas intensifican las negociaciones para formar una coalición de gobierno antes de que el presidente Isaac Herzog anuncie a qué líder encargará oficialmente la misión de intentar conformar un Ejecutivo. Las conversaciones se centran en la b",
    "url": "https://www.france24.com/es/video/20261102-israel-negocia-contrarreloj-antes-de-que-herzog-anuncie-al-l%C3%ADder-que-intentar%C3%A1-formar-gobierno",
    "date": "2026-11-02T22:58:18+00:00",
-   "category": "Partidos políticos"
+   "category": "Partidos políticos",
+   "type": "Prensa"
   },
   {
    "id": "8c90583cb578",
@@ -350,7 +428,8 @@
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Deportes Puerto Montt volvió a sufrir con los errores propios en defensa ante Colo Colo , permitiendo el 3-0 definitivo en el cierre de su llave por cuartos de final de la Copa Chile. Maximiliano Riveros envió un pase que l",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/video-romero-aprovecho-nuevo-error-de-puerto-montt-y-marco-un-golazo/2026-11-02/195619.html",
    "date": "2026-11-02T22:56:19+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "f0e0e7f8eec4",
@@ -359,7 +438,8 @@
    "description": "La crisis política desatada por la rebaja de condenas también obligó a reordenar la agenda de la oposición, que tenía previsto reunirse el próximo 15 de noviembre con los expresidentes Gabriel Boric y Michelle Bachelet. La posibilidad de aplazar el encuentro fue abordada en una r",
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/02/oposicion-evalua-aplazar-reunion-con-boric-y-bachelet-tras-polemica-desatada-por-rebajas-de-rabat.shtml",
    "date": "2026-11-02T22:53:45+00:00",
-   "category": "Partidos políticos"
+   "category": "Partidos políticos",
+   "type": "Prensa"
   },
   {
    "id": "a547fe3735af",
@@ -368,7 +448,8 @@
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Después de 27 días de espera, Colo Colo finalmente completó su serie ante Deportes Puerto Montt y disputó los 45 minutos pendientes, en los que concretó un contundente 3-0 para clasificar con un marcador global de 4-0 a sem",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-liquido-la-serie-ante-puerto-montt-y-ratifico-su-paso-a-semis/2026-11-02/195239.html",
    "date": "2026-11-02T22:52:39+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "6b2e45bd0c05",
@@ -377,7 +458,8 @@
    "description": "El célebre cantautor británico Boy George se reunió con el presidente de Israel, Isaac Herzog, en el marco de un viaje a Jerusalén tras lanzar la canción ‘We will dance again’ (“Volveremos a bailar”). “Hoy, queremos agradecerte, Boy George, por ponerte del lado de Israel y el pue",
    "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/musica/2026/11/02/la-palabra-genocidio-estaba-siendo-sobreutilizada-boy-george-entrega-apoyo-y-una-cancion-a-israel.shtml",
    "date": "2026-11-02T22:52:18+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "a8adc63ae607",
@@ -386,16 +468,8 @@
    "description": "Durante la tarde de este lunes, vecinos protagonizaron manifestaciones en la comuna de Puente Alto ante la Se trata de integrantes del Comité de Allegados, quienes incluso acusan que hay externos que han intentado tomarse los inmuebles al encontrarse deshabitados. Como se puede v",
    "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/02/vecinos-de-puente-alto-denuncian-demora-en-entrega-de-casas-acusan-que-estan-listas-y-riesgo-de-tomas.shtml",
    "date": "2026-11-02T22:45:52+00:00",
-   "category": ""
-  },
-  {
-   "id": "9737fb058e75",
-   "source": "Radio Cooperativa",
-   "title": "La Teletón se hizo presente en el partido de Deportes Limache y Audax Italiano",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/deportes-limache/la-teleton-se-hizo-presente-en-el-partido-de-deportes-limache-y-audax/2026-11-02/194056.html",
-   "date": "2026-11-02T22:40:56+00:00",
-   "category": "Partidos políticos"
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "3c824c07193c",
@@ -404,7 +478,8 @@
    "description": "Tras recibir el respaldo de la Cámara de Diputados para iniciar su tramitación, el proyecto “Devuelvan la Plata” vuelve este martes a la Sala para continuar su discusión legislativa. La iniciativa busca que las AFP compensen las pérdidas registradas en el Fondo E durante este año",
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/02/camara-aprueba-admisibilidad-de-proyecto-devuelvan-la-plata-para-que-afp-restituyan-perdidas.shtml",
    "date": "2026-11-02T22:40:10+00:00",
-   "category": "Congreso Nacional"
+   "category": "Congreso Nacional",
+   "type": "Prensa"
   },
   {
    "id": "e47db3bc5612",
@@ -413,7 +488,8 @@
    "description": "From the economy and cost of living to immigration, polls suggest where American voters agree and disagree.",
    "url": "https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
    "date": "2026-11-02T22:40:06+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "bb0a4e527b10",
@@ -422,7 +498,8 @@
    "description": "La tarde de este lunes, Metro de Santiago confirmó el fallecimiento de un trabajador en medio de las obras de construcción de la , en la comuna de Renca, Región Metropolitana. Tras el trágico incidente, personal de Bomberos y el Grupo de Operaciones Policiales Especiales (GOPE) d",
    "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/02/trabajador-muere-en-medio-de-las-obras-de-futura-estacion-de-la-linea-7-del-metro-en-renca.shtml",
    "date": "2026-11-02T22:38:48+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "75d6288cb1ba",
@@ -431,7 +508,8 @@
    "description": "En Antofagasta para procesar y traficar metanfetamina en el país. La instancia dio inicio bajo estrictas medidas de seguridad, mientras que los imputados por delitos asociados a la Ley 20.000 arriesga penas -según lo solicitado por Fiscalía- de 35 años de presidio para cada uno. ",
    "url": "https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/11/02/inicia-juicio-contra-mexicanos-que-buscaban-hacer-de-chile-punto-de-metanfetamina-a-europa-y-oceania.shtml",
    "date": "2026-11-02T22:36:37+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "5a7ef09d8ed7",
@@ -440,7 +518,8 @@
    "description": "Andy Burnham to launch ‘structured dialogue’ on issue at Commonwealth summit in Antigua and Barbuda Andy Burnham will ask countries affected by Britain’s role in slavery to help shape an expected formal apology, Downing Street has indicated, arguing that their input is indispensa",
    "url": "https://www.theguardian.com/world/2026/nov/02/andy-burnham-ask-countries-affected-uk-role-slavery-shape-formal-apology",
    "date": "2026-11-02T22:30:30+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "ebcf029cf637",
@@ -449,16 +528,8 @@
    "description": "La deuda morosa registrada en Chile aumentó un 22,1% durante el tercer trimestre de 2026, respecto del período anterior, impulsada principalmente por las obligaciones pendientes de las empresas. A ello se suma otro antecedente preocupante: . Así lo reveló el tercer Informe de Mor",
    "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/11/02/deuda-morosa-crecio-221-en-el-tercer-trimestre-casi-una-cuarta-parte-lleva-mas-de-dos-anos-impaga.shtml",
    "date": "2026-11-02T22:27:39+00:00",
-   "category": "Empresas y mercados"
-  },
-  {
-   "id": "8feb2a28995d",
-   "source": "Radio Cooperativa",
-   "title": "Tiroteo en una playa de California dejó dos muertos y dos heridos",
-   "description": "Dos personas murieron y otras dos resultaron heridas en un tiroteo ocurrido en la madrugada de este lunes en una playa en Moss Landing , en la costa central del estado de California, informó el Departamento del Alguacil del condado de Monterey. El suceso se produjo poco después d",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/tiroteos/tiroteo-en-una-playa-de-california-dejo-dos-muertos-y-dos-heridos/2026-11-02/192546.html",
-   "date": "2026-11-02T22:25:46+00:00",
-   "category": ""
+   "category": "Empresas y mercados",
+   "type": "Prensa"
   },
   {
    "id": "ecae63ed53e3",
@@ -467,7 +538,8 @@
    "description": "Francisca García-Huidobro analizó los recientes dichos de Camila Nash en su contra. Recordemos que, en el podcast Juzgamos y nos Funamos, de Danilo 21, la chica reality había dicho que para ella era una persona no grata. “Qué lata ver a esa mujer en la tele”, manifestó. “Ver a es",
    "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/02/francisca-garcia-huidobro-y-polemicos-dichos-de-camila-nash-ella-tiene-un-problema-con-julio-cesar.shtml",
    "date": "2026-11-02T22:22:36+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "b0c9ed52966d",
@@ -476,7 +548,8 @@
    "description": "Una familia campesina de la provincia de Osorno denuncia que quedará en la calle, luego que le remataran su propiedad avaluada en más de 70 millones de pesos por una deuda inicial con el Banco Estado de poco más de 3 millones. Afirman que no fueron notificados del proceso. El cas",
    "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/02/terreno-vale-70-millones-y-adeudan-3-millones-familia-denuncia-remate-sin-previo-aviso-en-los-lagos.shtml",
    "date": "2026-11-02T22:14:37+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "5eb3fc613361",
@@ -485,7 +558,8 @@
    "description": "De cara a las elecciones de mitad de mandato en Estados Unidos, los republicanos de Texas están siendo acusados ​​de modificar las reglas electorales a su favor. En el condado de Tarrant, cerca de Dallas, han reducido el número de centros de votación en casi un 30%. Esta decisión",
    "url": "https://www.france24.com/es/programas/en-foco/20261102-pol%C3%A9mica-en-texas-por-cambios-electorales-que-favorecer%C3%ADan-a-los-republicanos",
    "date": "2026-11-02T22:12:08+00:00",
-   "category": "Elecciones"
+   "category": "Elecciones",
+   "type": "Prensa"
   },
   {
    "id": "db793758227f",
@@ -494,7 +568,8 @@
    "description": "Social network and Digital Freedom Project, led by NSW state MP John Ruddick, seek to overturn ban on grounds of implied freedom of political communication Australia’s world-leading under-16s social media ban will face its first major legal challenge on Tuesday, as Reddit and an ",
    "url": "https://www.theguardian.com/australia-news/2026/nov/03/australia-social-media-ban-high-court-challenge-reddit-digital-freedom-project",
    "date": "2026-11-02T22:09:35+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "96587be3547c",
@@ -503,7 +578,8 @@
    "description": "Todas las miradas están puestas en un puñado de elecciones al Senado que decidirán el control de la codiciada Cámara Alta. Aquí tienes una breve guía.",
    "url": "https://www.bbc.com/mundo/articles/c9ly0x3jr86eo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T22:06:33+00:00",
-   "category": "Elecciones"
+   "category": "Elecciones",
+   "type": "Prensa"
   },
   {
    "id": "931c128989fb",
@@ -512,7 +588,8 @@
    "description": "El exparacaidista británico Karl Bushby puso fin este lunes 2 de noviembre a su viaje de 28 años alrededor del mundo al llegar a su ciudad natal, Hull, tras cruzar a nado el Canal de la Mancha. Su recorrido le llevó desde el extremo sur de América Latina hasta el helado estrecho ",
    "url": "https://www.france24.com/es/europa/20261102-entre-selvas-y-mares-helados-el-brit%C3%A1nico-karl-bushby-termina-una-traves%C3%ADa-de-28-a%C3%B1os-a-pie-por-el-mundo",
    "date": "2026-11-02T22:01:23+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "41cc673ae7eb",
@@ -521,7 +598,8 @@
    "description": "Llega el calor, sinónimo para muchos de vacaciones y días de playa, pero también suele ser el momento del año donde muchos buscan compensar meses de sedentarismo con el objetivo de ponerse en forma en pocas semanas. Sin embargo, esto puede terminar siendo contraproducente. Result",
    "url": "https://www.biobiochile.cl/noticias/bbcl-explica/bbcl-explica-notas/2026/11/02/los-errores-mas-comunes-que-cometen-quienes-buscan-ponerse-en-forma-rapidamente-poco-antes-del-verano.shtml",
    "date": "2026-11-02T22:00:55+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "7a6daaf5815c",
@@ -530,7 +608,8 @@
    "description": "El presidente iraní Masoud Pezeshkian aseguró este lunes 2 de noviembre que el líder supremo del país, el ayatolá Mojtaba Jameneí, concedió “ciertas facultades” a su Gobierno para intentar resolver la guerra lanzada por EEUU contra su país “mediante el diálogo”. Teherán sostuvo q",
    "url": "https://www.biobiochile.cl/noticias/internacional/mediooriente/2026/11/02/lider-de-iran-entrega-facultades-al-gobierno-para-negociar-el-fin-de-la-guerra-con-eeuu.shtml",
    "date": "2026-11-02T22:00:12+00:00",
-   "category": "Gobierno y administración pública"
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
   },
   {
    "id": "f62a9b3315b5",
@@ -539,7 +618,8 @@
    "description": "Se acercan las vacaciones, llegan los días más bonitos del año y todos queremos capturar esos momentos especiales. Pero ¿Cómo eligen las familias de hoy qué tecnología usar para guardar sus recuerdos? ¡La típica foto con el celular quedó en el pasado! Descubre desde el uso de cám",
    "url": "https://www.biobiochile.cl/biobiotv/programas/igadget/2026/11/02/guia-experta-drones-camaras-y-la-tecnologia-que-esta-cambiando-las-fotos-y-videos-familiares.shtml",
    "date": "2026-11-02T21:58:57+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "65264eda029d",
@@ -548,7 +628,8 @@
    "description": "En una nueva sesión del Comité de Ministros se destrabaron dos proyectos por cerca de US$ 4.700 millones: el Puerto Exterior de San Antonio y…",
    "url": "https://www.ex-ante.cl/negocios/gobierno-destraba-proyecto-de-puerto/",
    "date": "2026-11-02T21:56:27+00:00",
-   "category": "Gobierno y administración pública"
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
   },
   {
    "id": "307f3c67f80b",
@@ -557,7 +638,8 @@
    "description": "Ser periodista en Italia va acompañado con el riesgo de volverse objetivo de la mafia y los narcotraficantes si las investigaciones se vuelven incómodas para las grupos. En el marco de la conmemoración del Día Internacional para Poner Fin a la Impunidad de los Crímenes contra Per",
    "url": "https://www.france24.com/es/video/20261102-la-mafia-y-el-narcotr%C3%A1fico-un-riesgo-para-los-periodistas-en-italia",
    "date": "2026-11-02T21:54:08+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "63f57e8d3969",
@@ -566,7 +648,8 @@
    "description": "El youtuber y creador de contenidos Ariel Osses tuvo un buen año: fue nominado a Mejor Influencer en los Premios Cordillera, llegó a la coconducción del programa de YouTube ‘Tito Games’ y su “Auto Mundialero”, cubierto con casi 11 mil láminas de fútbol, lo convirtió en noticia in",
    "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/02/mis-navidades-siempre-fueron-pobres-youtuber-ariel-osses-quiere-entregar-10-mil-regalos-navidenos.shtml",
    "date": "2026-11-02T21:53:16+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "df446d1999e8",
@@ -575,7 +658,8 @@
    "description": "Su primer encuentro privado con el Papa, este miércoles 4, tiene un peso que va más allá del protocolo y de los temas de Estado.…",
    "url": "https://www.ex-ante.cl/politica/visita-vaticano-schoenstatt-kast/",
    "date": "2026-11-02T21:46:38+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "501c49980d11",
@@ -584,7 +668,8 @@
    "description": "Ucrania y Rusia informaron que sus aplicaciones de alerta de emergencia fueron hackeadas durante la noche, enviando falsas advertencias a la población sobre inminentes ataques aéreos, químicos y nucleares.",
    "url": "https://www.france24.com/es/video/20261102-ucrania-y-rusia-se-acusan-mutuamente-ataques-cibern%C3%A9ticos-durante-la-noche",
    "date": "2026-11-02T21:40:16+00:00",
-   "category": "Rusia y espacio postsoviético"
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
   },
   {
    "id": "2e1813a0d7ef",
@@ -593,7 +678,8 @@
    "description": "Student protests resume in France as pupils return to school",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss",
    "date": "2026-11-02T21:28:55+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "7aa0ff4ee343",
@@ -602,7 +688,8 @@
    "description": "Luego de 35 años ininterrumpidos de operaciones, la Misión de la ONU para el Sahara Occidental (Minurso) comenzó el 1 de noviembre su proceso de desmantelamiento, después de que el veto cruzado entre Estados Unidos y Rusia impidiera la renovación de su mandato en el Consejo de Se",
    "url": "https://www.france24.com/es/video/20261102-minurso-misi%C3%B3n-de-la-onu-en-el-sahara-occidental-sin-respaldo-por-vetos-de-ee-uu-y-rusia",
    "date": "2026-11-02T21:23:34+00:00",
-   "category": "Rusia y espacio postsoviético"
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
   },
   {
    "id": "fb82cedf2c12",
@@ -611,7 +698,8 @@
    "description": "Officials have provided an update on the investigation into Sunday’s deadly Learjet crash in Florida.",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/work-to-do-authorities-give-update-on-florida-private-jet-crash?traffic_source=rss",
    "date": "2026-11-02T21:23:31+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "1228d16b5472",
@@ -620,7 +708,8 @@
    "description": "En esta crónica de Cultura hablamos de tres series: la nueva adaptación a la pantalla del clásico de la literatura estadounidense 'Al este del Edén' (Netflix); y dos obras que exploran la justicia, la impunidad y la venganza: 'El Juicio' (Prime Video) y 'Furious' (Disney+). Miram",
    "url": "https://www.france24.com/es/programas/cultura/20261102-al-este-del-ed%C3%A9n-el-juicio-y-furious-tres-series-para-empezar-noviembre",
    "date": "2026-11-02T21:07:05+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "b6919d3fc3a2",
@@ -629,7 +718,8 @@
    "description": "Las elecciones intermedias en EE. UU. podrían abrir una oportunidad para la diplomacia con Irán o desencadenar una nueva escalada militar. ¿Qué factores podrían inclinar la balanza hacia la guerra o la paz?",
    "url": "https://www.dw.com/es/cuatro-claves-que-decidirán-si-irán-camina-hacia-la-guerra-o-la-paz/a-79833938?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T21:06:00+00:00",
-   "category": "Elecciones"
+   "category": "Elecciones",
+   "type": "Prensa"
   },
   {
    "id": "14f6c8ea5722",
@@ -638,7 +728,8 @@
    "description": "En EE. UU., el cambio climático prácticamente ha desaparecido de los discursos de campaña de los demócratas, sustituido por promesas de reducir las facturas de electricidad.",
    "url": "https://www.dw.com/es/el-clima-desaparece-de-la-campaña-demócrata-para-las-midterms/a-79832303?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T21:06:00+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "a650f6eeae41",
@@ -647,7 +738,8 @@
    "description": "El presidente Donald Trump generó este 2 de noviembre sus dudas sobre si cumpliría con la amenaza de reanudar los ataques militares contra Irán al firmar que podría llegarse a un acuerdo con Teherán. En las últimas semanas, Trump había insinuado la posibilidad de reanudar la ofen",
    "url": "https://www.france24.com/es/medio-oriente/20261102-en-directo-trump-abre-dudas-sobre-una-reanudaci%C3%B3n-de-los-ataques-contra-ir%C3%A1n-y-la-posibilidad-de-un-acuerdo",
    "date": "2026-11-02T20:58:40+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "744a633dc668",
@@ -656,7 +748,8 @@
    "description": "Three New York City progressive Democrats are expected to win their midterm congressional races in Tuesday's election.",
    "url": "https://www.aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress?traffic_source=rss",
    "date": "2026-11-02T20:48:56+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "b3370c7580d7",
@@ -665,7 +758,8 @@
    "description": "Los partidos opositores, liderados por Gadi Eisenkot, necesitan sumar apoyos para alcanzar los 61 escaños. La posible alianza con las listas árabes, que lograron 19 bancas, divide al bloque.",
    "url": "https://www.dw.com/es/el-bloque-anti-netanyahu-se-reunirá-por-primera-vez-desde-las-elecciones/a-79834465?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T20:44:00+00:00",
-   "category": "Elecciones"
+   "category": "Elecciones",
+   "type": "Prensa"
   },
   {
    "id": "3c80b256ca00",
@@ -674,7 +768,8 @@
    "description": "The UN is ending its peacekeeping mission in the disputed territory after the US and Russia blocked its extension.",
    "url": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
    "date": "2026-11-02T20:43:44+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "4fbd183cff15",
@@ -683,7 +778,8 @@
    "description": "En nuestra sección En Contexto revisamos las señales que están dando Donald Trump y Benjamin Netanyahu sobre si reanudarán la guerra contra Irán una vez que concluyan las midterms en Estados Unidos. De su lado, Teherán sigue negociando pero se prepara para responder. En tanto, la",
    "url": "https://www.france24.com/es/programas/en-contexto/20261102-trump-volver%C3%A1-a-la-guerra-con-ir%C3%A1n-las-se%C3%B1ales-de-una-nueva-escalada",
    "date": "2026-11-02T20:41:23+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "9bd4a9046e50",
@@ -692,7 +788,8 @@
    "description": "PM wants to tie Shabana Mahmood’s hard line on borders to recognition of the value of migration, but he may need to shout his conviction How will UK immigration rules change under Shabana Mahmood’s latest plans? While out on the campaign trail in Makerfield, Andy Burnham gave a g",
    "url": "https://www.theguardian.com/uk-news/2026/nov/02/migration-andy-burnham-shabana-mahmood-labour-immigration",
    "date": "2026-11-02T20:39:52+00:00",
-   "category": "Sociedad"
+   "category": "Sociedad",
+   "type": "Prensa"
   },
   {
    "id": "3ddece045fe0",
@@ -701,7 +798,8 @@
    "description": "South Africa to lose duty-free access, affecting $1.7bn worth of annual exports, including cars and farm products.",
    "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
    "date": "2026-11-02T20:38:04+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "0fcea0c97f21",
@@ -710,7 +808,8 @@
    "description": "Ante la tensión en las relaciones entre Corea del Sur y la administración Trump, el gobierno surcoreano teme que la búsqueda de un avance diplomático por parte de Trump con Kim Jong-un pueda ir en detrimento de Seúl.",
    "url": "https://www.dw.com/es/seúl-teme-quedar-relegado-a-un-segundo-plano-mientras-estados-unidos-tiende-la-mano-a-corea-del-norte/a-79834043?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T20:36:00+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "447c54a200c5",
@@ -719,7 +818,8 @@
    "description": "Hugo Cárdenas tenía una voz que no pasaba inadvertida. Siembre bien vestido, casi siempre con chaqueta y camisa, se transformó en un personaje ineludible de…",
    "url": "https://www.ex-ante.cl/cultura/muerte-hugo-cardenas-pintor-santiago/",
    "date": "2026-11-02T20:35:32+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "01c4e32e482e",
@@ -728,7 +828,8 @@
    "description": "Novels by Irish author Sally Rooney are in high demand after her publisher, Faber, halted supplies in the United Kingdom",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/uk-bookshop-helps-meet-demand-for-sally-rooney-novels?traffic_source=rss",
    "date": "2026-11-02T20:31:16+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "8fb4aaeeabf0",
@@ -737,7 +838,8 @@
    "description": "Zohran Mamdani is championing a slate of Congressional candidates who want to take progressive policies national.",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/mamdani-endorsed-progressives-fight-to-join-congress?traffic_source=rss",
    "date": "2026-11-02T20:28:52+00:00",
-   "category": "Elecciones"
+   "category": "Elecciones",
+   "type": "Prensa"
   },
   {
    "id": "efc4622009fe",
@@ -746,7 +848,8 @@
    "description": "Una petición para que el canal de televisión de derecha 'CNews' sea retirado del aire superó el medio millón de firmas este lunes 2 de noviembre. La iniciativa para lograr su cierre ganó un gran impulso tras un ataque racista ocurrido el 23 de octubre pasado en la periferia de Pa",
    "url": "https://www.france24.com/es/francia/20261102-francia-por-qu%C3%A9-piden-el-cierre-del-canal-cnews-y-qu%C3%A9-tiene-que-ver-el-tiroteo-cerca-de-par%C3%ADs",
    "date": "2026-11-02T20:08:40+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "bb59b01cd56e",
@@ -755,7 +858,8 @@
    "description": "Chile necesita una agenda ambiciosa en materia de permisos y generar un consenso respecto a su importancia, Estados Unidos muestra que, incluso en su época…",
    "url": "https://www.ex-ante.cl/opinion/ambicion-en-permisos-sin-mirarnos-ombligo/",
    "date": "2026-11-02T20:08:24+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "364e457e7206",
@@ -764,7 +868,8 @@
    "description": "Según un catastro de Colliers, existen unas 20 islas privadas a la venta entre Los Lagos y Magallanes, un 25% más que en 2025. Los…",
    "url": "https://www.ex-ante.cl/negocios/mercado-islas-sur-chile-por-us35millones/",
    "date": "2026-11-02T20:06:30+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "8dc430d2ffa6",
@@ -773,7 +878,8 @@
    "description": "De cara a las elecciones de medio mandato, el presidente de Estados Unidos, Donald Trump, volvió a amenazar a Irán y se jactó de \"ser amable\". El primer ministro israelí, Benjamin Netanyahu, ha presionado repetidamente a Trump para volver a atacar territorio iraní, pero Teherán r",
    "url": "https://www.france24.com/es/video/20261102-trump-vuelve-a-amenazar-a-ir%C3%A1n-teher%C3%A1n-responde-que-podr%C3%ADa-reabrir-ormuz-si-cumplen-sus-demandas",
    "date": "2026-11-02T20:01:36+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "f73dfa53b1bb",
@@ -782,7 +888,8 @@
    "description": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red bl",
    "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
    "date": "2026-11-02T20:00:27+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "7fcc9b827aa3",
@@ -791,7 +898,8 @@
    "description": "Defence barrister says earlier allegations about comedian’s sexual conduct ‘poisoned the wells’ of justice as trial continues Russell Brand is not a “psychopath who rapes people and thinks it’s normal” and is respectful when women say no, a court has heard. In his closing speech ",
    "url": "https://www.theguardian.com/uk-news/2026/nov/02/russell-brand-defence-barrister-court-trial",
    "date": "2026-11-02T19:57:56+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "39a06e421f0c",
@@ -800,7 +908,8 @@
    "description": "El Tribunal de Juicio Oral en lo Penal de Valdivia condenó a Francisco Javier Uribe Obando a presidio perpetuo calificado por el asesinato de su hermano, su cuñada embarazada y su sobrina de 10 años, ocurrido en marzo de 2024 en el sector de Cayurruca, comuna de Río Bueno. La sen",
    "url": "https://www.rioenlinea.cl/presidio-perpetuo-para-hombre-que-asesino-a-su-hermano-cunada-embarazada-y-sobrina-en-rio-bueno/",
    "date": "2026-11-02T19:50:56+00:00",
-   "category": "Regiones (Los Ríos)"
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
   },
   {
    "id": "a8791a75a24a",
@@ -809,7 +918,8 @@
    "description": "Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory.",
    "url": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
    "date": "2026-11-02T19:40:10+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "c04986d8e0fe",
@@ -818,7 +928,8 @@
    "description": "Holding a sign expressing support for genocide is not, in itself, grounds for arrest under UK law.",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/protesters-i-support-genocide-sign-appears-to-face-no-police-action?traffic_source=rss",
    "date": "2026-11-02T19:39:24+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "bf6d882c0346",
@@ -827,7 +938,8 @@
    "description": "La partida del Presupuesto 2027 para Justicia recibió 74 indicaciones, vale decir, propuestas para modificar el erario del Ministerio. El PS y el FA ya…",
    "url": "https://www.ex-ante.cl/politica/rabat-oposicion-pone-en-jaque-justicia/",
    "date": "2026-11-02T19:38:23+00:00",
-   "category": "Partidos políticos"
+   "category": "Partidos políticos",
+   "type": "Prensa"
   },
   {
    "id": "121563584b34",
@@ -836,7 +948,8 @@
    "description": "Defence argues that retrying Clancy would violate ⁠⁠her constitutional rights.",
    "url": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
    "date": "2026-11-02T19:11:37+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "18ab38352648",
@@ -845,7 +958,8 @@
    "description": "After a second apparent cyber-attack in as many weeks, we examine possible culprits and their motives Shop fridges and freezers across Europe hit by fresh suspected cyber-attack Supermarket fridges and freezers in seven European countries have malfunctioned , their thermostats re",
    "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
    "date": "2026-11-02T19:07:40+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "5ac6411a2197",
@@ -854,7 +968,8 @@
    "description": "Top court declines to block California from counting ballots of voters Trump administration claims are not US citizens.",
    "url": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss",
    "date": "2026-11-02T19:06:52+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "6ecd46582d1a",
@@ -863,7 +978,8 @@
    "description": "Exception for care workers will allow an estimated 280,000 people and their dependants to apply for indefinite leave to remain after five years Shabana Mahmood rowed back on her most hardline plans to make care workers wait 15 years for settlement in the UK, but told MPs on Monda",
    "url": "https://www.theguardian.com/uk-news/2026/nov/02/shabana-mahmood-softens-immigration-plans-cabinet-backlash-leave-to-remain",
    "date": "2026-11-02T19:06:40+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "f8ac6ce09956",
@@ -872,7 +988,8 @@
    "description": "Es hora de guardar silencio táctico, ordenar prioridades de verdad, asumir decisiones difíciles y convocar a personeros con oficio probado. Se gobierna para liderar un…",
    "url": "https://www.ex-ante.cl/opinion/meses-de-errores-de-manual/",
    "date": "2026-11-02T19:06:29+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "c0df9ba40f34",
@@ -881,7 +998,8 @@
    "description": "La aeronave privada se estrelló en el condado de Palm Beach, Florida. Imágenes captadas por los residentes mostraban al jet cayendo a gran velocidad antes de estrellarse.",
    "url": "https://www.bbc.com/mundo/articles/ck4g1xpx1e81o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T19:04:56+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "5494c5469a49",
@@ -890,7 +1008,8 @@
    "description": "Bienvenidos a Wyoming, el estado estadounidense más favorable a Donald Trump. El republicano obtuvo casi el 70% de los votos allí durante sus tres campañas presidenciales. El \"Estado Vaquero\" es el menos poblado, el más rural y el más conservador de Estados Unidos. De cara a las ",
    "url": "https://www.france24.com/es/programas/reporteros/20261102-muchas-gracias-trump-los-conservadores-de-wyoming-divididos-antes-de-las-elecciones",
    "date": "2026-11-02T19:04:31+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "9ce62825135f",
@@ -899,7 +1018,8 @@
    "description": "El nombre de la refugiada ucraniana Iryna Zarutska ha estado en medio de la campaña republicana en Carolina del Norte. El hombre que la asesinó, quien tiene problemas de salud mental, había quedado libre en 2020 tras un beneficio otorgado por el ex gobernador demócrata Roy Cooper",
    "url": "https://www.france24.com/es/video/20261102-midterms-seguridad-y-econom%C3%ADa-preocupaciones-de-los-votantes-de-carolina-del-norte",
    "date": "2026-11-02T18:58:32+00:00",
-   "category": "Sociedad"
+   "category": "Sociedad",
+   "type": "Prensa"
   },
   {
    "id": "a0681a74bc08",
@@ -908,7 +1028,8 @@
    "description": "El ataque alcanzó una escuela donde civiles recibían ayuda humanitaria, según el presidente ucraniano Volodimir Zelenski.",
    "url": "https://www.dw.com/es/al-menos-18-muertos-en-un-ataque-ruso-contra-una-escuela-en-zaporiyia/a-79833849?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T18:57:00+00:00",
-   "category": "Rusia y espacio postsoviético"
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
   },
   {
    "id": "9322cda8fbe4",
@@ -917,7 +1038,8 @@
    "description": "The head of the International Olympic Committee discusses the significance of Africa hosting the Youth Olympic Games.",
    "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/2/senegal-hosts-africas-first-olympics?traffic_source=rss",
    "date": "2026-11-02T18:56:17+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "759bea19cbfd",
@@ -926,7 +1048,8 @@
    "description": "Iran says its offer to reopen the Strait of Hormuz can be implemented in two days if the US agrees to terms.",
    "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
    "date": "2026-11-02T18:49:26+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "e740854f0054",
@@ -935,7 +1058,8 @@
    "description": "The expanded industrial action comes amid a wave of strikes and protests that have sparked unrest across Europe.",
    "url": "https://www.aljazeera.com/news/2026/11/2/german-unions-launch-wave-of-strikes-over-cost-of-living-pressures?traffic_source=rss",
    "date": "2026-11-02T18:47:24+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "cfdc87f7f9d6",
@@ -944,7 +1068,8 @@
    "description": "Este lunes, Colo Colo y Deportes Puerto Montt vuelven al Monumental para completar el segundo tiempo de la revancha de cuartos de final de la Copa Chile tras dos intentos por completar el encuentro, siendo el original el 6 de octubre y otro uno fallido el 19 de dicho mes. Sigue e",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/colo-colo-vencio-a-puerto-montt-en-los-minutos-pendientes-en-cuartos-de/2026-11-02/154324.html",
    "date": "2026-11-02T18:43:24+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "f291fa4627c9",
@@ -953,7 +1078,8 @@
    "description": "¿Qué hay detrás de la violencia contra los periodistas que las autoridades no pueden frenar? Cada 2 de noviembre, el mundo conmemora el Día Internacional para Poner Fin a la Impunidad de los Crímenes contra Periodistas, una fecha establecida por la ONU hace 13 años tras el asesin",
    "url": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20261102-qu%C3%A9-hay-detr%C3%A1s-de-la-violencia-contra-los-periodistas-que-las-autoridades-no-pueden-frenar",
    "date": "2026-11-02T18:35:14+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "fdaf8bc638fd",
@@ -962,7 +1088,8 @@
    "description": "Knesset member Ofer Cassif argues that the ‘politics of exclusion’ keep Israel in political deadlock.",
    "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss",
    "date": "2026-11-02T18:32:59+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "d7a97e0c821a",
@@ -971,16 +1098,18 @@
    "description": "Diesel prices ease to $6.29 per gallon, offering slight relief amid a global fuel demand squeeze.",
    "url": "https://www.aljazeera.com/economy/2026/11/2/us-petrol-prices-dip-ahead-of-midterms-as-voters-eye-costs?traffic_source=rss",
    "date": "2026-11-02T18:32:30+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "53d11bc58ae0",
    "source": "Al Jazeera",
-   "title": "Russian strike on Ukraine aid hub kills 26 as US announces new peace talks",
-   "description": "Zelenskyy condemns 'vile' attack, saying Russian forces hit a school used as an aid centre in southern Zaporizhzhia.",
+   "title": "Russian bombing of Ukrainian aid centre kills 26 people",
+   "description": "Ukraine's president calls attack further proof that Russia does not want any ‌kind of de-escalation or real justice.",
    "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
    "date": "2026-11-02T18:23:02+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "185321479172",
@@ -989,7 +1118,8 @@
    "description": "Estados Unidos irá a las urnas este 3 de noviembre para sus elecciones de medio mandato, que definirán la nueva configuración del Senado y la Cámara de Representantes. A su vez, las Midterms servirán como un referendo sobre el segundo Gobierno del presidente Donald Trump y de sus",
    "url": "https://www.france24.com/es/programas/revista-de-prensa/20261102-los-aliados-temen-que-trump-ataque-a-la-otan-si-pierde-las-midterms-politico",
    "date": "2026-11-02T18:20:45+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "e14005c4b1c7",
@@ -998,7 +1128,8 @@
    "description": "Donald Trump asegura que la economía del país atraviesa uno de sus mejores momentos.",
    "url": "https://www.bbc.com/mundo/watch/cw33x0zz1pj3o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T18:18:32+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "e8caf2310725",
@@ -1007,7 +1138,8 @@
    "description": "Minister warns weeks without lessons are putting exams at risk as unions plan nationwide strike on Thursday Dozens of high schools across France were blockaded again on Monday as the government braced for another tense week of protests over school conditions and the high cost of ",
    "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests",
    "date": "2026-11-02T18:17:33+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "9f96110962a9",
@@ -1016,7 +1148,8 @@
    "description": "Cazadores alemanes apuntan a mapaches, nutrias y gansos canadienses como una alternativa para ofrecer en restaurantes. De esta forma, aseguran, se combaten las especies invasoras que se propagan por el país sin control.",
    "url": "https://www.dw.com/es/alemania-lleva-carne-de-mapache-a-la-mesa-para-combatir-su-propagación/a-79833593?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T18:15:00+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "f32e476ebf47",
@@ -1025,7 +1158,8 @@
    "description": "Reporteros Sin Fronteras incluye en la lista anual de depredadores de la prensa al mandatario estadounidense, Donald Trump, \"como resultado de su espantoso historial de ataques\" contra los periodistas. El veto a algunos medios de comunicación en la Casa Blanca, \"acciones legales ",
    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261102-trump-entra-en-la-lista-de-depredadores-de-la-prensa-de-rsf-por-reducir-el-periodismo-a-propaganda",
    "date": "2026-11-02T18:02:44+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "0d772073d5d9",
@@ -1034,7 +1168,8 @@
    "description": "Donald Trump llega a las elecciones de mitad de mandato en Estados Unidos con un problema similar al del expresidente demócrata.",
    "url": "https://www.bbc.com/mundo/articles/cm89z5zp0zkzo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T17:58:09+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "61a0868f82a1",
@@ -1043,7 +1178,8 @@
    "description": "El genérico costará 40 dólares al año y estará disponible en 120 países de ingresos bajos y medios.",
    "url": "https://www.dw.com/es/ee-uu-aprueba-versión-económica-de-tratamiento-preventivo-contra-el-vih/a-79833664?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T17:57:00+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "b5f6134be18a",
@@ -1052,7 +1188,8 @@
    "description": "Los bonos del Tesoro estadounidense sirven como referencia para el costo del financiamiento de largo plazo en buena parte del mundo. Cuando sus tasas suben…",
    "url": "https://www.ex-ante.cl/afteroffice/fed-warsh-y-tasas-de-interes-en-chile/",
    "date": "2026-11-02T17:49:03+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "97b5ed3248a2",
@@ -1061,7 +1198,8 @@
    "description": "El DJ estadounidense fue uno de los fundadores del género en Detroit. Falleció en Ciudad de México, donde tenía prevista una actuación.",
    "url": "https://www.dw.com/es/muere-en-ciudad-de-méxico-a-los-64-años-el-dj-estadounidense-juan-atkins-pionero-del-tecno/a-79833640?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T17:41:00+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "2d86f1e1148d",
@@ -1070,7 +1208,8 @@
    "description": "“No me acuerdo exactamente en qué momento, pero llevaba un buen rato adentro cuando me di cuenta. Casi la totalidad de los reclusos que por…",
    "url": "https://www.ex-ante.cl/nacional/capitan-yaber-rodrigo-topelberg-libro/",
    "date": "2026-11-02T17:27:59+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "62d1d50d0962",
@@ -1079,7 +1218,8 @@
    "description": "Las encuestas anticipan que los demócratas recuperarían la Cámara y probablemente el Senado. Su agenda, con menos aranceles y el fin de la guerra con…",
    "url": "https://www.ex-ante.cl/internacional/chile-podria-convenir-derrota-trump/",
    "date": "2026-11-02T17:26:18+00:00",
-   "category": "Elecciones"
+   "category": "Elecciones",
+   "type": "Prensa"
   },
   {
    "id": "2d576177b0fd",
@@ -1088,7 +1228,8 @@
    "description": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeks The oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war. Brent crude, the international benchmark, dropped by more than 6.5% ",
    "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
    "date": "2026-11-02T17:14:23+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "9a17d197542c",
@@ -1097,7 +1238,8 @@
    "description": "Iliana Yotova ganó las elecciones presidenciales en Bulgaria con la promesa de ser una \"presidenta de la paz\". Pero la campaña dejó en evidencia la profunda división de los búlgaros frente a la guerra en Ucrania.",
    "url": "https://www.dw.com/es/la-paz-como-bandera-así-ganó-iliana-yotova-la-elección-en-bulgaria/a-79832285?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T16:51:00+00:00",
-   "category": "Elecciones"
+   "category": "Elecciones",
+   "type": "Prensa"
   },
   {
    "id": "5ffe988e3b16",
@@ -1106,7 +1248,8 @@
    "description": "María Montserrat Alvarado, de 39 años, asume la dirección del dicasterio que supervisa los medios de comunicación de la Santa Sede.",
    "url": "https://www.dw.com/es/una-mexicana-hace-historia-como-la-primera-mujer-laica-al-frente-de-la-comunicación-del-vaticano/a-79832728?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T16:48:00+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "d51dadd0d560",
@@ -1115,16 +1258,8 @@
    "description": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French shops Who is hacking Europe’s supermarket fridges and freezers, and why? Supermarket chains in at least seven European countries have said the temperatures of refrigerator",
    "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
    "date": "2026-11-02T16:39:20+00:00",
-   "category": "Relaciones internacionales y geopolítica"
-  },
-  {
-   "id": "700f3f92446b",
-   "source": "France 24",
-   "title": "De Bélgica a Suecia, nueva ola de ciberataques contra sistemas de refrigeración afecta a decenas de supermercados",
-   "description": "A primera hora de este lunes 2 de noviembre, tiendas y supermercados de al menos siete países, entre ellos Bélgica, Luxemburgo, Finlandia, Estonia y Suecia, informaron sobre un aumento repentino de la temperatura en sus neveras y congeladores, en un aparente ciberataque dirigido ",
-   "url": "https://www.france24.com/es/europa/20261102-de-b%C3%A9lgica-a-suecia-nueva-ola-de-ciberataques-contra-sistemas-de-refrigeraci%C3%B3n-afecta-a-decenas-de-supermercados",
-   "date": "2026-11-02T16:34:29+00:00",
-   "category": ""
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "877146e7d709",
@@ -1133,16 +1268,8 @@
    "description": "Supermarkets across Europe have experienced temperature-control meddling The fake nuclear threats to Ukraine came as Russia resumed its attacks on the southern city of Kherson , just hours after the end of a ceasefire during which hundreds of people were evacuated from the nearby",
    "url": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
    "date": "2026-11-02T16:17:14+00:00",
-   "category": "Relaciones internacionales y geopolítica"
-  },
-  {
-   "id": "6d9c1949b633",
-   "source": "France 24",
-   "title": "Informe desde París: estudiantes continúan los bloqueos tras dos semanas de vacaciones",
-   "description": "A pesar de que el Gobierno francés contaba con la desmovilización de los estudiantes tras dos semanas de vacaciones, los jóvenes vuelven a clases y los bloqueos continúan en al menos 41 establecimientos educativos bloqueados en todo el país. Nuestra periodista Erika Olavarría nos",
-   "url": "https://www.france24.com/es/video/20261102-informe-desde-par%C3%ADs-estudiantes-contin%C3%BAan-los-bloqueos-tras-dos-semanas-de-vacaciones",
-   "date": "2026-11-02T16:17:04+00:00",
-   "category": "Gobierno y administración pública"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "95439ad968ed",
@@ -1151,7 +1278,8 @@
    "description": "Según los informes, la temperatura de los congeladores en varias tiendas de toda Europa llegó a alcanzar los 50°C.",
    "url": "https://www.bbc.com/mundo/articles/cw1l31v5rnrpo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T15:39:51+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "65d4e3a38364",
@@ -1160,7 +1288,8 @@
    "description": "¿Qué sucede cuando tu nombre provoca risas o burlas? Las investigaciones apuntan a consecuencias negativas en la vida, pero algunas personas aprenden a aceptar sus nombres desafortunados.",
    "url": "https://www.dw.com/es/tu-nombre-puede-marcar-tu-vida-del-estigma-al-orgullo/a-79824792?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T14:50:00+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "6291be415b00",
@@ -1169,7 +1298,8 @@
    "description": "Circula en medios haitianos una carta supuestamente dirigida al secretario general de la ONU por alias Lanmò San Jou, líder de la banda 400 Mawozo, mientras soldados salvadoreños buscan a colegas desaparecidos.",
    "url": "https://www.dw.com/es/jefe-de-banda-en-haití-pediría-mediación-de-la-onu-para-un-diálogo-de-paz/a-79828193?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T14:45:00+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "e2da97fbe287",
@@ -1178,7 +1308,8 @@
    "description": "Una muestra inédita en el Museo de la Memoria de Chile aborda en profundidad la historia y los testimonios de Colonia Dignidad, así como la lucha de las víctimas por verdad y justicia.",
    "url": "https://www.dw.com/es/la-historia-oculta-de-colonia-dignidad-por-fin-a-plena-luz/a-79831062?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T14:19:00+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "75d4df0b57c0",
@@ -1187,7 +1318,8 @@
    "description": "Las autoridades alemanas investigan múltiples denuncias por el hallazgo de agujas, clavos y tuercas en chocolates y caramelos entregados a niños durante Halloween. Por ahora no se reportan heridos.",
    "url": "https://www.dw.com/es/alerta-en-alemania-por-el-hallazgo-de-agujas-en-dulces-de-halloween/a-79831066?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T14:11:00+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "3166bb770b37",
@@ -1196,7 +1328,8 @@
    "description": "Trump logró en 2024 un apoyo histórico en el Valle del Río Grande, una región fronteriza con México que no había elegido a un republicano para la Casa Blanca en más de tres décadas. Hoy las encuestas las encabezan los demócratas.",
    "url": "https://www.bbc.com/mundo/articles/c6y9315lrelzo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T14:09:53+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "3f720d519bc4",
@@ -1205,7 +1338,8 @@
    "description": "Growing disdain for gambling and animal cruelty concerns drive sliding interest in race that once ‘stopped the nation’ Get our breaking news email , free app or daily news podcast A record number of Australians are turning their backs on the Melbourne Cup, with more than two-thir",
    "url": "https://www.theguardian.com/sport/2026/nov/03/melbourne-cup-2026-poll-record-numbers-turn-their-backs",
    "date": "2026-11-02T14:00:46+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "f8ad3e2b332d",
@@ -1214,7 +1348,18 @@
    "description": "La salida del senador Flávio Bolsonaro de Brasil hacia Estados Unidos, tras la derrota electoral ante Luiz Inácio Lula da Silva, deja al bolsonarismo ante el desafío de reorganizar su liderazgo.",
    "url": "https://www.bbc.com/mundo/articles/c3qjn8nr2p2ko?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T13:32:05+00:00",
-   "category": "Congreso Nacional"
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "a6008efb3940",
+   "source": "Servicio Electoral",
+   "title": "Presidenta de Servel se reunió con parlamentarios por proyecto de ley sobre regulación de cuentas automatizadas y uso de IA en campañas electorales",
+   "description": "La Presidenta del Consejo Directivo del Servicio Electoral, Pamela Figueroa, acompañada por el Subdirector de Control del Gasto y Financiamiento Electoral, Guillermo González, sostuvo una reunión con la Diputada Constanza Schonhaut y el Diputado Gonzalo Winter, para abordar un fu",
+   "url": "https://www.servel.cl/Ch/app/presidenta-de-servel-se-reunio-con-parlamentarios-por-proyecto-de-ley-sobre-regulacion-de-cuentas-automatizadas-y-uso-de-ia-en-campanas-electorales/sin-categoria/",
+   "date": "2026-11-02T13:27:55+00:00",
+   "category": "Elecciones",
+   "type": "Oficial"
   },
   {
    "id": "c0d47dccd412",
@@ -1223,7 +1368,8 @@
    "description": "La entrada Represión policial, discapacidad y Derechos Humanos se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/11/02/represion-policial-discapacidad-y-derechos-humanos/?utm_source=rss&utm_medium=rss&utm_campaign=represion-policial-discapacidad-y-derechos-humanos",
    "date": "2026-11-02T13:00:22+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "f6a8c4af6f9f",
@@ -1232,7 +1378,8 @@
    "description": "El gobierno ecuatoriano dispuso un acceso restringido en nueve playas y atractivos turísticos en las islas Santa Cruz, San Cristóbal e Isabela.",
    "url": "https://www.bbc.com/mundo/articles/cr3wv0pgg31vo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T12:35:05+00:00",
-   "category": "Gobierno y administración pública"
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
   },
   {
    "id": "ceed82e26ff0",
@@ -1241,7 +1388,8 @@
    "description": "Videos en los que la gente afirma detectar los síntomas de la deficiencia de hierro han atraído millones de visitas en internet.",
    "url": "https://www.bbc.com/mundo/articles/cq23dyerrdpko?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T10:48:50+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "3c6ccf27f86d",
@@ -1250,7 +1398,8 @@
    "description": "La atleta norirlandesa falleció víctima de un cáncer, informó su familia. Hace dos años logró su mayor éxito deportivo.",
    "url": "https://www.dw.com/es/muere-a-los-34-años-ciara-mageean-campeona-europea-de-1500-m/a-79828183?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-02T10:16:00+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "704ebe19a245",
@@ -1259,7 +1408,8 @@
    "description": "Survey finds UK government’s decision to impose trade ban was not a decisive factor in how Israelis voted in election The UK government’s decision to impose a ban on trade in goods from illegal settlements was not decisive in how Israelis voted in their general election , but a m",
    "url": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
    "date": "2026-11-02T06:00:33+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "26e83dd670ea",
@@ -1268,7 +1418,8 @@
    "description": "Yousef Jabareen says he is ready to join forces with opposition bloc to oust Benjamin Netanyahu after winning record number of seats in Knesset The leader of Israel’s main Palestinian coalition, which holds the balance of power after Tuesday’s elections, has said the country is f",
    "url": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
    "date": "2026-11-02T06:00:32+00:00",
-   "category": "Oriente Medio"
+   "category": "Oriente Medio",
+   "type": "Prensa"
   },
   {
    "id": "ce2e519d74e0",
@@ -1277,7 +1428,8 @@
    "description": "La preocupación por el apoyo estadounidense a Israel está motivando ahora a los votantes de ambos lados del debate, en una de las contiendas más reñidas de las elecciones de mitad de mandato en Estados Unidos.",
    "url": "https://www.bbc.com/mundo/articles/ckgelpgle3lno?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-02T03:56:42+00:00",
-   "category": "Elecciones"
+   "category": "Elecciones",
+   "type": "Prensa"
   },
   {
    "id": "3b83693d510a",
@@ -1286,7 +1438,18 @@
    "description": "La entrada La remontada de Lula: el voto que no estaba en las encuestas se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/11/01/la-remontada-de-lula-el-voto-que-no-estaba-en-las-encuestas/?utm_source=rss&utm_medium=rss&utm_campaign=la-remontada-de-lula-el-voto-que-no-estaba-en-las-encuestas",
    "date": "2026-11-02T02:54:52+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "34769db6c7d8",
+   "source": "Organización Mundial del Comercio",
+   "title": "La UE inicia una investigación en materia de salvaguardias relativa a determinados vehículos híbridos nuevos",
+   "description": "El 30 de octubre de 2026, la Unión Europea notificó al Comité de Salvaguardias de la OMC que ese mismo día (30 de octubre de 2026) había iniciado una investigación en materia de salvaguardias relativa a las importaciones de determinados vehículos híbridos nuevos.",
+   "url": "https://www.wto.org/spanish/news_s/news26_s/safe_eec_02nov26_536_s.htm",
+   "date": "2026-11-02T00:00:00+00:00",
+   "category": "Comercio internacional",
+   "type": "Oficial"
   },
   {
    "id": "9a3776dd428f",
@@ -1295,7 +1458,8 @@
    "description": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigu",
    "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
    "date": "2026-11-01T22:26:11+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "341f6d49409f",
@@ -1304,7 +1468,8 @@
    "description": "Con un solitario gol de Lautaro Di Lollo, el Xeneieze se impuso ante un rival que terminó con dos jugadores menos por expulsiones.",
    "url": "https://www.dw.com/es/boca-juniors-gana-el-superclásico-argentino-al-river-plate/a-79824836?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-01T21:24:00+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "55fca5eba918",
@@ -1313,7 +1478,8 @@
    "description": "Third day of indirect talks as Qatar tries to negotiate release of $6bn in Iranian assets that could lead to waterway’s reopening Officials from the Gulf states are “braced for the worst” as they wait for Washington’s response to an Iranian proposal that could reopen the strait o",
    "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
    "date": "2026-11-01T17:49:28+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "e47adc7889d6",
@@ -1322,7 +1488,8 @@
    "description": "En un congreso, el partido allana el camino para una coalición con Los Verdes y el SPD. Un polémico reportaje mediático sobre la posible jefa de gobierno, Elif Eralp, sigue dando que hablar.",
    "url": "https://www.dw.com/es/la-izquierda-en-berlín-está-cada-vez-más-cerca-de-tomar-el-control-del-gobierno/a-79821376?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-01T17:19:00+00:00",
-   "category": "Partidos políticos"
+   "category": "Partidos políticos",
+   "type": "Prensa"
   },
   {
    "id": "d27343777629",
@@ -1331,7 +1498,8 @@
    "description": "Al menos 17 tiendas y establecimientos fueron dañados, cinco de ellos fueron saqueados. La policía estimó que actualmente se enfrenta a entre 1.000 y 1.500 alborotadores violentos, \"en su mayoría de origen migrante\".",
    "url": "https://www.dw.com/es/más-de-100-agentes-de-policía-resultan-heridos-en-violentos-disturbios-en-fráncfort/a-79823376?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-01T16:22:00+00:00",
-   "category": "Sociedad"
+   "category": "Sociedad",
+   "type": "Prensa"
   },
   {
    "id": "569a247a66c3",
@@ -1340,7 +1508,18 @@
    "description": "Led by Congress party, India’s opposition alliance channels anger over removal of 130 million names from voter roll Thousands of opposition supporters have gathered in Delhi as protests against the Narendra Modi government continue to gather momentum. Led by the Congress party, I",
    "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
    "date": "2026-11-01T16:11:50+00:00",
-   "category": "China y Asia"
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "73a59cfba02b",
+   "source": "Estudios Públicos (CEP)",
+   "title": "Un millón de personas espera que Chile despegue",
+   "description": "Medios Regionales The post Un millón de personas espera que Chile despegue appeared first on CEP Chile .",
+   "url": "https://www.cepchile.cl/un-millon-de-personas-espera-que-chile-despegue/",
+   "date": "2026-11-01T13:01:49+00:00",
+   "category": "Políticas públicas",
+   "type": "Académica"
   },
   {
    "id": "e9d2a28b7bf5",
@@ -1349,7 +1528,8 @@
    "description": "El ministro alemán del Interior, Alexander Dobrindt, condena la violencia en las manifestaciones y responsabiliza a \"grupos de extrema izquierda\" y a \"alborotadores procedentes de la comunidad migrante\".",
    "url": "https://www.dw.com/es/protestas-de-gen-z-regelt-en-alemania-solo-queremos-que-nos-escuchen/a-79822238?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-01T12:38:00+00:00",
-   "category": "Gobierno y administración pública"
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
   },
   {
    "id": "8dc860ba01db",
@@ -1358,7 +1538,8 @@
    "description": "La entrada Carta abierta al Presidente Kast de las hijas del general Carlos Prats se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/11/01/carta-abierta-al-presidente-kast-de-las-hijas-del-general-carlos-prats/?utm_source=rss&utm_medium=rss&utm_campaign=carta-abierta-al-presidente-kast-de-las-hijas-del-general-carlos-prats",
    "date": "2026-11-01T12:09:43+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "19cbe18c50ae",
@@ -1367,7 +1548,8 @@
    "description": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump ’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for i",
    "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
    "date": "2026-11-01T12:00:12+00:00",
-   "category": "China y Asia"
+   "category": "China y Asia",
+   "type": "Prensa"
   },
   {
    "id": "0c5ca8a71d71",
@@ -1376,7 +1558,8 @@
    "description": "Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitor The cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack. T",
    "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
    "date": "2026-11-01T11:54:23+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "03a45e091106",
@@ -1385,7 +1568,8 @@
    "description": "David McBride pasó años buscando a su madre tras ser abandonado cuando era un bebé. En su lugar, encontró a una hermana y un hermano.",
    "url": "https://www.bbc.com/mundo/articles/ckq6njd0drp0o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-01T11:09:10+00:00",
-   "category": "Empresas y mercados"
+   "category": "Empresas y mercados",
+   "type": "Prensa"
   },
   {
    "id": "1f912ce58cd5",
@@ -1394,7 +1578,8 @@
    "description": "Uno de los más infames experimentos de psicología social está siendo replicado en la actualidad y revela por qué personas comunes y corrientes obedecen una orden inmoral y lo que podemos hacer para resistir.",
    "url": "https://www.bbc.com/mundo/articles/cmvgxpk7jjx7o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-01T10:28:50+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "d8502798778f",
@@ -1403,7 +1588,8 @@
    "description": "El kohl árabe ha sido reconocido por la Unesco como Patrimonio Cultural Inmaterial de la Humanidad y es celebrado tanto como práctica artesanal como tradición.",
    "url": "https://www.bbc.com/mundo/articles/cew87rggrv9o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-01T09:47:11+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "348a25fa52e7",
@@ -1412,7 +1598,8 @@
    "description": "España, Italia, Francia, Albania, Portugal... Una oleada de protestas llena Europa. BBC Mundo entrevistó a la experta Yanina Welp para entender qué hay detrás de estos movimientos.",
    "url": "https://www.bbc.com/mundo/articles/c3pwgp7jde1wo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-01T03:09:19+00:00",
-   "category": "Europa"
+   "category": "Europa",
+   "type": "Prensa"
   },
   {
    "id": "f6b3aada2c39",
@@ -1421,7 +1608,8 @@
    "description": "Las alegres pinturas del artista colombiano Fernando Botero reinterpretan algunas de las obras más icónicas y célebres de la historia del arte europeo. ¿Qué revela su singular visión sobre la historia del arte y el lugar que ocupa América Latina en ella?",
    "url": "https://www.bbc.com/mundo/articles/c60me2mwjygko?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-31T20:51:06+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "2e6b30b98987",
@@ -1430,7 +1618,8 @@
    "description": "En estas elecciones de mitad de periodo presidencial, la creciente popularidad de candidatos de los DSA plantea retos para los demócratas.",
    "url": "https://www.bbc.com/mundo/articles/cm87zqgqq5l5o?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-31T13:57:30+00:00",
-   "category": "Elecciones"
+   "category": "Elecciones",
+   "type": "Prensa"
   },
   {
    "id": "c82547da458d",
@@ -1439,7 +1628,8 @@
    "description": "Rachel Stone cuenta cómo sus padres intercambiaron parejas, el caos que esto provocó y cómo llegó a perdonarlos.",
    "url": "https://www.bbc.com/mundo/articles/cqrkyp7v4delo?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-31T13:51:04+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "6964359d2f24",
@@ -1448,7 +1638,8 @@
    "description": "La entrada El regreso de los ancestros kawésqar desde Basilea y el derecho de las comunidades a decidir se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/10/31/el-regreso-de-los-ancestros-kawesqar-desde-basilea-y-el-derecho-de-las-comunidades-a-decidir/?utm_source=rss&utm_medium=rss&utm_campaign=el-regreso-de-los-ancestros-kawesqar-desde-basilea-y-el-derecho-de-las-comunidades-a-decidir",
    "date": "2026-10-31T13:32:11+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "a7a5dc2f7342",
@@ -1457,7 +1648,8 @@
    "description": "La entrada Carta abierta a Andrés Allamand, secretario general iberoamericano se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/10/31/carta-abierta-a-andres-allamand-secretario-general-iberoamericano/?utm_source=rss&utm_medium=rss&utm_campaign=carta-abierta-a-andres-allamand-secretario-general-iberoamericano",
    "date": "2026-10-31T13:00:23+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "843d49a8cb8d",
@@ -1466,7 +1658,8 @@
    "description": "Algunos de los líderes tecnológicos más poderosos están tratando la IA como si tuviera sentimientos. Eso podría tener consecuencias profundas para nuestro mundo y para tu seguridad personal.",
    "url": "https://www.bbc.com/mundo/articles/crwyqg71e5z4o?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-31T12:50:02+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "15e6dcf48f0d",
@@ -1475,7 +1668,8 @@
    "description": "Un nuevo libro ofrece un relato extraordinario sobre la batalla legal que emprendió una mujer tras sufrir un ataque brutal en 1472, en la ciudad francesa de Dijon. La obra desafía nuestras suposiciones modernas acerca de la vida de las mujeres en la Edad Media.",
    "url": "https://www.bbc.com/mundo/articles/cm78p1q8pzdzo?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-31T09:24:54+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "b375a9d28513",
@@ -1484,7 +1678,8 @@
    "description": "La entrada Los fallos que contradicen a Rabat se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/10/30/los-fallos-que-contradicen-a-rabat/?utm_source=rss&utm_medium=rss&utm_campaign=los-fallos-que-contradicen-a-rabat",
    "date": "2026-10-31T00:13:12+00:00",
-   "category": "Jurisprudencia"
+   "category": "Jurisprudencia",
+   "type": "Prensa"
   },
   {
    "id": "8fef05d702f7",
@@ -1493,7 +1688,8 @@
    "description": "La entrada La presión de Washington por los minerales críticos y su impacto en derechos humanos en el Cono Sur se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/10/30/la-presion-de-washington-por-los-minerales-criticos-y-su-impacto-en-derechos-humanos-en-el-cono-sur/?utm_source=rss&utm_medium=rss&utm_campaign=la-presion-de-washington-por-los-minerales-criticos-y-su-impacto-en-derechos-humanos-en-el-cono-sur",
    "date": "2026-10-30T22:03:38+00:00",
-   "category": "Estados Unidos y Canadá"
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
   },
   {
    "id": "ea7a0e4e9937",
@@ -1502,7 +1698,8 @@
    "description": "Aunque su principal mercado es Brasil, en Argentina y Venezuela la plataforma se ha convertido en un refugio de estabilidad en medio del cambiante panorama económico.",
    "url": "https://www.bbc.com/mundo/articles/cqm26pvdpkeko?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-30T20:58:52+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "cce8cafcd626",
@@ -1511,7 +1708,18 @@
    "description": "Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’ Canada and Europe have announced a new alliance of like-minded nations to serve as both a “protective canopy under which our citizens can thrive” and a pow",
    "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
    "date": "2026-10-30T19:42:15+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "628ef5c0a258",
+   "source": "Servicio Electoral",
+   "title": "Servel participó en encuentro sobre preservación y acceso a archivos políticos, electorales y parlamentarios",
+   "description": "El Servicio Electoral de Chile, representado por Ricardo Downey, jefe de la Unidad de Atención Ciudadana, participó en la Tercera Mesa de Análisis sobre Historia Política, organizada por la Biblioteca del Congreso Nacional (BCN), instancia que reunió a representantes de distintas",
+   "url": "https://www.servel.cl/Ch/app/servel-participo-en-encuentro-sobre-preservacion-y-acceso-a-archivos-politicos-electorales-y-parlamentarios/sin-categoria/",
+   "date": "2026-10-30T19:41:31+00:00",
+   "category": "Elecciones",
+   "type": "Oficial"
   },
   {
    "id": "decb405cc077",
@@ -1520,7 +1728,8 @@
    "description": "La entrada Los fallos judiciales que contradicen la versión de Rabat acerca de que la ley obliga a aceptar las rebajas de condena se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/10/30/los-fallos-judiciales-que-contradicen-la-version-de-rabat-acerca-de-que-la-ley-obliga-a-aceptar-las-rebajas-de-condena/?utm_source=rss&utm_medium=rss&utm_campaign=los-fallos-judiciales-que-contradicen-la-version-de-rabat-acerca-de-que-la-ley-obliga-a-aceptar-las-rebajas-de-condena",
    "date": "2026-10-30T19:29:01+00:00",
-   "category": "Jurisprudencia"
+   "category": "Jurisprudencia",
+   "type": "Prensa"
   },
   {
    "id": "aa1965f5947d",
@@ -1529,7 +1738,8 @@
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con el clásico universtiario entre la U y la UC como plato fuerte, además de una intensa pelea en la tabla, la Liga de Primera 2026 desarrolla este fin de semana su fecha 26 . Lunes 2 de noviembre Deportes Limache 2-0 Audax",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-26-de-la-liga-de-primera/2026-10-30/162011.html",
    "date": "2026-10-30T19:20:11+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "d8b7035cd8bc",
@@ -1538,7 +1748,8 @@
    "description": "El presidente de El Salvador ha enviado 2.000 militares a Haití para tratar de rescatar a los 4 soldados secuestrados por las pandillas.",
    "url": "https://www.bbc.com/mundo/watch/cq9vz31j8xpko?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-30T18:27:04+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "f65aee818b73",
@@ -1547,7 +1758,8 @@
    "description": "Binance sufrió lo que podría ser el mayor hackeo de criptomonedas de la historia. Esto es lo que sabemos hasta ahora.",
    "url": "https://www.bbc.com/mundo/articles/c3ewepn4e08do?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-30T18:20:32+00:00",
-   "category": "China y Asia"
+   "category": "China y Asia",
+   "type": "Prensa"
   },
   {
    "id": "403f594b2200",
@@ -1556,7 +1768,8 @@
    "description": "Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it",
    "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
    "date": "2026-10-30T17:37:46+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "d5616913a7a6",
@@ -1565,7 +1778,8 @@
    "description": "En su primera entrevista desde el incidente, Joanna Wietrzyk le dijo a la BBC que asume la responsabilidad, pero que no merecía una reacción tan severa.",
    "url": "https://www.bbc.com/mundo/articles/cqkgjp66rpm4o?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-30T16:49:30+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "1a4708f847d2",
@@ -1574,7 +1788,8 @@
    "description": "La entrada VIDEO | Entrevista Paulina Toro en Súbela – Aristas del Caso Hermosilla se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/10/30/video-entrevista-paulina-toro-en-subela-aristas-del-caso-hermosilla/?utm_source=rss&utm_medium=rss&utm_campaign=video-entrevista-paulina-toro-en-subela-aristas-del-caso-hermosilla",
    "date": "2026-10-30T15:03:35+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "c9db054b2181",
@@ -1583,7 +1798,8 @@
    "description": "La entrada Podcast | Los fallos que contradicen a Rabat se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/10/30/podcast-los-fallos-que-contradicen-a-rabat/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-los-fallos-que-contradicen-a-rabat",
    "date": "2026-10-30T14:57:07+00:00",
-   "category": "Jurisprudencia"
+   "category": "Jurisprudencia",
+   "type": "Prensa"
   },
   {
    "id": "184f15f22518",
@@ -1592,7 +1808,8 @@
    "description": "Los votantes estadounidenses acudirán a las urnas el 3 de noviembre en unas elecciones que podrían tener un gran impacto en la presidencia de Donald Trump.",
    "url": "https://www.bbc.com/mundo/articles/cmly035wdwgdo?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-30T14:25:44+00:00",
-   "category": "Elecciones"
+   "category": "Elecciones",
+   "type": "Prensa"
   },
   {
    "id": "9eb7032b7cf6",
@@ -1601,7 +1818,8 @@
    "description": "Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms Flávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee t",
    "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
    "date": "2026-10-30T14:08:41+00:00",
-   "category": "Elecciones"
+   "category": "Elecciones",
+   "type": "Prensa"
   },
   {
    "id": "3399101ee62a",
@@ -1610,7 +1828,18 @@
    "description": "Esta es la primera declaración pública de Pike desde que sobrevivió a un intento de ejecución mediante inyección letal en septiembre.",
    "url": "https://www.bbc.com/mundo/articles/c674pd105v54o?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-30T13:54:17+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "512830ad7e19",
+   "source": "Estudios Públicos (CEP)",
+   "title": "Avances en la agenda de permisos de inversión",
+   "description": "Nota de prensa The post Avances en la agenda de permisos de inversión appeared first on CEP Chile .",
+   "url": "https://www.cepchile.cl/avances-en-la-agenda-de-permisos-de-inversion/",
+   "date": "2026-10-30T12:54:17+00:00",
+   "category": "Políticas públicas",
+   "type": "Académica"
   },
   {
    "id": "13c80704b3be",
@@ -1619,7 +1848,8 @@
    "description": "IISS study questions overreliance on American support and ‘overdependence on expensive, high-end systems’ Gulf states are going to have to reconfigure their trillion-dollar defences given the damage inflicted on their economies and the questionable continued value of US bases in ",
    "url": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
    "date": "2026-10-30T12:49:56+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "816dcdfc29e8",
@@ -1628,7 +1858,8 @@
    "description": "La entrada El vínculo como centro del aprendizaje se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/10/30/el-vinculo-como-centro-del-aprendizaje/?utm_source=rss&utm_medium=rss&utm_campaign=el-vinculo-como-centro-del-aprendizaje",
    "date": "2026-10-30T12:47:16+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "a67b6c197839",
@@ -1637,7 +1868,8 @@
    "description": "Forums for discussion of feminist and LGBTQ+ views face growing intolerance from Chinese state, say experts Beijing’s annual independent queer film festival has been cancelled after what is understood to have been a campaign of sustained harassment from authorities. Beijing Queer",
    "url": "https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment",
    "date": "2026-10-30T11:04:12+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "eff8fd1fc497",
@@ -1646,7 +1878,8 @@
    "description": "Mujeres comparten su experiencia con el liquen escleroso.",
    "url": "https://www.bbc.com/mundo/articles/cr78p4480ng7o?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-30T10:43:10+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "09380ff39402",
@@ -1655,7 +1888,8 @@
    "description": "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for ",
    "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
    "date": "2026-10-30T10:07:16+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "07157bda1043",
@@ -1664,7 +1898,8 @@
    "description": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the",
    "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
    "date": "2026-10-30T05:00:45+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "bb005decc40d",
@@ -1673,7 +1908,8 @@
    "description": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her de",
    "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
    "date": "2026-10-30T05:00:45+00:00",
-   "category": "Elecciones"
+   "category": "Elecciones",
+   "type": "Prensa"
   },
   {
    "id": "ddcb22d2a208",
@@ -1682,7 +1918,8 @@
    "description": "The unprecedented number of empty seats at the fifth plenum – a symbol of expulsions – serve as a symbol for the scale of the purges under Xi Jinping China expelled a record number of officials from the Chinese Communist party (CCP) as it concluded a major political gathering , w",
    "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
    "date": "2026-10-30T02:56:46+00:00",
-   "category": "China y Asia"
+   "category": "China y Asia",
+   "type": "Prensa"
   },
   {
    "id": "b20cb6960bbb",
@@ -1691,7 +1928,18 @@
    "description": "Revisa la tabla de posiciones de la Liga de Primera 2026 Pos. Club PJ Pts. Dif. Zona 1 Colo Colo 26 58 +28 Libertadores 2 Universidad de Chile 26 48 +24 Libertadores 3 Universidad Católica 26 46 +16 Duelo Chile 4 4 Deportes Limache 26 40 +11 Sudamericana 5 Everton 26 40 +10 Sudam",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-26/2026-10-29/220500.html",
    "date": "2026-10-30T01:05:00+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "487d63068d64",
+   "source": "Organización Mundial del Comercio",
+   "title": "El Examen Global concluye con una declaración sobre las asociaciones para el comercio y el desarrollo",
+   "description": "El 30 de octubre, durante la conmemoración del 20º aniversario de la iniciativa de Ayuda para el Comercio, los Miembros de la OMC adoptaron una declaración en la que se reposiciona la iniciativa como \"Ayuda para el Comercio: Asociaciones para el Comercio y el Desarrollo\". La decl",
+   "url": "https://www.wto.org/spanish/news_s/news26_s/gr26_30oct26_534_s.htm",
+   "date": "2026-10-30T00:00:00+00:00",
+   "category": "Comercio internacional",
+   "type": "Oficial"
   },
   {
    "id": "6b8b4f0fe233",
@@ -1700,7 +1948,8 @@
    "description": "Las tropas están intentando recuperar a cuatro militares desaparecidos en una emboscada en las afueras de Puerto Príncipe, la capital de Haití.",
    "url": "https://www.bbc.com/mundo/articles/cm20wdy1w5p8o?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-29T23:19:10+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "3471c3874ffc",
@@ -1709,7 +1958,8 @@
    "description": "La entrada Desempleo sube a 9,8%; camioneros de San Antonio inician el primer paro del gobierno de Kast, y Corte confirma prisión preventiva para alcalde de Río Bueno por cohecho y lavado de activos se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/10/29/desempleo-sube-a-98-camioneros-de-san-antonio-inician-el-primer-paro-del-gobierno-de-kast-y-corte-confirma-prision-preventiva-para-alcalde-de-rio-bueno-por-cohecho-y-lavado-de-activos/?utm_source=rss&utm_medium=rss&utm_campaign=desempleo-sube-a-98-camioneros-de-san-antonio-inician-el-primer-paro-del-gobierno-de-kast-y-corte-confirma-prision-preventiva-para-alcalde-de-rio-bueno-por-cohecho-y-lavado-de-activos",
    "date": "2026-10-29T23:09:32+00:00",
-   "category": "Gobierno y administración pública"
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
   },
   {
    "id": "19b1deb88b11",
@@ -1718,7 +1968,8 @@
    "description": "La entrada La FIFA en Chile: la autonomía como moneda de cambio se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/10/29/la-fifa-en-chile-la-autonomia-como-moneda-de-cambio/?utm_source=rss&utm_medium=rss&utm_campaign=la-fifa-en-chile-la-autonomia-como-moneda-de-cambio",
    "date": "2026-10-29T22:06:53+00:00",
-   "category": ""
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "800b999cda85",
@@ -1727,7 +1978,78 @@
    "description": "Trump prometió mano dura contra la inmigración. ¿Qué dicen los datos de sus políticas?",
    "url": "https://www.bbc.com/mundo/articles/cqdr8205ylvko?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-29T14:19:48+00:00",
-   "category": "Sociedad"
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "211f2ab3b719",
+   "source": "Estudios Públicos (CEP)",
+   "title": "Darlas vueltas",
+   "description": "El Mercurio The post Darlas vueltas appeared first on CEP Chile .",
+   "url": "https://www.cepchile.cl/darlas-vueltas/",
+   "date": "2026-10-29T12:43:33+00:00",
+   "category": "Políticas públicas",
+   "type": "Académica"
+  },
+  {
+   "id": "e12ddad9a0e1",
+   "source": "Estudios Públicos (CEP)",
+   "title": "Kast, Lula y las razones de Estado",
+   "description": "El País The post Kast, Lula y las razones de Estado appeared first on CEP Chile .",
+   "url": "https://www.cepchile.cl/kast-lula-y-las-razones-de-estado/",
+   "date": "2026-10-29T12:36:43+00:00",
+   "category": "Políticas públicas",
+   "type": "Académica"
+  },
+  {
+   "id": "a171bd9fbe8a",
+   "source": "Organización Mundial del Comercio",
+   "title": "Nuevo informe analiza el papel de la cooperación Sur-Sur y triangular para el desarrollo del comercio",
+   "description": "En una publicación conjunta presentada el primer día (29 de octubre) del Décimo Examen Global de la Ayuda para el Comercio por la OMC y la Oficina de las Naciones Unidas para la Cooperación Sur-Sur (UNOSSC) se pone de relieve la importancia creciente del comercio entre las econom",
+   "url": "https://www.wto.org/spanish/news_s/news26_s/devel_29oct26_535_s.htm",
+   "date": "2026-10-29T00:00:00+00:00",
+   "category": "Comercio internacional",
+   "type": "Oficial"
+  },
+  {
+   "id": "baba9e79ac2c",
+   "source": "Organización Mundial del Comercio",
+   "title": "El Examen Global 2026 destaca las asociaciones para el comercio y el desarrollo",
+   "description": "\"Las economías en desarrollo que quieren comerciar satisfactoriamente necesitan asociaciones más fuertes con todas las partes interesadas\", dijo la Directora General de la OMC Ngozi Okonjo-Iweala en sus observaciones introductorias pronunciadas el 29 de octubre en el Examen Globa",
+   "url": "https://www.wto.org/spanish/news_s/news26_s/aid_29oct26_526_s.htm",
+   "date": "2026-10-29T00:00:00+00:00",
+   "category": "Comercio internacional",
+   "type": "Oficial"
+  },
+  {
+   "id": "96e2d549430b",
+   "source": "Organización Mundial del Comercio",
+   "title": "Según el Presidente de Côte d’Ivoire, la reglobalización ofrece una oportunidad para ir más allá del comercio tradicional",
+   "description": "Para los países en desarrollo, la reglobalización representa una oportunidad para superar su especialización tradicional en la exportación de productos primarios y asumir un papel más importante en las actividades de innovación, transformación, producción industrial y comercializ",
+   "url": "https://www.wto.org/spanish/news_s/news26_s/pls_29oct26_530_s.htm",
+   "date": "2026-10-29T00:00:00+00:00",
+   "category": "Comercio internacional",
+   "type": "Oficial"
+  },
+  {
+   "id": "e36a382b89cb",
+   "source": "Organización Mundial del Comercio",
+   "title": "La OMS, la OMPI y la OMC celebrarán el 13er Simposio Técnico Conjunto el 25 de noviembre de 2026",
+   "description": "La Organización Mundial de la Salud (OMS), la Organización Mundial de la Propiedad Intelectual (OMPI) y la Organización Mundial del Comercio (OMC) celebrarán el 13er Simposio Técnico Conjunto titulado \"Ecosistemas propicios para la fabricación local y regional de productos de sal",
+   "url": "https://www.wto.org/spanish/news_s/news26_s/heal_29oct26_531_s.htm",
+   "date": "2026-10-29T00:00:00+00:00",
+   "category": "Sociedad",
+   "type": "Oficial"
+  },
+  {
+   "id": "dd93ce9069f9",
+   "source": "Organización Mundial del Comercio",
+   "title": "Los Miembros examinan acuerdos comerciales regionales, confirman la frecuencia de las reuniones del Comité y adoptan el informe anual",
+   "description": "En una reunión del Comité de Acuerdos Comerciales Regionales (CACR) celebrada el 29 de octubre, los Miembros de la OMC examinaron cinco acuerdos comerciales regionales (ACR) concertados entre Miembros, así como tres acuerdos en los que participaban no Miembros. Asimismo, tomaron ",
+   "url": "https://www.wto.org/spanish/news_s/news26_s/rta_29oct26_532_s.htm",
+   "date": "2026-10-29T00:00:00+00:00",
+   "category": "Comercio internacional",
+   "type": "Oficial"
   },
   {
    "id": "8cd1ed7ce0ed",
@@ -1736,7 +2058,8 @@
    "description": "La entrada Oposición confirma acusación constitucional contra Rabat; Quiroz pide a la Suprema apurar fallos ambientales y Chevesich le solicita más recursos, y Peñalolén clausura sede de la ANFP se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/10/28/radar-28-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=radar-28-10-2026",
    "date": "2026-10-28T23:32:49+00:00",
-   "category": "Partidos políticos"
+   "category": "Partidos políticos",
+   "type": "Prensa"
   },
   {
    "id": "406bb795649f",
@@ -1745,7 +2068,28 @@
    "description": "La entrada VIDEO | Defensa de Hermosilla apuntó a Chadwick como responsable de la contratación de Guerra en la USS se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/10/28/video-defensa-de-hermosilla-apunto-a-chadwick-como-responsable-de-la-contratacion-de-guerra-en-la-uss/?utm_source=rss&utm_medium=rss&utm_campaign=video-defensa-de-hermosilla-apunto-a-chadwick-como-responsable-de-la-contratacion-de-guerra-en-la-uss",
    "date": "2026-10-28T21:15:32+00:00",
-   "category": "Conflictos armados y seguridad internacional"
+   "category": "Conflictos armados y seguridad internacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "75fb8e991a54",
+   "source": "Servicio Electoral",
+   "title": "Presidenta de Servel participó en seminario sobre amistad cívica y formación democrática de las juventudes",
+   "description": "La Presidenta del Consejo Directivo del Servicio Electoral, Pamela Figueroa, participó en el seminario “La amistad cívica en diálogo: experiencias desde el Estado, la sociedad civil y la universidad”, instancia propiciada por la Pontificia Universidad Católica de Chile y que conv",
+   "url": "https://www.servel.cl/Ch/app/presidenta-de-servel-participo-en-seminario-sobre-amistad-civica-y-formacion-democratica-de-las-juventudes/sin-categoria/",
+   "date": "2026-10-28T15:22:55+00:00",
+   "category": "Elecciones",
+   "type": "Oficial"
+  },
+  {
+   "id": "58008c32fd0e",
+   "source": "Servicio Electoral",
+   "title": "Servel colabora con Comisión de la Cámara de Diputadas y Diputados sobre plataformas digitales",
+   "description": "El lunes 26 de octubre el Director Nacional del Servicio Electoral, Raúl García, asistió al Congreso Nacional para exponer ante la Comisión Especial Investigadora relativa a desinformación, manipulación algorítmica de plataformas digitales y RRSS, y herramientas de IA, desde 2020",
+   "url": "https://www.servel.cl/Ch/app/servel-colabora-con-comision-de-la-camara-de-diputadas-y-diputados-sobre-plataformas-digitales/sin-categoria/",
+   "date": "2026-10-28T14:39:42+00:00",
+   "category": "Elecciones",
+   "type": "Oficial"
   },
   {
    "id": "58b244d095eb",
@@ -1754,7 +2098,18 @@
    "description": "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities ",
    "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
    "date": "2026-10-28T14:16:24+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "598a7805828e",
+   "source": "Estudios Públicos (CEP)",
+   "title": "Conversación sobre «El Segundo Piso. Un ejercicio de memoria».",
+   "description": "Nota de prensa The post Conversación sobre «El Segundo Piso. Un ejercicio de memoria». appeared first on CEP Chile .",
+   "url": "https://www.cepchile.cl/conversacion-sobre-el-segundo-piso-un-ejercicio-de-memoria/",
+   "date": "2026-10-28T13:32:08+00:00",
+   "category": "Políticas públicas",
+   "type": "Académica"
   },
   {
    "id": "be325ba34e63",
@@ -1763,7 +2118,28 @@
    "description": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment The “unprecedented” spread of the Ebola outbreak means it could reach the UK and other countries, according to one of Africa’s ",
    "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
    "date": "2026-10-28T09:37:49+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "afba3ee83890",
+   "source": "Estudios Públicos (CEP)",
+   "title": "Cuidado con un castigo a crecer",
+   "description": "Ex-Ante The post Cuidado con un castigo a crecer appeared first on CEP Chile .",
+   "url": "https://www.cepchile.cl/cuidado-con-un-castigo-a-crecer/",
+   "date": "2026-10-27T20:53:50+00:00",
+   "category": "Políticas públicas",
+   "type": "Académica"
+  },
+  {
+   "id": "cf57e8147bc5",
+   "source": "Servicio Electoral",
+   "title": "Servel Tarapacá acompañó elecciones de Centro de Alumnos del Colegio Antamara de Iquique",
+   "description": "La Dirección Regional de Tarapacá del Servicio Electoral acompañó el proceso de elecciones del Centro de Alumnos 2026-2027 del Colegio Antamara de Iquique, realizado el pasado 23 de octubre, en una jornada que contó con la participación de 454 estudiantes, equivalente al 84,5% de",
+   "url": "https://www.servel.cl/Ch/app/servel-tarapaca-acompano-elecciones-de-centro-de-alumnos-del-colegio-antamara-de-iquique/sin-categoria/",
+   "date": "2026-10-27T13:42:37+00:00",
+   "category": "Elecciones",
+   "type": "Oficial"
   },
   {
    "id": "59ee8190c3f4",
@@ -1772,7 +2148,8 @@
    "description": "El comportamiento de tu corazón después de hacer ejercicio puede ser clave para valorar tu salud.",
    "url": "https://www.bbc.com/mundo/articles/crd6dxn11vpvo?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-27T10:51:21+00:00",
-   "category": "Sociedad"
+   "category": "Sociedad",
+   "type": "Prensa"
   },
   {
    "id": "82686ad6d885",
@@ -1781,7 +2158,8 @@
    "description": "Rubio’s decision not to meet Narendra Modi last week was seen by some as a snub – but by focusing on business leaders and oil, the secretary of state made American priorities clear. Plus: the artist bringing a female perspective to men’s clothing • Don’t get This is India deliver",
    "url": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
    "date": "2026-10-27T09:21:33+00:00",
-   "category": "China y Asia"
+   "category": "China y Asia",
+   "type": "Prensa"
   },
   {
    "id": "87efa2c75ae1",
@@ -1790,7 +2168,18 @@
    "description": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversa",
    "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
    "date": "2026-10-26T15:07:23+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "202a40d853d6",
+   "source": "Estudios Públicos (CEP)",
+   "title": "¿Qué hacer con la dependencia en la vejez?",
+   "description": "Diarios Regionales The post ¿Qué hacer con la dependencia en la vejez? appeared first on CEP Chile .",
+   "url": "https://www.cepchile.cl/que-hacer-con-la-dependencia-en-la-vejez/",
+   "date": "2026-10-25T12:49:16+00:00",
+   "category": "Políticas públicas",
+   "type": "Académica"
   },
   {
    "id": "75174da675c1",
@@ -1799,7 +2188,8 @@
    "description": "Los alimentos de origen vegetal, las grasas y los productos fermentados pueden reducir las arrugas, aumentar la producción de colágeno y mejorar la textura de nuestra piel.",
    "url": "https://www.bbc.com/mundo/articles/c3ewe42k1k0qo?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-25T10:01:25+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "f19392cc3606",
@@ -1808,7 +2198,8 @@
    "description": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete isolation, her son has sa",
    "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
    "date": "2026-10-25T02:00:49+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
   },
   {
    "id": "d2edfb42a782",
@@ -1817,7 +2208,8 @@
    "description": "Cuando unos recolectores de basura encontraron una extraña cápsula brillante, nadie se dio cuenta de que era altamente radiactiva y que destruiría la vida de todos los que la tocaran.",
    "url": "https://www.bbc.com/mundo/articles/cm5ynlx21z64o?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-24T08:49:02+00:00",
-   "category": "América Latina"
+   "category": "América Latina",
+   "type": "Prensa"
   },
   {
    "id": "35c70f91577e",
@@ -1826,7 +2218,28 @@
    "description": "Case filed in 2022 by patient unable to afford medicine leads to cap on drug prices for millions who face ruin if diagnosed The Indian government has moved to reduce the price of cancer drugs after a retired bank clerk took her case to the supreme court. From next month, 137 canc",
    "url": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
    "date": "2026-10-23T07:00:03+00:00",
-   "category": "China y Asia"
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "c7b3ea9420cc",
+   "source": "Estudios Públicos (CEP)",
+   "title": "Desempleo: la autocrítica pendiente",
+   "description": "La Segunda The post Desempleo: la autocrítica pendiente appeared first on CEP Chile .",
+   "url": "https://www.cepchile.cl/desempleo-la-autocritica-pendiente/",
+   "date": "2026-10-22T18:19:29+00:00",
+   "category": "Economía nacional",
+   "type": "Académica"
+  },
+  {
+   "id": "4c67a94d9df2",
+   "source": "Estudios Públicos (CEP)",
+   "title": "Estreno Momento Económico – Octubre 2026",
+   "description": "Nota de prensa The post Estreno Momento Económico – Octubre 2026 appeared first on CEP Chile .",
+   "url": "https://www.cepchile.cl/momento-economico-octubre-2026/",
+   "date": "2026-10-22T12:50:54+00:00",
+   "category": "Políticas públicas",
+   "type": "Académica"
   },
   {
    "id": "2a20b1b38da9",
@@ -1835,7 +2248,518 @@
    "description": "Kim Aris says ‘hearing her voice again means more than words can express’ amid loosening of detention restrictions The son of Myanmar’s Aung San Suu Kyi has been allowed to speak to the detained former democratic leader for the first time in more than five years. “Today, I was fi",
    "url": "https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader",
    "date": "2026-10-22T10:38:10+00:00",
-   "category": "Relaciones internacionales y geopolítica"
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "5915d5517156",
+   "source": "Estudios Públicos (CEP)",
+   "title": "El más radical del curso",
+   "description": "La Tercera The post El más radical del curso appeared first on CEP Chile .",
+   "url": "https://www.cepchile.cl/el-mas-radical-del-curso/",
+   "date": "2026-10-21T18:10:09+00:00",
+   "category": "Políticas públicas",
+   "type": "Académica"
+  },
+  {
+   "id": "aceaa3f9248a",
+   "source": "Organización Mundial de la Salud",
+   "title": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
+   "description": "Today, as part of its commitment to strengthening health information systems and improving health[1], especially in the context of the COVID-19 pandemic, WHO announced a new approach to improving access to life-saving data: the SCORE for Health Data Technical Package. The COVID-1",
+   "url": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response",
+   "date": "2026-10-10T07:49:45+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "b3dd83783869",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO statement on notification of withdrawal of the United States",
+   "description": "WHO regrets the United States’ notification of withdrawal from WHO – a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be considered by the WHO Executive Board at its regular meeting starting on 2 February",
+   "url": "https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states",
+   "date": "2026-01-24T20:09:49+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "30e9866db9ab",
+   "source": "Organización Mundial de la Salud",
+   "title": "Timor-Leste certified malaria-free by WHO",
+   "description": "The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response shortly after gaining independence in 2002. “WHO congratulates the people and gover",
+   "url": "https://www.who.int/news/item/24-07-2025-timor-leste-certified-malaria-free-by-who",
+   "date": "2025-07-23T10:07:41+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "010064cd22a4",
+   "source": "Organización Mundial de la Salud",
+   "title": "African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa",
+   "description": "The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the sidelines of the 78th World Health Assembly in Geneva. This renewed agreement r",
+   "url": "https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa",
+   "date": "2025-05-24T17:47:21+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "6ac3c1d7368c",
+   "source": "Organización Mundial de la Salud",
+   "title": "Strengthening public health across Lebanon with EIB Global",
+   "description": "Dr Tedros Adhanom Ghebreyesus, Director-General of the World Health Organization (WHO), and Thomas Östros, Vice-President of the European Investment Bank (EIB Global), met at the EIB Group Forum in Luxembourg and signed an agreement for a €10 million grant to strengthen public he",
+   "url": "https://www.who.int/news/item/06-03-2025-strengthening-public-health-across-lebanon-with-eib-global",
+   "date": "2025-04-01T11:55:48+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "9bb9df518d97",
+   "source": "Organización Mundial de la Salud",
+   "title": "Frank, in-depth discussion as Belgium and WHO map ahead priorities for collaboration",
+   "description": "In a three-day strategic dialogue, Belgium and WHO reviewed progress in their longstanding partnership, and agreed to further boost their collaboration on universal health coverage, health-systems strengthening and equitable access to essential vaccines, medicines and health tech",
+   "url": "https://www.who.int/news/item/11-03-2025-frank--in-depth-discussion-as-belgium-and-who-map-ahead-priorities-for-collaboration",
+   "date": "2025-03-11T08:49:23+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "aa20401cb179",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO and Switzerland cement cooperation until 2028",
+   "description": "WHO and Switzerland have announced the renewal of their cooperation strategy for the period 2024-2028. In 2013, Switzerland became the first high-income country in the WHO European Region to pilot a cooperation strategy with WHO (hereafter referred to as the WHO-Switzerland Coope",
+   "url": "https://www.who.int/news/item/07-03-2025-who-and-switzerland-cement-cooperation-until-2028",
+   "date": "2025-03-07T12:38:51+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "a9603fc89e85",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities",
+   "description": "The Riyadh International Humanitarian Forum 2025 was a significant event that underscored the continued partnership between WHO and KSrelief, as well as with other international partners to address critical humanitarian health crises. The agreements made during the forum are pivo",
+   "url": "https://www.who.int/news/item/24-02-2025-who-and-the-kingdom-of-saudi-arabia-sign-agreements-in-support-of-health-priorities",
+   "date": "2025-03-06T12:48:53+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "fff127df3888",
+   "source": "Organización Mundial de la Salud",
+   "title": "Signing ceremony for contribution agreements between WHO and France",
+   "description": "Geneva 17 October 2024 – This afternoon, His Excellency Mr Jérôme Bonnafont, Permanent Representative of France to the United Nations in Geneva, and WHO Director-General Dr Tedros Adhanom Ghebreyesus met in the WHO headquarters for the signing of seven contribution agreements. Th",
+   "url": "https://www.who.int/news/item/17-10-2024-signing-ceremony-for-contribution-agreements-between-who-and-france",
+   "date": "2024-10-17T12:01:38+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "2a8bfebcc404",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO and the Netherlands renew their partnership on climate change and health",
+   "description": "The World Health Organization (WHO) and the Kingdom of the Netherlands have renewed their strategic partnership in addressing the growing impacts of climate change on global health. The Netherlands is providing a new allocation of €500 000 for 2024 to WHO, reinforcing its commitm",
+   "url": "https://www.who.int/news/item/10-10-2024-who-and-the-netherlands-renew-their-partnership-on-climate-change-and-health",
+   "date": "2024-10-10T07:47:50+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "4bab25ac3fcf",
+   "source": "Organización Mundial de la Salud",
+   "title": "The Republic of Korea and WHO discuss joint priorities, challenges and trends around global health",
+   "description": "The World Health Organization (WHO) and the Republic of Korea have a long-standing partnership spanning over 75 years. As a result of their fruitful collaboration, there has been significant progress in health and development all around the world. The Republic of Korea has gone f",
+   "url": "https://www.who.int/news/item/29-08-2024-the-republic-of-korea-and-who-discuss-joint-priorities--challenges-and-trends-around-global-health",
+   "date": "2024-09-04T09:19:05+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "57fe196aec6d",
+   "source": "Organización Mundial de la Salud",
+   "title": "Fourteen African countries, key partners unite to provide critical resources for health in WHO’s first-ever Investment Round",
+   "description": "In an unprecedented show of unity in support of the World Health Organization, 14 African countries and many partners pledged over US$ 45 million to the WHO Investment Round, a three-month-old initiative aimed at generating sustainable financing for the organization at the center",
+   "url": "https://www.who.int/news/item/27-08-2024-fourteen-african-countries--key-partners-unite-to-provide-critical-resources-for-health-in-who-s-first-ever-investment-round",
+   "date": "2024-08-27T19:45:08+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "97e8a515cc61",
+   "source": "Organización Mundial de la Salud",
+   "title": "India commits US$ 85 million to WHO Global Traditional Medicine Centre",
+   "description": "The WHO-India donor agreement is part of a US$ 250 million investment from India in support of the establishment of the WHO Global Centre of Traditional Medicine in 2022, which includes financial support for the workplan of the Centre, interim premises and a new building. This su",
+   "url": "https://www.who.int/news/item/31-07-2024-india-commits-usd-85-million-to-who-global-traditional-medicine-centre",
+   "date": "2024-07-31T05:00:27+00:00",
+   "category": "China y Asia",
+   "type": "Oficial"
+  },
+  {
+   "id": "e71f2e242f45",
+   "source": "Organización Mundial de la Salud",
+   "title": "Qatar Fund for Development (QFFD) supports the implementation of WHO's extended 13th General Programme of Work with flexible funding",
+   "description": "Ahead of the Seventy-seventh World Health Assembly , the Qatar Fund for Development (QFFD) and the World Health Organization (WHO) have signed a Core Contribution Agreement to support the implementation of WHO’s extended Thirteenth General Programme of Work. The agreement entails",
+   "url": "https://www.who.int/news/item/23-05-2024-Qatar-Fund-for-Development-(QFFD)-supports-the-implementation-of-WHO's-extended-13th-General-Programme-of-Work-with-flexible-funding",
+   "date": "2024-05-23T12:12:51+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "0979ed9e1b58",
+   "source": "Organización Mundial de la Salud",
+   "title": "Governments agree to continue their steady progress on proposed pandemic agreement ahead of the World Health Assembly",
+   "description": "Governments of the world today agreed to continue working on a proposed pandemic agreement, and to further refine the draft, ahead of the Seventy-seventh World Health Assembly that starts 27 May 2024. Governments meeting at the World Health Organization headquarters in Geneva agr",
+   "url": "https://www.who.int/news/item/10-05-2024-governments-agree-to-continue-their-steady-progress-on-proposed-pandemic-agreement-ahead-of-the-world-health-assembly",
+   "date": "2024-05-10T19:15:31+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "0f33c346250c",
+   "source": "Organización Mundial de la Salud",
+   "title": "Enhancing Global Health and Well-Being: WHO and the Netherlands strengthen their Partnership",
+   "description": "WHO and Netherlands Strategic Dialogue in The Hague, Netherlands 10 April 2024. Credit: Michel Mees Photography The WHO and the Netherlands convened in The Hague on 10 April 2024, to discuss joint priorities and alignment between the Dutch Global Health Strategy and WHO’s key str",
+   "url": "https://www.who.int/news/item/12-04-2024-enhancing-global-health-and-well-being--who-and-the-netherlands-strengthen-their-partnership",
+   "date": "2024-04-12T13:57:53+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "bf32f5bec67c",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO calls for action to uphold right to health amidst inaction, injustice and crises",
+   "description": "To mark World Health Day (7 April), the World Health Organization (WHO) is running the “My health, my right” campaign to champion the right to health of everyone, everywhere. The campaign advocates for ensuring universal access to quality health services, education, and informati",
+   "url": "https://www.who.int/news/item/05-04-2024-who-calls-for-action-to-uphold-right-to-health-amidst-inaction--injustice-and-crises",
+   "date": "2024-04-05T16:47:03+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "2d4af2a0aefc",
+   "source": "Organización Mundial de la Salud",
+   "title": "Digital payments to health workers boost retention, motivation, and impact",
+   "description": "An immunization worker gets set up to receive her wages on her mobile wallet in the Democratic Republic of the Congo. Credit: WHO Campaigns in Africa to stop polio and other diseases have a more stable, better-motivated workforce thanks to WHO’s collaboration with countries and p",
+   "url": "https://www.who.int/news/item/09-02-2024-digital-payments-to-health-workers-boost-retention--motivation--and-impact",
+   "date": "2024-02-09T11:34:25+00:00",
+   "category": "África",
+   "type": "Oficial"
+  },
+  {
+   "id": "9745c15368a2",
+   "source": "Organización Mundial de la Salud",
+   "title": "COVID-19 disrupting mental health services in most countries, WHO survey",
+   "description": "The COVID-19 pandemic has disrupted or halted critical mental health services in 93% of countries worldwide while the demand for mental health is increasing, according to a new WHO survey. The survey of 130 countries provides the first global data showing the devastating impact o",
+   "url": "https://www.who.int/news/item/05-10-2020-covid-19-disrupting-mental-health-services-in-most-countries-who-survey",
+   "date": "2020-10-06T16:42:38+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "5c1d49eaedac",
+   "source": "Organización Mundial de la Salud",
+   "title": "Global partnership to make available 120 million affordable, quality COVID-19 rapid tests for low- and middle-income countries",
+   "description": "A full access package includes WHO policy guidance on the use of antigen-based rapid diagnostic tests, manufacturer volume guarantees for low and middle-income countries, catalytic funding to assist governments to deploy the tests and an initial US$50 million procurement fund Sev",
+   "url": "https://www.who.int/news/item/28-09-2020-global-partnership-to-make-available-120-million-affordable-quality-covid-19-rapid-tests-for-low--and-middle-income-countries",
+   "date": "2020-09-28T18:37:30+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "534482011365",
+   "source": "Organización Mundial de la Salud",
+   "title": "Managing the COVID-19 infodemic: Promoting healthy behaviours and mitigating the harm from misinformation and disinformation",
+   "description": "The Coronavirus disease (COVID-19) is the first pandemic in history in which technology and social media are being used on a massive scale to keep people safe, informed, productive and connected. At the same time, the technology we rely on to keep connected and informed is enabli",
+   "url": "https://www.who.int/news/item/23-09-2020-managing-the-covid-19-infodemic-promoting-healthy-behaviours-and-mitigating-the-harm-from-misinformation-and-disinformation",
+   "date": "2020-09-23T13:51:01+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "75a3920ef731",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO’s three messages for UNGA75",
+   "description": "As the world comes together at an unprecedented virtual session of the 75th UN General Assembly (UNGA), WHO has three messages to share.",
+   "url": "https://www.who.int/news/item/15-09-2020-who-s-three-messages-for-unga75",
+   "date": "2020-09-15T16:06:51+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "907babd3818a",
+   "source": "Organización Mundial de la Salud",
+   "title": "COVID-19 could reverse decades of progress toward eliminating preventable child deaths, agencies warn",
+   "description": "With the number of under-five deaths at an all-time recorded low of 5.2 million in 2019, disruptions in child and maternal health services due to the COVID-19 pandemic are putting millions of additional lives at stake The number of global under-five deaths dropped to its lowest p",
+   "url": "https://www.who.int/news/item/09-09-2020-covid-19-could-reverse-decades-of-progress-toward-eliminating-preventable-child-deaths-agencies-warn",
+   "date": "2020-09-09T00:01:05+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "939d28e85efd",
+   "source": "Organización Mundial de la Salud",
+   "title": "In WHO global pulse survey, 90% of countries report disruptions to essential health services since COVID-19 pandemic",
+   "description": "WHO to roll out learning and monitoring tools to improve service provision during pandemic The World Health Organization (WHO) today published a first indicative survey on the impact of COVID-19 on health systems based on 105 countries’ reports. Data collected from five regions o",
+   "url": "https://www.who.int/news/item/31-08-2020-in-who-global-pulse-survey-90-of-countries-report-disruptions-to-essential-health-services-since-covid-19-pandemic",
+   "date": "2020-08-31T10:00:25+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "4d2e4ca9f544",
+   "source": "Organización Mundial de la Salud",
+   "title": "172 countries and multiple candidate vaccines engaged in COVID-19 vaccine Global Access Facility",
+   "description": "Nine CEPI-supported candidate vaccines are part of the COVAX initiative, with a further nine candidates under evaluation, and procurement conversations on-going with additional producers not currently receiving research and development (R&D) funding through COVAX – giving COVAX t",
+   "url": "https://www.who.int/news/item/24-08-2020-172-countries-and-multiple-candidate-vaccines-engaged-in-covid-19-vaccine-global-access-facility",
+   "date": "2020-08-24T16:44:16+00:00",
+   "category": "Elecciones",
+   "type": "Oficial"
+  },
+  {
+   "id": "5ca740cc95bc",
+   "source": "Organización Mundial de la Salud",
+   "title": "Global polio eradication initiative applauds WHO African region for wild polio-free certification",
+   "description": "Today, the Africa Regional Certification Commission certified the WHO African Region as wild polio-free after four years without a case. With this historic milestone, five of the six WHO regions – representing over 90% of the world’s population – are now free of the wild poliovir",
+   "url": "https://www.who.int/news/item/25-08-2020-global-polio-eradication-initiative-applauds-who-african-region-for-wild-polio-free-certification",
+   "date": "2020-08-24T12:56:01+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "b253c97c9e38",
+   "source": "Organización Mundial de la Salud",
+   "title": "World Humanitarian Day 2020: A tribute to aid workers on the front lines",
+   "description": "Amid a global pandemic, unprecedented needs and growing insecurity, aid workers and health-care responders are staying and delivering to the world’s most vulnerable people. Last year was the most violent on record for humanitarians, with 483 attacked, 125 killed, 234 wounded and ",
+   "url": "https://www.who.int/news/item/19-08-2020-world-humanitarian-day-2020-a-tribute-to-aid-workers-on-the-front-lines",
+   "date": "2020-08-19T07:55:05+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "7dff8919775e",
+   "source": "Organización Mundial de la Salud",
+   "title": "Plane carrying WHO trauma and surgical supplies arrives in Beirut, Lebanon",
+   "description": "A plane carrying 20 tonnes of WHO health supplies has landed in Beirut, Lebanon, to support the treatment of patients injured by the massive blast that occurred in the city on 4 August. The supplies will cover 1000 trauma interventions and 1000 surgical interventions for people s",
+   "url": "https://www.who.int/news/item/05-08-2020-plane-carrying-who-trauma-and-surgical-supplies-arrives-in-beirut-lebanon",
+   "date": "2020-08-07T14:38:20+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "a331052f55a4",
+   "source": "Organización Mundial de la Salud",
+   "title": "COVID-19 Emergency Committee highlights need for response efforts over long term",
+   "description": "The Emergency Committee on COVID-19, convened by the WHO Director-General under the International Health Regulations (2005) (IHR), held its fourth meeting on 31 July. In its statement following the meeting, published today, it expressed “appreciation for WHO and partners’ COVID-1",
+   "url": "https://www.who.int/news/item/01-08-2020-covid-19-emergency-committee-highlights-need-for-response-efforts-over-long-term",
+   "date": "2020-08-01T14:47:25+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "192bbd970ff1",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO statement on heated tobacco products and the US FDA decision regarding IQOS",
+   "description": "WHO takes this opportunity to remind Member States that are Parties to the WHO Framework Convention of Tobacco Control (FCTC) of their obl i gations under the Convention. Heated tobacco products are tobacco products, meaning that the WHO FCTC fully applies to these products. (Dec",
+   "url": "https://www.who.int/news/item/27-07-2020-who-statement-on-heated-tobacco-products-and-the-us-fda-decision-regarding-iqos",
+   "date": "2020-07-27T11:57:34+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "7c997ccda5d0",
+   "source": "Organización Mundial de la Salud",
+   "title": "World Hepatitis Day: fast-tracking the elimination of hepatitis B among mothers and children",
+   "description": "On World Hepatitis Day 2020, WHO is calling for united and stepped-up action to prevent mother-to-child transmission of hepatitis B (HBV), a preventable viral infection that attacks the liver and claims the lives of nearly 900 000 people each year.",
+   "url": "https://www.who.int/news/item/27-07-2020-world-hepatitis-day-fast-tracking-the-elimination-of-hepatitis-b-among-mothers-and-children",
+   "date": "2020-07-27T09:59:42+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "f364d09990c4",
+   "source": "Organización Mundial de la Salud",
+   "title": "New COVID-19 Law Lab to provide vital legal information and support for the global COVID-19 response",
+   "description": "Launching today, the COVID-19 Law Lab initiative gathers and shares legal documents from over 190 countries across the world to help states establish and implement strong legal frameworks to manage the pandemic. The goal is to ensure that laws protect the health and wellbeing of ",
+   "url": "https://www.who.int/news/item/22-07-2020-new-covid-19-law-lab-to-provide-vital-legal-information-and-support-for-the-global-covid-19-response",
+   "date": "2020-07-22T14:01:26+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "7cea4415f1a4",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO Director-General pays tribute to Spain’s sacrifices and leadership to confront COVID-19",
+   "description": "World Health Organization Director-General Dr Tedros Adhanom Ghebreyesus today joined the leadership of Spain, paying homage to those who have lost their lives in the country due to COVID-19, saluting the heroic efforts of heath workers and praising the government’s resolute and ",
+   "url": "https://www.who.int/news/item/16-07-2020-who-director-general-pays-tribute-to-spain-s-sacrifices-and-leadership-to-confront-covid-19",
+   "date": "2020-07-16T11:36:26+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "54bf703f41c1",
+   "source": "Organización Mundial de la Salud",
+   "title": "More than 150 countries engaged in COVID-19 vaccine global access facility",
+   "description": "Seventy-five countries submit expressions of interest to COVAX Facility, joining up to 90 further countries which could be supported by the COVAX Advance Market Commitment (AMC) The COVAX Facility, and the AMC within it, is designed to guarantee rapid, fair and equitable access t",
+   "url": "https://www.who.int/news/item/15-07-2020-more-than-150-countries-engaged-in-covid-19-vaccine-global-access-facility",
+   "date": "2020-07-15T14:39:21+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "58d8a7506639",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO and UNICEF warn of a decline in vaccinations during COVID-19",
+   "description": "WHO and UNICEF call for immediate efforts to vaccinate all children as new data shows that, before the COVID-19 pandemic, vaccine coverage stalled at 85 per cent for nearly a decade, with 14 million unvaccinated infants yearly",
+   "url": "https://www.who.int/news/item/15-07-2020-who-and-unicef-warn-of-a-decline-in-vaccinations-during-covid-19",
+   "date": "2020-07-15T12:00:12+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "0f44af5d62c0",
+   "source": "Organización Mundial de la Salud",
+   "title": "As more go hungry and malnutrition persists, achieving Zero Hunger by 2030 in doubt, UN report warns",
+   "description": "Rome – More people are going hungry, an annual study by the United Nations has found. Tens of millions have joined the ranks of the chronically undernourished over the past five years, and countries around the world continue to struggle with multiple forms of malnutrition. The la",
+   "url": "https://www.who.int/news/item/13-07-2020-as-more-go-hungry-and-malnutrition-persists-achieving-zero-hunger-by-2030-in-doubt-un-report-warns",
+   "date": "2020-07-13T14:00:59+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "565877c1b305",
+   "source": "Organización Mundial de la Salud",
+   "title": "Independent evaluation of global COVID-19 response announced",
+   "description": "PWHO Director-General today announced the initiation of the Independent Panel for Pandemic Preparedness and Response (IPPPR) to evaluate the world’s response to the COVID-19 pandemic. In remarks to WHO Member States, Director-General Tedros Adhanom Ghebreyesus said the Panel will",
+   "url": "https://www.who.int/news/item/09-07-2020-independent-evaluation-of-global-covid-19-response-announced",
+   "date": "2020-07-09T13:40:54+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "31b347f8b798",
+   "source": "Organización Mundial de la Salud",
+   "title": "UN Public Service Day",
+   "description": "Honouring the public servants who have been working on the frontlines of the COVID-19 pandemic. Whether working in healthcare or delivering essential services in the areas of sanitation, social welfare, education, postal delivery, transport, law enforcement, and more, public serv",
+   "url": "https://www.who.int/news/item/23-06-2020-un-public-service-day",
+   "date": "2020-07-08T04:19:37+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "608815f6cdbc",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO experts to travel to China",
+   "description": "WHO experts will travel to China to work together with their Chinese counterparts to prepare scientific plans for identifying the zoonotic source of the SARS-COV-2 virus. The experts will develop the scope and TOR for a WHO-led international mission. Identifying the origin of eme",
+   "url": "https://www.who.int/news/item/07-07-2020-who-experts-to-travel-to-china",
+   "date": "2020-07-07T18:56:21+00:00",
+   "category": "China y Asia",
+   "type": "Oficial"
+  },
+  {
+   "id": "d9f85235f21d",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO: access to HIV medicines severely impacted by COVID-19 as AIDS response stalls",
+   "description": "Seventy-three countries have warned that they are at risk of stock-outs of antiretroviral (ARV) medicines as a result of the COVID-19 pandemic, according to a new WHO survey conducted ahead of the International AIDS Society’s biannual conference. Twenty-four countries reported ha",
+   "url": "https://www.who.int/news/item/06-07-2020-who-access-to-hiv-medicines-severely-impacted-by-covid-19-as-aids-response-stalls",
+   "date": "2020-07-06T14:00:26+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "2cd9d1ed2549",
+   "source": "Diario Oficial",
+   "title": "13062017",
+   "description": "",
+   "url": "https://www.diariooficial.interior.gob.cl/13062017/",
+   "date": "2017-06-13T07:00:00+00:00",
+   "category": "Legislación chilena",
+   "type": "Oficial"
+  },
+  {
+   "id": "213fa2fe7dc1",
+   "source": "Diario Oficial",
+   "title": "16082016",
+   "description": "",
+   "url": "https://www.diariooficial.interior.gob.cl/16082016/",
+   "date": "2016-08-16T07:00:00+00:00",
+   "category": "Legislación chilena",
+   "type": "Oficial"
+  },
+  {
+   "id": "b91f6b40fbe6",
+   "source": "Diario Oficial",
+   "title": "13082016",
+   "description": "",
+   "url": "https://www.diariooficial.interior.gob.cl/13082016/",
+   "date": "2016-08-13T07:00:00+00:00",
+   "category": "Legislación chilena",
+   "type": "Oficial"
+  },
+  {
+   "id": "e6632b873e35",
+   "source": "Diario Oficial",
+   "title": "12082016",
+   "description": "",
+   "url": "https://www.diariooficial.interior.gob.cl/12082016/",
+   "date": "2016-08-12T07:00:00+00:00",
+   "category": "Legislación chilena",
+   "type": "Oficial"
+  },
+  {
+   "id": "d7561b57142e",
+   "source": "Diario Oficial",
+   "title": "11082016",
+   "description": "",
+   "url": "https://www.diariooficial.interior.gob.cl/11082016/",
+   "date": "2016-08-11T07:00:00+00:00",
+   "category": "Legislación chilena",
+   "type": "Oficial"
+  },
+  {
+   "id": "c1b7aeb78bbf",
+   "source": "Diario Oficial",
+   "title": "10082016",
+   "description": "",
+   "url": "https://www.diariooficial.interior.gob.cl/10082016/",
+   "date": "2016-08-10T07:00:00+00:00",
+   "category": "Legislación chilena",
+   "type": "Oficial"
+  },
+  {
+   "id": "38757e49ab01",
+   "source": "Diario Oficial",
+   "title": "09082016",
+   "description": "",
+   "url": "https://www.diariooficial.interior.gob.cl/09082016/",
+   "date": "2016-08-09T07:00:00+00:00",
+   "category": "Legislación chilena",
+   "type": "Oficial"
+  },
+  {
+   "id": "3cc0e740c362",
+   "source": "Diario Oficial",
+   "title": "08082016",
+   "description": "",
+   "url": "https://www.diariooficial.interior.gob.cl/08082016/",
+   "date": "2016-08-08T07:00:00+00:00",
+   "category": "Legislación chilena",
+   "type": "Oficial"
+  },
+  {
+   "id": "04e7205d961f",
+   "source": "Diario Oficial",
+   "title": "06082016",
+   "description": "",
+   "url": "https://www.diariooficial.interior.gob.cl/06082016/",
+   "date": "2016-08-06T07:00:00+00:00",
+   "category": "Legislación chilena",
+   "type": "Oficial"
+  },
+  {
+   "id": "fbaa278df8f8",
+   "source": "Diario Oficial",
+   "title": "05082016",
+   "description": "",
+   "url": "https://www.diariooficial.interior.gob.cl/05082016/",
+   "date": "2016-08-05T07:00:00+00:00",
+   "category": "Legislación chilena",
+   "type": "Oficial"
   }
  ]
 }

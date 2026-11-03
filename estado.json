@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T01:54:22.077594+00:00",
+ "updated": "2026-11-03T01:58:49.426314+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -70,6 +70,115 @@
   "Agencia EFE": {
    "ok": false,
    "err": "HTTP Error 500: Internal Server Error"
+  },
+  "Biblioteca del Congreso Nacional": {
+   "ok": false,
+   "err": "not well-formed (invalid token): line 47, column 32"
+  },
+  "Diario Oficial": {
+   "ok": true,
+   "n": 10,
+   "url": "https://www.diariooficial.interior.gob.cl/feed/"
+  },
+  "Cámara de Diputadas y Diputados": {
+   "ok": false,
+   "err": "HTTP Error 403: Forbidden"
+  },
+  "Senado": {
+   "ok": false,
+   "err": "HTTP Error 403: Forbidden"
+  },
+  "Contraloría General de la República": {
+   "ok": false,
+   "err": "HTTP Error 404: Not Found"
+  },
+  "Banco Central de Chile": {
+   "ok": false,
+   "err": "HTTP Error 404: Not Found"
+  },
+  "Instituto Nacional de Estadísticas": {
+   "ok": false,
+   "err": "mismatched tag: line 616, column 588"
+  },
+  "Dirección de Presupuestos": {
+   "ok": false,
+   "err": "HTTP Error 404: Not Found"
+  },
+  "Servicio Electoral": {
+   "ok": true,
+   "n": 5,
+   "url": "https://www.servel.cl/feed/"
+  },
+  "Poder Judicial": {
+   "ok": false,
+   "err": "HTTP Error 404: Not Found"
+  },
+  "Naciones Unidas": {
+   "ok": false,
+   "err": "not well-formed (invalid token): line 1, column 0"
+  },
+  "Fondo Monetario Internacional": {
+   "ok": false,
+   "err": "HTTP Error 403: Forbidden"
+  },
+  "Banco Mundial": {
+   "ok": false,
+   "err": "HTTP Error 404: Not Found"
+  },
+  "OCDE": {
+   "ok": false,
+   "err": "HTTP Error 403: Forbidden"
+  },
+  "CEPAL": {
+   "ok": false,
+   "err": "HTTP Error 403: Forbidden"
+  },
+  "Organización Mundial del Comercio": {
+   "ok": true,
+   "n": 7,
+   "url": "https://www.wto.org/library/rss/latest_news_s.xml"
+  },
+  "Organización Mundial de la Salud": {
+   "ok": true,
+   "n": 40,
+   "url": "https://www.who.int/rss-feeds/news-english.xml"
+  },
+  "Organismo Internacional de Energía Atómica": {
+   "ok": false,
+   "err": "feed vacío"
+  },
+  "ACNUR": {
+   "ok": false,
+   "err": "HTTP Error 403: Forbidden"
+  },
+  "Revista Estudios Internacionales (U. de Chile)": {
+   "ok": false,
+   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f"
+  },
+  "Estudios Públicos (CEP)": {
+   "ok": true,
+   "n": 10,
+   "url": "https://www.cepchile.cl/feed/"
+  },
+  "Revista de Ciencia Política (UC)": {
+   "ok": false,
+   "err": "HTTP Error 404: Not Found"
+  },
+  "Chatham House": {
+   "ok": false,
+   "err": "HTTP Error 403: Forbidden"
+  },
+  "International Crisis Group": {
+   "ok": false,
+   "err": "feed vacío"
+  },
+  "Publicaciones de CEPAL": {
+   "ok": false,
+   "err": "HTTP Error 403: Forbidden"
+  },
+  "Publicaciones del FMI": {
+   "ok": false,
+   "err": "HTTP Error 403: Forbidden"
   }
  }
 }
