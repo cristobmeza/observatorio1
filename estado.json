@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T14:05:36.532914+00:00",
+ "updated": "2026-11-04T15:49:53.644619+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -49,7 +49,7 @@
   },
   "Deutsche Welle": {
    "ok": true,
-   "n": 23,
+   "n": 24,
    "url": "https://rss.dw.com/xml/rss-sp-all"
   },
   "France 24": {
@@ -69,7 +69,7 @@
   },
   "Agencia EFE": {
    "ok": false,
-   "err": "HTTP Error 403: Forbidden"
+   "err": "HTTP Error 500: Internal Server Error"
   },
   "Biblioteca del Congreso Nacional": {
    "ok": false,
