@@ -1,6 +1,166 @@
 {
- "updated": "2026-11-04T05:53:17.961352+00:00",
+ "updated": "2026-11-04T06:58:53.075202+00:00",
  "items": [
+  {
+   "id": "d05462ce6e55",
+   "source": "BBC Mundo",
+   "title": "Análisis: los demócratas destrozan el mapa político de Trump en una noche histórica",
+   "description": "Dos contiendas por el Senado que hace un año se consideraban campos de batalla reñidos resultaron ser victorias aplastantes para los demócratas.",
+   "url": "https://www.bbc.com/mundo/articles/cwy8lzy41z7lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T06:54:58+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "faa98111eb00",
+   "source": "France 24",
+   "title": "Los demócratas ganan mayoría de la Cámara Baja y toman el control del Congreso, un contundente revés para Trump",
+   "description": "",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261103-en-directo-estados-unidos-midterms-elecciones-medio-mandato-congreso-gobernaciones-trump-democratas-republicanos",
+   "date": "2026-11-04T06:37:06+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "0e89d384038b",
+   "source": "Al Jazeera",
+   "title": "Democratic Party gains US House majority in 2026 midterm elections",
+   "description": "All 435 seats in the lower chamber of Congress were on the ballot in Tuesday's midterm race.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections?traffic_source=rss",
+   "date": "2026-11-04T06:34:46+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "fcb2b93370b6",
+   "source": "BBC Mundo",
+   "title": "Quiénes son los grandes vencedores de la triunfal noche demócrata en las elecciones de medio mandato en EE.UU.",
+   "description": "Te presentamos algunas de las estrellas de la \"ola azul\" demócrata que obtuvo este martes una aplastante victoria en un duro revés contra las políticas de Trump.",
+   "url": "https://www.bbc.com/mundo/articles/cqe9lej2zpzno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T06:28:33+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "4821d514025e",
+   "source": "Al Jazeera",
+   "title": "House Democratic leader Hakeem Jeffries hails midterm victory",
+   "description": "Top US Democratic politician Hakeem Jeffries has called the midterm results the start of a ‘great American comeback’.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss",
+   "date": "2026-11-04T06:26:19+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "50d484487dd8",
+   "source": "The Guardian",
+   "title": "Kate McClymont questioned over ‘nail in the coffin’ and poo emoji texts at Alan Jones trial",
+   "description": "Award-winning investigative journalist says she ‘probably’ texted an alleged victim’s mother saying ‘I hope the shit does hit the fan for him’, court hears Get our breaking news email , free app or daily news podcast Investigative journalist Kate McClymont has told a Sydney court",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/04/alan-jones-trial-kate-mcclymont-nail-in-coffin-ntwnfb",
+   "date": "2026-11-04T06:23:40+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "1a432596026b",
+   "source": "France 24",
+   "title": "Annie Andrews: \"No le debo nada a nadie en Washington, le debo todo a Carolina del Sur\"",
+   "description": "Tras la victoria en las urnas de Roy Cooper en Carolina del Norte, otra candidata demócrata al Senado fue elegida en el estado vecino de Carolina del Sur. Derrotó a la titular republicana Darline Graham. La victoria de Andrews en un estado donde el presidente Donald Trump ganó tr",
+   "url": "https://www.france24.com/es/video/20261104-annie-andrews-no-le-debo-nada-a-nadie-en-washington-le-debo-todo-a-carolina-del-sur",
+   "date": "2026-11-04T06:21:13+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "6cbc0e68d332",
+   "source": "France 24",
+   "title": "Roy Cooper devolvió Carolina del Norte al campo demócrata tras casi 20 años",
+   "description": "El exgobernador Roy Cooper ganó la elección al Senado por Carolina del Norte y aseguró para los demócratas una de las primeras victorias decisivas de la noche electoral. Cooper derrotó al republicano Michael Whatley, expresidente del Comité Nacional Republicano y candidato respal",
+   "url": "https://www.france24.com/es/video/20261104-roy-cooper-devolvi%C3%B3-carolina-del-norte-al-campo-dem%C3%B3crata-tras-casi-20-a%C3%B1os",
+   "date": "2026-11-04T06:17:31+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "239e0cbbc8e1",
+   "source": "Al Jazeera",
+   "title": "Lula’s victory is a stress test for the Global South",
+   "description": "Trump can still punish Brazil for pursuing an independent course. Can China offer lasting alternatives to US dominance?",
+   "url": "https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss",
+   "date": "2026-11-04T06:12:59+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "030c49fb97d8",
+   "source": "France 24",
+   "title": "Chris Pappas hace historia en el Senado y lanza duro mensaje contra Trump",
+   "description": "El representante demócrata Chris Pappas derrotó al republicano John E. Sununu en la carrera al Senado de Estados Unidos en New Hampshire. Pappas, quien será el primer hombre abiertamente gay en el Senado, aprovechó su discurso para agradecer a su esposo, Vann Bentley. También dij",
+   "url": "https://www.france24.com/es/video/20261104-chris-pappas-hace-historia-en-el-senado-y-lanza-duro-mensaje-contra-trump",
+   "date": "2026-11-04T06:12:21+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "b554237b0250",
+   "source": "BBC Mundo",
+   "title": "Los demócratas recuperan la Cámara y el Senado en una noche triunfal e infligen una \"derrota aplastante\" a Trump y sus aliados",
+   "description": "Con el control del Senado y la Cámara de Representantes, los demócratas protagonizan una noche histórica en unas elecciones que marcarán los dos últimos años de mandato del presidente Donald Trump.",
+   "url": "https://www.bbc.com/mundo/articles/cv62y9278jz0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T06:11:03+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "93262bd1f61b",
+   "source": "France 24",
+   "title": "Jon Ossoff: \"El pueblo estadounidense ha rechazado el Gobierno fallido de Trump\"",
+   "description": "El demócrata Jon Ossoff sostuvo que las victorias de su partido en las cruciales elecciones de medio mandato representan un claro rechazo al presidente Donald Trump por parte de los estadounidenses. \"Con triunfos contundentes y decisivos, el pueblo estadounidense ha rechazado la ",
+   "url": "https://www.france24.com/es/video/20261104-jon-ossoff-el-pueblo-estadounidense-ha-rechazado-el-gobierno-fallido-de-trump",
+   "date": "2026-11-04T06:10:56+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "76e08a78f9b8",
+   "source": "The Guardian",
+   "title": "David Jones expected to fall into administration after failed 11th hour talks with biggest landlord",
+   "description": "Future of 188-year-old department store hangs in balance after no agreement was struck with Westfield owner Scentre Group Get our breaking news email , free app or daily news podcast David Jones is poised to fall into administration after 11th-hour talks between its private equit",
+   "url": "https://www.theguardian.com/business/2026/nov/04/david-jones-expected-to-fall-into-administration-rent",
+   "date": "2026-11-04T06:08:02+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "eb44a55f7d5b",
+   "source": "France 24",
+   "title": "La UE reitera sus recomendaciones a los ciudadanos para afrontar eventuales emergencias",
+   "description": "Cómo preparar un kit para sobrevivir tres días o saber comunicar a las autoridades los riesgos y las amenazas durante las emergencias hacen parte de las nuevas directrices de la Comisión Europea para afrontar situaciones de riesgo, \"ante las crisis cada vez más frecuentes y compl",
+   "url": "https://www.france24.com/es/europa/20261104-la-ue-reitera-sus-recomendaciones-a-los-ciudadanos-para-afrontar-eventuales-emergencias",
+   "date": "2026-11-04T05:54:23+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "f850d33eae23",
+   "source": "Deutsche Welle",
+   "title": "Abren colegios electorales en elecciones locales de Sudáfrica",
+   "description": "La cita electoral servirá para medir la popularidad de un CNA que ya sufrió una debacle en las elecciones locales de 2021.",
+   "url": "https://www.dw.com/es/abren-colegios-electorales-en-elecciones-locales-de-sudáfrica/a-79849967?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-04T05:54:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "9a6c1c8bca94",
+   "source": "Al Jazeera",
+   "title": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
+   "description": "CD Tenerife forward Jesus de Miguel died after suffering cardiac arrest following an on-field collision.",
+   "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
+   "date": "2026-11-04T05:49:43+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "6c8dd1b1cbd5",
    "source": "France 24",
@@ -12,13 +172,23 @@
    "type": "Prensa"
   },
   {
-   "id": "b554237b0250",
-   "source": "BBC Mundo",
-   "title": "Los demócratas recuperan la Cámara y el Senado en una noche triunfal e infligen una \"derrota aplastante\" a Trump y sus aliados",
-   "description": "Con el control del Senado y la Cámara de Representantes, los demócratas protagonizan una noche histórica en unas elecciones que marcarán los dos últimos años de mandato del presidente Donald Trump.",
-   "url": "https://www.bbc.com/mundo/articles/cv62y9278jz0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-04T05:33:01+00:00",
-   "category": "Elecciones",
+   "id": "d09a95101e8e",
+   "source": "Al Jazeera",
+   "title": "Democrats dominate NYC races, Hochul re-elected New York governor",
+   "description": "Brad Lander, Darializa Avila Chevalier and Claire Valdez sweep their congressional races in key Democratic districts.",
+   "url": "https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss",
+   "date": "2026-11-04T05:27:30+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "0c31e46a9802",
+   "source": "Radio Bío-Bío",
+   "title": "Binance revela que ciberataque de US$6.300 millones comenzó con falsas entrevistas de trabajo",
+   "description": "La plataforma de intercambio de criptomonedas Binance reveló que el ciberataque sufrido recientemente, con un impacto estimado en 6.340 millones de dólares y atribuido por EE.UU. a Corea del Norte, . En un informe preliminar publicado en las últimas horas en la red social X, la c",
+   "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/11/04/binance-revela-que-ciberataque-de-us6-300-millones-comenzo-con-falsas-entrevistas-de-trabajo.shtml",
+   "date": "2026-11-04T05:18:06+00:00",
+   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -144,11 +314,21 @@
   {
    "id": "19025bbf39b4",
    "source": "Al Jazeera",
-   "title": "Democratic Party flips US Senate in 2026 midterm elections",
+   "title": "Democratic Party wins US Senate in 2026 midterm elections",
    "description": "The outcome is widely seen as a rebuke to Trump's Republican Party, which won control of the chamber in 2024.",
    "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
    "date": "2026-11-04T04:37:05+00:00",
    "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "a74b92331ba2",
+   "source": "Radio Bío-Bío",
+   "title": "La demócrata Gina Hinojosa se convierte en la primera latina en gobernar Texas",
+   "description": "La demócrata y la tercera mujer en ocupar el cargo, tras derrotar al republicano Greg Abbott en unas elecciones que ponen fin a décadas de dominio republicano en el estado, según proyecciones de CNN y NBC. Hinojosa derrotó al gobernador republicano Greg Abbott, quien buscaba la r",
+   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/04/la-democrata-gina-hinojosa-se-convierte-en-la-primera-latina-en-gobernar-texas.shtml",
+   "date": "2026-11-04T04:33:01+00:00",
+   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -192,10 +372,30 @@
    "type": "Prensa"
   },
   {
+   "id": "3d85604c801a",
+   "source": "Radio Bío-Bío",
+   "title": "Trump reconoce derrota de Republicanos y dice que \"habríamos ganado\" si él se presentaba en papeletas",
+   "description": "El presidente de Estados Unidos (EEUU), Donald Trump, reconoció este martes la derrota de Republicanos en las elecciones de medio mandato y . Durante toda la campaña el jefe de la Casa Blanca planteó a los votantes que estas elecciones legislativas fueran como un plebiscito hacia",
+   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/04/trump-reconoce-derrota-de-republicanos-y-dice-que-habriamos-ganado-si-el-se-presentaba-en-papeletas.shtml",
+   "date": "2026-11-04T04:04:56+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "0e26711b64b1",
+   "source": "Radio Bío-Bío",
+   "title": "Proyectan victoria de James Talarico al Senado por Texas: demócratas ganan escaño tras 38 años",
+   "description": "El demócrata James Talarico ganará la carrera al senado por Texas, según las proyecciones de CNN y The New York Times. Asimismo, la oposición a Donald Trump se queda con un escaño clave para lograr la mayoría en la Cámara Alta. Talarico es un pastor presbiteriano de 37 años, que ",
+   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/04/proyectan-victoria-de-james-talarico-al-senado-por-texas-democratas-ganan-escano-tras-38-anos.shtml",
+   "date": "2026-11-04T04:04:30+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
    "id": "1596509c1dc9",
    "source": "Al Jazeera",
-   "title": "Talarico wins Texas Senate race, ending decades of Republican dominance",
-   "description": "Democrats celebrate Talarico and Hinojosa's victories, redefining Texas politics after decades of Republican reign.",
+   "title": "Talarico wins Senate race, ending decades of Republican dominance in Texas",
+   "description": "Democrats celebrate Talarico's and Hinojosa's victories, redefining Texas politics after decades of Republican reign.",
    "url": "https://www.aljazeera.com/news/2026/11/4/talarico-wins-texas-senate-race-ending-decades-of-republican-dominance?traffic_source=rss",
    "date": "2026-11-04T04:03:41+00:00",
    "category": "Oriente Medio",
@@ -209,6 +409,16 @@
    "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
    "date": "2026-11-04T04:00:23+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "9bf4c52865ec",
+   "source": "Radio Bío-Bío",
+   "title": "Gobernadores: Hochul retiene Nueva York, Bottoms hace historia en Georgia y Donalds gana Florida",
+   "description": "Las proyecciones de gobernadores de la NBC, CBS, CNN y Fox News dan la reelección de la demócrata Kathy Hochul, y los triunfos de la demócrata Keisha Lance Bottoms y el republicano Byron Donalds en unos comicios que también definen el Senado y la Cámara Baja. La demócrata Kathy H",
+   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/04/gobernadores-eeuu-hochul-retiene-nueva-york-bottoms-hace-historia-en-georgia-y-donalds-gana-florida.shtml",
+   "date": "2026-11-04T03:58:12+00:00",
+   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -274,8 +484,8 @@
   {
    "id": "06e458e37f8c",
    "source": "Radio Bío-Bío",
-   "title": "Proyectan que el Partido Demócrata ganó el control de la Cámara de Representantes de EEUU",
-   "description": "Proyecciones de CNN y Washington Post indican que el Partido Demócrata ganó el control de la Caámara de Representantes de EEUU, luego de haber dado vuelta al menos cuatro distritos en manos del partido Republicano, además de mantener unos reñidos que estaban bajo su control. De a",
+   "title": "Proyectan que el Partido Demócrata ganará el control de la Cámara de Representantes de EEUU",
+   "description": "Proyecciones de CNN y Washington Post indican que el Partido Demócrata ganó el control de la Caámara de Representantes de EEUU, luego de haber dado vuelta al menos cuatro distritos en manos del partido Republicano, además de mantener unos reñidos que estaban bajo su control. Si l",
    "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/04/proyectan-que-el-partido-democrata-gano-el-control-de-la-camara-de-representantes-de-eeuu.shtml",
    "date": "2026-11-04T03:11:04+00:00",
    "category": "Partidos políticos",
@@ -379,16 +589,6 @@
    "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/elecciones-medio-mandato-en-ee-uu-democratas-avanzan-para-tomar-el/2026-11-03/232017.html",
    "date": "2026-11-04T02:20:17+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "ea741f94310d",
-   "source": "The Guardian",
-   "title": "Uber pays its drivers ‘wages’ and is liable for $81m payroll tax bill, Australia’s high court rules",
-   "description": "Rideshare company unsuccessfully argued it didn’t employ workers and claimed money paid was not wages under NSW law The rideshare behemoth Uber has suffered a bruising loss in Australia’s high court that will cost it more than $80m in unpaid taxes. The court on Wednesday dismisse",
-   "url": "https://www.theguardian.com/technology/2026/nov/04/uber-australia-high-court-loss-driver-wages-81m-payroll-tax-bill-ntwnfb",
-   "date": "2026-11-04T02:15:01+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -542,16 +742,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e7d3ce307fa8",
-   "source": "Al Jazeera",
-   "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
-   "description": "US President Donald Trump says he plans to stop the annual $3.8bn military aid package to Israel by the end of the year.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
-   "date": "2026-11-04T01:13:49+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "bb6b360aca4f",
    "source": "Radio Cooperativa",
    "title": "Real Betis de Pellegrini tendrá un desafío de alto nivel ante Borussia Dortmund en la Champions",
@@ -572,86 +762,6 @@
    "type": "Prensa"
   },
   {
-   "id": "28ee2eb5efec",
-   "source": "Radio Bío-Bío",
-   "title": "El drama de pareja de chilenos detenida en EEUU: tienen un bebé de dos meses y padre sigue en custodia",
-   "description": "Una . Actualmente, el hombre se encuentra detenido, mientras que la mujer se alista para retornar a Chile junto a su hija de 2 meses. De acuerdo con los antecedentes, la organización KUER conversó con Javiera Quiroga, de 25 años, quien llegó a EEUU en busca de una mejor calidad d",
-   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/03/el-drama-de-pareja-de-chilenos-detenida-en-eeuu-tienen-un-bebe-de-dos-meses-y-padre-sigue-en-custodia.shtml",
-   "date": "2026-11-04T01:07:01+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "851412cf3a8a",
-   "source": "Al Jazeera",
-   "title": "UN elects five judges to International Court of Justice amid record cases",
-   "description": "The election, held at UN headquarters, required several rounds of voting to fill the fifth and final seat.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
-   "date": "2026-11-04T01:03:12+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "6b9ae6a24cfb",
-   "source": "Radio Bío-Bío",
-   "title": "Ataque con lápiz y grilletes: Defensora relata cómo su representado intentó matarla en plena audiencia",
-   "description": "Nicole Sánchez, la defensora agredida por su propio representado en el Centro de Justicia de Santiago, relató el contexto del ataque. “Esto ocurrió en una audiencia de control de detención, que es la que solemos tomar como defensores públicos”, afirmó. Del mismo modo, Sánchez exp",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/03/ataque-con-lapiz-y-grilletes-defensora-relata-como-su-representado-intento-matarla-en-plena-audiencia.shtml",
-   "date": "2026-11-04T01:03:11+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "6797f98ef8d8",
-   "source": "Radio Bío-Bío",
-   "title": "\"Temo resultar herida\": Christa Pike pide no regresar al módulo de prisión donde estaba recluida",
-   "description": "La reclusa estadounidense Christa Pike, que sobrevivió a dos inyecciones letales el pasado 30 de septiembre en el estado de Tennessee (EE.UU.), pidió este martes al tribunal no regresar al módulo penitenciario en el que permanecía recluida debido al “historial de agresiones” de o",
-   "url": "https://www.biobiochile.cl/noticias/sociedad/debate/2026/11/03/temo-resultar-herida-christa-pike-pide-no-regresar-al-modulo-de-prision-donde-estaba-recluida.shtml",
-   "date": "2026-11-04T01:02:31+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "88fc59f8c3c0",
-   "source": "Al Jazeera",
-   "title": "Jon Ossoff wins Georgia Senate race, defeating Republican Mike Collins",
-   "description": "Ossoff is re-elected to a second term, winning a key seat for Democrats as the party tries to retake the Senate.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
-   "date": "2026-11-04T00:59:58+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "bb43a7aaddeb",
-   "source": "Radio Bío-Bío",
-   "title": "Raphinha admite ’shock’ por muerte de Jesús de Miguel y rechaza hablar de sus goles: \"No es buen día\"",
-   "description": "Raphinha, estrella del Barcelona y la selección de Brasil, no escondió sentirse profundamente golpeado por la muerte de Jesús de Miguel, futbolista del Tenerife que perdió la vida tras un violento choque en cancha con el arquero Jesús Owono del Andorra. Tras ser la figura del con",
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/11/03/raphinha-reconoce-shock-por-muerte-de-jesus-de-miguel-y-evita-hablar-de-su-doblete-no-es-buen-dia.shtml",
-   "date": "2026-11-04T00:49:56+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "59694d34f99d",
-   "source": "Radio Bío-Bío",
-   "title": "Trump proclama \"semana anticomunista\" en EEUU justo en conteo de votos de elecciones de Medio Mandato",
-   "description": "El presidente de Estados Unidos, Donald Trump, proclamó este martes la “Semana Anticomunista” del 1 al 7 de noviembre, coincidiendo con el inicio del cierre de los primeros colegios electorales en las elecciones legislativas. La Administración difundió el documento en su sitio we",
-   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/03/trump-proclama-semana-anticomunista-en-eeuu-justo-en-conteo-de-votos-de-elecciones-de-medio-mandato.shtml",
-   "date": "2026-11-04T00:47:13+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "f6275ff18185",
-   "source": "Al Jazeera",
-   "title": "FBI arrests man for sending over 700 threatening letters to US officials",
-   "description": "The suspect, an Oklahoma City man, is accused of mailing hoax letters with white powder and treason warnings.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/fbi-arrests-man-for-sending-700-white-powder-letters-to-us-officials?traffic_source=rss",
-   "date": "2026-11-04T00:44:04+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "77270a143004",
    "source": "Radio Cooperativa",
    "title": "Britney Spears arremetió contra su hermana y su exesposo: \"Me hicieron sentir como una esclava\"",
@@ -659,16 +769,6 @@
    "url": "https://www.cooperativa.cl/noticias/magazine/personajes/britney-spears-arremetio-contra-su-hermana-y-su-exesposo-me-hicieron/2026-11-03/213718.html",
    "date": "2026-11-04T00:37:18+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "3faf85d8885d",
-   "source": "Al Jazeera",
-   "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
-   "description": "At least seven flights and an Israel-bound cruise ship received threats, but officials say searches found no explosives.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
-   "date": "2026-11-04T00:35:44+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -689,16 +789,6 @@
    "url": "https://www.cooperativa.cl/noticias/pais/politica/caso-rabat-marco-tensa-aprobacion-del-presupuesto-de-justicia-en/2026-11-03/212609.html",
    "date": "2026-11-04T00:26:09+00:00",
    "category": "Finanzas públicas",
-   "type": "Prensa"
-  },
-  {
-   "id": "ba66ff47b2f8",
-   "source": "The Guardian",
-   "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
-   "description": "Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff Get our breaking news email , free app or daily news podcast Canva is cutting or relocating more than 1,200 jobs, representing 22% of its global",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
-   "date": "2026-11-04T00:14:49+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -822,16 +912,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8e863c5f4458",
-   "source": "France 24",
-   "title": "Informe desde Detroit: Michigan, un estado afectado por las políticas arancelarias de Trump",
-   "description": "Míchigan, cuna de la industria automotriz, apoyó a Trump tras sus promesas de empleos y producción nacional. Años después, muchas fábricas sufren por el impacto de los aranceles con Canadá. La crisis es tal que el candidato republicano Mike Rogers ha exigido frenar la guerra come",
-   "url": "https://www.france24.com/es/video/20261103-informe-desde-detroit-michigan-un-estado-afectado-por-las-pol%C3%ADticas-arancelarias-de-trump",
-   "date": "2026-11-03T22:52:53+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "abda27fe4bb8",
    "source": "Radio Cooperativa",
    "title": "Christell abordó denuncia de Mon Laferte contra exproductor de \"Rojo\": \"Ahora no se toleraría\"",
@@ -839,26 +919,6 @@
    "url": "https://www.cooperativa.cl/noticias/magazine/musica/christell-abordo-denuncia-de-mon-laferte-contra-exproductor-de-rojo/2026-11-03/195217.html",
    "date": "2026-11-03T22:52:17+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "3afbbb0827d8",
-   "source": "France 24",
-   "title": "Informe desde Austin: ¿el fenómeno deTalarico podría hacer temblar el dominio republicano en Texas?",
-   "description": "James Talarico era un líder local en Texas hasta que su aparición en el podcast de Joe Rogan lo catapultó a la escena nacional, donde Rogan sugirió que debería postular a la presidencia. En un estado históricamente \"rojo\", el Partido Republicano ha invertido millones de dólares y",
-   "url": "https://www.france24.com/es/video/20261103-informe-desde-austin-el-fen%C3%B3meno-detalarico-podr%C3%ADa-hacer-temblar-el-dominio-republicano-en-texas",
-   "date": "2026-11-03T22:49:39+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "0784883b177d",
-   "source": "France 24",
-   "title": "Informe desde Atlanta: expectativa por los resultados de las midterms en Georgia, un estado dividido",
-   "description": "Georgia, uno de los estados más importantes, históricamente ha sido un estado rojo; en 2022, Biden ganó las elecciones por apenas 12 mil votos en el estado. Más adelante, cuando Trump se enfrentó contra Harris, ganó por pocos puntos porcentuales. Georgia, conocida como la cuna de",
-   "url": "https://www.france24.com/es/video/20261103-informe-desde-atlanta-expectativa-por-los-resultados-de-las-midterms-en-georgia-un-estado-dividido",
-   "date": "2026-11-03T22:43:59+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -909,16 +969,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash",
    "date": "2026-11-03T21:46:02+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "686df51a9276",
-   "source": "France 24",
-   "title": "Los estados péndulo que podrían redefinir la presencia del Partido Republicano en el Senado",
-   "description": "La gobernabilidad del presidente estadounidense Donald Trump está en juego en las midterms. Más de 250 millones de personas están llamadas a las urnas para decidir el equilibrio de poderes en el Congreso, con los 35 escaños del Senado sobre la balanza, que podría ser inclinada po",
-   "url": "https://www.france24.com/es/video/20261103-los-estados-p%C3%A9ndulo-que-podr%C3%ADan-redefinir-la-presencia-del-partido-republicano-en-el-senado",
-   "date": "2026-11-03T21:44:35+00:00",
-   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -1022,16 +1072,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e791477ca427",
-   "source": "France 24",
-   "title": "El ministro de Transportes de España dimite tras el accidente ferroviario de Urda, que dejó 69 muertos",
-   "description": "",
-   "url": "https://www.france24.com/es/europa/20261103-%C3%B3scar-puente-dimite-como-ministro-de-transportes-tras-dos-accidentes-ferroviarios-mortales-en-menos-de-un-a%C3%B1o",
-   "date": "2026-11-03T20:34:25+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "17f2302c9be5",
    "source": "Deutsche Welle",
    "title": "Los Ángeles dice adiós al petróleo tras años de lucha vecinal",
@@ -1049,16 +1089,6 @@
    "url": "https://www.ex-ante.cl/opinion/ambicion-y-poder-palabras-en-voz-baja/",
    "date": "2026-11-03T20:15:00+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "44a4e4742301",
-   "source": "France 24",
-   "title": "Siete aviones y un crucero afectados por amenazas falsas de bomba en Europa",
-   "description": "Al menos siete vuelos y un crucero que operaban en Europa recibieron el martes supuestas amenazas de bomba que finalmente resultaron ser falsas, pero que obligaron a activar los dispositivos de emergencia, cerrar un aeropuerto en Varsovia y movilizar a la Fuerza Aérea Italiana.",
-   "url": "https://www.france24.com/es/europa/20261103-siete-aviones-y-un-crucero-afectados-por-amenazas-falsas-de-bomba-en-europa",
-   "date": "2026-11-03T20:09:30+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -1129,16 +1159,6 @@
    "url": "https://www.ciperchile.cl/2026/11/03/derrumbe-de-los-fondos-d-y-e-de-las-afp-afectara-proceso-de-jubilacion-de-unas-360-000-personas-en-edad-de-pensionarse/?utm_source=rss&utm_medium=rss&utm_campaign=derrumbe-de-los-fondos-d-y-e-de-las-afp-afectara-proceso-de-jubilacion-de-unas-360-000-personas-en-edad-de-pensionarse",
    "date": "2026-11-03T18:41:04+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "5d3c877c9bf4",
-   "source": "Deutsche Welle",
-   "title": "DW verifica: el mapa viral sobre armas que engaña a EE. UU.",
-   "description": "Una publicación viral en redes sociales ha resurgido de cara a las elecciones de mitad de mandato, afirmando que los estados de EE. UU. con más armas presentan niveles más bajos de violencia armada.",
-   "url": "https://www.dw.com/es/dw-verifica-el-mapa-viral-sobre-armas-que-engaña-a-ee-uu/a-79844351?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-03T18:37:00+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1372,16 +1392,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3db8a268c34e",
-   "source": "BBC Mundo",
-   "title": "8 gráficos que muestran por qué las elecciones de medio mandato llegan en mal momento para Trump y qué hay en juego",
-   "description": "Este es un análisis exhaustivo de las encuestas clave, las contiendas electorales más disputadas y los temas más importantes de cara a unos comicios que definirán los dos últimos años de Trump como presidente.",
-   "url": "https://www.bbc.com/mundo/articles/cq5ynzzkxeymo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-03T04:41:52+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "00f833a7a15b",
    "source": "BBC Mundo",
    "title": "Quiénes son las 9 víctimas del fatal accidente del avión privado que se estrelló en Florida",
@@ -1419,16 +1429,6 @@
    "url": "https://www.ciperchile.cl/2026/11/02/radar-02-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-02-11-26",
    "date": "2026-11-02T23:36:54+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "96587be3547c",
-   "source": "BBC Mundo",
-   "title": "Las 7 elecciones clave que tienes que mirar para saber si los demócratas recuperan el control del Senado en EE.UU.",
-   "description": "Todas las miradas están puestas en un puñado de elecciones al Senado que decidirán el control de la codiciada Cámara Alta. Aquí tienes una breve guía.",
-   "url": "https://www.bbc.com/mundo/articles/c9ly0x3jr86eo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-02T22:06:33+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T05:53:17.961352+00:00",
+ "updated": "2026-11-04T06:58:53.075202+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -32,7 +32,7 @@
   "Río en Línea": {
    "ok": true,
    "n": 1,
-   "url": "https://www.rioenlinea.cl/rss"
+   "url": "https://www.rioenlinea.cl/feed/"
   },
   "Reuters": {
    "ok": false,
@@ -69,7 +69,7 @@
   },
   "Agencia EFE": {
    "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "err": "HTTP Error 500: Internal Server Error"
   },
   "Biblioteca del Congreso Nacional": {
    "ok": false,
