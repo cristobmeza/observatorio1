@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T04:51:01.623906+00:00",
+ "updated": "2026-11-04T05:53:17.961352+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -32,7 +32,7 @@
   "Río en Línea": {
    "ok": true,
    "n": 1,
-   "url": "https://www.rioenlinea.cl/feed/"
+   "url": "https://www.rioenlinea.cl/rss"
   },
   "Reuters": {
    "ok": false,

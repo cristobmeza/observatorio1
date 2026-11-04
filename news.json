@@ -1,6 +1,126 @@
 {
- "updated": "2026-11-04T04:51:01.623906+00:00",
+ "updated": "2026-11-04T05:53:17.961352+00:00",
  "items": [
+  {
+   "id": "6c8dd1b1cbd5",
+   "source": "France 24",
+   "title": "El 'Escudo de las Américas' de Trump: ¿también se puso a prueba en las urnas?",
+   "description": "El apoyo a las políticas de Donald Trump y el Partido Republicano se midió en las urnas en las elecciones de mitad de mandato en Estados Unidos de este 3 de noviembre. Una de ellas es la relación con Latinoamérica. Al respecto, el mandatario reeditó la Doctrina Monroe, resumida e",
+   "url": "https://www.france24.com/es/programas/especial-noticias/20261104-el-escudo-de-las-am%C3%A9ricas-de-trump-tambi%C3%A9n-se-puso-a-prueba-en-las-urnas",
+   "date": "2026-11-04T05:33:40+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "b554237b0250",
+   "source": "BBC Mundo",
+   "title": "Los demócratas recuperan la Cámara y el Senado en una noche triunfal e infligen una \"derrota aplastante\" a Trump y sus aliados",
+   "description": "Con el control del Senado y la Cámara de Representantes, los demócratas protagonizan una noche histórica en unas elecciones que marcarán los dos últimos años de mandato del presidente Donald Trump.",
+   "url": "https://www.bbc.com/mundo/articles/cv62y9278jz0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T05:33:01+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "94725b72de6a",
+   "source": "France 24",
+   "title": "Las incumplidas promesas económicas de Trump le pasan factura en las midterms",
+   "description": "La inflación interanual en Estados Unidos alcanzó el 3,7% en septiembre, impulsada principalmente por el encarecimiento de la energía, cuyos precios aumentaron más del 20% frente al mismo mes del año anterior. Mientras la gasolina y las facturas de electricidad presionan el presu",
+   "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261104-las-incumplidas-promesas-econ%C3%B3micas-de-trump-le-pasan-factura-en-las-midterms",
+   "date": "2026-11-04T05:12:12+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "2116ae0afd72",
+   "source": "Al Jazeera",
+   "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
+   "description": "Kim Yo Jong refuses dialogue with US after denying responsibility for theft of more than $6bn in crypto assets.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
+   "date": "2026-11-04T05:11:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e6c07afd6ab1",
+   "source": "Al Jazeera",
+   "title": "Keisha Lance Bottoms becomes Georgia’s first black governor",
+   "description": "Democrat Keisha Lance Bottoms has been elected Governor-elect of Georgia becoming the state's first black governor",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/keisha-lance-bottoms-becomes-georgias-first-black-governor?traffic_source=rss",
+   "date": "2026-11-04T05:07:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "684e77c87f9c",
+   "source": "The Guardian",
+   "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
+   "description": "Exclusive: Schools minister launches new Ukrainian GCSE and says she is sorry students were pushed to study Russian in its absence The UK has apologised to Ukrainian child refugees who were told to study Russian in English schools, as it launched funding for a new GCSE in Ukraini",
+   "url": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
+   "date": "2026-11-04T05:00:25+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a7de75c5c74a",
+   "source": "BBC Mundo",
+   "title": "Por qué (ahora sí) los demócratas lograron en Texas un triunfo trascendental tras décadas de derrotas",
+   "description": "La pelea por el Senado en Texas, y la contundente victoria demócrata, va mucho más allá del control del Congreso. Te explicamos los motivos.",
+   "url": "https://www.bbc.com/mundo/articles/cr2ke7qdk71eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T04:58:19+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "df683d85f668",
+   "source": "Al Jazeera",
+   "title": "Democrat Josh Turek flips Iowa Senate seat",
+   "description": "Turek beat Republican Ashley Hinson, a US House member.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
+   "date": "2026-11-04T04:55:10+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "92cb890d86be",
+   "source": "Al Jazeera",
+   "title": "Trump and Republicans trampled in the midterms",
+   "description": "Al Jazeera’s Alan Fisher says Republicans are facing a worse-than-expected midterm performance.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss",
+   "date": "2026-11-04T04:47:55+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "2c0b1f110901",
+   "source": "Deutsche Welle",
+   "title": "Trump afirma que aceptará la victoria demócrata en las elecciones",
+   "description": "El mandatario comentó que está dispuesto a \"trabajar\" con la nueva mayoría del Congreso.",
+   "url": "https://www.dw.com/es/trump-afirma-que-aceptará-la-victoria-demócrata-en-las-elecciones/a-79849781?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-04T04:47:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "ff19132a3dfe",
+   "source": "France 24",
+   "title": "Los demócratas arrasan en estados claves y despojan a los republicanos del control del Senado",
+   "description": "",
+   "url": "https://www.france24.com/es/especial/elecciones/midterms-ee-uu/mapa-de-resultados-2026",
+   "date": "2026-11-04T04:41:14+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "da825b3a5280",
+   "source": "Al Jazeera",
+   "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
+   "description": "Indirect talks continue as Trump says US military struck an Iranian anti-aircraft facility on Tuesday.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
+   "date": "2026-11-04T04:39:31+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
   {
    "id": "40ad5b17ba2c",
    "source": "The Guardian",
@@ -12,29 +132,39 @@
    "type": "Prensa"
   },
   {
-   "id": "ff19132a3dfe",
-   "source": "France 24",
-   "title": "Midterms: Kansas se une a la gesta de los demócratas en el Senado",
-   "description": "",
-   "url": "https://www.france24.com/es/especial/elecciones/midterms-ee-uu/mapa-de-resultados-2026",
-   "date": "2026-11-04T04:32:10+00:00",
-   "category": "Congreso Nacional",
+   "id": "6997fcf99d62",
+   "source": "Al Jazeera",
+   "title": "Kansas elects first Democratic senator in almost a century",
+   "description": "Adam Hamilton beat Republican Roger Marshall in a highly competitive race.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss",
+   "date": "2026-11-04T04:37:12+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
-   "id": "b554237b0250",
-   "source": "BBC Mundo",
-   "title": "Elecciones en EE.UU.: los demócratas recuperan la Cámara y apuntan a ganar el Senado en una noche triunfal para los rivales de Trump",
-   "description": "Estados Unidos elige a los miembros de toda la Cámara de Representantes y a un tercio del Senado en unas elecciones que marcarán los dos últimos años de mandato del presidente Donald Trump.",
-   "url": "https://www.bbc.com/mundo/articles/cv62y9278jz0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-04T04:29:54+00:00",
+   "id": "19025bbf39b4",
+   "source": "Al Jazeera",
+   "title": "Democratic Party flips US Senate in 2026 midterm elections",
+   "description": "The outcome is widely seen as a rebuke to Trump's Republican Party, which won control of the chamber in 2024.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
+   "date": "2026-11-04T04:37:05+00:00",
    "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "d2882cde3f49",
+   "source": "Al Jazeera",
+   "title": "Democrat Amy Acton beats Republican Vivek Ramaswamy in Ohio governor’s race",
+   "description": "Acton is the first Democrat to become governor of Ohio since 2006.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race?traffic_source=rss",
+   "date": "2026-11-04T04:25:54+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
    "id": "c3aacb89adde",
    "source": "BBC Mundo",
-   "title": "\"Terremoto electoral\" en Texas: quién es James Talarico, el primer demócrata que gana un lugar en el Senado de EE.UU. desde 1988",
+   "title": "\"Terremoto electoral\" en Texas: quién es James Talarico, el primer demócrata en ganar un lugar en el Senado de EE.UU. desde 1988",
    "description": "El valor simbólico de su triunfo, al ocurrir en uno de los bastiones del Partido Republicano, va más allá de estas elecciones.",
    "url": "https://www.bbc.com/mundo/articles/cwg7xk8ljmdyo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-04T04:19:23+00:00",
@@ -45,7 +175,7 @@
    "id": "738887c5efdc",
    "source": "Al Jazeera",
    "title": "Sherrod Brown, an Ohio Democrat, wins return to US Senate",
-   "description": "More than $450m was spent on the contest, making it one of the most expensive elections this cycle.",
+   "description": "More than $500m was spent on the contest, making it one of the most expensive Senate races in US history.",
    "url": "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss",
    "date": "2026-11-04T04:19:14+00:00",
    "category": "Oriente Medio",
@@ -65,7 +195,7 @@
    "id": "1596509c1dc9",
    "source": "Al Jazeera",
    "title": "Talarico wins Texas Senate race, ending decades of Republican dominance",
-   "description": "This is a breaking news story.",
+   "description": "Democrats celebrate Talarico and Hinojosa's victories, redefining Texas politics after decades of Republican reign.",
    "url": "https://www.aljazeera.com/news/2026/11/4/talarico-wins-texas-senate-race-ending-decades-of-republican-dominance?traffic_source=rss",
    "date": "2026-11-04T04:03:41+00:00",
    "category": "Oriente Medio",
@@ -234,8 +364,8 @@
   {
    "id": "58f02470a991",
    "source": "Al Jazeera",
-   "title": "Keisha Lance Bottoms makes history as Georgia’s first Black woman governor",
-   "description": "Bottoms, a former adviser to ex-President Joe Biden, beat Republican Rick Jackson.",
+   "title": "Keisha Lance Bottoms makes history as first Black woman elected US governor",
+   "description": "Bottoms, a former adviser to former President Joe Biden, beat Republican Rick Jackson to win the Georgia governor's race",
    "url": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss",
    "date": "2026-11-04T02:25:51+00:00",
    "category": "Oriente Medio",
@@ -542,16 +672,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1cdbb72cbcc6",
-   "source": "Al Jazeera",
-   "title": "US Department of Justice expands its probe into Alaska’s US Senate election",
-   "description": "The Trump administration is doubling down on allegations Democrats stood up a 'spoiler' candidate against Republicans.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss",
-   "date": "2026-11-04T00:33:57+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "8c935c4144ae",
    "source": "Radio Cooperativa",
    "title": "Organizaciones feministas exigieron la renuncia del ministro Rabat frente a La Moneda",
@@ -592,26 +712,6 @@
    "type": "Prensa"
   },
   {
-   "id": "88ddffd17599",
-   "source": "Al Jazeera",
-   "title": "Stevie Wonder endorses Abdul El-Sayed",
-   "description": "American singer Stevie Wonder has delivered a last minute endorsement of Democrat Abdul El-Sayed for the US Senate.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/stevie-wonder-endorses-abdul-el-sayed?traffic_source=rss",
-   "date": "2026-11-04T00:13:41+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "625fe1b27609",
-   "source": "Al Jazeera",
-   "title": "Ballot scanner glitch disrupts voting in New York",
-   "description": "There have been voting machine scanner failures at polling sites 50 km north of New York City",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss",
-   "date": "2026-11-04T00:08:02+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "93196a544830",
    "source": "Radio Cooperativa",
    "title": "El viral mensaje de Marcelo Ríos en redes: \"Quién es Alexítico\"",
@@ -632,16 +732,6 @@
    "type": "Prensa"
   },
   {
-   "id": "dc397034e82a",
-   "source": "Al Jazeera",
-   "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
-   "description": "Iran says a 'maximum deterrence' plan is ready against any new US attack, warning of an immediate response.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
-   "date": "2026-11-04T00:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "f7217221a415",
    "source": "Deutsche Welle",
    "title": "Ministro de Transportes de España dimite tras tragedia ferroviaria",
@@ -649,16 +739,6 @@
    "url": "https://www.dw.com/es/ministro-de-transportes-de-españa-dimite-tras-tragedia-ferroviaria/a-79848891?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-03T23:51:00+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "f0139d3eeb7c",
-   "source": "Al Jazeera",
-   "title": "Where have there been technical issues so far during US midterm elections?",
-   "description": "Some polling stations have experienced vote-delaying issues that officials describe as being minor.",
-   "url": "https://www.aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss",
-   "date": "2026-11-03T23:42:36+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -672,13 +752,13 @@
    "type": "Prensa"
   },
   {
-   "id": "4c61ab8e23ff",
+   "id": "c6f8984451aa",
    "source": "Deutsche Welle",
-   "title": "Demócratas arrebatan a los republicanos el control de la Cámara de Representantes, según proyecciones",
+   "title": "Los demócratas ganan el Senado de Estados Unidos y ponen fin al dominio republicano",
    "description": "Las elecciones que definirán la segunda parte del mandato de Donald Trump son también relevantes para el resto del planeta. Acá les contamos todos los detalles de esta jornada.",
-   "url": "https://www.dw.com/es/demócratas-arrebatan-a-los-republicanos-el-control-de-la-cámara-de-representantes-según-proyecciones/live-79845739?maca=spa-rss-sp-all-1122-xml-mrss",
+   "url": "https://www.dw.com/es/los-demócratas-ganan-el-senado-de-estados-unidos-y-ponen-fin-al-dominio-republicano/live-79845739?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-03T23:32:00+00:00",
-   "category": "Elecciones",
+   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -699,16 +779,6 @@
    "url": "https://www.ex-ante.cl/politica/kast-cambio-de-gabinete-proxima-semana/",
    "date": "2026-11-03T23:17:56+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "a8d99cf0c096",
-   "source": "Al Jazeera",
-   "title": "First polls close in pivotal US midterm elections",
-   "description": "With control of the US Congress on the line, results from Tuesday's races will have marked implications for the country.",
-   "url": "https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss",
-   "date": "2026-11-03T23:03:42+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -799,26 +869,6 @@
    "url": "https://www.ex-ante.cl/internacional/claves-para-entender-elecciones-eeuu/",
    "date": "2026-11-03T22:37:49+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "ac7ca5c01dd9",
-   "source": "Al Jazeera",
-   "title": "US midterm election results live: Democrats win Senate seats in Texas, SC",
-   "description": "Results are coming in from across the US as polls close in the midterm elections, with control of Congress at stake.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
-   "date": "2026-11-03T22:30:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "e08605b8da83",
-   "source": "Al Jazeera",
-   "title": "Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa",
-   "description": "Barca took early lead through Lamine Yamal before Raphinha continued fine goal-scoring form with a second-half brace.",
-   "url": "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss",
-   "date": "2026-11-03T22:19:13+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1062,16 +1112,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f80969821508",
-   "source": "France 24",
-   "title": "Netanyahu, El-Sayed y las midterms: ¿por qué Trump anuncia un corte de ayuda a Israel?",
-   "description": "",
-   "url": "https://www.france24.com/es/medio-oriente/20261103-netanyahu-el-sayed-y-las-midterms-por-qu%C3%A9-trump-anuncia-un-corte-de-ayuda-a-israel",
-   "date": "2026-11-03T19:32:16+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "cdaaa72651b2",
    "source": "Deutsche Welle",
    "title": "Zelenski rechaza hablar por teléfono o reunirse con Putin en Moscú o Kiev",
@@ -1079,16 +1119,6 @@
    "url": "https://www.dw.com/es/zelenski-rechaza-hablar-por-teléfono-o-reunirse-con-putin-en-moscú-o-kiev/a-79846820?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-03T19:22:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "b7aefbe11044",
-   "source": "France 24",
-   "title": "‘MADA’: “hacer a Estados Unidos democrático otra vez”, así cubre ‘Libération’ las Midterms",
-   "description": "Este 3 de noviembre es el día de las elecciones de medio mandato en Estados Unidos, unos comicios que definirán la nueva composición del Senado y la Cámara de Representantes, y que servirán como un referendo sobre lo que ha sido hasta ahora la segunda Administración de Donald Tru",
-   "url": "https://www.france24.com/es/programas/revista-de-prensa/20261103-mada-hacer-a-estados-unidos-democr%C3%A1tico-otra-vez-as%C3%AD-cubre-lib%C3%A9ration-las-midterms",
-   "date": "2026-11-03T18:52:04+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1142,32 +1172,12 @@
    "type": "Prensa"
   },
   {
-   "id": "a775d41d6143",
-   "source": "Deutsche Welle",
-   "title": "España reducirá las frecuencias de trenes y reforzará la seguridad tras el accidente",
-   "description": "El Gobierno español reducirá temporalmente las frecuencias de la línea Madrid-Sevilla y revisará los sistemas de seguridad. También aprobó 30 millones de euros en ayudas para las víctimas y sus familiares.",
-   "url": "https://www.dw.com/es/españa-reducirá-las-frecuencias-de-trenes-y-reforzará-la-seguridad-tras-el-accidente/a-79845933?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-03T17:42:00+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "112926a30192",
    "source": "The Guardian",
    "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
    "description": "Unclear if series of incidents affecting two UK departures and several Ryanair services, among others, were connected Seven planes across Europe have been searched or diverted after a series of bomb threats were made to passenger flights, prompting questions as to whether there w",
    "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
    "date": "2026-11-03T17:32:45+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "26d5ee906c13",
-   "source": "The Guardian",
-   "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
-   "description": "Cybersecurity experts say national impact ‘minimal’ but incidents may represent the ‘foothills’ of a wider threat Food suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe. The UK’s National Cyber Security ",
-   "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
-   "date": "2026-11-03T17:28:49+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -1279,16 +1289,6 @@
    "url": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
    "date": "2026-11-03T13:00:07+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "a7de75c5c74a",
-   "source": "BBC Mundo",
-   "title": "Por qué (ahora sí) los demócratas pueden lograr en Texas un triunfo trascendental tras décadas de derrotas",
-   "description": "La pelea por el Senado en Texas va mucho más allá del control del Congreso. Te explicamos los motivos.",
-   "url": "https://www.bbc.com/mundo/articles/cr2ke7qdk71eo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-03T12:40:18+00:00",
-   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
