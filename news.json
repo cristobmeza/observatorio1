@@ -1,14 +1,424 @@
 {
- "updated": "2026-11-04T11:01:54.299637+00:00",
+ "updated": "2026-11-04T12:51:33.182351+00:00",
  "items": [
   {
-   "id": "ac2f631cffb4",
+   "id": "f1f0f38b01bd",
+   "source": "The Guardian",
+   "title": "Louise Haigh and deputy Conservative leader Alex Burghart clash over welfare spending at PMQS – UK politics live",
+   "description": "The first secretary of state says the government will bring welfare spending down Louise Haigh starts by saying she is standing in for Andy Burnham. She says this weekend the whole country will fall silent to mark Remembrance Sunday. Continue reading...",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
+   "date": "2026-11-04T12:43:48+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "9a2e81f28004",
    "source": "Radio Cooperativa",
-   "title": "Caos financiero en Paraguay por cierre del popular Ueno Bank",
-   "description": "El presidente del Banco Central del Paraguay (BCP), Carlos Carvallo, renunció a su cargo, en medio del escándalo por la intervención por problemas de solvencia de Ueno Bank , cuya crisis afecta a miles de ahorristas y amenaza con extenderse al sector público e incluso al deporte.",
-   "url": "https://www.cooperativa.cl/noticias/mundo/paraguay/caos-financiero-en-paraguay-por-cierre-del-popular-ueno-bank/2026-11-04/075315.html",
-   "date": "2026-11-04T10:53:15+00:00",
-   "category": "Política monetaria",
+   "title": "Real Madrid propondrá a Rafael Nadal como miembro de la Junta Directiva",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El exnúmero uno del tenis mundial Rafael Nadal será propuesto como miembro de la Junta Directiva de Real Madrid el próximo sábado 21 de noviembre , nombramiento que deberá aprobar la Asamblea General de Socios Compromisario",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/real-madrid/real-madrid-propondra-a-rafael-nadal-como-miembro-de-la-junta-directiva/2026-11-04/093809.html",
+   "date": "2026-11-04T12:38:09+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "5bfc1ab485d3",
+   "source": "The Guardian",
+   "title": "M&S boss bemoans last week’s budget as ‘whole lot of nothing’",
+   "description": "Stuart Machin hits out at Labour but welcomes expected UK-EU food deal as retailer reveals half-year results The chief executive of Marks & Spencer has called John Healey’s first budget as chancellor a “whole lot of nothing” and bemoaned an “onslaught of taxation and regulation” ",
+   "url": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
+   "date": "2026-11-04T12:34:30+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "2d0afeb4320d",
+   "source": "The Guardian",
+   "title": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
+   "description": "European Commission will hold talks with the US, France, Germany, Britain, Nato, and the World Bank Meanwhile, the Kremlin said that ⁠it ​hopes that the ⁠results of the US ⁠midterm ​elections ‌will not impact ‌what it ‌said were president Donald Trump’s “peacemaking efforts\" on U",
+   "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
+   "date": "2026-11-04T12:33:01+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "e14bcb80a382",
+   "source": "Deutsche Welle",
+   "title": "El ministro español de Economía asume Transportes tras grave accidente de trenes",
+   "description": "El presidente del gobierno español, Pedro Sánchez, promete seguir asistiendo a las víctimas de la tragedia ferroviaria, al anunciar que el ministro de Economía asumirá también Transportes, tras la renuncia del titular.",
+   "url": "https://www.dw.com/es/el-ministro-español-de-economía-asume-transportes-tras-grave-accidente-de-trenes/a-79853307?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-04T12:24:00+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "22c082a9f714",
+   "source": "Al Jazeera",
+   "title": "America is heading for two years of constitutional brinkmanship",
+   "description": "An unlikely mix of political bargains and constitutional confrontation will define the next two years.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/4/america-is-heading-for-two-years-of-constitutional-brinkmanship?traffic_source=rss",
+   "date": "2026-11-04T12:22:55+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a2298572b9b1",
+   "source": "Deutsche Welle",
+   "title": "Tenerife rendirá homenaje al fallecido Jesús de Miguel",
+   "description": "El club decretó seis días de luto oficial mientras Messi, Cristiano Ronaldo y Mbappé se conduelen por la trágica muerte del delantero.",
+   "url": "https://www.dw.com/es/tenerife-rendirá-homenaje-al-fallecido-jesús-de-miguel/a-79854139?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-04T12:21:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "f63d1c9303d4",
+   "source": "The Guardian",
+   "title": "Israel’s election commission rejects Netanyahu claims of voting fraud",
+   "description": "Move comes after attorney general blocked Shin Bet call to interrogate politicians from Palestinian-led parties Israel’s election commission on Wednesday confirmed the final results of the 27 October vote that stripped Benjamin Netanyahu’s far-right coalition of their governing m",
+   "url": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
+   "date": "2026-11-04T12:19:18+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "07368f4399c3",
+   "source": "France 24",
+   "title": "De bastiones republicanos en el Senado a gobernaciones: las victorias históricas para los demócratas en las midterms",
+   "description": "Los demócratas han firmado una serie de triunfos que trascienden el cambio de mayorías en el Congreso y dibujan un nuevo escenario político en Estados Unidos. Desde la conquista de Texas, uno de los grandes bastiones republicanos, hasta la derrota de Susan Collins en Maine y la l",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261104-de-bastiones-republicanos-en-el-senado-a-gobernaciones-las-victorias-hist%C3%B3ricas-para-los-dem%C3%B3cratas-en-las-midterms",
+   "date": "2026-11-04T12:18:16+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "4a06ede29673",
+   "source": "Radio Cooperativa",
+   "title": "La reflexión de Valdano tras la muerte de Jesús de Miguel: \"Es suficiente con una víctima\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La trágica muerte del delantero español Jesús de Miguel, producto de un choque en pleno partido entre CD Tenerife y FC Andorra, continúa generando profundas reflexiones en el balompié internacional. Una de las voces más sen",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-espanola/la-reflexion-de-valdano-tras-la-muerte-de-jesus-de-miguel-es/2026-11-04/091621.html",
+   "date": "2026-11-04T12:16:21+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "e6753427570d",
+   "source": "The Guardian",
+   "title": "UK to deploy facial recognition in biggest-ever immigration crackdown",
+   "description": "Documents show Home Office developing programme to use technology for general immigration enforcement The Home Office is preparing to deploy facial recognition technology at transport hubs and public events as part of the biggest immigration enforcement crackdown in British histo",
+   "url": "https://www.theguardian.com/technology/2026/nov/04/uk-deploy-facial-recognition-biggest-ever-immigration-crackdown",
+   "date": "2026-11-04T12:15:31+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d2395e190596",
+   "source": "Radio Cooperativa",
+   "title": "La premiación 100 Líderes Mayores 2026 en imágenes",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/poblacion/adulto-mayor/la-premiacion-100-lideres-mayores-2026-en-imagenes/2026-11-04/091013.html",
+   "date": "2026-11-04T12:10:13+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "0d12d839cb14",
+   "source": "Al Jazeera",
+   "title": "Musk makes light of defeats after record spend on Republican candidates",
+   "description": "Tesla and SpaceX founder Elon Musk is the world's richest man and the largest individual donor in the US midterms.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/musk-makes-light-of-defeats-after-record-spend-on-republican-candidates?traffic_source=rss",
+   "date": "2026-11-04T12:09:42+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "d16317f71f9f",
+   "source": "Radio Cooperativa",
+   "title": "Pancho Saavedra analizó la salida de Pedro Ruminot del proyecto \"Socios\": \"Él tiene sus razones\"",
+   "description": "El animador Pancho Saavedra habló por primera vez de la salida de Pedro Ruminot del proyecto \"Socios\" de Canal 13. Hace unos días el comediante comunicó que no seguiría en el programa por motivos relacionados a su familia, su carrera humorística e incluso su salud, señalando que ",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/pancho-saavedra-analizo-la-salida-de-pedro-ruminot-del-proyecto/2026-11-04/090504.html",
+   "date": "2026-11-04T12:05:04+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "2eb9115e966a",
+   "source": "The Guardian",
+   "title": "More than 900 academics urge UK to reverse decision to bar Andreas Malm",
+   "description": "Blocking Swedish writer’s entry for event with Palestine Action co-founder is attack on free expression, letter says More than 900 academics have voiced their opposition to the government’s decision to block the climate academic Andreas Malm from entering the UK, warning that the",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/04/andreas-malm-academics-letter-uk-reverse-entry-bar",
+   "date": "2026-11-04T12:00:10+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "bb12942b11c0",
+   "source": "The Guardian",
+   "title": "BMW warns on profits as it counts cost of plan for 8,000 job cuts",
+   "description": "German carmaker slashes profit margin to between -0.5% and 0.5% this year in face of competition from China The German carmaker BMW has issued its second profit warning in a year, blaming the costs of a restructuring programme including significant job losses in the face of conti",
+   "url": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts",
+   "date": "2026-11-04T11:58:19+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "4607824a0c19",
+   "source": "Radio Cooperativa",
+   "title": "Los hitos electorales: De El-Sayed, primer senador musulmán, al giro en Texas con Hinojosa",
+   "description": "Las elecciones de medio mandato de Estados Unidos (EE.UU.) han resultado históricas no solo por la victoria demócrata en ambas cámaras del Congreso , sino por una sucesión de primeras veces y de logros de las minorías por todo el país, que contará de manera inédita con un senador",
+   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/los-hitos-electorales-de-el-sayed-primer-senador-musulman-al-giro-en/2026-11-04/085806.html",
+   "date": "2026-11-04T11:58:06+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "5b7e6522baee",
+   "source": "The Guardian",
+   "title": "Firework noise limit should be drastically cut to protect wild animals, UK government told",
+   "description": "Ministers urged to go further than proposed cut to 110 decibels to ease acute stress on birds and others animals Campaigners are calling on the UK government to protect the welfare of wild animals by cutting the maximum noise level of fireworks sold to the public from 120 to 90 d",
+   "url": "https://www.theguardian.com/environment/2026/nov/04/firework-noise-limit-protect-wild-animals-bonfire-night",
+   "date": "2026-11-04T11:47:33+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c759c34bae0e",
+   "source": "Al Jazeera",
+   "title": "‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history",
+   "description": "The 42-year-old Democrat has defeated Republican Mike Rogers to become the first Muslim senator in the US.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/call-me-senator-how-abdul-el-sayed-beat-trumps-hate-to-create-history?traffic_source=rss",
+   "date": "2026-11-04T11:46:46+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "f1ea3b9b884a",
+   "source": "France 24",
+   "title": "Giro azul en el Senado: ¿un referéndum para Donald Trump?",
+   "description": "Seis escaños en el Senado y más de una docena en la Cámara de Representantes han pasado a manos de los demócratas en las midterms. Texas , Kansas y Carolina del Sur eligieron senadores demócratas por primera vez en décadas. ¿Es la ola azul un referéndum para el presidente Donald ",
+   "url": "https://www.france24.com/es/video/20261104-giro-azul-en-el-senado-un-refer%C3%A9ndum-para-donald-trump",
+   "date": "2026-11-04T11:43:52+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "55ee4d611b24",
+   "source": "France 24",
+   "title": "Trump pierde el control del Congreso: ¿Es un voto castigo a los republicanos?",
+   "description": "La contundente victoria demócrata en las elecciones de medio término, que permitirá a la bancada azul recuperar el control tanto de la Cámara de Representantes como del Senado, abre una nueva etapa de confrontación política para Donald Trump. ¿Es un voto castigo para los republic",
+   "url": "https://www.france24.com/es/video/20261104-trump-pierde-el-control-del-congreso-es-un-voto-castigo-a-los-republicanos",
+   "date": "2026-11-04T11:43:11+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "257bd1ffa606",
+   "source": "France 24",
+   "title": "Netanyahu, vinculado en Israel a la derrota de Trump, con Irán, Gaza y la ayuda militar de fondo",
+   "description": "El avance del Partido Demócrata en las midterms de Estados Unidos se ve en Israel como una \"segunda derrota del primer ministro, Benjamin Netanyahu, en solo una semana\". Además que Estados Unidos ha ganado un escepticismo que profundiza la preocupación de cómo van a seguir las re",
+   "url": "https://www.france24.com/es/video/20261104-netanyahu-vinculado-en-israel-a-la-derrota-de-trump-con-ir%C3%A1n-gaza-y-la-ayuda-militar-de-fondo",
+   "date": "2026-11-04T11:42:52+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "7cf80e7c5dd8",
+   "source": "France 24",
+   "title": "Histórico triunfo demócrata en Texas: Talarico gana escaño en Senado e Hinojosa en Gobernación",
+   "description": "James Talarico, el pastor que se convirtió en una de las figuras de estas elecciones, ganó la contienda contra el republicano Ken Paxton por el escaño en el Senado de Texas. Este estado no elegía a un senador demócrata desde 1988. Además, Gina Hinojosa se convertirá en la primera",
+   "url": "https://www.france24.com/es/video/20261104-hist%C3%B3rico-triunfo-dem%C3%B3crata-en-texas-talarico-gana-esca%C3%B1o-en-senado-e-hinojosa-en-gobernaci%C3%B3n",
+   "date": "2026-11-04T11:42:28+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "b4355cb65bf9",
+   "source": "France 24",
+   "title": "Informe desde Washington: las reacciones a la victoria demócrata en las midterms",
+   "description": "El duro revés para el presidente Donald Trump tras las elecciones de medio mandato del 3 de noviembre ya ha despertado reacciones en Estados Unidos. Desde el mismo presidente Trump, pasando por el exlíder Barack Obama, hasta el multimillonaro Elon Musk. Nuestro corresponsal, Cris",
+   "url": "https://www.france24.com/es/video/20261104-informe-desde-washington-las-reacciones-a-la-victoria-dem%C3%B3crata-en-las-midterms",
+   "date": "2026-11-04T11:42:06+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "357805590c6e",
+   "source": "France 24",
+   "title": "La carrera por la sucesión de Trump comienza a tomar forma en Estados Unidos",
+   "description": "La carrera por las elecciones presidenciales de 2028 en Estados Unidos ya comenzó. Tras el triunfo de los demócratas en las midterms, el partido gana impulso, mientras que los republicanos deberán replantear su estrategia. Ahora, ambas colectividades empiezan a barajar posibles c",
+   "url": "https://www.france24.com/es/video/20261104-la-carrera-por-la-sucesi%C3%B3n-de-trump-comienza-a-tomar-forma-en-estados-unidos",
+   "date": "2026-11-04T11:41:43+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "f5f0ab5bb01c",
+   "source": "Radio Cooperativa",
+   "title": "\"Yo no estaba en el voto\", Donald Trump se vuelca molesto a las redes",
+   "description": "En su red social Truth Social, el presidente de EE.UU., Donald Trump, lanzó varios comentarios que dan cuenta de su molestia tras el \"tsunami azul\" que terminó con la oposición demócrata controlando las dos cámaras del Congreso en las elecciones de medio mandato. \"Yo no estaba en",
+   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/yo-no-estaba-en-el-voto-donald-trump-se-vuelca-molesto-a-las-redes/2026-11-04/084040.html",
+   "date": "2026-11-04T11:40:40+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "9ebba89ca834",
+   "source": "France 24",
+   "title": "Los demócratas conquistan el Congreso y dejan a Trump contra las cuerdas: así cambia el poder en Washington",
+   "description": "El Partido Demócrata protagoniza una contundente victoria en las elecciones de medio término de Estados Unidos y arrebata a los republicanos el control de las dos cámaras del Congreso, lo que supone un severo revés para Donald Trump a mitad de su segundo mandato. La bancada azul ",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261104-los-dem%C3%B3cratas-conquistan-el-congreso-y-dejan-a-trump-contra-las-cuerdas-as%C3%AD-cambia-el-poder-en-washington",
+   "date": "2026-11-04T11:39:03+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "8b370168111f",
+   "source": "Radio Cooperativa",
+   "title": "DT del Dortmund se rindió ante Pellegrini: \"Es un caballero y seguir a los 73 años es todo un logro\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Un exigente e histórico desafío afrontará este miércoles el Real Betis de Manuel Pellegrini, elenco que visitará a Borussia Dortmund en Alemania por la cuarta fecha de la fase de liga de la Champions League, certamen donde ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/dt-del-dortmund-se-rindio-ante-pellegrini-es-un-caballero-y-seguir-a/2026-11-04/083849.html",
+   "date": "2026-11-04T11:38:49+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "f036b959fd9f",
+   "source": "Radio Cooperativa",
+   "title": "Frutas de Chile advirtió \"gigantesca disrupción\" por paro de camioneros en San Antonio",
+   "description": "En entrevista con El Diario de Cooperativa , el presidente de Frutas de Chile, Iván Marambio , advirtió sobre el impacto que está generando la paralización de camioneros independientes en los depósitos extraportuarios de San Antonio , especialmente en plena antesala de la tempora",
+   "url": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/agricultura/frutas-de-chile-advirtio-gigantesca-disrupcion-por-paro-de-camioneros/2026-11-04/083544.html",
+   "date": "2026-11-04T11:35:44+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "170fc0a40eb5",
+   "source": "Al Jazeera",
+   "title": "‘Seismic shift’: World reacts to US midterm election results",
+   "description": "Iran's top negotiator says US voters sent a “NO TO WAR” message, as Trump's Democratic opponents take Congress.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
+   "date": "2026-11-04T11:24:50+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "c167ead1077a",
+   "source": "Radio Cooperativa",
+   "title": "Bolsas europeas abren al alza tras triunfo demócrata en EE.UU.",
+   "description": "Las bolsas europeas abrieron este miércoles con ganancias generalizadas , mientras el mercado analiza la victoria del Partido Demócrata en las elecciones legislativas de medio mandato en Estados Unidos , lo que ha supuesto la pérdida de control de las dos Cámaras por parte del pr",
+   "url": "https://www.cooperativa.cl/noticias/economia/bolsas/bolsas-europeas-abren-al-alza-tras-triunfo-democrata-en-ee-uu/2026-11-04/081741.html",
+   "date": "2026-11-04T11:17:41+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "d9e177c3316a",
+   "source": "Radio Cooperativa",
+   "title": "Insólito: Maripán fue expulsado desde la banca en agónico triunfo de Inter de Porto Alegre",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Un tenso episodio vivió el defensor chileno Guillermo Maripán en la agónica victoria por 1-0 de Sport Club Internacional frente a Coritiba en el Estadio Beira Rio, en el marco de la fecha 34 del Brasileirão 2026. El zaguero",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-brasilena/insolito-maripan-fue-expulsado-desde-la-banca-en-agonico-triunfo-de/2026-11-04/081708.html",
+   "date": "2026-11-04T11:17:08+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "c0dccba2d0c2",
+   "source": "Al Jazeera",
+   "title": "Why Democrats may struggle to rein in Trump’s foreign policy",
+   "description": "US President Donald Trump's foreign policy agenda faces new constraints after midterm losses.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss",
+   "date": "2026-11-04T11:16:40+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "5d59afb7fcdd",
+   "source": "Al Jazeera",
+   "title": "Voters honour Renee Good and Alex Pretti at Minnesota memorials",
+   "description": "Voters honour Renee Good and Alex Pretti at Minnesota memorials",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/voters-honour-renee-good-and-alex-pretti-at-minnesota-memorials?traffic_source=rss",
+   "date": "2026-11-04T11:12:58+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "11bb7ef795e5",
+   "source": "The Guardian",
+   "title": "Woman charged over alleged stalking and attempted extortion of Greens senator Jordon Steele-John",
+   "description": "Exclusive: Police will allege the woman, 40, is the former partner of Steele-John and she is expected to face court in Perth on Thursday A 40-year-old woman has been arrested and charged by Western Australian police for allegedly stalking and attempting to extort the Greens senat",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/04/jordon-steele-john-woman-charged-alleged-stalking-attempted-extortion-greens-senator-court-ntwnfb",
+   "date": "2026-11-04T11:07:10+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "5bc6490182c8",
+   "source": "Radio Cooperativa",
+   "title": "El papa recibió a Kast en audiencia privada en el Vaticano",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/el-papa-recibio-a-kast-en-audiencia-privada-en-el-vaticano/2026-11-04/080502.html",
+   "date": "2026-11-04T11:05:02+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9310a3599dc2",
+   "source": "Al Jazeera",
+   "title": "Can Russia compete with the US, China and the EU in Africa?",
+   "description": "Moscow pledges more trade and investment in Africa, where leaders want local industries, technology and jobs.",
+   "url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/4/can-russia-compete-with-the-us-china-and-the-eu-in-africa?traffic_source=rss",
+   "date": "2026-11-04T11:03:33+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "b12e9e5c2a5a",
+   "source": "Radio Cooperativa",
+   "title": "Delincuente se tiró al Río Mapocho tras robar teléfono en Providencia",
+   "description": "Un delincuente se lanzó al Río Mapocho luego de haber asaltado a una mujer y ser perseguido por personal municipal hasta el sector de Avenida Pedro de Valdivia; fue detenido posteriormente a la altura de la Estación Mapocho , en Santiago. De acuerdo a información policial, se tra",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/robos/delincuente-se-tiro-al-rio-mapocho-tras-robar-telefono-en-providencia/2026-11-04/080022.html",
+   "date": "2026-11-04T11:00:22+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "5cb6c620df4c",
+   "source": "Al Jazeera",
+   "title": "‘I will not delete my posts’: Inside Uganda’s crackdown on online critics",
+   "description": "Uganda’s online critics allege abductions and intimidation as families search for missing relatives.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/i-will-not-delete-my-posts-inside-ugandas-crackdown-on-online-critics?traffic_source=rss",
+   "date": "2026-11-04T10:59:31+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ba09f326590e",
+   "source": "The Guardian",
+   "title": "‘The point was to dehumanise’: London Holocaust archive examines world’s first ‘viral’ antisemitism scandal",
+   "description": "Dreyfus affair has echoes of how anti-Jewish hatred manifests itself today, say curators at Weiner Library It was the world’s first experience of antisemitism “gone viral”, said Barbara Warnock, a co-director of the oldest Holocaust archive, the Wiener Holocaust Library in London",
+   "url": "https://www.theguardian.com/news/2026/nov/04/london-wiener-holocaust-library-dreyfus-affair-antisemitism",
+   "date": "2026-11-04T10:58:48+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "437c40a26c72",
+   "source": "Radio Cooperativa",
+   "title": "Detuvieron a trabajador del aeropuerto por dar gomitas con droga a sus compañeros",
+   "description": "Carabineros detuvo a un hombre que habría entregado gomitas con droga a siete compañeros de trabajo en el sector de carga del Aeropuerto de Santiago, quienes resultaron intoxicados . Según los antecedentes preliminares, los afectados consumieron los dulces durante su jornada labo",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/drogas/detuvieron-a-trabajador-del-aeropuerto-por-dar-gomitas-con-droga-a-sus/2026-11-04/075756.html",
+   "date": "2026-11-04T10:57:56+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9d541dae858d",
+   "source": "Radio Bío-Bío",
+   "title": "Formalizado y sin cautelares queda ejecutivo que atropelló y dejó a joven con 70% de discapacidad",
+   "description": "Fue finalmente formalizado el conductor de una camioneta que hace dos años atropelló a un joven universitario en Penco, región del Bío Bío, quien quedó con un 70% de discapacidad. El imputado había evitado en varias ocasiones la audiencia y sólo fue luego de su detención en el Ae",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/04/formalizado-y-sin-cautelares-queda-ejecutivo-que-atropello-y-dejo-a-joven-con-70-de-discapacidad.shtml",
+   "date": "2026-11-04T10:54:12+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -22,9 +432,19 @@
    "type": "Prensa"
   },
   {
+   "id": "fd40884265b3",
+   "source": "Radio Bío-Bío",
+   "title": "\"El más brígido\": La extraña publicación de Marcelo Ríos sobre Leo Rey, su bailarina y Alexítico",
+   "description": "Marcelo Ríos volvió a llamar la atención en redes sociales, esta vez por una particular publicación en la que se involucró en la polémica que protagonizan Leo Rey y Alexítico, exintegrantes del grupo La Noche. El extenista y otrora número uno del mundo compartió una fotografía de",
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/04/el-mas-brigido-la-extrana-publicacion-de-marcelo-rios-sobre-leo-rey-su-bailarina-y-alexitico.shtml",
+   "date": "2026-11-04T10:47:05+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "e4c25083dfa1",
    "source": "Al Jazeera",
-   "title": "Houthis’ monthlong siege on Taiz creating hell for trapped Yemenis",
+   "title": "Houthis’ monthlong siege on Taiz creating misery for trapped Yemenis",
    "description": "Blockade prompts warnings of a 'catastrophe' as food, water, fuel and medical supplies are unable to reach city.",
    "url": "https://www.aljazeera.com/news/2026/11/4/houthis-one-month-siege-on-taiz-is-creating-hell-for-yemenis-stuck-there?traffic_source=rss",
    "date": "2026-11-04T10:44:46+00:00",
@@ -39,6 +459,16 @@
    "url": "https://www.aljazeera.com/video/doha-debates/2026/11/4/who-holds-the-power-today-governments-or-corporations?traffic_source=rss",
    "date": "2026-11-04T10:40:33+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "abb7cd6b3b13",
+   "source": "Radio Bío-Bío",
+   "title": "Un altar, flores y una ovación: la emotiva despedida de los hinchas de Tenerife a Jesús de Miguel",
+   "description": "La Puerta 9 del estadio Heliodoro Rodríguez López se convirtió en un altar improvisado en memoria del delantero Jesús de Miguel, donde cientos de aficionados dejaron flores, mensajes y recuerdos en una despedida marcada por la emoción y el silencio. Allí, entre muestras de cariño",
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/11/04/un-altar-flores-y-una-ovacion-la-emotiva-despedida-de-los-hinchas-de-tenerife-a-jesus-de-miguel.shtml",
+   "date": "2026-11-04T10:40:20+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -62,33 +492,13 @@
    "type": "Prensa"
   },
   {
-   "id": "f1f0f38b01bd",
-   "source": "The Guardian",
-   "title": "Miliband criticises Blair’s slavery statement and defends Burnham’s plan for proper apology – UK politics live",
-   "description": "The foreign secretary added that the UK will not shift its position on reparations It is not good to gloat – but it can be fun. Chris Bryant , the Northern Ireland secretary, has this morning reposted a video clip of Nigel Farage saying “I don’t go with the consensus that Trump i",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
-   "date": "2026-11-04T10:36:02+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "2d0afeb4320d",
-   "source": "The Guardian",
-   "title": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
-   "description": "European Commission will hold talks with the US, France, Germany, Britain, Nato, and the World Bank German defence minister Boris Pistorius has congratulated the US Democeats “from the bottom of his heart” on their win last night, Dlf reported. Deutsche Welle’s chief political co",
-   "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
-   "date": "2026-11-04T10:31:02+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "bdaecc996b38",
-   "source": "Radio Cooperativa",
-   "title": "Una histórica ola demócrata arrebata el Congreso a Trump y a los republicanos",
-   "description": "Una ola azul, el color de los demócratas, barrió este martes a los republicanos del control del Congreso de Estados Unidos y derribó bastiones conservadores como Texas , en un duro castigo al presidente, Donald Trump, que afrontará los últimos dos años de su mandato con una oposi",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/una-historica-ola-democrata-arrebata-el-congreso-a-trump-y-a-los/2026-11-04/072242.html",
-   "date": "2026-11-04T10:22:42+00:00",
-   "category": "Estados Unidos y Canadá",
+   "id": "3434a1cbd647",
+   "source": "Radio Bío-Bío",
+   "title": "Michigan elige a Abdul El-Sayed, primer senador musulmán en la historia de Estados Unidos",
+   "description": "Abdul El-Sayed, epidemiólogo de origen egipcio, fue elegido senador por Míchigan, convirtiéndose en el primer musulmán en alcanzar dicho cargo en la historia de Estados Unidos. Hasta el último día de campaña, fue blanco de los ataques islamófobos del presidente Donald Trump, quie",
+   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/04/michigan-elige-a-abdul-el-sayed-primer-senador-musulman-en-la-historia-de-estados-unidos.shtml",
+   "date": "2026-11-04T10:34:57+00:00",
+   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -122,6 +532,16 @@
    "type": "Prensa"
   },
   {
+   "id": "34afc2c55e79",
+   "source": "Radio Bío-Bío",
+   "title": "Detienen a trabajador del Aeropuerto de Santiago: regaló gomitas a compañeros y terminaron intoxicados",
+   "description": "Siete trabajadores del Aeropuerto de Santiago terminaron intoxicados tras recibir gomitas dulces que contendrían droga. Los dulces fueron entregados por un compañero, el que fue detenido. Todo ocurrió durante la tarde de este martes, en el sector de carga del recinto aeroportuari",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/04/detienen-a-trabajador-del-aeropuerto-de-santiago-regalo-gomitas-a-companeros-y-terminaron-intoxicados.shtml",
+   "date": "2026-11-04T10:18:56+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "171a602aa7fa",
    "source": "Al Jazeera",
    "title": "Photos: US Democrats celebrate winning control of Congress",
@@ -129,6 +549,16 @@
    "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-us-democrats-celebrate-winning-control-of-congress?traffic_source=rss",
    "date": "2026-11-04T10:18:10+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "cdb6b210c6e3",
+   "source": "Radio Bío-Bío",
+   "title": "Mariela Montero reveló difícil momento tras su separación y cómo encontró apoyo en la fe: \"Me quebré\"",
+   "description": "Mariela Montero abrió su corazón y recordó algunos de los episodios más difíciles de su vida, desde los obstáculos que enfrentó al emigrar a Estados Unidos hasta su separación matrimonial y la crisis personal que atravesó posteriormente. La artista argentina abordó estas experien",
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/04/mariela-montero-revelo-dificil-momento-tras-su-separacion-y-como-encontro-apoyo-en-la-fe-me-quebre.shtml",
+   "date": "2026-11-04T10:11:47+00:00",
+   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -172,6 +602,26 @@
    "type": "Prensa"
   },
   {
+   "id": "14226bd5dafa",
+   "source": "The Guardian",
+   "title": "‘A true icon of the hair industry’: celebrity hairstylist John Frieda dies aged 75",
+   "description": "Businessman styled stars such as Twiggy, Madonna and Joanna Lumley and created popular hair care line Frizz Ease John Frieda, the celebrity hairstylist who launched his own bestselling hair product range, has died aged 75. In an Instagram post, his salon wrote: “It is with heavy ",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/04/celebrity-hairstylist-john-frieda-dies-aged-75",
+   "date": "2026-11-04T09:59:08+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "f3f19eff3ca3",
+   "source": "Radio Bío-Bío",
+   "title": "Tsunami demócrata arrasa a los republicanos en el Congreso de EEUU y barre con la aspiración de Trump",
+   "description": "Una ola azul, el color de los demócratas, barrió este martes a los republicanos del control del Congreso de Estados Unidos y derribó bastiones conservadores como Texas, en un duro castigo al presidente, Donald Trump, que afrontará los últimos dos años de su mandato con una oposic",
+   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/04/historica-ola-democrata-arrebata-el-congreso-de-estados-unidos-a-trump-y-a-los-republicanos.shtml",
+   "date": "2026-11-04T09:58:32+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
    "id": "fb1065063c87",
    "source": "Al Jazeera",
    "title": "Syrians see Israel as biggest regional threat, followed by Iran: Survey",
@@ -179,6 +629,16 @@
    "url": "https://www.aljazeera.com/news/2026/11/4/syrians-see-israel-as-biggest-regional-threat-followed-by-iran-survey?traffic_source=rss",
    "date": "2026-11-04T09:51:33+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "c2ac0c512963",
+   "source": "Radio Bío-Bío",
+   "title": "Camila Nash respondió a Pancha Merino tras burlas por sus ojos en AR: \"Con el corazón de la Teletón\"",
+   "description": "Camila Nash volvió a arremeter contra Pancha Merino, esta vez a través de un video publicado en su cuenta de Instagram, donde acusó a la panelista de ‘Alfombra Roja’ de burlarse de ella y cuestionó duramente al programa de Canal 13. La exchica reality manifestó su molestia por lo",
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/04/camila-nash-respondio-a-pancha-merino-tras-burlas-por-sus-ojos-en-ar-con-el-corazon-de-la-teleton.shtml",
+   "date": "2026-11-04T09:48:33+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -199,6 +659,16 @@
    "url": "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss",
    "date": "2026-11-04T09:47:49+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "c3ea597957da",
+   "source": "Radio Bío-Bío",
+   "title": "Presidente Kast se reúne con el papa León XIV en el Vaticano",
+   "description": "Este miércoles llegó hasta el Vaticano el presidente José Antonio Kast, quien tuvo una audiencia con el papa León XIV en la Santa Sede. El mandatario arribó a eso de las 5:00 de la mañana, hora de Santiago, acompañado de la primera dama, María Pía Adriasola. Junto a ellos también",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/04/presidente-kast-se-reune-con-el-papa-leon-xiv-en-el-vaticano.shtml",
+   "date": "2026-11-04T09:31:32+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -372,76 +842,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1e8f6f7840ea",
-   "source": "Al Jazeera",
-   "title": "Democrat Abdul El-Sayed wins election to US Senate from Michigan",
-   "description": "Democrat Abdul El-Sayed gave an impassioned victory speech as he beat Republican Mike Rogers in the Michigan senate race",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-abdul-el-sayed-wins-election-to-us-senate-from-michigan-2?traffic_source=rss",
-   "date": "2026-11-04T08:18:40+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "5bfc1ab485d3",
-   "source": "The Guardian",
-   "title": "M&S takes more than a year to recover from cyber-attack as profits bounce back to £355m",
-   "description": "Sales and profit from clothing and homeware remain below two years ago but ‘brand is in good health’ Marks & Spencer has said a devastating cyber-attack that shut down its website last year continued to hurt clothing sales over the summer, more than a year after the hack. The ret",
-   "url": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
-   "date": "2026-11-04T08:17:14+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "88ac6c43ab7b",
-   "source": "Al Jazeera",
-   "title": "Democrat from Kansas elected to US Senate for first time since 1932",
-   "description": "A Democrat from Kansas has been elected to the US Senate for the first time in 94 years.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-from-kansas-elected-to-us-senate-for-first-time-since-great-depres?traffic_source=rss",
-   "date": "2026-11-04T08:09:44+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "7651c742220f",
-   "source": "Al Jazeera",
-   "title": "‘We defeated Goliath’: Texas Democrat James Talarico wins Senate seat",
-   "description": "Democrat James Talarico wins the Texas Senate race in a historic midterm upset.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/we-defeated-goliath-texas-democrat-james-talarico-wins-senate-seat?traffic_source=rss",
-   "date": "2026-11-04T07:53:24+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "81c4a791180c",
-   "source": "Al Jazeera",
-   "title": "Democrats deliver a historic routing to Republicans in US midterms",
-   "description": "For the first time in nearly 30 years, a Democrat will now represent South Carolina in the US Senate.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/democrats-deliver-a-historic-routing-to-republicans-in-us-midterms?traffic_source=rss",
-   "date": "2026-11-04T07:46:12+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "5ad73babf840",
-   "source": "Al Jazeera",
-   "title": "FIFA’s Infantino ineligible for re-election, says former governance chief",
-   "description": "Miguel ⁠⁠Maduro insists Gianni Infantino cannot serve more than three terms, pointing to FIFA's statutes.",
-   "url": "https://www.aljazeera.com/sports/2026/11/4/fifas-infantino-ineligible-for-re-election-says-former-governance-chief?traffic_source=rss",
-   "date": "2026-11-04T07:39:35+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "61de730d4c43",
-   "source": "Al Jazeera",
-   "title": "Abdul El-Sayed defeats Mike Rogers to win US Senate seat in Michigan",
-   "description": "The Democrat prevailed after a stream of Islamophobic rhetoric from top Republicans and a turbulent end to his campaign.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/el-sayed-defeats-rogers-to-win-senate-seat-in-michigan?traffic_source=rss",
-   "date": "2026-11-04T07:31:20+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "faa98111eb00",
    "source": "France 24",
    "title": "El demócrata Abdul El-Sayed gana en Michigan y se convierte en el primer senador musulmán de EE. UU.",
@@ -449,26 +849,6 @@
    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261103-en-directo-estados-unidos-midterms-elecciones-medio-mandato-congreso-gobernaciones-trump-democratas-republicanos",
    "date": "2026-11-04T07:30:43+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "27fa32b8d6e2",
-   "source": "Al Jazeera",
-   "title": "Democrats win Congress: How they did it, and what it means",
-   "description": "With control of Congress, Democrats can challenge Trump’s agenda through subpoenas, confirmation votes.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean?traffic_source=rss",
-   "date": "2026-11-04T07:23:45+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "42b669de8b9f",
-   "source": "Al Jazeera",
-   "title": "Spanish transport minister resigns after train crash killed 69 people",
-   "description": "Oscar Puente says he could not 'continue in office' after two major train accidents in less than a year.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/spanish-transport-minister-resigns-after-train-crash-killed-69-people?traffic_source=rss",
-   "date": "2026-11-04T07:18:08+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -589,16 +969,6 @@
    "url": "https://www.france24.com/es/video/20261104-jon-ossoff-el-pueblo-estadounidense-ha-rechazado-el-gobierno-fallido-de-trump",
    "date": "2026-11-04T06:10:56+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "76e08a78f9b8",
-   "source": "The Guardian",
-   "title": "David Jones expected to fall into administration after failed 11th hour talks with biggest landlord",
-   "description": "Future of 188-year-old department store hangs in balance after no agreement was struck with Westfield owner Scentre Group Get our breaking news email , free app or daily news podcast David Jones is poised to fall into administration after 11th-hour talks between its private equit",
-   "url": "https://www.theguardian.com/business/2026/nov/04/david-jones-expected-to-fall-into-administration-rent",
-   "date": "2026-11-04T06:08:02+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -724,7 +1094,7 @@
   {
    "id": "0e26711b64b1",
    "source": "Radio Bío-Bío",
-   "title": "Proyectan victoria de James Talarico al Senado por Texas: demócratas ganan escaño tras 38 años",
+   "title": "Demócratas ganan un escaó en Texas por primera vez en 38 años con triunfo de James Talarico",
    "description": "El demócrata James Talarico ganará la carrera al senado por Texas, según las proyecciones de CNN y The New York Times. Asimismo, la oposición a Donald Trump se queda con un escaño clave para lograr la mayoría en la Cámara Alta. Talarico es un pastor presbiteriano de 37 años, que ",
    "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/04/proyectan-victoria-de-james-talarico-al-senado-por-texas-democratas-ganan-escano-tras-38-anos.shtml",
    "date": "2026-11-04T04:04:30+00:00",
@@ -748,16 +1118,6 @@
    "description": "Las proyecciones de gobernadores de la NBC, CBS, CNN y Fox News dan la reelección de la demócrata Kathy Hochul, y los triunfos de la demócrata Keisha Lance Bottoms y el republicano Byron Donalds en unos comicios que también definen el Senado y la Cámara Baja. La demócrata Kathy H",
    "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/04/gobernadores-eeuu-hochul-retiene-nueva-york-bottoms-hace-historia-en-georgia-y-donalds-gana-florida.shtml",
    "date": "2026-11-04T03:58:12+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "28bcdd082795",
-   "source": "France 24",
-   "title": "Los demócratas dan un giro a las Carolinas y se quedan con ambos escaños en el Senado",
-   "description": "Los demócratas se quedaron este martes 3 de noviembre con los escaños en el Senado que estaban en manos republicanas en Carolina del Norte y en Carolina del Sur; esta última desde hace 28 años. Además, conservaron el asiento que quedará vacante en Nuevo Hampshire. Con estos resul",
-   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261104-el-triunfo-de-roy-cooper-en-carolina-del-norte-una-de-las-gestas-dem%C3%B3cratas-en-las-midterms",
-   "date": "2026-11-04T03:37:42+00:00",
    "category": "Congreso Nacional",
    "type": "Prensa"
   },
@@ -802,126 +1162,6 @@
    "type": "Prensa"
   },
   {
-   "id": "224cb93e5720",
-   "source": "Radio Bío-Bío",
-   "title": "Eva Gómez pide a seguidores de ’Fiebre de Canto’ que paren de lanzar odio: \"Hay un verdadero matonaje\"",
-   "description": "La noche de este martes, en un nuevo capítulo de Fiebre de Canto, la participante Eva Gómez dejó un mensaje para los seguidores del programa, así como quienes la apoyan. Tras ser evaluada por el jurado, tomó la palabra y sacó el tema del acoso por redes sociales. “Quiero decir po",
-   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/03/eva-gomez-pide-a-seguidores-de-fiebre-de-canto-que-paren-de-lanzar-odio-hay-un-verdadero-matonaje.shtml",
-   "date": "2026-11-04T02:41:36+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "9fd32e1e116f",
-   "source": "Radio Bío-Bío",
-   "title": "Hombre muere aplastado por bus al que realizaba trabajos de mecánica en Angol",
-   "description": "Un , región de La Araucanía. Según información de Radio Bío Bío, el lamentable hecho tuvo lugar este martes en calle Almagro. El comisario de Carabineros de la comuna, mayor Fernando Quiñiñir Pino, afirmó que el individuo -presuntamente mecánico- estaba realizando trabajos de mec",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/11/03/hombre-muere-aplastado-por-bus-al-que-realizaba-trabajos-de-mecanica-en-angol.shtml",
-   "date": "2026-11-04T02:38:53+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "5fd55ff7733f",
-   "source": "Radio Bío-Bío",
-   "title": "\"Respira por la herida\": dura crítica de libertarios a Matthei mientras la UDI apuesta por su regreso",
-   "description": "Evelyn Matthei dejó abierta la puerta a una tercera candidatura presidencial y en la UDI su nombre sigue sobre la mesa. Consultado por Radio Bío Bío, el presidente del partido, Guillermo Ramírez, dijo que estaría feliz de verla competir nuevamente, incluso como representante de t",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/respira-por-la-herida-dura-critica-de-libertarios-a-matthei-mientras-la-udi-apuesta-por-su-regreso.shtml",
-   "date": "2026-11-04T02:29:06+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "9b8eb0ecda14",
-   "source": "Radio Cooperativa",
-   "title": "Elecciones medio mandato en EE.UU.: demócratas avanzan para tomar el control de ambas cámaras",
-   "description": "Los primeros resultados de las elecciones de medio mandato en Estados Unidos apuntan a una victoria demócratas en ambas cámaras del Congreso , con conquistas claves en el Senado (Carolina del Norte y Georgia) . Las últimas proyecciones ya dan cuenta de que los demócratas lograrán",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/elecciones-medio-mandato-en-ee-uu-democratas-avanzan-para-tomar-el/2026-11-03/232017.html",
-   "date": "2026-11-04T02:20:17+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "f179c97778a8",
-   "source": "Radio Cooperativa",
-   "title": "Popín anunció su salida de \"El Club de la Comedia\": \"Nos vamos felices\"",
-   "description": "El comediante Pablo Zamora anunció el fin de su participación en \"El Club de la Comedia\" , programa de Chilevisión al que se incorporó el pasado 1 de octubre con el regreso de Popín y sus característicos corpóreos. A través de Instagram, el humorista compartió un mensaje para agr",
-   "url": "https://www.cooperativa.cl/noticias/magazine/humor/popin-anuncio-su-salida-de-el-club-de-la-comedia-nos-vamos-felices/2026-11-03/231235.html",
-   "date": "2026-11-04T02:12:35+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "f40f386df0c8",
-   "source": "Radio Cooperativa",
-   "title": "Inician obras en Plaza Sotomayor de Valparaíso: trabajos obligan a cambiar la fiesta de Año Nuevo",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/inician-obras-en-plaza-sotomayor-de-valparaiso-trabajos-obligan-a/2026-11-03/231100.html",
-   "date": "2026-11-04T02:11:00+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "fc6c3d6a610d",
-   "source": "Radio Bío-Bío",
-   "title": "Escándalo por Ueno bank salpica al gobierno de Paraguay: Una renuncia, disturbios y millones en alerta",
-   "description": "El presidente del Banco Central del Paraguay (BCP), Carlos Carvallo, renunció este martes a su cargo, en medio del , cuya crisis ha afectado a miles de ahorristas y amenaza con extenderse al sector público e incluso al deporte. Ueno comenzó a operar como banco en noviembre de 202",
-   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/03/escandalo-por-ueno-bank-sacude-al-gobierno-de-paraguay-una-renuncia-disturbios-y-millones-en-alerta.shtml",
-   "date": "2026-11-04T02:03:53+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "48e9f686acf5",
-   "source": "Radio Bío-Bío",
-   "title": "Entre carteles contra Rabat y acusación por supuesto uso de IA: la tensa jornada por Presupuesto 2027",
-   "description": "Con carteles exigiendo la renuncia del ministro de Justicia, Fernando Rabat, y acusaciones por el supuesto uso de inteligencia artificial para redactar indicaciones, estuvo marcada la segunda jornada de discusión de la Ley de Presupuestos 2027 en la Comisión Mixta. La tensión se ",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/entre-carteles-contra-rabat-y-acusacion-por-supuesto-uso-de-ia-la-tensa-jornada-por-presupuesto-2027.shtml",
-   "date": "2026-11-04T02:03:49+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "e817852a78e1",
-   "source": "Radio Cooperativa",
-   "title": "Adolescente de 15 años protagonizó confuso incidente con arma de carabinero en Rengo",
-   "description": "Bajo la medida cautelar de internación provisoria quedó un menor de 15 años investigado por los delitos de homicidio frustrado , lesiones graves , porte de arma blanca y oponerse a la acción de Carabineros , tras un procedimiento registrado en la comuna de Rengo, Región de O'Higg",
-   "url": "https://www.cooperativa.cl/noticias/pais/region-de-ohiggins/adolescente-de-15-anos-protagonizo-confuso-incidente-con-arma-de/2026-11-03/225940.html",
-   "date": "2026-11-04T01:59:40+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "595667143f74",
-   "source": "Radio Bío-Bío",
-   "title": "\"Los tres mosqueteros de la libertad\": el ácido análisis de comediante española por visita de Kast",
-   "description": "La comediante española conocida como “Señora Bien” o “Piluchi” (Cristina Gallego), lanzó ácidos comentarios en el marco de la visita de José Antonio Kast a España, donde recientemente se reunió con Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid. Fue en el programa El Int",
-   "url": "https://www.biobiochile.cl/noticias/sociedad/debate/2026/11/03/los-tres-mosqueteros-de-la-libertad-el-acido-analisis-de-comediante-espanola-por-visita-de-kast.shtml",
-   "date": "2026-11-04T01:49:19+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "87ef2584d6ab",
-   "source": "Radio Bío-Bío",
-   "title": "Trump descarta resultado vergonzoso de Republicanos, mientras recuento muestra ventaja de Demócratas",
-   "description": "El en una entrevista telefónica con CBS News durante la jornada electoral en la que también defendió su maratoniana gira electoral. Esto, mientras los demócratas toman ventaja con el primer recuento de votos. “Tenemos buenas posibilidades. Pero no vamos a pasar por una situación ",
-   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/03/trump-descarta-resultado-vergonzoso-de-republicanos-mientras-recuento-muestra-ventaja-de-democratas.shtml",
-   "date": "2026-11-04T01:49:17+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "06840069f08e",
-   "source": "Radio Bío-Bío",
-   "title": "Titan Forest Patagonia: argentino Germán Dorhmann ganó segunda etapa tras lucha con Pipo Rodríguez",
-   "description": "Después de un primer día intenso, la Titan Forest Patagonia continuó este martes 3 de noviembre con una segunda etapa algo más moderada, con un recorrido en bucle que comenzó y terminó en el campamento en Villa Cerro Castillo. La jornada contempló 75 kilómetros y 1.483 metros de ",
-   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/03/titan-forest-patagonia-argentino-german-dorhmann-gano-segunda-etapa-tras-lucha-con-pipo-rodriguez.shtml",
-   "date": "2026-11-04T01:41:05+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "a703f56a53e7",
    "source": "The Guardian",
    "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
@@ -932,90 +1172,10 @@
    "type": "Prensa"
   },
   {
-   "id": "609a254cd40e",
-   "source": "Radio Bío-Bío",
-   "title": "\"¡Renuncia Rabat!\": el grito de diputada PDG que irrumpió mientras ministro estaba en la Cámara",
-   "description": "Mientras el ministro de Justicia, Fernando Rabat, participaba de una sesión de comisión en el tercer piso de la Cámara de Diputadas y Diputados, unos pisos más abajo una parlamentaria del Partido de la Gente (PDG) optó por una forma bastante menos institucional de expresar su pos",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/renuncia-rabat-el-grito-de-diputada-del-pdg-que-irrumpio-mientras-ministro-estaba-en-la-camara.shtml",
-   "date": "2026-11-04T01:26:53+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "bb6b360aca4f",
-   "source": "Radio Cooperativa",
-   "title": "Real Betis de Pellegrini tendrá un desafío de alto nivel ante Borussia Dortmund en la Champions",
-   "description": "Real Betis, equipo dirigido por el chileno Manuel Pellegrini, tendrá un desafío de alto nivel este miércoles en la Champions League, cuando visite a Borussia Dortmund en el Signal Iduna Park , desde las 17:00 horas (20:00 GMT), en una prueba de fuego en la cuarta fecha de la fase",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/real-betis-de-pellegrini-tendra-un-desafio-de-alto-nivel-ante-borussia/2026-11-03/221216.html",
-   "date": "2026-11-04T01:12:16+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "029b1044914f",
-   "source": "Radio Cooperativa",
-   "title": "Unión La Calera y Coquimbo Unido vuelven a medir fuerzas en el inicio de su llave por Copa Chile",
-   "description": "Unión La Calera y Coquimbo Unido vuelven a medir fuerzas este miércoles, desde las 19:00 horas (22:00 GMT) en el Estadio \"Nicolás Chahuán\", en el inicio de su llave de cuartos de final de la Copa Chile, solo cinco días despues del partido que jugaron en la Liga de Primera. El pas",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/union-la-calera-y-coquimbo-unido-vuelven-a-medir-fuerzas-en-el-inicio-de/2026-11-03/220742.html",
-   "date": "2026-11-04T01:07:42+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "77270a143004",
-   "source": "Radio Cooperativa",
-   "title": "Britney Spears arremetió contra su hermana y su exesposo: \"Me hicieron sentir como una esclava\"",
-   "description": "La cantante Britney Spears volvió a generar polémica por sus declaraciones contra su hermana Jamie Lynn Spears y su exesposo Kevin Federline , a quienes acusó de haberla humillado y de realizar acciones a sus espaldas durante los últimos años. A través de una publicación en Insta",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/britney-spears-arremetio-contra-su-hermana-y-su-exesposo-me-hicieron/2026-11-03/213718.html",
-   "date": "2026-11-04T00:37:18+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "8c935c4144ae",
-   "source": "Radio Cooperativa",
-   "title": "Organizaciones feministas exigieron la renuncia del ministro Rabat frente a La Moneda",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/organizaciones-feministas-exigieron-la-renuncia-del-ministro-rabat/2026-11-03/212655.html",
-   "date": "2026-11-04T00:26:55+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "b2b2103ef232",
-   "source": "Radio Cooperativa",
-   "title": "Caso Rabat marcó tensa aprobación del presupuesto de Justicia en comisión mixta",
-   "description": "La polémica rebaja de condenas a 56 abusadores sexuales y violadores de menores por parte del Ministerio de Justicia -presidido por Fernando Rabat- marcó la discusión y la posterior aprobación de la partida de la cartera en la Comisión Mixta de Presupuestos. Los recursos propuest",
-   "url": "https://www.cooperativa.cl/noticias/pais/politica/caso-rabat-marco-tensa-aprobacion-del-presupuesto-de-justicia-en/2026-11-03/212609.html",
-   "date": "2026-11-04T00:26:09+00:00",
-   "category": "Finanzas públicas",
-   "type": "Prensa"
-  },
-  {
-   "id": "4861aa2855ad",
-   "source": "Radio Cooperativa",
-   "title": "Concejo Municipal de Macul postergó votación para renombrar calle en honor a Caszely",
-   "description": "El Concejo Municipal de Macul postergó este martes la votación para renombrar un tramo de la Avenida Marathon , cerca del Estadio Monumental, en honor a Carlos Caszely, uno de principales ídolos en la historia de Colo Colo. Según informó DaleAlbo , el tramo que se pretende renomb",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/carlos-caszely/concejo-municipal-de-macul-postergo-votacion-para-renombrar-calle-en/2026-11-03/211416.html",
-   "date": "2026-11-04T00:14:16+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "23fb0ddfbe6a",
-   "source": "The Guardian",
-   "title": "Houses of Parliament at risk of ‘Notre Dame-style fire’ as renovation costs rise",
-   "description": "Report says cost of maintenance could soon reach £2m a week, including 24-hour patrols to avert fire risk The Palace of Westminster will be at risk of a Notre Dame-style fire or a similar catastrophic event if MPs do not tackle the issue of funding refurbishments, a parliamentary",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/04/parliament-notre-dame-style-fire-renovation-costs",
-   "date": "2026-11-04T00:01:18+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "f7217221a415",
    "source": "Deutsche Welle",
    "title": "Ministro de Transportes de España dimite tras tragedia ferroviaria",
-   "description": "Óscar Puerte anunció que dejaba el cargo durante una audiencia ante el Congreso de los Diputados, seis días después del accidente de Toledo.",
+   "description": "Óscar Puente anunció que dejaba el cargo durante una audiencia ante el Congreso de los Diputados, seis días después del accidente de Toledo.",
    "url": "https://www.dw.com/es/ministro-de-transportes-de-españa-dimite-tras-tragedia-ferroviaria/a-79848891?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-03T23:51:00+00:00",
    "category": "Congreso Nacional",
@@ -1072,42 +1232,12 @@
    "type": "Prensa"
   },
   {
-   "id": "c4ffde375329",
-   "source": "The Guardian",
-   "title": "King Charles addresses summit as demands for slavery apology grow",
-   "description": "Speaking in Antigua, the king did not give explicit support for reparations but said he wanted to ‘address past wrongs’ King Charles has said that deepening his understanding of the horrors of slavery has made him more determined to address the wrongs of the past, as Caribbean le",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/03/king-charles-commonwealth-summit-campaigners-apology-slavery",
-   "date": "2026-11-03T22:15:19+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "ed29c1a95211",
    "source": "The Guardian",
    "title": "One dead and another missing in suspected grizzly bear attack in Canada",
    "description": "The incident took place in the same province where a grizzly attacked a group of schoolchildren last November A mother is dead and her daughter is missing in western Canada after a suspected grizzly bear attack in the same community where a bear attacked a group of schoolchildren",
    "url": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
    "date": "2026-11-03T22:08:50+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "d974090c51f6",
-   "source": "The Guardian",
-   "title": "Reform UK councillor charged with 12 counts of rape and multiple other offences",
-   "description": "George Madgwick, party leader on Hampshire county council, faces charges related to four teenagers between 2008 and 2021 Reform UK’s leader on Hampshire county council has been charged with 12 counts of rape and one of distributing indecent images of a child. George Madgwick, 37,",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape",
-   "date": "2026-11-03T22:04:24+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "afe34ac56f78",
-   "source": "The Guardian",
-   "title": "Spanish transport minister resigns after deadly train crash",
-   "description": "Óscar Puente also announces his withdrawal from upcoming election following disaster that killed 69 people Spain’s transport minister handed in his resignation on Tuesday after the train crash that killed 69 people last week, one of the worst railway disasters in Europe this cent",
-   "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash",
-   "date": "2026-11-03T21:46:02+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -1174,7 +1304,7 @@
   {
    "id": "45e612303396",
    "source": "Ex-Ante",
-   "title": "Más allá de la fusión entre SalfaCorp y Angelini: las cifras del negocio del senior housing que gana terreno en Chile",
+   "title": "Más allá de acuerdo entre SalfaCorp y Angelini: las cifras del negocio del senior housing que gana terreno en Chile",
    "description": "En medio del envejecimiento de la población chilena, nuevos grupos empresariales están mirando el negocio de las residencias para adultos mayores, un segmento conocido como…",
    "url": "https://www.ex-ante.cl/negocios/creciente-negocio-senior-housing-chile/",
    "date": "2026-11-03T20:45:56+00:00",
@@ -1199,26 +1329,6 @@
    "url": "https://www.dw.com/es/el-desafío-de-alemania-encontrar-un-depósito-nuclear-permanente/a-79847687?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-03T20:39:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "17f2302c9be5",
-   "source": "Deutsche Welle",
-   "title": "Los Ángeles dice adiós al petróleo tras años de lucha vecinal",
-   "description": "Tras años de activismo por parte de los habitantes y batallas legales contra las grandes compañías petroleras, Los Ángeles votó a favor de prohibir la perforación y eliminar gradualmente la extracción de petróleo.",
-   "url": "https://www.dw.com/es/los-ángeles-dice-adiós-al-petróleo-tras-años-de-lucha-vecinal/a-79846695?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-03T20:27:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "500d71dee601",
-   "source": "The Guardian",
-   "title": "Two Australians confirmed dead in Spain’s high-speed train crash",
-   "description": "Legal body handling identification says three latest victims include two Australians and a Japanese citizen Get our breaking news email , free app or daily news podcast Two Australians are among 69 people who died in last week’s high-speed train collision after Spanish authoritie",
-   "url": "https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
-   "date": "2026-11-03T20:21:14+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1752,16 +1862,6 @@
    "type": "Prensa"
   },
   {
-   "id": "26e83dd670ea",
-   "source": "The Guardian",
-   "title": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
-   "description": "Yousef Jabareen says he is ready to join forces with opposition bloc to oust Benjamin Netanyahu after winning record number of seats in Knesset The leader of Israel’s main Palestinian coalition, which holds the balance of power after Tuesday’s elections, has said the country is f",
-   "url": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
-   "date": "2026-11-02T06:00:32+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "3b83693d510a",
    "source": "CIPER Chile",
    "title": "La remontada de Lula: el voto que no estaba en las encuestas",
@@ -2050,16 +2150,6 @@
    "date": "2026-10-30T12:00:00+00:00",
    "category": "Oriente Medio",
    "type": "Oficial"
-  },
-  {
-   "id": "a67b6c197839",
-   "source": "The Guardian",
-   "title": "Beijing Queer film festival cancelled after harassment from authorities",
-   "description": "Forums for discussion of feminist and LGBTQ+ views face growing intolerance from Chinese state, say experts Beijing’s annual independent queer film festival has been cancelled after what is understood to have been a campaign of sustained harassment from authorities. Beijing Queer",
-   "url": "https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment",
-   "date": "2026-10-30T11:04:12+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
   },
   {
    "id": "eff8fd1fc497",
@@ -2490,16 +2580,6 @@
    "date": "2026-10-10T07:49:45+00:00",
    "category": "",
    "type": "Oficial"
-  },
-  {
-   "id": "dbbc4dc71f68",
-   "source": "Radio Cooperativa",
-   "title": "Cartelera de conciertos 2026 en Chile",
-   "description": "CONCIERTOS 2026 EN CHILE CONCIERTOS NOVIEMBRE 2026 1 de noviembre - Iron Maiden - Estadio Nacional - Entradas 1 de noviembre - Alex Serra y Totidub - Club Chocolate - Entradas 1 de noviembre - Opeth - Santander Arena - Entradas 1 de noviembre - Nicole - Teatro Municipal Valparaís",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html",
-   "date": "2025-12-01T11:21:52+00:00",
-   "category": "",
-   "type": "Prensa"
   },
   {
    "id": "9745c15368a2",
