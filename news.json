@@ -1,6 +1,206 @@
 {
- "updated": "2026-11-04T16:50:05.119107+00:00",
+ "updated": "2026-11-04T17:47:11.256444+00:00",
  "items": [
+  {
+   "id": "b5f2fdd7958a",
+   "source": "Ex-Ante",
+   "title": "EE.UU: Las posibilidades que la victoria demócrata abra una ventana a Chile para revertir aranceles",
+   "description": "La oposición consiguió el control de ambas cámaras del Congreso de Estados Unidos, lo que podría abrir un nuevo frente para la política comercial impulsada…",
+   "url": "https://www.ex-ante.cl/negocios/victoria-democrata-influye-aranceles-trump/",
+   "date": "2026-11-04T17:40:54+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "71817b48391d",
+   "source": "Radio Cooperativa",
+   "title": "Novak Djokovic dijo adiós a París tras remontada de Hijikata",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El australiano Rinky Hijikata, que procedía de la fase previa, derrotó en segunda ronda del Masters 1.000 de París al serbio Novak Djokovic , el hombre de todos los récords en este torneo, que a sus 39 años se inclinó por 2",
+   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/novak-djokovic/novak-djokovic-dijo-adios-a-paris-tras-remontada-de-hijikata/2026-11-04/143457.html",
+   "date": "2026-11-04T17:34:57+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9ed3f4bcdd23",
+   "source": "Ex-Ante",
+   "title": "Cambio de gabinete: La Moneda interviene el Ministerio de Ciencias y deja a Lincolao en situación imposible",
+   "description": "La ministra Ximena Lincolao, que llegó al gobierno como una de las figuras revelación del gabinete, enfrenta su mayor crisis tras romper relaciones con su…",
+   "url": "https://www.ex-ante.cl/politica/gabinete-la-moneda-lincolao-imposible/",
+   "date": "2026-11-04T17:34:52+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "16c1df09d079",
+   "source": "BBC Mundo",
+   "title": "5 razones que explican la abrumadora derrota del Partido Republicano",
+   "description": "Desde votantes furiosos hasta un presidente impopular, te explicamos por qué los estadounidenses en zonas tradicionalmente republicanas optaron por los demócratas.",
+   "url": "https://www.bbc.com/mundo/articles/cq5yn4l3pjv0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T17:20:28+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "babaa868ca8a",
+   "source": "Radio Cooperativa",
+   "title": "El editorial de Marcelo Barticciotto: Arturo Vidal merece que le renueven",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/cooperativa-deportes/opinion/el-editorial-de-marcelo-barticciotto-arturo-vidal-merece-que-le-renueven/2026-11-04/141909.html",
+   "date": "2026-11-04T17:19:09+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "8befc3d68171",
+   "source": "Al Jazeera",
+   "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
+   "description": "Vance cited trusted pollster saying Iran war, Israel ties were top of mind for Trump voters swinging to Democrats.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
+   "date": "2026-11-04T17:18:50+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f3ee85d2b2e8",
+   "source": "Al Jazeera",
+   "title": "Palestinian citizens of Israel face intimidation after election success",
+   "description": "After winning a record number of parliament seats, Palestinian-led parties face campaign against them.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
+   "date": "2026-11-04T17:14:21+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f9174f0cd1f3",
+   "source": "Radio Cooperativa",
+   "title": "Dólar y petróleo cayeron tras el histórico triunfo de los demócratas",
+   "description": "Los mercados internacionales reaccionaron al histórico triunfo de los demócratas en las elecciones de mitad de mandato en Estados Unidos , con efectos también en la economía chilena . En nuestro país, el dólar descendió hasta ubicarse en torno a los 970 pesos , luego de cerrar la",
+   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/dolar-y-petroleo-cayeron-tras-el-historico-triunfo-de-los-democratas/2026-11-04/141102.html",
+   "date": "2026-11-04T17:11:02+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "5815f87b298d",
+   "source": "Deutsche Welle",
+   "title": "La Casa Blanca recuerda que Trump \"es todavía presidente\" pese a la derrota en las legislativas",
+   "description": "Las elecciones que definirán la segunda parte del mandato de Donald Trump son también relevantes para el resto del planeta. Acá les contamos todos los detalles de esta jornada.",
+   "url": "https://www.dw.com/es/la-casa-blanca-recuerda-que-trump-es-todavía-presidente-pese-a-la-derrota-en-las-legislativas/live-79845739?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-04T17:07:00+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "6c240058311f",
+   "source": "Ex-Ante",
+   "title": "Valparaíso: El plan de remodelación de la Plaza Sotomayor para rescatarla del deterioro y la delincuencia",
+   "description": "En Valparaíso, Plaza Sotomayor ha reflejado las contradicciones del barrio puerto. Por un lado, uno de los espacios más reconocibles de la ciudad, rodeado de…",
+   "url": "https://www.ex-ante.cl/nacional/valparaiso-plaza-sotomayor-remodelacion/",
+   "date": "2026-11-04T17:06:40+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "2815ca952f68",
+   "source": "Al Jazeera",
+   "title": "Owono enduring ‘hardest days of my life’ after De Miguel death",
+   "description": "Tenerife striker De Miguel died on Tuesday as a result of injuries from a collision with FC Andorra goalkeeper Owono.",
+   "url": "https://www.aljazeera.com/sports/2026/11/4/owono-enduring-hardest-days-of-my-life-after-de-miguel-death?traffic_source=rss",
+   "date": "2026-11-04T17:05:12+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "fa30d2cddb95",
+   "source": "Al Jazeera",
+   "title": "The new Congress may struggle to push a progressive agenda",
+   "description": "Major change on key issues, such as Israel-Palestine, will be limited by the president and the Democratic establishment.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/4/the-new-congress-may-struggle-to-push-a-progressive-agenda?traffic_source=rss",
+   "date": "2026-11-04T17:05:09+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "faa98111eb00",
+   "source": "France 24",
+   "title": "Vance atribuye la derrota republicana en las elecciones de medio mandato a la guerra en Irán",
+   "description": "",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261103-en-directo-estados-unidos-midterms-elecciones-medio-mandato-congreso-gobernaciones-trump-democratas-republicanos",
+   "date": "2026-11-04T17:04:14+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "aba8c037f506",
+   "source": "Radio Cooperativa",
+   "title": "San Marcos: La desafiliación es desproporcionada, no se ajusta a la realidad ni al espíritu deportivo",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Fernando Zapata, gerente general de San Marcos de Arica, calificó como desproporcionada la desafiliación del club determinada por la Primera Sala del Tribunal de Disciplina de la ANFP y aseguró que la institución prepara un",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/san-marcos-de-arica/san-marcos-la-desafiliacion-es-desproporcionada-no-se-ajusta-a-la/2026-11-04/140345.html",
+   "date": "2026-11-04T17:03:45+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "54f6daa775e7",
+   "source": "Deutsche Welle",
+   "title": "Vance atribuye la derrota republicana a la guerra contra Irán",
+   "description": "El vicepresidente de Estados Unidos dijo que si alguien cree que perder el Senado es un costo aceptable, debería decirlo. “Todo el mundo sabe por qué perdimos”, agregó.",
+   "url": "https://www.dw.com/es/vance-atribuye-la-derrota-republicana-a-la-guerra-contra-irán/a-79857934?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-04T17:03:00+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "42a871cdc4e8",
+   "source": "Radio Cooperativa",
+   "title": "Gago confía en la remontada de la U en Copa Chile: \"Saldremos con lo mejor desde el minuto uno\"",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-confia-en-la-remontada-de-la-u-en-copa-chile-saldremos-con-lo/2026-11-04/140139.html",
+   "date": "2026-11-04T17:01:39+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "f1f0f38b01bd",
+   "source": "The Guardian",
+   "title": "UK politics: Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – as it happened",
+   "description": "‘I think people want to see the world coming together and focusing on the things that matter to people,’ PM says Louise Haigh starts by saying she is standing in for Andy Burnham. She says this weekend the whole country will fall silent to mark Remembrance Sunday. Continue readin",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
+   "date": "2026-11-04T17:01:31+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "25a0910640e8",
+   "source": "France 24",
+   "title": "¿Qué reflejan los resultados de las midterms sobre el panorama político de Estados Unidos?",
+   "description": "Los electores estadounidenses se manifestaron en las urnas e impusieron un nuevo giro de 180 grados en el Congreso, quitándole la mayoría al Partido Republicano y aplicando el voto castigo a la gestión de Donald Trump. Los resultados le dieron victorias históricas a los demócrata",
+   "url": "https://www.france24.com/es/video/20261104-qu%C3%A9-reflejan-los-resultados-de-las-midterms-sobre-el-panorama-pol%C3%ADtico-de-estados-unidos",
+   "date": "2026-11-04T16:55:33+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "c5dddd0bf09b",
+   "source": "France 24",
+   "title": "Informe desde Beijing: China ignora giro político en EE. UU. y minimiza renovación del Congreso",
+   "description": "Mientras el mundo miraba con atención las elecciones de medio término en Estados Unidos, en China no les dieron relevancia, afirmando incluso que se trata de un tema \"doméstico\" estadounidense. El país asiático afirmó que está dispuesto a trabajar para alcanzar el consenso pactad",
+   "url": "https://www.france24.com/es/video/20261104-informe-desde-beijing-china-ignora-giro-pol%C3%ADtico-en-ee-uu-y-minimiza-renovaci%C3%B3n-del-congreso",
+   "date": "2026-11-04T16:50:14+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "79681344cc7a",
+   "source": "The Guardian",
+   "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
+   "description": "The cult Italian film-maker began as an assistant to Roberto Rossellini but moved into sex films, believing ‘eroticism to be a fundamental key to human expression’ Italian film director Tinto Brass, who was once hailed as the “Antonioni of the 70s” but came to be better known for",
+   "url": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
+   "date": "2026-11-04T16:47:15+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
   {
    "id": "6229e5a27355",
    "source": "Deutsche Welle",
@@ -12,16 +212,6 @@
    "type": "Prensa"
   },
   {
-   "id": "466d4469e858",
-   "source": "Deutsche Welle",
-   "title": "Gobierno de Estados Unidos se mantendrá igual tras la victoria demócrata, señala Alemania",
-   "description": "Las elecciones que definirán la segunda parte del mandato de Donald Trump son también relevantes para el resto del planeta. Acá les contamos todos los detalles de esta jornada.",
-   "url": "https://www.dw.com/es/gobierno-de-estados-unidos-se-mantendrá-igual-tras-la-victoria-demócrata-señala-alemania/live-79845739?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-04T16:44:00+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "71339819e346",
    "source": "Radio Cooperativa",
    "title": "Cooperativa Deportes: Gago enfrentó el irregular momento de la U",
@@ -29,6 +219,16 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/cooperativa-deportes/opinion/cooperativa-deportes-gago-enfrento-el-irregular-momento-de-la-u/2026-11-04/134253.html",
    "date": "2026-11-04T16:42:53+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "686bcacd8a50",
+   "source": "Al Jazeera",
+   "title": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
+   "description": "Tehran rallies see slogans, flag burnings and claims of US-Israeli defeats amid historic embassy takeover anniversary.",
+   "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss",
+   "date": "2026-11-04T16:37:49+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -69,16 +269,6 @@
    "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/analista-pese-al-tsunami-democrata-no-estan-los-votos-en-el-senado/2026-11-04/133047.html",
    "date": "2026-11-04T16:30:47+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "f1f0f38b01bd",
-   "source": "The Guardian",
-   "title": "Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – UK politics live",
-   "description": "‘I think people want to see the world coming together and focusing on the things that matter to people,’ PM says Louise Haigh starts by saying she is standing in for Andy Burnham. She says this weekend the whole country will fall silent to mark Remembrance Sunday. Continue readin",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
-   "date": "2026-11-04T16:29:21+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -162,16 +352,6 @@
    "type": "Prensa"
   },
   {
-   "id": "741cf758390a",
-   "source": "Radio Cooperativa",
-   "title": "Zverev perdió ante Musetti en su estreno como líder del ranking ATP",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Alexander Zverev (1° de la ATP) sufrió una derrota por 7-6(5) y 6-2 ante el italiano Lorenzo Musetti en su estreno en el Masters 1.000 de París, en el primer partido que disputó desde su ascenso al número uno del ranking mu",
-   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/torneos-atp/zverev-perdio-ante-musetti-en-su-estreno-como-lider-del-ranking-atp/2026-11-04/130820.html",
-   "date": "2026-11-04T16:08:20+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "e3e8c36cba33",
    "source": "CIPER Chile",
    "title": "Fallos de cortes de apelaciones establecen que Rabat sí podía rechazar las rebajas de condenas",
@@ -182,32 +362,12 @@
    "type": "Prensa"
   },
   {
-   "id": "5268291557bb",
-   "source": "Radio Cooperativa",
-   "title": "Rodri se lesionó en Champions y quedó descartado para duelos de España",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Rodri, mediocampista de FC Barcelona, quedó descartado para el partido de este domingo 8 de noviembre ante Atlético de Madrid , y para los próximos duelos de la selección de España, por una lesión en el bíceps femoral de la",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/fc-barcelona/rodri-se-lesiono-en-champions-y-quedo-descartado-para-duelos-de-espana/2026-11-04/130544.html",
-   "date": "2026-11-04T16:05:44+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "67eb7a4e4c05",
    "source": "Ex-Ante",
    "title": "Informe UNAB: Empleo formal pierde cerca de 96 mil puestos en un año y se cierra la puerta informal",
    "description": "Un reporte de UNAB muestra que el mercado laboral pierde capacidad para reinsertar desempleados. El informe también revela que cada vez menos personas consiguen empleo,…",
    "url": "https://www.ex-ante.cl/negocios/informe-unab-empleo-formal-pierde-puestos/",
    "date": "2026-11-04T15:59:50+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "b65aea4549bb",
-   "source": "Radio Cooperativa",
-   "title": "Raphinha se negó a hablar de fútbol y dedicó victoria a familia de Jesús de Miguel",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Raphinha, delantero de FC Barcelona, evitó hablar de fútbol después de marcar dos goles en la victoria 3-0 sobre Aston Villa por la Liga de Campeones y dedicó sus declaraciones a la familia de Jesús de Miguel, futbolista de",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/raphinha-se-nego-a-hablar-de-futbol-y-dedico-victoria-a-familia-de-jesus/2026-11-04/125503.html",
-   "date": "2026-11-04T15:55:03+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -262,16 +422,6 @@
    "type": "Prensa"
   },
   {
-   "id": "efd2315a0b65",
-   "source": "Radio Cooperativa",
-   "title": "El Grand Prix Lago Ranco alcanzará un récord de participantes este sábado",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Más de 1.400 ciclistas participarán este sábado 7 de noviembre en la octava edición del Grand Prix Lago Ranco , competencia que contempla un recorrido de 114 kilómetros alrededor del lago, en la Región de Los Ríos, y que al",
-   "url": "https://www.cooperativa.cl/noticias/deportes/ciclismo/chilenos/el-grand-prix-lago-ranco-alcanzara-un-record-de-participantes-este/2026-11-04/124041.html",
-   "date": "2026-11-04T15:40:41+00:00",
-   "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
    "id": "daad7fcbf45d",
    "source": "The Guardian",
    "title": "Spain’s deadly train crashes have damaged public confidence in the system",
@@ -299,16 +449,6 @@
    "url": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections?traffic_source=rss",
    "date": "2026-11-04T15:39:38+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "9b057cbd6956",
-   "source": "Radio Cooperativa",
-   "title": "Caso Rabat: Contraloría llegó al Ministerio de Justicia para recabar antecedentes",
-   "description": "Funcionarios de la Contraloría General de la República se constituyeron este miércoles en dependencias del Ministerio de Justicia para recabar antecedentes relativos a los decretos de rebajas de condenas otorgadas a personas sentenciadas por delitos sexuales contra menores de eda",
-   "url": "https://www.cooperativa.cl/noticias/pais/organismos-del-estado/contraloria/caso-rabat-contraloria-llego-al-ministerio-de-justicia-para-recabar/2026-11-04/123220.html",
-   "date": "2026-11-04T15:32:20+00:00",
-   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -389,16 +529,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss",
    "date": "2026-11-04T15:04:08+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "51dd7761c845",
-   "source": "Radio Cooperativa",
-   "title": "Lanzaron la Expo Industrial Internacional Chile 2026 con foco en innovación y negocios",
-   "description": "La Expo Industrial Internacional Chile , organizada por Andes Expo Chile SpA , presentó este miércoles los lineamientos , participantes y alcances que tendrá su versión 2026 , que tendrá lugar entre el 11 y 13 de noviembre en el Centro Espacio Riesco. En la capitalina comuna de H",
-   "url": "https://www.cooperativa.cl/noticias/economia/empresas/lanzaron-la-expo-industrial-internacional-chile-2026-con-foco-en/2026-11-04/115644.html?=efectochina",
-   "date": "2026-11-04T14:56:44+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -742,36 +872,6 @@
    "type": "Prensa"
   },
   {
-   "id": "74af735920a6",
-   "source": "Al Jazeera",
-   "title": "Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills",
-   "description": "US President Donald Trump has admitted that the war on Iran contributed to Republican losses in the midterm elections.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills?traffic_source=rss",
-   "date": "2026-11-04T12:44:30+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "57829417bdd5",
-   "source": "Al Jazeera",
-   "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
-   "description": "Rights activists say UK decision against Palestine Action is a 'misuse of terrorism powers'.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription?traffic_source=rss",
-   "date": "2026-11-04T12:43:47+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "df65b145375b",
-   "source": "Al Jazeera",
-   "title": "Tenerife’s Jesus de Miguel remembered in moving tributes by football world",
-   "description": "The 30-year-old died on Tuesday following an on-pitch collision with Andorra goalkeeper Jesus Owono.",
-   "url": "https://www.aljazeera.com/sports/2026/11/4/tenerifes-jesus-de-miguel-remembered-in-moving-tributes-by-football-world?traffic_source=rss",
-   "date": "2026-11-04T12:36:14+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "e14bcb80a382",
    "source": "Deutsche Welle",
    "title": "El ministro español de Economía asume Transportes tras grave accidente de trenes",
@@ -779,16 +879,6 @@
    "url": "https://www.dw.com/es/el-ministro-español-de-economía-asume-transportes-tras-grave-accidente-de-trenes/a-79853307?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-04T12:24:00+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "22c082a9f714",
-   "source": "Al Jazeera",
-   "title": "America is heading for two years of constitutional brinkmanship",
-   "description": "An unlikely mix of political bargains and constitutional confrontation will define the next two years.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/4/america-is-heading-for-two-years-of-constitutional-brinkmanship?traffic_source=rss",
-   "date": "2026-11-04T12:22:55+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -812,16 +902,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0d12d839cb14",
-   "source": "Al Jazeera",
-   "title": "Musk makes light of defeats after record spend on Republican candidates",
-   "description": "Tesla and SpaceX founder Elon Musk is the world's richest man and the largest individual donor in the US midterms.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/musk-makes-light-of-defeats-after-record-spend-on-republican-candidates?traffic_source=rss",
-   "date": "2026-11-04T12:09:42+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "2eb9115e966a",
    "source": "The Guardian",
    "title": "More than 900 academics urge UK to reverse decision to bar Andreas Malm",
@@ -832,14 +912,14 @@
    "type": "Prensa"
   },
   {
-   "id": "bb12942b11c0",
-   "source": "The Guardian",
-   "title": "BMW warns on profits as it counts cost of plan for 8,000 job cuts",
-   "description": "German carmaker slashes profit margin to between -0.5% and 0.5% this year in face of competition from China The German carmaker BMW has issued its second profit warning in a year, blaming the costs of a restructuring programme including significant job losses in the face of conti",
-   "url": "https://www.theguardian.com/business/2026/nov/04/bmw-warns-on-profits-counts-cost-plan-for-8000-job-cuts",
-   "date": "2026-11-04T11:58:19+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
+   "id": "39aef2178c95",
+   "source": "Naciones Unidas",
+   "title": "\"El mundo no está preparado\": la financiación para la adaptación climática se queda muy corta",
+   "description": "Los países en desarrollo necesitarán unos 305.000 millones de dólares anuales para 2035 para adaptarse al cambio climático, pero la financiación pública internacional solo alcanzó entre 28.200 y 31.700 millones en 2024 y, aunque se triplique, cubrirá como máximo el 29 % de las ne",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542139",
+   "date": "2026-11-04T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
   },
   {
    "id": "f1ea3b9b884a",
@@ -1132,16 +1212,6 @@
    "type": "Prensa"
   },
   {
-   "id": "faa98111eb00",
-   "source": "France 24",
-   "title": "El demócrata Abdul El-Sayed gana en Michigan y se convierte en el primer senador musulmán de EE. UU.",
-   "description": "",
-   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261103-en-directo-estados-unidos-midterms-elecciones-medio-mandato-congreso-gobernaciones-trump-democratas-republicanos",
-   "date": "2026-11-04T07:30:43+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "4860a8cffffa",
    "source": "CIPER Chile",
    "title": "Reforma al INDH: el Leviatán sin contrapesos",
@@ -1202,32 +1272,12 @@
    "type": "Prensa"
   },
   {
-   "id": "030c49fb97d8",
-   "source": "France 24",
-   "title": "Chris Pappas hace historia en el Senado y lanza duro mensaje contra Trump",
-   "description": "El representante demócrata Chris Pappas derrotó al republicano John E. Sununu en la carrera al Senado de Estados Unidos en New Hampshire. Pappas, quien será el primer hombre abiertamente gay en el Senado, aprovechó su discurso para agradecer a su esposo, Vann Bentley. También dij",
-   "url": "https://www.france24.com/es/video/20261104-chris-pappas-hace-historia-en-el-senado-y-lanza-duro-mensaje-contra-trump",
-   "date": "2026-11-04T06:12:21+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "b554237b0250",
    "source": "BBC Mundo",
    "title": "Los demócratas recuperan la Cámara y el Senado en una noche triunfal e infligen una \"derrota aplastante\" a Trump y sus aliados",
    "description": "Con el control del Senado y la Cámara de Representantes, los demócratas protagonizan una noche histórica en unas elecciones que marcarán los dos últimos años de mandato del presidente Donald Trump.",
    "url": "https://www.bbc.com/mundo/articles/cv62y9278jz0o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-04T06:11:03+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "93262bd1f61b",
-   "source": "France 24",
-   "title": "Jon Ossoff: \"El pueblo estadounidense ha rechazado el Gobierno fallido de Trump\"",
-   "description": "El demócrata Jon Ossoff sostuvo que las victorias de su partido en las cruciales elecciones de medio mandato representan un claro rechazo al presidente Donald Trump por parte de los estadounidenses. \"Con triunfos contundentes y decisivos, el pueblo estadounidense ha rechazado la ",
-   "url": "https://www.france24.com/es/video/20261104-jon-ossoff-el-pueblo-estadounidense-ha-rechazado-el-gobierno-fallido-de-trump",
-   "date": "2026-11-04T06:10:56+00:00",
    "category": "Elecciones",
    "type": "Prensa"
   },
@@ -1362,16 +1412,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f7217221a415",
-   "source": "Deutsche Welle",
-   "title": "Ministro de Transportes de España dimite tras tragedia ferroviaria",
-   "description": "Óscar Puente anunció que dejaba el cargo durante una audiencia ante el Congreso de los Diputados, seis días después del accidente de Toledo.",
-   "url": "https://www.dw.com/es/ministro-de-transportes-de-españa-dimite-tras-tragedia-ferroviaria/a-79848891?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-03T23:51:00+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "14b313c719fa",
    "source": "CIPER Chile",
    "title": "Condenan por lavado de activos a general (r) Óscar Izurieta; Kast desafía a la oposición a presentar acusación contra Rabat, y fundación de los Tompkins dona 22 mil hectáreas para futuro parque en Magallanes",
@@ -1379,36 +1419,6 @@
    "url": "https://www.ciperchile.cl/2026/11/03/radar-03-11-2026/?utm_source=rss&utm_medium=rss&utm_campaign=radar-03-11-2026",
    "date": "2026-11-03T23:23:03+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "1246980beb0a",
-   "source": "Ex-Ante",
-   "title": "El cambio de gabinete que alista La Moneda: Rabat saldría con otros ministros, ingresarían más políticos y ajustes en el Segundo Piso",
-   "description": "Según altas fuentes del oficialismo, el Presidente Kast trabaja en una reestructuración ministerial de mayor alcance que incluiría la salida de Fernando Rabat y modificaciones…",
-   "url": "https://www.ex-ante.cl/politica/kast-cambio-de-gabinete-proxima-semana/",
-   "date": "2026-11-03T23:17:56+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "9b239928419d",
-   "source": "Ex-Ante",
-   "title": "Cómo será el nuevo parque de Kristine Tompkins en Cabo Froward y la donación de 150 mil hectáreas",
-   "description": "La creación del Parque Nacional Cabo Froward, impulsada por Kristine Tompkins, vuelve a tomar fuerza con una nueva donación de 22.333 hectáreas al Estado. El…",
-   "url": "https://www.ex-ante.cl/negocios/nuevo-parque-tompkins-cabo-froward-150-mil/",
-   "date": "2026-11-03T22:56:43+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "812e22ada90c",
-   "source": "Ex-Ante",
-   "title": "Elecciones de medio término: claves para entender los comicios en EE.UU.",
-   "description": "Una victoria demócrata en ambas cámaras le quitaría al Ejecutivo su iniciativa legislativa —restringiéndolo al derecho a veto, como ya adelantó— y crearía un contrapeso…",
-   "url": "https://www.ex-ante.cl/internacional/claves-para-entender-elecciones-eeuu/",
-   "date": "2026-11-03T22:37:49+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1499,6 +1509,16 @@
    "url": "https://www.ciperchile.cl/2026/11/03/derrumbe-de-los-fondos-d-y-e-de-las-afp-afectara-proceso-de-jubilacion-de-unas-360-000-personas-en-edad-de-pensionarse/?utm_source=rss&utm_medium=rss&utm_campaign=derrumbe-de-los-fondos-d-y-e-de-las-afp-afectara-proceso-de-jubilacion-de-unas-360-000-personas-en-edad-de-pensionarse",
    "date": "2026-11-03T18:41:04+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "3d8b47995a73",
+   "source": "Radio Cooperativa",
+   "title": "Champions League: Real Madrid visita a AEK Atenas",
+   "description": "Esta semana se reanuda la acción de la Champions League en Europa, con el desarrollo de la cuarta fecha de la fase de liga. Sigue los partidos en vivo y online por Cooperativa.cl. Miércoles 4 de noviembre AEK vs. Real Madrid. 14:45 horas. Opap Arena Fenerbahce vs. Liverpool. 14:4",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/champions-league-real-madrid-visita-a-aek-atenas/2026-11-03/141735.html",
+   "date": "2026-11-03T17:17:35+00:00",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -1699,16 +1719,6 @@
    "url": "https://www.bbc.com/mundo/articles/cx054q17vvezo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-03T03:49:51+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "9e9b559caaee",
-   "source": "BBC Mundo",
-   "title": "Qué se sabe de la dramática caída de un avión privado en Florida que dejó 9 muertos",
-   "description": "Investigadores de la Junta Nacional de Seguridad en el Transporte de EE.UU. informaron de los primeros indicios en la trágica caída de un jet privado que cobró la vida de todos sus ocupantes.",
-   "url": "https://www.bbc.com/mundo/articles/ckvg7l4dp0n8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-03T03:31:48+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -2540,16 +2550,6 @@
    "date": "2026-10-25T02:00:49+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
-  },
-  {
-   "id": "f642b5167e8a",
-   "source": "Naciones Unidas",
-   "title": "Construyendo Futuros: el reto de llevar la educación a las fronteras de Venezuela",
-   "description": "La ONG, nacida del sueño de una adolescente de 17 años, cuenta hoy con más de 150 profesionales y ha impactado a más de 450.000 personas en el país. Su directora general, Jennifer Belisario, explica en una entrevista los retos de operar en zonas remotas, la relación con el sistem",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542101",
-   "date": "2026-10-24T12:00:00+00:00",
-   "category": "Sociedad",
-   "type": "Oficial"
   },
   {
    "id": "c7b3ea9420cc",
