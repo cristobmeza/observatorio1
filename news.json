@@ -1,14 +1,84 @@
 {
- "updated": "2026-11-04T01:53:12.086169+00:00",
+ "updated": "2026-11-04T02:42:52.182639+00:00",
  "items": [
+  {
+   "id": "c03ef964f6db",
+   "source": "Radio Cooperativa",
+   "title": "Demócratas obtienen victorias claves y se acercan a obtener mayoría en Senado de EE.UU.",
+   "description": "Los demócratas retuvieron este martes , en las elecciones de medio mandato de Estados Unidos , los escaños del Senado en varios estados de la costa este , los primeros en cerrar los colegios electorales, victorias claves de cara a dominar el Congreso. Según las proyecciones de As",
+   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/democratas-obtienen-victorias-claves-y-se-acercan-a-obtener-mayoria-en/2026-11-03/232017.html",
+   "date": "2026-11-04T02:20:17+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
   {
    "id": "ff19132a3dfe",
    "source": "France 24",
-   "title": "Midterms: Chris Pappas (D) gana escaño al Senado por New Hampshire y Ashley Moody (R) por Florida",
+   "title": "Midterms: la demócrata Alexandria Ocasio-Cortez gana la reelección a la Cámara por NY",
    "description": "",
    "url": "https://www.france24.com/es/especial/elecciones/midterms-ee-uu/mapa-de-resultados-2026",
-   "date": "2026-11-04T01:41:05+00:00",
-   "category": "Congreso Nacional",
+   "date": "2026-11-04T02:19:58+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "f179c97778a8",
+   "source": "Radio Cooperativa",
+   "title": "Popín anunció su salida de \"El Club de la Comedia\": \"Nos vamos felices\"",
+   "description": "El comediante Pablo Zamora anunció el fin de su participación en \"El Club de la Comedia\" , programa de Chilevisión al que se incorporó el pasado 1 de octubre con el regreso de Popín y sus característicos corpóreos. A través de Instagram, el humorista compartió un mensaje para agr",
+   "url": "https://www.cooperativa.cl/noticias/magazine/humor/popin-anuncio-su-salida-de-el-club-de-la-comedia-nos-vamos-felices/2026-11-03/231235.html",
+   "date": "2026-11-04T02:12:35+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "f40f386df0c8",
+   "source": "Radio Cooperativa",
+   "title": "Inician obras en Plaza Sotomayor de Valparaíso: trabajos obligan a cambiar la fiesta de Año Nuevo",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/inician-obras-en-plaza-sotomayor-de-valparaiso-trabajos-obligan-a/2026-11-03/231100.html",
+   "date": "2026-11-04T02:11:00+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "abfb158f559e",
+   "source": "Al Jazeera",
+   "title": "Ballot shortages reported in Dearborn, Michigan",
+   "description": "Reports of ballot shortages at several Dearborn polling stations have raised concerns over voter access",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-shortages-reported-in-dearborn-michigan?traffic_source=rss",
+   "date": "2026-11-04T02:09:42+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e817852a78e1",
+   "source": "Radio Cooperativa",
+   "title": "Adolescente de 15 años protagonizó confuso incidente con arma de carabinero en Rengo",
+   "description": "Bajo la medida cautelar de internación provisoria quedó un menor de 15 años investigado por los delitos de homicidio frustrado , lesiones graves , porte de arma blanca y oponerse a la acción de Carabineros , tras un procedimiento registrado en la comuna de Rengo, Región de O'Higg",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-ohiggins/adolescente-de-15-anos-protagonizo-confuso-incidente-con-arma-de/2026-11-03/225940.html",
+   "date": "2026-11-04T01:59:40+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "392032f42f2c",
+   "source": "Al Jazeera",
+   "title": "Kazakhstan releases second tiger into the wild",
+   "description": "Kazakhstan has released a second Siberian tiger, this time a male named Amur, into a nature reserve.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss",
+   "date": "2026-11-04T01:39:46+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "35637bca4f5f",
+   "source": "Al Jazeera",
+   "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
+   "description": "Roy Cooper beat out Republican Michael Whatley.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
+   "date": "2026-11-04T01:36:33+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -64,7 +134,7 @@
   {
    "id": "88fc59f8c3c0",
    "source": "Al Jazeera",
-   "title": "Democrat Jon Ossoff wins Georgia US Senate race",
+   "title": "Jon Ossoff wins Georgia Senate race, defeating Republican Mike Collins",
    "description": "Ossoff is re-elected to a second term, winning a key seat for Democrats as the party tries to retake the Senate.",
    "url": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
    "date": "2026-11-04T00:59:58+00:00",
@@ -322,26 +392,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e793e3ff074f",
-   "source": "Radio Cooperativa",
-   "title": "Con votación unánime: Primera Sala del Tribunal de Disciplina desafilió a Santiago City",
-   "description": "La Primera Sala del Tribunal de Disciplina informó que el club Santiago City fue sancionado con la desafiliación, por la denuncia interpuesta por el directorio de la Asociación Nacional de Fútbol Profesional (ANFP). La votación de la primera sala fue unánime y la sentencia fundad",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/segunda-division/con-votacion-unanime-primera-sala-del-tribunal-de-disciplina-desafilio/2026-11-03/195905.html",
-   "date": "2026-11-03T22:59:05+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "61f8a9adf8b9",
-   "source": "Radio Cooperativa",
-   "title": "La vejez como \"capital que hay que aprovechar\": Las enseñanzas de 100 Líderes Mayores",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/poblacion/adulto-mayor/la-vejez-como-capital-que-hay-que-aprovechar-las-ensenanzas-de-100/2026-11-03/195831.html",
-   "date": "2026-11-03T22:58:31+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "9b239928419d",
    "source": "Ex-Ante",
    "title": "Cómo será el nuevo parque de Kristine Tompkins en Cabo Froward y la donación de 150 mil hectáreas",
@@ -524,8 +574,8 @@
   {
    "id": "ac7ca5c01dd9",
    "source": "Al Jazeera",
-   "title": "US midterm election results live: Democrats up early as results roll in",
-   "description": "Early results come in from across the US as polls close in the midterm elections, with control of Congress at stake.",
+   "title": "US midterm election results live: Democrats up as vote count under way",
+   "description": "Results are coming in from across the US as polls close in the midterm elections, with control of Congress at stake.",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
    "date": "2026-11-03T22:30:00+00:00",
    "category": "Oriente Medio",
@@ -539,16 +589,6 @@
    "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/03/llego-la-hora-para-jorge-valdivia-fiscalia-pedira-22-anos-de-carcel-por-delitos-sexuales-reiterados.shtml",
    "date": "2026-11-03T22:26:55+00:00",
    "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
-   "id": "0b7a348a0265",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEOS] Barristas de Feyenoord interrumpieron duelo con Inter con bengalas desde fuera del estadio",
-   "description": "Una increíble situación se vivió este martes en el partido entre Feyenoord e Inter de Milá n en Rotterdam, ya que el encuentro se detuvo un par de minutos por bengalas que fueron lanzadas por barristas del cuadro neerlandés desde las afueras del Estadio De Kuip. UNBELIEVABLE IN R",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/videos-barristas-de-feyenoord-interrumpieron-duelo-con-inter-con/2026-11-03/192637.html",
-   "date": "2026-11-03T22:26:37+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -609,16 +649,6 @@
    "url": "https://www.theguardian.com/uk-news/2026/nov/03/king-charles-commonwealth-summit-campaigners-apology-slavery",
    "date": "2026-11-03T22:15:19+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "9a266fa6fbdd",
-   "source": "Radio Cooperativa",
-   "title": "De Gregorio advierte: \"No veo evidencia de crecimientos superiores al 3% hacia adelante\"",
-   "description": "El economista y expresidente del Banco Central José de Gregorio advirtió este martes, en Lo Que Queda del Día , que la economía chilena atraviesa un periodo de recesión , marcado por nueve meses de bajo desempeño y cifras negativas de actividad . El profesor de la Facultad de Eco",
-   "url": "https://www.cooperativa.cl/noticias/economia/crisis-financiera/de-gregorio-advierte-no-veo-evidencia-de-crecimientos-superiores-al-3/2026-11-03/190920.html",
-   "date": "2026-11-03T22:09:20+00:00",
-   "category": "Política monetaria",
    "type": "Prensa"
   },
   {
@@ -1002,16 +1032,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d20d13d2ade7",
-   "source": "Al Jazeera",
-   "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-   "description": "Yemeni interior minister says foreign involvement expanded beyond arms and training to directing military operations.",
-   "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
-   "date": "2026-11-03T19:09:09+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "b7aefbe11044",
    "source": "France 24",
    "title": "‘MADA’: “hacer a Estados Unidos democrático otra vez”, así cubre ‘Libération’ las Midterms",
@@ -1032,16 +1052,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cb58b54fdb9a",
-   "source": "Al Jazeera",
-   "title": "Palestinian Americans turn to US flags to protect West Bank homes",
-   "description": "Palestinian Americans in the occupied West Bank are putting up US flags, to fend off pogroms by Israeli settlers.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-americans-turn-to-us-flags-to-protect-west-bank-homes?traffic_source=rss",
-   "date": "2026-11-03T18:38:50+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "5d3c877c9bf4",
    "source": "Deutsche Welle",
    "title": "DW verifica: el mapa viral sobre armas que engaña a EE. UU.",
@@ -1049,16 +1059,6 @@
    "url": "https://www.dw.com/es/dw-verifica-el-mapa-viral-sobre-armas-que-engaña-a-ee-uu/a-79844351?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-03T18:37:00+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "f2f91b9cfeed",
-   "source": "Al Jazeera",
-   "title": "UK’s King Charles expresses ‘sorrow’ in Antigua over slave trade",
-   "description": "Caribbean nations call for reparations as King Charles stops short of issuing an apology for colonial-era slavery.",
-   "url": "https://www.aljazeera.com/news/2026/11/3/uks-king-charles-expresses-profound-sorrow-over-transatlantic-slave-era?traffic_source=rss",
-   "date": "2026-11-03T18:32:46+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1228,16 +1228,6 @@
    "description": "Michigan es uno de los estados clave que podrían inclinar la balanza en la Cámara de Representantes y el Senado de Estados Unidos. El candidato demócrata Abdul El-Sayed ha aprovechado el impulso del ala más progresista de su partido en un estado donde los demócratas no pierden un",
    "url": "https://www.france24.com/es/video/20261103-informe-desde-detroit-michigan-promete-ser-un-estado-decisorio-para-las-midterms",
    "date": "2026-11-03T16:20:29+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "759ca89d3b7d",
-   "source": "France 24",
-   "title": "¿Qué está en juego en las elecciones de medio mandato en Estados Unidos?",
-   "description": "250 millones de personas están llamadas a las urnas para renovar el Congreso estadounidense y elegir nuevos gobernadores, una decisión que podría redibujar el mapa electoral en el país. También están sobre la mesa referéndums estatales sobre temas como el aborto y los centros de ",
-   "url": "https://www.france24.com/es/video/20261103-qu%C3%A9-est%C3%A1-en-juego-en-las-elecciones-de-medio-mandato-en-estados-unidos",
-   "date": "2026-11-03T16:20:07+00:00",
    "category": "Elecciones",
    "type": "Prensa"
   },

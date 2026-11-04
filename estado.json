@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:53:12.086169+00:00",
+ "updated": "2026-11-04T02:42:52.182639+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -94,7 +94,7 @@
   },
   "Banco Central de Chile": {
    "ok": false,
-   "err": "HTTP Error 404: Not Found"
+   "err": "mismatched tag: line 7, column 9"
   },
   "Instituto Nacional de Estadísticas": {
    "ok": false,
