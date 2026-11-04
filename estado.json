@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:46:19.025973+00:00",
+ "updated": "2026-11-04T01:53:12.086169+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -53,8 +53,9 @@
    "url": "https://rss.dw.com/xml/rss-sp-all"
   },
   "France 24": {
-   "ok": false,
-   "err": "HTTP Error 403: Forbidden"
+   "ok": true,
+   "n": 24,
+   "url": "https://www.france24.com/es/rss"
   },
   "Al Jazeera": {
    "ok": true,
@@ -113,9 +114,8 @@
    "err": "HTTP Error 404: Not Found"
   },
   "Naciones Unidas": {
-   "ok": true,
-   "n": 30,
-   "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml"
+   "ok": false,
+   "err": "not well-formed (invalid token): line 1, column 0"
   },
   "Fondo Monetario Internacional": {
    "ok": false,
