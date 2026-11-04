@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:34:20.637479+00:00",
+ "updated": "2026-11-04T00:46:19.025973+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -44,18 +44,17 @@
   },
   "BBC Mundo": {
    "ok": true,
-   "n": 30,
+   "n": 33,
    "url": "https://feeds.bbci.co.uk/mundo/rss.xml"
   },
   "Deutsche Welle": {
    "ok": true,
-   "n": 25,
+   "n": 21,
    "url": "https://rss.dw.com/xml/rss-sp-all"
   },
   "France 24": {
-   "ok": true,
-   "n": 24,
-   "url": "https://www.france24.com/es/rss"
+   "ok": false,
+   "err": "HTTP Error 403: Forbidden"
   },
   "Al Jazeera": {
    "ok": true,
@@ -114,8 +113,9 @@
    "err": "HTTP Error 404: Not Found"
   },
   "Naciones Unidas": {
-   "ok": false,
-   "err": "not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "n": 30,
+   "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml"
   },
   "Fondo Monetario Internacional": {
    "ok": false,
