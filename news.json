@@ -1,6 +1,406 @@
 {
- "updated": "2026-11-04T08:19:11.990506+00:00",
+ "updated": "2026-11-04T11:01:54.299637+00:00",
  "items": [
+  {
+   "id": "ac2f631cffb4",
+   "source": "Radio Cooperativa",
+   "title": "Caos financiero en Paraguay por cierre del popular Ueno Bank",
+   "description": "El presidente del Banco Central del Paraguay (BCP), Carlos Carvallo, renunció a su cargo, en medio del escándalo por la intervención por problemas de solvencia de Ueno Bank , cuya crisis afecta a miles de ahorristas y amenaza con extenderse al sector público e incluso al deporte.",
+   "url": "https://www.cooperativa.cl/noticias/mundo/paraguay/caos-financiero-en-paraguay-por-cierre-del-popular-ueno-bank/2026-11-04/075315.html",
+   "date": "2026-11-04T10:53:15+00:00",
+   "category": "Política monetaria",
+   "type": "Prensa"
+  },
+  {
+   "id": "55d99b719f2a",
+   "source": "Radio Cooperativa",
+   "title": "Instalan nuevo portón en Barrio Meiggs para impedir el comercio ambulante",
+   "description": "Una nueva serie de portones se instaló este miércoles en la intersección de calle Sazié con Bascuñán Guerrero hasta Unión Latinoamericana , en el Barrio Meiggs , con la intención de impedir el ingreso del comercio ambulante al sector. El teniente coronel Pablo Alcaíno , de la Pre",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/instalan-nuevo-porton-en-barrio-meiggs-para-impedir-el-comercio-ambulante/2026-11-04/074707.html",
+   "date": "2026-11-04T10:47:07+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e4c25083dfa1",
+   "source": "Al Jazeera",
+   "title": "Houthis’ monthlong siege on Taiz creating hell for trapped Yemenis",
+   "description": "Blockade prompts warnings of a 'catastrophe' as food, water, fuel and medical supplies are unable to reach city.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/houthis-one-month-siege-on-taiz-is-creating-hell-for-yemenis-stuck-there?traffic_source=rss",
+   "date": "2026-11-04T10:44:46+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "bafb91687d7b",
+   "source": "Al Jazeera",
+   "title": "Who holds the power today? Governments or corporations?",
+   "description": "Who holds the power today? Governments or corporations?",
+   "url": "https://www.aljazeera.com/video/doha-debates/2026/11/4/who-holds-the-power-today-governments-or-corporations?traffic_source=rss",
+   "date": "2026-11-04T10:40:33+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "7487e75c7aa0",
+   "source": "Al Jazeera",
+   "title": "Democrats win control of House and Senate: Key US midterms takeaways",
+   "description": "This is the first time in 20 years that a Republican president has lost both houses of US Congress.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways?traffic_source=rss",
+   "date": "2026-11-04T10:39:52+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "0ebd0925d3a5",
+   "source": "Al Jazeera",
+   "title": "Israel vote results confirmed as election commission rejects fraud claims",
+   "description": "Netanyahu’s allies refused to back the result, as President Herzog began talks on who should form the next government",
+   "url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims?traffic_source=rss",
+   "date": "2026-11-04T10:37:21+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f1f0f38b01bd",
+   "source": "The Guardian",
+   "title": "Miliband criticises Blair’s slavery statement and defends Burnham’s plan for proper apology – UK politics live",
+   "description": "The foreign secretary added that the UK will not shift its position on reparations It is not good to gloat – but it can be fun. Chris Bryant , the Northern Ireland secretary, has this morning reposted a video clip of Nigel Farage saying “I don’t go with the consensus that Trump i",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
+   "date": "2026-11-04T10:36:02+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "2d0afeb4320d",
+   "source": "The Guardian",
+   "title": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
+   "description": "European Commission will hold talks with the US, France, Germany, Britain, Nato, and the World Bank German defence minister Boris Pistorius has congratulated the US Democeats “from the bottom of his heart” on their win last night, Dlf reported. Deutsche Welle’s chief political co",
+   "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
+   "date": "2026-11-04T10:31:02+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "bdaecc996b38",
+   "source": "Radio Cooperativa",
+   "title": "Una histórica ola demócrata arrebata el Congreso a Trump y a los republicanos",
+   "description": "Una ola azul, el color de los demócratas, barrió este martes a los republicanos del control del Congreso de Estados Unidos y derribó bastiones conservadores como Texas , en un duro castigo al presidente, Donald Trump, que afrontará los últimos dos años de su mandato con una oposi",
+   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/una-historica-ola-democrata-arrebata-el-congreso-a-trump-y-a-los/2026-11-04/072242.html",
+   "date": "2026-11-04T10:22:42+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "fcb2b93370b6",
+   "source": "BBC Mundo",
+   "title": "Quiénes son los grandes vencedores de la triunfal noche demócrata",
+   "description": "Te presentamos algunas de las estrellas de la \"ola azul\" demócrata que obtuvo este martes una aplastante victoria en un duro revés contra las políticas de Trump.",
+   "url": "https://www.bbc.com/mundo/articles/cqe9lej2zpzno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T10:22:16+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "777a823d308c",
+   "source": "Radio Cooperativa",
+   "title": "Presidente Kast se reunió con el papa León XIV en el Vaticano",
+   "description": "El Presidente José Antonio Kast se reunió este miércoles con el papa León XIV en el Vaticano , en una audiencia que contó con representantes de los tres poderes del Estado y que se desarrolló en el marco de su gira por Europa. Según informó el enviado especial de Cooperativa, Mar",
+   "url": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/vaticano/presidente-kast-se-reunio-con-el-papa-leon-xiv-en-el-vaticano/2026-11-04/072137.html",
+   "date": "2026-11-04T10:21:37+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "f781aa5b40a1",
+   "source": "Deutsche Welle",
+   "title": "Murió Janosch, el ilustrador alemán de libros infantiles como ¡Qué bonito es Panamá!",
+   "description": "Con el Tigre, el Oso y el Pato Tigre, Janosch (seudónimo de Horst Eckert) marcó a generaciones de niños. Detrás de sus personajes, dibujados con tanta ternura, se escondía una infancia muy distinta y difícil.",
+   "url": "https://www.dw.com/es/murió-janosch-el-ilustrador-alemán-de-libros-infantiles-como-¡qué-bonito-es-panamá/a-79851612?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-04T10:21:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "171a602aa7fa",
+   "source": "Al Jazeera",
+   "title": "Photos: US Democrats celebrate winning control of Congress",
+   "description": "Democrats flipped seats that had long been held by Republicans in a wave of historic leadership firsts.",
+   "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-us-democrats-celebrate-winning-control-of-congress?traffic_source=rss",
+   "date": "2026-11-04T10:18:10+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "d7a486754baf",
+   "source": "Al Jazeera",
+   "title": "From education to housing protests, Palestine’s flag spreads across Europe",
+   "description": "Symbols such as the flag and keffiyeh represent anti-colonial struggles but some question their use amid mass rallies.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/palestinian-flag-in-eu-demonstrations?traffic_source=rss",
+   "date": "2026-11-04T10:10:08+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "6d391c78ee37",
+   "source": "Al Jazeera",
+   "title": "Indonesian president’s chief of staff dismissed over alleged wiretapping",
+   "description": "Gov't says Listyo may have committed 'treason' after he is arrested and accused of wiretapping top officials' phones.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged?traffic_source=rss",
+   "date": "2026-11-04T10:07:36+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ead122eb5f0f",
+   "source": "France 24",
+   "title": "Del “veto” a la “aceptación”: ¿cómo gobernará Trump con el Congreso en manos de los demócratas?",
+   "description": "La contundente victoria demócrata en las elecciones de medio término, que permitirá a la bancada azul recuperar el control tanto de la Cámara de Representantes como del Senado, abre una nueva etapa de confrontación política para Donald Trump. El presidente ya ha advertido que uti",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261104-del-veto-a-la-aceptaci%C3%B3n-c%C3%B3mo-gobernar%C3%A1-trump-con-el-congreso-en-manos-de-los-dem%C3%B3cratas",
+   "date": "2026-11-04T10:06:36+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "fbe384c10ab8",
+   "source": "BBC Mundo",
+   "title": "Quién es Abdul El-Sayed, el demócrata de Michigan que se convirtió en el primer senador musulmán en la historia de EE.UU.",
+   "description": "En el estado de Míchigan, el candidato del Partido Demócrata, Abdul El-Sayed, se convirtió en el primer senador musulmán del país.",
+   "url": "https://www.bbc.com/mundo/articles/cjx23zy222y6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T10:05:33+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "fb1065063c87",
+   "source": "Al Jazeera",
+   "title": "Syrians see Israel as biggest regional threat, followed by Iran: Survey",
+   "description": "Some 97% of respondents to Arab Opinion Index for Syria say Israel threatens security and stability in the Middle East.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/syrians-see-israel-as-biggest-regional-threat-followed-by-iran-survey?traffic_source=rss",
+   "date": "2026-11-04T09:51:33+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "50f44f2de785",
+   "source": "Al Jazeera",
+   "title": "GOP’s redistricting gamble backfires in Florida as Democrats hold ground",
+   "description": "Trump's party dealt a setback as Republican bid to tilt Florida's House map falters on a strong night for Democrats.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/gops-redistricting-gamble-backfires-in-florida-as-democrats-hold-ground?traffic_source=rss",
+   "date": "2026-11-04T09:48:31+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "104e6a788735",
+   "source": "Al Jazeera",
+   "title": "‘Rejecting hate’: Abdul El-Sayed wins Senate seat despite racist attacks",
+   "description": "The Democrat defeats Republican Mike Rogers to win Michigan seat to become first Muslim senator-elect in US history.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss",
+   "date": "2026-11-04T09:47:49+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "9b8df644cc7e",
+   "source": "France 24",
+   "title": "Los demócratas arrebatan el control del Congreso a los republicanos",
+   "description": "Los demócratas obtuvieron la mayoría de los escaños tanto en la Cámara de Representantes como en el Senado y arrebataron el control del Congreso a los republicanos, lo que supone un duro golpe para la Administración de Donald Trump. Tras estas victorias en las elecciones de medio",
+   "url": "https://www.france24.com/es/video/20261104-los-dem%C3%B3cratas-arrebatan-el-control-del-congreso-a-los-republicanos",
+   "date": "2026-11-04T09:27:35+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "9cb16910c6c8",
+   "source": "France 24",
+   "title": "Abdul El-Sayed, primer senador musulmán de EE. UU.: \"Donald Trump, usted podrá llamarme senador\"",
+   "description": "Abdul El-Sayed se convirtió este 3 de noviembre en el primer senador musulmán en la historia de Estados Unidos, tras las elecciones de medio mandato. El demócrata ganó el escaño por Michigan después de derrotar al republicano Mike Rogers. En el discurso en el que se proclamó gana",
+   "url": "https://www.france24.com/es/video/20261104-abdul-el-sayed-primer-senador-musulm%C3%A1n-de-ee-uu-donald-trump-usted-podr%C3%A1-llamarme-senador",
+   "date": "2026-11-04T09:25:06+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "1db78d497cf6",
+   "source": "BBC Mundo",
+   "title": "\"No lo considero un revés para mí\": la reacción de Trump tras el aplastante triunfo de los demócratas en el Congreso",
+   "description": "Trump atribuyó la responsabilidad directamente a los propios candidatos republicanos, aunque reconoció que los elevados precios de la gasolina influyeron en el resultado.",
+   "url": "https://www.bbc.com/mundo/articles/ck62y4ql3wggo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T09:23:37+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "2128619adf32",
+   "source": "France 24",
+   "title": "James Talarico se convierte en el primer senador demócrata por Texas tras 38 años",
+   "description": "El demócrata y pastor James Talarico logró una victoria histórica en Texas al imponerse ante el republicano Ken Paxton en las elecciones de medio término del 3 de noviembre. Este triunfo marca un hito en el estado, que no elegía a un senador demócrata desde 1988. \"Nunca perdimos ",
+   "url": "https://www.france24.com/es/video/20261104-james-talarico-se-convierte-en-el-primer-senador-dem%C3%B3crata-por-texas-tras-38-a%C3%B1os",
+   "date": "2026-11-04T09:19:28+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "fd66cf7c5acb",
+   "source": "France 24",
+   "title": "Juan Manfredi: \"Pese al control demócrata del Congreso, Trump seguirá gobernando por decreto\"",
+   "description": "El presidente de Estados Unidos, Donald Trump, perdió este 3 de noviembre el control republicano del Congreso, tras la victoria del Partido Demócrata tanto en el Senado como en la Cámara de Representantes, así como en varias gobernaciones. Ahora, las dudas giran en torno a cómo c",
+   "url": "https://www.france24.com/es/video/20261104-juan-manfredi-pese-al-control-dem%C3%B3crata-del-congreso-trump-seguir%C3%A1-gobernando-por-decreto",
+   "date": "2026-11-04T09:18:41+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "3f084c7b305a",
+   "source": "Al Jazeera",
+   "title": "Key takeaways from the 2026 midterm elections in California",
+   "description": "Democrats easily hold on to governor's office and are on track to notch up wins in key congressional races.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/key-takeaways-from-the-2026-midterm-elections-in-california?traffic_source=rss",
+   "date": "2026-11-04T09:17:09+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "9d6c0ffc83a1",
+   "source": "Al Jazeera",
+   "title": "Who determines Iran’s fighting and negotiating position amid US threats?",
+   "description": "Iran is on the brink of a new escalation with the US, but negotiations are continuing.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats?traffic_source=rss",
+   "date": "2026-11-04T09:16:57+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "31e542b092ea",
+   "source": "The Guardian",
+   "title": "‘Not been this excited in a long time’: US expats ride the blue wave at Australian midterms watch parties",
+   "description": "US voters, their Australian partners and British spectators crowd around pub TVs to watch the historic election results roll in US midterm elections – live updates Democrats’ blue wave and a bad night for Trump: key US midterms takeaways On the second floor of a Sydney pub, the m",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/04/not-been-this-excited-in-a-long-time-us-expats-ride-the-blue-wave-at-australian-midterms-watch-parties",
+   "date": "2026-11-04T09:09:31+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "fe0b6d6e019e",
+   "source": "Radio Bío-Bío",
+   "title": "Un Tesla, avioneta y casa pagada al contado: el auge y caída del joven rey del IPTV pirata en Chile",
+   "description": "Pasó de ser un joven que pasaba horas frente al computador a cumplir su sueño de convertirse en piloto y tener su propia avioneta. Pero la historia de Bruno Cisternas Gaete dio un vuelco. Según la PDI, fue una de las piezas clave del negocio familiar de televisión pirata que lleg",
+   "url": "https://www.biobiochile.cl/especial/bbcl-investiga/noticias/articulos/2026/11/04/un-tesla-avioneta-y-casa-pagada-al-contado-el-auge-y-caida-del-joven-rey-del-iptv-pirata-en-chile.shtml",
+   "date": "2026-11-04T08:55:45+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "efd984198a47",
+   "source": "Al Jazeera",
+   "title": "Republicans fuming after Democrat Talarico flips Texas Senate blue",
+   "description": "Republicans in Texas are trying to make sense of how they lost to the Democrats for the first time in almost 40 years.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/republicans-fuming-after-democrat-talarico-flips-texas-senate-blue?traffic_source=rss",
+   "date": "2026-11-04T08:42:50+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "8fbe59ca0cfe",
+   "source": "Al Jazeera",
+   "title": "Democrat Troy Jackson unseats Republican Senator Susan Collins in Maine",
+   "description": "Democrat Troy Jackson unseats Republican Senator Susan Collins in Maine",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-troy-jackson-unseats-republican-senator-susan-collins-in-maine?traffic_source=rss",
+   "date": "2026-11-04T08:30:38+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f0bd5528e1af",
+   "source": "BBC Mundo",
+   "title": "Gina Hinojosa, la demócrata de ascendencia mexicana que será la primera latina en gobernar la conservadora Texas",
+   "description": "La legisladora estatal derrotó a Greg Abbott, uno de los gobernadores republicanos más destacados del país y fiel aliado del presidente Donald Trump.",
+   "url": "https://www.bbc.com/mundo/articles/cqn06jxe3zexo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T08:29:12+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "18e0cfcce30f",
+   "source": "Deutsche Welle",
+   "title": "La Comisión Electoral de Israel descarta el \"robo\" denunciado por Netanyahu y certifica los comicios",
+   "description": "La Comisión Electoral Central israelí no encontró violaciones a la integridad de los comicios de la semana pasada, luego de que el primer ministro, Benjamín Netanyahu, acusara de fraude a la minoría árabe israelí.",
+   "url": "https://www.dw.com/es/la-comisión-electoral-de-israel-descarta-el-robo-denunciado-por-netanyahu-y-certifica-los-comicios/a-79850543?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-04T08:28:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "bebcfc102e24",
+   "source": "Al Jazeera",
+   "title": "Australian government defends social media ban for under 16s in court",
+   "description": "Government lawyers argued that social media use posed risks to children, and action is needed to protect them.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/australian-government-defends-social-media-ban-for-under-16s-in-court?traffic_source=rss",
+   "date": "2026-11-04T08:26:50+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a9516695ded2",
+   "source": "Radio Bío-Bío",
+   "title": "Inicia juicio contra expresidente del Colegio Médico de Los Ángeles por violación y abuso sexual",
+   "description": "Comenzó el juicio oral contra el . La instancia inició el martes, y el imputado, de profesión médico urólogo, está imputado por dos delitos de abuso sexual y otro de violación en grado de consumado. Los antecedentes expuestos hasta ahora, establecen que los delitos habrían ocurri",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-aysen/2026/11/04/inicia-juicio-contra-expresidente-del-colegio-medico-de-los-angeles-por-violacion-y-abuso-sexual.shtml",
+   "date": "2026-11-04T08:25:27+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "fff59335fe0d",
+   "source": "Al Jazeera",
+   "title": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
+   "description": "Returning Hebron residents face significant economic and structural devastation after Israeli military operation.",
+   "url": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
+   "date": "2026-11-04T08:22:15+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "39d6430dac76",
+   "source": "Al Jazeera",
+   "title": "Georgia elects first Black woman governor in US",
+   "description": "Al Jazeera’s Matthew Torres reports on the historic gubernatorial election win in Georgia.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/us-elects-its-first-black-woman-governor?traffic_source=rss",
+   "date": "2026-11-04T08:19:27+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "1e8f6f7840ea",
+   "source": "Al Jazeera",
+   "title": "Democrat Abdul El-Sayed wins election to US Senate from Michigan",
+   "description": "Democrat Abdul El-Sayed gave an impassioned victory speech as he beat Republican Mike Rogers in the Michigan senate race",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-abdul-el-sayed-wins-election-to-us-senate-from-michigan-2?traffic_source=rss",
+   "date": "2026-11-04T08:18:40+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5bfc1ab485d3",
+   "source": "The Guardian",
+   "title": "M&S takes more than a year to recover from cyber-attack as profits bounce back to £355m",
+   "description": "Sales and profit from clothing and homeware remain below two years ago but ‘brand is in good health’ Marks & Spencer has said a devastating cyber-attack that shut down its website last year continued to hurt clothing sales over the summer, more than a year after the hack. The ret",
+   "url": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
+   "date": "2026-11-04T08:17:14+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "88ac6c43ab7b",
+   "source": "Al Jazeera",
+   "title": "Democrat from Kansas elected to US Senate for first time since 1932",
+   "description": "A Democrat from Kansas has been elected to the US Senate for the first time in 94 years.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-from-kansas-elected-to-us-senate-for-first-time-since-great-depres?traffic_source=rss",
+   "date": "2026-11-04T08:09:44+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "7651c742220f",
    "source": "Al Jazeera",
@@ -34,8 +434,8 @@
   {
    "id": "61de730d4c43",
    "source": "Al Jazeera",
-   "title": "El-Sayed defeats Rogers to win Senate seat in Michigan",
-   "description": "This is a breaking news story.",
+   "title": "Abdul El-Sayed defeats Mike Rogers to win US Senate seat in Michigan",
+   "description": "The Democrat prevailed after a stream of Islamophobic rhetoric from top Republicans and a turbulent end to his campaign.",
    "url": "https://www.aljazeera.com/news/2026/11/4/el-sayed-defeats-rogers-to-win-senate-seat-in-michigan?traffic_source=rss",
    "date": "2026-11-04T07:31:20+00:00",
    "category": "Oriente Medio",
@@ -72,26 +472,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b334b0ca4feb",
-   "source": "Al Jazeera",
-   "title": "US House Speaker Johnson rants about Marxism after Democrat gains",
-   "description": "US House Speaker Johnson rants about Marxism after Democrat gains",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/us-house-speaker-johnson-rants-about-marxism-after-democrat-gains?traffic_source=rss",
-   "date": "2026-11-04T07:11:47+00:00",
-   "category": "Socialismo y pensamiento económico",
-   "type": "Prensa"
-  },
-  {
-   "id": "1f339ea0543a",
-   "source": "Al Jazeera",
-   "title": "Democrat Troy Jackson wins Maine US Senate seat in blow to Republicans",
-   "description": "Longtime Republican Senator Susan Collins had held the seat for three decades, but was swept away in the blue wave.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/democrat-troy-jackson-wins-maine-us-senate-seat-in-blow-to-republicans?traffic_source=rss",
-   "date": "2026-11-04T07:04:35+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "40ad5b17ba2c",
    "source": "The Guardian",
    "title": "Aukus is ‘worst, riskiest and most costly’ Australian defence decision ever, public inquiry into submarine deal says",
@@ -122,16 +502,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6aa876fb7a05",
-   "source": "Al Jazeera",
-   "title": "South Africans vote in local elections seen as test for embattled ANC",
-   "description": "Polls suggest the governing party could fall below 40 percent as voters weigh failing services.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc?traffic_source=rss",
-   "date": "2026-11-04T06:57:06+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d05462ce6e55",
    "source": "BBC Mundo",
    "title": "Análisis: los demócratas destrozan el mapa político de Trump en una noche histórica",
@@ -139,26 +509,6 @@
    "url": "https://www.bbc.com/mundo/articles/cwy8lzy41z7lo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-04T06:54:58+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "8b2b15b3b52c",
-   "source": "Al Jazeera",
-   "title": "Firsts for women and minorities in US midterm elections",
-   "description": "The elections, which saw Democrats make big gains, also marked firsts for women and minorities in major offices.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/firsts-for-women-and-minorities-in-us-midterm-elections?traffic_source=rss",
-   "date": "2026-11-04T06:54:23+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "8b45319f1ad4",
-   "source": "Al Jazeera",
-   "title": "Democrat Amy Acton makes history in Ohio",
-   "description": "Democrat Amy Acton defeats Republican Vivek Ramaswamy to become the first ever woman to be elected as governor in Ohio.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-amy-acton-makes-history-in-ohio?traffic_source=rss",
-   "date": "2026-11-04T06:49:23+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -172,33 +522,13 @@
    "type": "Prensa"
   },
   {
-   "id": "0e89d384038b",
-   "source": "Al Jazeera",
-   "title": "Democratic Party gains US House majority in 2026 midterm elections",
-   "description": "All 435 seats in the lower chamber of Congress were on the ballot in Tuesday's midterm race.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections?traffic_source=rss",
-   "date": "2026-11-04T06:34:46+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "fcb2b93370b6",
-   "source": "BBC Mundo",
-   "title": "Quiénes son los grandes vencedores de la triunfal noche demócrata",
-   "description": "Te presentamos algunas de las estrellas de la \"ola azul\" demócrata que obtuvo este martes una aplastante victoria en un duro revés contra las políticas de Trump.",
-   "url": "https://www.bbc.com/mundo/articles/cqe9lej2zpzno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-04T06:28:33+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "4821d514025e",
-   "source": "Al Jazeera",
-   "title": "House Democratic leader Hakeem Jeffries hails midterm victory",
-   "description": "Top US Democratic politician Hakeem Jeffries has called the midterm results the start of a ‘great American comeback’.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss",
-   "date": "2026-11-04T06:26:19+00:00",
-   "category": "Oriente Medio",
+   "id": "14e9decea6f9",
+   "source": "Deutsche Welle",
+   "title": "Un tsunami demócrata barre Estado Unidos y le arrebata el Congreso a los republicanos de Donald Trump",
+   "description": "La oposición ganó el control de la Cámara de Representantes y el Senado, con triunfos en Carolina del Norte, Carolina del Sur, Ohio, y bastiones republicanos como Texas, Iowa y Kansas.",
+   "url": "https://www.dw.com/es/un-tsunami-demócrata-barre-estado-unidos-y-le-arrebata-el-congreso-a-los-republicanos-de-donald-trump/a-79850164?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-04T06:33:00+00:00",
+   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -229,16 +559,6 @@
    "url": "https://www.france24.com/es/video/20261104-roy-cooper-devolvi%C3%B3-carolina-del-norte-al-campo-dem%C3%B3crata-tras-casi-20-a%C3%B1os",
    "date": "2026-11-04T06:17:31+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "239e0cbbc8e1",
-   "source": "Al Jazeera",
-   "title": "Lula’s victory is a stress test for the Global South",
-   "description": "Trump can still punish Brazil for pursuing an independent course. Can China offer lasting alternatives to US dominance?",
-   "url": "https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss",
-   "date": "2026-11-04T06:12:59+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -302,16 +622,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9a6c1c8bca94",
-   "source": "Al Jazeera",
-   "title": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
-   "description": "CD Tenerife forward Jesus de Miguel died after suffering cardiac arrest following an on-field collision.",
-   "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
-   "date": "2026-11-04T05:49:43+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "6c8dd1b1cbd5",
    "source": "France 24",
    "title": "El 'Escudo de las Américas' de Trump: ¿también se puso a prueba en las urnas?",
@@ -319,16 +629,6 @@
    "url": "https://www.france24.com/es/programas/especial-noticias/20261104-el-escudo-de-las-am%C3%A9ricas-de-trump-tambi%C3%A9n-se-puso-a-prueba-en-las-urnas",
    "date": "2026-11-04T05:33:40+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "d09a95101e8e",
-   "source": "Al Jazeera",
-   "title": "Democrats dominate NYC races, Hochul re-elected New York governor",
-   "description": "Brad Lander, Darializa Avila Chevalier and Claire Valdez sweep their congressional races in key Democratic districts.",
-   "url": "https://www.aljazeera.com/economy/2026/11/4/democrats-dominate-nyc-races-hochul-re-elected-new-york-governor?traffic_source=rss",
-   "date": "2026-11-04T05:27:30+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -352,26 +652,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2116ae0afd72",
-   "source": "Al Jazeera",
-   "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
-   "description": "Kim Yo Jong refuses dialogue with US after denying responsibility for theft of more than $6bn in crypto assets.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
-   "date": "2026-11-04T05:11:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "e6c07afd6ab1",
-   "source": "Al Jazeera",
-   "title": "Keisha Lance Bottoms becomes Georgia’s first black governor",
-   "description": "Democrat Keisha Lance Bottoms has been elected Governor-elect of Georgia becoming the state's first black governor",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/keisha-lance-bottoms-becomes-georgias-first-black-governor?traffic_source=rss",
-   "date": "2026-11-04T05:07:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "684e77c87f9c",
    "source": "The Guardian",
    "title": "UK apologises to Ukrainian child refugees who were told to study Russian",
@@ -389,26 +669,6 @@
    "url": "https://www.bbc.com/mundo/articles/cr2ke7qdk71eo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-04T04:58:19+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "df683d85f668",
-   "source": "Al Jazeera",
-   "title": "Democrat Josh Turek flips Iowa Senate seat",
-   "description": "Turek beat Republican Ashley Hinson, a US House member.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
-   "date": "2026-11-04T04:55:10+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "92cb890d86be",
-   "source": "Al Jazeera",
-   "title": "Trump and Republicans trampled in the midterms",
-   "description": "Al Jazeera’s Alan Fisher says Republicans are facing a worse-than-expected midterm performance.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss",
-   "date": "2026-11-04T04:47:55+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -432,36 +692,6 @@
    "type": "Prensa"
   },
   {
-   "id": "da825b3a5280",
-   "source": "Al Jazeera",
-   "title": "Iran says US reply to Hormuz plan ‘unconvincing’; Trump confirms strikes",
-   "description": "Indirect talks continue as Trump says US military struck an Iranian anti-aircraft facility on Tuesday.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
-   "date": "2026-11-04T04:39:31+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "6997fcf99d62",
-   "source": "Al Jazeera",
-   "title": "Kansas elects first Democratic senator in almost a century",
-   "description": "Adam Hamilton beat Republican Roger Marshall in a highly competitive race.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss",
-   "date": "2026-11-04T04:37:12+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "19025bbf39b4",
-   "source": "Al Jazeera",
-   "title": "Democratic Party wins US Senate in 2026 midterm elections",
-   "description": "The outcome is widely seen as a rebuke to Trump's Republican Party, which won control of the chamber in 2024.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
-   "date": "2026-11-04T04:37:05+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "a74b92331ba2",
    "source": "Radio Bío-Bío",
    "title": "La demócrata Gina Hinojosa se convierte en la primera latina en gobernar Texas",
@@ -472,16 +702,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d2882cde3f49",
-   "source": "Al Jazeera",
-   "title": "Democrat Amy Acton beats Republican Vivek Ramaswamy in Ohio governor’s race",
-   "description": "Acton is the first Democrat to become governor of Ohio since 2006.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/democrat-amy-acton-beats-republican-vivek-ramaswamy-in-ohio-governors-race?traffic_source=rss",
-   "date": "2026-11-04T04:25:54+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "c3aacb89adde",
    "source": "BBC Mundo",
    "title": "\"Terremoto electoral\" en Texas: quién es James Talarico, el primer demócrata en ganar un lugar en el Senado desde 1988",
@@ -489,26 +709,6 @@
    "url": "https://www.bbc.com/mundo/articles/cwg7xk8ljmdyo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-04T04:19:23+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "738887c5efdc",
-   "source": "Al Jazeera",
-   "title": "Sherrod Brown, an Ohio Democrat, wins return to US Senate",
-   "description": "More than $500m was spent on the contest, making it one of the most expensive Senate races in US history.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss",
-   "date": "2026-11-04T04:19:14+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "22e3922e745e",
-   "source": "The Guardian",
-   "title": "Alleged attack on One Nation supporter not believed to be politically motivated, Victoria police say",
-   "description": "Police also allege Torquay man was attacked with a ‘blunt weapon’ rather than a baseball bat as originally reported Get our breaking news email , free app or daily news podcast An alleged attack on a One Nation supporter is not believed to have been politically motivated, Victori",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/04/alleged-attack-on-one-nation-volunteer-not-politically-motivated-victoria-police-ntwnfb",
-   "date": "2026-11-04T04:10:03+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -742,26 +942,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c306c64bee0b",
-   "source": "Radio Bío-Bío",
-   "title": "Corea del Norte lanza proyectil no identificado hacia el mar de Japón en medio de tensiones",
-   "description": "(llamado mar del Este en las dos Coreas), en medio de las crecientes tensiones intercoreanas después de que tres soldados surcoreanos resultaran heridos por la explosión de dos minas en la frontera en septiembre. El Estado Mayor Conjunto de Corea del Sur (JCS, por sus siglas en i",
-   "url": "https://www.biobiochile.cl/noticias/internacional/asia/2026/11/03/corea-del-norte-lanza-proyectil-no-identificado-hacia-el-mar-de-japon-en-medio-de-tensiones.shtml",
-   "date": "2026-11-04T01:24:11+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "87342f97bc94",
-   "source": "Radio Bío-Bío",
-   "title": "Santiago City se defiende tras desafiliación y advierte con acciones en TAS o justicia ordinaria",
-   "description": "Santiago City decidió defenderse con un comunicado tras ser notificados del veredicto de la Primera Sala del Tribunal de Disciplina que decretó su desafiliación. Recordemos que el cuadro ‘ciudadano’ fue sancionado por utilización de documentación falsa. Sin embargo, en la entidad",
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/03/santiago-city-se-defiende-tras-desafiliacion-y-advierte-con-acciones-en-tas-o-justicia-ordinaria.shtml",
-   "date": "2026-11-04T01:14:50+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "bb6b360aca4f",
    "source": "Radio Cooperativa",
    "title": "Real Betis de Pellegrini tendrá un desafío de alto nivel ante Borussia Dortmund en la Champions",
@@ -822,16 +1002,6 @@
    "type": "Prensa"
   },
   {
-   "id": "93196a544830",
-   "source": "Radio Cooperativa",
-   "title": "El viral mensaje de Marcelo Ríos en redes: \"Quién es Alexítico\"",
-   "description": "Marcelo Ríos , exnúmero uno del tenis mundial, sorprendió en sus redes sociales con una llamativa publicación que de inmediato se viralizó, con una fotografía de Leo Rey y un mensaje sobre Alexítico, líder del grupo La Noche. En la confusa publicación, Ríos escribió: \" El más brí",
-   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/marcelo-rios/el-viral-mensaje-de-marcelo-rios-en-redes-quien-es-alexitico/2026-11-03/210204.html",
-   "date": "2026-11-04T00:02:04+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "23fb0ddfbe6a",
    "source": "The Guardian",
    "title": "Houses of Parliament at risk of ‘Notre Dame-style fire’ as renovation costs rise",
@@ -849,16 +1019,6 @@
    "url": "https://www.dw.com/es/ministro-de-transportes-de-españa-dimite-tras-tragedia-ferroviaria/a-79848891?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-03T23:51:00+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "db23859675aa",
-   "source": "Radio Cooperativa",
-   "title": "Fernando Gago conoció su castigo por la expulsión tras el clásico universitario",
-   "description": "El argentino Fernando Gago, técnico de Universidad de Chile, fue castigado con una fecha por el Tribunal de Disciplina de la ANFP, por la expulsión después de la derrota de los azules ante la UC en el clásico universitario. Después del partido, Gago ingresó a la cancha y encaró a",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fernando-gago-conocio-su-castigo-por-la-expulsion-tras-el-clasico/2026-11-03/204048.html",
-   "date": "2026-11-03T23:40:48+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -898,36 +1058,6 @@
    "description": "La creación del Parque Nacional Cabo Froward, impulsada por Kristine Tompkins, vuelve a tomar fuerza con una nueva donación de 22.333 hectáreas al Estado. El…",
    "url": "https://www.ex-ante.cl/negocios/nuevo-parque-tompkins-cabo-froward-150-mil/",
    "date": "2026-11-03T22:56:43+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "5e268c2db2f2",
-   "source": "France 24",
-   "title": "¿Puede Trump afectar a la campaña republicana en las midterms al ser su principal vocero?",
-   "description": "Históricamente, las elecciones de mitad del mandato han funcionado como un referendo para la figura presidencial. Trump se ha puesto a la cabeza de los mitines de campaña del Partido Republicano, lanzando comentarios negativos sobre los demócratas, cuando en realidad los votantes",
-   "url": "https://www.france24.com/es/video/20261103-puede-trump-afectar-a-la-campa%C3%B1a-republicana-en-las-midterms-al-ser-su-principal-vocero",
-   "date": "2026-11-03T22:55:55+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "fcfc3ee60304",
-   "source": "Radio Cooperativa",
-   "title": "Parlamento de Venezuela aprobó en primera discusión la reforma a la \"Ley contra el odio\"",
-   "description": "El Parlamento de Venezuela , con mayoría chavista , aprobó este martes en primera discusión la reforma de la \"Ley contra el odio\" para despenalizar y establecer sanciones administrativas o multas a quienes incurran en estas faltas , tras una petición hecha a finales de septiembre",
-   "url": "https://www.cooperativa.cl/noticias/mundo/venezuela/politica/parlamento-de-venezuela-aprobo-en-primera-discusion-la-reforma-a-la-ley/2026-11-03/195447.html",
-   "date": "2026-11-03T22:54:47+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "abda27fe4bb8",
-   "source": "Radio Cooperativa",
-   "title": "Christell abordó denuncia de Mon Laferte contra exproductor de \"Rojo\": \"Ahora no se toleraría\"",
-   "description": "Christell Rodríguez se refirió a las acusaciones de acoso que realizó Mon Laferte contra Jaime Román , exproductor musical de \"Rojo\", durante el periodo en que ambas coincidieron en el programa de talentos de TVN. En conversación con \"Que te lo digo\", tras su presentación en la E",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/christell-abordo-denuncia-de-mon-laferte-contra-exproductor-de-rojo/2026-11-03/195217.html",
-   "date": "2026-11-03T22:52:17+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -992,16 +1122,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d0d0c59193d5",
-   "source": "The Guardian",
-   "title": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
-   "description": "Nobel winner warns the tech could be near to triggering major incident such as power or banking shutdown One of the “godfathers of AI”, Geoffrey Hinton, has said it could turn out that humans would have been better off never developing the technology as he warned it could trigger",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-   "date": "2026-11-03T21:35:42+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "44e434fc97a1",
    "source": "Ex-Ante",
    "title": "MOP agiliza la reconstrucción de Atacama y Coquimbo con 166 obras por US$321 millones y 9 mil empleos",
@@ -1039,16 +1159,6 @@
    "url": "https://www.dw.com/es/así-podrían-influir-las-elecciones-intermedias-en-ee-uu-en-las-guerras-de-ucrania-e-irán/a-79844126?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-03T21:23:00+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "afd2b1fd1307",
-   "source": "The Guardian",
-   "title": "British lawyer Dapo Akande elected to UN top court in big diplomatic win",
-   "description": "Akande joining the international court of justice comes a decade after previous British judge failed to get re-elected A British judge has been elected on to the UN’s international court of justice, in a big British diplomatic victory that comes almost 10 years after a previous B",
-   "url": "https://www.theguardian.com/law/2026/nov/03/british-lawyer-dapo-akande-elected-to-un-international-court-of-justice-diplomatic-win",
-   "date": "2026-11-03T21:09:39+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1102,6 +1212,16 @@
    "type": "Prensa"
   },
   {
+   "id": "500d71dee601",
+   "source": "The Guardian",
+   "title": "Two Australians confirmed dead in Spain’s high-speed train crash",
+   "description": "Legal body handling identification says three latest victims include two Australians and a Japanese citizen Get our breaking news email , free app or daily news podcast Two Australians are among 69 people who died in last week’s high-speed train collision after Spanish authoritie",
+   "url": "https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
+   "date": "2026-11-03T20:21:14+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
    "id": "1b7878942b2b",
    "source": "Ex-Ante",
    "title": "Ambición y poder: las palabras que nos enseñaron a decir en voz baja",
@@ -1109,16 +1229,6 @@
    "url": "https://www.ex-ante.cl/opinion/ambicion-y-poder-palabras-en-voz-baja/",
    "date": "2026-11-03T20:15:00+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "6eaacd9ff611",
-   "source": "Deutsche Welle",
-   "title": "Merz garantiza a Zelenski apoyo hasta el final de la guerra y más ayuda para el invierno",
-   "description": "El presidente ucraniano, Volodimir Zelenski, busca el respaldo en Berlín del canciller alemán, Friedrich Merz, de cara a nuevas negociaciones con Rusia y EE. UU. El canciller tuvo palabras claras hacia Moscú.",
-   "url": "https://www.dw.com/es/merz-garantiza-a-zelenski-apoyo-hasta-el-final-de-la-guerra-y-más-ayuda-para-el-invierno/a-79847171?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-03T20:07:00+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1162,16 +1272,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cdaaa72651b2",
-   "source": "Deutsche Welle",
-   "title": "Zelenski rechaza hablar por teléfono o reunirse con Putin en Moscú o Kiev",
-   "description": "Tras reunirse con el canciller alemán, Friedrich Merz, el presidente ucraniano descartó también una conversación telefónica con Putin. La próxima semana habrá contactos técnicos entre ambos países en Abu Dabi.",
-   "url": "https://www.dw.com/es/zelenski-rechaza-hablar-por-teléfono-o-reunirse-con-putin-en-moscú-o-kiev/a-79846820?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-03T19:22:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "00fc0b8cbb36",
    "source": "CIPER Chile",
    "title": "Derrumbe de los fondos D y E de las AFP afectará proceso de jubilación de unas 360.000 personas en edad de pensionarse",
@@ -1179,16 +1279,6 @@
    "url": "https://www.ciperchile.cl/2026/11/03/derrumbe-de-los-fondos-d-y-e-de-las-afp-afectara-proceso-de-jubilacion-de-unas-360-000-personas-en-edad-de-pensionarse/?utm_source=rss&utm_medium=rss&utm_campaign=derrumbe-de-los-fondos-d-y-e-de-las-afp-afectara-proceso-de-jubilacion-de-unas-360-000-personas-en-edad-de-pensionarse",
    "date": "2026-11-03T18:41:04+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "14f987104304",
-   "source": "The Guardian",
-   "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
-   "description": "Bomb threats were made on routes involving a number of airlines, including Ryanair and WizzAir Back to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the airport where the London flight was parked remain closed and is bei",
-   "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
-   "date": "2026-11-03T18:22:57+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1209,16 +1299,6 @@
    "url": "https://www.ex-ante.cl/politica/rabat-division-oficialista-rn-segundo-piso/",
    "date": "2026-11-03T17:42:37+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "112926a30192",
-   "source": "The Guardian",
-   "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
-   "description": "Unclear if series of incidents affecting two UK departures and several Ryanair services, among others, were connected Seven planes across Europe have been searched or diverted after a series of bomb threats were made to passenger flights, prompting questions as to whether there w",
-   "url": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
-   "date": "2026-11-03T17:32:45+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1375,7 +1455,7 @@
    "id": "ad1b23c7421b",
    "source": "BBC Mundo",
    "title": "La madre en Chile a la que obligaron a esperar que su bebé muriera en su vientre y a la que la justicia ahora da la razón",
-   "description": "Luego de que su hija fuera diagnosticada a las 11 semanas de gestación de un grave cuadro médico, Catalina Pizarro intentó por distintas vías acceder al aborto por inviabilidad fetal, una de las causales legales en Chile, pero no lo logró. Un tribunal dictaminó que su médico obst",
+   "description": "Catalina Pizarro intentó por distintas vías acceder al aborto por inviabilidad fetal pero no lo logró. Un tribunal dictaminó que su médico obstruyó su acceso al aborto. El fallo fue apelado.",
    "url": "https://www.bbc.com/mundo/articles/cm3el01qqeqxo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-03T11:58:03+00:00",
    "category": "Jurisprudencia",
@@ -1692,16 +1772,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d886e7235e6b",
-   "source": "Radio Cooperativa",
-   "title": "Con duelos claves en simultáneo: La programación de la fecha 27 de la Liga de Primera",
-   "description": "La Liga de Primera 2026 continuará con la fecha 27 a partir del sábado 7 de noviembre, en un fin de semana en donde se puede definir al campeón del fútbol chileno. Colo Colo, el líder del campeonato, tiene 10 puntos de ventaja sobre U. de Chile y si llega a ganar en su visita a Ñ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-claves-en-simultaneo-la-programacion-de-la-fecha-27-de-la/2026-11-01/210219.html",
-   "date": "2026-11-02T00:02:19+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "34769db6c7d8",
    "source": "Organización Mundial del Comercio",
    "title": "La UE inicia una investigación en materia de salvaguardias relativa a determinados vehículos híbridos nuevos",
@@ -1822,16 +1892,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f6b3aada2c39",
-   "source": "BBC Mundo",
-   "title": "\"Yo no pinto gordas\": qué hay detrás del estilo único del célebre artista colombiano Fernando Botero",
-   "description": "Las alegres pinturas del artista colombiano Fernando Botero reinterpretan algunas de las obras más icónicas y célebres de la historia del arte europeo. ¿Qué revela su singular visión sobre la historia del arte y el lugar que ocupa América Latina en ella?",
-   "url": "https://www.bbc.com/mundo/articles/c60me2mwjygko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-31T20:51:06+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "c82547da458d",
    "source": "BBC Mundo",
    "title": "\"Nos fuimos de vacaciones con nuestros vecinos e intercambiamos las familias: eso acabó destrozándonos\"",
@@ -1862,16 +1922,6 @@
    "type": "Prensa"
   },
   {
-   "id": "843d49a8cb8d",
-   "source": "BBC Mundo",
-   "title": "Por qué creer que la IA tiene conciencia y sentimientos puede ser catastrófico",
-   "description": "Algunos de los líderes tecnológicos más poderosos están tratando la IA como si tuviera sentimientos. Eso podría tener consecuencias profundas para nuestro mundo y para tu seguridad personal.",
-   "url": "https://www.bbc.com/mundo/articles/crwyqg71e5z4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-31T12:50:02+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "aedd2439cec9",
    "source": "Naciones Unidas",
    "title": "Cambio climático: Nueva York se protege elevando un parque para contener la subida del nivel del mar",
@@ -1880,16 +1930,6 @@
    "date": "2026-10-31T12:00:00+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Oficial"
-  },
-  {
-   "id": "8924ada7aaab",
-   "source": "BBC Mundo",
-   "title": "Cuáles son los animales más rápidos y dónde quedarían los humanos en una carrera con ellos",
-   "description": "¿Alguna vez te has preguntado si podrías ganar a un oso o a un caballo en una carrera? ¿Y qué hay de una rata o un rinoceronte? Las respuestas podrían sorprenderte.",
-   "url": "https://www.bbc.com/mundo/articles/cmwydvgy4xqzo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-31T11:17:21+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
   },
   {
    "id": "b375a9d28513",
@@ -2450,6 +2490,16 @@
    "date": "2026-10-10T07:49:45+00:00",
    "category": "",
    "type": "Oficial"
+  },
+  {
+   "id": "dbbc4dc71f68",
+   "source": "Radio Cooperativa",
+   "title": "Cartelera de conciertos 2026 en Chile",
+   "description": "CONCIERTOS 2026 EN CHILE CONCIERTOS NOVIEMBRE 2026 1 de noviembre - Iron Maiden - Estadio Nacional - Entradas 1 de noviembre - Alex Serra y Totidub - Club Chocolate - Entradas 1 de noviembre - Opeth - Santander Arena - Entradas 1 de noviembre - Nicole - Teatro Municipal Valparaís",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html",
+   "date": "2025-12-01T11:21:52+00:00",
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "9745c15368a2",
