@@ -1,24 +1,184 @@
 {
- "updated": "2026-11-04T02:42:52.182639+00:00",
+ "updated": "2026-11-04T03:45:29.564997+00:00",
  "items": [
   {
-   "id": "c03ef964f6db",
-   "source": "Radio Cooperativa",
-   "title": "Demócratas obtienen victorias claves y se acercan a obtener mayoría en Senado de EE.UU.",
-   "description": "Los demócratas retuvieron este martes , en las elecciones de medio mandato de Estados Unidos , los escaños del Senado en varios estados de la costa este , los primeros en cerrar los colegios electorales, victorias claves de cara a dominar el Congreso. Según las proyecciones de As",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/democratas-obtienen-victorias-claves-y-se-acercan-a-obtener-mayoria-en/2026-11-03/232017.html",
-   "date": "2026-11-04T02:20:17+00:00",
-   "category": "Elecciones",
+   "id": "28bcdd082795",
+   "source": "France 24",
+   "title": "El triunfo de Roy Cooper en Carolina del Norte, una de las gestas demócratas en las midterms",
+   "description": "Los demócratas se quedaron este martes 3 de noviembre con el escaño en el Senado que estaba en manos republicanas en Carolina del Norte y conservaron el asiento que quedará vacante en Nuevo Hampshire. Con estos resultados y a medida que avanzan los conteos de las midterms, crece ",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261104-el-triunfo-de-roy-cooper-en-carolina-del-norte-una-de-las-gestas-dem%C3%B3cratas-en-las-midterms",
+   "date": "2026-11-04T03:37:42+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "b554237b0250",
+   "source": "BBC Mundo",
+   "title": "Elecciones en EE.UU.: los demócratas recuperan la Cámara y apuntan a ganar el Senado en una noche triunfal para los rivales de Trump",
+   "description": "Estados Unidos elige a los miembros de toda la Cámara de Representantes y a un tercio del Senado en unas elecciones que marcarán los dos últimos años de mandato del presidente Donald Trump.",
+   "url": "https://www.bbc.com/mundo/articles/cv62y9278jz0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T03:29:55+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "2c6044b0fae6",
+   "source": "Al Jazeera",
+   "title": "Democrat Roy Cooper celebrates flipping North Carolina Senate seat",
+   "description": "Former North Carolina Governor Roy Cooper celebrated his Senate victory in Raleigh",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss",
+   "date": "2026-11-04T03:21:05+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "102eec1d154c",
+   "source": "Al Jazeera",
+   "title": "EU urges action as Germany, Romania and UK report supermarket cyberattacks",
+   "description": "EU says supermarket hacks in at least 11 countries are 'not isolated', but a Romanian official suspects no state actor.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss",
+   "date": "2026-11-04T03:16:37+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "06e458e37f8c",
+   "source": "Radio Bío-Bío",
+   "title": "Proyectan que el Partido Demócrata ganó el control de la Cámara de Representantes de EEUU",
+   "description": "Proyecciones de CNN y Washington Post indican que el Partido Demócrata ganó el control de la Caámara de Representantes de EEUU, luego de haber dado vuelta al menos cuatro distritos en manos del partido Republicano, además de mantener unos reñidos que estaban bajo su control. De a",
+   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/04/proyectan-que-el-partido-democrata-gano-el-control-de-la-camara-de-representantes-de-eeuu.shtml",
+   "date": "2026-11-04T03:11:04+00:00",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
    "id": "ff19132a3dfe",
    "source": "France 24",
-   "title": "Midterms: la demócrata Alexandria Ocasio-Cortez gana la reelección a la Cámara por NY",
+   "title": "\"Desafiante\": así se declara la Casa Blanca ante los avances demócratas en las midterms",
    "description": "",
    "url": "https://www.france24.com/es/especial/elecciones/midterms-ee-uu/mapa-de-resultados-2026",
-   "date": "2026-11-04T02:19:58+00:00",
+   "date": "2026-11-04T03:05:38+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "879a5a6038a2",
+   "source": "Radio Bío-Bío",
+   "title": "FNE aprueba sin condiciones el proyecto de acero verde de AZA y CAP en 91 hectáreas de Huachipato",
+   "description": "La Fiscalía Nacional Económica (FNE) , que fue anunciada en junio de este año, tras concluir que esta no resulta apta para reducir sustancialmente la libre competencia. A través de un comunicado público del Grupo CAP, se informó que AZA adquirirá 91 hectáreas de Huachipato y los ",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/03/fne-aprueba-acuerdo-de-aza-y-cap-para-proyecto-de-acero-verde-en-bio-bio-abarca-91-ha-de-huachipato.shtml",
+   "date": "2026-11-04T02:59:46+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "83054d7c6d7f",
+   "source": "Radio Bío-Bío",
+   "title": "Exigen firmeza a Cancillería frente a Argentina ante amenaza de incautación del buque Danstar",
+   "description": "Pese a los intentos del Gobierno por bajar el perfil a la controversia, el viaje del buque chileno Danstar a las islas Malvinas, previsto para diciembre, sigue generando tensiones con Argentina. Esta vez, la polémica se centra en un proyecto de ley presentado por la diputada arge",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/exigen-firmeza-a-cancilleria-frente-a-argentina-ante-amenaza-de-incautacion-del-buque-danstar.shtml",
+   "date": "2026-11-04T02:58:49+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "45357d18f234",
+   "source": "Radio Bío-Bío",
+   "title": "Defensa de Jorge Valdivia cuestiona a Fiscalía por trascendido de la pena contra el exfutbolista",
+   "description": "La defensa de Jorge Valdivia difundió una declaración en la que cuestiona al Ministerio Público por los trascendidos que dan cuenta de la pena que solicitará la Fiscalía Metropolitana Oriente. El documento, firmado por Paula Vial Reynal, abogada defensora del exfutbolista, indica",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/03/defensa-de-jorge-valdivia-cuestiona-a-fiscalia-por-trascendidos-de-la-pena-contra-el-exfutbolista.shtml",
+   "date": "2026-11-04T02:58:10+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "efde3fa54a01",
+   "source": "The Guardian",
+   "title": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
+   "description": "Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government Get our breaking news email , free app or daily news podcast Victoria’s public servants union says it will not support Labor at this m",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election",
+   "date": "2026-11-04T02:44:49+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "224cb93e5720",
+   "source": "Radio Bío-Bío",
+   "title": "Eva Gómez pide a seguidores de ’Fiebre de Canto’ que paren de lanzar odio: \"Hay un verdadero matonaje\"",
+   "description": "La noche de este martes, en un nuevo capítulo de Fiebre de Canto, la participante Eva Gómez dejó un mensaje para los seguidores del programa, así como quienes la apoyan. Tras ser evaluada por el jurado, tomó la palabra y sacó el tema del acoso por redes sociales. “Quiero decir po",
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/03/eva-gomez-pide-a-seguidores-de-fiebre-de-canto-que-paren-de-lanzar-odio-hay-un-verdadero-matonaje.shtml",
+   "date": "2026-11-04T02:41:36+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "22e3922e745e",
+   "source": "The Guardian",
+   "title": "Alleged attack on One Nation supporter not believed to be politically motivated, Victoria police say",
+   "description": "Police also allege Torquay man was attacked with a ‘blunt weapon’ rather than a baseball bat as originally reported An alleged attack on a One Nation supporter is not believed to have been politically motivated, Victoria police say, clarifying that a “blunt weapon” was allegedly ",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/04/alleged-attack-on-one-nation-volunteer-not-politically-motivated-victoria-police-ntwnfb",
+   "date": "2026-11-04T02:39:33+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "9fd32e1e116f",
+   "source": "Radio Bío-Bío",
+   "title": "Hombre muere aplastado por bus al que realizaba trabajos de mecánica en Angol",
+   "description": "Un , región de La Araucanía. Según información de Radio Bío Bío, el lamentable hecho tuvo lugar este martes en calle Almagro. El comisario de Carabineros de la comuna, mayor Fernando Quiñiñir Pino, afirmó que el individuo -presuntamente mecánico- estaba realizando trabajos de mec",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/11/03/hombre-muere-aplastado-por-bus-al-que-realizaba-trabajos-de-mecanica-en-angol.shtml",
+   "date": "2026-11-04T02:38:53+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "d947aefcc33d",
+   "source": "Al Jazeera",
+   "title": "Seven flights across Europe targeted by suspected bomb threats",
+   "description": "Seven flights across Europe were targeted by suspected bomb threats.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/seven-flights-across-europe-targeted-by-suspected-bomb-threats?traffic_source=rss",
+   "date": "2026-11-04T02:36:18+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5fd55ff7733f",
+   "source": "Radio Bío-Bío",
+   "title": "\"Respira por la herida\": dura crítica de libertarios a Matthei mientras la UDI apuesta por su regreso",
+   "description": "Evelyn Matthei dejó abierta la puerta a una tercera candidatura presidencial y en la UDI su nombre sigue sobre la mesa. Consultado por Radio Bío Bío, el presidente del partido, Guillermo Ramírez, dijo que estaría feliz de verla competir nuevamente, incluso como representante de t",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/respira-por-la-herida-dura-critica-de-libertarios-a-matthei-mientras-la-udi-apuesta-por-su-regreso.shtml",
+   "date": "2026-11-04T02:29:06+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "58f02470a991",
+   "source": "Al Jazeera",
+   "title": "Keisha Lance Bottoms makes history as Georgia’s first Black woman governor",
+   "description": "Bottoms, a former adviser to ex-President Joe Biden, beat Republican Rick Jackson.",
+   "url": "https://www.aljazeera.com/news/2026/11/4/keisha-lance-bottoms-makes-us-history-as-first-black-woman-elected-governor?traffic_source=rss",
+   "date": "2026-11-04T02:25:51+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "c03ef964f6db",
+   "source": "Radio Cooperativa",
+   "title": "Demócratas obtienen victorias claves y se acercan a obtener mayoría en Senado de EE.UU.",
+   "description": "Los primeros resultados de las elecciones de medio mandato en Estados Unidos apuntan a una victoria demócratas en ambas cámaras del Congreso , con conquistas claves en el Senado (Carolina del Norte y Georgia) . Las últimas proyecciones ya dan cuenta de que los demócratas lograrán",
+   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/democratas-obtienen-victorias-claves-y-se-acercan-a-obtener-mayoria-en/2026-11-03/232017.html",
+   "date": "2026-11-04T02:20:17+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "ea741f94310d",
+   "source": "The Guardian",
+   "title": "Uber pays its drivers ‘wages’ and is liable for $81m payroll tax bill, Australia’s high court rules",
+   "description": "Rideshare company unsuccessfully argued it didn’t employ workers and claimed money paid was not wages under NSW law The rideshare behemoth Uber has suffered a bruising loss in Australia’s high court that will cost it more than $80m in unpaid taxes. The court on Wednesday dismisse",
+   "url": "https://www.theguardian.com/technology/2026/nov/04/uber-australia-high-court-loss-driver-wages-81m-payroll-tax-bill-ntwnfb",
+   "date": "2026-11-04T02:15:01+00:00",
+   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -52,12 +212,62 @@
    "type": "Prensa"
   },
   {
+   "id": "fc6c3d6a610d",
+   "source": "Radio Bío-Bío",
+   "title": "Escándalo por Ueno bank salpica al gobierno de Paraguay: Una renuncia, disturbios y millones en alerta",
+   "description": "El presidente del Banco Central del Paraguay (BCP), Carlos Carvallo, renunció este martes a su cargo, en medio del , cuya crisis ha afectado a miles de ahorristas y amenaza con extenderse al sector público e incluso al deporte. Ueno comenzó a operar como banco en noviembre de 202",
+   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/03/escandalo-por-ueno-bank-sacude-al-gobierno-de-paraguay-una-renuncia-disturbios-y-millones-en-alerta.shtml",
+   "date": "2026-11-04T02:03:53+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "48e9f686acf5",
+   "source": "Radio Bío-Bío",
+   "title": "Entre carteles contra Rabat y acusación por supuesto uso de IA: la tensa jornada por Presupuesto 2027",
+   "description": "Con carteles exigiendo la renuncia del ministro de Justicia, Fernando Rabat, y acusaciones por el supuesto uso de inteligencia artificial para redactar indicaciones, estuvo marcada la segunda jornada de discusión de la Ley de Presupuestos 2027 en la Comisión Mixta. La tensión se ",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/entre-carteles-contra-rabat-y-acusacion-por-supuesto-uso-de-ia-la-tensa-jornada-por-presupuesto-2027.shtml",
+   "date": "2026-11-04T02:03:49+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
    "id": "e817852a78e1",
    "source": "Radio Cooperativa",
    "title": "Adolescente de 15 años protagonizó confuso incidente con arma de carabinero en Rengo",
    "description": "Bajo la medida cautelar de internación provisoria quedó un menor de 15 años investigado por los delitos de homicidio frustrado , lesiones graves , porte de arma blanca y oponerse a la acción de Carabineros , tras un procedimiento registrado en la comuna de Rengo, Región de O'Higg",
    "url": "https://www.cooperativa.cl/noticias/pais/region-de-ohiggins/adolescente-de-15-anos-protagonizo-confuso-incidente-con-arma-de/2026-11-03/225940.html",
    "date": "2026-11-04T01:59:40+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "595667143f74",
+   "source": "Radio Bío-Bío",
+   "title": "\"Los tres mosqueteros de la libertad\": el ácido análisis de comediante española por visita de Kast",
+   "description": "La comediante española conocida como “Señora Bien” o “Piluchi” (Cristina Gallego), lanzó ácidos comentarios en el marco de la visita de José Antonio Kast a España, donde recientemente se reunió con Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid. Fue en el programa El Int",
+   "url": "https://www.biobiochile.cl/noticias/sociedad/debate/2026/11/03/los-tres-mosqueteros-de-la-libertad-el-acido-analisis-de-comediante-espanola-por-visita-de-kast.shtml",
+   "date": "2026-11-04T01:49:19+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "87ef2584d6ab",
+   "source": "Radio Bío-Bío",
+   "title": "Trump descarta resultado vergonzoso de Republicanos, mientras recuento muestra ventaja de Demócratas",
+   "description": "El en una entrevista telefónica con CBS News durante la jornada electoral en la que también defendió su maratoniana gira electoral. Esto, mientras los demócratas toman ventaja con el primer recuento de votos. “Tenemos buenas posibilidades. Pero no vamos a pasar por una situación ",
+   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/03/trump-descarta-resultado-vergonzoso-de-republicanos-mientras-recuento-muestra-ventaja-de-democratas.shtml",
+   "date": "2026-11-04T01:49:17+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "06840069f08e",
+   "source": "Radio Bío-Bío",
+   "title": "Titan Forest Patagonia: argentino Germán Dorhmann ganó segunda etapa tras lucha con Pipo Rodríguez",
+   "description": "Después de un primer día intenso, la Titan Forest Patagonia continuó este martes 3 de noviembre con una segunda etapa algo más moderada, con un recorrido en bucle que comenzó y terminó en el campamento en Villa Cerro Castillo. La jornada contempló 75 kilómetros y 1.483 metros de ",
+   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/03/titan-forest-patagonia-argentino-german-dorhmann-gano-segunda-etapa-tras-lucha-con-pipo-rodriguez.shtml",
+   "date": "2026-11-04T01:41:05+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -92,6 +302,36 @@
    "type": "Prensa"
   },
   {
+   "id": "609a254cd40e",
+   "source": "Radio Bío-Bío",
+   "title": "\"¡Renuncia Rabat!\": el grito de diputada PDG que irrumpió mientras ministro estaba en la Cámara",
+   "description": "Mientras el ministro de Justicia, Fernando Rabat, participaba de una sesión de comisión en el tercer piso de la Cámara de Diputadas y Diputados, unos pisos más abajo una parlamentaria del Partido de la Gente (PDG) optó por una forma bastante menos institucional de expresar su pos",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/renuncia-rabat-el-grito-de-diputada-del-pdg-que-irrumpio-mientras-ministro-estaba-en-la-camara.shtml",
+   "date": "2026-11-04T01:26:53+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "c306c64bee0b",
+   "source": "Radio Bío-Bío",
+   "title": "Corea del Norte lanza proyectil no identificado hacia el mar de Japón en medio de tensiones",
+   "description": "(llamado mar del Este en las dos Coreas), en medio de las crecientes tensiones intercoreanas después de que tres soldados surcoreanos resultaran heridos por la explosión de dos minas en la frontera en septiembre. El Estado Mayor Conjunto de Corea del Sur (JCS, por sus siglas en i",
+   "url": "https://www.biobiochile.cl/noticias/internacional/asia/2026/11/03/corea-del-norte-lanza-proyectil-no-identificado-hacia-el-mar-de-japon-en-medio-de-tensiones.shtml",
+   "date": "2026-11-04T01:24:11+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "87342f97bc94",
+   "source": "Radio Bío-Bío",
+   "title": "Santiago City se defiende tras desafiliación y advierte con acciones en TAS o justicia ordinaria",
+   "description": "Santiago City decidió defenderse con un comunicado tras ser notificados del veredicto de la Primera Sala del Tribunal de Disciplina que decretó su desafiliación. Recordemos que el cuadro ‘ciudadano’ fue sancionado por utilización de documentación falsa. Sin embargo, en la entidad",
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/03/santiago-city-se-defiende-tras-desafiliacion-y-advierte-con-acciones-en-tas-o-justicia-ordinaria.shtml",
+   "date": "2026-11-04T01:14:50+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
    "id": "e7d3ce307fa8",
    "source": "Al Jazeera",
    "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
@@ -122,6 +362,16 @@
    "type": "Prensa"
   },
   {
+   "id": "28ee2eb5efec",
+   "source": "Radio Bío-Bío",
+   "title": "El drama de pareja de chilenos detenida en EEUU: tienen un bebé de dos meses y padre sigue en custodia",
+   "description": "Una . Actualmente, el hombre se encuentra detenido, mientras que la mujer se alista para retornar a Chile junto a su hija de 2 meses. De acuerdo con los antecedentes, la organización KUER conversó con Javiera Quiroga, de 25 años, quien llegó a EEUU en busca de una mejor calidad d",
+   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/03/el-drama-de-pareja-de-chilenos-detenida-en-eeuu-tienen-un-bebe-de-dos-meses-y-padre-sigue-en-custodia.shtml",
+   "date": "2026-11-04T01:07:01+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "851412cf3a8a",
    "source": "Al Jazeera",
    "title": "UN elects five judges to International Court of Justice amid record cases",
@@ -132,6 +382,26 @@
    "type": "Prensa"
   },
   {
+   "id": "6b9ae6a24cfb",
+   "source": "Radio Bío-Bío",
+   "title": "Ataque con lápiz y grilletes: Defensora relata cómo su representado intentó matarla en plena audiencia",
+   "description": "Nicole Sánchez, la defensora agredida por su propio representado en el Centro de Justicia de Santiago, relató el contexto del ataque. “Esto ocurrió en una audiencia de control de detención, que es la que solemos tomar como defensores públicos”, afirmó. Del mismo modo, Sánchez exp",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/03/ataque-con-lapiz-y-grilletes-defensora-relata-como-su-representado-intento-matarla-en-plena-audiencia.shtml",
+   "date": "2026-11-04T01:03:11+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "6797f98ef8d8",
+   "source": "Radio Bío-Bío",
+   "title": "\"Temo resultar herida\": Christa Pike pide no regresar al módulo de prisión donde estaba recluida",
+   "description": "La reclusa estadounidense Christa Pike, que sobrevivió a dos inyecciones letales el pasado 30 de septiembre en el estado de Tennessee (EE.UU.), pidió este martes al tribunal no regresar al módulo penitenciario en el que permanecía recluida debido al “historial de agresiones” de o",
+   "url": "https://www.biobiochile.cl/noticias/sociedad/debate/2026/11/03/temo-resultar-herida-christa-pike-pide-no-regresar-al-modulo-de-prision-donde-estaba-recluida.shtml",
+   "date": "2026-11-04T01:02:31+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
    "id": "88fc59f8c3c0",
    "source": "Al Jazeera",
    "title": "Jon Ossoff wins Georgia Senate race, defeating Republican Mike Collins",
@@ -139,6 +409,26 @@
    "url": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
    "date": "2026-11-04T00:59:58+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "bb43a7aaddeb",
+   "source": "Radio Bío-Bío",
+   "title": "Raphinha admite ’shock’ por muerte de Jesús de Miguel y rechaza hablar de sus goles: \"No es buen día\"",
+   "description": "Raphinha, estrella del Barcelona y la selección de Brasil, no escondió sentirse profundamente golpeado por la muerte de Jesús de Miguel, futbolista del Tenerife que perdió la vida tras un violento choque en cancha con el arquero Jesús Owono del Andorra. Tras ser la figura del con",
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/11/03/raphinha-reconoce-shock-por-muerte-de-jesus-de-miguel-y-evita-hablar-de-su-doblete-no-es-buen-dia.shtml",
+   "date": "2026-11-04T00:49:56+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "59694d34f99d",
+   "source": "Radio Bío-Bío",
+   "title": "Trump proclama \"semana anticomunista\" en EEUU justo en conteo de votos de elecciones de Medio Mandato",
+   "description": "El presidente de Estados Unidos, Donald Trump, proclamó este martes la “Semana Anticomunista” del 1 al 7 de noviembre, coincidiendo con el inicio del cierre de los primeros colegios electorales en las elecciones legislativas. La Administración difundió el documento en su sitio we",
+   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/03/trump-proclama-semana-anticomunista-en-eeuu-justo-en-conteo-de-votos-de-elecciones-de-medio-mandato.shtml",
+   "date": "2026-11-04T00:47:13+00:00",
+   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -242,16 +532,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b554237b0250",
-   "source": "BBC Mundo",
-   "title": "Elecciones en EE.UU.: empiezan a llegar los primeros resultados de unos comicios vistos como un referendo a Trump",
-   "description": "Estados Unidos elige a los miembros de toda la Cámara de Representantes y a un tercio del Senado en unas elecciones que marcarán los dos últimos años de mandato del presidente Donald Trump.",
-   "url": "https://www.bbc.com/mundo/articles/cv62y9278jz0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-04T00:07:34+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "93196a544830",
    "source": "Radio Cooperativa",
    "title": "El viral mensaje de Marcelo Ríos en redes: \"Quién es Alexítico\"",
@@ -282,13 +562,13 @@
    "type": "Prensa"
   },
   {
-   "id": "ca04c4e71306",
-   "source": "Radio Bío-Bío",
-   "title": "VIDEO | Con lápiz y grilletes: así atacó un imputado a su defensora en pleno Centro de Justicia",
-   "description": ", así fue el repentino ataque que sufrió una defensora penal pública por parte de su representado en plena audiencia de control de detención en el Centro de Justicia de Santiago. Tras ello, este lunes se confirmó la prisión preventiva para el sujeto. El particular episodio ocurri",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/03/video-con-lapiz-y-grilletes-asi-ataco-un-imputado-a-su-defensora-en-pleno-centro-de-justicia.shtml",
-   "date": "2026-11-03T23:49:33+00:00",
-   "category": "",
+   "id": "f7217221a415",
+   "source": "Deutsche Welle",
+   "title": "Ministro de Transportes de España dimite tras tragedia ferroviaria",
+   "description": "Óscar Puerte anunció que dejaba el cargo durante una audiencia ante el Congreso de los Diputados, seis días después del accidente de Toledo.",
+   "url": "https://www.dw.com/es/ministro-de-transportes-de-españa-dimite-tras-tragedia-ferroviaria/a-79848891?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-03T23:51:00+00:00",
+   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -312,11 +592,11 @@
    "type": "Prensa"
   },
   {
-   "id": "b76f7b91373c",
+   "id": "181f6b1ab683",
    "source": "Deutsche Welle",
-   "title": "Cierran primeros centros de votación en Indiana y Kentucky",
+   "title": "Demócratas arrebatan escaño del Senado en Carolina del Norte",
    "description": "Las elecciones que definirán la segunda parte del mandato de Donald Trump son también relevantes para el resto del planeta. Acá les contamos todos los detalles de esta jornada.",
-   "url": "https://www.dw.com/es/cierran-primeros-centros-de-votación-en-indiana-y-kentucky/live-79845739?maca=spa-rss-sp-all-1122-xml-mrss",
+   "url": "https://www.dw.com/es/demócratas-arrebatan-escaño-del-senado-en-carolina-del-norte/live-79845739?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-03T23:32:00+00:00",
    "category": "Elecciones",
    "type": "Prensa"
@@ -332,16 +612,6 @@
    "type": "Prensa"
   },
   {
-   "id": "17cd965d52c9",
-   "source": "Radio Bío-Bío",
-   "title": "Daniel Jadue arriba a la Municipalidad de Cerro Navia como asesor urbanístico de la Secpla",
-   "description": "Desde este mes el exalcalde de Recoleta, Daniel Jadue, inició labores como asesor urbanístico de la Secretaría Comunal de Planificación (Secpla) en la Municipalidad de Cerro Navia. Así lo confirmaron a BioBioChile fuentes que conocen la interna de la corporación edilicia. El exje",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/03/daniel-jadue-arriba-a-la-municipalidad-de-cerro-navia-como-asesor-urbanistico-de-la-secpla.shtml",
-   "date": "2026-11-03T23:17:58+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "1246980beb0a",
    "source": "Ex-Ante",
    "title": "El cambio de gabinete que alista La Moneda: Rabat saldría con otros ministros, ingresarían más políticos y ajustes en el Segundo Piso",
@@ -352,26 +622,6 @@
    "type": "Prensa"
   },
   {
-   "id": "08d22a7b8993",
-   "source": "Radio Bío-Bío",
-   "title": "FIDOCS 30 presenta su programación: una maratón sobre Borges y homenajes a Patricio Guzmán",
-   "description": "Del 12 al 19 de noviembre, el festival reunirá cerca de 60 títulos en Santiago. Estrenos, cine chileno y funciones gratuitas marcarán una edición que cruza memoria, territorio y nuevas formas de mirar la realidad. The post FIDOCS 30 presenta su programación: una maratón sobre Bor",
-   "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2026/11/03/fidocs-30-presenta-su-programacion-una-maraton-sobre-borges-y-homenajes-a-patricio-guzman.shtml",
-   "date": "2026-11-03T23:11:45+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "b4c99eacafce",
-   "source": "Radio Bío-Bío",
-   "title": "Cierran 3 estaciones de la Línea 2 del Metro por emergencia médica",
-   "description": "Durante la tarde de este martes, Metro de Santiago reportó el cierre de tres estaciones de la Línea 2 debido a una emergencia médica. La medida afecta las paradas de Asimismo, se suspendió la combinación de estas dos últimas con las Líneas 3 y 5, respectivamente. De esta manera, ",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/03/cierran-3-estaciones-de-la-linea-2-del-metro-por-emergencia-medica.shtml",
-   "date": "2026-11-03T23:04:23+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "a8d99cf0c096",
    "source": "Al Jazeera",
    "title": "First polls close in pivotal US midterm elections",
@@ -379,16 +629,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss",
    "date": "2026-11-03T23:03:42+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "53d285b75931",
-   "source": "Radio Bío-Bío",
-   "title": "Pamela Díaz reveló cuánto donará este año a la Teletón: \"Uno tiene que hacer un esfuerzo\"",
-   "description": "Pamela Díaz reveló cuánto donará este año a la Teletón. En el podcast Hoy es Hoy, con Chiqui Aguayo, dijo que partió donando 45.000 pesos en el pasado, pero ahora la cifra subió e incluso sumará a sus hijos a la donación. “Yo partí con 45 lucas y ahora voy en 700“, contó, “y este",
-   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/03/pamela-diaz-revelo-cuanto-donara-este-ano-a-la-teleton-uno-tiene-que-hacer-un-esfuerzo.shtml",
-   "date": "2026-11-03T22:59:57+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -432,26 +672,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f103f2632280",
-   "source": "Radio Bío-Bío",
-   "title": "Más de la mitad de la Suprema podría inhabilitarse en votación de desafuero de senador Calisto",
-   "description": "La defensa de Miguel Ángel Calisto busca apartar a la mitad de la Corte Suprema de la votación de su desafuero, argumentando que ya se pronunciaron sobre los mismos hechos investigados cuando era diputado. La decisión podría inhabilitar a 10 magistrados y dejaría a solo nueve min",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/mas-de-la-mitad-de-la-suprema-podria-inhabilitarse-en-votacion-de-desafuero-de-senador-calisto.shtml",
-   "date": "2026-11-03T22:53:41+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "17c468c6a955",
-   "source": "Radio Bío-Bío",
-   "title": "Organizaciones feministas se manifiestan frente a La Moneda y el Congreso exigiendo renuncia de Rabat",
-   "description": "Una serie de manifestaciones se han registrado la tarde de este martes, donde . Según información de Radio Bío Bío, en la ciudad puerto se trata de una manifestación convocada por la Coordinadora Feminista 8M esta tarde en calle Rawson, específicamente en la Plaza O’Higgins de Va",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/organizaciones-feministas-se-manifiestan-frente-a-la-moneda-y-el-congreso-exigiendo-renuncia-de-rabat.shtml",
-   "date": "2026-11-03T22:53:08+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "8e863c5f4458",
    "source": "France 24",
    "title": "Informe desde Detroit: Michigan, un estado afectado por las políticas arancelarias de Trump",
@@ -462,16 +682,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2f55255ede59",
-   "source": "Radio Bío-Bío",
-   "title": "En 2 semanas abrirá una nueva postulación al Subsidio DS1: revisa los 4 tramos a los que podrás optar",
-   "description": "El próximo correspondiente al Segundo Llamado Nacional 2026. Además de los habituales tramos 1, 2 y 3 para compra o construcción de viviendas, en esta oportunidad debutará el nuevo tramo 4, que permitirá la compra de inmuebles de hasta 4.000 UF. La fecha de inicio varía según el ",
-   "url": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/11/03/en-2-semanas-abrira-una-nueva-postulacion-al-subsidio-ds1-revisa-los-4-tramos-a-los-que-podras-optar.shtml",
-   "date": "2026-11-03T22:52:52+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "abda27fe4bb8",
    "source": "Radio Cooperativa",
    "title": "Christell abordó denuncia de Mon Laferte contra exproductor de \"Rojo\": \"Ahora no se toleraría\"",
@@ -479,16 +689,6 @@
    "url": "https://www.cooperativa.cl/noticias/magazine/musica/christell-abordo-denuncia-de-mon-laferte-contra-exproductor-de-rojo/2026-11-03/195217.html",
    "date": "2026-11-03T22:52:17+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a723074094b5",
-   "source": "Radio Bío-Bío",
-   "title": "Santiago City sufre desafiliación: Primera Sala confirmó veredicto por caso de documentación falsa",
-   "description": "La Primera Sala del Tribunal de Disciplina oficializó este martes la desafiliación de Santiago City del fútbol chileno, tras denuncia de utilización de documentación falsa. Recordemos que, tal como informó BioBioChile en su momento, el club de la región Metropolitana fue acusado ",
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/03/santiago-city-sufre-desafiliacion-primera-sala-confirmo-veredicto-por-caso-de-documentacion-falsa.shtml",
-   "date": "2026-11-03T22:49:47+00:00",
-   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -512,26 +712,6 @@
    "type": "Prensa"
   },
   {
-   "id": "981bac84ecda",
-   "source": "Radio Bío-Bío",
-   "title": "Avanza proyecto que ajusta plazos para instalación de los SLEP y fija límite hasta 2030",
-   "description": "La comisión de Educación de la Cámara de Diputadas y Diputados aprobó y despachó el proyecto que busca flexibilizar la segunda etapa de instalación y traspaso de los Servicios Locales de Educación Pública (SLEP), iniciativa que continuará ahora su tramitación en la Sala, en el ma",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/avanza-proyecto-que-ajusta-plazos-para-instalacion-de-los-slep-y-fija-limite-hasta-2030.shtml",
-   "date": "2026-11-03T22:48:22+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "627186bd6759",
-   "source": "Radio Bío-Bío",
-   "title": "Champions League: Bayern, Inter, PSG y Barcelona no tuvieron piedad, mientras United remontó con épica",
-   "description": "Una jornada emotiva y goleadora se registró este martes en la Champions League, el torneo de clubes más importante de Europa. Una donde los favoritos se hicieron respetar, ya sea de local o visitante. Por ejemplo, el PSG, bicampeón vigente, le dio una paliza al Villarreal, en Esp",
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/11/03/champions-league-bayern-inter-psg-y-barcelona-no-tuvieron-piedad-mientras-united-remonto-con-epica.shtml",
-   "date": "2026-11-03T22:45:45+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "0784883b177d",
    "source": "France 24",
    "title": "Informe desde Atlanta: expectativa por los resultados de las midterms en Georgia, un estado dividido",
@@ -539,16 +719,6 @@
    "url": "https://www.france24.com/es/video/20261103-informe-desde-atlanta-expectativa-por-los-resultados-de-las-midterms-en-georgia-un-estado-dividido",
    "date": "2026-11-03T22:43:59+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "27c3cdef2516",
-   "source": "Radio Bío-Bío",
-   "title": "Revés para Luis Hermosilla: Corte confirma su prisión preventiva en penal de Casablanca",
-   "description": "Luis Hermosilla continuará en prisión preventiva en el penal de Casablanca, en la región de Valparaíso. La Corte de Apelaciones de Santiago confirmó la resolución del Cuarto Juzgado de Garantía que ordenó mantenerlo privado de libertad, tras su formalización por La Octava Sala re",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/reves-para-luis-hermosilla-corte-confirma-su-prision-preventiva-en-penal-de-casablanca.shtml",
-   "date": "2026-11-03T22:38:48+00:00",
-   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -562,16 +732,6 @@
    "type": "Prensa"
   },
   {
-   "id": "465f432e9b8c",
-   "source": "Radio Bío-Bío",
-   "title": "Longueira fija límite a diputados UDI por caso Rabat: \"No pueden votar a favor de una acusación\"",
-   "description": "Desde la UDI, Pablo Longueira se pronunció sobre la controversia que enfrenta el ministro de Justicia, Fernando Rabat, a raíz de los decretos de rebaja de penas, y marcó una distinción entre la responsabilidad política del secretario de Estado y los argumentos jurídicos para impu",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/longueira-fija-limite-a-diputados-udi-por-caso-rabat-no-pueden-votar-a-favor-de-una-acusacion.shtml",
-   "date": "2026-11-03T22:31:28+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "ac7ca5c01dd9",
    "source": "Al Jazeera",
    "title": "US midterm election results live: Democrats up as vote count under way",
@@ -582,46 +742,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c6e4ab04c52e",
-   "source": "Radio Bío-Bío",
-   "title": "Llegó la hora para Jorge Valdivia: Fiscalía pedirá 22 años de cárcel por delitos sexuales reiterados",
-   "description": "En las últimas horas se conoció que la Fiscalía Metropolitana Oriente pedirá 22 años de cárcel para Jorge Valdivia en el marco de una investigación en su contra por Se trata de una acusación presentada por el fiscal Rodrigo Célis, de la Unidad de Género. Fue luego de dos denuncia",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/03/llego-la-hora-para-jorge-valdivia-fiscalia-pedira-22-anos-de-carcel-por-delitos-sexuales-reiterados.shtml",
-   "date": "2026-11-03T22:26:55+00:00",
-   "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
-   "id": "fb58cff1b1fd",
-   "source": "Radio Bío-Bío",
-   "title": "\"Un día de furia que ha tenido el presidente\": Flores (DC) por emplazamiento de Kast por AC a Rabat",
-   "description": "El senador Iván Flores (DC) acusó al presidente José Antonio Kast de “torear” al Congreso luego que los desafiara a presentar la acusación constitucional contra el ministro de Justicia, Fernando Rabat. “Han tenido una semana y no lo han hecho”, indicó el mandatario desde Roma. An",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/un-dia-de-furia-que-ha-tenido-el-presidente-flores-dc-por-emplazamiento-de-kast-por-ac-a-rabat.shtml",
-   "date": "2026-11-03T22:25:26+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "8bbe69dc273e",
-   "source": "Radio Bío-Bío",
-   "title": "EN VIVO | Cierran los primeros centros y se espera por resultados iniciales de legislativas en EEUU",
-   "description": "Cobertura Minuto a Minuto elecciones Medio Mandato de EEUU – Los centros de votación en las zonas este de los estados de Indiana y Kentucky fueron este martes los primeros de Estados Unidos en cerrar, a las 18:00 hora de la costa este, y en comenzar con el recuento para las elecc",
-   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/03/en-vivo-sigue-aca-los-primeros-resultados-de-las-elecciones-de-medio-mandato-en-eeuu.shtml",
-   "date": "2026-11-03T22:21:45+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "4bf079f5a674",
-   "source": "Radio Bío-Bío",
-   "title": "Muere a los 63 años Romano Vercellino, fundador de la exportadora de frutas Verfrut",
-   "description": "El empresario Romano Vercellino Dellafiori, fundador de la productora y exportadora de frutas Verfrut, falleció a los 63 años, según información publicada por DF y confirmada a Radio Bío Bío. Vercellino fue una figura ligada a la industria frutícola nacional, donde desarrolló una",
-   "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/11/03/muere-a-los-63-anos-romano-vercellino-fundador-de-la-exportadora-de-frutas-verfrut.shtml",
-   "date": "2026-11-03T22:20:56+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "e08605b8da83",
    "source": "Al Jazeera",
    "title": "Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa",
@@ -629,16 +749,6 @@
    "url": "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss",
    "date": "2026-11-03T22:19:13+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "19f128a8146c",
-   "source": "Radio Bío-Bío",
-   "title": "Noche de Museos: dónde revisar las visitas, exposiciones y otras actividades de la edición 2026",
-   "description": "El próximo viernes 13 de noviembre se realizará la edición 2026 de Noche de Museos, un evento organizado por el Ministerio de las Culturas durante el cual se pueden visitar espacios culturales en horario vespertino. Este evento invita a las personas a visitar museos y espacios mu",
-   "url": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/03/noche-de-museos-donde-revisar-las-visitas-exposiciones-y-otras-actividades-de-la-edicion-2026.shtml",
-   "date": "2026-11-03T22:16:43+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -662,16 +772,6 @@
    "type": "Prensa"
   },
   {
-   "id": "dec528bf89a0",
-   "source": "Radio Bío-Bío",
-   "title": "ANFP oficializa cambios a programación de fecha 27: UdeC-O’Higgins y Católica-Limache los ’afectados’",
-   "description": "La Asociación Nacional de Fútbol Profesional (ANFP) oficializó este martes dos modificaciones a la programación de la fecha 27 de la Liga de Primera. La primera de ellas involucra a Universidad Católica y Deportes Limache, duelo que se disputaría, en principio, el domingo 8 de no",
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/03/anfp-oficializa-cambios-a-programacion-de-fecha-27-udec-ohiggins-y-catolica-limache-los-afectados.shtml",
-   "date": "2026-11-03T22:04:35+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "d974090c51f6",
    "source": "The Guardian",
    "title": "Reform UK councillor charged with 12 counts of rape and multiple other offences",
@@ -679,16 +779,6 @@
    "url": "https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape",
    "date": "2026-11-03T22:04:24+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "4d10dfbb2809",
-   "source": "Radio Bío-Bío",
-   "title": "Cuco Cerda aborda supuesto quiebre con Daniela Aránguiz: \"Como en todas las parejas hay altos y bajos\"",
-   "description": "José Manuel “Cuco” Cerda abordó los rumores sobre un supuesto quiebre con Daniela Aránguiz. En declaraciones a Alfombra Roja, no confirmó ni descartó la situación, aunque dio a entender que sigue en contacto con ella. “Prefiero dejar esa conversación para mi vida privada”, sostuv",
-   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/03/cuco-cerda-aborda-supuesto-quiebre-con-daniela-aranguiz-como-en-todas-las-parejas-hay-altos-y-bajos.shtml",
-   "date": "2026-11-03T22:00:40+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -764,11 +854,11 @@
   {
    "id": "301188963c97",
    "source": "BBC Mundo",
-   "title": "El Banco Central del Paraguay interviene Ueno Bank, uno de los mayores bancos del país, y deja congelados los ahorros de millones de clientes",
+   "title": "Paraguay interviene Ueno Bank, uno de los mayores bancos del país, y deja congelados los ahorros de millones de clientes",
    "description": "Ueno es uno de los principales bancos del país y, según sus propias cifras, tiene 3 millones de clientes, lo que equivale a un 60% de la población adulta de Paraguay, y gestiona más de US$800 millones de dinero público.",
    "url": "https://www.bbc.com/mundo/articles/ckx2qj89lggxo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-03T21:28:19+00:00",
-   "category": "Política monetaria",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -842,16 +932,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ac1f14e9055e",
-   "source": "Al Jazeera",
-   "title": "Kyiv protest raises suspicions of possible Russian orchestration",
-   "description": "Ukraine is investigating clashes between protesters and authorities at a military dormitory near Kyiv.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
-   "date": "2026-11-03T20:54:44+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "45e612303396",
    "source": "Ex-Ante",
    "title": "Más allá de la fusión entre SalfaCorp y Angelini: las cifras del negocio del senior housing que gana terreno en Chile",
@@ -902,16 +982,6 @@
    "type": "Prensa"
   },
   {
-   "id": "500d71dee601",
-   "source": "The Guardian",
-   "title": "Two Australians confirmed dead in Spain’s high-speed train crash",
-   "description": "Legal body handling identification says three latest victims include two Australians and a Japanese citizen Get our breaking news email , free app or daily news podcast Two Australians are among 69 people who died in last week’s high-speed train collision after Spanish authoritie",
-   "url": "https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
-   "date": "2026-11-03T20:21:14+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "1b7878942b2b",
    "source": "Ex-Ante",
    "title": "Ambición y poder: las palabras que nos enseñaron a decir en voz baja",
@@ -939,16 +1009,6 @@
    "url": "https://www.dw.com/es/merz-garantiza-a-zelenski-apoyo-hasta-el-final-de-la-guerra-y-más-ayuda-para-el-invierno/a-79847171?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-03T20:07:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "86ff122994ba",
-   "source": "Al Jazeera",
-   "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
-   "description": "Michigan’s closely contested Senate race and voter concerns over the economy are putting Trump’s control of Washington.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
-   "date": "2026-11-03T20:00:30+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1009,26 +1069,6 @@
    "url": "https://www.dw.com/es/zelenski-rechaza-hablar-por-teléfono-o-reunirse-con-putin-en-moscú-o-kiev/a-79846820?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-03T19:22:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "a9eaaff762c6",
-   "source": "Al Jazeera",
-   "title": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
-   "description": "Abdul El-Sayed hopes to become the first Muslim US senator as Michigan's Senate race reaches its critical final hours.",
-   "url": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
-   "date": "2026-11-03T19:13:49+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "cd5bcf252349",
-   "source": "Al Jazeera",
-   "title": "Severe weather disrupts election day across several US states",
-   "description": "Flash floods, torrential rain and tornadoes have disrupted midterm election day in several US states.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss",
-   "date": "2026-11-03T19:13:19+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1192,16 +1232,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b7c19f295b4a",
-   "source": "France 24",
-   "title": "Trump anuncia que Estados Unidos dejará de entregar 4.000 millones de dólares anuales en ayuda a Israel",
-   "description": "Según explicó en una entrevista telefónica con Fox News, la decisión fue acordada con el primer ministro israelí, Benjamín Netanyahu, quien habría planteado la posibilidad de interrumpir los fondos. Trump justificó la medida al afirmar que Israel es un país próspero que ya no nec",
-   "url": "https://www.france24.com/es/medio-oriente/20261103-trump-anuncia-que-estados-unidos-dejar%C3%A1-de-entregar-4-000-millones-de-d%C3%B3lares-anuales-en-ayuda-a-israel",
-   "date": "2026-11-03T16:55:22+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "d14f3219af89",
    "source": "Deutsche Welle",
    "title": "'La bola negra', el fenómeno cinematográfico español que triunfa en taquilla y también conquista Hollywood",
@@ -1209,26 +1239,6 @@
    "url": "https://www.dw.com/es/la-bola-negra-el-fenómeno-cinematográfico-español-que-triunfa-en-taquilla-y-también-conquista-hollywood/a-79845445?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-03T16:43:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "b7699cd7b9e0",
-   "source": "Deutsche Welle",
-   "title": "Trump confirma un ataque estadounidense contra una instalación en Irán",
-   "description": "El bombardeo alcanzó la isla iraní de Qeshm, en el estrecho de Ormuz. Mientras Washington lo presenta como una operación defensiva, Teherán advierte de que una nueva escalada militar no beneficiaría a nadie.",
-   "url": "https://www.dw.com/es/trump-confirma-un-ataque-estadounidense-contra-una-instalación-en-irán/a-79844938?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-03T16:26:00+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "ce968bd5aa18",
-   "source": "France 24",
-   "title": "Informe desde Detroit: Michigan promete ser un estado decisorio para las midterms",
-   "description": "Michigan es uno de los estados clave que podrían inclinar la balanza en la Cámara de Representantes y el Senado de Estados Unidos. El candidato demócrata Abdul El-Sayed ha aprovechado el impulso del ala más progresista de su partido en un estado donde los demócratas no pierden un",
-   "url": "https://www.france24.com/es/video/20261103-informe-desde-detroit-michigan-promete-ser-un-estado-decisorio-para-las-midterms",
-   "date": "2026-11-03T16:20:29+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1269,26 +1279,6 @@
    "url": "https://www.dw.com/es/el-consorcio-biontech-dice-adiós-a-sus-fundadores-con-reporte-de-ganancias/a-79843457?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-03T14:25:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "efde3fa54a01",
-   "source": "The Guardian",
-   "title": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
-   "description": "Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government Get our breaking news email , free app or daily news podcast Victoria’s public servants union says it will not support Labor at this m",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election",
-   "date": "2026-11-03T14:00:46+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "bde6d33b459d",
-   "source": "The Guardian",
-   "title": "Snowy Hydro 2.0 executives awarded bonuses totalling $751,925 despite cost blowout",
-   "description": "Annual reports show NSW renewable company’s CEO opted out of cash bonus, while CSIRO’s chief received an extra $200,000 Get our breaking news email , free app or daily news podcast Executives at the troubled Snowy Hydro company collectively banked bonuses worth a combined $751,92",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/04/snowy-hydro-20-executives-awarded-bonuses-totalling-751925-despite-cost-blowout",
-   "date": "2026-11-03T14:00:44+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
