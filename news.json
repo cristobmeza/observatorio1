@@ -1,6 +1,226 @@
 {
- "updated": "2026-11-05T10:56:55.538788+00:00",
+ "updated": "2026-11-05T11:51:58.907423+00:00",
  "items": [
+  {
+   "id": "aeab0b843969",
+   "source": "Al Jazeera",
+   "title": "Why more investment is not making housing affordable in Ghana",
+   "description": "High costs, limited financing and rising demand keep homes out of reach.",
+   "url": "https://www.aljazeera.com/news/2026/11/5/why-more-investment-is-not-making-housing-affordable-in-ghana?traffic_source=rss",
+   "date": "2026-11-05T11:42:29+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "8b982b6abeb7",
+   "source": "Al Jazeera",
+   "title": "Palantir mines battlefield intelligence but is Ukraine ‘paying with blood’?",
+   "description": "The US company is using Kyiv’s unique war data to train its controversial technologies.",
+   "url": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss",
+   "date": "2026-11-05T11:34:29+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "57d6f438532b",
+   "source": "The Guardian",
+   "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+   "description": "Fifteen flights across Europe have received bomb threats so far today, with some forced to divert And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats this morning: that’s a WizzAir service from Milan Malpensa to Warsaw,",
+   "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+   "date": "2026-11-05T11:34:14+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "dcd10ec82141",
+   "source": "Al Jazeera",
+   "title": "‘Knives out’: Will Congress impeach Pete Hegseth after GOP midterms loss?",
+   "description": "Democrats can adopt the impeachment articles in the House but will need Republican backing in the Senate.",
+   "url": "https://www.aljazeera.com/news/2026/11/5/knives-out-will-congress-impeach-pete-hegseth-after-gop-midterms-loss?traffic_source=rss",
+   "date": "2026-11-05T11:33:38+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2fb3bdbad874",
+   "source": "Al Jazeera",
+   "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
+   "description": "Despite wins, Democrats lack the two-thirds majority needed to overturn a presidential veto and push through a law.",
+   "url": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts?traffic_source=rss",
+   "date": "2026-11-05T11:32:40+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "618fb038b142",
+   "source": "Radio Cooperativa",
+   "title": "Santiago Morning aclaró la salida de Esteban Paredes: \"Fue de mutuo acuerdo\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Luego de las diversas versiones surgidas tras el término del ciclo técnico de Esteban Paredes, la dirigencia de Santiago Morning emitió un comunicado público para aclarar los términos de la desvinculación del histórico arti",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/santiago-morning/santiago-morning-aclaro-la-salida-de-esteban-paredes-fue-de-mutuo/2026-11-05/083228.html",
+   "date": "2026-11-05T11:32:28+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e88ddb7447bd",
+   "source": "BBC Mundo",
+   "title": "El vicepresidente JD Vance, en la cuerda floja con Trump tras su feroz crítica por la derrota republicana en las elecciones",
+   "description": "La contundente valoración que hizo el vicepresidente de la derrota electoral republicana marcó una de las rupturas más marcadas con un presidente en ejercicio en la historia reciente.",
+   "url": "https://www.bbc.com/mundo/articles/cxj0l66rrdz4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-05T11:31:25+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "130d7d6b4bc9",
+   "source": "Radio Cooperativa",
+   "title": "Rebajas de condenas: Gobierno acusó a la oposición de crear \"circo político con un drama humano\"",
+   "description": "El subsecretario y vocero de Gobierno, Gonzalo Arenas , acusó a la oposición de montar un \"circo político\" con la controversia por las rebajas de condenas otorgadas a personas sentenciadas por delitos sexuales contra niños, niñas y adolescentes . Las declaraciones se producen mie",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/delitos-sexuales/rebajas-de-condenas-gobierno-acuso-a-la-oposicion-de-crear-circo/2026-11-05/082721.html",
+   "date": "2026-11-05T11:27:21+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "e15c110f9f4f",
+   "source": "The Guardian",
+   "title": "Police and firefighters around UK gearing up to tackle Bonfire Night disorder",
+   "description": "Leeds and Edinburgh among areas hit by fireworks-related violence in previous years, as fire brigades union warns of insufficient resources Emergency services are preparing for potential disorder in parts of the UK on Bonfire Night, amid concerns over the safety of firefighters f",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/05/police-firefighters-uk-preparing-for-bonfire-night-disorder",
+   "date": "2026-11-05T11:24:58+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "f46bbdf8f99a",
+   "source": "The Guardian",
+   "title": "UK can avoid euro but must accept free movement to rejoin EU, says former top Brexit negotiator – UK politics live",
+   "description": "Michel Barnier says Britain could avoid having to join the single currency, but free movement is non-negotiable Government plans for eight new regional water councils in England have been dismissed as a “cover for inaction” by the Liberal Democrats. The proposals are being presen",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
+   "date": "2026-11-05T11:21:10+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "4916f7e3898c",
+   "source": "Radio Cooperativa",
+   "title": "Sindicatos franceses van por protestas masivas y rechazan esperar elección de 2027",
+   "description": "Luego de varias semanas de tensión social y violentas protestas , los grandes sindicatos franceses esperan una movilización masiva en la jornada de manifestaciones y huelga general convocadas para este jueves, al tiempo que rechazan que sea inútil mantener la presión sobre un gob",
+   "url": "https://www.cooperativa.cl/noticias/mundo/francia/sindicatos-franceses-van-por-protestas-masivas-y-rechazan-esperar/2026-11-05/081920.html",
+   "date": "2026-11-05T11:19:20+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "c8a632e68d1a",
+   "source": "The Guardian",
+   "title": "Pound hits highest level since its crash after 2016 Brexit vote",
+   "description": "Ten-year high shows sterling’s strength against other currencies following fall of dollar after US midterm elections Business live – latest updates The pound has hit its highest level since its crash in the wake of the Brexit referendum a decade ago. Data released by the Bank of ",
+   "url": "https://www.theguardian.com/business/2026/nov/05/pound-hits-highest-level-since-2016-brexit-vote",
+   "date": "2026-11-05T11:14:30+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "efebee45a032",
+   "source": "BBC Mundo",
+   "title": "\"Ha llegado el día de devolver la camiseta número 7\": Cristiano Ronaldo anuncia su retiro de la selección de Portugal",
+   "description": "El delantero de 41 años es considerado el mejor jugador en la historia de su país, además de ser el mayor goleador histórico.",
+   "url": "https://www.bbc.com/mundo/articles/ck8dz330rjmvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-05T11:13:41+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "9d1f292d2217",
+   "source": "Al Jazeera",
+   "title": "Visualising how the US midterms turned the map blue",
+   "description": "Who voted, which seats flipped and who made history? A look at the numbers behind the 2026 US midterm elections.",
+   "url": "https://www.aljazeera.com/news/2026/11/5/visualising-how-the-us-midterms-turned-the-map-blue?traffic_source=rss",
+   "date": "2026-11-05T11:09:58+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "dcbfd374730d",
+   "source": "Radio Cooperativa",
+   "title": "Ana Gabriel agota concierto en Chile y suma segundo show para 2027",
+   "description": "La cantante Ana Gabriel sumó un segundo concierto en Chile luego de agotar la fecha que había anunciado para el 14 de abril de 2027 en el Santander Aren a. La intérprete de \"Quién Como Tú\" volverá al país a tres años de su última actuación y lo hará en el marco de su nueva gira \"",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/ana-gabriel-agota-concierto-en-chile-y-suma-segundo-show-para-2027/2026-11-05/080924.html",
+   "date": "2026-11-05T11:09:24+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "aae8c4d63fcd",
+   "source": "Radio Cooperativa",
+   "title": "Cristiano Ronaldo anunció su retiro de la selección portuguesa",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Cristiano Ronaldo anunció este jueves su retiro definitivo de la selección portuguesa de fútbol con una publicación en redes sociales en la que afirmó que \"llegó el día de devolver la camiseta siete de la selección\". \"Llegó",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/cristiano-ronaldo/cristiano-ronaldo-anuncio-su-retiro-de-la-seleccion-portuguesa/2026-11-05/080919.html",
+   "date": "2026-11-05T11:09:19+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "3c83247c3ef9",
+   "source": "Radio Cooperativa",
+   "title": "Justicia europea limitó los detergentes que parecen alimentos",
+   "description": "El Tribunal de Justicia de la Unión Europea (TJUE) estableció que las autoridades nacionales pueden prohibir la venta de detergentes y otros productos químicos peligrosos cuyos envases puedan confundirse con los de alimentos . En su sentencia, dictada a raíz de la prohibición en ",
+   "url": "https://www.cooperativa.cl/noticias/mundo/europa/union-europea/justicia-europea-limito-los-detergentes-que-parecen-alimentos/2026-11-05/080633.html",
+   "date": "2026-11-05T11:06:33+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "620df8ec90c0",
+   "source": "The Guardian",
+   "title": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil",
+   "description": "Older voters praised for helping tip balance in leftwing president’s favour against far-right Flávio Bolsonaro in runoff It had been nearly a decade since Celia de Oliveira Soares last voted, and months since the 101-year-old great-grandmother last left her home. But on 25 Octobe",
+   "url": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
+   "date": "2026-11-05T11:00:21+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "91873b66d1aa",
+   "source": "Radio Bío-Bío",
+   "title": "Vecinos protestan en subida La Gloria de Talcahuano acusando demoras en reparación de socavón",
+   "description": "Vecinos de los cerros de Talcahuano, región del Bío Bío, protestaron en la subida La Gloria por los compromisos que adquirió el Serviu respecto del socavón que se generó en el sector tras las intensas lluvias de las últimas semanas. , sin embargo, aún no se les da inicio, afectan",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/05/vecinos-protestan-en-subida-la-gloria-de-talcahuano-acusando-demoras-en-reparacion-de-socavon.shtml",
+   "date": "2026-11-05T10:58:49+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "048fd24ec932",
+   "source": "Al Jazeera",
+   "title": "Cristiano Ronaldo announces retirement from international football",
+   "description": "The 41-year-old Portuguese legend says he will 'hand back the number 7 shirt' in social media post.",
+   "url": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football?traffic_source=rss",
+   "date": "2026-11-05T10:57:26+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "40f5eb08d294",
+   "source": "Deutsche Welle",
+   "title": "Cristiano Ronaldo anuncia su retirada de la selección portuguesa",
+   "description": "Cristiano Ronaldo, CR7, anunció su retirada definitiva de la selección portuguesa de fútbol con una publicación en redes sociales en la que afirmó que \"llegó el día de devolver la camiseta siete de la selección\".",
+   "url": "https://www.dw.com/es/cristiano-ronaldo-anuncia-su-retirada-de-la-selección-portuguesa/a-79863384?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-05T10:57:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "d355422420c3",
+   "source": "Radio Cooperativa",
+   "title": "Nobel de Física sobre colonizar Marte: \"Una absoluta locura\"",
+   "description": "El Premio Nobel de Física 2019, Michel Mayor, consideró que colonizar Marte u otros planetas es \"una absoluta locura\" y algo que está fuera de las posibilidades humanas, por lo que advierte de que la humanidad tiene que asumir que la Tierra es su único hogar y debe cuidarlo. \"Se ",
+   "url": "https://www.cooperativa.cl/noticias/sociedad/astronomia/marte/nobel-de-fisica-sobre-colonizar-marte-una-absoluta-locura/2026-11-05/075302.html",
+   "date": "2026-11-05T10:53:02+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "13f6400f0d5e",
    "source": "Radio Cooperativa",
@@ -12,23 +232,33 @@
    "type": "Prensa"
   },
   {
-   "id": "57d6f438532b",
-   "source": "The Guardian",
-   "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
-   "description": "France confirms Dublin-Rome flight has landed in military base, while threats also reported in Italy, Bulgaria and Belgium And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats this morning: that’s a WizzAir service from ",
-   "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-   "date": "2026-11-05T10:44:17+00:00",
-   "category": "Europa",
+   "id": "d3650a2f9ddc",
+   "source": "Radio Bío-Bío",
+   "title": "Nano Calderón descarta ser el padre del hijo que espera su expareja colombiana: \"Para tranquilidad\"",
+   "description": "Nano Calderón decidió poner fin a las especulaciones sobre una supuesta paternidad, luego de que su expareja colombiana, Erika Robayó, anunciara que se encuentra embarazada. La noticia había generado una serie de rumores en redes sociales, principalmente porque la influencer no e",
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/05/nano-calderon-descarta-ser-el-padre-del-hijo-que-espera-su-expareja-colombiana-para-tranquilidad.shtml",
+   "date": "2026-11-05T10:42:52+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
-   "id": "f46bbdf8f99a",
-   "source": "The Guardian",
-   "title": "UK can avoid euro but must accept free movement to rejoin EU, says former top Brexit negotiator – UK politics live",
-   "description": "Michel Barnier says Britain could avoid having to join the single currency, but free movement is non-negotiable Britons did not get to vote in the US midterm elections, but if they had, it is not hard to guess what would have happened. New research out today from the British Soci",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
-   "date": "2026-11-05T10:41:41+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "id": "bceb13aaf3ac",
+   "source": "Radio Bío-Bío",
+   "title": "Valdano pide parar odio contra arquero tras muerte de delantero del Tenerife: \"No busquemos culpables\"",
+   "description": "En una emotiva columna publicada en El País, el exfutbolista y entrenador argentino Jorge Valdano reflexionó sobre la tragedia que sacudió al fútbol español y cuestionó los señalamientos contra el guardameta, quien recibió mensajes de odio tras el fatal choque. “No busquemos culp",
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/11/05/valdano-pide-parar-odio-contra-arquero-tras-muerte-de-delantero-del-tenerife-no-busquemos-culpables.shtml",
+   "date": "2026-11-05T10:41:11+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "6b97bbc2bb6a",
+   "source": "Radio Cooperativa",
+   "title": "San Miguel: tres detenidas en casino clandestino, incluidas dos jugadoras adultas mayores",
+   "description": "Un operativo policial permitió la incautación de 71 máquinas tragamonedas en un casino clandestino ubicado en Gran Avenida , en la comuna de San Miguel . El procedimiento terminó con tres personas detenidas , entre ellas la encargada del establecimiento, una ciudadana china , ade",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/san-miguel-tres-detenidas-en-casino-clandestino-incluidas-dos/2026-11-05/073741.html",
+   "date": "2026-11-05T10:37:41+00:00",
+   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -59,6 +289,16 @@
    "url": "https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss",
    "date": "2026-11-05T10:34:42+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "874423c03a39",
+   "source": "Radio Bío-Bío",
+   "title": "Francisco Huaiquipán enfrentará a la justicia este jueves tras ser detenido por violación",
+   "description": "El exfutbolista Francisco Huaiquipán fue detenido en Los Vilos en el marco de una investigación por violación. Este jueves enfrentará a la justicia en la capital durante el respectivo control de detención. El exjugador de Colo Colo fue detenido la tarde del miércoles en la región",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/05/francisco-huaiquipan-enfrentara-a-la-justicia-este-jueves-tras-ser-detenido-por-violacion.shtml",
+   "date": "2026-11-05T10:26:52+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -112,6 +352,16 @@
    "type": "Prensa"
   },
   {
+   "id": "89a03b1e9311",
+   "source": "Radio Bío-Bío",
+   "title": "Cesfam de Bajos de Mena sufre nuevo ataque tras balacera con cinco heridos: Toledo critica al Gobierno",
+   "description": "La Policía de Investigaciones indaga una balacera que dejó cinco personas heridas en el sector de Bajos de Mena, Puente Alto. El alcalde de la comuna, Matías Toledo, denunció un nuevo ataque al Centro de Salud Familiar (Cesfam) Raúl Silva Enríquez a raíz de lo ocurrido. Según la ",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/05/cesfam-de-bajos-de-mena-sufre-nuevo-ataque-tras-balacera-con-cinco-heridos-toledo-critica-al-gobierno.shtml",
+   "date": "2026-11-05T10:04:58+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
    "id": "33521f09a621",
    "source": "Al Jazeera",
    "title": "England’s Harry Kane extends Bayern Munich contract until 2029",
@@ -119,6 +369,26 @@
    "url": "https://www.aljazeera.com/sports/2026/11/5/englands-harry-kane-extends-bayern-munich-contract-until-2029?traffic_source=rss",
    "date": "2026-11-05T10:04:26+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "656d1d7c7b18",
+   "source": "Radio Bío-Bío",
+   "title": "Chris Carpentier revela que sufrió dos infartos y debió ser intervenido: \"Hay que bajar el ritmo\"",
+   "description": "El reconocido chef chileno Chris Carpentier preocupó a sus seguidores luego de revelar que sufrió dos infartos cardíacos y debió someterse a una intervención médica mientras se encontraba en Colombia, país donde reside actualmente. El cocinero de 53 años compartió la noticia dura",
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/05/chris-carpentier-revela-que-sufrio-dos-infartos-y-debio-ser-intervenido-hay-que-bajar-el-ritmo.shtml",
+   "date": "2026-11-05T10:04:08+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "bcea7fa545d5",
+   "source": "Radio Bío-Bío",
+   "title": "María Teresa Larraín: Cuerpos en Crisis es una película que me deja esperanzas",
+   "description": "La directora María Teresa Larraín (Niña Sombra) conversa sobre su último documental, Cuerpos en Crisis. En él sigue a cinco activistas sociales durante el Proceso Constituyente, impactada por las personas con lesiones oculares. Algo especial dado su largo y avanzado proceso de pé",
+   "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2026/11/05/maria-teresa-larrain-cuerpos-en-crisis-es-una-pelicula-que-me-deja-esperanzas.shtml",
+   "date": "2026-11-05T10:02:05+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -174,8 +444,8 @@
   {
    "id": "d72b4ea022a6",
    "source": "Al Jazeera",
-   "title": "Bomb threat diverts Dublin-Rome flight to France",
-   "description": "A separate incident has been reported in Bulgaria, amid a string of bomb threats disrupting air travel across Europe.",
+   "title": "New bomb threats bring more disruption to flights across Europe",
+   "description": "Flights make emergency landings in France, Italy and Bulgaria days after bomb threats disrupted air traffic.",
    "url": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
    "date": "2026-11-05T09:50:08+00:00",
    "category": "Oriente Medio",
@@ -195,7 +465,7 @@
    "id": "3d9164a004f4",
    "source": "The Guardian",
    "title": "Met settles claim brought by Palestine activist ‘treated like a criminal’ during arrest",
-   "description": "Tej Singh Bhandal, 68, was pulled from a queue and detained under terrorism law in ‘creeping criminalisation of protest action’ The Metropolitan police have settled a claim brought by a 68-year-old pro-Palestinian activist who accused the force of treating him “like a criminal” w",
+   "description": "Tej Singh Bhandal, 68, was detained at train station under terrorism law in ‘creeping criminalisation of protest action’ The Metropolitan police have settled a claim brought by a 68-year-old pro-Palestinian activist who accused the force of treating him “like a criminal” when he ",
    "url": "https://www.theguardian.com/world/2026/nov/05/met-settles-claim-brought-by-palestine-activist-treated-like-a-criminal-during-arrest",
    "date": "2026-11-05T09:47:01+00:00",
    "category": "Oriente Medio",
@@ -209,6 +479,26 @@
    "url": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
    "date": "2026-11-05T09:44:33+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "97f315854d17",
+   "source": "Radio Bío-Bío",
+   "title": "\"Tu personaje huele a naftalina\": Ennio Carota contra Yann Yvin por trato a participante de MasterChef",
+   "description": "Ennio Carota lanzó duras críticas contra Yann Yvin luego de que el chef francés protagonizara un tenso momento con uno de los participantes de ‘MasterChef Chile’, durante el capítulo emitido este lunes por TVN. La polémica se originó cuando Nicolás Berlinger presentó su preparaci",
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/05/tu-personaje-huele-a-naftalina-ennio-carota-contra-yann-yvin-por-trato-a-participante-de-masterchef.shtml",
+   "date": "2026-11-05T09:32:24+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "d21950dbfef0",
+   "source": "Radio Bío-Bío",
+   "title": "Motociclista muere tras chocar contra un auto estacionado en Macul",
+   "description": "Un motociclista murió durante la noche de este miércoles tras protagonizar un accidente de tránsito en la comuna de Macul, en un sector aledaño al Estadio Monumental. El hecho ocurrió minutos antes de la medianoche, en la intersección de avenida Pintor Benito Rebolledo con pasaje",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/05/motociclista-muere-tras-chocar-contra-un-auto-estacionado-en-macul.shtml",
+   "date": "2026-11-05T09:30:28+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -249,16 +539,6 @@
    "url": "https://www.dw.com/es/alerta-de-bomba-desvía-un-airbus-a320-que-volaba-de-dublín-a-roma/a-79861618?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-05T09:03:00+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "e4359d7b667e",
-   "source": "The Guardian",
-   "title": "Poundland’s US owner says retailer remains ‘vulnerable’, after talks with ministers",
-   "description": "Gordon Brothers still in ‘active discussions’ with interested parties and seeking to ‘protect as many jobs as possible’ The US owner of Poundland has said the high street chain remains “challenged and vulnerable” after holding talks with ministers amid government criticism of its",
-   "url": "https://www.theguardian.com/business/2026/nov/05/poundland-gordon-brothers-us-vulnerable-talks-ministers",
-   "date": "2026-11-05T08:57:13+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -372,16 +652,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e8c1c1ec4259",
-   "source": "The Guardian",
-   "title": "Ministers to target ‘wild west’ of ebikes blocking pavements",
-   "description": "Exclusive: Consultation led by Department for Transport will consider parking standards, fleet sizes and insurance requirements Ministers are seeking to end the “wild west” of parked ebikes blocking pavements, as they attempt to crack down on antisocial behaviour such as cyclists",
-   "url": "https://www.theguardian.com/world/2026/nov/05/e-bikes-blocking-pavements-department-for-transport",
-   "date": "2026-11-05T07:00:57+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "15d501a0c573",
    "source": "The Guardian",
    "title": "Accused double murderer gives evidence in high-profile case – as it happened",
@@ -442,16 +712,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ed7a95666269",
-   "source": "Al Jazeera",
-   "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
-   "description": "Netanyahu's rivals say US midterm results show Israel 'cannot afford' to have the prime minister remain in office.",
-   "url": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
-   "date": "2026-11-05T05:39:31+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d311cb8c2393",
    "source": "The Guardian",
    "title": "‘Bring it on’: Pauline Hanson to appeal Mehreen Faruqi racial discrimination ruling in high court",
@@ -492,26 +752,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b6073d341ef1",
-   "source": "Al Jazeera",
-   "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
-   "description": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.",
-   "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
-   "date": "2026-11-05T04:49:56+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "39a62a17347b",
-   "source": "Al Jazeera",
-   "title": "Mamdani: ‘it’s morning again in America’ after blue wave",
-   "description": "New York City Mayor Zohran Mamdani urged fellow Democrats to ‘fulfill promises’ after sweeping wins.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss",
-   "date": "2026-11-05T04:30:18+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "25f10b1ffe4d",
    "source": "Deutsche Welle",
    "title": "Hong Kong: condenan a 10 años más de prisión a activista prodemocracia",
@@ -539,36 +779,6 @@
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/05/candidato-a-la-cpc-por-rebaja-de-penas-a-pederastas-a-la-persona-comun-este-tema-no-le-importa.shtml",
    "date": "2026-11-05T04:12:22+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "f9492c5f9b66",
-   "source": "Al Jazeera",
-   "title": "Brazilian airport torn apart by violent storm",
-   "description": "Dramatic footage captured the moment a powerful tornado struck Chapecó Airport in Santa Catarina, Brazil",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss",
-   "date": "2026-11-05T04:12:11+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "05da3a71c26c",
-   "source": "Al Jazeera",
-   "title": "Paraguay bank collapses with half of population’s savings",
-   "description": "Protests have erupted across Paraguay after Ueno Bank was shut down in the middle of the night over a solvency crisis.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
-   "date": "2026-11-05T04:11:45+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "62389fe89e0f",
-   "source": "Al Jazeera",
-   "title": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
-   "description": "Hong Kong activist Joshua Wong, who became the global face of Hong Kong’s pro-democracy movement has been sentenced.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss",
-   "date": "2026-11-05T04:04:57+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -722,26 +932,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3819f6532ace",
-   "source": "Radio Bío-Bío",
-   "title": "Sala Cuna supera valla en la Cámara: Gobierno celebra avance mientras oposición acusa \"negocio\"",
-   "description": "Tras una doble jornada de debate, que se extendió hasta pasadas las 19:00 horas, la Comisión de Trabajo de la Cámara de Diputadas y Diputados despachó el proyecto de Sala Cuna Universal, que ahora continuará su tramitación en la Comisión de Hacienda. La instancia completó la vota",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/04/sala-cuna-supera-valla-en-la-camara-gobierno-celebra-avance-mientras-oposicion-acusa-negocio.shtml",
-   "date": "2026-11-05T02:03:53+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "007ac1ee1643",
-   "source": "Radio Cooperativa",
-   "title": "K-dramas en riesgo: industria surcoreana advierte posible colapso pese a su éxito mundial",
-   "description": "Doce asociaciones de la industria televisiva de Corea del Sur alertaron este miércoles sobre el riesgo de colapso de la producción de series y telenovelas surcoreanas , conocidas como K-dramas, pese a su popularidad mundial, y reclamaron mayores inversiones públicas. \"La base de ",
-   "url": "https://www.cooperativa.cl/noticias/magazine/television/k-dramas-en-riesgo-industria-surcoreana-advierte-posible-colapso-pese-a/2026-11-04/230324.html",
-   "date": "2026-11-05T02:03:24+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "14ea348b6474",
    "source": "France 24",
    "title": "El papa León XIV visitará Zaña, el pueblo marcado por la tragedia en Perú",
@@ -749,26 +939,6 @@
    "url": "https://www.france24.com/es/video/20261105-el-papa-le%C3%B3n-xiv-visitar%C3%A1-za%C3%B1a-el-pueblo-que-lleva-una-supuesta-maldici%C3%B3n-en-per%C3%BA",
    "date": "2026-11-05T02:03:15+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "618087ebb054",
-   "source": "Radio Bío-Bío",
-   "title": "Detienen al exfutbolista Francisco Huaiquipán en indagatoria por el delito de violación",
-   "description": "La Policía de Investigaciones (PDI) detuvo esta jornada al exfutbolista Francisco Huaiquipán Castillo, de 47 años, “en virtud a una orden de detención por el delito de violación de mayor de 14 años”. La Brigada Investigadora de Delitos Sexuales Metropolitana (Brisexme) de la PDI ",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-coquimbo/2026/11/04/detienen-al-exfutbolista-francisco-huaquipan-en-indagatoria-por-el-delito-de-violacion.shtml",
-   "date": "2026-11-05T02:01:16+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "b40f81039dce",
-   "source": "Radio Bío-Bío",
-   "title": "Mountainbike Outdoorsweek Cerro Castillo alista su XIII edición para hacer vibrar la Patagonia",
-   "description": "Villa Cerro Castillo está en tierra derecha para recibir la XIII versión Mountainbike Outdoorsweek Cerro Castillo 2026 al sur de Coyhaique, donde se correrán tres días de competencias en una locación maravillosa de hermosos parajes naturales. Este año se cumplen 50 años desde que",
-   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/04/mountainbike-outdoorsweek-cerro-castillo-alista-su-xiii-edicion-para-hacer-vibrar-la-patagonia.shtml",
-   "date": "2026-11-05T02:00:21+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -792,76 +962,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6463f261df25",
-   "source": "Radio Cooperativa",
-   "title": "Flamengo de Pulgar venció a Gremio y dio un paso clave hacia el título del Brasileirao",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Flamengo , que contó con la titularidad del volante chileno Erick Pulgar , venció por 3-1 a Gremio en el Estadio Maracaná por la fecha 34 del Brasileirao, estirando a seis puntos su ventaja provisional sobre el escolta Palm",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-brasilena/flamengo-de-pulgar-vencio-a-gremio-y-dio-un-paso-clave-hacia-el-titulo/2026-11-04/224805.html",
-   "date": "2026-11-05T01:48:05+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "08864b577474",
-   "source": "Radio Cooperativa",
-   "title": "La agenda de La Roja para los amistosos con Colombia en la fecha FIFA",
-   "description": "La Roja volverá a la acción este mes de noviembre en el marco de la fecha FIFA, la última del año, y enfrentará en dos amistosos a la selección de Colombia. Nicolás Córdova citó a 26 jugadores para estos desafíos y pretende mantener las buenas sensaciones que dejó el último parti",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-agenda-de-la-roja-para-los-amistosos-con-colombia-en-la-fecha-fifa/2026-11-04/224505.html",
-   "date": "2026-11-05T01:45:05+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "007a816f1aec",
-   "source": "Radio Bío-Bío",
-   "title": "Captan primeras señales de la posible existencia del zeptoverso, el mundo más pequeño de la naturaleza",
-   "description": "Investigadores del Reino Unido encontraron evidencias de la descomposición inédita de una partícula subatómica en un experimento del Gran Colisionador de Hadrones del CERN. Estos resultados podrían abrir la puerta al zeptoverso, lo que permitiría resolver misterios como la materi",
-   "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/11/04/captan-primeras-senales-de-la-posible-existencia-del-zeptoverso-el-mundo-mas-pequeno-de-la-naturaleza.shtml",
-   "date": "2026-11-05T01:43:17+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "d2189e40379f",
-   "source": "Radio Bío-Bío",
-   "title": "La economía desplaza a delincuencia en Chile: 61% prevé un país peor en un año y solo 29% ve progreso",
-   "description": "La cuarta ola del Monitor de Confianza Feedback muestra un en el país. El informe, elaborado por Claudio Villegas, director de Innovación e IA, y Juan Pardo, socio y director de investigación de Feedback Research con datos de octubre de 2026, indica que en el camino para recupera",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/04/la-economia-desplaza-a-delincuencia-en-chile-61-preve-un-pais-peor-en-un-ano-y-solo-29-ve-progreso.shtml",
-   "date": "2026-11-05T01:39:38+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "00af744f2034",
-   "source": "Radio Cooperativa",
-   "title": "Teletón 2026: programación, artistas y dónde ver la transmisión",
-   "description": "Este viernes 6 y sábado 7 de noviembre se realizará una nueva edición de la Teletón , que contará con 27 horas de transmisión televisiva y una programación que incluirá música, humor, competencias y actividades para toda la familia. La jornada comenzará a las 22:00 horas del vier",
-   "url": "https://www.cooperativa.cl/noticias/magazine/television/teleton/teleton-2026-programacion-artistas-y-donde-ver-la-transmision/2026-11-04/223912.html",
-   "date": "2026-11-05T01:39:12+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "273e8da3daa6",
-   "source": "Radio Bío-Bío",
-   "title": "Suprema declara ilegal diligencias de la PDI a 2 funcionarios tras allanamiento a Muni. de Llay Llay",
-   "description": "Dejando sin efecto la autorización verbal y las diligencias desarrolladas por la Brigada Investigadora de Delitos Económicos (Bridec) de la Policía de Investigaciones (PDI) en Los Andes, la . Todo esto, durante el allanamiento a la casa edilicia, que tuvo lugar hace casi dos mese",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/04/suprema-declara-ilegal-diligencias-de-la-pdi-a-2-funcionarios-tras-allanamiento-a-muni-de-llay-llay.shtml",
-   "date": "2026-11-05T01:35:18+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "5fc519d4e31a",
-   "source": "Radio Bío-Bío",
-   "title": "Tras grave lesión: Jack Campbell calma a hinchas de NFL porque \"ya tiene movimientos\" en zona inferior",
-   "description": "Pasaron tres días de silencio, comunicados escuetos y mucha preocupación. Este miércoles 4 de noviembre, Jack Campbell, linebacker de los Detroit Lions, rompió el silencio desde el hospital y aseguró que tiene movimiento completo en la parte inferior de su cuerpo, tras la grave l",
-   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/04/tras-grave-lesion-jack-campbell-calma-a-hinchas-de-nfl-porque-ya-tiene-movimientos-en-zona-inferior.shtml",
-   "date": "2026-11-05T01:31:11+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "e43cb14ba10b",
    "source": "Radio Cooperativa",
    "title": "La U luchará por una remontada ante Antofagasta por el paso a semis de la Copa Chile",
@@ -869,36 +969,6 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-luchara-por-una-remontada-ante-antofagasta-por-el-paso-a-semis-de/2026-11-04/223020.html",
    "date": "2026-11-05T01:30:20+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "c1337ac649a4",
-   "source": "Radio Bío-Bío",
-   "title": "En plena crisis por Rabat: UDI niega cambio de gabinete y desmiente conversaciones con La Moneda",
-   "description": "El presidente de la UDI, Guillermo Ramírez, negó categóricamente que el Gobierno haya comunicado a los partidos del oficialismo la preparación de un eventual cambio de gabinete, en medio de la crisis que enfrenta el ministro de Justicia, Fernando Rabat, por las rebajas de condena",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/04/en-plena-crisis-por-rabat-udi-niega-cambio-de-gabinete-y-desmiente-conversaciones-con-la-moneda.shtml",
-   "date": "2026-11-05T01:14:25+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "4bfc99eb057e",
-   "source": "Radio Bío-Bío",
-   "title": "\"Si no es por deporte, no estaría en este mundo\": Valentí Sanjuan, ícono y admirador de Luis Enrique",
-   "description": "En el Titan Forest Patagonia, un rostro, más que conocido. Ya aclamado por los fanáticos es el de Valentí Sanjuan, reconocido ultrafondista español y hoy, creador de contenido. De partida, dando gala de su carisma y su personalidad, se detiene, reflexiona ante el micrófono de BBC",
-   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/04/si-no-es-por-deporte-no-estaria-en-este-mundo-valenti-sanjuan-icono-y-admirador-de-luis-enrique.shtml",
-   "date": "2026-11-05T00:54:20+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "98b499fe4c6b",
-   "source": "Radio Cooperativa",
-   "title": "Sala Cuna logró importante avance en la Cámara: Comisión destrabó nudo sobre financiamiento",
-   "description": "El proyecto de ley de Sala Cuna Universal dio un avance importante en su tramitación legislativa luego que la Comisión de Trabajo de la Cámara Baja aprobase las indicaciones del Ejecutivo, entre ellas la que reponía el mecanismo de financiamiento. Dicho mecanismo, que contempla u",
-   "url": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/sala-cuna-logro-importante-avance-en-la-camara-comision-destrabo-nudo/2026-11-04/215339.html",
-   "date": "2026-11-05T00:53:39+00:00",
-   "category": "Legislación chilena",
    "type": "Prensa"
   },
   {
@@ -1852,26 +1922,6 @@
    "type": "Prensa"
   },
   {
-   "id": "00f833a7a15b",
-   "source": "BBC Mundo",
-   "title": "Quiénes son las 9 víctimas del fatal accidente del avión privado que se estrelló en Florida",
-   "description": "El accidente del domingo acabó con la vida de las nueve personas que iban a bordo, entre ellas un empresario tecnológico, su esposa y sus dos pequeños hijos.",
-   "url": "https://www.bbc.com/mundo/articles/cx054q17vvezo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-03T03:49:51+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "918ca40af16a",
-   "source": "Radio Cooperativa",
-   "title": "Las llaves de las semifinales de la Copa Chile 2026",
-   "description": "Este lunes se completó una nueva llave de los cuartos de final de la Copa Chile 2026, dejando definida la primera semifinal del certamen. Esta instancia también incluirán duelos de ida y vuelta, en fechas aún por determinar por la gerencia de ligas y competencias de la ANFP. Revi",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/las-llaves-de-las-semifinales-de-la-copa-chile-2026/2026-11-02/222510.html",
-   "date": "2026-11-03T01:25:10+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "9c34737fb96c",
    "source": "BBC Mundo",
    "title": "El emotivo regreso a casa de Karl Bushby, el aventurero británico que recorrió el mundo a pie tras partir de Chile hace 28 años",
@@ -1992,16 +2042,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d886e7235e6b",
-   "source": "Radio Cooperativa",
-   "title": "Con duelos claves en simultáneo: La programación de la fecha 27 de la Liga de Primera",
-   "description": "La Liga de Primera 2026 continuará con la fecha 27 a partir del sábado 7 de noviembre, en un fin de semana en donde se puede definir al campeón del fútbol chileno. Colo Colo, el líder del campeonato, tiene 10 puntos de ventaja sobre U. de Chile y si llega a ganar en su visita a Ñ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-duelos-claves-en-simultaneo-la-programacion-de-la-fecha-27-de-la/2026-11-01/210219.html",
-   "date": "2026-11-02T00:02:19+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "34769db6c7d8",
    "source": "Organización Mundial del Comercio",
    "title": "La UE inicia una investigación en materia de salvaguardias relativa a determinados vehículos híbridos nuevos",
@@ -2010,16 +2050,6 @@
    "date": "2026-11-02T00:00:00+00:00",
    "category": "Comercio internacional",
    "type": "Oficial"
-  },
-  {
-   "id": "9a3776dd428f",
-   "source": "The Guardian",
-   "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
-   "description": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigu",
-   "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
-   "date": "2026-11-01T22:26:11+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
   },
   {
    "id": "569a247a66c3",
@@ -2570,16 +2600,6 @@
    "date": "2026-10-10T07:49:45+00:00",
    "category": "",
    "type": "Oficial"
-  },
-  {
-   "id": "dbbc4dc71f68",
-   "source": "Radio Cooperativa",
-   "title": "Cartelera de conciertos 2026 en Chile",
-   "description": "CONCIERTOS 2026 EN CHILE CONCIERTOS NOVIEMBRE 2026 1 de noviembre - Iron Maiden - Estadio Nacional - Entradas 1 de noviembre - Alex Serra y Totidub - Club Chocolate - Entradas 1 de noviembre - Opeth - Santander Arena - Entradas 1 de noviembre - Nicole - Teatro Municipal Valparaís",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html",
-   "date": "2025-12-01T11:21:52+00:00",
-   "category": "",
-   "type": "Prensa"
   },
   {
    "id": "9745c15368a2",
