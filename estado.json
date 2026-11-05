@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T08:23:31.335275+00:00",
+ "updated": "2026-11-05T09:53:58.151714+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -44,12 +44,12 @@
   },
   "BBC Mundo": {
    "ok": true,
-   "n": 34,
+   "n": 33,
    "url": "https://feeds.bbci.co.uk/mundo/rss.xml"
   },
   "Deutsche Welle": {
    "ok": true,
-   "n": 19,
+   "n": 20,
    "url": "https://rss.dw.com/xml/rss-sp-all"
   },
   "France 24": {
@@ -94,7 +94,7 @@
   },
   "Banco Central de Chile": {
    "ok": false,
-   "err": "HTTP Error 404: Not Found"
+   "err": "mismatched tag: line 7, column 9"
   },
   "Instituto Nacional de Estadísticas": {
    "ok": false,
@@ -114,9 +114,8 @@
    "err": "HTTP Error 404: Not Found"
   },
   "Naciones Unidas": {
-   "ok": true,
-   "n": 30,
-   "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml"
+   "ok": false,
+   "err": "not well-formed (invalid token): line 1, column 0"
   },
   "Fondo Monetario Internacional": {
    "ok": false,
