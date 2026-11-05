@@ -1,14 +1,54 @@
 {
- "updated": "2026-11-05T05:54:44.970124+00:00",
+ "updated": "2026-11-05T07:01:26.092327+00:00",
  "items": [
   {
-   "id": "ed7a95666269",
-   "source": "Al Jazeera",
-   "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
-   "description": "Netanyahu's rivals say US midterm results show Israel 'cannot afford' to have the prime minister remain in office.",
-   "url": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
-   "date": "2026-11-05T05:39:31+00:00",
+   "id": "90dc7255fccc",
+   "source": "Deutsche Welle",
+   "title": "Irán afirma que tres navíos se incendian en el estrecho de Ormuz",
+   "description": "Los Guardianes de la Revolución indicaron que las naves afectadas son dos buques petroleros y un remolcador.",
+   "url": "https://www.dw.com/es/irán-afirma-que-tres-navíos-se-incendian-en-el-estrecho-de-ormuz/a-79860287?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-05T06:37:00+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "4775ffda79db",
+   "source": "Al Jazeera",
+   "title": "New Zealand braces for knife-edge election: What you need to know",
+   "description": "Smaller parties hold the key, with major contenders expected to fall short of the majority needed to govern alone.",
+   "url": "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss",
+   "date": "2026-11-05T06:34:50+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "4ae8143e9925",
+   "source": "Al Jazeera",
+   "title": "Has India’s democracy failed its Muslims? Jailed scholar triggers debate",
+   "description": "Sharjeel Imam questioned foundational ideas of India's nationalism in interview with The Quint, inspiring heated debate.",
+   "url": "https://www.aljazeera.com/news/2026/11/5/has-indias-democracy-failed-its-muslims-jailed-scholar-triggers-debate?traffic_source=rss",
+   "date": "2026-11-05T06:10:51+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "adb3f1d587ae",
+   "source": "Deutsche Welle",
+   "title": "Francia desplegará 70.000 agentes ante nueva jornada de protestas sindicales",
+   "description": "Los servicios de inteligencia advierten de \"riesgos\" de altercados, tras detectar a grupos que buscan generar violencia.",
+   "url": "https://www.dw.com/es/francia-desplegará-70-000-agentes-ante-nueva-jornada-de-protestas-sindicales/a-79860132?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-05T06:03:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "f7d5bc0785fe",
+   "source": "The Guardian",
+   "title": "Norman conquest castle and Dickens chalet among sites added to heritage at risk register",
+   "description": "William the Conquerer-built Hastings Castle and Swiss-style writing retreat in Kent two of nearly 200 additions to list A castle built by William the Conquerer, a Swiss-style chalet where Charles Dickens wrote and a swathe of fire-blasted moorland are among sites that have been a",
+   "url": "https://www.theguardian.com/artanddesign/2026/nov/05/hastings-castle-dickens-chalet-heritage-at-risk-register",
+   "date": "2026-11-05T06:00:56+00:00",
+   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -17,8 +57,18 @@
    "title": "Beau Lamarre-Condon trial live updates: accused double murderer gives evidence in high-profile case",
    "description": "The 31-year-old former police officer is accused of fatally shooting couple Jesse Baird and Luke Davies in Sydney in 2024 Former police officer Beau Lamarre-Condon enters witness box in Sydney double murder trial Get our breaking news email , free app or daily news podcast The co",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-   "date": "2026-11-05T05:31:06+00:00",
+   "date": "2026-11-05T05:58:24+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "ed7a95666269",
+   "source": "Al Jazeera",
+   "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
+   "description": "Netanyahu's rivals say US midterm results show Israel 'cannot afford' to have the prime minister remain in office.",
+   "url": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
+   "date": "2026-11-05T05:39:31+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -155,7 +205,7 @@
    "id": "fe89a3f72503",
    "source": "The Guardian",
    "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
-   "description": "Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”, his second conviction under a ",
+   "description": "Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law Exclusive: Joshua Wong laments city’s fate from inside maximum security prison Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after",
    "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
    "date": "2026-11-05T04:04:49+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -882,16 +932,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4cc586e87322",
-   "source": "Al Jazeera",
-   "title": "Democratic Socialists of America see record wins in US midterm elections",
-   "description": "The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
-   "date": "2026-11-04T22:45:24+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "54f6daa775e7",
    "source": "Deutsche Welle",
    "title": "Vance atribuye la derrota republicana a la guerra contra Irán",
@@ -909,16 +949,6 @@
    "url": "https://www.dw.com/es/zelenski-llega-a-españa-por-sorpresa-en-el-marco-de-la-xxx-cumbre-iberoamericana/a-79859596?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-04T22:40:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "f90a01e511fe",
-   "source": "Al Jazeera",
-   "title": "Sudan factories struggle to restart after devastating wartime losses",
-   "description": "War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen.",
-   "url": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
-   "date": "2026-11-04T22:31:09+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1042,16 +1072,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cb95e4d7d016",
-   "source": "Deutsche Welle",
-   "title": "El giro demócrata del voto latino castiga a Trump en EE.UU.",
-   "description": "En las elecciones intermedias, el partido republicano sufrió duras e históricas derrotas. Los votantes latinos influyeron con sus sufragios en los resultados.",
-   "url": "https://www.dw.com/es/el-giro-demócrata-del-voto-latino-castiga-a-trump-en-ee-uu/a-79858970?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-04T20:45:00+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "899b3ffd4002",
    "source": "The Guardian",
    "title": "UK government considers smart glasses ban over secret filming concerns",
@@ -1069,16 +1089,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
    "date": "2026-11-04T20:42:14+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "3c4e3c7e11fc",
-   "source": "Deutsche Welle",
-   "title": "El impacto de la victoria demócrata en la economía estadounidense",
-   "description": "El encarecimiento del petróleo, los aranceles, la deuda creciente y el auge de los centros de datos han pesado en los resultados de las elecciones intermedias de Estados Unidos.",
-   "url": "https://www.dw.com/es/el-impacto-de-la-victoria-demócrata-en-la-economía-estadounidense/a-79858843?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-04T20:32:00+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1219,16 +1229,6 @@
    "url": "https://www.bbc.com/mundo/articles/ck4g1l0064q9o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-04T18:09:45+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "b902cd1b13d8",
-   "source": "The Guardian",
-   "title": "Husband who invited men to rape wife asked for an online review, court told",
-   "description": "Nine men on trial in Manchester accused of either taking part in abuse or encouraging offending on internet A husband who invited other men to rape and sexually assault his wife arranged for “more and more individuals” to visit his marital home as he resolved “to satisfy his own ",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/04/husband-who-invited-men-to-rape-wife-asked-for-an-online-review-court-told",
-   "date": "2026-11-04T18:07:57+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
