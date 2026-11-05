@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:56:35.571337+00:00",
+ "updated": "2026-11-05T18:46:29.228367+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -140,8 +140,9 @@
    "url": "https://www.wto.org/library/rss/latest_news_s.xml"
   },
   "Organización Mundial de la Salud": {
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "n": 40,
+   "url": "https://www.who.int/rss-feeds/news-english.xml"
   },
   "Organismo Internacional de Energía Atómica": {
    "ok": false,

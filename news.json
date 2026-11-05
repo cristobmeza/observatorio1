@@ -1,14 +1,154 @@
 {
- "updated": "2026-11-05T17:56:35.571337+00:00",
+ "updated": "2026-11-05T18:46:29.228367+00:00",
  "items": [
+  {
+   "id": "11416511218f",
+   "source": "Al Jazeera",
+   "title": "Arab party backs Eisenkot in bid to form Israel’s next government",
+   "description": "Arab-majority party Ra’am and the Democrats have backed Gadi Eisenkot in a bid to form Israel’s next government.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss",
+   "date": "2026-11-05T18:30:09+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "42d7ea31d237",
+   "source": "Deutsche Welle",
+   "title": "¿Qué significa para Alemania la derrota de Trump en las \"midterms\"?",
+   "description": "La derrota en las elecciones intermedias fue histórica para los republicanos en EE. UU., aunque Trump no perdió poder en el escenario internacional. ¿A qué riesgos se enfrentan ahora Alemania y Europa?",
+   "url": "https://www.dw.com/es/¿qué-significa-para-alemania-la-derrota-de-trump-en-las-midterms/a-79869946?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-05T18:27:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "5f057ce07310",
+   "source": "Radio Cooperativa",
+   "title": "Zaguero de Coquimbo le bajó el perfil a su tenso encontrón con Hernán Caputto",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Pese al valioso triunfo como visitante que consiguió Coquimbo Unido por los cuartos de final de ida de la Copa Chile ante Unión La Calera, la jornada en el Estadio \"Nicolás Chahuán Nazar\" estuvo marcada por una tensa y llam",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/coquimbo/zaguero-de-coquimbo-le-bajo-el-perfil-a-su-tenso-encontron-con-hernan/2026-11-05/152430.html",
+   "date": "2026-11-05T18:24:30+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "ac276cc37ea7",
+   "source": "Radio Cooperativa",
+   "title": "\"No sé por qué tanta controversia\": Kast descartó nuevamente un cambio de gabinete",
+   "description": "El Presidente José Antonio Kast descartó este jueves un cambio de gabinete en medio de la polémica por las rebajas de penas aprobadas por el Gobierno a 56 condenados por delitos sexuales contra menores , que involucra al ministro de Justicia, Fernando Rabat . En declaraciones a l",
+   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/no-se-por-que-tanta-controversia-kast-descarto-nuevamente-un-cambio/2026-11-05/152242.html",
+   "date": "2026-11-05T18:22:42+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "e6531642dbf9",
+   "source": "Al Jazeera",
+   "title": "Could Football Change After Jesus de Miguel’s Death?",
+   "description": "Could football change after the death of Jesus de Miguel?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/could-football-change-after-jesus-de-miguels-death?traffic_source=rss",
+   "date": "2026-11-05T18:22:16+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "77f05482b4c1",
+   "source": "Radio Cooperativa",
+   "title": "LIV Golf anunció su desaparición y dejó en la incertidumbre el futuro de Niemann",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes LIV Golf anunció este jueves el inicio de un proceso de liquidación que pondrá fin al circuito profesional , nacido en 2022 con financiamiento de Arabia Saudita y en el que destacó el chileno Joaquín Niemann , luego del fra",
+   "url": "https://www.cooperativa.cl/noticias/deportes/golf/joaquin-niemann/liv-golf-anuncio-su-desaparicion-y-dejo-en-la-incertidumbre-el-futuro-de/2026-11-05/152147.html",
+   "date": "2026-11-05T18:21:47+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "01bd2aea3083",
+   "source": "The Guardian",
+   "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+   "description": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel Europe live – latest updates Hoax bomb threats have caused at least 25 flights across Europe to be disrupted, with some forced to make emergency landings, as questions mounted over ",
+   "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+   "date": "2026-11-05T18:17:36+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "9d87b6579c2d",
+   "source": "The Guardian",
+   "title": "Herzog to meet Israeli election rivals as decision nears on path to power",
+   "description": "President calls on all parties to help avoid new election after Netanyahu and Eisenkot blocs fell short of majority Israel’s president, Isaac Herzog, was due to meet Benjamin Netanyahu and his chief political rival, Gadi Eisenkot, on Thursday with less than a week left before he ",
+   "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
+   "date": "2026-11-05T18:13:01+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "9e04321adef8",
+   "source": "The Guardian",
+   "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
+   "description": "Base rate increases from 3.75% and Bank governor signals another rise in near future to combat rising inflation Analysis: Interest rate rise in midst of cost of living crisis will leave many incredulous The Bank of England has raised interest rates for the first time in three yea",
+   "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+   "date": "2026-11-05T18:00:28+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "57d6f438532b",
+   "source": "The Guardian",
+   "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
+   "description": "EU transport commissioner says ‘too early’ to say if bomb threats to 20 flights are linked Tell us: have you been affected by the bomb threats? And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats this morning: that’s a ",
+   "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+   "date": "2026-11-05T17:57:54+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
   {
    "id": "b7432f94151d",
    "source": "BBC Mundo",
-   "title": "Santiago Peña renuncia a la presidencia de Paraguay mientras la Cámara de Diputados aprueba someterlo a un juicio político por el caso Ueno Bank",
+   "title": "Santiago Peña renuncia a la presidencia de Paraguay pero la Cámara de Diputados aprueba someterlo a juicio político por el caso Ueno Bank",
    "description": "La decisión llega después de que legisladores de la oposición y de su propio partido impulsaran un juicio político para destituirlo.",
    "url": "https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-05T17:48:45+00:00",
+   "date": "2026-11-05T17:57:00+00:00",
    "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "1c5821fc9533",
+   "source": "Al Jazeera",
+   "title": "AI stocks plunge after US election, driving down markets",
+   "description": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
+   "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
+   "date": "2026-11-05T17:56:17+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "7ff427ff6495",
+   "source": "Radio Cooperativa",
+   "title": "Huaiquipán quedó en prisión preventiva por delitos sexuales reiterados a tres adolescentes",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El 12° Juzgado de Garantía de Santiago decretó prisión preventiva para el exfutbolista Francisco Huaiquipán , tras su formalización por delitos de abuso sexual y violación reiterada contra tres víctimas que eran menores de ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/exfutbolistas/huaiquipan-quedo-en-prision-preventiva-por-delitos-sexuales-reiterados-a/2026-11-05/145553.html",
+   "date": "2026-11-05T17:55:53+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "1c28e7a292f9",
+   "source": "Radio Cooperativa",
+   "title": "Teleférico Bicentenario ad portas de marcha blanca: Kast será el primer pasajero",
+   "description": "El Teleférico Bicentenario marcará su primer hito oficial de marcha blanca el martes 10 de noviembre , tras superar meses de pruebas técnicas. Según informó La Tercera este jueves, esa jornada el Presidente José Antonio Kast realizará un primer viaje de prueba junto a ministros d",
+   "url": "https://www.cooperativa.cl/noticias/pais/transportes/teleferico-bicentenario-ad-portas-de-marcha-blanca-kast-sera-el-primer/2026-11-05/145529.html",
+   "date": "2026-11-05T17:55:29+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "8162414be72d",
+   "source": "Radio Cooperativa",
+   "title": "¿Por qué renunció Peña a la presidencia de Paraguay?",
+   "description": "Santiago Peña, economista de formación y respaldado por el poderoso Partido Colorado, llegó a la Presidencia de Paraguay como una figura de renovación, pero renunció al cargo arrastrado por la crisis tras el cierre del Ueno bank, que compromete millones de dólares del sistema de ",
+   "url": "https://www.cooperativa.cl/noticias/mundo/paraguay/politica/por-que-renuncio-pena-a-la-presidencia-de-paraguay/2026-11-05/144905.html",
+   "date": "2026-11-05T17:49:05+00:00",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -32,6 +172,16 @@
    "type": "Prensa"
   },
   {
+   "id": "348c9ae05947",
+   "source": "Radio Cooperativa",
+   "title": "Oposición prepara acusación contra Rabat con al menos tres capítulos",
+   "description": "La oposición avanzó este jueves en la preparación de la acusación constitucional contra el ministro de Justicia, Fernando Rabat , en medio de la controversia por las rebajas de condenas a personas sentenciadas por sexuales de menores y tras conocerse nuevos antecedentes sobre ben",
+   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/oposicion-prepara-acusacion-contra-rabat-con-al-menos-tres-capitulos/2026-11-05/144011.html",
+   "date": "2026-11-05T17:40:11+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
    "id": "d50cbc6abd77",
    "source": "BBC Mundo",
    "title": "Qué es Ueno Bank y qué provocó la crisis por la que Santiago Peña renunció como presidente de Paraguay",
@@ -52,16 +202,6 @@
    "type": "Prensa"
   },
   {
-   "id": "57d6f438532b",
-   "source": "The Guardian",
-   "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
-   "description": "EU transport commissioner says ‘too early’ to say if bomb threats to 20 flights are linked Tell us: have you been affected by the bomb threats? And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats this morning: that’s a ",
-   "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-   "date": "2026-11-05T17:37:36+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "c3ae1ed293c0",
    "source": "The Guardian",
    "title": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
@@ -79,16 +219,6 @@
    "url": "https://www.france24.com/es/europa/20261105-una-nueva-oleada-de-amenazas-de-bomba-afecta-m%C3%A1s-de-una-veintena-de-vuelos-en-europa",
    "date": "2026-11-05T17:36:12+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "01bd2aea3083",
-   "source": "The Guardian",
-   "title": "Bomb threats disrupt at least 22 flights across Europe, raising hybrid war fears",
-   "description": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel Europe live – latest updates Bomb threats have caused diversions and emergency landings for at least 22 flights across Europe , renewing questions about a possibly coordinated effor",
-   "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-   "date": "2026-11-05T17:32:56+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -154,11 +284,21 @@
   {
    "id": "821b6727e0ae",
    "source": "The Guardian",
-   "title": "Protesters join street demonstrations across France on day of strike action",
-   "description": "Hundreds of thousands take part in largely peaceful rallies as 70,000 police officers deployed Hundreds of thousands of people have marched in cities across France in the latest round of street demonstrations, as trade unions put pressure on the government with a general strike o",
+   "title": "Protesters march in cities across France as unions stage general strike",
+   "description": "Hundreds of thousands demonstrate over cost of living and cuts to public services as 70,000 police officers deployed Hundreds of thousands of people have marched in cities across France in the latest round of street demonstrations, as trade unions put pressure on the government w",
    "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
    "date": "2026-11-05T17:21:45+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "bb823d6b4f51",
+   "source": "Radio Cooperativa",
+   "title": "Metro de Santiago abre votación para elegir uno de los murales de la futura Línea 7",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/transportes/metro/metro-de-santiago-abre-votacion-para-elegir-uno-de-los-murales-de-la/2026-11-05/141933.html",
+   "date": "2026-11-05T17:19:33+00:00",
+   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -235,7 +375,7 @@
    "id": "3167ac01ca4d",
    "source": "The Guardian",
    "title": "Russell Brand found guilty of rape and sexual assault",
-   "description": "Judge says actor and comedian faces ‘significant custodial term’ after being convicted of raping a woman and assaulting three others Russell Brand has been found guilty of raping a fan and sexually assaulting three women, ending a years-long legal saga that has raised questions a",
+   "description": "Judge says actor and comedian faces ‘significant custodial term’ after being convicted of raping a woman and assaulting three others Russell Brand has been found guilty of raping a fan and sexually assaulting three other women, ending a years-long legal saga that has raised quest",
    "url": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault",
    "date": "2026-11-05T17:03:15+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -352,72 +492,12 @@
    "type": "Prensa"
   },
   {
-   "id": "678006ec30e2",
-   "source": "Radio Cooperativa",
-   "title": "Cooperativa Deportes: Vozinha dio luces sobre su futuro en Colo Colo",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/cooperativa-deportes/opinion/cooperativa-deportes-vozinha-dio-luces-sobre-su-futuro-en-colo-colo/2026-11-05/134042.html",
-   "date": "2026-11-05T16:40:42+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "7ab05a8db93f",
-   "source": "Radio Cooperativa",
-   "title": "Renunció el presidente de Paraguay",
-   "description": "El economista Santiago Peña renunció este jueves a la presidencia de Paraguay , poco antes de ser sometido a un juicio político en el Congreso. Su intempestiva salida se da en medio de la tormenta desatada por la intervención de Ueno Bank , una entidad privada a la que está ligad",
-   "url": "https://www.cooperativa.cl/noticias/mundo/paraguay/renuncio-el-presidente-de-paraguay/2026-11-05/133136.html",
-   "date": "2026-11-05T16:31:36+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "e49e16f69824",
-   "source": "Radio Cooperativa",
-   "title": "Cuestionan carrera de 10 mil patitos de hule en lago Llanquihue: \"Una bomba ecológica\"",
-   "description": "Una carrera de 10 mil patitos de hule en el lago Llanquihue generó controversia en Frutillar, región de Los Lagos, luego de que una organización ambientalista cuestionara sus posibles consecuencias para el ecosistema y solicitara cancelar el evento. La actividad, que busca reunir",
-   "url": "https://www.cooperativa.cl/noticias/pais/region-de-los-lagos/cuestionan-carrera-de-10-mil-patitos-de-hule-en-lago-llanquihue-una/2026-11-05/132604.html",
-   "date": "2026-11-05T16:26:04+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "2487abfdc5dd",
-   "source": "Radio Cooperativa",
-   "title": "Prensa española aniquiló a Vinicius por discreto partido ante AEK Atenas",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Vinicius Junior, delantero de Real Madrid, quedó en el centro de duras críticas de la prensa española por su discreto rendimiento ante AEK Atenas, pese a la victoria 3-2 del conjunto español en la Champions League , consegu",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/prensa-espanola-aniquilo-a-vinicius-por-discreto-partido-ante-aek-atenas/2026-11-05/132053.html",
-   "date": "2026-11-05T16:20:53+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "1c640a001232",
    "source": "France 24",
    "title": "Santiago Peña renuncia a la Presidencia de Paraguay en medio del escándalo de Ueno Bank",
    "description": "El presidente de Paraguay, Santiago Peña, renunció a su cargo en medio de la crisis desatada por la intervención y el cierre de Ueno Bank, que afecta a millones de clientes y abrió un frente de inestabilidad política. La decisión se produce después de que los bloques de la Cámara",
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-ensi%C3%B3n-en-paraguay-diputados-debate-un-juicio-pol%C3%ADtico-contra-el-presidente-santiago-pe%C3%B1a",
    "date": "2026-11-05T16:18:52+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a306fabeceaf",
-   "source": "The Guardian",
-   "title": "Burnham wants to ‘recast’ Chagos Islands deal after US resistance",
-   "description": "UK PM says he wants ‘a new discussion’ with Washington over the disputed islands UK politics live – latest updates Andy Burnham has said he wants to “recast” the UK’s deal to cede control of the Chagos Islands after resistance from Washington, which said the agreement could inste",
-   "url": "https://www.theguardian.com/politics/2026/nov/05/andy-burnham-recast-chagos-islands-deal-us-resistance",
-   "date": "2026-11-05T16:17:48+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "b1fb23f2741e",
-   "source": "Radio Cooperativa",
-   "title": "\"You Can See Everything\", el documental sobre Elizabeth Holmes, fijó estreno en Chile",
-   "description": "El aclamado documental \"You Can See Everything\" (\"Puedes Ver Todo\") sobre la figura de Elizabeth Holmes , fundadora de Theranos y condenada por estafa, fijó su debut en los cines de Chile . Un nuevo tráiler confirmó la fecha de estreno para el próximo 3 de diciembre , de la mano ",
-   "url": "https://www.cooperativa.cl/noticias/magazine/cine/documentales/you-can-see-everything-el-documental-sobre-elizabeth-holmes-fijo/2026-11-05/131742.html",
-   "date": "2026-11-05T16:17:42+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -462,16 +542,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b2f47bce8367",
-   "source": "Radio Cooperativa",
-   "title": "Vozinha y el duelo ante Ñublense: \"La chance está ahí, haremos de todo para lograrlo\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes A sólo un paso de bordar la anhelada estrella 35 en el palmarés del club, el arquero de Colo Colo, Vozinha, enfrentó los micrófonos este jueves en el Estadio Monumental para proyectar el compromiso del domingo frente a Ñubl",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-y-el-duelo-ante-nublense-la-chance-esta-ahi-haremos-de-todo/2026-11-05/130703.html",
-   "date": "2026-11-05T16:07:03+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "b11ccc727d88",
    "source": "Ex-Ante",
    "title": "Cruzar el puente completo",
@@ -485,7 +555,7 @@
    "id": "5dcbda2c0248",
    "source": "Radio Cooperativa",
    "title": "Con Osorio suplente: Crystal Palace cae con Hoffenheim en la Europa League",
-   "description": "El equipo del chileno Darío Osorio, Crystal Palace, enfrenta al cuadro alemán Hoffenheim en una nueva fecha de la Europa League . Sigue el partido en vivo y online por Cooperativa.cl: - Crystal Palace 0-1 Hoffenheim, Primer tiempo. Selhurst Park. 0-1: 7'; Alexander Prass (HOF)",
+   "description": "El equipo del chileno Darío Osorio, Crystal Palace, enfrenta al cuadro alemán Hoffenheim en una nueva fecha de la Europa League . Sigue el partido en vivo y online por Cooperativa.cl: - Crystal Palace 0-1 Hoffenheim, Entretiempo. Selhurst Park. 0-1: 7'; Alexander Prass (HOF)",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/europa-league/con-osorio-suplente-crystal-palace-cae-con-hoffenheim-en-la-europa-league/2026-11-05/125233.html",
    "date": "2026-11-05T15:52:33+00:00",
    "category": "Partidos políticos",
@@ -502,16 +572,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9e03cda854f5",
-   "source": "Radio Cooperativa",
-   "title": "Teletón pide llevar a los niños a hacer donación presencial, \"para transmitirles que es valioso\"",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/magazine/television/teleton/teleton-pide-llevar-a-los-ninos-a-hacer-donacion-presencial-para/2026-11-05/125037.html",
-   "date": "2026-11-05T15:50:37+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "ef6b7d7eb509",
    "source": "CIPER Chile",
    "title": "Estos son los informes que muestran que el exgobernador Rivas usó recursos del Gore para asesorar su posicionamiento electoral",
@@ -519,16 +579,6 @@
    "url": "https://www.ciperchile.cl/2026/11/05/estos-son-los-informes-que-muestran-que-el-exgobernador-rivas-uso-recursos-del-gore-para-asesorar-su-posicionamiento-electoral/?utm_source=rss&utm_medium=rss&utm_campaign=estos-son-los-informes-que-muestran-que-el-exgobernador-rivas-uso-recursos-del-gore-para-asesorar-su-posicionamiento-electoral",
    "date": "2026-11-05T15:44:47+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "52d0c814df39",
-   "source": "Radio Cooperativa",
-   "title": "Detienen a dos venezolanos por cuatro homicidios en La Serena y Coquimbo",
-   "description": "Dos venezolanos, de 35 y 18 años, fueron detenidos por la Policía de Investigaciones (PDI) , acusados de participar en cuatro homicidios de víctimas chilenas ocurridos durante agosto y septiembre en La Serena y Coquimbo . Según informó la PDI, los imputados integraban una banda c",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/homicidios/detienen-a-dos-venezolanos-por-cuatro-homicidios-en-la-serena-y-coquimbo/2026-11-05/123702.html",
-   "date": "2026-11-05T15:37:02+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1012,26 +1062,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a0832ee01734",
-   "source": "Al Jazeera",
-   "title": "Four people, including a child, killed in Israeli attacks on Gaza",
-   "description": "Gaza officials say more than 1,600 Palestinians have been killed since the so-called 'ceasefire' took effect.",
-   "url": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-   "date": "2026-11-05T13:04:52+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "671831ce0796",
-   "source": "Al Jazeera",
-   "title": "3,000 tarantulas hidden inside luggage seized at Peruvian airport",
-   "description": "In a peculiar failed smuggling attempt, 3,000 tarantulas were seized at a Peruvian airport.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/3000-tarantulas-hidden-inside-luggage-seized-at-peruvian-airport?traffic_source=rss",
-   "date": "2026-11-05T12:56:10+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "c503ab599284",
    "source": "France 24",
    "title": "Otra leyenda se retira de su selección: Cristiano Ronaldo pone fin a su carrera con Portugal",
@@ -1049,16 +1079,6 @@
    "url": "https://www.dw.com/es/nueva-ola-de-falsas-amenazas-de-bomba-en-vuelos-y-aeropuertos-europeos/a-79861618?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-05T12:34:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "1a8809221801",
-   "source": "Al Jazeera",
-   "title": "Cristiano Ronaldo announces international retirement",
-   "description": "Cristiano Ronaldo has announced his retirement from international football.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/cristiano-ronaldo-announces-international-retirement?traffic_source=rss",
-   "date": "2026-11-05T12:32:36+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1080,6 +1100,16 @@
    "date": "2026-11-05T12:10:00+00:00",
    "category": "Europa",
    "type": "Prensa"
+  },
+  {
+   "id": "562c1bffd28c",
+   "source": "Naciones Unidas",
+   "title": "COP31: ¿Qué está en juego este año en la cumbre climática de la ONU?",
+   "description": "Las energías renovables avanzan a un ritmo sin precedentes, pero gran parte del mundo sigue sin tener los recursos necesarios para aprovecharlas. La financiación y el cumplimiento de los compromisos climáticos estarán en el centro de una cumbre que deberá demostrar que los acuerd",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542143",
+   "date": "2026-11-05T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
   },
   {
    "id": "fdc1e1a60dcb",
@@ -1289,16 +1319,6 @@
    "url": "https://www.france24.com/es/video/20261105-directo-midterms-florida-desaf%C3%ADa-la-ola-azul-con-ajustadas-victorias-republicanas",
    "date": "2026-11-05T02:13:04+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "ac388d5138bf",
-   "source": "Deutsche Welle",
-   "title": "Corea del Norte confirma que probó un nuevo sistema de misiles de defensa aérea",
-   "description": "La prueba tuvo lugar el miércoles en medio de una serie de demostraciones de armas en las últimas semanas, dijo la prensa estatal.",
-   "url": "https://www.dw.com/es/corea-del-norte-confirma-que-probó-un-nuevo-sistema-de-misiles-de-defensa-aérea/a-79859673?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-05T02:12:00+00:00",
-   "category": "Conflictos armados y seguridad internacional",
    "type": "Prensa"
   },
   {
@@ -1799,16 +1819,6 @@
    "url": "https://www.ciperchile.cl/2026/11/03/derrumbe-de-los-fondos-d-y-e-de-las-afp-afectara-proceso-de-jubilacion-de-unas-360-000-personas-en-edad-de-pensionarse/?utm_source=rss&utm_medium=rss&utm_campaign=derrumbe-de-los-fondos-d-y-e-de-las-afp-afectara-proceso-de-jubilacion-de-unas-360-000-personas-en-edad-de-pensionarse",
    "date": "2026-11-03T18:41:04+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "89e3e6a534b1",
-   "source": "The Guardian",
-   "title": "Trump claims US will end military aid to Israel by end of this year",
-   "description": "US president makes surprise election day announcement, saying country does not ‘need’ $4bn annual payment Donald Trump has said that the US will end military aid to Israel at the end of this year in a surprise election day announcement that appeared to be targeted at voters scept",
-   "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
-   "date": "2026-11-03T17:17:11+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -2522,16 +2532,6 @@
    "type": "Oficial"
   },
   {
-   "id": "5d6d495e35d1",
-   "source": "Naciones Unidas",
-   "title": "Una Comisión acusa a Rusia de crímenes de guerra por sus ataques a la energía en Ucrania",
-   "description": "La Comisión de la ONU advierte de que \"el próximo invierno será más difícil de soportar\" debido a los ataques rusos a la energía. La investigación también documenta la imposición de la llamada educación patriótica y el entrenamiento militar a los niños ucranianos en las zonas ocu",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542104",
-   "date": "2026-10-26T12:00:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Oficial"
-  },
-  {
    "id": "202a40d853d6",
    "source": "Estudios Públicos (CEP)",
    "title": "¿Qué hacer con la dependencia en la vejez?",
@@ -2550,6 +2550,406 @@
    "date": "2026-10-25T02:00:49+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
+  },
+  {
+   "id": "aceaa3f9248a",
+   "source": "Organización Mundial de la Salud",
+   "title": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
+   "description": "Today, as part of its commitment to strengthening health information systems and improving health[1], especially in the context of the COVID-19 pandemic, WHO announced a new approach to improving access to life-saving data: the SCORE for Health Data Technical Package. The COVID-1",
+   "url": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response",
+   "date": "2026-10-10T07:49:45+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "9745c15368a2",
+   "source": "Organización Mundial de la Salud",
+   "title": "COVID-19 disrupting mental health services in most countries, WHO survey",
+   "description": "The COVID-19 pandemic has disrupted or halted critical mental health services in 93% of countries worldwide while the demand for mental health is increasing, according to a new WHO survey. The survey of 130 countries provides the first global data showing the devastating impact o",
+   "url": "https://www.who.int/news/item/05-10-2020-covid-19-disrupting-mental-health-services-in-most-countries-who-survey",
+   "date": "2020-10-06T16:42:38+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "5c1d49eaedac",
+   "source": "Organización Mundial de la Salud",
+   "title": "Global partnership to make available 120 million affordable, quality COVID-19 rapid tests for low- and middle-income countries",
+   "description": "A full access package includes WHO policy guidance on the use of antigen-based rapid diagnostic tests, manufacturer volume guarantees for low and middle-income countries, catalytic funding to assist governments to deploy the tests and an initial US$50 million procurement fund Sev",
+   "url": "https://www.who.int/news/item/28-09-2020-global-partnership-to-make-available-120-million-affordable-quality-covid-19-rapid-tests-for-low--and-middle-income-countries",
+   "date": "2020-09-28T18:37:30+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "534482011365",
+   "source": "Organización Mundial de la Salud",
+   "title": "Managing the COVID-19 infodemic: Promoting healthy behaviours and mitigating the harm from misinformation and disinformation",
+   "description": "The Coronavirus disease (COVID-19) is the first pandemic in history in which technology and social media are being used on a massive scale to keep people safe, informed, productive and connected. At the same time, the technology we rely on to keep connected and informed is enabli",
+   "url": "https://www.who.int/news/item/23-09-2020-managing-the-covid-19-infodemic-promoting-healthy-behaviours-and-mitigating-the-harm-from-misinformation-and-disinformation",
+   "date": "2020-09-23T13:51:01+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "75a3920ef731",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO’s three messages for UNGA75",
+   "description": "As the world comes together at an unprecedented virtual session of the 75th UN General Assembly (UNGA), WHO has three messages to share.",
+   "url": "https://www.who.int/news/item/15-09-2020-who-s-three-messages-for-unga75",
+   "date": "2020-09-15T16:06:51+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "907babd3818a",
+   "source": "Organización Mundial de la Salud",
+   "title": "COVID-19 could reverse decades of progress toward eliminating preventable child deaths, agencies warn",
+   "description": "With the number of under-five deaths at an all-time recorded low of 5.2 million in 2019, disruptions in child and maternal health services due to the COVID-19 pandemic are putting millions of additional lives at stake The number of global under-five deaths dropped to its lowest p",
+   "url": "https://www.who.int/news/item/09-09-2020-covid-19-could-reverse-decades-of-progress-toward-eliminating-preventable-child-deaths-agencies-warn",
+   "date": "2020-09-09T00:01:05+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "939d28e85efd",
+   "source": "Organización Mundial de la Salud",
+   "title": "In WHO global pulse survey, 90% of countries report disruptions to essential health services since COVID-19 pandemic",
+   "description": "WHO to roll out learning and monitoring tools to improve service provision during pandemic The World Health Organization (WHO) today published a first indicative survey on the impact of COVID-19 on health systems based on 105 countries’ reports. Data collected from five regions o",
+   "url": "https://www.who.int/news/item/31-08-2020-in-who-global-pulse-survey-90-of-countries-report-disruptions-to-essential-health-services-since-covid-19-pandemic",
+   "date": "2020-08-31T10:00:25+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "4d2e4ca9f544",
+   "source": "Organización Mundial de la Salud",
+   "title": "172 countries and multiple candidate vaccines engaged in COVID-19 vaccine Global Access Facility",
+   "description": "Nine CEPI-supported candidate vaccines are part of the COVAX initiative, with a further nine candidates under evaluation, and procurement conversations on-going with additional producers not currently receiving research and development (R&D) funding through COVAX – giving COVAX t",
+   "url": "https://www.who.int/news/item/24-08-2020-172-countries-and-multiple-candidate-vaccines-engaged-in-covid-19-vaccine-global-access-facility",
+   "date": "2020-08-24T16:44:16+00:00",
+   "category": "Elecciones",
+   "type": "Oficial"
+  },
+  {
+   "id": "5ca740cc95bc",
+   "source": "Organización Mundial de la Salud",
+   "title": "Global polio eradication initiative applauds WHO African region for wild polio-free certification",
+   "description": "Today, the Africa Regional Certification Commission certified the WHO African Region as wild polio-free after four years without a case. With this historic milestone, five of the six WHO regions – representing over 90% of the world’s population – are now free of the wild poliovir",
+   "url": "https://www.who.int/news/item/25-08-2020-global-polio-eradication-initiative-applauds-who-african-region-for-wild-polio-free-certification",
+   "date": "2020-08-24T12:56:01+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "b253c97c9e38",
+   "source": "Organización Mundial de la Salud",
+   "title": "World Humanitarian Day 2020: A tribute to aid workers on the front lines",
+   "description": "Amid a global pandemic, unprecedented needs and growing insecurity, aid workers and health-care responders are staying and delivering to the world’s most vulnerable people. Last year was the most violent on record for humanitarians, with 483 attacked, 125 killed, 234 wounded and ",
+   "url": "https://www.who.int/news/item/19-08-2020-world-humanitarian-day-2020-a-tribute-to-aid-workers-on-the-front-lines",
+   "date": "2020-08-19T07:55:05+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "7dff8919775e",
+   "source": "Organización Mundial de la Salud",
+   "title": "Plane carrying WHO trauma and surgical supplies arrives in Beirut, Lebanon",
+   "description": "A plane carrying 20 tonnes of WHO health supplies has landed in Beirut, Lebanon, to support the treatment of patients injured by the massive blast that occurred in the city on 4 August. The supplies will cover 1000 trauma interventions and 1000 surgical interventions for people s",
+   "url": "https://www.who.int/news/item/05-08-2020-plane-carrying-who-trauma-and-surgical-supplies-arrives-in-beirut-lebanon",
+   "date": "2020-08-07T14:38:20+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "a331052f55a4",
+   "source": "Organización Mundial de la Salud",
+   "title": "COVID-19 Emergency Committee highlights need for response efforts over long term",
+   "description": "The Emergency Committee on COVID-19, convened by the WHO Director-General under the International Health Regulations (2005) (IHR), held its fourth meeting on 31 July. In its statement following the meeting, published today, it expressed “appreciation for WHO and partners’ COVID-1",
+   "url": "https://www.who.int/news/item/01-08-2020-covid-19-emergency-committee-highlights-need-for-response-efforts-over-long-term",
+   "date": "2020-08-01T14:47:25+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "192bbd970ff1",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO statement on heated tobacco products and the US FDA decision regarding IQOS",
+   "description": "WHO takes this opportunity to remind Member States that are Parties to the WHO Framework Convention of Tobacco Control (FCTC) of their obl i gations under the Convention. Heated tobacco products are tobacco products, meaning that the WHO FCTC fully applies to these products. (Dec",
+   "url": "https://www.who.int/news/item/27-07-2020-who-statement-on-heated-tobacco-products-and-the-us-fda-decision-regarding-iqos",
+   "date": "2020-07-27T11:57:34+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "7c997ccda5d0",
+   "source": "Organización Mundial de la Salud",
+   "title": "World Hepatitis Day: fast-tracking the elimination of hepatitis B among mothers and children",
+   "description": "On World Hepatitis Day 2020, WHO is calling for united and stepped-up action to prevent mother-to-child transmission of hepatitis B (HBV), a preventable viral infection that attacks the liver and claims the lives of nearly 900 000 people each year.",
+   "url": "https://www.who.int/news/item/27-07-2020-world-hepatitis-day-fast-tracking-the-elimination-of-hepatitis-b-among-mothers-and-children",
+   "date": "2020-07-27T09:59:42+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "f364d09990c4",
+   "source": "Organización Mundial de la Salud",
+   "title": "New COVID-19 Law Lab to provide vital legal information and support for the global COVID-19 response",
+   "description": "Launching today, the COVID-19 Law Lab initiative gathers and shares legal documents from over 190 countries across the world to help states establish and implement strong legal frameworks to manage the pandemic. The goal is to ensure that laws protect the health and wellbeing of ",
+   "url": "https://www.who.int/news/item/22-07-2020-new-covid-19-law-lab-to-provide-vital-legal-information-and-support-for-the-global-covid-19-response",
+   "date": "2020-07-22T14:01:26+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "7cea4415f1a4",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO Director-General pays tribute to Spain’s sacrifices and leadership to confront COVID-19",
+   "description": "World Health Organization Director-General Dr Tedros Adhanom Ghebreyesus today joined the leadership of Spain, paying homage to those who have lost their lives in the country due to COVID-19, saluting the heroic efforts of heath workers and praising the government’s resolute and ",
+   "url": "https://www.who.int/news/item/16-07-2020-who-director-general-pays-tribute-to-spain-s-sacrifices-and-leadership-to-confront-covid-19",
+   "date": "2020-07-16T11:36:26+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "54bf703f41c1",
+   "source": "Organización Mundial de la Salud",
+   "title": "More than 150 countries engaged in COVID-19 vaccine global access facility",
+   "description": "Seventy-five countries submit expressions of interest to COVAX Facility, joining up to 90 further countries which could be supported by the COVAX Advance Market Commitment (AMC) The COVAX Facility, and the AMC within it, is designed to guarantee rapid, fair and equitable access t",
+   "url": "https://www.who.int/news/item/15-07-2020-more-than-150-countries-engaged-in-covid-19-vaccine-global-access-facility",
+   "date": "2020-07-15T14:39:21+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "58d8a7506639",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO and UNICEF warn of a decline in vaccinations during COVID-19",
+   "description": "WHO and UNICEF call for immediate efforts to vaccinate all children as new data shows that, before the COVID-19 pandemic, vaccine coverage stalled at 85 per cent for nearly a decade, with 14 million unvaccinated infants yearly",
+   "url": "https://www.who.int/news/item/15-07-2020-who-and-unicef-warn-of-a-decline-in-vaccinations-during-covid-19",
+   "date": "2020-07-15T12:00:12+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "0f44af5d62c0",
+   "source": "Organización Mundial de la Salud",
+   "title": "As more go hungry and malnutrition persists, achieving Zero Hunger by 2030 in doubt, UN report warns",
+   "description": "Rome – More people are going hungry, an annual study by the United Nations has found. Tens of millions have joined the ranks of the chronically undernourished over the past five years, and countries around the world continue to struggle with multiple forms of malnutrition. The la",
+   "url": "https://www.who.int/news/item/13-07-2020-as-more-go-hungry-and-malnutrition-persists-achieving-zero-hunger-by-2030-in-doubt-un-report-warns",
+   "date": "2020-07-13T14:00:59+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "565877c1b305",
+   "source": "Organización Mundial de la Salud",
+   "title": "Independent evaluation of global COVID-19 response announced",
+   "description": "PWHO Director-General today announced the initiation of the Independent Panel for Pandemic Preparedness and Response (IPPPR) to evaluate the world’s response to the COVID-19 pandemic. In remarks to WHO Member States, Director-General Tedros Adhanom Ghebreyesus said the Panel will",
+   "url": "https://www.who.int/news/item/09-07-2020-independent-evaluation-of-global-covid-19-response-announced",
+   "date": "2020-07-09T13:40:54+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "31b347f8b798",
+   "source": "Organización Mundial de la Salud",
+   "title": "UN Public Service Day",
+   "description": "Honouring the public servants who have been working on the frontlines of the COVID-19 pandemic. Whether working in healthcare or delivering essential services in the areas of sanitation, social welfare, education, postal delivery, transport, law enforcement, and more, public serv",
+   "url": "https://www.who.int/news/item/23-06-2020-un-public-service-day",
+   "date": "2020-07-08T04:19:37+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "608815f6cdbc",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO experts to travel to China",
+   "description": "WHO experts will travel to China to work together with their Chinese counterparts to prepare scientific plans for identifying the zoonotic source of the SARS-COV-2 virus. The experts will develop the scope and TOR for a WHO-led international mission. Identifying the origin of eme",
+   "url": "https://www.who.int/news/item/07-07-2020-who-experts-to-travel-to-china",
+   "date": "2020-07-07T18:56:21+00:00",
+   "category": "China y Asia",
+   "type": "Oficial"
+  },
+  {
+   "id": "d9f85235f21d",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO: access to HIV medicines severely impacted by COVID-19 as AIDS response stalls",
+   "description": "Seventy-three countries have warned that they are at risk of stock-outs of antiretroviral (ARV) medicines as a result of the COVID-19 pandemic, according to a new WHO survey conducted ahead of the International AIDS Society’s biannual conference. Twenty-four countries reported ha",
+   "url": "https://www.who.int/news/item/06-07-2020-who-access-to-hiv-medicines-severely-impacted-by-covid-19-as-aids-response-stalls",
+   "date": "2020-07-06T14:00:26+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "826334fa4250",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO discontinues hydroxychloroquine and lopinavir/ritonavir treatment arms for COVID-19",
+   "description": "WHO today accepted the recommendation from the Solidarity Trial’s International Steering Committee to discontinue the trial’s hydroxychloroquine and lopinavir/ritonavir arms. The Solidarity Trial was established by WHO to find an effective COVID-19 treatment for hospitalized pati",
+   "url": "https://www.who.int/news/item/04-07-2020-who-discontinues-hydroxychloroquine-and-lopinavir-ritonavir-treatment-arms-for-covid-19",
+   "date": "2020-07-04T15:56:35+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "5817f1b9c70a",
+   "source": "Organización Mundial de la Salud",
+   "title": "Listings of WHO’s response to COVID-19",
+   "description": "WHO provides this timeline of the organization’s COVID-19 response activities for general information. WHO will update the timeline on a regular basis and in light of evolving events and new information. Unless noted otherwise, country-specific information and data are as reporte",
+   "url": "https://www.who.int/news/item/29-06-2020-covidtimeline",
+   "date": "2020-06-29T14:24:38+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "ba69f9ecdaed",
+   "source": "Organización Mundial de la Salud",
+   "title": "ACT-Accelerator update",
+   "description": "The tools developed will benefit the whole world, and by saving lives and reducing severe COVID-19 disease, contribute to the goal of protecting health systems and restoring full societal and economic activity globally in the near term, and facilitating high-level control of COVI",
+   "url": "https://www.who.int/news/item/26-06-2020-act-accelerator-update",
+   "date": "2020-06-26T11:55:25+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "6d3f3d969346",
+   "source": "Organización Mundial de la Salud",
+   "title": "IOC joins forces with WHO and the United Nations to fight COVID-19",
+   "description": "The International Olympic Committee and WHO together with the United Nations launch a partnership to encourage individuals and communities around the world to be #HEALTHYTogether. The three partners and Olympic athletes will spotlight the global collaboration needed to stay healt",
+   "url": "https://www.who.int/news/item/23-06-2020-ioc-joins-forces-with-who-and-the-united-nations-to-fight-covid-19",
+   "date": "2020-06-23T13:27:11+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "98cb8abed48f",
+   "source": "Organización Mundial de la Salud",
+   "title": "The World Health Organization reminds public to remain vigilant through Mr Bean’s Essential COVID-19 Checklist",
+   "description": "Public Service Announcement reminds people about the importance of washing hands, physical distancing and showing kindness The World Health Organization (WHO), Project Everyone and Tiger Aspect Productions have partnered to launch a Public Service Announcement (PSA) using global ",
+   "url": "https://www.who.int/news/item/22-06-2020-the-world-health-organization-reminds-public-to-remain-vigilant-through-mr-bean-s-essential-covid-19-checklist",
+   "date": "2020-06-22T09:51:24+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "00611cd0978e",
+   "source": "Organización Mundial de la Salud",
+   "title": "Countries failing to prevent violence against children, agencies warn",
+   "description": "Half of the world’s children, or approximately 1 billion children each year are affected by physical, sexual or psychological violence, suffering injuries, disabilities and death, because countries have failed to follow established strategies to protect them. This is according to",
+   "url": "https://www.who.int/news/item/18-06-2020-countries-failing-to-prevent-violence-against-children-agencies-warn",
+   "date": "2020-06-18T13:00:57+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "fdc09985bbeb",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO welcomes preliminary results about dexamethasone use in treating critically ill COVID-19 patients",
+   "description": "The World Health Organization (WHO) welcomes the initial clinical trial results from the United Kingdom (UK) that show dexamethasone, a corticosteroid, can be lifesaving for patients who are critically ill with COVID-19. For patients on ventilators, the treatment was shown to red",
+   "url": "https://www.who.int/news/item/16-06-2020-who-welcomes-preliminary-results-about-dexamethasone-use-in-treating-critically-ill-covid-19-patients",
+   "date": "2020-06-16T21:15:07+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "0705e059f1fd",
+   "source": "Organización Mundial de la Salud",
+   "title": "A cluster of COVID-19 in Beijing, People’s Republic of China",
+   "description": "WHO is following up with Chinese authorities about a cluster of COVID-19 cases in Beijing, People’s Republic of China. Today, officials from the National Health Commission and Beijing Health Commission briefed WHO’s China country office, to share details of preliminary investigat",
+   "url": "https://www.who.int/news/item/13-06-2020-a-cluster-of-covid-19-in-beijing-people-s-republic-of-china",
+   "date": "2020-06-13T21:43:05+00:00",
+   "category": "China y Asia",
+   "type": "Oficial"
+  },
+  {
+   "id": "4e2198a9b364",
+   "source": "Organización Mundial de la Salud",
+   "title": "World Food Safety Day 2020: UN experts in Facebook live event on 5 June 2020",
+   "description": "On 7 June 2020, the United Nations will mark the second global World Food Safety Day, led by two of its specialized agencies, the Food and Agriculture Organization of the United Nations (FAO) and the World Health Organization (WHO). Food safety is a shared responsibility, and eve",
+   "url": "https://www.who.int/news/item/03-06-2020-world-food-safety-day-2020-un-experts-in-facebook-live-event-on-5-june-2020",
+   "date": "2020-06-04T13:06:38+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "365cdbd2f699",
+   "source": "Organización Mundial de la Salud",
+   "title": "Statement from Dr Mike Ryan, Executive Director, WHO Health Emergencies Programme at the Yemen High-level Pledging Conference",
+   "description": "(Thank you Mark, Shukran Dr. Al Rabeeah) I am speaking today on behalf of WHO Director-General Dr Tedros, and of Dr Ahmed Al-Mandhari, WHO Regional Director for the Eastern Mediterranean Region Excellencies, distinguished delegates, ladies and gentlemen, salam aleikum, As we all ",
+   "url": "https://www.who.int/news/item/02-06-2020-statement-from-dr-mike-ryan-executive-director-who-health-emergencies-programme-at-the-yemen-high-level-pledging-conference",
+   "date": "2020-06-03T09:32:42+00:00",
+   "category": "Oriente Medio",
+   "type": "Oficial"
+  },
+  {
+   "id": "86e973300a8f",
+   "source": "Organización Mundial de la Salud",
+   "title": "Stop tobacco industry exploitation of children and young people",
+   "description": "The World Health Organization is today launching a new kit for school students aged 13-17 to alert them to the tobacco industry tactics used to hook them to addictive products. Every year the tobacco industry invests more than USD 9 billion to advertise its products. Increasingly",
+   "url": "https://www.who.int/news/item/29-05-2020-stop-tobacco-industry-exploitation-of-children-and-young-people",
+   "date": "2020-05-29T04:00:52+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "c928dc765580",
+   "source": "Organización Mundial de la Salud",
+   "title": "The World Health Organization, UN Foundation and Illumination partner on health messages",
+   "description": "WHO, the United Nations Foundation and Illumination have partnered to launch a Public Service Announcement (PSA) that reinforces safe and healthy practices during these challenging times, featuring Illumination’s globally beloved Gru and the Minions.",
+   "url": "https://www.who.int/news/item/27-05-2020-the-world-health-organization-un-foundation-and-illumination-partner-on-health-messages",
+   "date": "2020-05-27T16:15:29+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "ff7adc05c635",
+   "source": "Organización Mundial de la Salud",
+   "title": "Countries failing to stop harmful marketing of breast-milk substitutes, warn WHO and UNICEF",
+   "description": "A new report by WHO, UNICEF, and the International Baby Food Action Network (IBFAN) reveals that despite efforts to stop the harmful promotion of breast-milk substitutes, countries are still falling short in protecting parents from misleading information.",
+   "url": "https://www.who.int/news/item/27-05-2020-countries-failing-to-stop-harmful-marketing-of-breast-milk-substitutes-warn-who-and-unicef",
+   "date": "2020-05-27T00:01:22+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "54335e8b7b29",
+   "source": "Organización Mundial de la Salud",
+   "title": "At least 80 million children under one at risk of diseases such as diphtheria, measles and polio as COVID-19 disrupts routine vaccination efforts, warn Gavi, WHO and UNICEF",
+   "description": "COVID 19 is disrupting life-saving immunization services around the world, putting millions of children – in rich and poor countries alike – at risk of diseases like diphtheria, measles and polio. This stark warning comes from the World Health Organization, UNICEF and Gavi, the V",
+   "url": "https://www.who.int/news/item/22-05-2020-at-least-80-million-children-under-one-at-risk-of-diseases-such-as-diphtheria-measles-and-polio-as-covid-19-disrupts-routine-vaccination-efforts-warn-gavi-who-and-unicef",
+   "date": "2020-05-22T14:59:57+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "3051e144a166",
+   "source": "Organización Mundial de la Salud",
+   "title": "Smithsonian Science Education Center With Support of the World Health Organization Launches New COVID-19 Guide for Youth",
+   "description": "The Smithsonian Science Education Center, in collaboration with the World Health Organization (WHO) and the InterAcademy Partnership (IAP)—a partnership of 140 national academies of science, engineering and medicine—has developed “COVID-19! How can I protect myself and others?,” ",
+   "url": "https://www.who.int/news/item/21-05-2020-smithsonian-science-education-center-with-support-of-the-world-health-organization-launches-new-covid-19-guide-for-youth",
+   "date": "2020-05-21T12:01:23+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "5b442390c4c0",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO and UNHCR join forces to improve health services for refugees, displaced and stateless people",
+   "description": "The World Health Organization (WHO) and UNHCR, the UN Refugee Agency today signed a new agreement to strengthen and advance public health services for the millions of forcibly displaced people around the world. The agreement updates and expands an existing 1997 agreement between ",
+   "url": "https://www.who.int/news/item/21-05-2020-who-and-unhcr-join-forces-to-improve-health-services-for-refugees-displaced-and-stateless-people",
+   "date": "2020-05-21T10:06:48+00:00",
+   "category": "",
+   "type": "Oficial"
+  },
+  {
+   "id": "01f2747f0027",
+   "source": "Organización Mundial de la Salud",
+   "title": "WHO and Costa Rica preview technology pooling initiative to ensure access to COVID-19 health products for all",
+   "description": "Geneva, 15 May 2020 – Presidents Carlos Alvarado Quesada of Costa Rica and Sebastián Piñera of Chile joined WHO Director-General Dr Tedros Adhanom Ghebreyesus today to announce progress on a technology platform that aims to lift access barriers to effective vaccines, medicines an",
+   "url": "https://www.who.int/news/item/15-05-2020-who-and-costa-rica-preview-technology-pooling-initiative-to-ensure-access-to-covid-19-health-products-for-all",
+   "date": "2020-05-15T17:56:30+00:00",
+   "category": "",
+   "type": "Oficial"
   },
   {
    "id": "2cd9d1ed2549",
