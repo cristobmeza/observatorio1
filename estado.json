@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T15:53:08.673376+00:00",
+ "updated": "2026-11-05T17:01:26.921146+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -49,13 +49,12 @@
   },
   "Deutsche Welle": {
    "ok": true,
-   "n": 22,
+   "n": 23,
    "url": "https://rss.dw.com/xml/rss-sp-all"
   },
   "France 24": {
-   "ok": true,
-   "n": 24,
-   "url": "https://www.france24.com/es/rss"
+   "ok": false,
+   "err": "HTTP Error 403: Forbidden"
   },
   "Al Jazeera": {
    "ok": true,
@@ -69,11 +68,11 @@
   },
   "Agencia EFE": {
    "ok": false,
-   "err": "HTTP Error 500: Internal Server Error"
+   "err": "HTTP Error 429: Too Many Requests"
   },
   "Biblioteca del Congreso Nacional": {
    "ok": false,
-   "err": "not well-formed (invalid token): line 47, column 32"
+   "err": "not well-formed (invalid token): line 48, column 32"
   },
   "Diario Oficial": {
    "ok": true,
@@ -136,7 +135,7 @@
   },
   "Organización Mundial del Comercio": {
    "ok": true,
-   "n": 7,
+   "n": 6,
    "url": "https://www.wto.org/library/rss/latest_news_s.xml"
   },
   "Organización Mundial de la Salud": {
