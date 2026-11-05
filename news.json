@@ -1,14 +1,84 @@
 {
- "updated": "2026-11-05T04:53:10.494856+00:00",
+ "updated": "2026-11-05T05:54:44.970124+00:00",
  "items": [
+  {
+   "id": "ed7a95666269",
+   "source": "Al Jazeera",
+   "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
+   "description": "Netanyahu's rivals say US midterm results show Israel 'cannot afford' to have the prime minister remain in office.",
+   "url": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
+   "date": "2026-11-05T05:39:31+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "15d501a0c573",
    "source": "The Guardian",
    "title": "Beau Lamarre-Condon trial live updates: accused double murderer gives evidence in high-profile case",
    "description": "The 31-year-old former police officer is accused of fatally shooting couple Jesse Baird and Luke Davies in Sydney in 2024 Former police officer Beau Lamarre-Condon enters witness box in Sydney double murder trial Get our breaking news email , free app or daily news podcast The co",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-   "date": "2026-11-05T04:33:56+00:00",
+   "date": "2026-11-05T05:31:06+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d311cb8c2393",
+   "source": "The Guardian",
+   "title": "‘Bring it on’: Pauline Hanson to appeal Mehreen Faruqi racial discrimination ruling in high court",
+   "description": "One Nation leader granted special leave to appeal after full federal court earlier this year agreed Hanson portrayed Faruqi as a ‘second-class citizen’ Get our daily political email , free app or daily news podcast Australia’s high court has agreed to hear Pauline Hanson’s appeal",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/05/pauline-hanson-to-appeal-mehreen-faruqi-racial-discrimination-ruling-high-court-ntwnfb",
+   "date": "2026-11-05T05:03:08+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "0545fcf3c8f9",
+   "source": "The Guardian",
+   "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+   "description": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investiga",
+   "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+   "date": "2026-11-05T05:00:55+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "821b6727e0ae",
+   "source": "The Guardian",
+   "title": "Protesters to join nationwide march as France braces for day of strike action",
+   "description": "Hospital workers, air traffic and rail staff expected to join strikes amid renewed protests over education and rising living costs Hundreds of thousands are expected to march in demonstrations across France as trade unions call for a nationwide strike expected to extend to hospit",
+   "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+   "date": "2026-11-05T05:00:54+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "ee5c1dbf755a",
+   "source": "The Guardian",
+   "title": "Historians say King Verica persuaded Rome to invade Britain. But could Verica actually have been a queen?",
+   "description": "Controversial theory that Verica, who incited Emperor Claudius’s AD43 landing, was a woman could put a new spin on British history if true It was a moment that changed the course of British history: in AD43, Roman troops under the emperor Claudius landed in Kent. Now, an archaeol",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king",
+   "date": "2026-11-05T05:00:54+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "9b1834bde333",
+   "source": "The Guardian",
+   "title": "‘An insult to his culture’: Italian chef sacked for not putting pineapple on pizza loses bid to get job back",
+   "description": "Australia’s Fair Work Commission heard that Davide Tamburella was sacked after refusing to use the controversial topping With its sea foam-green and white decor, exposed brick columns and “classic Italian dishes” served atop European oak tables, La Costa was billed as an elegant ",
+   "url": "https://www.theguardian.com/food/2026/nov/05/italian-chef-sacked-refusing-pineapple-on-pizza-australia-fair-work",
+   "date": "2026-11-05T04:53:28+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "b6073d341ef1",
+   "source": "Al Jazeera",
+   "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
+   "description": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.",
+   "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
+   "date": "2026-11-05T04:49:56+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -39,6 +109,16 @@
    "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
    "date": "2026-11-05T04:22:49+00:00",
    "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "ca82d3f55843",
+   "source": "Radio Bío-Bío",
+   "title": "Candidato a la CPC por rebaja de penas a pederastas: \"A la persona común este tema no le importa\"",
+   "description": "El candidato a la presidencia de la Confederación de la Producción y el Comercio (CPC), Félix de Vicente, se refirió públicamente a la polémica que enfrenta el Ejecutivo por la rebaja de condenas y la entrega de beneficios a 56 pederastas. De Vicente sostuvo que la situación cons",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/05/candidato-a-la-cpc-por-rebaja-de-penas-a-pederastas-a-la-persona-comun-este-tema-no-le-importa.shtml",
+   "date": "2026-11-05T04:12:22+00:00",
+   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -119,6 +199,16 @@
    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261105-yo-vot%C3%A9-electores-recuerdan-a-las-v%C3%ADctimas-de-ice-en-las-elecciones-de-ee-uu",
    "date": "2026-11-05T03:26:09+00:00",
    "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "66c9d3dadce0",
+   "source": "Radio Bío-Bío",
+   "title": "\"Le enseñé todo lo que hizo en Sin Filtros\": Sebastián Eyzaguirre se lanza contra Gonzalo Feito",
+   "description": "Sebastián “Cuchillo” Eyzaguirre arremetió contra Gonzalo Feito en el más reciente capítulo de Sin Filtros. Allí, el productor lo tildó de “miserable” y aseguró que estaba detrás de todo su éxito en el programa. Recordemos que el periodista dejó SF a mediados de este año para suma",
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/05/le-ensene-todo-lo-que-hizo-en-sin-filtros-sebastian-eyzaguirre-se-lanza-contra-gonzalo-feito.shtml",
+   "date": "2026-11-05T03:24:12+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -652,16 +742,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c054aa014eb3",
-   "source": "Radio Bío-Bío",
-   "title": "Copa Chile: Coquimbo superó a La Calera como visitante y tomó ventaja en cuartos de final",
-   "description": "Visita ingrata. Coquimbo Unido venció este miércoles a Unión La Calera, a domicilio, en duelo de ida de cuartos de final de la Copa Chile 2026. El elenco ‘pirata’ se hizo fuerte como forastero desde el inicio. De hecho, Elvis Hernández abrió la cuenta en el minuto 3. Hernández pr",
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/04/copa-chile-coquimbo-supero-a-la-calera-como-visitante-y-tomo-ventaja-en-cuartos-de-final.shtml",
-   "date": "2026-11-05T00:03:48+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "0ba5c5ee6330",
    "source": "The Guardian",
    "title": "Milburn review to call for jobs ’revolution’ for young people with disabilities",
@@ -674,21 +754,11 @@
   {
    "id": "4bb2422a0ed6",
    "source": "Al Jazeera",
-   "title": "Iran war live: Khamenei says US hostility will persist after midterms",
-   "description": "Iran's supreme leader says US hostility will persist regardless of the midterm election results.",
+   "title": "Iran war live: IRGC says two oil tankers and tugboat caught fire in Hormuz",
+   "description": "Iran's IRGC says two tankers and a tugboat caught fire in the Strait of Hormuz after using an \"unauthorised route\".",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
    "date": "2026-11-05T00:00:00+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "bebe46161480",
-   "source": "Radio Bío-Bío",
-   "title": "CDE amplía querella en arista Fundamenta sumando a Vargas y Silber por soborno y lavado de activos",
-   "description": "El Consejo de Defensa del Estado (CDE) presentó una nueva ampliación de la querella que dedujo originalmente en noviembre de 2025 en la arista Fundamenta del denominado caso Audio. La acción judicial se dirige contra la exministra de la Corte Suprema Ángela Vivanco, su pareja Víc",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/04/cde-amplia-querella-en-arista-fundamenta-sumando-a-vargas-y-silber-por-soborno-y-lavado-de-activos.shtml",
-   "date": "2026-11-04T23:59:47+00:00",
-   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -882,16 +952,6 @@
    "type": "Prensa"
   },
   {
-   "id": "12e4d7095560",
-   "source": "Al Jazeera",
-   "title": "Palestinians, Israelis react after Democrats sweep US midterms",
-   "description": "Palestinians and Israelis are divided in their opinion following the win by Democrats in the US midterm elections.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss",
-   "date": "2026-11-04T22:06:24+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "345845f4d78e",
    "source": "France 24",
    "title": "Irán se burla del varapalo electoral de Trump: \"Hablaron de un cambio de régimen, lo hicimos realidad\"",
@@ -972,26 +1032,6 @@
    "type": "Prensa"
   },
   {
-   "id": "59d526731597",
-   "source": "Al Jazeera",
-   "title": "Social media reacts to Democrats’ takeover of US Congress",
-   "description": "Social media is awash with reactions to Democrats’ sweeping midterm gains.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
-   "date": "2026-11-04T21:21:58+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "e8b335b33c3f",
-   "source": "The Guardian",
-   "title": "Telstra apologises after customers mystified by phantom missed call notifications",
-   "description": "Telco blames its MessageBank service and apologises for customer confusion Get our breaking news email , free app or daily news podcast Thousands of Telstra users have reported phantom missed-call notifications on their mobile devices with some messages arriving days after the ac",
-   "url": "https://www.theguardian.com/business/2026/nov/05/telstra-customers-false-missed-call-notifications-apology",
-   "date": "2026-11-04T21:10:20+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "a3a15c2cf7b0",
    "source": "France 24",
    "title": "\"Contraten abogados\": de negocios familiares a Epstein, los demócratas se alistan para investigar a Trump",
@@ -1049,16 +1089,6 @@
    "url": "https://www.ex-ante.cl/opinion/el-inicio-del-fin-de-la-era-trump-pepe-auth/",
    "date": "2026-11-04T20:10:10+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "88818521da46",
-   "source": "The Guardian",
-   "title": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
-   "description": "Analysis by human rights organisation Global Echo shows 85 of 132 shipments over eight years contained more than US$5m of organic dates grown in settlements Get our breaking news email , free app or daily news podcast Millions of dollars of food grown in illegal Israeli settlemen",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
-   "date": "2026-11-04T20:00:43+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1262,16 +1292,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f1f0f38b01bd",
-   "source": "The Guardian",
-   "title": "UK politics: Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – as it happened",
-   "description": "‘I think people want to see the world coming together and focusing on the things that matter to people,’ PM says Louise Haigh starts by saying she is standing in for Andy Burnham. She says this weekend the whole country will fall silent to mark Remembrance Sunday. Continue readin",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
-   "date": "2026-11-04T17:01:31+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "79681344cc7a",
    "source": "The Guardian",
    "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
@@ -1339,16 +1359,6 @@
    "url": "https://www.ciperchile.cl/2026/11/04/trump-perdio-el-referendum-sobre-si-mismo/?utm_source=rss&utm_medium=rss&utm_campaign=trump-perdio-el-referendum-sobre-si-mismo",
    "date": "2026-11-04T15:53:49+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "daad7fcbf45d",
-   "source": "The Guardian",
-   "title": "Spain’s deadly train crashes have damaged public confidence in the system",
-   "description": "Pedro Sánchez and his socialist-led coalition government are racing to rebuild trust ahead of a snap election, but the task they face is immense • Don’t get This Is Europe delivered to your inbox? Sign up here A week ago today, for the second time in nine months, I got in my car ",
-   "url": "https://www.theguardian.com/world/2026/nov/04/spains-deadly-train-crashes-have-damaged-public-trust-in-the-system",
-   "date": "2026-11-04T15:40:37+00:00",
-   "category": "Socialismo y pensamiento económico",
    "type": "Prensa"
   },
   {
@@ -1440,6 +1450,26 @@
    "date": "2026-11-04T12:19:18+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
+  },
+  {
+   "id": "5b013aac22e2",
+   "source": "Naciones Unidas",
+   "title": "Un 25% de los adolescentes no hace suficiente ejercicio",
+   "description": "Uno de cada cuatro adolescentes, unos 240 millones, no realiza 60 minutos de actividad física ningún día de la semana, y las niñas se quedan más atrás: el 28 % no tiene ningún día activo, frente al 22 % de los niños. Durante 15 años, el mundo no ha logrado casi ningún avance. La ",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542142",
+   "date": "2026-11-04T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "9d8701d1c4e7",
+   "source": "Naciones Unidas",
+   "title": "Clima y salud, clima y adaptación, el precio del petróleo… las noticias del miércoles",
+   "description": "El mundo \"no está preparado\" para adaptarse al cambio climático: los países en desarrollo necesitarán 305.000 millones de dólares anuales para 2035, pero la financiación pública internacional solo alcanzó entre 28.200 y 31.700 millones en 2024. La OMS advierte de que seis medidas",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542141",
+   "date": "2026-11-04T12:00:00+00:00",
+   "category": "Sociedad",
+   "type": "Oficial"
   },
   {
    "id": "39aef2178c95",
@@ -2072,16 +2102,6 @@
    "type": "Oficial"
   },
   {
-   "id": "0c5ca8a71d71",
-   "source": "The Guardian",
-   "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-   "description": "Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitor The cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack. T",
-   "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-   "date": "2026-11-01T11:54:23+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "03a45e091106",
    "source": "BBC Mundo",
    "title": "\"Nos abandonaron en bolsas cuando éramos bebés y décadas después descubrimos que éramos hermanos\"",
@@ -2512,16 +2532,6 @@
    "type": "Oficial"
   },
   {
-   "id": "d9b7a1f8b242",
-   "source": "Naciones Unidas",
-   "title": "Ébola: responsables de la ONU condenan el asesinato de una enfermera en la República Democrática del Congo",
-   "description": "Una enfermera que respondía a una alerta de ébola fue asesinada y otro trabajador sanitario resultó gravemente herido. \"Condeno enérgicamente este ataque y pido una investigación exhaustiva\", declara el coordinador de la ONU para el ébola, Julien Harneis, mientras la OMS recuerda",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542103",
-   "date": "2026-10-26T12:00:00+00:00",
-   "category": "África",
-   "type": "Oficial"
-  },
-  {
    "id": "202a40d853d6",
    "source": "Estudios Públicos (CEP)",
    "title": "¿Qué hacer con la dependencia en la vejez?",
@@ -2540,16 +2550,6 @@
    "date": "2026-10-25T02:00:49+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
-  },
-  {
-   "id": "f642b5167e8a",
-   "source": "Naciones Unidas",
-   "title": "Construyendo Futuros: el reto de llevar la educación a las fronteras de Venezuela",
-   "description": "La ONG, nacida del sueño de una adolescente de 17 años, cuenta hoy con más de 150 profesionales y ha impactado a más de 450.000 personas en el país. Su directora general, Jennifer Belisario, explica en una entrevista los retos de operar en zonas remotas, la relación con el sistem",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542101",
-   "date": "2026-10-24T12:00:00+00:00",
-   "category": "Sociedad",
-   "type": "Oficial"
   },
   {
    "id": "aceaa3f9248a",
