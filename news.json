@@ -1,10 +1,140 @@
 {
- "updated": "2026-11-05T20:42:52.772892+00:00",
+ "updated": "2026-11-05T21:40:53.848315+00:00",
  "items": [
+  {
+   "id": "1040f1b73de3",
+   "source": "Ex-Ante",
+   "title": "Bill Gates en Chuquicamata: la empresa del magnate tecnológico que mira a Chile y no descarta aliarse con Codelco",
+   "description": "Más allá de su reciente visita a Chuquicamata, Bill Gates, el cofundador de Microsoft, está vinculado a Mingomba, un megaproyecto de cobre en Zambia, a…",
+   "url": "https://www.ex-ante.cl/negocios/bill-gates-visita-codelco-lazos-mineria/",
+   "date": "2026-11-05T21:36:41+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "02fcbea6f483",
+   "source": "Ex-Ante",
+   "title": "“Entregó información falsa al Concejo Municipal”: Ex jefa de salud de Recoleta complica escenario judicial de Jadue",
+   "description": "“Ya se consiguieron todos los permisos del ISP”, dijo el hoy exalcalde Jadue al Consejo Municipal de Recoleta en abril de 2021, instancia a la…",
+   "url": "https://www.ex-ante.cl/nacional/jadue-informacion-falsa-recoleta/",
+   "date": "2026-11-05T21:28:24+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "1667866d5a1d",
+   "source": "France 24",
+   "title": "Del vino a las bebidas sin alcohol: la nueva era de los sommeliers",
+   "description": "Una nueva generación de sommeliers franceses redefine los códigos de una profesión en plena transformación, marcada por los cambios en los hábitos de consumo y el auge de las bebidas sin alcohol. En esta emisión, los periodistas siguen de cerca a Pascaline Lepeltier, subcampeona ",
+   "url": "https://www.france24.com/es/programas/francia-en-foco/20261105-del-vino-a-las-bebidas-sin-alcohol-la-nueva-era-de-los-sommeliers",
+   "date": "2026-11-05T21:26:52+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "a2c1b6826bff",
+   "source": "Radio Cooperativa",
+   "title": "Turista deberá pagar $436 mil a Bomberos por fumar en Parque Nacional Queulat",
+   "description": "Un turista europeo deberá pagar cerca de 436 mil pesos a Bomberos y tendrá prohibido ingresar a parques nacionales mientras permanezca en Chile, luego de ser sorprendido fumando dentro del Parque Nacional Queulat , en la región de Aysén. El visitante fue detenido tras una denunci",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-aysen/turista-debera-pagar-436-mil-a-bomberos-por-fumar-en-parque-nacional/2026-11-05/182602.html",
+   "date": "2026-11-05T21:26:02+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "0fcbc1ce9a32",
+   "source": "Deutsche Welle",
+   "title": "Más de 600 mil personas se manifiestan en Francia por mejores salarios",
+   "description": "La movilización, la mayor desde el inicio de las protestas en septiembre, reunió a cientos de miles de personas en todo el país. Los sindicatos reclaman aumentos salariales, justicia fiscal y mejores servicios públicos.",
+   "url": "https://www.dw.com/es/más-de-600-mil-personas-se-manifiestan-en-francia-por-mejores-salarios/a-79871134?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-05T21:21:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "3b497b046fe3",
+   "source": "Radio Cooperativa",
+   "title": "\"¿Cómo puede existir gente tan patuda?\": Naya Fácil arremetió contra antiguo dueño de su penthouse",
+   "description": "Naya Fácil volvió a exponer los problemas que enfrenta en su millonario penthouse ubicado en el sector de El Golf, en Las Condes, esta vez apuntando directamente contra el antiguo propietario del inmueble. A través de sus historias de Instagram, la creadora de contenido aseguró q",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/como-puede-existir-gente-tan-patuda-naya-facil-arremetio-contra/2026-11-05/181229.html",
+   "date": "2026-11-05T21:12:29+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "77572ffa728c",
+   "source": "Radio Cooperativa",
+   "title": "Metro extenderá su horario hasta las 03:30 del domingo por cierre de la Teletón",
+   "description": "El Metro de Santiago informó este jueves que extenderá su horario de servicio hasta las 03:30 de la madrugada de este domingo , con el objetivo de facilitar el regreso de los más de 60 mil asistentes que eventualmente asistirán al Estadio Nacional por el cierre de la Teletón . En",
+   "url": "https://www.cooperativa.cl/noticias/pais/transportes/metro/metro-extendera-su-horario-hasta-las-03-30-del-domingo-por-cierre-de-la/2026-11-05/180918.html",
+   "date": "2026-11-05T21:09:18+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "0621ded794c7",
+   "source": "Deutsche Welle",
+   "title": "Trump pierde poder y los países del Golfo se replantean sus alianzas",
+   "description": "Las elecciones intermedias en EE. UU. mostraron el rechazo a la guerra contra Irán impulsada por Trump. Tras meses atrapados en el conflicto, los países del Golfo ven motivos para el optimismo.",
+   "url": "https://www.dw.com/es/trump-pierde-poder-y-los-países-del-golfo-se-replantean-sus-alianzas/a-79871039?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-05T21:05:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "29135999f1df",
+   "source": "Radio Cooperativa",
+   "title": "Vozinha reiteró su objetivo en Colo Colo: Vine con la clara intención de jugar la Libertadores",
+   "description": "El caboverdiano Vozinha , arquero de Colo Colo, habló sobre su futuro en el cuadro albo y reiteró sus intenciones de continuar en la próxima temporada, para poder jugar la Copa Libertadores 2027. \"Vine para acá con la clara intención de jugar la Copa Libertadores, pero hoy mi foc",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-reitero-su-objetivo-en-colo-colo-vine-con-la-clara-intencion-de/2026-11-05/175807.html",
+   "date": "2026-11-05T20:58:07+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "ecaea7d75f5d",
+   "source": "Al Jazeera",
+   "title": "Saudi coalition intercepts missile fired towards Medina",
+   "description": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
+   "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+   "date": "2026-11-05T20:48:47+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "4bcffa03b4ae",
+   "source": "Al Jazeera",
+   "title": "Why are wealthy countries failing developing nations?",
+   "description": "UN report warns climate adaptation funding is falling far short of needs.",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
+   "date": "2026-11-05T20:45:47+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "db87581af32a",
+   "source": "Al Jazeera",
+   "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+   "description": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
+   "date": "2026-11-05T20:43:46+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "93402d318f24",
+   "source": "Radio Cooperativa",
+   "title": "Con cinco del extranjero: La Roja sub 20 anunció su nómina para enfrentar a México",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La selección chilena sub 20 dio a conocer su lista de convocados de cara a sus próximos dos amistosos ante México , agendados para el viernes 13 y el lunes 16 de noviembre en el Centro de Alto Rendimiento \"José Sulantay\". L",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/con-cinco-del-extranjero-la-roja-sub-20-anuncio-su-nomina-para/2026-11-05/173824.html",
+   "date": "2026-11-05T20:38:24+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
   {
    "id": "d4b5f908785c",
    "source": "The Guardian",
-   "title": "British Ebola patient evacuated from DRC arrives at London hospital",
+   "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
    "description": "Doctor who was helping response to outbreak in Africa taken to specialist isolation unit at Royal Free hospital A British doctor who tested positive for Ebola while working in the Democratic Republic of the Congo has returned to the UK for specialist treatment. The patient, whose",
    "url": "https://www.theguardian.com/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital",
    "date": "2026-11-05T20:30:11+00:00",
@@ -29,6 +159,16 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-argentina/river-plate-vencio-a-aldosivi-en-el-cierre-de-la-fase-regular-del/2026-11-05/172451.html",
    "date": "2026-11-05T20:24:51+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "83ae487f7fb1",
+   "source": "Al Jazeera",
+   "title": "Mass protests in France driven by nationwide strike action",
+   "description": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
+   "date": "2026-11-05T20:11:37+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -112,32 +252,22 @@
    "type": "Prensa"
   },
   {
-   "id": "917728b64564",
-   "source": "Radio Cooperativa",
-   "title": "Osorio inició la jugada que permitió el agónico empate de Crystal Palace en Europa League",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El futbolista chileno Darío Osorio tuvo un activo ingreso en la igualdad 1-1 que Crystal Palace rescató sobre la hora ante Hoffenheim por la cuarta fecha de la Europa League , con una recuperación vital en campo rival. El s",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/europa-league/osorio-inicio-la-jugada-que-permitio-el-agonico-empate-de-crystal-palace/2026-11-05/164752.html",
-   "date": "2026-11-05T19:47:52+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "fd4d310dcb87",
-   "source": "Radio Cooperativa",
-   "title": "Maripán se integró a los entrenamientos de La Roja para los amistosos con Colombia",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/maripan-se-integro-a-los-entrenamientos-de-la-roja-para-los-amistosos/2026-11-05/164157.html",
-   "date": "2026-11-05T19:41:57+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "eeb55d3f64cc",
    "source": "Ex-Ante",
    "title": "MK4 y Startups: una oportunidad que no debemos desaprovechar",
    "description": "Como puede apreciarse, si bien el avance es importante todavía queda mucho camino por explorar. Dada las actuales cifras de crecimiento y empleo, es un…",
    "url": "https://www.ex-ante.cl/afteroffice/mk4-startups-no-debemos-desaprovechar/",
    "date": "2026-11-05T19:40:17+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "5604d92692f5",
+   "source": "Radio Cooperativa",
+   "title": "Comunidades educativas participaron del simulacro por sismo y tsunami en Valparaíso",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/sismos/simulacros/comunidades-educativas-participaron-del-simulacro-por-sismo-y-tsunami-en/2026-11-05/164015.html",
+   "date": "2026-11-05T19:40:15+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -192,16 +322,6 @@
    "type": "Prensa"
   },
   {
-   "id": "18b29fafbc54",
-   "source": "Radio Cooperativa",
-   "title": "\"Diseñado para todos\": La línea de ropa creada por Teletón para niños con discapacidad",
-   "description": "En una nueva edición de Esa es la Idea en Cooperativa, Benjamín Díaz, director comercial y de marketing de Teletón, destacó la creación de prendas funcionales orientadas a brindar mayor autonomía cotidiana a niños y jóvenes con discapacidad física. La línea \"Diseñado para Todos\" ",
-   "url": "https://www.cooperativa.cl/noticias/pais/salud/discapacidad/disenado-para-todos-la-linea-de-ropa-creada-por-teleton-para-ninos/2026-11-05/163549.html",
-   "date": "2026-11-05T19:35:49+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "71b0e542aba8",
    "source": "Deutsche Welle",
    "title": "Nigeria pasó de ser un país de tránsito a centro de drogas en África",
@@ -219,16 +339,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
    "date": "2026-11-05T19:31:28+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "0b827688af7c",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] Contra letal: El golazo \"maradoniano\" de Sparta Praga ante Bournemouth",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Sparta Praga logró pegar primero ante Bournemouth por la fase de la liga de la Europa League, gracias a la espectacular jugada de Ebrima Singhateh al minuto 35. El arquero Jakub Surovcik sacó largo para el puntero, que arra",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/europa-league/video-contra-letal-el-golazo-maradoniano-de-sparta-praga-ante/2026-11-05/162944.html",
-   "date": "2026-11-05T19:29:44+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -262,16 +372,6 @@
    "type": "Prensa"
   },
   {
-   "id": "113f22fb3a03",
-   "source": "Radio Cooperativa",
-   "title": "¿Qué partido será transmitido por TV abierta en la fecha 27 de la Liga de Primera?",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La Liga de Primera 2026 continua fin de semana con el desarrollo de una decisiva fecha 27, y contará con un duelo clave que será transmitido en televisión abierta. El partido elegido para esta fecha 27 es el choque que prot",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/que-partido-sera-transmitido-por-tv-abierta-en-la-fecha-27-de-la-liga/2026-11-05/161425.html",
-   "date": "2026-11-05T19:14:25+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "7564cb7d8fce",
    "source": "France 24",
    "title": "Esto sabemos del escándalo del Ueno Bank, la crisis que tumbó al presidente paraguayo Santiago Peña",
@@ -282,16 +382,6 @@
    "type": "Prensa"
   },
   {
-   "id": "37092ecb9540",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuántas muertes provocan las mordeduras arañas en Chile?",
-   "description": "Entre los años 2002 y 2023, un total de 76 personas falleció en Chile a causa de mordeduras de araña , con las regiones de Antofagasta, Coquimbo y Atacama con los mayores índices de mortalidad, según datos del Departamento de Estadísticas e Información de Salud (DEIS) del Ministe",
-   "url": "https://www.cooperativa.cl/noticias/pais/salud/sucesos/cuantas-muertes-provocan-las-mordeduras-aranas-en-chile/2026-11-05/155444.html",
-   "date": "2026-11-05T18:54:44+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "3cd5e1b6775c",
    "source": "Al Jazeera",
    "title": "Division among US Democrats over Schumer’s leadership role",
@@ -299,16 +389,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/5/division-among-us-democrats-over-schumers-leadership-role?traffic_source=rss",
    "date": "2026-11-05T18:53:04+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "9158f931062e",
-   "source": "Radio Cooperativa",
-   "title": "Diego Pánico fue hospitalizado de urgencia y se baja de Teletón",
-   "description": "El influencer Diego Pánico nuevamente generó preocupación entre sus seguidores al revelar que fue hospitalizado de urgencia en una clínica de Las Condes, situación que le obligó a cancelar su participación un evento solidario en apoyo a la Teletón 2026 este sábado . La figura de ",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/diego-panico-fue-hospitalizado-de-urgencia-y-se-baja-de-teleton/2026-11-05/155249.html",
-   "date": "2026-11-05T18:52:49+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -379,16 +459,6 @@
    "url": "https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/05/vozinha-ilusiona-a-los-hinchas-de-colo-colo-no-descarta-seguir-y-apunta-a-un-objetivo-por-cumplir.shtml",
    "date": "2026-11-05T18:45:21+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "fda89a800eee",
-   "source": "Radio Cooperativa",
-   "title": "Derrame en la División Andina de Codelco amenazó con llegar al río",
-   "description": "La Corporación Nacional del Cobre (Codelco) reportó este jueves un derrame de relaves en su División Andina y advirtió el riesgo de la llegada del material al cauce del río Blanco, en la zona de cordillera en la región de Valparaíso. Según informó la cuprífera estatal a través de",
-   "url": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/derrame-en-la-division-andina-de-codelco-amenazo-con-llegar-al-rio/2026-11-05/154521.html",
-   "date": "2026-11-05T18:45:21+00:00",
-   "category": "Economía nacional",
    "type": "Prensa"
   },
   {
@@ -752,6 +822,16 @@
    "type": "Prensa"
   },
   {
+   "id": "6349e8832d2c",
+   "source": "Radio Cooperativa",
+   "title": "\"Off Campus\": la temporada de Allie y Dean ya tiene fecha de estreno",
+   "description": "Prime Video anunció la fecha de estreno de la segunda temporada de \"Off Campus\" , la serie basada en la exitosa saga de libros de la escritora Elle Kennedy y que se convirtió en uno de los fenómenos recientes de la plataforma. La nueva entrega estará disponible desde el 28 de abr",
+   "url": "https://www.cooperativa.cl/noticias/magazine/streaming/off-campus-la-temporada-de-allie-y-dean-ya-tiene-fecha-de-estreno/2026-11-05/143128.html",
+   "date": "2026-11-05T17:31:28+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "589620620c58",
    "source": "France 24",
    "title": "¿Qué le espera a Paraguay tras la renuncia del presidente Santiago Peña?",
@@ -982,16 +1062,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0f86255044de",
-   "source": "Radio Cooperativa",
-   "title": "Con Osorio en cancha: Crystal Palace empata con Hoffenheim en la Europa League",
-   "description": "El equipo del chileno Darío Osorio, Crystal Palace, enfrenta al cuadro alemán Hoffenheim en una nueva fecha de la Europa League . Sigue el partido en vivo y online por Cooperativa.cl: - Crystal Palace 1-1 Hoffenheim, Segundo tiempo. Selhurst Park. 0-1: 7'; Alexander Prass (HOF); ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/europa-league/con-osorio-en-cancha-crystal-palace-empata-con-hoffenheim-en-la-europa/2026-11-05/125233.html",
-   "date": "2026-11-05T15:52:33+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "211facfceca1",
    "source": "Al Jazeera",
    "title": "Top Japan FA official to stand against Infantino for FIFA presidency",
@@ -1009,6 +1079,16 @@
    "url": "https://www.ciperchile.cl/2026/11/05/estos-son-los-informes-que-muestran-que-el-exgobernador-rivas-uso-recursos-del-gore-para-asesorar-su-posicionamiento-electoral/?utm_source=rss&utm_medium=rss&utm_campaign=estos-son-los-informes-que-muestran-que-el-exgobernador-rivas-uso-recursos-del-gore-para-asesorar-su-posicionamiento-electoral",
    "date": "2026-11-05T15:44:47+00:00",
    "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "33973a04145b",
+   "source": "Radio Cooperativa",
+   "title": "La U y Antofagasta confirmaron formaciones para su revancha por cuartos de Copa Chile",
+   "description": "Este jueves Universidad de Chile recibe a Antofagasta en el Estadio Santa Laura con la misión de revertir la serie de cuartos de final de Copa Chile, donde se encuentra en desventaja de dos goles. Sigue el partido en vivo y online por Cooperativa.cl: - Universidad de Chile vs. De",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-y-antofagasta-confirmaron-formaciones-para-su-revancha-por-cuartos/2026-11-05/123802.html",
+   "date": "2026-11-05T15:38:02+00:00",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -1092,36 +1172,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e03299609c80",
-   "source": "Al Jazeera",
-   "title": "Russell Brand found guilty of rape and sexual assault by UK court",
-   "description": "British comedian was convicted by jury at London court of one count of rape and three counts of sexual assault.",
-   "url": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss",
-   "date": "2026-11-05T14:43:09+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "ff9db940b87a",
-   "source": "Al Jazeera",
-   "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
-   "description": "Former army surgeon and Gaza volunteer Hamawy is the first Muslim American elected to the US Congress from New Jersey.",
-   "url": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
-   "date": "2026-11-05T14:30:37+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "5c142b9f3f83",
-   "source": "Al Jazeera",
-   "title": "Could the US midterms further isolate Israel in Washington?",
-   "description": "The midterms showed that challenging support for Israel can win votes. But changing US foreign policy may be harder.",
-   "url": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss",
-   "date": "2026-11-05T14:19:25+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "1455438ce77e",
    "source": "Deutsche Welle",
    "title": "Huelga nacional en Francia: 270.000 manifestantes hasta el mediodía",
@@ -1129,16 +1179,6 @@
    "url": "https://www.dw.com/es/huelga-nacional-en-francia-270-000-manifestantes-hasta-el-mediodía/a-79865967?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-05T14:18:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "d38f3c760409",
-   "source": "Al Jazeera",
-   "title": "Burning rubbish chokes besieged Yemeni city of Taiz",
-   "description": "Taiz residents face health risks as waste accumulates amid sniper fire, forcing people to burn it in the streets.",
-   "url": "https://www.aljazeera.com/features/2026/11/5/burning-rubbish-chokes-besieged-yemeni-city-of-taiz?traffic_source=rss",
-   "date": "2026-11-05T14:17:34+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1179,16 +1219,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
    "date": "2026-11-05T13:47:00+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "6bcf0cd04659",
-   "source": "France 24",
-   "title": "Crisis política en Paraguay: el presidente Santiago Peña, ad portas de un juicio político por crisis bancaria",
-   "description": "Diputados opositores presentaron ante el Congreso un pedido de juicio de destitución contra el presidente de Paraguay y su vicepresidente por la crisis que envuelve a uno de los mayores bancos del país y que condujo al congelamiento de los depósitos de alrededor de tres millones ",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-crisis-pol%C3%ADtica-en-paraguay-el-presidente-santiago-pe%C3%B1a-ad-portas-de-un-juicio-pol%C3%ADtico-por-crisis-bancaria",
-   "date": "2026-11-05T13:21:51+00:00",
-   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -1332,26 +1362,6 @@
    "type": "Prensa"
   },
   {
-   "id": "90dc7255fccc",
-   "source": "Deutsche Welle",
-   "title": "Irán afirma que tres navíos se incendian en el estrecho de Ormuz",
-   "description": "Los Guardianes de la Revolución indicaron que las naves afectadas son dos buques petroleros y un remolcador.",
-   "url": "https://www.dw.com/es/irán-afirma-que-tres-navíos-se-incendian-en-el-estrecho-de-ormuz/a-79860287?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-05T06:37:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "adb3f1d587ae",
-   "source": "Deutsche Welle",
-   "title": "Francia desplegará 70.000 agentes ante nueva jornada de protestas sindicales",
-   "description": "Los servicios de inteligencia advierten de \"riesgos\" de altercados, tras detectar a grupos que buscan generar violencia.",
-   "url": "https://www.dw.com/es/francia-desplegará-70-000-agentes-ante-nueva-jornada-de-protestas-sindicales/a-79860132?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-05T06:03:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "d311cb8c2393",
    "source": "The Guardian",
    "title": "‘Bring it on’: Pauline Hanson to appeal Mehreen Faruqi racial discrimination ruling in high court",
@@ -1412,6 +1422,16 @@
    "type": "Prensa"
   },
   {
+   "id": "84955902db76",
+   "source": "Radio Cooperativa",
+   "title": "La formación de la U para la revancha contra Antofagasta en cuartos de la Copa Chile",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-formacion-de-la-u-para-la-revancha-contra-antofagasta-en-cuartos-de/2026-11-04/194721.html",
+   "date": "2026-11-04T22:47:21+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "8382188ed283",
    "source": "Ex-Ante",
    "title": "Los vinos chilenos que Kast le regaló al Papa y que reflejan la diversidad de los valles y cepas de Chile",
@@ -1422,16 +1442,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7daf840e2be0",
-   "source": "Ex-Ante",
-   "title": "Partidos oficialistas aumentan presión por cambio de gabinete y Kast convoca comité político a su regreso",
-   "description": "El Presidente Kast convocó al comité político para este viernes, a su regreso de Europa, para “dar a conocer todas las decisiones que ha tomado…",
-   "url": "https://www.ex-ante.cl/politica/partidos-oficialistas-kast-gabinete/",
-   "date": "2026-11-04T22:18:45+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "be549f25bc2e",
    "source": "BBC Mundo",
    "title": "Qué pueden hacer ahora los demócratas (y qué no) con el nuevo control del Congreso",
@@ -1439,16 +1449,6 @@
    "url": "https://www.bbc.com/mundo/articles/cwn8dm2kx7meo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-04T21:46:39+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "0f2f9f3165c6",
-   "source": "Ex-Ante",
-   "title": "Presentan proyecto de central hidroeléctrica de fondo canadiense por US$ 420 millones en el Biobío",
-   "description": "La canadiense Innergex, controlada por el fondo público que administra las pensiones de Quebec, busca levantar una central hidroeléctrica de 154,4 MW en el río…",
-   "url": "https://www.ex-ante.cl/negocios/canadiense-hidroelectrica-en-biobio/",
-   "date": "2026-11-04T21:25:35+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
