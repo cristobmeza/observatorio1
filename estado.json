@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:01:26.092327+00:00",
+ "updated": "2026-11-05T08:23:31.335275+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -69,7 +69,7 @@
   },
   "Agencia EFE": {
    "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "err": "HTTP Error 500: Internal Server Error"
   },
   "Biblioteca del Congreso Nacional": {
    "ok": false,
