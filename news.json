@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-06T02:53:41.673224+00:00",
+ "updated": "2026-11-06T03:47:11.313467+00:00",
  "items": [
+  {
+   "id": "f0990a19160d",
+   "source": "Radio Cooperativa",
+   "title": "Antofagasta: Intercambio de disparos dejó un carabinero herido y un civil fallecido",
+   "description": "Un intercambio de disparos dejó a un carabinero lesionado y un civil fallecido la noche del jueves , en el sector norte alto de la ciudad de Antofagasta. El enfrentamiento ocurrió mientras la policía uniformada atendía una denuncia de robo en un domicilio particular de calle Marí",
+   "url": "https://www.cooperativa.cl/noticias/pais/ff-aa-y-de-orden/carabineros/antofagasta-intercambio-de-disparos-dejo-un-carabinero-herido-y-un/2026-11-06/003833.html",
+   "date": "2026-11-06T03:38:33+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "5b3a0bce107e",
+   "source": "The Guardian",
+   "title": "Bondi beach shooting: Woman, 90, shot during massacre dies in hospital year after antisemitic attack",
+   "description": "Woman was shot on 14 December 2025 during Hanukkah festival and she has been in and out of hospital since Get our breaking news email , free app or daily news podcast A woman who was shot during the Bondi beach terror attack has died in hospital almost 12 months after the massacr",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
+   "date": "2026-11-06T03:31:38+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "02c34aac4e23",
+   "source": "Al Jazeera",
+   "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
+   "description": "Putin meets Iran's top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
+   "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
+   "date": "2026-11-06T02:48:19+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "91d41d3853f9",
+   "source": "France 24",
+   "title": "Informe desde Lima: Fujimori cumple 100 días en el poder con crecientes críticas a su gestión",
+   "description": "Keiko Fujimori cumple 100 días en el poder con críticas por la alta criminalidad, con 621 homicidios desde que llegó a la Presidencia. Según encuestas, el 47% de los ciudadanos califica su gestión como regular y el 38% la califica mala, contra un 10% que la considera buena. Amplí",
+   "url": "https://www.france24.com/es/video/20261106-informe-desde-lima-fujimori-cumple-100-d%C3%ADas-en-el-poder-con-crecientes-cr%C3%ADticas-a-su-gesti%C3%B3n",
+   "date": "2026-11-06T02:46:57+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "d366f8af581b",
    "source": "Radio Bío-Bío",
@@ -24,8 +64,8 @@
   {
    "id": "a6b20cf085bb",
    "source": "The Guardian",
-   "title": "Beau Lamarre-Condon trial live updates: prosecution begins cross-examination of double murder accused",
-   "description": "Lamarre-Condon returns to witness box for day two of his evidence. He has pleaded not guilty to murdering the couple in Sydney in 2024 Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’ Get our breaking news email , free",
+   "title": "Beau Lamarre-Condon trial: prosecution begins cross-examination of double murder accused – as it happened",
+   "description": "This blog has now closed Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’ Get our breaking news email , free app or daily news podcast Lamarre-Condon tells the court he had seen what he assumed to be someone’s delivery",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
    "date": "2026-11-06T02:30:00+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -34,7 +74,7 @@
   {
    "id": "7f5e06a959ac",
    "source": "The Guardian",
-   "title": "Liberal campaign bus crashes into shop awning on its first outing of Victorian election campaign",
+   "title": "Liberal bus crashes into shop awning on its first outing of Victorian election campaign",
    "description": "Opposition leader Jess Wilson grimaced as the ‘Jess Express’, carrying Liberals and reporters, backs into the structure in suburban Melbourne Get our breaking news email , free app or daily news podcast The Victorian Liberal party’s first offical day on the campaign trail has hit",
    "url": "https://www.theguardian.com/australia-news/2026/nov/06/liberal-jess-wilson-campaign-bus-crashes-into-shop-first-day-victorian-election",
    "date": "2026-11-06T02:28:02+00:00",
@@ -434,11 +474,11 @@
   {
    "id": "fd076b1e38e2",
    "source": "Al Jazeera",
-   "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
-   "description": "Trump again said a major Russia-Ukraine deal is 'very close', but gave no specifics.",
+   "title": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+   "description": "Though the US president said deal was 'very close', he gave no specifics and did not meet visiting Ukrainian delegation.",
    "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
    "date": "2026-11-06T00:06:31+00:00",
-   "category": "Estados Unidos y Canadá",
+   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -482,23 +522,13 @@
    "type": "Prensa"
   },
   {
-   "id": "7d42bdbe27d7",
+   "id": "628ec7f66003",
    "source": "Radio Cooperativa",
-   "title": "[VIDEO] Vargas deslumbró con golazo y selló la remontada de la U ante Antofagasta en Copa Chile",
-   "description": "Eduardo Vargas deslumbró este jueves en Santa Laura con un golazo para el 4-0 que selló la remontada de Universidad de Chile contra Deportes Antofagasta en la serie de cuartos de final de la Copa Chile. En un contragolpe, Rivero avanzó con la pelota desde mitad de cancha y se la ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/video-vargas-deslumbro-con-golazo-y-sello-la-remontada-de-la-u-ante/2026-11-05/205251.html",
-   "date": "2026-11-05T23:52:51+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a566782550d7",
-   "source": "Radio Cooperativa",
-   "title": "La U arrolló a Antofagasta con una inspirada goleada y avanzó a semifinales de Copa Chile",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Universidad de Chile hizo su tarea y dio vuelta su llave de Copa Chile frente a Deportes Antofagasta con un contundente 4-0 en el Santa Laura, resultado que inscribió a los azules como semifinalistas del torneo . El arquero",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-arrollo-a-antofagasta-con-una-inspirada-goleada-y-avanzo-a/2026-11-05/205148.html",
-   "date": "2026-11-05T23:51:48+00:00",
-   "category": "",
+   "title": "Senado de Paraguay comenzó juicio político contra el presidente Santiago Peña",
+   "description": "Tras horas de incertidumbre por la renuncia del presidente Santiago Peña , el Senado de Paraguay comenzó este jueves un juicio político contra el gobernante , ante sus vínculos con el intervenido Ueno bank , que recibió durante su gestión millonarios recursos de entidades del Est",
+   "url": "https://www.cooperativa.cl/noticias/mundo/paraguay/senado-de-paraguay-comenzo-juicio-politico-contra-el-presidente-santiago/2026-11-05/204941.html",
+   "date": "2026-11-05T23:49:41+00:00",
+   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -922,16 +952,6 @@
    "type": "Prensa"
   },
   {
-   "id": "41f53c986276",
-   "source": "France 24",
-   "title": "¿Quién pagará la derrota?: Recrudece la lucha interna en el Partido Republicano tras las midterms",
-   "description": "En nuestra sección En Contexto analizamos las luchas internas y diferencias en la Administración de Donald Trump a partir de las elecciones de mitad de mandato del martes. El vicepresidente J.D. Vance responsabiliza a la guerra con Irán y sus defensores como causa de la derrota r",
-   "url": "https://www.france24.com/es/programas/en-contexto/20261105-qui%C3%A9n-pagar%C3%A1-la-derrota-recrudece-la-lucha-interna-en-el-partido-republicano-tras-las-midterms",
-   "date": "2026-11-05T19:35:54+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "71b0e542aba8",
    "source": "Deutsche Welle",
    "title": "Nigeria pasó de ser un país de tránsito a centro de drogas en África",
@@ -1162,16 +1182,6 @@
    "type": "Prensa"
   },
   {
-   "id": "373f890770e9",
-   "source": "Al Jazeera",
-   "title": "Jordanian officer killed in stabbing attack in Amman",
-   "description": "A Jordanian security officer has been killed and another one wounded near the Sri Lankan embassy in Amman.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
-   "date": "2026-11-05T17:08:45+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "4e02349d8d9d",
    "source": "The Guardian",
    "title": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report",
@@ -1279,16 +1289,6 @@
    "url": "https://www.ex-ante.cl/internacional/malvinas-jueza-chilena-argentina/",
    "date": "2026-11-05T14:10:08+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "74b2f328eec5",
-   "source": "The Guardian",
-   "title": "One Nation asks donors at $3,000-a-head Sydney fundraiser to accept ‘non-disclosure agreement’",
-   "description": "Transparency experts raise concerns about plans to use NDA to gag attendees at event featuring Pauline Hanson in lead-up to NSW election Get our breaking news email , free app or daily news podcast One Nation is attempting to gag donors from ever revealing details of discussions ",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/06/one-nation-sydney-fundraiser-pauline-hanson-nda-ntwnfb",
-   "date": "2026-11-05T14:00:26+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
