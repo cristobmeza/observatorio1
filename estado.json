@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:01:37.035604+00:00",
+ "updated": "2026-11-06T02:53:41.673224+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -69,7 +69,7 @@
   },
   "Agencia EFE": {
    "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "err": "HTTP Error 500: Internal Server Error"
   },
   "Biblioteca del Congreso Nacional": {
    "ok": false,
@@ -140,8 +140,9 @@
    "url": "https://www.wto.org/library/rss/latest_news_s.xml"
   },
   "Organización Mundial de la Salud": {
-   "ok": false,
-   "err": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "n": 40,
+   "url": "https://www.who.int/rss-feeds/news-english.xml"
   },
   "Organismo Internacional de Energía Atómica": {
    "ok": false,
