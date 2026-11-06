@@ -1,6 +1,166 @@
 {
- "updated": "2026-11-05T23:39:51.013103+00:00",
+ "updated": "2026-11-06T00:50:01.340686+00:00",
  "items": [
+  {
+   "id": "1905c389b881",
+   "source": "France 24",
+   "title": "Crisis en Paraguay: el cierre de Ueno Bank que desencadenó la renuncia del presidente Peña",
+   "description": "El escándalo de Ueno Bank le cuesta el puesto al presidente de Paraguay, Santiago Peña. El mandatario presentó su renuncia al cargo en medio de la crisis desatada por la intervención y el cierre del banco digital, que afecta a casi tres millones de clientes, que temen no poder re",
+   "url": "https://www.france24.com/es/video/20261106-crisis-en-paraguay-el-cierre-de-ueno-bank-que-desencaden%C3%B3-la-renuncia-del-presidente-pe%C3%B1a",
+   "date": "2026-11-06T00:35:58+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "a6b20cf085bb",
+   "source": "The Guardian",
+   "title": "Beau Lamarre-Condon trial live updates: former police officer continues evidence in double murder trial",
+   "description": "Lamarre-Condon returns to witness box for day two of his evidence. He’s accused of shooting couple Jesse Baird and Luke Davies in Sydney in 2024 Get our breaking news email , free app or daily news podcast Lamarre-Condon ‘had an idea’ to dress up as an UberEats rider Lamarre-Cond",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
+   "date": "2026-11-06T00:31:49+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "7307366c49a6",
+   "source": "Radio Cooperativa",
+   "title": "Octavio Rivero consolidó su retorno en la U como gran figura en la remontada a Antofagasta",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/octavio-rivero-consolido-su-retorno-en-la-u-como-gran-figura-en-la/2026-11-05/212310.html",
+   "date": "2026-11-06T00:23:10+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "146e7d5dc5de",
+   "source": "Al Jazeera",
+   "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+   "description": "Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+   "date": "2026-11-06T00:19:57+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "70efb3be50b0",
+   "source": "Al Jazeera",
+   "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+   "description": "Parliament's approval lays the groundwork for further Turkish involvement in Saudi Arabia's conflict with the Houthis.",
+   "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+   "date": "2026-11-06T00:15:22+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "fd076b1e38e2",
+   "source": "Al Jazeera",
+   "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
+   "description": "Trump again said a major Russia-Ukraine deal is 'very close', but gave no specifics.",
+   "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+   "date": "2026-11-06T00:06:31+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "c12a2367b8c3",
+   "source": "The Guardian",
+   "title": "Slashing number of police forces in England and Wales is only option, says Met chief",
+   "description": "Mark Rowley calls for ‘revolution’ in policing as major review is expected to propose regional ‘super forces’ Police are heading for failure unless the number of forces in England and Wales is slashed, with their ability to catch criminals collapsing and public confidence falling",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/05/cut-number-of-police-forces-england-hogan-howe-review",
+   "date": "2026-11-06T00:04:37+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "daa0bcbbd66a",
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+   "description": "Trump says the US may have to 'destroy' the rest of Iran, adding that people will 'know soon enough'.",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+   "date": "2026-11-06T00:00:00+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "d579e3913b48",
+   "source": "France 24",
+   "title": "Informe desde Asunción: Senado suspende votación sobre renuncia de Peña por falta de quórum",
+   "description": "El Senado suspendió la sesión en la que votaba si aceptaba la renuncia del presidente Santiago Peña o avanza con un juicio político tras falta quórum. Según nuestra corresponsal Flávia Borja, varios legisladores habrían abandonado la sala y se escondieron en los baños para no com",
+   "url": "https://www.france24.com/es/video/20261105-informe-desde-asunci%C3%B3n-senado-suspende-votaci%C3%B3n-sobre-renuncia-de-pe%C3%B1a-por-falta-de-qu%C3%B3rum",
+   "date": "2026-11-05T23:54:32+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "7d42bdbe27d7",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] Vargas deslumbró con golazo y selló la remontada de la U ante Antofagasta en Copa Chile",
+   "description": "Eduardo Vargas deslumbró este jueves en Santa Laura con un golazo para el 4-0 que selló la remontada de Universidad de Chile contra Deportes Antofagasta en la serie de cuartos de final de la Copa Chile. En un contragolpe, Rivero avanzó con la pelota desde mitad de cancha y se la ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/video-vargas-deslumbro-con-golazo-y-sello-la-remontada-de-la-u-ante/2026-11-05/205251.html",
+   "date": "2026-11-05T23:52:51+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "a566782550d7",
+   "source": "Radio Cooperativa",
+   "title": "La U arrolló a Antofagasta con una inspirada goleada y avanzó a semifinales de Copa Chile",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Universidad de Chile hizo su tarea y dio vuelta su llave de Copa Chile frente a Deportes Antofagasta con un contundente 4-0 en el Santa Laura, resultado que inscribió a los azules como semifinalistas del torneo . El arquero",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/la-u-arrollo-a-antofagasta-con-una-inspirada-goleada-y-avanzo-a/2026-11-05/205148.html",
+   "date": "2026-11-05T23:51:48+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "20b70958568a",
+   "source": "Radio Cooperativa",
+   "title": "Senado de Paraguay comienza juicio político contra el presidente Santiago Peña",
+   "description": "Tras horas de incertidumbre por la renuncia del presidente Santiago Peña , el Senado de Paraguay comenzó este jueves un juicio político contra el gobernante por \"mal desempeño de sus funciones \", ante sus vínculos con el intervenido Ueno bank , que recibió durante su gestión mill",
+   "url": "https://www.cooperativa.cl/noticias/mundo/paraguay/senado-de-paraguay-comienza-juicio-politico-contra-el-presidente/2026-11-05/204941.html",
+   "date": "2026-11-05T23:49:41+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "bdec106ea5b1",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] Agustín Arce remató de primera y firmó el tercero de la U contra Antofagasta",
+   "description": "El volante Agustín Arce, después de varios intentos, tuvo su gol y firmó el 3-0 parcial de Universidad de Chile contra Antofagasta en Santa Laura, en la revancha de cuartos de final de la Copa Chile. Arce recibió solo tras un centro de Fabián Hormazábal y remató de primera, super",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/video-agustin-arce-remato-de-primera-y-firmo-el-tercero-de-la-u-contra/2026-11-05/204837.html",
+   "date": "2026-11-05T23:48:37+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "4eaf621ffe71",
+   "source": "Al Jazeera",
+   "title": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
+   "description": "DSA-backed Raman will lead the second-largest US city, promising action on homelessness and affordable housing.",
+   "url": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
+   "date": "2026-11-05T23:46:52+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "1ffa12be69d1",
+   "source": "Deutsche Welle",
+   "title": "Cinco palestinos mueren en ataques de Israel en Gaza",
+   "description": "El ejército israelí dijo que atacó \"a terroristas de Hamás\". La Defensa Civil gazatí reportó entre las víctimas a un niño.",
+   "url": "https://www.dw.com/es/cinco-palestinos-mueren-en-ataques-de-israel-en-gaza/a-79871408?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-05T23:46:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "6ef4a3321ebe",
+   "source": "Deutsche Welle",
+   "title": "Machado avala que se declare vacante la presidencia de Venezuela",
+   "description": "La propuesta es impulsada por el Departamento de Estado de Estados Unidos y es respaldada por la líder de la oposición venezolana.",
+   "url": "https://www.dw.com/es/machado-avala-que-se-declare-vacante-la-presidencia-de-venezuela/a-79871415?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-05T23:38:00+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
   {
    "id": "35498479ae1b",
    "source": "Radio Cooperativa",
@@ -8,6 +168,16 @@
    "description": "Universidad de Chile consiguió igualar el marcador global de la serie ante Deportes Antofagasta en los cuartos de final de la Copa Chile, con el segundo gol anotado por Octavio Rivero este jueves en Santa Laura. Rivero había marcado antes del descanso y volvió a celebrar en el mi",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/video-rivero-repitio-e-igualo-para-la-u-la-serie-ante-antofagasta-en/2026-11-05/202646.html",
    "date": "2026-11-05T23:26:46+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "629899b8dfb0",
+   "source": "France 24",
+   "title": "Guadalupe: la crisis del agua impulsa un mercado clandestino en la isla francesa",
+   "description": "En Guadalupe, territorio francés de ultramar, el acceso al agua potable se ha convertido en una lucha cotidiana para miles de habitantes. Las redes de distribución obsoletas y las constantes fugas dejan a algunas familias sin suministro durante semanas, mientras crece un mercado ",
+   "url": "https://www.france24.com/es/programas/en-foco/20261105-guadalupe-la-crisis-del-agua-impulsa-un-mercado-clandestino-en-la-isla-francesa",
+   "date": "2026-11-05T23:26:39+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -22,13 +192,13 @@
    "type": "Prensa"
   },
   {
-   "id": "a6b20cf085bb",
-   "source": "The Guardian",
-   "title": "Beau Lamarre-Condon trial live updates: former police officer continues evidence in double murder trial",
-   "description": "Lamarre-Condon returns to witness box for day two of his evidence. He’s accused of shooting couple Jesse Baird and Luke Davies in Sydney in 2024 Get our breaking news email , free app or daily news podcast Lamarre-Condon tells court his relationship with Baird was not exclusive T",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-   "date": "2026-11-05T23:16:57+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "id": "990b5239f2e8",
+   "source": "Radio Cooperativa",
+   "title": "Cadáver de una mujer fue encontrado en compuertas del río Mapocho",
+   "description": "El cadáver de una mujer fue encontrado esta jornada en las compuertas del río Mapocho, en la comuna de Santiago. Según los antecedentes, el cuerpo fue luego arrastrado por la corriente en el sector de Puente Loreto, hasta donde llegó personal del GOPE de Carabineros, Bomberos y l",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/cadaver-de-una-mujer-fue-encontrado-en-compuertas-del-rio-mapocho/2026-11-05/202232.html",
+   "date": "2026-11-05T23:22:32+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -322,16 +492,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e23517fc6085",
-   "source": "Radio Cooperativa",
-   "title": "Experta paraguaya: Con su renuncia, Peña busca tener fuero y protegerse",
-   "description": "Sara Mabel Villalba, doctora en Procesos Políticos Contemporáneos, explicó en Cooperativa que la renuncia del presidente de Paraguay, Santiago Peña , responde a una estrategia jurídica para protegerse de las investigaciones tras el escandaloso colapso del Ueno Bank, que dejó cong",
-   "url": "https://www.cooperativa.cl/noticias/mundo/paraguay/experta-paraguaya-con-su-renuncia-pena-busca-tener-fuero-y-protegerse/2026-11-05/190606.html",
-   "date": "2026-11-05T22:06:06+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "a1c87e8e53ac",
    "source": "Radio Bío-Bío",
    "title": "Médico condenado por abuso sexual a TENS en Punta Arenas cumplirá pena fuera de la cárcel",
@@ -432,16 +592,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2c80a47cfe4b",
-   "source": "Radio Cooperativa",
-   "title": "Con clásico de Colo Colo y la UC: La ANFP dio a conocer la programación de la fecha 28",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La ANFP dio a conocer la programación de la fecha 28 de la Liga de Primera, que se disputará entre el 20 y 22 de noviembre, y que tendrá como duelo estelar el clásico entre Colo Colo y Universidad Católica en el Estadio Mon",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-clasico-de-colo-colo-y-la-uc-la-anfp-dio-a-conocer-la-programacion/2026-11-05/184751.html",
-   "date": "2026-11-05T21:47:51+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "8c95972c2033",
    "source": "Radio Bío-Bío",
    "title": "Los Inestables Podcast: Rabat, Poduje y Chomali nominados en The Coin otra vez",
@@ -472,16 +622,6 @@
    "type": "Prensa"
   },
   {
-   "id": "fe2ec3dc4474",
-   "source": "Radio Cooperativa",
-   "title": "Icónica drag queen RuPaul llega por primera vez a Chile como DJ",
-   "description": "La icónica drag queen estadounidense RuPaul Andre Charles , mejor conocida como RuPaul , llegará por primera vez a Chile como DJ , agendando un único show para el próximo 23 de enero en el Teatro Caupolicán, en Santiago . Mundialmente reconocida por crear y producir el exitoso fo",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/electronica/iconica-drag-queen-rupaul-llega-por-primera-vez-a-chile-como-dj/2026-11-05/184207.html",
-   "date": "2026-11-05T21:42:07+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "1040f1b73de3",
    "source": "Ex-Ante",
    "title": "Bill Gates en Chuquicamata: la empresa del magnate tecnológico que mira a Chile y no descarta aliarse con Codelco",
@@ -499,16 +639,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
    "date": "2026-11-05T21:33:40+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "361fddf85543",
-   "source": "Radio Cooperativa",
-   "title": "Salud removió al director del Hospital del Salvador \"por pérdida de confianza\"",
-   "description": "A través de un comunicado, el Servicio de Salud Metropolitano Oriente anunció de \"la solicitud de renuncia al director del Hospital del Salvador , doctor Jorge Zajjur, por razones de pérdida de confianza , tal como lo faculta la ley 19.882\". Salud agregó que \"en su reemplazo, en ",
-   "url": "https://www.cooperativa.cl/noticias/pais/salud/hospitales/salud-removio-al-director-del-hospital-del-salvador-por-perdida-de/2026-11-05/183043.html",
-   "date": "2026-11-05T21:30:43+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -542,16 +672,6 @@
    "type": "Prensa"
   },
   {
-   "id": "577451fc6690",
-   "source": "Radio Cooperativa",
-   "title": "Boric: Triunfos de Lula y de los demócratas no garantizan un cambio en Latinoamérica",
-   "description": "El expresidente Gabriel Boric (2022-2026) advirtió este jueves que las victorias electorales de Luiz Inácio Lula da Silva en Brasil o del Partido Demócrata en las elecciones legislativas de Estados Unidos no garantizan cambios políticos en los países de Latinoamérica donde gobier",
-   "url": "https://www.cooperativa.cl/noticias/pais/gabriel-boric/boric-triunfos-de-lula-y-de-los-democratas-no-garantizan-un-cambio-en/2026-11-05/182611.html",
-   "date": "2026-11-05T21:26:11+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "0fcbc1ce9a32",
    "source": "Deutsche Welle",
    "title": "Más de 600 mil personas se manifiestan en Francia por mejores salarios",
@@ -559,16 +679,6 @@
    "url": "https://www.dw.com/es/más-de-600-mil-personas-se-manifiestan-en-francia-por-mejores-salarios/a-79871134?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-05T21:21:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "3b497b046fe3",
-   "source": "Radio Cooperativa",
-   "title": "\"¿Cómo puede existir gente tan patuda?\": Naya Fácil arremetió contra antiguo dueño de su penthouse",
-   "description": "Naya Fácil volvió a exponer los problemas que enfrenta en su millonario penthouse ubicado en el sector de El Golf, en Las Condes, esta vez apuntando directamente contra el antiguo propietario del inmueble. A través de sus historias de Instagram, la creadora de contenido aseguró q",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/como-puede-existir-gente-tan-patuda-naya-facil-arremetio-contra/2026-11-05/181229.html",
-   "date": "2026-11-05T21:12:29+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -662,19 +772,9 @@
    "type": "Prensa"
   },
   {
-   "id": "bd51837b59e1",
-   "source": "Radio Cooperativa",
-   "title": "Goldberg describió una red de influencias de Felicevich y Cerda en la U",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Rodrigo Goldberg, exdirector deportivo de Universidad de Chile y comentarista de Cooperativa Deportes, declaró como testigo ante la Fiscalía por el caso Sartor y describió lo que considera fue una red de influencias en las ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/goldberg-describio-una-red-de-influencias-de-felicevich-y-cerda-en-la-u/2026-11-05/164934.html",
-   "date": "2026-11-05T19:49:34+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "c507424dc563",
    "source": "Al Jazeera",
-   "title": "Top US civil rights official resigns",
+   "title": "Harmeet Dhillon, top US civil rights official under Trump, resigns",
    "description": "New Democratic Congress expected to probe Trump Justice Department office's handling of Epstein files and ICE killings.",
    "url": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
    "date": "2026-11-05T19:48:00+00:00",
@@ -852,36 +952,6 @@
    "type": "Prensa"
   },
   {
-   "id": "669e3a84725c",
-   "source": "France 24",
-   "title": "“Mr. Veto”: ¿convertirá Trump sus amenazas en realidad tras el triunfo demócrata en las midterms?",
-   "description": "La contundente victoria demócrata ha cambiado el equilibrio de poder en Estados Unidos. Aunque el presidente Donald Trump mantiene la Casa Blanca y conserva el poder de veto, ahora deberá enfrentarse a un Congreso controlado por la oposición. ¿Optará por el bloqueo y la confronta",
-   "url": "https://www.france24.com/es/video/20261105-mr-veto-convertir%C3%A1-trump-sus-amenazas-en-realidad-tras-el-triunfo-dem%C3%B3crata-en-las-midterms",
-   "date": "2026-11-05T18:40:32+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "69805c7b1abe",
-   "source": "France 24",
-   "title": "Tres derrotas en 10 días: ¿se acaba la era dorada de la ultraderecha en el mundo?",
-   "description": "En 10 días, las elecciones en Brasil, Israel y Estados Unidos se saldaron con derrotas para líderes de ultraderecha. Brasil fue el único país de América Latina que resistió la ola de ultraderecha, con una sorpresiva victoria de Luiz Inácio Lula da Silva; en Israel, Benjamin Netan",
-   "url": "https://www.france24.com/es/video/20261105-tres-derrotas-en-10-d%C3%ADas-se-acaba-la-era-dorada-de-la-ultraderecha-en-el-mundo",
-   "date": "2026-11-05T18:39:15+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "954ce9ff86db",
-   "source": "France 24",
-   "title": "Esteban Caballero: \"El 90% de los afectados por Ueno Bank en Paraguay son pequeños ahorristas\"",
-   "description": "El 3 de noviembre, el Banco Central de Paraguay decidió intervenir Ueno Bank por insuficiencia de capital, y sus servicios quedaron suspendidos. Tras el escándalo, el presidente Santiago Peña presentó su renuncia por presuntos vínculos con la entidad. Casi la mitad de los 6,4 mil",
-   "url": "https://www.france24.com/es/video/20261105-esteban-caballero-el-90-de-los-afectados-por-ueno-bank-en-paraguay-son-peque%C3%B1os-ahorristas",
-   "date": "2026-11-05T18:38:27+00:00",
-   "category": "Política monetaria",
-   "type": "Prensa"
-  },
-  {
    "id": "11416511218f",
    "source": "Al Jazeera",
    "title": "Arab party backs Eisenkot in bid to form Israel’s next government",
@@ -924,8 +994,8 @@
   {
    "id": "9d87b6579c2d",
    "source": "The Guardian",
-   "title": "Eisenkot backed by more than half of Knesset but Herzog still unsure who should be prime minister",
-   "description": "Netanyahu rival endorsed by 67 lawmakers but Israeli president says it is still not clear who could break deadlock Gadi Eisenkot, the main rival to Benjamin Netanyahu, secured endorsements on Thursday from a majority of lawmakers to try to form a government but Israel’s president",
+   "title": "Israel’s Herzog yet to decide on who should form government as Eisenkot secures significant backing",
+   "description": "President says he will make a decision on Sunday about who should try to build a government as Netanyahu rival is endorsed by 67 lawmakers Gadi Eisenkot, the main rival to Benjamin Netanyahu, secured endorsements on Thursday from a majority of lawmakers to try to form a governmen",
    "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
    "date": "2026-11-05T18:13:01+00:00",
    "category": "Oriente Medio",
@@ -988,16 +1058,6 @@
    "description": "Philippine official says there are ‘signs that point to Thomas Markle Jr’s involvement in crime’, but he’s not yet being treated as a suspect The Duchess of Sussex’s estranged half-brother, Thomas Markle Jr, has been named as a “person of interest” in the Philippine authorities’ ",
    "url": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
    "date": "2026-11-05T17:37:27+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "414f83f83968",
-   "source": "The Guardian",
-   "title": "Henry Nowak’s killer has sentence extended by court of appeal",
-   "description": "Vickrum Digwa’s ‘unduly lenient’ term for Southampton teenager’s murder increased after attorney general’s appeal Henry Nowak’s killer has seen his sentence extended by the court of appeal after it ruled that his original sentence was “unduly lenient”. Vickrum Digwa’s original se",
-   "url": "https://www.theguardian.com/law/2026/nov/05/henry-nowak-killer-vickrum-digwa-should-have-had-longer-sentence-court-of-appeal-hears",
-   "date": "2026-11-05T17:29:25+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -1074,8 +1134,8 @@
   {
    "id": "5d9cfd6d9cd4",
    "source": "Ex-Ante",
-   "title": "Por qué cayó el presidente de Paraguay en 72 horas (y la pérdida simbólica para Kast)",
-   "description": "Un banco quebrado del que fue socio, tres millones de ahorrantes atrapados y el abandono de su padrino político son las razones que lo llevaron…",
+   "title": "Cómo cayó el presidente de Paraguay en 72 horas (y la pérdida simbólica para Kast)",
+   "description": "Un banco quebrado del que fue socio, tres millones de ahorrantes atrapados y el abandono de su padrino político llevaron a Santiago Peña a renunciar…",
    "url": "https://www.ex-ante.cl/internacional/por-que-cayo-presidente-de-paraguay/",
    "date": "2026-11-05T17:03:11+00:00",
    "category": "",
@@ -1122,16 +1182,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1cce3cbaa7ef",
-   "source": "Al Jazeera",
-   "title": "Gaza holds final of tournament honouring more than 1,000 slain athletes",
-   "description": "The final of Gaza’s ‘Thousand Martyrs’ Cup marks the return of organised football after nearly three years of war.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/gaza-holds-final-of-tournament-honouring-more-than-1000-slain-athletes?traffic_source=rss",
-   "date": "2026-11-05T16:46:34+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "3ad3a8eb9734",
    "source": "Deutsche Welle",
    "title": "El actor británico Russell Brand, declarado culpable de violación y agresiones sexuales",
@@ -1139,36 +1189,6 @@
    "url": "https://www.dw.com/es/el-actor-británico-russell-brand-declarado-culpable-de-violación-y-agresiones-sexuales/a-79868634?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-05T16:15:00+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "66399cad9226",
-   "source": "Al Jazeera",
-   "title": "Photos: Spain mourns Jesus de Miguel, who died after on-pitch collision",
-   "description": "Mourners gather in Navahermosa to honour Tenerife player, whose death has united Spain’s football community in grief.",
-   "url": "https://www.aljazeera.com/gallery/2026/11/5/photos-spain-mourns-jesus-de-miguel-who-died-after-on-pitch-collision?traffic_source=rss",
-   "date": "2026-11-05T16:12:37+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "2b37d15c68cc",
-   "source": "Al Jazeera",
-   "title": "Vance eyes 2028 reset, as Republicans mull pivot after US midterms drubbing",
-   "description": "A Democratic 'blue tsunami' in the US midterms shines a light on emerging distaste for Trump's brand among Republicans.",
-   "url": "https://www.aljazeera.com/news/2026/11/5/vance-eyes-2028-reset-as-republicans-mull-pivot-after-us-midterms-drubbing?traffic_source=rss",
-   "date": "2026-11-05T16:12:35+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "7f9fc1fb0537",
-   "source": "Al Jazeera",
-   "title": "Photos: Thousands rally in France over rising costs and economic struggles",
-   "description": "Trade unions led more than 260 planned protests nationwide, urging government to address economic woes and wage demands.",
-   "url": "https://www.aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles?traffic_source=rss",
-   "date": "2026-11-05T16:07:56+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1182,16 +1202,6 @@
    "type": "Prensa"
   },
   {
-   "id": "211facfceca1",
-   "source": "Al Jazeera",
-   "title": "Top Japan FA official to stand against Infantino for FIFA presidency",
-   "description": "Kozo Tashima second person to declare he will challenge Infantino, after former Spurs defender Ramon Vega.",
-   "url": "https://www.aljazeera.com/sports/2026/11/5/top-japan-fa-official-to-stand-against-infantino-for-fifa-presidency?traffic_source=rss",
-   "date": "2026-11-05T15:52:15+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "ef6b7d7eb509",
    "source": "CIPER Chile",
    "title": "Estos son los informes que muestran que el exgobernador Rivas usó recursos del Gore para asesorar su posicionamiento electoral",
@@ -1202,11 +1212,11 @@
    "type": "Prensa"
   },
   {
-   "id": "92fe9e407903",
+   "id": "78c96aa5cc21",
    "source": "Radio Cooperativa",
-   "title": "[Radio en vivo🎙] La U vence a Antofagasta y empata el global por cuartos de Copa Chile",
+   "title": "[Radio en vivo🎙] La U goleó a Antofagasta y superó los cuartos de Copa Chile",
    "description": "Este jueves Universidad de Chile recibe a Antofagasta en el Estadio Santa Laura con la misión de revertir la serie de cuartos de final de Copa Chile, donde se encuentra en desventaja de dos goles. Sigue el partido en vivo y online por Cooperativa.cl: Universidad de Chile 2-0 Depo",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/radio-en-vivo-la-u-vence-a-antofagasta-y-empata-el-global-por-cuartos/2026-11-05/123802.html",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/radio-en-vivo-la-u-goleo-a-antofagasta-y-supero-los-cuartos-de-copa/2026-11-05/123802.html",
    "date": "2026-11-05T15:38:02+00:00",
    "category": "Partidos políticos",
    "type": "Prensa"
@@ -1239,16 +1249,6 @@
    "url": "https://www.rioenlinea.cl/ofician-al-sag-por-reportes-de-palomas-enfermas-y-muertas-en-valdivia/",
    "date": "2026-11-05T14:48:41+00:00",
    "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
-   "id": "1455438ce77e",
-   "source": "Deutsche Welle",
-   "title": "Huelga nacional en Francia: 270.000 manifestantes hasta el mediodía",
-   "description": "La Torre Eiffel cerró sus puertas \"debido al movimiento de huelga nacional\". Con 70.000 policías movilizados, Francia espera entre 500.000 y 700.000 manifestantes en más de 180 marchas.",
-   "url": "https://www.dw.com/es/huelga-nacional-en-francia-270-000-manifestantes-hasta-el-mediodía/a-79865967?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-05T14:18:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -1299,16 +1299,6 @@
    "url": "https://www.ex-ante.cl/negocios/multimillonario-conecta-celular-satelites/",
    "date": "2026-11-05T13:14:39+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "d7e458192e6d",
-   "source": "Deutsche Welle",
-   "title": "Nueva ola de falsas amenazas de bomba en vuelos y aeropuertos europeos",
-   "description": "Falsas amenazas de bomba afectaron este jueves a varios vuelos y aeropuertos de Francia, Italia, Austria, Bulgaria, Polonia, República Checa, Finlandia y Dinamarca, tras incidentes similares el martes.",
-   "url": "https://www.dw.com/es/nueva-ola-de-falsas-amenazas-de-bomba-en-vuelos-y-aeropuertos-europeos/a-79861618?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-05T12:34:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -1515,7 +1505,7 @@
    "id": "82c22dc67a06",
    "source": "The Guardian",
    "title": "The midterms were a thumping rebuke of the US-Israel relationship",
-   "description": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same Send us your questions about the midterm results Track live results from all 50 states On the eve of a midterm election that ended in an unequivocal rejection of his br",
+   "description": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same Q&A: Ask your questions about Democrats’ win in the midterms Track live results from all 50 states On the eve of a midterm election that ended in an unequivocal rejecti",
    "url": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
    "date": "2026-11-04T19:22:43+00:00",
    "category": "Oriente Medio",
@@ -1822,16 +1812,6 @@
    "type": "Prensa"
   },
   {
-   "id": "58fcaa84a13e",
-   "source": "Deutsche Welle",
-   "title": "El desafío de Alemania: encontrar un depósito nuclear permanente",
-   "description": "Finlandia es el primer país del mundo que cuenta con un depósito definitivo para residuos nucleares. Alemania busca un lugar de este tipo, mientras que otros países ni siquiera han comenzado dicho proceso.",
-   "url": "https://www.dw.com/es/el-desafío-de-alemania-encontrar-un-depósito-nuclear-permanente/a-79847687?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-03T20:39:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "e6fbaed4ecbe",
    "source": "Servicio Electoral",
    "title": "Servel fortaleció la formación ciudadana y educación cívica electoral de estudiantes de la Región Metropolitana",
@@ -1840,16 +1820,6 @@
    "date": "2026-11-03T19:56:57+00:00",
    "category": "Elecciones",
    "type": "Oficial"
-  },
-  {
-   "id": "346cb6db7e7e",
-   "source": "Deutsche Welle",
-   "title": "Alemania busca culpables tras los disturbios de la Generación Z",
-   "description": "Tras los disturbios producidos en las protestas de la Generación Z, las declaraciones de algunas autoridades ponen bajo sospecha a los inmigrantes.",
-   "url": "https://www.dw.com/es/alemania-busca-culpables-tras-los-disturbios-de-la-generación-z/a-79846161?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-03T19:52:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
   },
   {
    "id": "00fc0b8cbb36",
@@ -1862,16 +1832,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d14f3219af89",
-   "source": "Deutsche Welle",
-   "title": "'La bola negra', el fenómeno cinematográfico español que triunfa en taquilla y también conquista Hollywood",
-   "description": "La cinta basada en una obra inacabada de Lorca supera en espectadores a los grandes estrenos de Hollywood con 5.2 millones de entradas. El filme de 'los Javis' es ya el tercer mayor éxito en la historia del cine español.",
-   "url": "https://www.dw.com/es/la-bola-negra-el-fenómeno-cinematográfico-español-que-triunfa-en-taquilla-y-también-conquista-hollywood/a-79845445?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-03T16:43:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "a0fb7f72dae0",
    "source": "The Guardian",
    "title": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
@@ -1879,26 +1839,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india",
    "date": "2026-11-03T15:24:53+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "64c5274f8f8a",
-   "source": "Deutsche Welle",
-   "title": "Harry Kane cambiaría la gloria del Balón de Oro por levantar la Champions League con el Bayern Múnich",
-   "description": "El delantero inglés asegura que los títulos colectivos están por encima de los reconocimientos individuales.",
-   "url": "https://www.dw.com/es/harry-kane-cambiaría-la-gloria-del-balón-de-oro-por-levantar-la-champions-league-con-el-bayern-múnich/a-79844138?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-03T15:02:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "9e609d8766ee",
-   "source": "Deutsche Welle",
-   "title": "El consorcio BioNTech dice adiós a sus fundadores con reporte de ganancias",
-   "description": "El fabricante de vacunas que cobró celebridad durante la pandemia de COVID-19 pasa ahora por tiempos difíciles y es sometida a recortes drásticos.",
-   "url": "https://www.dw.com/es/el-consorcio-biontech-dice-adiós-a-sus-fundadores-con-reporte-de-ganancias/a-79843457?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-03T14:25:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -1962,16 +1902,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b08b5c37c98d",
-   "source": "Deutsche Welle",
-   "title": "Muere el delantero del Tenerife Jesús de Miguel tras golpe y paro cardíaco sufridos en un partido de Segunda División",
-   "description": "El delantero del Tenerife Jesús de Miguel, de 30 años, murió este martes 3 de noviembre tras el choque que sufrió con un contrario el lunes en un partido de la Segunda División española contra el Andorra.",
-   "url": "https://www.dw.com/es/muere-el-delantero-del-tenerife-jesús-de-miguel-tras-golpe-y-paro-cardíaco-sufridos-en-un-partido-de-segunda-división/a-79837882?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-03T11:09:00+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "0f448c8ae6f6",
    "source": "BBC Mundo",
    "title": "Muere Jesús de Miguel, futbolista del Tenerife español, tras un choque en el campo de juego con el arquero rival",
@@ -1999,6 +1929,16 @@
    "url": "https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites",
    "date": "2026-11-03T06:00:39+00:00",
    "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "918ca40af16a",
+   "source": "Radio Cooperativa",
+   "title": "Las llaves de las semifinales de la Copa Chile 2026",
+   "description": "Este lunes se completó una nueva llave de los cuartos de final de la Copa Chile 2026, dejando definida la primera semifinal del certamen. Esta instancia también incluirán duelos de ida y vuelta, en fechas aún por determinar por la gerencia de ligas y competencias de la ANFP. Revi",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/las-llaves-de-las-semifinales-de-la-copa-chile-2026/2026-11-02/222510.html",
+   "date": "2026-11-03T01:25:10+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
