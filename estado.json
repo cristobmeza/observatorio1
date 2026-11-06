@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T08:18:51.048392+00:00",
+ "updated": "2026-11-06T09:55:46.452478+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -136,7 +136,7 @@
   },
   "Organización Mundial del Comercio": {
    "ok": true,
-   "n": 6,
+   "n": 7,
    "url": "https://www.wto.org/library/rss/latest_news_s.xml"
   },
   "Organización Mundial de la Salud": {
