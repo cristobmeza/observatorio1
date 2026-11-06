@@ -1,6 +1,146 @@
 {
- "updated": "2026-11-06T07:00:32.706928+00:00",
+ "updated": "2026-11-06T08:18:51.048392+00:00",
  "items": [
+  {
+   "id": "2a0b444bfcc9",
+   "source": "Al Jazeera",
+   "title": "Abdul El-Sayed did not have to become less Muslim to win",
+   "description": "His historic victory in Michigan shows that Muslim Americans need not abandon their identity to succeed in politics.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/6/abdul-el-sayed-did-not-have-to-become-less-muslim-to-win?traffic_source=rss",
+   "date": "2026-11-06T07:53:32+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "994d9ee3e01a",
+   "source": "Al Jazeera",
+   "title": "Can America ever return to pre-Trump politics?",
+   "description": "The US midterms were a rejection of Trump's politics of division, but his legacy may be impossible to undo.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/6/can-america-ever-return-to-pre-trump-politics?traffic_source=rss",
+   "date": "2026-11-06T07:51:09+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "491889a2d14d",
+   "source": "Al Jazeera",
+   "title": "US judge halts construction of Trump’s triumphal arch in Washington, DC",
+   "description": "A 14-day pause has been ordered blocking the so-called 'Arc de Trump' project in Washington, DC.",
+   "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc?traffic_source=rss",
+   "date": "2026-11-06T07:32:08+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "d961bf7ce1f0",
+   "source": "Al Jazeera",
+   "title": "Lebanese pack bags and stock up amid fears of new Israeli escalation",
+   "description": "Lebanese who lived through two Israeli escalations are stocking up and packing bags in case of a third.",
+   "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
+   "date": "2026-11-06T07:30:04+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "7e0090da09bd",
+   "source": "Al Jazeera",
+   "title": "How Israel is tightening its grip on Palestinian schools in East Jerusalem",
+   "description": "Israeli restrictions on teachers and pressure to adopt Israeli curriculum threaten Palestinian education in the city.",
+   "url": "https://www.aljazeera.com/features/2026/11/6/how-israel-is-tightening-its-grip-on-palestinian-schools-in-east-jerusalem?traffic_source=rss",
+   "date": "2026-11-06T07:28:53+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5612be8af0b6",
+   "source": "Al Jazeera",
+   "title": "Indonesia names fourth wiretapping suspect as political intrigue deepens",
+   "description": "Scandal is driving divisions between President Prabowo Subianto and predecessor Joko Widodo.",
+   "url": "https://www.aljazeera.com/news/2026/11/6/indonesia-names-fourth-wiretapping-suspect-as-political-intrigue-deepens?traffic_source=rss",
+   "date": "2026-11-06T07:24:26+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "3facf4c84f94",
+   "source": "Al Jazeera",
+   "title": "Global tech stocks plunge over fears of AI curbs in US",
+   "description": "Asian markets plunged Friday, tracking a sell-off in Western stocks following the US midterm elections.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/global-tech-stocks-plunge-over-fears-of-ai-curbs-in-us?traffic_source=rss",
+   "date": "2026-11-06T07:24:20+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "3dc4473ef4fa",
+   "source": "Deutsche Welle",
+   "title": "El Papa parte hacia Latinoamérica",
+   "description": "León XIV emprende su viaje de doce días a Suramérica, en el que visitará Uruguay, Argentina y Perú, tras haber sido recientemente operado de un cáncer de pulmón.",
+   "url": "https://www.dw.com/es/el-papa-parte-hacia-latinoamérica/a-79872212?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-06T07:20:00+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "e61d92230070",
+   "source": "Al Jazeera",
+   "title": "Israel’s President Herzog to name candidate to form government on Sunday",
+   "description": "Announcement comes after majority of Israeli lawmakers endorse Eisenkot over Netanyahu.",
+   "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss",
+   "date": "2026-11-06T07:09:42+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "f9dfea3206d9",
+   "source": "Radio Bío-Bío",
+   "title": "Muere el líder del Cártel Nuevo Imperio en un tiroteo con las fuerzas de seguridad de México",
+   "description": "El líder y fundador de la organización criminal ‘Cártel Nuevo Imperio’, Edgar Aarón \"N\", alias ‘El General’ o ‘El Lic’, ha muerto tras abrir fuego contra agentes federales durante un operativo desplegado en el Estado de México, Morelos y Ciudad de México para ejecutar una orden d",
+   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/06/muere-el-lider-del-cartel-nuevo-imperio-en-un-tiroteo-con-las-fuerzas-de-seguridad-de-mexico.shtml",
+   "date": "2026-11-06T07:01:21+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "4181a7cd2e90",
+   "source": "The Guardian",
+   "title": "M&S takes on John Lewis in Christmas ad battle with topless ‘shredded Santa’",
+   "description": "James Norton and Lucy Punch star as a youthful Mr and Mrs Claus in lively ad about shared moments as well as shopping For years the “Christmas advert moment” has belonged to one brand. John Lewis’s syrupy commercials featuring piano ballads and tearjerker storylines have given th",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/06/marks-and-spencer-john-lewis-christmas-ad-battle-james-norton-lucy-punch-topless-santa",
+   "date": "2026-11-06T07:00:47+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "5dfa6da5021e",
+   "source": "Al Jazeera",
+   "title": "Australia appoint Mike Hussey as consultant for Ashes and Cricket World Cup",
+   "description": "Hussey, known as 'Mr Cricket' for his technical expertise, will also work with Australia during the LA 2028 Olympics.",
+   "url": "https://www.aljazeera.com/sports/2026/11/6/mike-hussey-australia-cricket-batting-consultant-ashes-world-cup?traffic_source=rss",
+   "date": "2026-11-06T06:52:30+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "57e3933bbfd3",
+   "source": "Radio Bío-Bío",
+   "title": "ONU alerta récord de 377 ataques de colonos israelíes en Cisjordania durante la cosecha de aceituna",
+   "description": "La Organización de las Naciones Unidas (ONU) ha denunciado que decenas de palestinos se han visto obligados a huir de sus hogares en Jericó tras la ocupación de sus viviendas por parte de colonos israelíes, en el marco de una escalada de violencia en Cisjordania que ha dejado un ",
+   "url": "https://www.biobiochile.cl/noticias/internacional/mediooriente/2026/11/06/onu-alerta-record-de-377-ataques-de-colonos-israelies-en-cisjordania-durante-la-cosecha-de-aceituna.shtml",
+   "date": "2026-11-06T06:51:19+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "9e8f8e6691b3",
+   "source": "Al Jazeera",
+   "title": "Who is Kozo Tashima, the Japanese official running for FIFA presidency?",
+   "description": "Tashima has served as a football player, coach and bureaucrat, and has a reputation for being a safe pair of hands.",
+   "url": "https://www.aljazeera.com/sports/2026/11/6/kozo-tashima-japan-fifa-president-election-gianni-infantino?traffic_source=rss",
+   "date": "2026-11-06T06:43:42+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "a9f5891a4af3",
    "source": "The Guardian",
@@ -12,6 +152,16 @@
    "type": "Prensa"
   },
   {
+   "id": "c4f6e0c93cde",
+   "source": "Radio Bío-Bío",
+   "title": "Fiscalía de Serbia abre dos causas contra el jefe de Inteligencia y el ministro de Justicia",
+   "description": "La Fiscalía Pública contra el Crimen Organizado de Serbia (TOK, por sus siglas en serbio) ha anunciado la apertura de dos causas judiciales tras las denuncias penales presentadas por el abogado Ivan Ninic contra altos cargos del Ejecutivo, entre ellos el director de la Agencia de",
+   "url": "https://www.biobiochile.cl/noticias/internacional/europa/2026/11/06/fiscalia-de-serbia-abre-dos-causas-contra-el-jefe-de-inteligencia-y-el-ministro-de-justicia.shtml",
+   "date": "2026-11-06T06:26:17+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
    "id": "5b3a0bce107e",
    "source": "The Guardian",
    "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
@@ -19,6 +169,16 @@
    "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
    "date": "2026-11-06T06:26:03+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "1f680803759b",
+   "source": "Radio Bío-Bío",
+   "title": "Trump atribuye el desplome de las acciones a la victoria demócrata en las legislativas",
+   "description": "Las ‘Siete magníficas’ de la tecnología de EEUU sufrieron pérdidas multimillonarias ante el temor de regulaciones a la IA. El presidente de Estados Unidos, Donald Trump, dijo que el desplome bursátil de este jueves (05.11.2026) se debió a la contundente victoria de los demócratas",
+   "url": "https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/06/trump-atribuye-el-desplome-de-las-acciones-a-la-victoria-democrata-en-las-legislativas.shtml",
+   "date": "2026-11-06T06:21:19+00:00",
+   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -92,9 +252,29 @@
    "type": "Prensa"
   },
   {
+   "id": "95fee36d3559",
+   "source": "Radio Bío-Bío",
+   "title": "Flávio Bolsonaro asegura desde Miami que huyó solo de Brasil y que se llevará el \"secreto a la tumba\"",
+   "description": "El ex candidato presidencial y senador brasileño Flávio Bolsonaro ha afirmado desde su exilio en Miami que organizó y ejecutó completamente en solitario su huida de Brasil para evitar una probable orden de arresto, asegurando que mantendrá en secreto los detalles de la maniobra t",
+   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/06/flavio-bolsonaro-asegura-desde-miami-que-huyo-solo-de-brasil-y-que-se-llevara-el-secreto-a-la-tumba.shtml",
+   "date": "2026-11-06T05:51:18+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "18002251879b",
+   "source": "France 24",
+   "title": "¿Qué factores influyeron en la victoria demócrata en las midterms en Georgia?",
+   "description": "🗳️🇺🇲 En solo dos años, el estado de Georgia pasó de teñirse de rojo en las elecciones presidenciales de 2024, al azul en las midterms en las que Donald Trump y el Partido Republicano sufrieron una arrasadora derrota. ¿Qué factores influyeron en la victoria demócrata en ese estado",
+   "url": "https://www.france24.com/es/video/20261106-qu%C3%A9-factores-influyeron-en-la-victoria-dem%C3%B3crata-en-las-midterms-en-georgia",
+   "date": "2026-11-06T05:23:13+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
    "id": "193189fc78a0",
    "source": "The Guardian",
-   "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’",
+   "title": "Beau Lamarre-Condon tells double murder trial firing first shot at Jesse Baird’s shoulder was ‘the right move’",
    "description": "Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024 The day in court: Prosecution begins cross-examination of double murder accused Beau Lamarre-Condon Beau Lamarre-Condon “stands by” his decision to",
    "url": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
    "date": "2026-11-06T05:17:05+00:00",
@@ -502,36 +682,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e69a6207496f",
-   "source": "Radio Bío-Bío",
-   "title": "Hamilton no perdona a Leclerc y vuelve a la carga: \"Fue lo mismo con Vettel y Sainz\"",
-   "description": "Lewis Hamilton no perdona fácil. El piloto británico volvió a arremeter contra su compañero de Ferrari, Charles Leclerc, tras el incidente de ambos en el GP de México. Hamilton fue consultado por cómo estaba todo con su equipo luego del incidente, considerando que él mismo había ",
-   "url": "https://www.biobiochile.cl/especial/bio-bio-tuercas/noticias/2026/11/05/hamilton-no-perdona-a-leclerc-y-vuelve-a-la-carga-fue-lo-mismo-con-vettel-y-sainz.shtml",
-   "date": "2026-11-06T01:34:13+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "1317dbd5c493",
-   "source": "Radio Bío-Bío",
-   "title": "Presupuesto 2027 en aprietos: rechazan partida de Educación y capítulos clave de Interior y Cultura",
-   "description": "Un nuevo revés sufrió el Gobierno durante la discusión del Presupuesto 2027. La Comisión Especial Mixta rechazó la partida completa del Ministerio de Educación, en medio de críticas por la eliminación de beneficios para estudiantes y los recortes a distintos programas de enseñanz",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/05/presupuesto-2027-en-aprietos-rechazan-partida-de-educacion-y-capitulos-clave-de-interior-y-cultura.shtml",
-   "date": "2026-11-06T01:32:10+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "6113b11065ab",
-   "source": "Radio Bío-Bío",
-   "title": "EEUU sanciona a 4 personas y 41 empresas vinculadas a red de ciberestafas en el sudeste asiático",
-   "description": "El Departamento del Tesoro de Estados Unidos, a través de la Oficina de Control de Activos Extranjeros (OFAC), ha anunciado sanciones contra cuatro individuos y 41 entidades pertenecientes a la infraestructura corporativa y financiera del grupo criminal transnacional Prince Group",
-   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/05/eeuu-sanciona-a-4-personas-y-41-empresas-vinculadas-a-red-de-ciberestafas-en-el-sudeste-asiatico.shtml",
-   "date": "2026-11-06T01:26:19+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "8d7519ebc442",
    "source": "Radio Cooperativa",
    "title": "Octavio Rivero: Estoy muy feliz por volver a ser titular y los goles, pero más por la victoria",
@@ -552,16 +702,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1281c804c60c",
-   "source": "Radio Bío-Bío",
-   "title": "El desafío y responsabilidad de una presencia permanente en la Antártica",
-   "description": "Chile es tricontinental, condición que no se explica sólo por su geografía, sino que se construye y se sostiene con presencia efectiva, como lo ha hecho Chile desde hace ya más de un siglo en nuestra Antártica. En este continente, donde las distancias, el clima y las condiciones ",
-   "url": "https://www.biobiochile.cl/noticias/opinion/columnas-bbcl/2026/11/05/el-desafio-y-responsabilidad-de-una-presencia-permanente-en-la-antartica.shtml",
-   "date": "2026-11-06T01:20:35+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "07ce1dedb506",
    "source": "Radio Cooperativa",
    "title": "Francisca Valenzuela será presentadora en los Latin Grammy 2026",
@@ -578,16 +718,6 @@
    "description": "Los avisos falsos de bomba en vuelos vuelven a poner en vilo a la seguridad en Europa, en medio de crecientes tensiones geopolíticas y varios incidentes que han subrayado el temor de las autoridades frente a las amenazas híbridas cada vez más frecuentes. Al menos 25 vuelos proced",
    "url": "https://www.france24.com/es/video/20261106-amenazas-de-bomba-retrasan-m%C3%A1s-de-una-veintena-de-vuelos-en-europa",
    "date": "2026-11-06T01:14:49+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "465aeedda91a",
-   "source": "Radio Bío-Bío",
-   "title": "Protestas en Francia dejan al menos 448 arrestos y 53 policías heridos",
-   "description": "La jornada de manifestaciones transcurrió, en su mayor parte, de forma pacífica, a pesar de algunos enfrentamientos e incendios provocados en centros escolares. La jornada de movilizaciones y de huelga en defensa del poder adquisitivo y de los servicios públicos en Francia se sal",
-   "url": "https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/05/protestas-en-francia-dejan-al-menos-448-arrestos-y-53-policias-heridos.shtml",
-   "date": "2026-11-06T01:11:18+00:00",
    "category": "Europa",
    "type": "Prensa"
   },
@@ -672,16 +802,6 @@
    "type": "Prensa"
   },
   {
-   "id": "fd076b1e38e2",
-   "source": "Al Jazeera",
-   "title": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
-   "description": "Though the US president said deal was 'very close', he gave no specifics and did not meet visiting Ukrainian delegation.",
-   "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
-   "date": "2026-11-06T00:06:31+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "c12a2367b8c3",
    "source": "The Guardian",
    "title": "Slashing number of police forces in England and Wales is only option, says Met chief",
@@ -689,16 +809,6 @@
    "url": "https://www.theguardian.com/uk-news/2026/nov/05/cut-number-of-police-forces-england-hogan-howe-review",
    "date": "2026-11-06T00:04:37+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "daa0bcbbd66a",
-   "source": "Al Jazeera",
-   "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
-   "description": "Trump says the US may have to 'destroy' the rest of Iran, adding that people will 'know soon enough'.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
-   "date": "2026-11-06T00:00:00+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -729,16 +839,6 @@
    "url": "https://www.cooperativa.cl/noticias/mundo/paraguay/senado-de-paraguay-comenzo-juicio-politico-contra-el-presidente-santiago/2026-11-05/204941.html",
    "date": "2026-11-05T23:49:41+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "4eaf621ffe71",
-   "source": "Al Jazeera",
-   "title": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
-   "description": "DSA-backed Raman will lead the second-largest US city, promising action on homelessness and affordable housing.",
-   "url": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
-   "date": "2026-11-05T23:46:52+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -902,36 +1002,6 @@
    "type": "Prensa"
   },
   {
-   "id": "027712929d33",
-   "source": "Al Jazeera",
-   "title": "Generation Z and young voters help redefine US politics after midterms",
-   "description": "Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.",
-   "url": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
-   "date": "2026-11-05T21:49:31+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "aa283ce8aabd",
-   "source": "Al Jazeera",
-   "title": "South Africa’s ANC on track for new lows in local polls",
-   "description": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections.",
-   "url": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
-   "date": "2026-11-05T21:48:16+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "95406090a379",
-   "source": "Al Jazeera",
-   "title": "Spanish footballer Jesus de Miguel mourned by family and friends",
-   "description": "The 30-year-old striker suffered cardiac arrest following an on-field collision.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
-   "date": "2026-11-05T21:42:30+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "1040f1b73de3",
    "source": "Ex-Ante",
    "title": "Bill Gates en Chuquicamata: la empresa del magnate tecnológico que mira a Chile y no descarta aliarse con Codelco",
@@ -939,16 +1009,6 @@
    "url": "https://www.ex-ante.cl/negocios/bill-gates-visita-codelco-lazos-mineria/",
    "date": "2026-11-05T21:36:41+00:00",
    "category": "Economía nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "41f437952ef0",
-   "source": "Al Jazeera",
-   "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
-   "description": "Israeli forces demolished five homes in Biddu, occupied West Bank, displacing more than 100 people.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
-   "date": "2026-11-05T21:33:40+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -972,16 +1032,6 @@
    "type": "Prensa"
   },
   {
-   "id": "036c4388a019",
-   "source": "Al Jazeera",
-   "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
-   "description": "Bomb threats are causing travel disruptions at airports across Europe, targeting at least 27 flights.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
-   "date": "2026-11-05T21:26:21+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "0fcbc1ce9a32",
    "source": "Deutsche Welle",
    "title": "Más de 600 mil personas se manifiestan en Francia por mejores salarios",
@@ -1002,26 +1052,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ecaea7d75f5d",
-   "source": "Al Jazeera",
-   "title": "Saudi coalition intercepts missile fired towards Medina",
-   "description": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
-   "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
-   "date": "2026-11-05T20:48:47+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "4bcffa03b4ae",
-   "source": "Al Jazeera",
-   "title": "Why are wealthy countries failing developing nations?",
-   "description": "UN report warns climate adaptation funding is falling far short of needs.",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
-   "date": "2026-11-05T20:45:47+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d4b5f908785c",
    "source": "The Guardian",
    "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
@@ -1039,16 +1069,6 @@
    "url": "https://www.bbc.com/mundo/articles/cr74pp8wl8xyo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-05T20:29:18+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "4a699daf9d50",
-   "source": "France 24",
-   "title": "Israel: Gadi Eisenkot busca consolidar sus apoyos para formar Gobierno tras las elecciones",
-   "description": "El bloque de oposición israelí, encabezado por Gadi Eisenkot, busca reunir los apoyos necesarios para formar una mayoría parlamentaria tras las elecciones legislativas del 27 de octubre, que no dejaron un vencedor claro. El papel de los partidos árabes, que consiguieron un récord",
-   "url": "https://www.france24.com/es/medio-oriente/20261105-israel-gadi-eisenkot-busca-consolidar-sus-apoyos-para-formar-gobierno-tras-las-elecciones",
-   "date": "2026-11-05T20:05:16+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -1078,26 +1098,6 @@
    "description": "Millones de ahorristas afectados, fondos públicos comprometidos y sospechas de irregularidades financieras. Seis claves para entender el caso.",
    "url": "https://www.dw.com/es/paraguay-claves-del-escándalo-bancario-que-llevó-a-la-renuncia-a-peña/a-79870050?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-05T19:23:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "bced1df681a2",
-   "source": "The Guardian",
-   "title": "Police investigating two further rape allegations against Russell Brand",
-   "description": "Detective urges other potential victims to come forward and says: ‘Our work’s not done’ The lead detective in the case against Russell Brand has urged other potential victims of the comedian to come forward after it emerged he is under investigation for two further rape allegatio",
-   "url": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-detective-other-potential-victims",
-   "date": "2026-11-05T19:17:40+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "42d7ea31d237",
-   "source": "Deutsche Welle",
-   "title": "¿Qué significa para Alemania la derrota de Trump en las \"midterms\"?",
-   "description": "La derrota en las elecciones intermedias fue histórica para los republicanos en EE. UU., aunque Trump no perdió poder en el escenario internacional. ¿A qué riesgos se enfrentan ahora Alemania y Europa?",
-   "url": "https://www.dw.com/es/¿qué-significa-para-alemania-la-derrota-de-trump-en-las-midterms/a-79869946?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-05T18:27:00+00:00",
    "category": "Europa",
    "type": "Prensa"
   },
