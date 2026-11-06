@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-06T03:47:11.313467+00:00",
+ "updated": "2026-11-06T04:51:44.822046+00:00",
  "items": [
+  {
+   "id": "e8a0c6e9b624",
+   "source": "Al Jazeera",
+   "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
+   "description": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
+   "url": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
+   "date": "2026-11-06T04:30:26+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "1ab9ce294c4f",
+   "source": "Al Jazeera",
+   "title": "Democratic Socialist Nithya Raman wins LA mayoral race",
+   "description": "Nithya Raman's victory in LA marks the second major win for Democratic Socialists in a year.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/democratic-socialist-nithya-raman-wins-la-mayoral-race?traffic_source=rss",
+   "date": "2026-11-06T04:29:04+00:00",
+   "category": "Socialismo y pensamiento económico",
+   "type": "Prensa"
+  },
+  {
+   "id": "630819d48cf9",
+   "source": "Al Jazeera",
+   "title": "Building wind turbines out of parts found in Gaza’s rubble",
+   "description": "Palestinians in Gaza have made wind turbines to generate electricity, using scraps found in the rubble.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
+   "date": "2026-11-06T04:20:22+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5b3a0bce107e",
+   "source": "The Guardian",
+   "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
+   "description": "Eva Geller was shot on 14 December 2025 during Hanukah festival and she has been in and out of hospital since Get our breaking news email , free app or daily news podcast A woman who was shot during the Bondi beach terror attack has died in hospital almost 12 months after the mas",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
+   "date": "2026-11-06T04:11:57+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d063981b3ba9",
+   "source": "Al Jazeera",
+   "title": "Paraguay’s president impeached amid bank collapse crisis",
+   "description": "Lawmakers have voted to impeach Paraguay’s President Santiago Pena amid a banking collapse that has roiled the country.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
+   "date": "2026-11-06T03:49:33+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "f0990a19160d",
    "source": "Radio Cooperativa",
@@ -12,13 +62,43 @@
    "type": "Prensa"
   },
   {
-   "id": "5b3a0bce107e",
-   "source": "The Guardian",
-   "title": "Bondi beach shooting: Woman, 90, shot during massacre dies in hospital year after antisemitic attack",
-   "description": "Woman was shot on 14 December 2025 during Hanukkah festival and she has been in and out of hospital since Get our breaking news email , free app or daily news podcast A woman who was shot during the Bondi beach terror attack has died in hospital almost 12 months after the massacr",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
-   "date": "2026-11-06T03:31:38+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "id": "06f2d227b4c9",
+   "source": "Radio Bío-Bío",
+   "title": "Lula enmarca su victoria en Brasil como una \"lección al mundo\" tras los reveses de Trump y Netanyahu",
+   "description": "El recién reelegido presidente de Brasil, Luiz Inácio Lula da Silva, ha celebrado su victoria electoral en una retransmisión en directo junto al diputado André Janones, en la que ha enmarcado su triunfo como una \"lección para el mundo\" y un hito de alcance internacional coincidie",
+   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/06/lula-enmarca-su-victoria-en-brasil-como-una-leccion-al-mundo-tras-los-reveses-de-trump-y-netanyahu.shtml",
+   "date": "2026-11-06T03:36:17+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "53ca1c705c41",
+   "source": "Radio Bío-Bío",
+   "title": "Oposición frena sesión por rebajas de condenas en Senado para evitar que Rabat diluya responsabilidad",
+   "description": "El voto en contra del comité que reúne al PS, PPD y Liberales impidió que la Comisión de Constitución del Senado pudiera sesionar este viernes para abordar los proyectos que buscan regular las rebajas de condenas. La instancia retomará su trabajo la próxima semana, mientras la op",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/oposicion-frena-sesion-por-rebajas-de-condenas-en-senado-para-evitar-que-rabat-diluya-responsabilidad.shtml",
+   "date": "2026-11-06T03:22:43+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "946e8f340fd3",
+   "source": "Radio Bío-Bío",
+   "title": "Concejala pide indagar hostigamiento y Partido Cristiano alista querellas por corrupción en el Bío Bío",
+   "description": "Fue presentada una denuncia por parte de la concejala de Talcahuano involucrada en el escándalo que terminó con la salida del cargo del otrora delegado presidencial del Bío Bío, Julio Anativia. El Partido Cristiano, por su parte, prepara dos querellas por delitos de corrupción qu",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/06/concejala-pide-indagar-hostigamiento-y-partido-cristiano-alista-querellas-por-corrupcion-en-el-bio-bio.shtml",
+   "date": "2026-11-06T03:16:02+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "7b10758072fe",
+   "source": "Radio Bío-Bío",
+   "title": "Kramer sorprende personificando a Patricia Maldonado: \"Yo no tengo ningún problema con el golpe\"",
+   "description": "La noche de este jueves, en un nuevo capítulo de Vértigo, Stefan Kramer sacó risas con una sorpresiva imitación de Patricia Maldonado, que fue una de las invitadas estelares del programa. El comediante apareció con la música de una banda de guerra, personificando a la cantante de",
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/06/kramer-sorprende-personificando-a-patricia-maldonado-yo-no-tengo-ningun-problema-con-el-golpe.shtml",
+   "date": "2026-11-06T03:05:44+00:00",
+   "category": "Conflictos armados y seguridad internacional",
    "type": "Prensa"
   },
   {
@@ -38,6 +118,26 @@
    "description": "Keiko Fujimori cumple 100 días en el poder con críticas por la alta criminalidad, con 621 homicidios desde que llegó a la Presidencia. Según encuestas, el 47% de los ciudadanos califica su gestión como regular y el 38% la califica mala, contra un 10% que la considera buena. Amplí",
    "url": "https://www.france24.com/es/video/20261106-informe-desde-lima-fujimori-cumple-100-d%C3%ADas-en-el-poder-con-crecientes-cr%C3%ADticas-a-su-gesti%C3%B3n",
    "date": "2026-11-06T02:46:57+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "2c9da9c71751",
+   "source": "Radio Bío-Bío",
+   "title": "Gonzalo Valenzuela revela por qué terminaron con Kika Silva: \"Eran dos caminos muy distintos\"",
+   "description": "Gonzalo Valenzuela reveló detalles de su quiebre con Kika Silva. Recordemos que la pareja terminó a principios de 2026 después de poco más de un año de casados. Ahora, en un nuevo capítulo de Vértigo, el actor contó algunos detalles. De acuerdo con Valenzuela, influyó que ambos t",
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/05/gonzalo-valenzuela-revela-por-que-terminaron-con-kika-silva-eran-dos-caminos-muy-distintos.shtml",
+   "date": "2026-11-06T02:41:57+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "a4b305bff7ee",
+   "source": "Radio Bío-Bío",
+   "title": "Intercambio de disparos deja un hombre muerto y un sargento de Carabineros baleado en Antofagasta",
+   "description": "Un . De acuerdo con los antecedentes, cerca de las 21:00 horas de este jueves, funcionarios de la Subcomisaría Antofagasta Norte concurrió a un procedimiento en el sector norte alto de la ciudad. La policía recibió información sobre un posible robo en el lugar. Al llegar el perso",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/11/05/intercambio-de-disparos-deja-un-hombre-muerto-y-un-sargento-de-carabineros-herido-en-antofagasta.shtml",
+   "date": "2026-11-06T02:33:53+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -352,26 +452,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b7173ec05c6a",
-   "source": "Radio Bío-Bío",
-   "title": "Ante detección de mosquito vector del dengue, piden reforzar vigilancia en buses y ferias de Tarapacá",
-   "description": "La senadora Danisa Astudillo (PS) solicitó a la Seremi de Salud de Tarapacá reforzar las medidas de prevención, fiscalización y vigilancia sanitaria en la región ante la detección de ejemplares adultos, larvas y huevos del mosquito Aedes aegypti. El insecto puede transmitir enfer",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-tarapaca/2026/11/05/ante-deteccion-de-mosquito-vector-del-dengue-piden-reforzar-vigilancia-en-buses-y-ferias-de-tarapaca.shtml",
-   "date": "2026-11-06T00:57:26+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "fd4cec4c4a85",
-   "source": "Radio Bío-Bío",
-   "title": "Critican a Vasco Moulian por incómoda pregunta a influencer: \"¿Eres heterosexual u homosexual?\"",
-   "description": "Vasco Moulian está nuevamente recibiendo críticas en redes sociales por una incómoda pregunta que le hizo al influencer Paulo Cassanova en una entrevista. Resulta que en el backstage de Fiebre de Canto la noche del miércoles, le consultó directamente por su orientación sexual. Ca",
-   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/05/critican-a-vasco-moulian-por-incomoda-pregunta-a-influencer-eres-heterosexual-u-homosexual.shtml",
-   "date": "2026-11-06T00:56:30+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "286a6d70d051",
    "source": "Deutsche Welle",
    "title": "Francia reporta al menos 448 arrestos y 53 policías heridos en protestas",
@@ -379,16 +459,6 @@
    "url": "https://www.dw.com/es/francia-reporta-al-menos-448-arrestos-y-53-policías-heridos-en-protestas/a-79871430?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-06T00:52:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "f18f641da6eb",
-   "source": "Radio Bío-Bío",
-   "title": "Paro de camioneros en San Antonio vive horas clave: hay reunión este viernes con Gobierno por acuerdo",
-   "description": "El Gobierno informó que se alcanzó un marco de acuerdo con los empresarios de depósitos y almacenes extraportuarios, para . Sin embargo, los camioneros independientes advirtieron que todavía no hay una decisión sobre el término de la movilización, ya que la propuesta deberá ser r",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/05/paro-de-camioneros-en-san-antonio-vive-horas-clave-hay-reunion-este-viernes-con-gobierno-por-acuerdo.shtml",
-   "date": "2026-11-06T00:47:57+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -412,16 +482,6 @@
    "type": "Prensa"
   },
   {
-   "id": "31b8698e31c0",
-   "source": "Radio Bío-Bío",
-   "title": "Hinchas del Andorra consuelan a Owono tras insultos y amenazas: fueron a su casa con regalo y carta",
-   "description": "Los hinchas del Andorra, cansado de los insultos y amenazas a su arquero Jesús Owono, salieron al paso de los comentarios negativos y decidieron llevaron consuelo hasta la casa del golero. Recordemos que Owono ha estado en el ‘ojo del huracán’ tras ser protagonista de la embestid",
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/11/05/hinchas-del-andorra-consuelan-a-owono-tras-insultos-y-amenazas-fueron-a-su-casa-con-regalo-y-carta.shtml",
-   "date": "2026-11-06T00:31:58+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "7307366c49a6",
    "source": "Radio Cooperativa",
    "title": "Octavio Rivero consolidó su retorno en la U como gran figura en la remontada a Antofagasta",
@@ -439,26 +499,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
    "date": "2026-11-06T00:19:57+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "ca9c35df302f",
-   "source": "Radio Bío-Bío",
-   "title": "Diputado Kast llama al oficialismo a \"dar la cara\" en las calles: \"No hay por qué tenerle susto\"",
-   "description": "El diputado republicano José Antonio Kast Adriasola abordó los resultados de las encuestas y el descontento ciudadano con el Gobierno, reconociendo que existen razones para el malestar, especialmente por la situación del empleo. Sin embargo, defendió la estrategia del Ejecutivo y",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/05/diputado-kast-llama-al-oficialismo-a-dar-la-cara-en-las-calles-no-hay-por-que-tenerle-susto.shtml",
-   "date": "2026-11-06T00:18:36+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "85e68d104ee5",
-   "source": "Radio Bío-Bío",
-   "title": "\"La minería no es un lastre\": Federación Minera de Chile responde a ministro Quiroz y exige respeto",
-   "description": "La Federación Minera de Chile (FMC) manifestó su absoluto rechazo a las palabras del ministro de Hacienda, Jorge Quiroz, durante su intervención en ENADE 2026, realizada el pasado 28 de octubre. De acuerdo con el gremio, el secretario de Estado utilizó la expresión “lastre” para ",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/05/la-mineria-no-es-un-lastre-federacion-minera-de-chile-responde-a-ministro-quiroz-y-exige-respeto.shtml",
-   "date": "2026-11-06T00:18:32+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -1022,26 +1062,6 @@
    "type": "Prensa"
   },
   {
-   "id": "16c6dd8707e2",
-   "source": "Al Jazeera",
-   "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
-   "description": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
-   "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
-   "date": "2026-11-05T18:47:10+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "11416511218f",
-   "source": "Al Jazeera",
-   "title": "Arab party backs Eisenkot in bid to form Israel’s next government",
-   "description": "Arab-majority party Ra’am and the Democrats have backed Gadi Eisenkot in a bid to form Israel’s next government.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss",
-   "date": "2026-11-05T18:30:09+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "42d7ea31d237",
    "source": "Deutsche Welle",
    "title": "¿Qué significa para Alemania la derrota de Trump en las \"midterms\"?",
@@ -1052,20 +1072,10 @@
    "type": "Prensa"
   },
   {
-   "id": "e6531642dbf9",
-   "source": "Al Jazeera",
-   "title": "Could Football Change After Jesus de Miguel’s Death?",
-   "description": "Could football change after the death of Jesus de Miguel?",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/could-football-change-after-jesus-de-miguels-death?traffic_source=rss",
-   "date": "2026-11-05T18:22:16+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "01bd2aea3083",
    "source": "The Guardian",
-   "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
-   "description": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel Why have more than 30 European flights been hit by bomb threats this week? Hoax bomb threats have caused at least 34 flights across Europe to be disrupted, with some forced to make ",
+   "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
+   "description": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel Why have more than 30 European flights been hit by bomb threats this week? Hoax bomb threats have disrupted at least 34 flights across Europe this week, with some forced to make eme",
    "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
    "date": "2026-11-05T18:17:36+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -1099,16 +1109,6 @@
    "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
    "date": "2026-11-05T17:57:54+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "1c5821fc9533",
-   "source": "Al Jazeera",
-   "title": "AI stocks plunge after US election, driving down markets",
-   "description": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
-   "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
-   "date": "2026-11-05T17:56:17+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
