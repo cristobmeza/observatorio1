@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-07T03:43:00.405467+00:00",
+ "updated": "2026-11-07T04:46:00.425232+00:00",
  "items": [
+  {
+   "id": "c480bf1c069b",
+   "source": "Al Jazeera",
+   "title": "Los Angeles reacts to historic mayoral election",
+   "description": "Los Angeles reacts to historic mayoral election",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
+   "date": "2026-11-07T04:14:12+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "535b6c958a33",
+   "source": "BBC Mundo",
+   "title": "Quién es Santiago Peña, el economista a quien el poderoso Horacio Cartes encumbró a la presidencia de Paraguay (y al que ahora dejó caer)",
+   "description": "Tres años después de asumir el poder, Santiago Peña terminó arrastrado por la crisis desatada tras la intervención del Ueno Bank.",
+   "url": "https://www.bbc.com/mundo/articles/cwe9le9yyzrzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-07T04:11:23+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "12a87042b6da",
+   "source": "Al Jazeera",
+   "title": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
+   "description": "Activists in Amsterdam have stormed the site of a proposed Microsoft data centre. Al Jazeera’s Step Vaessen reports.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
+   "date": "2026-11-07T04:08:02+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "8d40591ea964",
+   "source": "Al Jazeera",
+   "title": "Trump confirms new US strikes on Iran’s Qeshm Island",
+   "description": "The US president also claims 'a lot of progress' in Washington's negotiations with Tehran.",
+   "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
+   "date": "2026-11-07T03:53:01+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
   {
    "id": "723f28e2844a",
    "source": "BBC Mundo",
@@ -19,6 +59,26 @@
    "url": "https://www.dw.com/es/ee-uu-exige-a-china-que-respete-el-acuerdo-comercial-bilateral/a-79882938?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-07T03:32:00+00:00",
    "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "d8b310a285e6",
+   "source": "Radio Cooperativa",
+   "title": "\"Las cosas están difíciles\": José Antonio Neme lanzó ácido comentario a Kast durante la Teletón 2026",
+   "description": "José Antonio Neme protagonizó un llamativo intercambio con el Presidente José Antonio Kast durante la primera noche de la Teletón 2026. Luego de su discurso inaugural, el mandatario se acercó al espacio del Banco de Chile dispuesto en el escenario para concretar su aporte. \"Se va",
+   "url": "https://www.cooperativa.cl/noticias/magazine/television/teleton/las-cosas-estan-dificiles-jose-antonio-neme-lanzo-acido-comentario-a/2026-11-07/002937.html",
+   "date": "2026-11-07T03:29:37+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "f9fb7d669797",
+   "source": "Al Jazeera",
+   "title": "How the US midterm elections reflected resistance to data centres",
+   "description": "Voters rejected data centre development in all but one of the 41 measures addressing the issue in Tuesday's midterms.",
+   "url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss",
+   "date": "2026-11-07T03:22:41+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -614,8 +674,8 @@
   {
    "id": "3114c03d3715",
    "source": "BBC Mundo",
-   "title": "El expresidente de Paraguay Santiago Peña queda bajo arresto domiciliario tras ser destituido por el Congreso por el escándalo de Ueno Bank",
-   "description": "Peña fue apartado del cargo y se enfrenta ahora a posibles responsabilidades penales por su papel en el escándalo de Ueno Bank.",
+   "title": "El escándalo de Ueno Bank en Paraguay se salda con la detención de Santiago Peña y con Pedro Alliana como nuevo presidente del país",
+   "description": "Peña fue destituido por el Congreso en juicio político y se enfrenta ahora a posibles responsabilidades penales por su papel en el caso de Ueno Bank.",
    "url": "https://www.bbc.com/mundo/articles/cwkg55edm8r7o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-06T23:56:32+00:00",
    "category": "Congreso Nacional",
@@ -719,16 +779,6 @@
    "url": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
    "date": "2026-11-06T23:00:37+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "a7a22cd1db24",
-   "source": "Radio Cooperativa",
-   "title": "Informe PNUD alerta que el miedo al delito se transformó en un freno para el desarrollo de Chile",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/informe-pnud-alerta-que-el-miedo-al-delito-se-transformo-en-un-freno/2026-11-06/195924.html",
-   "date": "2026-11-06T22:59:24+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1062,36 +1112,6 @@
    "type": "Prensa"
   },
   {
-   "id": "04353faf40a6",
-   "source": "Al Jazeera",
-   "title": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
-   "description": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque.",
-   "url": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
-   "date": "2026-11-06T19:16:07+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "ba946734a9d0",
-   "source": "Al Jazeera",
-   "title": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
-   "description": "Susie Wiles steps down as White House chief of staff; Stephen Miller assumes the role amid post-election reshuffling.",
-   "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
-   "date": "2026-11-06T19:08:31+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "84199929c5ca",
-   "source": "Al Jazeera",
-   "title": "Armed men kill at least 33 in village in Ebola-hit eastern DRC",
-   "description": "Locals blame ADF armed group, which pledged allegiance to ISIL in 2019, for the deadly raids on North Kivu villages.",
-   "url": "https://www.aljazeera.com/news/2026/11/6/armed-men-kill-at-least-33-in-village-in-ebola-hit-eastern-drc?traffic_source=rss",
-   "date": "2026-11-06T19:07:06+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "9408dd34d470",
    "source": "The Guardian",
    "title": "Want to have a better chat? Scientists say the secret is ‘pink noise’",
@@ -1109,16 +1129,6 @@
    "url": "https://www.ciperchile.cl/2026/11/06/del-riesgo-climatico-al-riesgo-economico/?utm_source=rss&utm_medium=rss&utm_campaign=del-riesgo-climatico-al-riesgo-economico",
    "date": "2026-11-06T18:59:31+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "2d6cfa69284d",
-   "source": "Al Jazeera",
-   "title": "Why is Paraguay facing a banking and political crisis?",
-   "description": "Ueno collapse raises questions about state influence and accountability.",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/6/why-is-paraguay-facing-a-banking-and-political-crisis?traffic_source=rss",
-   "date": "2026-11-06T18:54:08+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1439,16 +1449,6 @@
    "url": "https://www.dw.com/es/no-hay-fecha-para-el-regreso-de-vincent-kompany-al-banquillo-del-bayern-múnich/a-79874349?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-06T10:39:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "535b6c958a33",
-   "source": "BBC Mundo",
-   "title": "Quién es Santiago Peña, el economista a quien el poderoso Horacio Cartes encumbró a la presidencia de Paraguay (y al que ahora dejó caer)",
-   "description": "Tres años después de asumir el poder, Santiago Peña terminó arrastrado por la crisis desatada tras la intervención del Ueno Bank.",
-   "url": "https://www.bbc.com/mundo/articles/cwe9le9yyzrzo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-06T10:28:39+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
