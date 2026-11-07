@@ -1,14 +1,24 @@
 {
- "updated": "2026-11-07T11:29:32.672897+00:00",
+ "updated": "2026-11-07T12:39:48.915045+00:00",
  "items": [
   {
-   "id": "5feb64e2eea3",
-   "source": "Al Jazeera",
-   "title": "Rains flood thousands of displaced families’ tents in Gaza",
-   "description": "Civil Defence says it received 1,500 distress calls in 10 hours as a storm swept through displacement camps.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
-   "date": "2026-11-07T11:10:02+00:00",
-   "category": "Oriente Medio",
+   "id": "ca5e603d18ef",
+   "source": "Ex-Ante",
+   "title": "Quemar las naves: la apuesta de Kast por Rabat",
+   "description": "Si el compromiso de no sacar a Rabat se mantiene y la acusación fracasa, Kast saldrá con más autoridad y legitimidad que antes, y no…",
+   "url": "https://www.ex-ante.cl/opinion/bunker-quemar-naves-apuesta-kast-por-rabat/",
+   "date": "2026-11-07T12:34:58+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "09a5daa41568",
+   "source": "BBC Mundo",
+   "title": "Ueno Bank, el banco que se expandió durante la presidencia de Peña en Paraguay y colapsó en un día",
+   "description": "El escándalo puso al sistema político y financiero de Paraguay contra las cuerdas.",
+   "url": "https://www.bbc.com/mundo/watch/cmje5q2gd2pdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-07T12:33:51+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -17,8 +27,198 @@
    "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
    "description": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent history New Zealand heads for election cliffhanger with minor party cast as kingmaker In New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms",
    "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-   "date": "2026-11-07T11:09:32+00:00",
+   "date": "2026-11-07T12:24:38+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "aaabe749e238",
+   "source": "Al Jazeera",
+   "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
+   "description": "Zero Russian diesel has reached the US as tankers divert and buyers fear legal action.",
+   "url": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
+   "date": "2026-11-07T12:24:11+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "624feef396c7",
+   "source": "Al Jazeera",
+   "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+   "description": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
+   "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
+   "date": "2026-11-07T12:22:18+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "50e0029bc7aa",
+   "source": "France 24",
+   "title": "En directo: todo listo para la misa del papa León XIV en Paysandú, Uruguay, primer país de su visita a Latinoamérica",
+   "description": "Ciudadanos provenientes de distintas partes de América Latina aguardan desde las primeras horas de este sábado 7 de noviembre en el parque París Londres de la ciudad de Paysandú, en la segunda jornada de su visita a Uruguay. El pontífice inicia su gira por la región–que también l",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261107-en-directo-todo-listo-para-la-misa-del-papa-le%C3%B3n-xiv-en-paysand%C3%BA-uruguay-primer-pa%C3%ADs-de-su-visita-a-latinoam%C3%A9rica",
+   "date": "2026-11-07T12:18:38+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "dfefb34d8940",
+   "source": "Radio Cooperativa",
+   "title": "Fundación Sofan: \"La Ley de Inclusión Laboral se cumple, pero a medias\"",
+   "description": "En el marco de la Teletón 2026 , Rodrigo Moreno, representante de la Fundación Sofan, realizó un crítico balance de la implementación de la Ley de Inclusión Laboral y advirtió que, a casi una década de su promulgación, la normativa presenta un bajo nivel de cumplimiento. En conve",
+   "url": "https://www.cooperativa.cl/noticias/pais/trabajo/fundacion-sofan-la-ley-de-inclusion-laboral-se-cumple-pero-a-medias/2026-11-07/091441.html",
+   "date": "2026-11-07T12:14:41+00:00",
+   "category": "Legislación chilena",
+   "type": "Prensa"
+  },
+  {
+   "id": "d53311f27b52",
+   "source": "Al Jazeera",
+   "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+   "description": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
+   "url": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
+   "date": "2026-11-07T11:59:26+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "80c25c4fb26a",
+   "source": "Radio Cooperativa",
+   "title": "Rusia lanza ataque masivo contra Kiev y daña infraestructura energética",
+   "description": "Un ataque masivo ruso contra Kiev dejó cinco personas heridas y dañó instalaciones energéticas y el puente del Norte durante la noche del viernes al sábado, según informaron las autoridades ucranianas. El alcalde de la capital, Vitali Klitchkó , precisó que entre los heridos hay ",
+   "url": "https://www.cooperativa.cl/noticias/mundo/europa/ucrania/rusia-lanza-ataque-masivo-contra-kiev-y-dana-infraestructura-energetica/2026-11-07/085805.html",
+   "date": "2026-11-07T11:58:05+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "622eece5b1a3",
+   "source": "Radio Cooperativa",
+   "title": "Loyola recordó sondeos de Bayern Múnich: Fueron con la intención de conocerme y verme en vivo",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El seleccionado nacional Felipe Loyola , actual jugador del club italiano Pisa, rememoró el sonado pero fugaz seguimiento que le hizo el gigante alemán Bayern Múnich mientras defendía la camiseta de Independiente de Avellan",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/chilenos-en-el-exterior/loyola-recordo-sondeos-de-bayern-munich-fueron-con-la-intencion-de/2026-11-07/085600.html",
+   "date": "2026-11-07T11:56:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "7b8334db3d6c",
+   "source": "Radio Cooperativa",
+   "title": "Mon Laferte hizo petición tras recibir golpe en el escenario: \"No vuelvan a lanzar nada\"",
+   "description": "La cantante Mon Laferte habló tras el fuerte golpe que recibió durante una actuación en Las Vegas. A través de su cuenta de X, la chilena señaló que se encontraba bien y que la mujer que lanzó el teléfono \"no lo hizo con mala intención\". \"Pero no vuelvan a lanzar nada al escenari",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/musica-chilena/mon-laferte-hizo-peticion-tras-recibir-golpe-en-el-escenario-no/2026-11-07/085208.html",
+   "date": "2026-11-07T11:52:08+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "f9f7c7fda9a0",
+   "source": "Radio Cooperativa",
+   "title": "En busca del título: La previa de la crucial visita de Colo Colo a Ñublense",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Colo Colo inicia su viaje a Chillán para enfrentar a Ñublense este domingo 8 de noviembre por la fecha 27 de la Liga de Primera, con la gran posibilidad de concretar el título de campeón.",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/en-busca-del-titulo-la-previa-de-la-crucial-visita-de-colo-colo-a/2026-11-07/085016.html",
+   "date": "2026-11-07T11:50:16+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "2005d71d83f2",
+   "source": "Ex-Ante",
+   "title": "La accesibilidad también depende de nosotros",
+   "description": "La accesibilidad debe ser un criterio permanente en el diseño de las políticas públicas, la planificación urbana y la operación de los sistemas de transporte.…",
+   "url": "https://www.ex-ante.cl/opinion/accesibilidad-tambien-depende-de-nosotros/",
+   "date": "2026-11-07T11:46:23+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "97cd6615a7d1",
+   "source": "Deutsche Welle",
+   "title": "Piratas informáticos atacan al ministro de Relaciones Exteriores de Italia",
+   "description": "Según Tajani, los cibercriminales \"están dispuestos a pagar para obtener más detalles\" sobre él y su familia. \"Mi reacción es muy simple: no me dejaré intimidar de ninguna manera\", aseguró.",
+   "url": "https://www.dw.com/es/piratas-informáticos-atacan-al-ministro-de-relaciones-exteriores-de-italia/a-79884576?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-07T11:42:00+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "7120af144c66",
+   "source": "Radio Cooperativa",
+   "title": "Daniela Vega escribió sentido mensaje de despedida para Sebastián Lelio: \"Te amo\"",
+   "description": "La actriz Daniela Vega escribió un sentido y profundo mensaje para despedir a Sebastián Lelio , el histórico cineasta chileno fallecido este viernes a sus 52 años . A través de su cuenta de Instagram, la protagonista de \"Una mujer fantástica\" dedicó unas palabras su \"cómplice\" y ",
+   "url": "https://www.cooperativa.cl/noticias/magazine/cine/cine-chileno/daniela-vega-escribio-sentido-mensaje-de-despedida-para-sebastian-lelio/2026-11-07/083304.html",
+   "date": "2026-11-07T11:33:04+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "211cfa04fb63",
+   "source": "Al Jazeera",
+   "title": "Nepal’s fight to rebuild after flood disaster",
+   "description": "101 East reveals Nepal's efforts to save lives and rebuild communities after a devastating natural disaster.",
+   "url": "https://www.aljazeera.com/video/101-east/2026/11/7/nepals-fight-to-rebuild-after-flood-disaster?traffic_source=rss",
+   "date": "2026-11-07T11:30:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "830bc3117bcd",
+   "source": "Radio Cooperativa",
+   "title": "Detienen a dos hermanos acusados de apuñalar a un hombre en San Bernardo",
+   "description": "Dos hermanos con antecedentes policiales fueron detenidos por Carabineros tras apuñalar a un hombre y dejarlo en riesgo vital en medio de una presunta riña en la comuna de San Bernardo. Los hechos ocurrieron en la calle Manuel de Solís, donde los imputados -de 28 y 31 años- propi",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/detienen-a-dos-hermanos-acusados-de-apunalar-a-un-hombre-en-san-bernardo/2026-11-07/082510.html",
+   "date": "2026-11-07T11:25:10+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "b76919940169",
+   "source": "Deutsche Welle",
+   "title": "Irán ejecuta a un hombre por un ataque armado contra una comisaría",
+   "description": "Irán es uno de los países con mayor número de ejecuciones del mundo, y en 2025, el régimen islámico ejecutó al menos a 2.159 personas,",
+   "url": "https://www.dw.com/es/irán-ejecuta-a-un-hombre-por-un-ataque-armado-contra-una-comisaría/a-79884496?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-07T11:25:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e8d122ef9fa1",
+   "source": "Radio Cooperativa",
+   "title": "Miles de fieles esperan bajo la lluvia al papa en Uruguay",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/mundo/vaticano/papa-leon-xiv/miles-de-fieles-esperan-bajo-la-lluvia-al-papa-en-uruguay/2026-11-07/082434.html",
+   "date": "2026-11-07T11:24:34+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "58b503d254ef",
+   "source": "Radio Cooperativa",
+   "title": "Salud de Puente Alto mantiene paro hasta contar con resguardo policial",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/salud/salud-de-puente-alto-mantiene-paro-hasta-contar-con-resguardo-policial/2026-11-07/081714.html",
+   "date": "2026-11-07T11:17:14+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "0f256d4adb52",
+   "source": "Radio Cooperativa",
+   "title": "Desde Massú a la \"1+8\" de Zamorano: Ministro Riveros aportó joyas deportivas a la subasta de Teletón",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes En el inicio de la Teletón 2026, el ministro del Deporte Francisco Riveros se hizo presente con valiosos artículos autografiados para sumar a la subasta de la cruzada solidaria, próxima a comenzar vía internet. El secretari",
+   "url": "https://www.cooperativa.cl/noticias/deportes/gobierno/ministerio-del-deporte/desde-massu-a-la-1-8-de-zamorano-ministro-riveros-aporto-joyas/2026-11-07/081713.html",
+   "date": "2026-11-07T11:17:13+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "5feb64e2eea3",
+   "source": "Al Jazeera",
+   "title": "Rains flood thousands of displaced families’ tents in Gaza",
+   "description": "Civil Defence says it received 1,500 distress calls in 10 hours as a storm swept through displacement camps.",
+   "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
+   "date": "2026-11-07T11:10:02+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -304,8 +504,8 @@
   {
    "id": "2922b4951d3b",
    "source": "Al Jazeera",
-   "title": "Two main parties neck and neck after New Zealand vote, early results",
-   "description": "Early count suggests New Zealand's National and Labour parties polling just short of 30 percent of the popular vote.",
+   "title": "Two main parties neck and neck after New Zealand vote, near complete count",
+   "description": "New Zealand's National and Labour parties secure just short of 30 percent of the popular vote.",
    "url": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results?traffic_source=rss",
    "date": "2026-11-07T06:20:27+00:00",
    "category": "Oriente Medio",
@@ -382,36 +582,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d2240824bedf",
-   "source": "Al Jazeera",
-   "title": "President Herzog faces key choice as Israel struggles to form government",
-   "description": "Eisenkot's bloc and Arab-led parties seek to oust Netanyahu, but failure to form government could leave him in power.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
-   "date": "2026-11-07T05:16:18+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "3409b8efb80d",
-   "source": "Al Jazeera",
-   "title": "Russia launches missile attack on Kyiv, injuring residents",
-   "description": "Air strikes damage buildings and injure two civilians after Zelenskyy warns of potential for new attacks.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
-   "date": "2026-11-07T05:11:03+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "5de49818af9f",
-   "source": "Al Jazeera",
-   "title": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
-   "description": "Haiti's National Police announced that alleged gang leader Mathias Saintil was killed in an exchange of gunfire.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
-   "date": "2026-11-07T05:02:49+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "bda90edc057c",
    "source": "Radio Bío-Bío",
    "title": "Andrés Gómez reveló difícil momento familiar y causa del angustiante video llorando en redes sociales",
@@ -429,26 +599,6 @@
    "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
    "date": "2026-11-07T05:00:02+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "26dd5570e5d9",
-   "source": "Al Jazeera",
-   "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
-   "description": "US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss.",
-   "url": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
-   "date": "2026-11-07T04:50:46+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "3c6f72518dae",
-   "source": "Radio Cooperativa",
-   "title": "Martín Cárcamo recordó su amistad con Sebastián Lelio: \"Dejas un legado y un camino por seguir\"",
-   "description": "Tras conocer la noticia de la muerte de Sebastián Lelio , el animador Martín Cárcamo compartió un emotivo homenaje al cineasta, con el que mantuvo una estrecha amistad. A través de su cuenta de Instagram, el rostro de Canal 13 compartió un sentido homenaje al director de \"Una Muj",
-   "url": "https://www.cooperativa.cl/noticias/magazine/cine/martin-carcamo-recordo-su-amistad-con-sebastian-lelio-dejas-un-legado/2026-11-07/014655.html",
-   "date": "2026-11-07T04:46:55+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -532,16 +682,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d8b310a285e6",
-   "source": "Radio Cooperativa",
-   "title": "\"Las cosas están difíciles\": José Antonio Neme lanzó ácido comentario a Kast durante la Teletón 2026",
-   "description": "José Antonio Neme protagonizó un llamativo intercambio con el Presidente José Antonio Kast durante la primera noche de la Teletón 2026. Luego de su discurso inaugural, el mandatario se acercó al espacio del Banco de Chile dispuesto en el escenario para concretar su aporte. \"Se va",
-   "url": "https://www.cooperativa.cl/noticias/magazine/television/teleton/las-cosas-estan-dificiles-jose-antonio-neme-lanzo-acido-comentario-a/2026-11-07/002937.html",
-   "date": "2026-11-07T03:29:37+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "8586f781861a",
    "source": "Radio Bío-Bío",
    "title": "\"Pero si las cosas están difíciles\": El palo de Neme al presidente Kast en la Teletón",
@@ -559,16 +699,6 @@
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/07/suprema-frena-renuncia-de-jueza-acusada-de-pagar-por-redactar-fallos-por-17-anos-en-valparaiso.shtml",
    "date": "2026-11-07T03:12:29+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "5c54bf448f29",
-   "source": "Radio Cooperativa",
-   "title": "Flávio Bolsonaro no repetirá el \"error\" de su padre de regresar a Brasil",
-   "description": "El senador Flávio Bolsonaro , candidato derrotado en la segunda vuelta de las elecciones presidenciales de Brasil , afirmó que no repetirá el \"error\" de su padre, el exmandatario Jair Bolsonaro, de regresar a su país . El exabanderado del Partido Liberal, que concedió una entrevi",
-   "url": "https://www.cooperativa.cl/noticias/mundo/brasil/elecciones/flavio-bolsonaro-no-repetira-el-error-de-su-padre-de-regresar-a-brasil/2026-11-07/001223.html",
-   "date": "2026-11-07T03:12:23+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -632,32 +762,12 @@
    "type": "Prensa"
   },
   {
-   "id": "977163f2f003",
-   "source": "Radio Cooperativa",
-   "title": "Trump nombró como jefe de gabinete al arquitecto de su política migratoria",
-   "description": "El presidente de Estados Unidos, Donald Trump , anunció este viernes la designación del asesor Stephen Miller, promotor de las políticas más controvertidas del mandatario, como jefe de gabinete , uno de los cargos de mayor rango de la Casa Blanca. \"Me complace anunciar que el Sr.",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/donald-trump/trump-nombro-como-jefe-de-gabinete-al-arquitecto-de-su-politica/2026-11-06/234936.html",
-   "date": "2026-11-07T02:49:36+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "ffd42d97fb38",
    "source": "Radio Bío-Bío",
    "title": "Tres detenidos por robo a dependencia municipal en Puerto Montt: botín llega al millón de pesos",
    "description": "Tres hombres fueron detenidos por Carabineros tras un robo que afectó a la Delegación Rural de la Municipalidad de Puerto Montt, en la región de Los Lagos. Los sujetos habrían ingresado por la fuerza al recinto, desde donde sustrajeron diversas especies avaluadas en cerca de un m",
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/tres-detenidos-por-robo-a-dependencia-municipal-en-puerto-montt-botin-llega-al-millon-de-pesos.shtml",
    "date": "2026-11-07T02:27:28+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "8fb8dab3119f",
-   "source": "Radio Cooperativa",
-   "title": "Presidente Kast en Teletón 2026: \"Tanta falta que nos hace unirnos en Chile\"",
-   "description": "Durante la primera noche de la Teletón 2026, el Presidente José Antonio Kast entregó el tradicional discurso inaugural , donde destacó el trabajo de la fundación y llamó a los chilenos a valorar los espacios de encuentro. \"Quiero decirles que es un tremendo embajador. Pero todos ",
-   "url": "https://www.cooperativa.cl/noticias/magazine/television/teleton/presidente-kast-en-teleton-2026-tanta-falta-que-nos-hace-unirnos-en/2026-11-06/231914.html",
-   "date": "2026-11-07T02:19:14+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -678,16 +788,6 @@
    "description": "Con rastros de THC en cabello humano y miles de semillas de 2.800 años, un túmulo funerario escita descubierto en Siberia revela la evidencia más antigua del uso psicoactivo del cannabis. The post Hace 2.800 años: encuentran la evidencia más antigua de consumo psicoactivo del can",
    "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/11/06/hace-2-800-anos-encuentran-la-evidencia-mas-antigua-del-consumo-psicoativo-del-cannabis.shtml",
    "date": "2026-11-07T02:05:34+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "469422f0c936",
-   "source": "Radio Cooperativa",
-   "title": "Pareja de Sebastián Lelio: \"Te amo en esta vida y en todas las que vendrán\"",
-   "description": "Horas después de que usara su cuenta de Instagram para dar a conocer la muerte de su marido, el cineasta Sebastián Lelio , la actriz Amalia Kassai publicó un conmovedor mensaje en la misma red social para expresar sus sentimientos ante la pérdida . \" Te amo. No cabe en la palabra",
-   "url": "https://www.cooperativa.cl/noticias/magazine/cine/cine-chileno/pareja-de-sebastian-lelio-te-amo-en-esta-vida-y-en-todas-las-que/2026-11-06/230359.html",
-   "date": "2026-11-07T02:03:59+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -722,16 +822,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6066e1146ebb",
-   "source": "Radio Cooperativa",
-   "title": "Las claves para ver a Universidad de Chile vs. Cobresal por HBO Max",
-   "description": "Este domingo 8 de noviembre, Universidad de Chile recibirá a Cobresal en el Estadio El Teniente por la fecha 27 de la Liga de Primera , en un compromiso crucial donde se puede definir al nuevo monarca o extender la lucha por el título. Debido a la transmisión en simultáneo con el",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/las-claves-para-ver-a-universidad-de-chile-vs-cobresal-por-hbo-max/2026-11-06/224846.html",
-   "date": "2026-11-07T01:48:46+00:00",
-   "category": "Economía nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "53af98de36b4",
    "source": "Radio Bío-Bío",
    "title": "\"De crisis a oportunidad\": Gobierno y exportadores celebran fin del paro de camioneros en San Antonio",
@@ -739,36 +829,6 @@
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/de-crisis-a-oportunidad-gobierno-y-exportadores-celebran-fin-del-paro-de-camioneros-en-san-antonio.shtml",
    "date": "2026-11-07T01:44:00+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "4b00194b7e9e",
-   "source": "Radio Cooperativa",
-   "title": "Después de una semana en paro, camioneros desbloquearon el puerto de San Antonio",
-   "description": "Los camioneros independientes de San Antonio pusieron fin este viernes al paro que mantenían en los almacenes extraportuarios del principal puerto de Chile, tras alcanzar un acuerdo con las empresas generadoras de carga , que establece un reajuste de 8% en las tarifas de transpor",
-   "url": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/despues-de-una-semana-en-paro-camioneros-desbloquearon-el-puerto-de-san/2026-11-06/223938.html",
-   "date": "2026-11-07T01:39:38+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "7e6abc50ae69",
-   "source": "Radio Cooperativa",
-   "title": "Teletón 2026: Así se vive la primera noche de la cruzada solidaria",
-   "description": "La Teletón 2026 dio el puntapié inicial de sus 27 horas de transmisión desde el Teatro Teletón, instancia en la que buscan recaudar $44.253.268.546. Iaan Calderón protagonizó la apertura de la Teletón La noche comenzó con un clip en el que el pequeño visita el año 2078 a través d",
-   "url": "https://www.cooperativa.cl/noticias/magazine/television/teleton/teleton-2026-asi-se-vive-la-primera-noche-de-la-cruzada-solidaria/2026-11-06/222206.html",
-   "date": "2026-11-07T01:22:06+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "4c3e079df388",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver a CF Montreal de Alexis Sánchez ante Vancouver Whitecaps en la MLS?",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este sábado 7 de noviembre finaliza la fase regular de la MLS, instancia en la que C F Montreal de Alexis Sánchez disputará como anfitrión en el Saputo Stadium ante Vancouver Whitecaps , buscando cerrar dignamente una pésim",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/alexis-sanchez/cuando-y-donde-ver-a-cf-montreal-de-alexis-sanchez-ante-vancouver/2026-11-06/222121.html",
-   "date": "2026-11-07T01:21:21+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -799,16 +859,6 @@
    "url": "https://www.france24.com/es/video/20261107-informe-desde-asunci%C3%B3n-la-ca%C3%ADda-de-pe%C3%B1a-desata-celebraciones-alliana-se-juramenta-como-presidente",
    "date": "2026-11-07T01:12:35+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "53610bb1bb7b",
-   "source": "Radio Cooperativa",
-   "title": "\"Hasta que le hicieron un estadio a la U\" y Chile campeón: Los guiños al fútbol en el inicio de la Teletón",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La Teletón 2026 inició con la presentación de un video mirando al futuro, que de forma inesperada estuvo repleto de referencias al fútbol nacional . Iaán Calderón, niño embajador de este año, soñó con un viaje al año 2078 p",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/hasta-que-le-hicieron-un-estadio-a-la-u-y-chile-campeon-los-guinos-al/2026-11-06/221234.html",
-   "date": "2026-11-07T01:12:34+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -859,26 +909,6 @@
    "url": "https://www.dw.com/es/casa-blanca-mantiene-proyecto-del-arco-del-triunfo-en-washington-pese-a-revés-judicial/a-79882868?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-07T00:55:00+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "b57c51eae3e3",
-   "source": "Radio Cooperativa",
-   "title": "Liquidador de Sartor fijó fecha límite para definir la lista de nuevos directores de Azul Azul",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/liquidador-de-sartor-fijo-fecha-limite-para-definir-la-lista-de-nuevos/2026-11-06/214238.html",
-   "date": "2026-11-07T00:42:38+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "b36976603405",
-   "source": "Radio Cooperativa",
-   "title": "Senapred declaró Alerta Temprana Preventiva Nacional por ola de calor",
-   "description": "El Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred) declaró una Alerta Temprana Preventiva nacional debido al pronóstico de altas temperaturas que se registrarán durante este fin de semana en la zona centro y sur de Chile , con registros que podrían empinarse",
-   "url": "https://www.cooperativa.cl/noticias/pais/tiempo/senapred-declaro-alerta-temprana-preventiva-nacional-por-ola-de-calor/2026-11-06/212813.html",
-   "date": "2026-11-07T00:28:13+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -989,6 +1019,16 @@
    "url": "https://www.bbc.com/mundo/articles/cwzd6684mgv5o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-06T22:52:18+00:00",
    "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "9dae4eaa4022",
+   "source": "Radio Cooperativa",
+   "title": "Everton busca consolidarse en zona de copas ante un Deportes Concepción al acecho",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Un atractivo pleito en la parte alta de la tabla animarán Everton y Deportes Concepción este sábado 7 de noviembre en el Sausalito, recinto que verá rodar el balón a las 17:30 horas (20:30 GMT) en el marco de la fecha 27 de",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/everton-busca-consolidarse-en-zona-de-copas-ante-un-deportes-concepcion/2026-11-06/193453.html",
+   "date": "2026-11-06T22:34:53+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -1162,13 +1202,13 @@
    "type": "Prensa"
   },
   {
-   "id": "ee795110a16a",
-   "source": "France 24",
-   "title": "De vuelta a casa: el papa León XIV inicia en Uruguay su gira apostólica por América del Sur",
-   "description": "Menos de un mes después de haber sido operado por un cáncer de pulmón, León XIV inicia una de las visitas pastorales más desafiantes para un pontífice, un recorrido de 12 días que también lo llevará a Argentina y a Perú, su segundo hogar. Se espera que el papa se reúna este 6 de ",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261106-el-papa-le%C3%B3n-xiv-aterriza-en-territorio-uruguayo-e-inicia-as%C3%AD-su-gira-apost%C3%B3lica-por-am%C3%A9rica-del-sur",
-   "date": "2026-11-06T19:27:00+00:00",
-   "category": "América Latina",
+   "id": "70ce66c3105d",
+   "source": "Radio Cooperativa",
+   "title": "Zamorano, Bravo, \"Matigol\" y más: ¿Qué famosos jugarán fútbol en la Teletón 2026?",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La Teletón celebrará su edición 2026 este viernes 6 y sábado 7 de noviembre, con una gran serie de actividades que incluirá un cuadrangular de fútbol 7 mixto con destacados exfutbolistas y diversas figuras del espectáculo .",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/exfutbolistas/zamorano-bravo-matigol-y-mas-que-famosos-jugaran-futbol-en-la/2026-11-06/163241.html",
+   "date": "2026-11-06T19:32:41+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -1222,16 +1262,6 @@
    "type": "Prensa"
   },
   {
-   "id": "dbb0e144e09c",
-   "source": "Ex-Ante",
-   "title": "Del decreto a reglas básicas: un acuerdo posible para Codelco",
-   "description": "Las estatales exitosas no se distinguen por su sector ni por su tamaño, sino porque el Estado se ata las manos con reglas creíbles. Para…",
-   "url": "https://www.ex-ante.cl/afteroffice/decreto-reglas-acuerdo-codelco/",
-   "date": "2026-11-06T17:33:51+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "fa5eb42e7768",
    "source": "BBC Mundo",
    "title": "El FBI detiene al padre de Meghan Markle, esposa del príncipe Harry, por presunta posesión de imágenes de abuso sexual infantil",
@@ -1239,16 +1269,6 @@
    "url": "https://www.bbc.com/mundo/articles/cm78pp3398zwo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-06T17:33:34+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "c18e3c328d01",
-   "source": "Ex-Ante",
-   "title": "Cómo se reconfigura la carrera por la presidencia de la CPC tras la salida de De Vicente (y el factor Walker)",
-   "description": "La salida del exministro de Economía Félix de Vicente, quien era la carta de la banca, reconfigura la carrera por la presidencia de la CPC…",
-   "url": "https://www.ex-ante.cl/negocios/cpc-carrera-presidencia-salida-de-vicente/",
-   "date": "2026-11-06T17:28:25+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1502,16 +1522,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f6baa4e4579b",
-   "source": "Deutsche Welle",
-   "title": "El mundo volverá a superar con casi \"total certeza\" este año los 1,5 ºC de calentamiento global",
-   "description": "Según el sistema de observación europeo Copernicus, este año será \"probablemente\" el segundo más cálido registrado en el mundo, aunque todavía podría superar a 2024.",
-   "url": "https://www.dw.com/es/el-mundo-volverá-a-superar-con-casi-total-certeza-este-año-los-1-5-ºc-de-calentamiento-global/a-79873972?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-06T10:14:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "a4a8e08a0d96",
    "source": "The Guardian",
    "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
@@ -1528,16 +1538,6 @@
    "description": "Falleció a los 44 años después de padecer un glioblastoma, un tumor cerebral agresivo.",
    "url": "https://www.bbc.com/mundo/articles/c674ppz944jxo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-06T08:43:22+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "3dc4473ef4fa",
-   "source": "Deutsche Welle",
-   "title": "El Papa parte hacia Latinoamérica",
-   "description": "León XIV emprende su viaje de doce días a Suramérica, en el que visitará Uruguay, Argentina y Perú, tras haber sido recientemente operado de un cáncer de pulmón.",
-   "url": "https://www.dw.com/es/el-papa-parte-hacia-latinoamérica/a-79872212?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-06T07:20:00+00:00",
    "category": "América Latina",
    "type": "Prensa"
   },
@@ -2130,6 +2130,16 @@
    "date": "2026-11-02T00:00:00+00:00",
    "category": "Comercio internacional",
    "type": "Oficial"
+  },
+  {
+   "id": "21e447cd82f2",
+   "source": "Radio Cooperativa",
+   "title": "La calculadora para la estrella 35: ¿Qué necesita Colo Colo para ganar el título?",
+   "description": "Colo Colo, equipo dirigido por Fernando Ortiz, lidera la Liga de Primera con 58 puntos, y tras la derrota que sufrió su escolta Universidad de Chile en el clásico universitario, los albos tienen la posibilidad de conquistar el título del torneo en la próxima fecha, la número 27, ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/la-calculadora-para-la-estrella-35-que-necesita-colo-colo-para-ganar/2026-11-01/155021.html",
+   "date": "2026-11-01T18:50:21+00:00",
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "569a247a66c3",
