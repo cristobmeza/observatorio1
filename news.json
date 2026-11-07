@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-07T05:42:02.896174+00:00",
+ "updated": "2026-11-07T06:46:29.226273+00:00",
  "items": [
+  {
+   "id": "24737f560dfb",
+   "source": "The Guardian",
+   "title": "NZ election 2026 live results: count on as National and Labour battle it out in knife-edge New Zealand poll",
+   "description": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent history New Zealand heads for election cliffhanger with minor party cast as kingmaker In New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms",
+   "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
+   "date": "2026-11-07T06:33:16+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d470b99962d8",
+   "source": "The Guardian",
+   "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+   "description": "Democrats’ sweep could urge Israel’s divided opposition to join forces and remove prime minister closely allied with Trump The Democrats’ sweep of Congress may make it easier for Israel’s splintered opposition to overcome deep internal divisions and form a coalition government, b",
+   "url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
+   "date": "2026-11-07T06:00:04+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "8e947980f471",
+   "source": "Al Jazeera",
+   "title": "‘Alien-cortical’ mice: Can human brain cells grow inside animals?",
+   "description": "Modified mice with human brain cells ignite debates over neurohybrids and the future of cross-species medical research.",
+   "url": "https://www.aljazeera.com/news/2026/11/7/alien-cortical-mice-can-human-brain-cells-grow-inside-animals?traffic_source=rss",
+   "date": "2026-11-07T05:57:25+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "9f5fff72844d",
+   "source": "Radio Bío-Bío",
+   "title": "Sinaka y la presencia de Don Francisco tras su presentación en la Teletón 2026: \"Cuático igual\"",
+   "description": "El cantante urbano Sinaka valoró la figura de Don Francisco y su trayectoria en televisión, en el marco de su participación en la Teletón 2026, donde fue parte del himno oficial de la cruzada solidaria junto a Princesa Alba. En conversación durante la jornada, el artista reconoci",
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/11/07/sinaka-y-la-presencia-de-don-francisco-tras-su-presentacion-en-la-teleton-2026-cuatico-igual.shtml",
+   "date": "2026-11-07T05:55:29+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "c55e0489e4b1",
+   "source": "Al Jazeera",
+   "title": "Paraguay’s Pena under military protection in bank collapse chaos",
+   "description": "Paraguay moves ex-President Santiago Pena to military base for protection after dramatic day in Asuncion.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
+   "date": "2026-11-07T05:51:23+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ffa5a46c4014",
+   "source": "Al Jazeera",
+   "title": "Khawaja claims entire Australia team knew about 2018 ball-tampering scandal",
+   "description": "The 'Sandpapergate' scandal saw ⁠Australia scuffing the ball with sandpaper in the March 2018 test ​in Cape Town.",
+   "url": "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss",
+   "date": "2026-11-07T05:46:54+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "0ed0a3f3e436",
    "source": "Radio Cooperativa",
@@ -9,6 +69,16 @@
    "url": "https://www.cooperativa.cl/noticias/magazine/television/teleton/de-pacientes-al-estadio-nacional-hermanos-seran-parte-del-cierre-de/2026-11-07/023540.html",
    "date": "2026-11-07T05:35:40+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "2fa707fe22ea",
+   "source": "Radio Bío-Bío",
+   "title": "Gino Costa y su cruce con Américo en vivo: \"Hay una sentencia (...) es un agresor de mujeres\"",
+   "description": "Gino Costa se refirió al intercambio que protagonizó con el cantante Américo, luego del juicio que enfrentó con Yamila Reyna, donde fue condenado por violencia intrafamiliar tras agredirla. En conversación con la prensa durante la Teletón 2026, el comunicador fue consultado por l",
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/11/07/gino-costa-y-su-cruce-con-americo-en-vivo-hay-una-sentencia-es-un-agresor-de-mujeres.shtml",
+   "date": "2026-11-07T05:18:00+00:00",
+   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -144,7 +214,7 @@
   {
    "id": "8d40591ea964",
    "source": "Al Jazeera",
-   "title": "Trump confirms new US strikes on Iran’s Qeshm Island",
+   "title": "Trump confirms new US strikes on Iran’s Qeshm island",
    "description": "The US president also claims 'a lot of progress' in Washington's negotiations with Tehran.",
    "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
    "date": "2026-11-07T03:53:01+00:00",
@@ -472,16 +542,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8b2b479528d2",
-   "source": "Radio Bío-Bío",
-   "title": "El troleo a La U y su falta de estadio en el inicio de la Teletón 2026",
-   "description": "Este viernes por la noche comenzó la Teletón 2026, como siempre, con una obertura en el Teatro Teletón, de la mano de Don Francisco y varios rostros famosos; todo transmitido por los principales canales de televisión. Pero en este inicio, una de las cosas que llamó la atención fu",
-   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/06/el-troleo-a-la-u-y-su-falta-de-estadio-en-el-inicio-de-la-teleton-2026.shtml",
-   "date": "2026-11-07T01:29:17+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "7e6abc50ae69",
    "source": "Radio Cooperativa",
    "title": "Teletón 2026: Así se vive la primera noche de la cruzada solidaria",
@@ -579,16 +639,6 @@
    "url": "https://www.bbc.com/mundo/articles/cvlyddxr5kz1o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-07T01:02:01+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "22e798836bed",
-   "source": "Radio Bío-Bío",
-   "title": "Top Level Cup: abren las inscripciones del que aspira ser el torneo de pádel más grande del Mundo",
-   "description": "La Top Level Cup, el que espera ser el torneo de pádel más grande del mundo, abre las puertas de inscripción para competir en un evento que reunirá a jugadores de distintos niveles en una competencia que se desarrollará en seis clubes y que tendrá como broche de oro una Gran Fina",
-   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/06/top-level-cup-abren-las-inscripciones-del-que-espera-ser-el-torneo-de-padel-mas-grande-del-mundo.shtml",
-   "date": "2026-11-07T01:00:58+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -744,7 +794,7 @@
   {
    "id": "c0f73f0f82b9",
    "source": "Al Jazeera",
-   "title": "New Zealanders head to polls on final day of voting",
+   "title": "New Zealanders vote in tightly contested general election",
    "description": "More than half of New Zealand’s voters cast early ballots in the tightly contested race.",
    "url": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
    "date": "2026-11-06T23:48:01+00:00",
@@ -1019,36 +1069,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
    "date": "2026-11-06T20:48:25+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "480c32c337c0",
-   "source": "Al Jazeera",
-   "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
-   "description": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.",
-   "url": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
-   "date": "2026-11-06T20:28:07+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "67ea17d9634a",
-   "source": "Al Jazeera",
-   "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
-   "description": "More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
-   "date": "2026-11-06T20:27:09+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "1aafa8cf54d8",
-   "source": "Al Jazeera",
-   "title": "Pope Leo XIV arrives in Uruguay starting 12-day Latin America tour",
-   "description": "The pontiff praises Uruguay's clean energy transition and calls for universal healthcare.",
-   "url": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
-   "date": "2026-11-06T20:22:22+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1742,16 +1762,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0545fcf3c8f9",
-   "source": "The Guardian",
-   "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
-   "description": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investiga",
-   "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
-   "date": "2026-11-05T05:00:55+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "7f7cd6d7174c",
    "source": "Organización Mundial del Comercio",
    "title": "Según la DG, es preciso aprovechar el comercio y las asociaciones para crear una economía oceánica resiliente",
@@ -1778,16 +1788,6 @@
    "description": "Analysis by human rights organisation Global Echo shows 85 of 132 shipments over eight years contained more than US$5m of organic dates grown in settlements Get our breaking news email , free app or daily news podcast Millions of dollars of food grown in illegal Israeli settlemen",
    "url": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
    "date": "2026-11-04T20:00:43+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "82c22dc67a06",
-   "source": "The Guardian",
-   "title": "The midterms were a thumping rebuke of the US-Israel relationship",
-   "description": "Even Trump seems to recognize that the relationship has become a political liability, and may never be the same Q&A: Ask your questions about Democrats’ win in the midterms Track live results from all 50 states On the eve of a midterm election that ended in an unequivocal rejecti",
-   "url": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
-   "date": "2026-11-04T19:22:43+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
