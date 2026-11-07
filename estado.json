@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T16:30:46.120994+00:00",
+ "updated": "2026-11-07T17:29:38.412831+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -44,7 +44,7 @@
   },
   "BBC Mundo": {
    "ok": true,
-   "n": 34,
+   "n": 33,
    "url": "https://feeds.bbci.co.uk/mundo/rss.xml"
   },
   "Deutsche Welle": {
@@ -53,8 +53,9 @@
    "url": "https://rss.dw.com/xml/rss-sp-all"
   },
   "France 24": {
-   "ok": false,
-   "err": "HTTP Error 403: Forbidden"
+   "ok": true,
+   "n": 24,
+   "url": "https://www.france24.com/es/rss"
   },
   "Al Jazeera": {
    "ok": true,
@@ -68,7 +69,7 @@
   },
   "Agencia EFE": {
    "ok": false,
-   "err": "HTTP Error 429: Too Many Requests"
+   "err": "HTTP Error 500: Internal Server Error"
   },
   "Biblioteca del Congreso Nacional": {
    "ok": false,

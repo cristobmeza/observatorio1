@@ -1,14 +1,114 @@
 {
- "updated": "2026-11-07T16:30:46.120994+00:00",
+ "updated": "2026-11-07T17:29:38.412831+00:00",
  "items": [
+  {
+   "id": "b333a0d41aa8",
+   "source": "The Guardian",
+   "title": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
+   "description": "Reports say man fired shots from from his car in Poland’s second city before being wounded by police while trying to flee Kraków shooting – latest updates Six people have been killed and 15 injured after a shooting in a market square in Kraków, Poland. A man who had driven into t",
+   "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+   "date": "2026-11-07T17:17:23+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "d661b9bcc62a",
    "source": "The Guardian",
-   "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
+   "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
    "description": "Polish Prime Minister Donald Tusk, in a post on X, said police are investigating the attack Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage and murderous attack that’s shattered the peace of Poland.",
    "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-   "date": "2026-11-07T16:23:10+00:00",
+   "date": "2026-11-07T17:11:29+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "956464655a3c",
+   "source": "Radio Cooperativa",
+   "title": "Expresidente de Paraguay destituido por caso Ueno Bank declara ante Fiscalía",
+   "description": "El expresidente paraguayo Santiago Peña , destituido la víspera en un juicio político , fue traslado este sábado hasta la Fiscalía, horas después de su detención como parte de una investigación por presunta lesión de confianza tras la caída de Ueno Bank , una entidad con la que e",
+   "url": "https://www.cooperativa.cl/noticias/mundo/paraguay/politica/expresidente-de-paraguay-destituido-por-caso-ueno-bank-declara-ante/2026-11-07/140638.html",
+   "date": "2026-11-07T17:06:38+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "705765070385",
+   "source": "BBC Mundo",
+   "title": "Al menos 5 muertos y una decena de heridos deja un ataque armado en la ciudad polaca de Cracovia",
+   "description": "Las autoridades han iniciado las investigaciones para esclarecer los motivos de este \"trágico suceso\".",
+   "url": "https://www.bbc.com/mundo/articles/c6d091e7jzz7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-07T17:00:37+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "29680cccd95e",
+   "source": "The Guardian",
+   "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
+   "description": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024 NHS officials are shutting growing numbers of birth centres in a “shocking” denial of a woman’s right to have a midwife rather than a doctor oversee their baby",
+   "url": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+   "date": "2026-11-07T17:00:16+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "f38b327194ac",
+   "source": "Radio Cooperativa",
+   "title": "Prensa sevillana: \"Gabriel Suazo está a nivel muy alto\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Sevilla debió resignarse con un 0-0 ante Deportivo Alavés por la fecha 12 de la liga española. Pese al opaco resultado, el lateral chileno Gabriel Suazo fue destacado por la prensa gracias a su actuación del viernes recién ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/chilenos-en-el-exterior/prensa-sevillana-gabriel-suazo-esta-a-nivel-muy-alto/2026-11-07/134957.html",
+   "date": "2026-11-07T16:49:57+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "c3330f7f4b69",
+   "source": "France 24",
+   "title": "En directo: Mélenchon promete “defender a los palestinos” e \"implementar un desarme nuclear\", en su plan para comicios de 2027 en Francia",
+   "description": "",
+   "url": "https://www.france24.com/es/francia/20261107-en-directo-nueva-jornada-de-protestas-en-francia-mientras-los-chalecos-amarillos-llaman-a-la-desobediencia-masiva",
+   "date": "2026-11-07T16:48:29+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "75521c6fc715",
+   "source": "The Guardian",
+   "title": "Three teenagers arrested after 17-year-old injured in Gloucester sword attack",
+   "description": "Armed police attended the scene, which led to two nearby schools going into lockdown Three teenagers have been arrested after a 17-year-old was injured in a suspected sword attack near a school in Gloucester. Officers were called to Chalford Road, near St Peter’s high school, in ",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
+   "date": "2026-11-07T16:41:07+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "014317831598",
+   "source": "Al Jazeera",
+   "title": "Israel builds 90km network of military roads across southern Lebanon",
+   "description": "Israel is building roads and military outposts across southern Lebanon.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+   "date": "2026-11-07T16:30:33+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "059b1e3f4af1",
+   "source": "Radio Cooperativa",
+   "title": "Chile perderá ante Perú el cuarto lugar económico de Sudamérica, prevé el FMI",
+   "description": "Perú superaría a Chile como la cuarta economía más grande de Sudamérica en 2027 , según las proyecciones de Producto Interno Bruto (PIB) nominal en dólares del informe World Economic Outlook (WEO), publicado en octubre por el Fondo Monetario Internacional (FMI). De acuerdo con la",
+   "url": "https://www.cooperativa.cl/noticias/economia/foros-internacionales/fmi/chile-perdera-ante-peru-el-cuarto-lugar-economico-de-sudamerica-preve/2026-11-07/132726.html",
+   "date": "2026-11-07T16:27:26+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "4773c9128c81",
+   "source": "Radio Cooperativa",
+   "title": "Insulza y José Ramón Correa sobre Azul Azul: Vamos a seguir juntos en el directorio, nunca hubo dudas",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Rumbo a la reunión de directorio que fijará la nueva mesa de Azul Azul por determinación de los acreedores de Sartor, los directores José Miguel Insulza y José Ramón Correa reafirmaron que seguirán con sus sillas en el fútb",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/insulza-y-jose-ramon-correa-sobre-azul-azul-vamos-a-seguir-juntos-en-el/2026-11-07/132045.html",
+   "date": "2026-11-07T16:20:45+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -19,16 +119,6 @@
    "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/07/tras-fatal-accidente-ruta-de-la-fruta-lamenta-la-tragedia-e-informa-desvios-tras-cierre-de-la-via.shtml",
    "date": "2026-11-07T16:19:27+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "75521c6fc715",
-   "source": "The Guardian",
-   "title": "Three teenagers arrested after 17-year-old injured in Gloucester sword attack",
-   "description": "Armed police attended the scene, which led to two nearby schools going into lockdown on Friday Three teenagers have been arrested after a 17-year-old was injured in a suspected sword attack near a school in Gloucester. Officers were called to Chalford Road, near St Peter’s high s",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
-   "date": "2026-11-07T16:17:56+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -92,11 +182,11 @@
    "type": "Prensa"
   },
   {
-   "id": "d13a2b381b2f",
+   "id": "0b823bbb42c8",
    "source": "Deutsche Welle",
-   "title": "Tiroteo en Plaza Mayor de Cracovia deja 5 muertos",
+   "title": "Tiroteo en la Plaza Mayor de Cracovia deja cinco muertos",
    "description": "Las autoridades reportaron que un hombre armado abrió fuego de forma indiscriminada contra los transeúntes desde un vehículo en movimiento.",
-   "url": "https://www.dw.com/es/tiroteo-en-plaza-mayor-de-cracovia-deja-5-muertos/a-79887135?maca=spa-rss-sp-all-1122-xml-mrss",
+   "url": "https://www.dw.com/es/tiroteo-en-la-plaza-mayor-de-cracovia-deja-cinco-muertos/a-79887135?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-07T16:02:00+00:00",
    "category": "Europa",
    "type": "Prensa"
@@ -162,13 +252,23 @@
    "type": "Prensa"
   },
   {
-   "id": "99654872fae4",
+   "id": "0c8c76f77142",
    "source": "Radio Cooperativa",
-   "title": "Presunto miembro del Tren de Aragua detenido por asalto en Lampa",
+   "title": "Presunto miembro del Tren de Aragua fue detenido por asalto en Lampa",
    "description": "La PDI, en coordinación con personal municipal, detuvo en flagrancia a cuatro ciudadanos extranjeros por el delito de robo con sorpresa en la comuna de Lampa , en la zona norte de la Región Metropolitana. El grupo delictual operaba en la población Sol de Septiembre, donde aprovec",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/robos/presunto-miembro-del-tren-de-aragua-detenido-por-asalto-en-lampa/2026-11-07/124810.html",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/robos/presunto-miembro-del-tren-de-aragua-fue-detenido-por-asalto-en-lampa/2026-11-07/124810.html",
    "date": "2026-11-07T15:48:10+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "d91b34bf7722",
+   "source": "France 24",
+   "title": "¿Quién pagará la debacle republicana en Estados Unidos?",
+   "description": "En esta edición de Una Semana en el Mundo, nos preguntamos quién pagará la debacle del partido de Donald Trump en las elecciones de medio término. ¿Presenciamos el fin de la política del relato? ¿Demócratas y republicanos vuelven a intercambiarse la imagen de representantes del p",
+   "url": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20261107-qui%C3%A9n-pagar%C3%A1-la-debacle-republicana-en-estados-unidos",
+   "date": "2026-11-07T15:41:32+00:00",
+   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -229,6 +329,16 @@
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/07/kast-felicita-al-nuevo-presidente-de-paraguay-destaca-desafios-comunes-en-seguridad-y-economia.shtml",
    "date": "2026-11-07T15:34:23+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9f0597a8c6ab",
+   "source": "France 24",
+   "title": "¿Quién es Pedro Alliana, el nuevo presidente de Paraguay? ¿Qué medidas tomará ante la crisis por Ueno Bank?",
+   "description": "Los paraguayos amanecieron este sábado 7 de noviembre con un nuevo jefe de Estado. Se trata de Pedro Alliana, quien asumió el cargo, luego de que el derechista Santiago Peña fuera destituido por el Senado en un juicio político–y posteriormente puesto bajo arresto domiciliario– po",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261107-qui%C3%A9n-es-pedro-alliana-el-nuevo-presidente-de-paraguay-qu%C3%A9-medidas-tomar%C3%A1-ante-la-crisis-por-ueno-bank",
+   "date": "2026-11-07T15:30:55+00:00",
+   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -372,13 +482,13 @@
    "type": "Prensa"
   },
   {
-   "id": "6b555067b404",
-   "source": "Radio Cooperativa",
-   "title": "Gobierno decreta dos días de duelo oficial por la muerte de Sebastián Lelio",
-   "description": "Casi un día después de que se conociera públicamente la noticia, el Gobierno de Chile decidió decretar dos días duelo oficial por el fallecimiento del histórico cineasta Sebastián Lelio . \"El Gobierno de Chile declara dos días de duelo oficial, este 7 y 8 de noviembre , por el fa",
-   "url": "https://www.cooperativa.cl/noticias/magazine/cine/cine-chileno/gobierno-decreta-dos-dias-de-duelo-oficial-por-la-muerte-de-sebastian/2026-11-07/114722.html",
-   "date": "2026-11-07T14:47:22+00:00",
-   "category": "Gobierno y administración pública",
+   "id": "aa1b354f9686",
+   "source": "France 24",
+   "title": "Mélenchon presenta el programa con el que busca llevar a la izquierda al poder en Francia: estas son sus promesas",
+   "description": "De cara a las elecciones presidenciales en Francia en 2027, el candidato de La Francia Insumisa, Jean-Luc Mélenchon, busca dar una demostración de fuerza este sábado 7 de noviembre en un acto a las afueras de París, en el que defenderá el programa electoral actualizado de su part",
+   "url": "https://www.france24.com/es/francia/20261107-m%C3%A9lenchon-presenta-el-programa-con-el-que-busca-llevar-a-la-izquierda-al-poder-en-francia-estas-son-sus-promesas",
+   "date": "2026-11-07T14:47:03+00:00",
+   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -392,6 +502,16 @@
    "type": "Prensa"
   },
   {
+   "id": "706780fa1fd5",
+   "source": "France 24",
+   "title": "Informe desde París: cuarto fin de semana consecutivo de protestas en Francia",
+   "description": "Este 7 de noviembre se esperan nuevas movilizaciones en Francia, con grupos estudiantiles y los chalecos amarillos, en el cuarto fin de semana consecutivo de protestas sociales. Al mismo tiempo, el candidato del partido de izquierda La Francia Insumisa para las elecciones preside",
+   "url": "https://www.france24.com/es/video/20261107-informe-desde-par%C3%ADs-cuarto-fin-de-semana-consecutivo-de-protestas-en-francia",
+   "date": "2026-11-07T14:36:11+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
    "id": "5a1075289a18",
    "source": "Radio Bío-Bío",
    "title": "Cuestionan protocolos del Tenerife por muerte de Jesús de Miguel: \"¿Por qué no entró la ambulancia?\"",
@@ -402,13 +522,13 @@
    "type": "Prensa"
   },
   {
-   "id": "225eb63b75f1",
-   "source": "Radio Cooperativa",
-   "title": "Tragedia en Santo Domingo: Choque de camión, microbús y auto deja 12 muertos",
-   "description": "Doce personas fallecieron en un choque que involucró a un camión tolva, un microbús y un automóvil durante la mañana de este sábado en la Ruta 66, a la altura del sector La Atalaya, en la comuna de Santo Domingo, Provincia de San Antonio (Región de Valparaíso). El delegado presid",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/accidentes-de-transito/tragedia-en-santo-domingo-choque-de-camion-microbus-y-auto-deja-12/2026-11-07/113352.html",
-   "date": "2026-11-07T14:33:52+00:00",
-   "category": "",
+   "id": "049a2bb96c4a",
+   "source": "France 24",
+   "title": "Pedro Alliana asume como nuevo presidente de Paraguay tras destitución y arresto de Santiago Peña",
+   "description": "Tras la crisis financiera provocada por el cierre del Ueno Bank y la destitución y el arresto de Santiago Peña, Paraguay tiene nuevo presidente. Pedro Alliana tomó posesión este viernes 6 de noviembre como nuevo mandatario del país. Después se reunió con varios de los ministros n",
+   "url": "https://www.france24.com/es/video/20261107-pedro-alliana-asume-como-nuevo-presidente-de-paraguay-tras-destituci%C3%B3n-y-arresto-de-santiago-pe%C3%B1a",
+   "date": "2026-11-07T14:33:57+00:00",
+   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -442,12 +562,12 @@
    "type": "Prensa"
   },
   {
-   "id": "7fe0252a593a",
+   "id": "df6e43e35892",
    "source": "Radio Cooperativa",
-   "title": "Incendio dejó dos casas quemadas y ocho damnificados en Antofagasta",
-   "description": "Un incendio estructural se registró en la intersección de las calles Uribe con Ossa, en pleno centro de la ciudad de Antofagasta , y afectó a dos casas que funcionaban como locales comerciales en su frontis y habitacionales al fondo , dejando a cuatro adultos y cuatro menores dam",
-   "url": "https://www.cooperativa.cl/noticias/pais/region-de-antofagasta/incendio-dejo-dos-casas-quemadas-y-ocho-damnificados-en-antofagasta/2026-11-07/112350.html",
-   "date": "2026-11-07T14:23:50+00:00",
+   "title": "PDI detuvo a un sujeto por narcotráfico e incautó más de un kilo de droga",
+   "description": "El Equipo Modelo Territorial Cero (MT0) de la PDI detuvo a un sujeto por el delito de tráfico de drogas e incautó más de un kilo de marihuana y una cantidad importante de cocaína desde el interior de un domicilio ubicado en Avenida José Miguel Infante, en la comuna de Renca. El p",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/drogas/pdi-detuvo-a-un-sujeto-por-narcotrafico-e-incauto-mas-de-un-kilo-de/2026-11-07/110518.html",
+   "date": "2026-11-07T14:05:18+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -469,16 +589,6 @@
    "url": "https://www.bbc.com/mundo/articles/c64g1nd9qvn0o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-07T14:02:29+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "9e3509683c24",
-   "source": "Radio Cooperativa",
-   "title": "Estatua de Piñera quedará en línea con las de Aylwin y Alessandri",
-   "description": "La estatua del fallecido expresidente Sebastián Piñera estará orientada hacia la Alameda y su ubicación prevista es detrás de los espejos de agua de la Plaza de la Ciudadanía, en línea con los monumentos de los exmandatarios Patricio Aylwin y Arturo Alessandri . Según informó La ",
-   "url": "https://www.cooperativa.cl/noticias/pais/sebastian-pinera/estatua-de-pinera-quedara-en-linea-con-las-de-aylwin-y-alessandri/2026-11-07/105323.html",
-   "date": "2026-11-07T13:53:23+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -742,6 +852,16 @@
    "type": "Prensa"
   },
   {
+   "id": "50e0029bc7aa",
+   "source": "France 24",
+   "title": "En directo: con una oda al mate, León XIV insta a los fieles en Uruguay a tender puentes de fraternidad y fe",
+   "description": "Ciudadanos provenientes de distintas partes de América Latina llegaron desde las primeras horas de este sábado 7 de noviembre al parque París Londres de la ciudad de Paysandú, para asistir a la multitudinaria misa del papa León XIV, en la segunda jornada de su visita a Uruguay. E",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261107-en-directo-todo-listo-para-la-misa-del-papa-le%C3%B3n-xiv-en-paysand%C3%BA-uruguay-primer-pa%C3%ADs-de-su-visita-a-latinoam%C3%A9rica",
+   "date": "2026-11-07T12:18:38+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "d53311f27b52",
    "source": "Al Jazeera",
    "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
@@ -819,26 +939,6 @@
    "url": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss",
    "date": "2026-11-07T10:50:54+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "cba5681853a7",
-   "source": "Al Jazeera",
-   "title": "Sudan war and climate change see parents struggle to feed their children",
-   "description": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
-   "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
-   "date": "2026-11-07T10:36:32+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "bd605ef781de",
-   "source": "The Guardian",
-   "title": "Russell Brand barrister reports himself to watchdog over clash with journalist",
-   "description": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand’s victims coming forward: ‘I hope you are pleased with yourself’ Russell Brand’s barrister has reported himself to his professional regulator after being accused of launching a tirade at a jou",
-   "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
-   "date": "2026-11-07T10:04:01+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -922,6 +1022,16 @@
    "type": "Prensa"
   },
   {
+   "id": "9206653f4114",
+   "source": "France 24",
+   "title": "Paraguay: la tormenta de Ueno Bank arrastró a Santiago Peña, destituido, detenido y sustituido",
+   "description": "44 senadores votaron unánimemente a favor de la destitución del presidente, por sus vínculos con el Ueno Bank, cuyo cierre ha ocasionado una crisis política sin precedentes en el país. En una rápida sucesión, la Fiscalía ordenó la detención de Peña, la Policía Nacional ejecutó la",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261107-paraguay-la-tormenta-de-ueno-bank-arrastr%C3%B3-a-santiago-pe%C3%B1a-destituido-detenido-y-sustituido",
+   "date": "2026-11-07T03:07:40+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
    "id": "6f81a094288e",
    "source": "The Guardian",
    "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
@@ -929,6 +1039,36 @@
    "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
    "date": "2026-11-07T03:07:01+00:00",
    "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "bf3255a8e0b0",
+   "source": "France 24",
+   "title": "Presión sobre Pete Hegseth: ¿será una posible víctima de los resultados de las midterms?",
+   "description": "A medida que se aclaran los resultados de las elecciones de medio mandato en Estados Unidos, el futuro político de Pete Hegseth parece cada vez más incierto. Con el propio Donald Trump reconociendo que la guerra influyó en el resultado electoral, aumentan las presiones sobre uno ",
+   "url": "https://www.france24.com/es/video/20261107-presi%C3%B3n-sobre-pete-hegseth-ser%C3%A1-una-posible-v%C3%ADctima-de-los-resultados-de-las-midterms",
+   "date": "2026-11-07T03:04:04+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "1f782cf064e0",
+   "source": "France 24",
+   "title": "Kenia: condenan al líder sectario Paul Mackenzie a 200 años por llevar a sus fieles al ayuno extremo",
+   "description": "Más de tres años después del hallazgo de cientos de cuerpos en el bosque de Shakahola, la justicia de Kenia dictó una de las condenas más severas de su historia reciente. Un tribunal sentenció a Paul Mackenzie, líder de una secta evangélica, a 200 años de prisión por la muerte de",
+   "url": "https://www.france24.com/es/video/20261107-kenia-condenan-al-l%C3%ADder-sectario-paul-mackenzie-a-200-a%C3%B1os-por-llevar-a-sus-fieles-al-ayuno-extremo",
+   "date": "2026-11-07T03:01:52+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "abdd3b602b3b",
+   "source": "France 24",
+   "title": "Tensión en Tanzania tras la condena del líder opositor Tundu Lissu a cuatro años de cárcel",
+   "description": "Tras 577 días en prisión, el líder opositor tanzano Tundu Lissu recibió un veredicto que tomó por sorpresa a muchos observadores. Aunque el Alto Tribunal lo absolvió del cargo de traición al considerar que la Fiscalía no demostró que intentara intimidar al Gobierno, sí lo declaró",
+   "url": "https://www.france24.com/es/video/20261107-tensi%C3%B3n-en-tanzania-tras-la-condena-de-tundu-lissu-a-cuatro-a%C3%B1os-de-c%C3%A1rcel",
+   "date": "2026-11-07T03:00:00+00:00",
+   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -949,6 +1089,66 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/alexis-sanchez/cuando-y-donde-ver-a-cf-montreal-de-alexis-sanchez-ante-vancouver/2026-11-06/222121.html",
    "date": "2026-11-07T01:21:21+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "7a0435c51235",
+   "source": "France 24",
+   "title": "¿Quién es Stephen Miller? El hombre elegido por Trump para dirigir su gabinete",
+   "description": "El presidente de Estados Unidos, Donald Trump, nombró a Stephen Miller como nuevo jefe de gabinete de la Casa Blanca en sustitución de Susie Wiles. Considerado uno de los asesores más cercanos al mandatario y uno de los principales arquitectos de su política migratoria de línea d",
+   "url": "https://www.france24.com/es/video/20261107-qui%C3%A9n-es-stephen-miller-el-hombre-elegido-por-trump-para-dirigir-su-gabinete",
+   "date": "2026-11-07T01:19:23+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "4eee9540be28",
+   "source": "France 24",
+   "title": "Comienzan los pagos a ahorristas de Ueno Bank en Paraguay bajo ciertos requisitos",
+   "description": "El Banco Central del Paraguay inició la devolución de depósitos a clientes de Ueno Bank, intervenido por problemas de solvencia. En esta primera etapa, los pagos están dirigidos a pequeños ahorristas que cumplen con los requisitos establecidos por las autoridades. La medida llega",
+   "url": "https://www.france24.com/es/video/20261107-comienzan-los-pagos-a-ahorristas-de-ueno-bank-en-paraguay-bajo-ciertos-requisitos",
+   "date": "2026-11-07T01:15:27+00:00",
+   "category": "Política monetaria",
+   "type": "Prensa"
+  },
+  {
+   "id": "828851b05b44",
+   "source": "France 24",
+   "title": "Informe desde Asunción: la caída de Peña desata celebraciones; Alliana se juramenta como presidente",
+   "description": "La crisis política en Paraguay sumó un nuevo capítulo tras la destitución de Santiago Peña por parte del Senado y su posterior detención. Mientras algunos manifestantes celebraban en las calles, otros anunciaron movilizaciones hacia la residencia del exmandatario. Fiscales señala",
+   "url": "https://www.france24.com/es/video/20261107-informe-desde-asunci%C3%B3n-la-ca%C3%ADda-de-pe%C3%B1a-desata-celebraciones-alliana-se-juramenta-como-presidente",
+   "date": "2026-11-07T01:12:35+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "b128e5236186",
+   "source": "France 24",
+   "title": "Informe desde Montevideo: así será la agenda del papa León XIV en Uruguay",
+   "description": "El papa León XIV inició en Uruguay su gira por Sudamérica con una agenda que incluye reuniones con autoridades, encuentros con la Iglesia local, una visita a Paysandú, actividades con el mundo de la educación y una vigilia de oración en el Estadio Centenario. También presidirá un",
+   "url": "https://www.france24.com/es/video/20261107-informe-desde-montevideo-as%C3%AD-ser%C3%A1-la-agenda-del-papa-le%C3%B3n-xiv-en-uruguay",
+   "date": "2026-11-07T01:11:04+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "a70981018bfa",
+   "source": "France 24",
+   "title": "Informe desde Asunción: manifestantes celebran la destitución de Santiago Peña en Paraguay",
+   "description": "La destitución de Santiago Peña desató escenas de celebración en las calles de Paraguay. Tras días de protestas y creciente presión ciudadana por la crisis vinculada a Ueno Bank, manifestantes salieron a las calles para exigir un juicio político al ahora expresidente. El Senado l",
+   "url": "https://www.france24.com/es/video/20261107-informe-desde-asunci%C3%B3n-manifestantes-celebran-la-destituci%C3%B3n-de-santiago-pe%C3%B1a-en-paraguay",
+   "date": "2026-11-07T01:09:42+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "3d247f19fbdb",
+   "source": "France 24",
+   "title": "Israel espera decisión de Herzog: Eisenkot dice tener ventaja para formar gobierno",
+   "description": "El presidente de Israel, Isaac Herzog, concluyó las consultas con los partidos y anunció que este domingo designará al candidato encargado de formar gobierno. Quien reciba el mandato tendrá 28 días, prorrogables por otros 14, para construir una coalición. Si fracasa, el encargo p",
+   "url": "https://www.france24.com/es/video/20261107-israel-espera-decisi%C3%B3n-de-herzog-eisenkot-dice-tener-ventaja-para-formar-gobierno",
+   "date": "2026-11-07T01:08:10+00:00",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -992,6 +1192,26 @@
    "type": "Prensa"
   },
   {
+   "id": "0f714388dc09",
+   "source": "France 24",
+   "title": "¿Regulación o burbuja? Qué hay detrás de la caída de las tecnológicas luego de las midterms en EE. UU.",
+   "description": "",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261107-regulaci%C3%B3n-o-burbuja-qu%C3%A9-hay-detr%C3%A1s-de-la-ca%C3%ADda-de-las-tecnol%C3%B3gicas-luego-de-las-midterms-en-ee-uu",
+   "date": "2026-11-07T00:24:49+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "26962da1a9bd",
+   "source": "France 24",
+   "title": "El fallido acuerdo de Trump sobre el diésel: ¿por qué los petroleros rusos no se dirigen a EE. UU.?",
+   "description": "Los primeros buques petroleros que debían entregar diésel ruso a Estados Unidos en virtud de un acuerdo entre el presidente Donald Trump y su homólogo ruso Vladimir Putin han cambiado de rumbo y ya no se dirigen a la costa estadounidense. Esto supone probablemente el fin de un pa",
+   "url": "https://www.france24.com/es/econom%C3%ADa-y-tecnolog%C3%ADa/20261107-el-fallido-acuerdo-de-trump-sobre-el-di%C3%A9sel-por-qu%C3%A9-los-petroleros-rusos-no-se-dirigen-a-ee-uu",
+   "date": "2026-11-07T00:00:11+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
    "id": "3114c03d3715",
    "source": "BBC Mundo",
    "title": "El escándalo de Ueno Bank en Paraguay se salda con la detención de Santiago Peña y con Pedro Alliana como nuevo presidente del país",
@@ -1019,6 +1239,16 @@
    "url": "https://www.bbc.com/mundo/articles/c90k001drxxko?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-06T23:39:40+00:00",
    "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "18ce53a02424",
+   "source": "France 24",
+   "title": "En vivo: Detenido por la policía el presidente destituido Santiago Peña en Paraguay",
+   "description": "",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261106-paraguay-santiago-pe%C3%B1a-pide-una-pr%C3%B3rroga-para-defenderse-del-juicio-pol%C3%ADtico",
+   "date": "2026-11-06T23:37:33+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -1112,16 +1342,6 @@
    "type": "Prensa"
   },
   {
-   "id": "df9e4a571b7d",
-   "source": "BBC Mundo",
-   "title": "Quién es Stephen Miller, el arquitecto de la dura política migratoria de Trump designado nuevo jefe de gabinete de la Casa Blanca",
-   "description": "El ideólogo ultraconservador y uno de los asesores más leales de Trump gana poder en la Casa Blanca después de la derrota republicana en las elecciones de medio mandato",
-   "url": "https://www.bbc.com/mundo/articles/c20pnenx1d9o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-06T21:23:18+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "0d84d3fee88e",
    "source": "Deutsche Welle",
    "title": "A 37 años de la caída del Muro, en Alemania aún hay heridas abiertas",
@@ -1158,26 +1378,6 @@
    "description": "La entrada Del riesgo climático al riesgo económico se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/11/06/del-riesgo-climatico-al-riesgo-economico/?utm_source=rss&utm_medium=rss&utm_campaign=del-riesgo-climatico-al-riesgo-economico",
    "date": "2026-11-06T18:59:31+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a12cdbb4d574",
-   "source": "The Guardian",
-   "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
-   "description": "Separate actions also take place outside fence and across Europe in backlash against impact of AI boom Activists have stormed the site of a Microsoft datacentre being built in Amsterdam, as the backlash to the social and environmental harms of the AI boom spreads across Europe. P",
-   "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
-   "date": "2026-11-06T18:51:37+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "b5df662bcc35",
-   "source": "Radio Cooperativa",
-   "title": "La formación de Colo Colo para ir a buscar el título ante Ñublense en Chillán",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/la-formacion-de-colo-colo-para-ir-a-buscar-el-titulo-ante-nublense-en/2026-11-06/150300.html",
-   "date": "2026-11-06T18:03:00+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -1860,16 +2060,6 @@
    "date": "2026-11-03T12:00:00+00:00",
    "category": "África",
    "type": "Oficial"
-  },
-  {
-   "id": "ad1b23c7421b",
-   "source": "BBC Mundo",
-   "title": "\"Te sientes como si fueras el verdugo\": la madre en Chile a la que obligaron a esperar que su bebé muriera en su vientre",
-   "description": "Catalina Pizarro intentó por distintas vías acceder al aborto por inviabilidad fetal pero no lo logró. Un tribunal dictaminó que su médico obstruyó su acceso al aborto. El fallo fue apelado.",
-   "url": "https://www.bbc.com/mundo/articles/cm3el01qqeqxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-03T11:58:03+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
   },
   {
    "id": "a53c36fc4a06",
