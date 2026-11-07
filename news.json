@@ -1,14 +1,34 @@
 {
- "updated": "2026-11-07T07:53:49.354321+00:00",
+ "updated": "2026-11-07T08:44:32.799711+00:00",
  "items": [
   {
    "id": "24737f560dfb",
    "source": "The Guardian",
-   "title": "NZ election 2026 live results: count on as National and Labour battle it out in knife-edge New Zealand poll",
+   "title": "New Zealand election 2026 live results: Labour draws level with National as count continues in close race",
    "description": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent history New Zealand heads for election cliffhanger with minor party cast as kingmaker In New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms",
    "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-   "date": "2026-11-07T07:34:50+00:00",
+   "date": "2026-11-07T08:36:15+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "5ecaf539145c",
+   "source": "Al Jazeera",
+   "title": "Doncic’s 53 points lift Lakers as Cavs top Sixers in LeBron James’s return",
+   "description": "LA Lakers star Doncic closed the first half with an astonishing shot from well beyond the half-court line.",
+   "url": "https://www.aljazeera.com/sports/2026/11/7/doncic-lakers-lebron-cavaliers-sixers-nba-cup-basketball?traffic_source=rss",
+   "date": "2026-11-07T08:10:01+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "53f83263effa",
+   "source": "Al Jazeera",
+   "title": "Houston mayor curbs cooperation of US city’s police with ICE",
+   "description": "People stopped for minor traffic violations will no longer be referred to US Immigration and Customs Enforcement.",
+   "url": "https://www.aljazeera.com/news/2026/11/7/houston-mayor-curbs-cooperation-of-us-citys-police-with-ice?traffic_source=rss",
+   "date": "2026-11-07T07:50:16+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -134,8 +154,8 @@
   {
    "id": "2922b4951d3b",
    "source": "Al Jazeera",
-   "title": "Governing party ahead in early results of New Zealand’s knife-edge vote",
-   "description": "Early count suggests New Zealand's National and Labour parties are neck and neck, with neither likely to govern alone.",
+   "title": "Two main parties neck to neck after New Zealand vote, early count",
+   "description": "Early results suggests New Zealand's National and Labour parties polling just short of 30 percent of the popular vote.",
    "url": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results?traffic_source=rss",
    "date": "2026-11-07T06:20:27+00:00",
    "category": "Oriente Medio",
@@ -862,16 +882,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2fa1564a4c02",
-   "source": "Al Jazeera",
-   "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
-   "description": "Marjorie Taylor Greene says Trump's White House personnel shuffle will sink the party’s next presidential campaign.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
-   "date": "2026-11-07T00:21:49+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "4c06dee94d08",
    "source": "The Guardian",
    "title": "Russell Brand suspected to have attacked at least 10 other women",
@@ -889,16 +899,6 @@
    "url": "https://www.france24.com/es/econom%C3%ADa-y-tecnolog%C3%ADa/20261107-el-fallido-acuerdo-de-trump-sobre-el-di%C3%A9sel-por-qu%C3%A9-los-petroleros-rusos-no-se-dirigen-a-ee-uu",
    "date": "2026-11-07T00:00:11+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "834bfcd2a759",
-   "source": "Al Jazeera",
-   "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-   "description": "Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
-   "date": "2026-11-07T00:00:00+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
