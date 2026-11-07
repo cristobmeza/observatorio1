@@ -1,6 +1,286 @@
 {
- "updated": "2026-11-07T15:30:39.667384+00:00",
+ "updated": "2026-11-07T16:30:46.120994+00:00",
  "items": [
+  {
+   "id": "d661b9bcc62a",
+   "source": "The Guardian",
+   "title": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
+   "description": "Polish Prime Minister Donald Tusk, in a post on X, said police are investigating the attack Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage and murderous attack that’s shattered the peace of Poland.",
+   "url": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+   "date": "2026-11-07T16:23:10+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "8e7fb504f6bd",
+   "source": "Radio Bío-Bío",
+   "title": "Tras fatal accidente: Ruta de la Fruta lamenta la tragedia e informa desvíos tras cierre de la vía",
+   "description": "La mañana de este sábado, un accidente de tránsito entre un bus inter-rural, un camión tolva y un vehículo particular que de momento tiene un saldo de 12 fallecidos y 15 heridos en la comuna de San Antonio, región de Valparaíso, mantiene suspendido el tránsito en la Ruta 66 (Ruta",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/07/tras-fatal-accidente-ruta-de-la-fruta-lamenta-la-tragedia-e-informa-desvios-tras-cierre-de-la-via.shtml",
+   "date": "2026-11-07T16:19:27+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "75521c6fc715",
+   "source": "The Guardian",
+   "title": "Three teenagers arrested after 17-year-old injured in Gloucester sword attack",
+   "description": "Armed police attended the scene, which led to two nearby schools going into lockdown on Friday Three teenagers have been arrested after a 17-year-old was injured in a suspected sword attack near a school in Gloucester. Officers were called to Chalford Road, near St Peter’s high s",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
+   "date": "2026-11-07T16:17:56+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "9fff588a44cb",
+   "source": "Al Jazeera",
+   "title": "Guatemalan lawmaker and three police officers killed in armed attack",
+   "description": "It happened in a region of the country known to have drug trafficking activity.",
+   "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+   "date": "2026-11-07T16:15:18+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "6544e67a3fcb",
+   "source": "Radio Bío-Bío",
+   "title": "\"Francia fue su segunda casa\": París rinde emotivo homenaje al cineasta chileno Patricio Guzmán",
+   "description": "Este sábado Paris rinde una jornada de homenaje al cineasta chileno Patricio Guzmán, fallecido en septiembre pasado en la capital francesa a los 85 años, con la proyección de dos de sus documentales más reconocidos, coloquios con antiguos colaboradores y un concierto dedicado a l",
+   "url": "https://www.biobiochile.cl/noticias/artes-y-cultura/actualidad-cultural/2026/11/07/francia-fue-su-segunda-casa-paris-rinde-emotivo-homenaje-al-cineasta-chileno-patricio-guzman.shtml",
+   "date": "2026-11-07T16:14:41+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "ccef0f0c1721",
+   "source": "Radio Bío-Bío",
+   "title": "\"¿Qué será de mi violador?\": La carta de la hermana de exministra Vallejo por rebajas de condena",
+   "description": "Javiera Vallejo, hermana de la exministra Camila Vallejo, cuestionó las rebajas de condena concedidas a personas sentenciadas por delitos sexuales contra menores y por crímenes de la dictadura. En una carta publicada en The Clinic, abordó el miedo que enfrentan las víctimas ante ",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/07/que-sera-de-mi-violador-la-carta-de-la-hermana-de-exministra-javiera-vallejo-por-rebajas-de-condena.shtml",
+   "date": "2026-11-07T16:10:48+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "f3152131b73a",
+   "source": "BBC Mundo",
+   "title": "Con la elección de Stephen Miller como jefe de gabinete, Trump se prepara para una batalla",
+   "description": "El nombramiento de Miller, un ferviente partidista leal, como nuevo jefe de gabinete del presidente estadounidense, probablemente provocará enfrentamientos con el Congreso.",
+   "url": "https://www.bbc.com/mundo/articles/cxzd669938y0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-07T16:09:19+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "05253b22e639",
+   "source": "Al Jazeera",
+   "title": "Hundreds march in Pau, France against high living costs",
+   "description": "Hundreds march in Pau, France against high living costs",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
+   "date": "2026-11-07T16:09:11+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "3bfeb05ea2e6",
+   "source": "Al Jazeera",
+   "title": "Five killed and at least 10 injured in Krakow shooting",
+   "description": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
+   "date": "2026-11-07T16:06:58+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "d13a2b381b2f",
+   "source": "Deutsche Welle",
+   "title": "Tiroteo en Plaza Mayor de Cracovia deja 5 muertos",
+   "description": "Las autoridades reportaron que un hombre armado abrió fuego de forma indiscriminada contra los transeúntes desde un vehículo en movimiento.",
+   "url": "https://www.dw.com/es/tiroteo-en-plaza-mayor-de-cracovia-deja-5-muertos/a-79887135?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-07T16:02:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "3e9be3836404",
+   "source": "Radio Bío-Bío",
+   "title": "¿Quién es Alejo Igoa?: el youtube con 121 millones de suscriptores que llegó a Teletón 2026",
+   "description": "La Teletón 2026 sumó a su programación a una de las mayores estrellas de YouTube en español: Alejo Igoa, creador de contenido argentino que acumula más de 121 millones de suscriptores en la plataforma. El influencer fue anunciado como uno de los invitados internacionales del bloq",
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/07/quien-es-alejo-igoa-el-youtube-con-121-millones-de-suscriptores-que-llego-a-teleton-2026.shtml",
+   "date": "2026-11-07T15:58:56+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "f36d12751686",
+   "source": "Radio Bío-Bío",
+   "title": "Max Verstappen se impuso en últimos libres del GP de Brasil de F1: será penalizado para la carrera",
+   "description": "El cuádruple campeón del mundo neerlandés, Max Verstappen, fue el más rápido este sábado en el tercer y último entrenamiento libre del Gran Premio de Brasil de Fórmula 1. ‘Mad Max’ dominó la práctica final en el en el circuito de Interlagos (Sao Paulo) sabiendo que , al haber sus",
+   "url": "https://www.biobiochile.cl/especial/bio-bio-tuercas/noticias/2026/11/07/formula-1-max-verstappen-se-impuso-ultimo-libre-gp-de-brasil.shtml",
+   "date": "2026-11-07T15:58:53+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "4c32165c43bf",
+   "source": "Radio Cooperativa",
+   "title": "Restos de Sebastián Lelio serán velados en la Cineteca Nacional",
+   "description": "La familia del cineasta Sebastián Lelio entregó los detalles sobre su velorio , el cual se realizará este fin de semana en la Cineteca Nacional en el centro de Santiago. A través de un comunicado detallaron que los restos del ganador del Oscar serán velados en el mencionado recin",
+   "url": "https://www.cooperativa.cl/noticias/magazine/cine/cine-chileno/restos-de-sebastian-lelio-seran-velados-en-la-cineteca-nacional/2026-11-07/125739.html",
+   "date": "2026-11-07T15:57:39+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "c10c04a62d6a",
+   "source": "Radio Bío-Bío",
+   "title": "A días del Miss Universo: candidata de República Dominicana sufre accidente automovilístico",
+   "description": "La candidata dominicana a Miss Universo 2026, Melissa Núñez, y la directora nacional del certamen, Magali Febles, permanecen estables en un centro de salud tras sufrir un accidente automovilístico la noche del viernes en la capital de República Dominicana. La oficina de Febles in",
+   "url": "https://www.biobiochile.cl/noticias/sociedad/historia/2026/11/07/a-dias-del-miss-universo-candidata-de-republica-dominicana-sufre-accidente-automovilistico.shtml",
+   "date": "2026-11-07T15:53:24+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "b93d7b50e64e",
+   "source": "Radio Bío-Bío",
+   "title": "Argentina despliega casi 53 mil efectivos y prepara plan especial de transporte por visita de León XIV",
+   "description": "Argentina desplegará un total de 52.900 efectivos de las fuerzas de seguridad para el operativo por la visita del papa León XIV, quien llegará al país este domingo y que mantendrá actividades en el país trasandino hasta el próximo miércoles, con agenda en Buenos Aires, Luján y Có",
+   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/07/argentina-despliega-casi-53-mil-efectivos-y-prepara-plan-especial-de-transporte-por-visita-de-leon-xiv.shtml",
+   "date": "2026-11-07T15:51:43+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "8318e7403865",
+   "source": "Radio Cooperativa",
+   "title": "[ESTADÍSTICAS] La tabla de posiciones de la Liga de Primera en la fecha 27",
+   "description": "Revisa la tabla de posiciones de la Liga de Primera 2026 Pos. Club PJ Pts. Dif. Zona 1 Colo Colo 26 58 +28 Libertadores 2 Universidad de Chile 26 48 +24 Libertadores 3 Universidad Católica 26 46 +16 Duelo Chile 4 4 Deportes Limache 26 40 +11 Sudamericana 5 Everton 26 40 +10 Sudam",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-27/2026-11-07/125004.html",
+   "date": "2026-11-07T15:50:04+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "99654872fae4",
+   "source": "Radio Cooperativa",
+   "title": "Presunto miembro del Tren de Aragua detenido por asalto en Lampa",
+   "description": "La PDI, en coordinación con personal municipal, detuvo en flagrancia a cuatro ciudadanos extranjeros por el delito de robo con sorpresa en la comuna de Lampa , en la zona norte de la Región Metropolitana. El grupo delictual operaba en la población Sol de Septiembre, donde aprovec",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/robos/presunto-miembro-del-tren-de-aragua-detenido-por-asalto-en-lampa/2026-11-07/124810.html",
+   "date": "2026-11-07T15:48:10+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "6e30bf501e57",
+   "source": "Río en Línea",
+   "title": "Patrimonio: proteger, pero también gestionar",
+   "description": "La protección de nuestro patrimonio cultural constituye un deber irrenunciable del Estado y una responsabilidad que debemos asumir como sociedad. Nuestra legislación reconoce el valor histórico, arqueológico y cultural de los bienes que forman parte de nuestra identidad, establec",
+   "url": "https://www.rioenlinea.cl/patrimonio-proteger-pero-tambien-gestionar/",
+   "date": "2026-11-07T15:37:36+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "80ae75c7471e",
+   "source": "Radio Cooperativa",
+   "title": "Ojos que Sí Ven: La ayuda de Fundación Acrux para terminar con las listas de espera",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/salud/ojos-que-si-ven-la-ayuda-de-fundacion-acrux-para-terminar-con-las/2026-11-07/123621.html",
+   "date": "2026-11-07T15:36:21+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "05887df19c41",
+   "source": "Radio Cooperativa",
+   "title": "Los resultados de la fecha 27 de la Liga de Primera",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con la definición del título por delante, además de la lucha por el descenso, la Liga de Primera 2026 desarrolla este fin de semana su trascendental fecha 27. Sábado 7 de noviembre Deportes La Serena vs. Palestino. 15:00 ho",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-27-de-la-liga-de-primera/2026-11-07/123544.html",
+   "date": "2026-11-07T15:35:44+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "6c092fd3bd81",
+   "source": "Radio Cooperativa",
+   "title": "SuperGeek: La realidad virtual en la rehabilitación de los pacientes Teletón",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/magazine/television/teleton/supergeek-la-realidad-virtual-en-la-rehabilitacion-de-los-pacientes/2026-11-07/123523.html",
+   "date": "2026-11-07T15:35:23+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "796023ab7d28",
+   "source": "Al Jazeera",
+   "title": "Iran’s IRGC says building underground sites for weapons production, storage",
+   "description": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
+   "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
+   "date": "2026-11-07T15:34:58+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a42cfab0ac3e",
+   "source": "Radio Bío-Bío",
+   "title": "Kast felicita al nuevo Presidente de Paraguay: destaca desafíos comunes en seguridad y economía",
+   "description": "El presidente de Chile, José Antonio Kast, felicitó este sábado a Pedro Alliana, quien asumió la Presidencia de Paraguay tras la destitución de Santiago Peña, en medio de una crisis política y financiera que sacude al su país. A través de su cuenta de X, el mandatario chileno env",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/07/kast-felicita-al-nuevo-presidente-de-paraguay-destaca-desafios-comunes-en-seguridad-y-economia.shtml",
+   "date": "2026-11-07T15:34:23+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "ee79b53d5d12",
+   "source": "Al Jazeera",
+   "title": "Trump’s new chief of staff Stephen Miller says he ‘saved America’",
+   "description": "Stephen Miller, US President Donald Trump’s incoming chief of staff praises him.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
+   "date": "2026-11-07T15:29:11+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "9cf41a48a0d1",
+   "source": "Radio Bío-Bío",
+   "title": "\"Ojalá no me funen\": Fran GH planteó su única crítica a la Teletón y apunta a grandes auspiciadores",
+   "description": "Francisca García-Huidobro sorprendió con una crítica a la participación de los grandes auspiciadores en la Teletón 2026, cuestionando el tiempo que algunos representantes de empresas ocupan durante la transmisión televisiva. A través de sus redes sociales, la animadora de Chilevi",
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/07/ojala-no-me-funen-fran-gh-planteo-su-unica-critica-a-la-teleton-y-apunta-a-grandes-auspiciadores.shtml",
+   "date": "2026-11-07T15:27:46+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "7107b6608cd7",
+   "source": "Radio Bío-Bío",
+   "title": "Alcalde de San Antonio: \"Es muy lamentable (...) Este accidente golpea a familias completas\"",
+   "description": "Un camión tolva, un vehículo particular y un bus de recorrido que une la comuna de Navidad con San Antonio en la región de Valparaíso, chocaron de frente cerca de las 09:00 horas de este sábado 07 de noviembre. La colisión se registró en el kilómetro 119 de la ruta H, sector Lilé",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/07/alcalde-de-san-antonio-es-muy-lamentable-este-accidente-golpea-a-familias-completas.shtml",
+   "date": "2026-11-07T15:25:42+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "0b8c1bb9f310",
+   "source": "Al Jazeera",
+   "title": "At least five people killed in shooting in Poland’s Krakow",
+   "description": "Polish Prime Minister Donald Tusk says police are investigating after 'tragic shooting' in second-largest city.",
+   "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
+   "date": "2026-11-07T15:22:55+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "35b436dae498",
+   "source": "Radio Bío-Bío",
+   "title": "Campeón de NBA se aparta del baloncesto: Kristaps Porzingis deja los Warriors por problema médico",
+   "description": "El letón Kristaps Porzingis, de los Golden State Warriors, anunció este viernes que hará una pausa indefinida en su carrera en la NBA. Lo anterior, según anunció en un comunicado, para centrarse en su salud después de empezar la temporada apartado de las pistas por unos problemas",
+   "url": "https://www.biobiochile.cl/noticias/deportes/basquetbol/2026/11/07/kristaps-porzingis-campeon-de-nba-deja-el-baloncesto-por-problema-medico.shtml",
+   "date": "2026-11-07T15:22:27+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
   {
    "id": "0ad455b10c4b",
    "source": "Radio Cooperativa",
@@ -24,7 +304,7 @@
   {
    "id": "2d2c55a5983a",
    "source": "Ex-Ante",
-   "title": "[Telón de Fondo] La crisis ya no es de Rabat, ahora es del Presidente. Por Cristián Bofill",
+   "title": "[Telón de Fondo] La crisis ya no es de Rabat, ahora es del Presidente Kast. Por Cristián Bofill",
    "description": "“Al anunciar que no habría cambio de gabinete, Kast criticó a la prensa: dijo que solo se fija en las malas noticias. Puede ser. Pero…",
    "url": "https://www.ex-ante.cl/telon-de-fondo/crisis-no-rabat-del-presidente-kast/",
    "date": "2026-11-07T15:14:39+00:00",
@@ -34,8 +314,8 @@
   {
    "id": "edb23ea3b42f",
    "source": "The Guardian",
-   "title": "National Trust votes to seek banking partner more in tune with its environment policies",
-   "description": "Charity’s AGM decided overwhelmingly to begin a tendering process amid criticism of current bank Barclays fossil fuel investments The National Trust has voted overwhelmingly to seek a new banking partner in a significant victory for members who have long argued that its relations",
+   "title": "National Trust votes to seek banking partner more in tune with its environmental policies",
+   "description": "Charity’s AGM decides overwhelmingly to begin tendering process amid criticism of Barclays’ fossil fuel investments The National Trust has voted overwhelmingly to seek a new banking partner in a significant victory for members who have long argued that its relationship with Barcl",
    "url": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies",
    "date": "2026-11-07T15:06:59+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -102,16 +382,6 @@
    "type": "Prensa"
   },
   {
-   "id": "aa1b354f9686",
-   "source": "France 24",
-   "title": "Mélenchon presenta el programa con el que busca llevar a la izquierda al poder en Francia: estas son sus promesas",
-   "description": "De cara a las elecciones presidenciales en Francia en 2027, el candidato de La Francia Insumisa, Jean-Luc Mélenchon, busca dar una demostración de fuerza este sábado 7 de noviembre en un acto a las afueras de París, en el que defenderá el programa electoral actualizado de su part",
-   "url": "https://www.france24.com/es/francia/20261107-m%C3%A9lenchon-presenta-el-programa-con-el-que-busca-llevar-a-la-izquierda-al-poder-en-francia-estas-son-sus-promesas",
-   "date": "2026-11-07T14:47:03+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "b01a7e58557d",
    "source": "Radio Bío-Bío",
    "title": "CESFAM de Bahía Mansa queda a medio construir: terminan contrato por demora en obras y dos prórrogas",
@@ -119,16 +389,6 @@
    "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/07/cesfam-de-bahia-mansa-queda-a-medio-construir-terminan-contrato-por-demora-en-obras-y-dos-prorrogas.shtml",
    "date": "2026-11-07T14:41:47+00:00",
    "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "706780fa1fd5",
-   "source": "France 24",
-   "title": "Informe desde París: cuarto fin de semana consecutivo de protestas en Francia",
-   "description": "Este 7 de noviembre se esperan nuevas movilizaciones en Francia, con grupos estudiantiles y los chalecos amarillos, en el cuarto fin de semana consecutivo de protestas sociales. Al mismo tiempo, el candidato del partido de izquierda La Francia Insumisa para las elecciones preside",
-   "url": "https://www.france24.com/es/video/20261107-informe-desde-par%C3%ADs-cuarto-fin-de-semana-consecutivo-de-protestas-en-francia",
-   "date": "2026-11-07T14:36:11+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -142,20 +402,10 @@
    "type": "Prensa"
   },
   {
-   "id": "049a2bb96c4a",
-   "source": "France 24",
-   "title": "Pedro Alliana asume como nuevo presidente de Paraguay tras destitución y arresto de Santiago Peña",
-   "description": "Tras la crisis financiera provocada por el cierre del Ueno Bank y la destitución y el arresto de Santiago Peña, Paraguay tiene nuevo presidente. Pedro Alliana tomó posesión este viernes 6 de noviembre como nuevo mandatario del país. Después se reunió con varios de los ministros n",
-   "url": "https://www.france24.com/es/video/20261107-pedro-alliana-asume-como-nuevo-presidente-de-paraguay-tras-destituci%C3%B3n-y-arresto-de-santiago-pe%C3%B1a",
-   "date": "2026-11-07T14:33:57+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "225eb63b75f1",
    "source": "Radio Cooperativa",
    "title": "Tragedia en Santo Domingo: Choque de camión, microbús y auto deja 12 muertos",
-   "description": "Doce personas fallecieron en un choque que involucró a un camión, un microbús y un automóvil durante la mañana de este sábado en la Ruta 66, a la altura del sector La Atalaya, en Santo Domingo. El delegado Manuel Millones confirmó el balance de víctimas fatales y reportó 13 herid",
+   "description": "Doce personas fallecieron en un choque que involucró a un camión tolva, un microbús y un automóvil durante la mañana de este sábado en la Ruta 66, a la altura del sector La Atalaya, en la comuna de Santo Domingo, Provincia de San Antonio (Región de Valparaíso). El delegado presid",
    "url": "https://www.cooperativa.cl/noticias/pais/policial/accidentes-de-transito/tragedia-en-santo-domingo-choque-de-camion-microbus-y-auto-deja-12/2026-11-07/113352.html",
    "date": "2026-11-07T14:33:52+00:00",
    "category": "",
@@ -214,31 +464,11 @@
   {
    "id": "ee6419d27f07",
    "source": "BBC Mundo",
-   "title": "El expresidente de Paraguay, Santiago Peña, pasa la noche bajo arresto en un cuartel militar en medio de protestas en Asunción",
+   "title": "El expresidente de Paraguay, Santiago Peña, pasa su primera noche bajo arresto en un cuartel militar en medio de protestas en Asunción",
    "description": "Decenas de personas se congregaron ante la residencia privada del exgobernante para exigir que fuera enviado a prisión.",
    "url": "https://www.bbc.com/mundo/articles/c64g1nd9qvn0o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-07T14:02:29+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "ccfa4733d757",
-   "source": "Radio Cooperativa",
-   "title": "Infantino puso marcha atrás a la idea del Mundial con 64 equipos, según medio",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Los movimientos en la FIFA continuaron en medio de las turbulencias rumbo a sus elecciones, con el retroceso de Gianni Infantino respecto a la propuesta de ampliar la Copa del Mundo a 64 equipos . Según el informe del perio",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/fifa/infantino-puso-marcha-atras-a-la-idea-del-mundial-con-64-equipos-segun/2026-11-07/105928.html",
-   "date": "2026-11-07T13:59:28+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "d35f9472c4bb",
-   "source": "Radio Cooperativa",
-   "title": "Isabel Allende: \"La rabia y la venganza son una carga muy pesada\"",
-   "description": "La escritora Isabel Allende sostuvo esta semana un encuentro con periodistas en la Real Academia Española en Madrid a raíz del estreno de su nueva novela \"La hora del Alba\" y de su reciente obtención del Premio Planeta. En la cita, en la cual estuvo Cooperativa, la autora expresó",
-   "url": "https://www.cooperativa.cl/noticias/cultura/literatura/isabel-allende/isabel-allende-la-rabia-y-la-venganza-son-una-carga-muy-pesada/2026-11-07/105439.html",
-   "date": "2026-11-07T13:54:39+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -302,26 +532,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1e867fcce50f",
-   "source": "Radio Cooperativa",
-   "title": "Pellegrini: Es un orgullo para Betis tener tantos jugadores en las selecciones",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes En miras a su visita de Real Betis a Elche por la liga española, el entrenador Manuel Pellegrini habló en conferencia de prensa y valoró la convocatoria de nueve jugadores para la venidera fecha FIFA , entre el 9 y 17 de no",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/manuel-pellegrini/pellegrini-es-un-orgullo-para-betis-tener-tantos-jugadores-en-las/2026-11-07/104407.html",
-   "date": "2026-11-07T13:44:07+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "2a2d763b11d2",
-   "source": "Radio Cooperativa",
-   "title": "Revive la hilarante rutina de Los Atletas de la Risa en la Teletón 2026",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/magazine/television/teleton/revive-la-hilarante-rutina-de-los-atletas-de-la-risa-en-la-teleton-2026/2026-11-07/104302.html",
-   "date": "2026-11-07T13:43:02+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "efbb4c03d39b",
    "source": "Ex-Ante",
    "title": "La desconocida frase que le dijo Boric a Lula y que en Brasilia no se olvida",
@@ -329,16 +539,6 @@
    "url": "https://www.ex-ante.cl/internacional/desconocida-frase-boric-a-lula/",
    "date": "2026-11-07T13:40:07+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "92338293b7a5",
-   "source": "Radio Cooperativa",
-   "title": "Narco beneficiado por Rabat volvió a la cárcel seis meses después",
-   "description": "Edixon Escobar García, uno de los más de 100 beneficiados por las rebajas de condenas otorgadas por el ministro de Justicia , Fernando Rabat, volvió a ser detenido por el delito de narcotráfico seis meses después de haber recuperado su libertad vía decreto. Según publicó El Mercu",
-   "url": "https://www.cooperativa.cl/noticias/pais/judicial/narco-beneficiado-por-rabat-volvio-a-la-carcel-seis-meses-despues/2026-11-07/103552.html",
-   "date": "2026-11-07T13:35:52+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -359,26 +559,6 @@
    "url": "https://www.bbc.com/mundo/articles/cqgm00d1krkjo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-07T13:33:12+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "c3330f7f4b69",
-   "source": "France 24",
-   "title": "En directo: nueva jornada de protestas en Francia, mientras los chalecos amarillos llaman a la “desobediencia masiva”",
-   "description": "Para este sábado 7 de noviembre están programadas nuevas manifestaciones en diversas ciudades de Francia, el cuarto fin de semana consecutivo de manifestaciones, que aumentan la presión al Gobierno de Emmanuel Macron para pedir medidas para contrarrestar el alto costo de vida y m",
-   "url": "https://www.france24.com/es/francia/20261107-en-directo-nueva-jornada-de-protestas-en-francia-mientras-los-chalecos-amarillos-llaman-a-la-desobediencia-masiva",
-   "date": "2026-11-07T13:31:30+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "a7551b31d3f4",
-   "source": "Radio Cooperativa",
-   "title": "Chile desea éxito a Alliana y reafirma sus lazos con Paraguay",
-   "description": "El Gobierno de Chile expresó sus mejores deseos para la gestión de Pedro Alliana como nuevo presidente de Paraguay y reafirmó su compromiso con las relaciones bilaterales , tras la destitución de Santiago Peña. Mediante un comunicado, la Cancillería deseó al nuevo mandatario éxit",
-   "url": "https://www.cooperativa.cl/noticias/mundo/paraguay/chile-desea-exito-a-alliana-y-reafirma-sus-lazos-con-paraguay/2026-11-07/102727.html",
-   "date": "2026-11-07T13:27:27+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -422,26 +602,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4eddfec7a080",
-   "source": "Radio Bío-Bío",
-   "title": "Cuatro extranjeros son detenidos en Lampa tras persecución: uno pertenece al Tren de Aragua",
-   "description": "Cuatro ciudadanos extranjeros, un peruano y tres venezolanos, fueron detenidos por la Policía de Investigaciones, vinculados a los delitos de robo por intimidación, robo por sorpresa y porte ilegal de armas de fuego en la comuna de Lampa, en la región Metropolitana. Dos de ellos ",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/07/cuatro-extranjeros-son-detenidos-en-lampa-tras-persecucion-uno-pertenece-al-tren-de-aragua.shtml",
-   "date": "2026-11-07T13:14:52+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "f1997e2815a8",
-   "source": "Radio Bío-Bío",
-   "title": "\"No lo hizo con mala intención\": Mon Laferte sorprende al defender a fan que le lanzó un celular",
-   "description": "La cantante Mon Laferte se refirió por primera vez a la agresión que sufrió durante un concierto en Las Vegas, Estados Unidos, donde una espectadora le lanzó un teléfono celular que impactó directamente en su rostro. A través de su cuenta de X, la artista tranquilizó a sus seguid",
-   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/11/07/no-lo-hizo-con-mala-intencion-mon-laferte-sorprende-al-defender-a-fan-que-le-lanzo-un-celular.shtml",
-   "date": "2026-11-07T13:12:29+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "24737f560dfb",
    "source": "The Guardian",
    "title": "New Zealand election coalition talks will likely take weeks – as it happened",
@@ -459,16 +619,6 @@
    "url": "https://www.dw.com/es/bombardeos-de-arabia-saudita-dejan-más-de-20-muertos-en-yemen-según-hutíes/a-79885184?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-07T13:12:00+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "51b08d9543bb",
-   "source": "Radio Bío-Bío",
-   "title": "Con Colo Colo atento a su fichaje: aseguran que Brayan Cortés podría reforzar a Universidad Católica",
-   "description": "Brayan Cortés, exarquero de Colo Colo y hoy en Argentinos Juniors, podría retornar al fútbol chileno. Y no precisamente a los albos. Y es que el portero, seleccionado de La Roja para los amistosos ante Colombia, . De acuerdo a información de D Sports, el formado en Deportes Iquiq",
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/chilenos-en-el-exterior/2026/11/07/aseguran-que-brayan-cortes-llegaria-a-universidad-catolica.shtml",
-   "date": "2026-11-07T13:07:43+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -512,16 +662,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cfbf9776afdf",
-   "source": "Radio Cooperativa",
-   "title": "Acusado de intoxicar a colegas del aeropuerto con gomitas dice que \"cayeron de una maleta\"",
-   "description": "Ignacio Huerta (25), el trabajador de carga acusado de intoxicar con gomitas con droga a sus compañeros de turno en el aeropuerto de Santiago -dejando a uno en coma- sostuvo que \"cayeron de una maleta\". Así lo afirmó durante la audiencia de formalización su abogada defensora, Mar",
-   "url": "https://www.cooperativa.cl/noticias/pais/judicial/acusado-de-intoxicar-a-colegas-del-aeropuerto-con-gomitas-dice-que/2026-11-07/100126.html",
-   "date": "2026-11-07T13:01:26+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "e8e02126effa",
    "source": "The Guardian",
    "title": "Court rules against Home Office in asylum seeker kidnapping case",
@@ -532,16 +672,6 @@
    "type": "Prensa"
   },
   {
-   "id": "41d1906bd0a1",
-   "source": "Radio Bío-Bío",
-   "title": "Ministra Marín tras condena a Américo por VIF: \"Que ninguna mujer sienta que debe enfrentarlo sola\"",
-   "description": "La ministra de la Mujer y la Equidad de Género, Judith Marín, se refirió a la condena del cantante Américo por lesiones menos graves y daños en contexto de violencia intrafamiliar contra su expareja, la actriz Yamila Reyna. “Ante el caso que involucra a un artista nacional, como ",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/07/ministra-marin-por-condena-a-americo-por-vif-que-ninguna-mujer-sienta-que-debe-enfrentarlo-sola.shtml",
-   "date": "2026-11-07T12:57:10+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "bd5dfd573688",
    "source": "BBC Mundo",
    "title": "\"Cuando hablamos del fin del mundo, todos piensan en meteoritos, virus o un supertsunami, pero pocos imaginan un choque ontológico\"",
@@ -549,36 +679,6 @@
    "url": "https://www.bbc.com/mundo/articles/cr3wvvlp9vx1o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-07T12:52:27+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "de70126927ef",
-   "source": "Radio Bío-Bío",
-   "title": "Radares detectores de drones y misiles: la pieza militar que Perú suma a proyecto de operar los F-16",
-   "description": "La Fuerza Aérea peruana adjudicó a Thales un contrato de USD 39,9 millones para incorporar un sistema de alerta temprana de largo alcance, dentro del plan de renovación de su defensa aérea y de integración de nuevas capacidades de combate. The post Radares detectores de drones y ",
-   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/07/radares-detectores-de-drones-y-misiles-la-pieza-militar-que-peru-suma-a-proyecto-de-operar-los-f-16.shtml",
-   "date": "2026-11-07T12:42:12+00:00",
-   "category": "Conflictos armados y seguridad internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "10f6ce0085fc",
-   "source": "Radio Bío-Bío",
-   "title": "Gobierno confirma 12 muertos y 15 lesionados tras fatal accidente en Ruta de la Fruta de Santo Domingo",
-   "description": "La mañana de este sábado, un accidente de tránsito dejó un saldo de 12 personas fallecidas y 15 lesionados de diversa consideración en la denominada “Ruta de la Fruta” en la comuna de Santo Domingo, región de Valparaíso. El hecho mantiene el tránsito suspendido en ambos sentidos.",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/07/ohiggins-transito-suspendido-en-ruta-de-la-fruta-por-accidente-con-al-menos-10-lesionados.shtml",
-   "date": "2026-11-07T12:41:32+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "6694ed4d81ab",
-   "source": "Radio Bío-Bío",
-   "title": "José Antonio Neme sorprendió con llamativo pijama en Teletón 2026: \"Así duermo yo\"",
-   "description": "José Antonio Neme protagonizó uno de los momentos más divertidos de la Madrugatón de la Teletón 2026, luego de participar en el tradicional desfile de pijamas de famosos, donde sorprendió con un particular atuendo. El animador de ‘Mucho Gusto’ fue uno de los más de 15 rostros del",
-   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/07/jose-antonio-neme-sorprendio-con-osado-desfile-en-teleton-2026-asi-duermo-yo.shtml",
-   "date": "2026-11-07T12:38:52+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -602,16 +702,6 @@
    "type": "Prensa"
   },
   {
-   "id": "75521c6fc715",
-   "source": "The Guardian",
-   "title": "Two men arrested after boy injured in Gloucester sword attack",
-   "description": "Armed police attended the scene, which led to two nearby schools going into lockdown on Friday Two teenagers have been arrested after a 17-year-old was injured in a suspected sword attack near a school in Gloucester. Officers were called to Chalford Road, near St Peter’s high sch",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
-   "date": "2026-11-07T12:32:29+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "3f883b9fcdec",
    "source": "Al Jazeera",
    "title": "Pro-Russian hackers leak Italian foreign minister’s data on dark web",
@@ -632,36 +722,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8a9cff91c66c",
-   "source": "Radio Bío-Bío",
-   "title": "Armada deberá pagar 700 millones por fallido rescate en fatal colisión marítima: hubo cinco muertos",
-   "description": "La Armada tendrá que pagar 700 millones de pesos a familiares de los 5 tripulantes que fallecieron luego de una colisión de dos embarcaciones, en la costa de la región de Los Ríos. La justicia determinó que la autoridad marítima no contaba con el personal y medios idóneos para re",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/11/07/condena-armada-debera-pagar-700-millones-por-fallido-rescate-en-fatal-colision-maritima-hubo-cinco-muertos.shtml",
-   "date": "2026-11-07T12:27:16+00:00",
-   "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
-   "id": "39b34c71a32e",
-   "source": "Radio Bío-Bío",
-   "title": "FIFA no dio ’perdonazo’ y mantuvo castigo a Paredes por pelea en final del Mundial: AFA acudirá al TAS",
-   "description": "La Asociación del Fútbol Argentino (AFA) notificó este viernes las resoluciones oficiales dictadas por la Cámara de Apelaciones de la FIFA, tras los expedientes disciplinarios abiertos por la pelea que varios de sus jugadores protagonizaron con los de España en la final del Mundi",
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/11/07/fifa-confirma-sancion-a-paredes-por-pelea-final-mundial-2026-bajo-castigo-a-molina.shtml",
-   "date": "2026-11-07T12:25:53+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "f167ebb6d7bf",
-   "source": "Radio Bío-Bío",
-   "title": "Hospital español pagará más de 6 mil millones a familia de niño que quedó tetrapléjico tras parto",
-   "description": "Una familia española recibirá una indemnización de 5,7 millones de euros, equivalentes a cerca de 6.500 millones de pesos chilenos, luego de que una serie de errores médicos durante el parto de su hijo Oliver provocara graves lesiones que lo dejaron tetrapléjico y dependiente de ",
-   "url": "https://www.biobiochile.cl/noticias/sociedad/historia/2026/11/07/hospital-espanol-pagara-mas-de-6-mil-millones-a-familia-de-nino-que-quedo-tetraplejico-tras-parto.shtml",
-   "date": "2026-11-07T12:25:49+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "aaabe749e238",
    "source": "Al Jazeera",
    "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
@@ -672,16 +732,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e968b2411cb4",
-   "source": "Radio Bío-Bío",
-   "title": "Prisión preventiva dos militares bolivianos detenidos en Colchane por contrabando de vehículos",
-   "description": "Dos funcionarios militares de Bolivia quedaron en prisión preventiva, luego de ser detenidos por Carabineros y que la Fiscalía de Tamarugal, en la región de Tarapacá, los formalizara durante el recién pasado viernes 06 de noviembre por delitos de contrabando y tenencia de armamen",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-tarapaca/2026/11/07/prision-preventiva-dos-militares-bolivianos-detenidos-en-colchane-por-contrabando-de-vehiculos.shtml",
-   "date": "2026-11-07T12:22:46+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "624feef396c7",
    "source": "Al Jazeera",
    "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
@@ -689,26 +739,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
    "date": "2026-11-07T12:22:18+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "731aa1cabdba",
-   "source": "Radio Cooperativa",
-   "title": "Analista Marco Moreno: Kast convirtió el caso Rabat en una crisis de autoridad",
-   "description": "El analista político Marco Moreno abordó en Cooperativa el manejo de la crisis en La Moneda tras las polémicas rebajas de condena a pedófilos, presos de Punta Peuco, miembros del Tren de Aragua e incluso narcotraficantes por parte de Justicia, y señaló que el Presidente Kast \"lle",
-   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/analista-marco-moreno-kast-convirtio-el-caso-rabat-en-una-crisis-de/2026-11-07/091946.html",
-   "date": "2026-11-07T12:19:46+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "50e0029bc7aa",
-   "source": "France 24",
-   "title": "En directo: León XIV inicia multitudinaria misa en Paysandú, Uruguay, primer país de su visita a Latinoamérica",
-   "description": "Ciudadanos provenientes de distintas partes de América Latina llegaron desde las primeras horas de este sábado 7 de noviembre al parque París Londres de la ciudad de Paysandú, donde el papa León XIV ofrece una multitudinaria misa, en la segunda jornada de su visita a Uruguay. El ",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261107-en-directo-todo-listo-para-la-misa-del-papa-le%C3%B3n-xiv-en-paysand%C3%BA-uruguay-primer-pa%C3%ADs-de-su-visita-a-latinoam%C3%A9rica",
-   "date": "2026-11-07T12:18:38+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -802,16 +832,6 @@
    "type": "Prensa"
   },
   {
-   "id": "317e6624a8e3",
-   "source": "Al Jazeera",
-   "title": "Pakistani astronaut to join China’s next space station mission",
-   "description": "The unnamed individual will be the first foreign national to visit China's space station as part of Shenzhou-24 mission.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss",
-   "date": "2026-11-07T10:17:53+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "bd605ef781de",
    "source": "The Guardian",
    "title": "Russell Brand barrister reports himself to watchdog over clash with journalist",
@@ -819,16 +839,6 @@
    "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
    "date": "2026-11-07T10:04:01+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "52116db307ba",
-   "source": "Al Jazeera",
-   "title": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
-   "description": "Palestinian citizens of Israel say Arab parties' success in recent elections has led to growing pressure.",
-   "url": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins?traffic_source=rss",
-   "date": "2026-11-07T09:48:11+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -842,26 +852,6 @@
    "type": "Prensa"
   },
   {
-   "id": "867699915301",
-   "source": "Al Jazeera",
-   "title": "China’s e-bikes boom as fuel prices rise",
-   "description": "E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss",
-   "date": "2026-11-07T09:30:07+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "49b60153ff6d",
-   "source": "Al Jazeera",
-   "title": "US Senator Abdul El-Sayed launches ‘Habibi’ political action committee",
-   "description": "The first Muslim senator's new committee will let him raise money for other candidates.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss",
-   "date": "2026-11-07T09:18:53+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "3c6954bea67c",
    "source": "The Guardian",
    "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
@@ -869,26 +859,6 @@
    "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
    "date": "2026-11-07T09:15:35+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "c13aaa192618",
-   "source": "Al Jazeera",
-   "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-   "description": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
-   "date": "2026-11-07T08:45:36+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "5ecaf539145c",
-   "source": "Al Jazeera",
-   "title": "Doncic’s 53 points lift Lakers as Cavs top Sixers in LeBron James’s return",
-   "description": "LA Lakers star Doncic closed the first half with an astonishing shot from well beyond the half-court line.",
-   "url": "https://www.aljazeera.com/sports/2026/11/7/doncic-lakers-lebron-cavaliers-sixers-nba-cup-basketball?traffic_source=rss",
-   "date": "2026-11-07T08:10:01+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -952,16 +922,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9206653f4114",
-   "source": "France 24",
-   "title": "Paraguay: la tormenta de Ueno Bank arrastró a Santiago Peña, destituido, detenido y sustituido",
-   "description": "44 senadores votaron unánimemente a favor de la destitución del presidente, por sus vínculos con el Ueno Bank, cuyo cierre ha ocasionado una crisis política sin precedentes en el país. En una rápida sucesión, la Fiscalía ordenó la detención de Peña, la Policía Nacional ejecutó la",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261107-paraguay-la-tormenta-de-ueno-bank-arrastr%C3%B3-a-santiago-pe%C3%B1a-destituido-detenido-y-sustituido",
-   "date": "2026-11-07T03:07:40+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "6f81a094288e",
    "source": "The Guardian",
    "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
@@ -969,36 +929,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
    "date": "2026-11-07T03:07:01+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "bf3255a8e0b0",
-   "source": "France 24",
-   "title": "Presión sobre Pete Hegseth: ¿será una posible víctima de los resultados de las midterms?",
-   "description": "A medida que se aclaran los resultados de las elecciones de medio mandato en Estados Unidos, el futuro político de Pete Hegseth parece cada vez más incierto. Con el propio Donald Trump reconociendo que la guerra influyó en el resultado electoral, aumentan las presiones sobre uno ",
-   "url": "https://www.france24.com/es/video/20261107-presi%C3%B3n-sobre-pete-hegseth-ser%C3%A1-una-posible-v%C3%ADctima-de-los-resultados-de-las-midterms",
-   "date": "2026-11-07T03:04:04+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "1f782cf064e0",
-   "source": "France 24",
-   "title": "Kenia: condenan al líder sectario Paul Mackenzie a 200 años por llevar a sus fieles al ayuno extremo",
-   "description": "Más de tres años después del hallazgo de cientos de cuerpos en el bosque de Shakahola, la justicia de Kenia dictó una de las condenas más severas de su historia reciente. Un tribunal sentenció a Paul Mackenzie, líder de una secta evangélica, a 200 años de prisión por la muerte de",
-   "url": "https://www.france24.com/es/video/20261107-kenia-condenan-al-l%C3%ADder-sectario-paul-mackenzie-a-200-a%C3%B1os-por-llevar-a-sus-fieles-al-ayuno-extremo",
-   "date": "2026-11-07T03:01:52+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "abdd3b602b3b",
-   "source": "France 24",
-   "title": "Tensión en Tanzania tras la condena del líder opositor Tundu Lissu a cuatro años de cárcel",
-   "description": "Tras 577 días en prisión, el líder opositor tanzano Tundu Lissu recibió un veredicto que tomó por sorpresa a muchos observadores. Aunque el Alto Tribunal lo absolvió del cargo de traición al considerar que la Fiscalía no demostró que intentara intimidar al Gobierno, sí lo declaró",
-   "url": "https://www.france24.com/es/video/20261107-tensi%C3%B3n-en-tanzania-tras-la-condena-de-tundu-lissu-a-cuatro-a%C3%B1os-de-c%C3%A1rcel",
-   "date": "2026-11-07T03:00:00+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -1012,63 +942,13 @@
    "type": "Prensa"
   },
   {
-   "id": "7a0435c51235",
-   "source": "France 24",
-   "title": "¿Quién es Stephen Miller? El hombre elegido por Trump para dirigir su gabinete",
-   "description": "El presidente de Estados Unidos, Donald Trump, nombró a Stephen Miller como nuevo jefe de gabinete de la Casa Blanca en sustitución de Susie Wiles. Considerado uno de los asesores más cercanos al mandatario y uno de los principales arquitectos de su política migratoria de línea d",
-   "url": "https://www.france24.com/es/video/20261107-qui%C3%A9n-es-stephen-miller-el-hombre-elegido-por-trump-para-dirigir-su-gabinete",
-   "date": "2026-11-07T01:19:23+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "4eee9540be28",
-   "source": "France 24",
-   "title": "Comienzan los pagos a ahorristas de Ueno Bank en Paraguay bajo ciertos requisitos",
-   "description": "El Banco Central del Paraguay inició la devolución de depósitos a clientes de Ueno Bank, intervenido por problemas de solvencia. En esta primera etapa, los pagos están dirigidos a pequeños ahorristas que cumplen con los requisitos establecidos por las autoridades. La medida llega",
-   "url": "https://www.france24.com/es/video/20261107-comienzan-los-pagos-a-ahorristas-de-ueno-bank-en-paraguay-bajo-ciertos-requisitos",
-   "date": "2026-11-07T01:15:27+00:00",
-   "category": "Política monetaria",
-   "type": "Prensa"
-  },
-  {
-   "id": "828851b05b44",
-   "source": "France 24",
-   "title": "Informe desde Asunción: la caída de Peña desata celebraciones; Alliana se juramenta como presidente",
-   "description": "La crisis política en Paraguay sumó un nuevo capítulo tras la destitución de Santiago Peña por parte del Senado y su posterior detención. Mientras algunos manifestantes celebraban en las calles, otros anunciaron movilizaciones hacia la residencia del exmandatario. Fiscales señala",
-   "url": "https://www.france24.com/es/video/20261107-informe-desde-asunci%C3%B3n-la-ca%C3%ADda-de-pe%C3%B1a-desata-celebraciones-alliana-se-juramenta-como-presidente",
-   "date": "2026-11-07T01:12:35+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "b128e5236186",
-   "source": "France 24",
-   "title": "Informe desde Montevideo: así será la agenda del papa León XIV en Uruguay",
-   "description": "El papa León XIV inició en Uruguay su gira por Sudamérica con una agenda que incluye reuniones con autoridades, encuentros con la Iglesia local, una visita a Paysandú, actividades con el mundo de la educación y una vigilia de oración en el Estadio Centenario. También presidirá un",
-   "url": "https://www.france24.com/es/video/20261107-informe-desde-montevideo-as%C3%AD-ser%C3%A1-la-agenda-del-papa-le%C3%B3n-xiv-en-uruguay",
-   "date": "2026-11-07T01:11:04+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "a70981018bfa",
-   "source": "France 24",
-   "title": "Informe desde Asunción: manifestantes celebran la destitución de Santiago Peña en Paraguay",
-   "description": "La destitución de Santiago Peña desató escenas de celebración en las calles de Paraguay. Tras días de protestas y creciente presión ciudadana por la crisis vinculada a Ueno Bank, manifestantes salieron a las calles para exigir un juicio político al ahora expresidente. El Senado l",
-   "url": "https://www.france24.com/es/video/20261107-informe-desde-asunci%C3%B3n-manifestantes-celebran-la-destituci%C3%B3n-de-santiago-pe%C3%B1a-en-paraguay",
-   "date": "2026-11-07T01:09:42+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "3d247f19fbdb",
-   "source": "France 24",
-   "title": "Israel espera decisión de Herzog: Eisenkot dice tener ventaja para formar gobierno",
-   "description": "El presidente de Israel, Isaac Herzog, concluyó las consultas con los partidos y anunció que este domingo designará al candidato encargado de formar gobierno. Quien reciba el mandato tendrá 28 días, prorrogables por otros 14, para construir una coalición. Si fracasa, el encargo p",
-   "url": "https://www.france24.com/es/video/20261107-israel-espera-decisi%C3%B3n-de-herzog-eisenkot-dice-tener-ventaja-para-formar-gobierno",
-   "date": "2026-11-07T01:08:10+00:00",
-   "category": "Partidos políticos",
+   "id": "4c3e079df388",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver a CF Montreal de Alexis Sánchez ante Vancouver Whitecaps en la MLS?",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este sábado 7 de noviembre finaliza la fase regular de la MLS, instancia en la que C F Montreal de Alexis Sánchez disputará como anfitrión en el Saputo Stadium ante Vancouver Whitecaps , buscando cerrar dignamente una pésim",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/alexis-sanchez/cuando-y-donde-ver-a-cf-montreal-de-alexis-sanchez-ante-vancouver/2026-11-06/222121.html",
+   "date": "2026-11-07T01:21:21+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -1092,6 +972,16 @@
    "type": "Prensa"
   },
   {
+   "id": "d842807c920e",
+   "source": "Radio Cooperativa",
+   "title": "La formación de Universidad de Chile para recibir a Cobresal en Rancagua",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-formacion-de-universidad-de-chile-para-recibir-a-cobresal-en-rancagua/2026-11-06/215055.html",
+   "date": "2026-11-07T00:50:55+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
+  {
    "id": "5b02364acde7",
    "source": "CIPER Chile",
    "title": "Lo que calló Rabat",
@@ -1099,26 +989,6 @@
    "url": "https://www.ciperchile.cl/2026/11/06/lo-que-callo-rabat/?utm_source=rss&utm_medium=rss&utm_campaign=lo-que-callo-rabat",
    "date": "2026-11-07T00:25:02+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "0f714388dc09",
-   "source": "France 24",
-   "title": "¿Regulación o burbuja? Qué hay detrás de la caída de las tecnológicas luego de las midterms en EE. UU.",
-   "description": "",
-   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261107-regulaci%C3%B3n-o-burbuja-qu%C3%A9-hay-detr%C3%A1s-de-la-ca%C3%ADda-de-las-tecnol%C3%B3gicas-luego-de-las-midterms-en-ee-uu",
-   "date": "2026-11-07T00:24:49+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "26962da1a9bd",
-   "source": "France 24",
-   "title": "El fallido acuerdo de Trump sobre el diésel: ¿por qué los petroleros rusos no se dirigen a EE. UU.?",
-   "description": "Los primeros buques petroleros que debían entregar diésel ruso a Estados Unidos en virtud de un acuerdo entre el presidente Donald Trump y su homólogo ruso Vladimir Putin han cambiado de rumbo y ya no se dirigen a la costa estadounidense. Esto supone probablemente el fin de un pa",
-   "url": "https://www.france24.com/es/econom%C3%ADa-y-tecnolog%C3%ADa/20261107-el-fallido-acuerdo-de-trump-sobre-el-di%C3%A9sel-por-qu%C3%A9-los-petroleros-rusos-no-se-dirigen-a-ee-uu",
-   "date": "2026-11-07T00:00:11+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1152,16 +1022,6 @@
    "type": "Prensa"
   },
   {
-   "id": "18ce53a02424",
-   "source": "France 24",
-   "title": "En vivo: Detenido por la policía el presidente destituido Santiago Peña en Paraguay",
-   "description": "",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261106-paraguay-santiago-pe%C3%B1a-pide-una-pr%C3%B3rroga-para-defenderse-del-juicio-pol%C3%ADtico",
-   "date": "2026-11-06T23:37:33+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "9c792fedda92",
    "source": "Ex-Ante",
    "title": "Reportaje especial: Cómo funciona la mente política de Kast",
@@ -1179,16 +1039,6 @@
    "url": "https://www.theguardian.com/australia-news/2026/nov/07/when-a-single-vowel-stands-in-the-path-to-victory-the-stakes-could-not-be-higher-for-these-spelling-bee-champions",
    "date": "2026-11-06T23:06:10+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "cce3823de6a6",
-   "source": "France 24",
-   "title": "Informe desde Asunción: comienzan pagos a ahorristas de Ueno Bank",
-   "description": "El Banco Central del Paraguay (BCP) comenzó la devolución de depósitos a los clientes de Ueno Bank, intervenido por problemas de solvencia. En esta primera etapa, los pagos están dirigidos a ahorristas con depósitos de hasta 1.600 dólares siempre que no tengan deudas con la entid",
-   "url": "https://www.france24.com/es/video/20261106-informe-desde-asunci%C3%B3n-comienzan-pagos-a-ahorristas-de-ueno-bank",
-   "date": "2026-11-06T23:05:37+00:00",
-   "category": "Política monetaria",
    "type": "Prensa"
   },
   {
@@ -1239,16 +1089,6 @@
    "url": "https://www.ex-ante.cl/negocios/empresario-lamborghini-autos-de-lujo/",
    "date": "2026-11-06T22:04:26+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "f2c01cf28e8b",
-   "source": "France 24",
-   "title": "Stephen Miller, el arquitecto de las deportaciones masivas de Trump, es promovido tras la debacle electoral",
-   "description": "",
-   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261106-stephen-miller-el-arquitecto-de-las-deportaciones-masivas-de-trump-es-promovido-tras-la-debacle-electoral",
-   "date": "2026-11-06T21:48:40+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1332,16 +1172,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e1d52004cd05",
-   "source": "Río en Línea",
-   "title": "Alertan por altas temperaturas en sectores de Los Ríos durante el fin de semana",
-   "description": "La Dirección Meteorológica de Chile emitió un aviso por altas temperaturas que afectará a distintos sectores de la Región de Los Ríos durante este sábado 7 y domingo 8 de noviembre. De acuerdo con el pronóstico, las temperaturas máximas podrían alcanzar entre 24 y 26°C en el lito",
-   "url": "https://www.rioenlinea.cl/alertan-por-altas-temperaturas-en-sectores-de-los-rios-durante-el-fin-de-semana/",
-   "date": "2026-11-06T18:18:14+00:00",
-   "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
    "id": "b5df662bcc35",
    "source": "Radio Cooperativa",
    "title": "La formación de Colo Colo para ir a buscar el título ante Ñublense en Chillán",
@@ -1369,16 +1199,6 @@
    "url": "https://www.dw.com/es/niclas-füllkrug-el-goleador-que-volvió-a-encontrar-la-felicidad-en-bremen/a-79880024?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-06T17:17:00+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "63979618784a",
-   "source": "The Guardian",
-   "title": "Further bomb threats disrupt at least another 18 flights across Europe",
-   "description": "Media organisations in Ireland and UK also affected as apparently coordinated effort to cause chaos continues A fresh wave of bomb threats disrupted air traffic across Europe on Friday but the affected aircraft landed safely and searches revealed no explosive devices. The latest ",
-   "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
-   "date": "2026-11-06T17:14:31+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1502,14 +1322,34 @@
    "type": "Prensa"
   },
   {
-   "id": "1f21db98b471",
-   "source": "Deutsche Welle",
-   "title": "Europa señala a TikTok y exige que cambie su diseño",
-   "description": "Bruselas acusa a la red social de crear con su algoritmo \"madrigueras\" dañinas para la salud mental de los usuarios y de incumplir así la Ley de Servicios Digitales.",
-   "url": "https://www.dw.com/es/europa-señala-a-tiktok-y-exige-que-cambie-su-diseño/a-79875544?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-06T12:09:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
+   "id": "6dc6acddc05b",
+   "source": "Naciones Unidas",
+   "title": "Frente a la desinformación, hay que reconquistar la confianza en la ciencia",
+   "description": "La agencia de la saludo lanza el movimiento \"Juntos por la ciencia y la salud\", después de que la encuesta global más amplia hasta la fecha, con 140.000 personas en 140 países, revele que, aunque más del 70 % sigue creyendo en la ciencia, la confianza ha caído desde 2018, sobre t",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542150",
+   "date": "2026-11-06T12:00:00+00:00",
+   "category": "Sociedad",
+   "type": "Oficial"
+  },
+  {
+   "id": "95c92900955e",
+   "source": "Naciones Unidas",
+   "title": "COP31, Sudán, Ucrania y precios de los alimentos… las noticias del viernes",
+   "description": "La Conferencia sobre el Clima, la COP31, arranca la próxima semana en Turquía con una advertencia: las ciudades necesitan 4,5 billones de dólares al año para adaptarse al clima, pero solo reciben una quinta parte. Baja el precio de los alimentos, pero el azúcar se dispara, mientr",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542149",
+   "date": "2026-11-06T12:00:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Oficial"
+  },
+  {
+   "id": "9bc66d26a1fc",
+   "source": "Naciones Unidas",
+   "title": "En el Ártico y a la deriva, una expedición científica lanza un llamado a los líderes mundiales: Escuchen a la ciencia",
+   "description": "Atrapados voluntariamente en el hielo del Ártico, un grupo de científicos observa cómo se transforma una de las regiones más frágiles del planeta. Mientras el hielo retrocede y los petroleros ganan terreno, sus hallazgos llegan hasta el Secretario General de la ONU, en una conver",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542147",
+   "date": "2026-11-06T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
   },
   {
    "id": "5f3cd9ced040",
@@ -1702,6 +1542,26 @@
    "type": "Prensa"
   },
   {
+   "id": "88677ad93ff3",
+   "source": "Naciones Unidas",
+   "title": "Agua, Cumbre Iberoamericana y violencia sexual en el Reino Unido: las noticias del jueves",
+   "description": "Los ataques contra los sistemas de agua en las guerras se han triplicado en cinco años y dejan a millones de personas sin acceso a agua potable, según UNICEF. La Cumbre Iberoamericana arranca en Madrid con la recomendación de la CEPAL a América Latina de integrarse mejor para no ",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542145",
+   "date": "2026-11-05T12:00:00+00:00",
+   "category": "Conflictos armados y seguridad internacional",
+   "type": "Oficial"
+  },
+  {
+   "id": "562c1bffd28c",
+   "source": "Naciones Unidas",
+   "title": "COP31: ¿Qué está en juego este año en la cumbre climática de la ONU?",
+   "description": "Las energías renovables avanzan a un ritmo sin precedentes, pero gran parte del mundo sigue sin tener los recursos necesarios para aprovecharlas. La financiación y el cumplimiento de los compromisos climáticos estarán en el centro de una cumbre que deberá demostrar que los acuerd",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542143",
+   "date": "2026-11-05T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
    "id": "fdc1e1a60dcb",
    "source": "BBC Mundo",
    "title": "4 datos que muestran el peso del voto latino en la \"ola azul\" que llevó a los demócratas a arrasar en las elecciones de EE.UU.",
@@ -1882,6 +1742,36 @@
    "type": "Académica"
   },
   {
+   "id": "5b013aac22e2",
+   "source": "Naciones Unidas",
+   "title": "Un 25% de los adolescentes no hace suficiente ejercicio",
+   "description": "Uno de cada cuatro adolescentes, unos 240 millones, no realiza 60 minutos de actividad física ningún día de la semana, y las niñas se quedan más atrás: el 28 % no tiene ningún día activo, frente al 22 % de los niños. Durante 15 años, el mundo no ha logrado casi ningún avance. La ",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542142",
+   "date": "2026-11-04T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "9d8701d1c4e7",
+   "source": "Naciones Unidas",
+   "title": "Clima y salud, clima y adaptación, el precio del petróleo… las noticias del miércoles",
+   "description": "El mundo \"no está preparado\" para adaptarse al cambio climático: los países en desarrollo necesitarán 305.000 millones de dólares anuales para 2035, pero la financiación pública internacional solo alcanzó entre 28.200 y 31.700 millones en 2024. La OMS advierte de que seis medidas",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542141",
+   "date": "2026-11-04T12:00:00+00:00",
+   "category": "Sociedad",
+   "type": "Oficial"
+  },
+  {
+   "id": "39aef2178c95",
+   "source": "Naciones Unidas",
+   "title": "El mundo no está preparado para la adaptación climática: la financiación se queda muy corta",
+   "description": "Los países en desarrollo necesitarán unos 305.000 millones de dólares anuales para 2035 para adaptarse al cambio climático, pero la financiación pública internacional solo alcanzó entre 28.200 y 31.700 millones en 2024 y, aunque se triplique, cubrirá como máximo el 29 % de las ne",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542139",
+   "date": "2026-11-04T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
    "id": "4860a8cffffa",
    "source": "CIPER Chile",
    "title": "Reforma al INDH: el Leviatán sin contrapesos",
@@ -1950,6 +1840,26 @@
    "date": "2026-11-03T12:11:00+00:00",
    "category": "",
    "type": "Prensa"
+  },
+  {
+   "id": "5de736b036ba",
+   "source": "Naciones Unidas",
+   "title": "La igualdad de género beneficia a las empresas: ¿por qué algunas dan marcha atrás?",
+   "description": "La igualdad de género y la diversidad no son solo cuestiones sociales: también constituyen un activo económico para las empresas. Si bien las mujeres acceden cada vez más a puestos de alta responsabilidad, este progreso sigue siendo frágil y requiere nuevos compromisos para no pe",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542138",
+   "date": "2026-11-03T12:00:00+00:00",
+   "category": "Empresas y mercados",
+   "type": "Oficial"
+  },
+  {
+   "id": "5172b354ae74",
+   "source": "Naciones Unidas",
+   "title": "Ébola, brecha de género, brecha digital… las noticias del martes",
+   "description": "Con más de 10.000 casos confirmados y las 5000 muertes, la respuesta al brote de ébola en la República Democrática del Congo sigue yendo por detrás de la transmisión. Las mujeres solo ocupan el 30 % de los puestos directivos en el mundo. El 76 % de la población mundial usa intern",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542136",
+   "date": "2026-11-03T12:00:00+00:00",
+   "category": "África",
+   "type": "Oficial"
   },
   {
    "id": "ad1b23c7421b",
@@ -2022,6 +1932,26 @@
    "type": "Oficial"
   },
   {
+   "id": "c2b3519c2e63",
+   "source": "Naciones Unidas",
+   "title": "Seis de cada siete asesinatos de periodistas quedan impunes",
+   "description": "Los territorios palestinos ocupados por Israel registraron el mayor número de asesinatos en el bienio 2024-2025, con 62 muertes, dentro de la región de los Estados Árabes, que sumó 97 casos, seguida de América Latina y el Caribe (37), Asia y el Pacífico (34), Europa Central y Ori",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542134",
+   "date": "2026-11-02T12:00:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Oficial"
+  },
+  {
+   "id": "c77b56fa9785",
+   "source": "Naciones Unidas",
+   "title": "Periodistas asesinados, desinformación sobre migrantes, Ucrania, Sáhara Occidental… las noticias del lunes",
+   "description": "En 2024-2025, fueron asesinados 189 periodistas. La desinformación amplificada por la inteligencia artificial está convirtiendo a los migrantes en \"objetivos\" de odio y violencia. Más de 400 evacuados de Oleshky, en Ucrania, tras un breve alto el fuego, reciben ayuda humanitaria.",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542133",
+   "date": "2026-11-02T12:00:00+00:00",
+   "category": "Sociedad",
+   "type": "Oficial"
+  },
+  {
    "id": "ceed82e26ff0",
    "source": "BBC Mundo",
    "title": "Qué es la \"cara de ferritina\" y por qué no es tan sencillo detectar la carencia de hierro con solo observar el rostro",
@@ -2062,6 +1992,56 @@
    "type": "Académica"
   },
   {
+   "id": "7803b320b75c",
+   "source": "Naciones Unidas",
+   "title": "COP17: Los países acuerdan una hoja de ruta para acelerar la protección de la biodiversidad",
+   "description": "La cumbre de biodiversidad de la ONU concluyó en Armenia con una hoja de ruta para acelerar el cumplimiento de los objetivos mundiales de protección de la naturaleza antes de 2030. Los países anunciaron cerca de 2000 millones de dólares en nueva financiación y acordaron reforzar ",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542131",
+   "date": "2026-11-01T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "9805bf19c0eb",
+   "source": "Naciones Unidas",
+   "title": "La IA está cambiando cómo pensamos: ¿Nos daremos cuenta a tiempo?",
+   "description": "Es muy tentador ahorrarle al cerebro el pensar del todo\". Solo entre el cinco y el diez por ciento de los trabajadores usa la IA para liberar capacidad mental; la mayoría externaliza también el análisis y la decisión. \"Mantén tu cerebro en el juego\", pide un neurocientífico, que ",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542129",
+   "date": "2026-11-01T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "9ce2a27b2cf8",
+   "source": "Naciones Unidas",
+   "title": "Desconectarse para conectar: la juventud argentina debate los retos de la era digital",
+   "description": "En Buenos Aires, jóvenes debatieron sobre entornos digitales en el marco de la iniciativa Círculos de la Paz de Naciones Unidas. Desinformación, el impacto de las redes sociales en la salud mental y crecer en la era de la inteligencia artificial fueron los principales temas.",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542125",
+   "date": "2026-11-01T12:00:00+00:00",
+   "category": "Sociedad",
+   "type": "Oficial"
+  },
+  {
+   "id": "700eba664da4",
+   "source": "Naciones Unidas",
+   "title": "Sáhara Occidental: La ONU reafirma su compromiso con una solución pacífica tras el fin de la misión de paz MINURSO",
+   "description": "La misión de paz de Naciones Unidas en el Sáhara Occidental concluyó sus operaciones después de que el Consejo de Seguridad no lograra un acuerdo para renovar su mandato. El Secretario General reafirmó el derecho del pueblo saharaui a la libre determinación, pidió máxima moderaci",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542130",
+   "date": "2026-11-01T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "aedd2439cec9",
+   "source": "Naciones Unidas",
+   "title": "Cambio climático: Nueva York se protege elevando un parque para contener la subida del nivel del mar",
+   "description": "Catorce años después del huracán Sandy, Nueva York eleva hasta tres metros el East River Park y construye muros y compuertas ocultas para proteger a más de 110.000 residentes, con una inversión de 2000 millones de dólares. La ONU advierte de que 770 millones de personas viven a m",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542118",
+   "date": "2026-10-31T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
    "id": "628ef5c0a258",
    "source": "Servicio Electoral",
    "title": "Servel participó en encuentro sobre preservación y acceso a archivos políticos, electorales y parlamentarios",
@@ -2080,6 +2060,26 @@
    "date": "2026-10-30T12:54:17+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
+  },
+  {
+   "id": "d93633cc86e0",
+   "source": "Naciones Unidas",
+   "title": "Gaza, Colombia, VIH, refugiados… Las noticias del viernes",
+   "description": "Gaza: la expansión de las posiciones israelíes aumenta el temor a una limpieza étnica. El Consejo de Seguridad prorroga un año más la misión de verificación de la ONU en Colombia. Barbados elimina la transmisión del VIH de madre a hijo. Ucrania, Siria, Líbano, Afganistán: ACNUR s",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542127",
+   "date": "2026-10-30T12:00:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Oficial"
+  },
+  {
+   "id": "3079a5233b23",
+   "source": "Naciones Unidas",
+   "title": "Gaza: la expansión de las posiciones israelíes reaviva los temores de una \"limpieza étnica\"",
+   "description": "Israel pretende ampliar su despliegue militar al 70 % del territorio de Gaza, mientras empuja a los palestinos hacia zonas cada vez más pequeñas y ataca campamentos de desplazados, denuncia ONU Derechos Humanos.",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542126",
+   "date": "2026-10-30T12:00:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Oficial"
   },
   {
    "id": "eff8fd1fc497",
@@ -2130,6 +2130,56 @@
    "date": "2026-10-29T12:36:43+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
+  },
+  {
+   "id": "5dd86bd75429",
+   "source": "Naciones Unidas",
+   "title": "La naturaleza está resurgiendo, pero la financiación para restaurarla debe cuadruplicarse",
+   "description": "No todo es destrucción. Unos 252 millones de hectáreas en 149 países —una superficie del tamaño de Kazajistán— están en restauración, y se han creado más de un millón de empleos verdes, pero la financiación anual debe cuadruplicarse, de 64.000 a 296.000 millones de dólares, para ",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542123",
+   "date": "2026-10-29T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "2a5f30b1dd02",
+   "source": "Naciones Unidas",
+   "title": "Trabajo de cuidados, seguridad marítima, restauración de la naturaleza, contaminación… Las noticias del jueves",
+   "description": "Crece la demanda de cuidados de larga duración en América, al tiempo que la población envejece. Las nuevas tecnologías plantean oportunidades y riesgos para la seguridad marítima, advierte la ONU. La naturaleza se recupera, pero la financiación para restaurarla debe cuadruplicars",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542122",
+   "date": "2026-10-29T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "eb39f68d9424",
+   "source": "Naciones Unidas",
+   "title": "En el mar, la IA trastoca las reglas de la guerra",
+   "description": "\"El arma decisiva de la próxima década no será un misil hipersónico, será el algoritmo\", advierte el periodista Fareed Zakaria ante el Consejo de Seguridad. El diagnóstico supera con creces los desafíos militares. Más del 90 % del comercio mundial de mercancías transita por los m",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542121",
+   "date": "2026-10-29T12:00:00+00:00",
+   "category": "Conflictos armados y seguridad internacional",
+   "type": "Oficial"
+  },
+  {
+   "id": "33f024b5b622",
+   "source": "Naciones Unidas",
+   "title": "Haití: la inseguridad alimentaria en camino de alcanzar niveles récord",
+   "description": "Haití se enfrenta a una inseguridad alimentaria récord: 6,35 millones de personas en situación de crisis o emergencia entre marzo y junio de 2027, medio millón más que en el mismo período del año anterior, y casi dos millones en nivel de \"urgencia\". La ONU necesita 78 millones de",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542120",
+   "date": "2026-10-29T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "f3206b98c8dd",
+   "source": "Naciones Unidas",
+   "title": "Crece la demanda de cuidados de larga duración en América, al tiempo que la población envejece",
+   "description": "Para 2050, 306 millones de personas en las Américas tendrán 60 años o más, pero solo 15 de los 35 Estados cuentan con un sistema formal y públicamente financiado de cuidados de larga duración, pese a que el 88 % de los países ha incluido el tema en su legislación.",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542119",
+   "date": "2026-10-29T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
   },
   {
    "id": "a171bd9fbe8a",
@@ -2192,6 +2242,46 @@
    "type": "Académica"
   },
   {
+   "id": "e2762002d89b",
+   "source": "Naciones Unidas",
+   "title": "Al océano le cuesta cada vez más protegernos del CO₂",
+   "description": "El aumento de las temperaturas, junto con las alteraciones de la química, la circulación y los ecosistemas marinos, reduce la capacidad del océano para absorber y almacenar carbono. El resultado: una mayor parte del CO₂ permanece en la atmósfera, lo que alimenta aún más el calent",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542117",
+   "date": "2026-10-28T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "8ea97edb1ac0",
+   "source": "Naciones Unidas",
+   "title": "Cambio climático: En 2023, el calor mató a 700.000 personas",
+   "description": "La falta de coraje para afrontar la crisis climática sigue dañando y matando a personas en todos los países, con un récord estimado de 710.000 muertes globales por calor en 2023, advirtió este miércoles un informe con colaboración de la ONU. Por primera vez, más de siete de cada ",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542116",
+   "date": "2026-10-28T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "098bfd586976",
+   "source": "Naciones Unidas",
+   "title": "Cuba, muertes por calor, Venezuela, Nicaragua… Las noticias del miércoles",
+   "description": "La Asamblea General pide el fin del embargo a Cuba (y ya van 34 veces). Un informe respaldado por la OMS denuncia 710.000 muertes por calor en 2023. Expertos piden a Venezuela levantar los bloqueos a internet y respetar la libertad de expresión. Expertos denuncian una ola de desa",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542114",
+   "date": "2026-10-28T12:00:00+00:00",
+   "category": "América Latina",
+   "type": "Oficial"
+  },
+  {
+   "id": "28bf96083f15",
+   "source": "Naciones Unidas",
+   "title": "La ONU vuelve a rechazar el embargo de Estados Unidos a Cuba",
+   "description": "Con esta son 34 ocasiones desde 1992 que la Asamblea General, el órgano más representativo de la diplomacia internacional, rechaza la medida unilateral. La resolución reitera la exigencia internacional de levantar el bloqueo económico, comercial y financiero impuesto por Estados ",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542113",
+   "date": "2026-10-28T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
    "id": "afba3ee83890",
    "source": "Estudios Públicos (CEP)",
    "title": "Cuidado con un castigo a crecer",
@@ -2200,6 +2290,26 @@
    "date": "2026-10-27T20:53:50+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
+  },
+  {
+   "id": "9b3415ad6b01",
+   "source": "Naciones Unidas",
+   "title": "El embargo de Estados Unidos a Cuba vuelve a la ONU (que ya lo ha rechazado 33 veces)",
+   "description": "Un debate cargado de alta tensión diplomática se abrió este martes para dirimir una vez más la cuestión del bloqueo económico que el país norteamericano impuso a Cuba en 1960. Mañana miércoles, 28 de octubre, se celebrará la votación.",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542112",
+   "date": "2026-10-27T12:00:00+00:00",
+   "category": "Elecciones",
+   "type": "Oficial"
+  },
+  {
+   "id": "e825ecb7a4c9",
+   "source": "Naciones Unidas",
+   "title": "Emisiones, Ucrania, ébola, trabajo doméstico… Las noticias del martes",
+   "description": "Los niveles récord de dióxido de carbono nos afectarán durante siglos. Ucrania: Los bombardeos amenazan con dejar a la población otro invierno sin calefacción. La OMS inicia un ensayo para comprobar si las vacunas protegen contra el ébola. El 83% de los trabajadores domésticos de",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542110",
+   "date": "2026-10-27T12:00:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Oficial"
   },
   {
    "id": "82686ad6d885",
