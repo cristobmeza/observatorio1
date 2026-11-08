@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-08T05:43:30.898320+00:00",
+ "updated": "2026-11-08T06:48:46.898123+00:00",
  "items": [
+  {
+   "id": "e687b8530d26",
+   "source": "Al Jazeera",
+   "title": "There is reason to hope that the Democrats might deliver this time",
+   "description": "With a decisive rejection of Trumpism, US voters have given Democrats one more chance — they better not blow it.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/8/there-is-reason-to-hope-that-the-democrats-might-deliver-this-time?traffic_source=rss",
+   "date": "2026-11-08T06:39:33+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "b333a0d41aa8",
+   "source": "The Guardian",
+   "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+   "description": "Suspect was influenced by far-right ideology and held ‘ultra-nationalistic’ views, says Polish interior minister Six people have been killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an ",
+   "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+   "date": "2026-11-08T06:06:46+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "269c342b9c37",
+   "source": "The Guardian",
+   "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+   "description": "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurence Alex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week wh",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+   "date": "2026-11-08T06:00:33+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a99c5b98005c",
+   "source": "The Guardian",
+   "title": "Environmentalists criticise choice of Earthshot prize venue owned by fossil fuel firm",
+   "description": "Mumbai facility is part of Reliance Industries, owner of world’s biggest oil refinery and funder of controversial mega-zoo The Prince of Wales’s Earthshot prize will host its forthcoming annual awards ceremony at a venue owned by the billionaire Ambani family conglomerate, drawin",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai",
+   "date": "2026-11-08T06:00:33+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "02b82e709666",
+   "source": "The Guardian",
+   "title": "Does Andy Burnham’s pivot from press to social media put scrutiny at risk?",
+   "description": "A lifestyle podcast or brief TV clip is less taxing than a full press conference – but No 10 insists the PM is not ducking accountability In an interview this week Andy Burnham said he believed the traditional media was less relevant and the world was “not like that any more”. Bu",
+   "url": "https://www.theguardian.com/politics/2026/nov/08/andy-burnham-social-media-traditional-media-scrutiny-at-risk",
+   "date": "2026-11-08T06:00:32+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "3735b1faac63",
    "source": "Al Jazeera",
@@ -842,16 +892,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b333a0d41aa8",
-   "source": "The Guardian",
-   "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
-   "description": "Suspect was influenced by far-right ideology and held ‘ultra-nationalistic’ views, says Polish interior minister Six people have been killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an ",
-   "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-   "date": "2026-11-07T21:19:01+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "5dff326e2181",
    "source": "Radio Cooperativa",
    "title": "La UC y Limache chocan en un duelo importante por las copas internacionales",
@@ -1082,16 +1122,6 @@
    "type": "Prensa"
   },
   {
-   "id": "fb4e22c17e8b",
-   "source": "Al Jazeera",
-   "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
-   "description": "Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
-   "date": "2026-11-07T19:10:34+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "0b86cae0e275",
    "source": "The Guardian",
    "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
@@ -1222,16 +1252,6 @@
    "type": "Prensa"
   },
   {
-   "id": "42aba9808dd1",
-   "source": "The Guardian",
-   "title": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
-   "description": "Gympanzees near Bristol will be the first UK site of its type, catering for children unable to use regular playgrounds It has been over a decade since Stephanie Wheen set out to create the UK’s first play and leisure centre specifically designed for disabled children. Over the pa",
-   "url": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children",
-   "date": "2026-11-07T15:00:13+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "1c11df959d62",
    "source": "Ex-Ante",
    "title": "Milton Friedman: El campeón del capitalismo",
@@ -1349,16 +1369,6 @@
    "url": "https://www.bbc.com/mundo/articles/c6reyrrp39qqo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-07T09:36:02+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "3c6954bea67c",
-   "source": "The Guardian",
-   "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-   "description": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’ The Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK. Campaign gr",
-   "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-   "date": "2026-11-07T09:15:35+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -2530,16 +2540,6 @@
    "date": "2026-10-25T12:49:16+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "f19392cc3606",
-   "source": "The Guardian",
-   "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
-   "description": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete isolation, her son has sa",
-   "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
-   "date": "2026-10-25T02:00:49+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
   },
   {
    "id": "aceaa3f9248a",
