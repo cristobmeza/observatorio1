@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-08T07:55:24.393244+00:00",
+ "updated": "2026-11-08T08:44:48.645445+00:00",
  "items": [
+  {
+   "id": "db8c6aa7d8eb",
+   "source": "Al Jazeera",
+   "title": "US military attacks cargo ship in the Gulf of Oman",
+   "description": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
+   "date": "2026-11-08T08:24:37+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "1f2e4cc50d78",
+   "source": "Al Jazeera",
+   "title": "Mapping how France’s protest wave spread across Europe",
+   "description": "More than 1,700 cost-of-living demonstrations have hit 31 European countries since mid-September, led by France.",
+   "url": "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss",
+   "date": "2026-11-08T08:18:38+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e996e9d29793",
+   "source": "Al Jazeera",
+   "title": "As AI data centres guzzle energy, can we harness their wasted heat?",
+   "description": "The rapid development of AI is draining our resources, but engineers have found a way to use heat lost to the air.",
+   "url": "https://www.aljazeera.com/features/2026/11/8/as-ai-data-centres-guzzle-energy-can-we-harness-waste-heat?traffic_source=rss",
+   "date": "2026-11-08T08:17:12+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "1b373421bdc8",
+   "source": "The Guardian",
+   "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
+   "description": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to “It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is e",
+   "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+   "date": "2026-11-08T08:00:36+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "dd3f73369828",
+   "source": "The Guardian",
+   "title": "Reintroduction of white-tailed eagles puts seabird colonies at risk of wipeout, say experts",
+   "description": "Naturalists divided over potential impact of proposals to increase number of wild raptors in England and Wales White-tailed eagles reintroduced into England and Wales imperil endangered seabird populations and risk wiping out some colonies, ecologists and conservationists are war",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales",
+   "date": "2026-11-08T08:00:35+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "b05c085194d7",
+   "source": "Al Jazeera",
+   "title": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
+   "description": "The interceptions come as the Houthis report 33 people killed in a coalition air attack on a village near Sanaa.",
+   "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+   "date": "2026-11-08T07:40:07+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "e65d1e57168b",
    "source": "The Guardian",
@@ -54,8 +114,8 @@
   {
    "id": "b333a0d41aa8",
    "source": "The Guardian",
-   "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
-   "description": "Suspect was influenced by far-right ideology and held ‘ultra-nationalistic’ views, says Polish interior minister Six people have been killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an ",
+   "title": "Briton among six dead after gunman opens fire in Kraków market square",
+   "description": "Three more people found dead at home of suspect, who minister says held ‘ultra-nationalistic’ views Six people have been killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an “act of terro",
    "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
    "date": "2026-11-08T06:06:46+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -1052,16 +1112,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d18dba08b504",
-   "source": "Al Jazeera",
-   "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
-   "description": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
-   "date": "2026-11-07T20:10:38+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "92fa7a9baae8",
    "source": "France 24",
    "title": "¿Ola de investigaciones a la familia Trump? Lo que plantean los demócratas",
@@ -1082,16 +1132,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cccf8f32c30a",
-   "source": "Al Jazeera",
-   "title": "Paraguay’s ousted president appears before prosecutors after impeachment",
-   "description": "Former Paraguayan President Santiago Pena has appeared before prosecutors.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-paraguay-former-president-detained-appears?traffic_source=rss",
-   "date": "2026-11-07T20:08:47+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "f6106f09f4a3",
    "source": "The Guardian",
    "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
@@ -1099,26 +1139,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
    "date": "2026-11-07T19:49:39+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "ecceb0ac43b7",
-   "source": "Al Jazeera",
-   "title": "Masked protesters set off firecrackers and block roads in Albania",
-   "description": "Police used water cannons to disperse masked protesters in Albania’s capital, Tirana.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
-   "date": "2026-11-07T19:49:19+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "f5118e682ddb",
-   "source": "Al Jazeera",
-   "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
-   "description": "Trump lashed out at Democrats on Truth Social days after the party won control of Congress.",
-   "url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
-   "date": "2026-11-07T19:42:46+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1262,16 +1282,6 @@
    "type": "Prensa"
   },
   {
-   "id": "31ac56fd18c6",
-   "source": "The Guardian",
-   "title": "Vetting candidates is a tricky process but Reform can’t seem to get it right",
-   "description": "Charges against party members and off-piste remarks highlight problems brought about by rapid expansion Speaking to reporters after unveiling his new defence spokesperson this week, Nigel Farage’s jovial and upbeat mood suddenly switched. Why, he was asked, was a Reform UK counci",
-   "url": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
-   "date": "2026-11-07T15:00:14+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "1c11df959d62",
    "source": "Ex-Ante",
    "title": "Milton Friedman: El campeón del capitalismo",
@@ -1319,16 +1329,6 @@
    "url": "https://www.dw.com/es/bombardeos-de-arabia-saudita-dejan-más-de-20-muertos-en-yemen-según-hutíes/a-79885184?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-07T13:12:00+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "dceb24428458",
-   "source": "The Guardian",
-   "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-   "description": "Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and bridge over the Dnipro Volodymyr Zelenskyy has accused Russia of trying to “plunge Kyiv and the entire country into a blackout”, after a major attack overnight on energy infrastructure in t",
-   "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-   "date": "2026-11-07T13:03:03+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
