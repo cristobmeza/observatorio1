@@ -1,6 +1,156 @@
 {
- "updated": "2026-11-08T22:31:18.662707+00:00",
+ "updated": "2026-11-08T23:29:47.850484+00:00",
  "items": [
+  {
+   "id": "ebc3c788fec6",
+   "source": "France 24",
+   "title": "El papa cierra su visita a Uruguay con un mensaje contra la violencia de género en Latinoamérica",
+   "description": "El papa León XIV exhortó este domingo 8 de noviembre a los hombres a respetar a sus esposas al concluir la primera etapa de su gira por Latinoamérica. En los últimos cinco años, la región registró casi 20.000 casos de mujeres asesinadas, la mayoría a manos de su pareja o expareja",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261108-el-papa-cierra-su-visita-a-uruguay-con-un-mensaje-contra-la-violencia-de-g%C3%A9nero-en-latinoam%C3%A9rica",
+   "date": "2026-11-08T23:12:35+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "6df833ac8ffa",
+   "source": "Radio Cooperativa",
+   "title": "Unión La Calera venció a Huachipato y tomó aire en la lucha por la permanencia",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Unión La Calera consiguió una victoria fundamental en su lucha por evitar el descenso tras superar por 1-0 a Huachipato en el Estadio \"Nicolás Chahuán\", resultado que le permitió abandonar provisoriamente el último lugar de",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/union-la-calera/union-la-calera-vencio-a-huachipato-y-tomo-aire-en-la-lucha-por-la/2026-11-08/201001.html",
+   "date": "2026-11-08T23:10:01+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "ea148ab44dcf",
+   "source": "Radio Cooperativa",
+   "title": "Iván Román: Estoy feliz por levantar una copa en el club más grande de Chile",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ivan-roman-estoy-feliz-por-levantar-una-copa-en-el-club-mas-grande-de/2026-11-08/200406.html",
+   "date": "2026-11-08T23:04:06+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "5dee5c498663",
+   "source": "France 24",
+   "title": "Informe desde Punta del Este: lo que dejó la visita del papa León XIV a Uruguay",
+   "description": "El papa León XIV concluyó su histórica visita de tres días a Uruguay, el país más laico de América Latina, antes de partir hacia Argentina como parte de su gira sudamericana. Durante su paso por el país el sumo pontífice felicitó a la nación por el valor democrático e hizo menció",
+   "url": "https://www.france24.com/es/video/20261108-informe-desde-punta-del-este-lo-que-dej%C3%B3-la-visita-del-papa-le%C3%B3n-xiv-a-uruguay",
+   "date": "2026-11-08T22:58:33+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "10310815d122",
+   "source": "Radio Cooperativa",
+   "title": "Gedeón Díaz se ilusiona con jugar la Libertadores: Me puedo mostrar más",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/gedeon-diaz-se-ilusiona-con-jugar-la-libertadores-me-puedo-mostrar-mas/2026-11-08/195706.html",
+   "date": "2026-11-08T22:57:06+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "1afdb852cae7",
+   "source": "Radio Cooperativa",
+   "title": "Joaquín Sosa: Estoy enojado por perderme el partido más importante",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/joaquin-sosa-estoy-enojado-por-perderme-el-partido-mas-importante/2026-11-08/195459.html",
+   "date": "2026-11-08T22:54:59+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "4d9b949979ad",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] Colo Colo repasó a Vero Bianchi y Mandreva: \"La historia no cambia\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Tras consagrarse campeón de la Liga de Primera 2026, Colo Colo le dio un inesperado repaso a la periodista Verónica Bianchi y el streamer Mandreva , y hasta al liquidador de Sartor, Eduardo Godoy, por sus palabras a lo larg",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-colo-colo-repaso-a-vero-bianchi-y-mandreva-la-historia-no/2026-11-08/194857.html",
+   "date": "2026-11-08T22:48:57+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "3f9c37c263a0",
+   "source": "Radio Cooperativa",
+   "title": "Morón: Ser campeón no es algo del último partido, sino que de todo un año",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/moron-ser-campeon-no-es-algo-del-ultimo-partido-sino-que-de-todo-un/2026-11-08/194748.html",
+   "date": "2026-11-08T22:47:48+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "1640509bde1d",
+   "source": "Deutsche Welle",
+   "title": "Trump considera “altamente improbable” que se reanude la guerra con Irán",
+   "description": "El mandatario dijo que, si bien depende de que Teherán firme un acuerdo sólido, solo ordenaría retomar los bombardeos “si fuera necesario”.",
+   "url": "https://www.dw.com/es/trump-considera-altamente-improbable-que-se-reanude-la-guerra-con-irán/a-79894761?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-08T22:43:00+00:00",
+   "category": "Conflictos armados y seguridad internacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "ebbf6fdc5580",
+   "source": "Radio Cooperativa",
+   "title": "Pastrán reafirmó su intención de seguir en Colo Colo: Me gustaría quedarme",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/pastran-reafirmo-su-intencion-de-seguir-en-colo-colo-me-gustaria/2026-11-08/194259.html",
+   "date": "2026-11-08T22:42:59+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "2875558dc19e",
+   "source": "Al Jazeera",
+   "title": "Lopez double fires Barcelona to win at Atletico Madrid",
+   "description": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
+   "url": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+   "date": "2026-11-08T22:42:12+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "92f005937bb1",
+   "source": "Radio Cooperativa",
+   "title": "Papa León XIV y Javier Milei se reunieron en la Casa Rosada en el inicio de su visita a Argentina",
+   "description": "El papa León XIV y el presidente de Argentina , Javier Milei , mantuvieron este domingo una reunión en la Casa Rosada , sede del Ejecutivo argentino, en el primer día de la visita apostólica al país suramericano. El papa fue recibido a las puertas de la Casa Rosada por Milei , tr",
+   "url": "https://www.cooperativa.cl/noticias/mundo/vaticano/papa-leon-xiv/papa-leon-xiv-y-javier-milei-se-reunieron-en-la-casa-rosada-en-el-inicio/2026-11-08/193105.html",
+   "date": "2026-11-08T22:31:05+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "dde84d10bed8",
+   "source": "The Guardian",
+   "title": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
+   "description": "£40m scheme in England aims to keep most vulnerable people well at home and avoid unnecessary hospital stays Hundreds of thousands of vulnerable patients in England are to receive extra support from their GP as part of a £40m drive aimed at keeping them out of hospital this winte",
+   "url": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
+   "date": "2026-11-08T22:30:51+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "409b8bebebd1",
+   "source": "BBC Mundo",
+   "title": "Nvidia abre una investigación sobre la relación de su director ejecutivo con una presunta espía china",
+   "description": "Jensen Huang admitió haber sido \"infiel\" a su esposa y afirmó que cooperará con la investigación de seguridad.",
+   "url": "https://www.bbc.com/mundo/articles/ck20wv99nd81o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T22:20:28+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "8b36561b07b0",
+   "source": "Radio Cooperativa",
+   "title": "Una multitud de hinchas colmó Plaza Italia para celebrar la estrella 35 de Colo Colo",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/una-multitud-de-hinchas-colmo-plaza-italia-para-celebrar-la-estrella-35/2026-11-08/191931.html",
+   "date": "2026-11-08T22:19:31+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
   {
    "id": "ac9795391e29",
    "source": "Al Jazeera",
@@ -15,7 +165,7 @@
    "id": "2deba966e0d3",
    "source": "Al Jazeera",
    "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
-   "description": "Jensen Huang confirmed to staff reports he had been having an affair with a woman accused of spying for China.",
+   "description": "Huang has confirmed he had been having an affair with a woman accused of spying for China.",
    "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
    "date": "2026-11-08T22:16:10+00:00",
    "category": "China y Asia",
@@ -48,16 +198,6 @@
    "description": "",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/copa-al-cielo-y-fiesta-alba-el-festejo-de-colo-colo-como-campeon-de-la/2026-11-08/185227.html",
    "date": "2026-11-08T21:52:27+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "e3a2e25494be",
-   "source": "Radio Cooperativa",
-   "title": "Colo Colo celebra el título este lunes: Las claves para obtener entradas",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Colo Colo confirmó que celebrará la conquista de su estrella 35 este lunes 9 de noviembre en el Estadio Monumental , donde espera reunir a sus hinchas para festejar el título del Campeonato Nacional conseguido en Chillán, l",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-celebra-el-titulo-este-lunes-las-claves-para-obtener-entradas/2026-11-08/183818.html",
-   "date": "2026-11-08T21:38:18+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -122,16 +262,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e2610228ba43",
-   "source": "Radio Cooperativa",
-   "title": "Ortiz y el accidente de Leandro Hernández: Debe ser consciente, ya no es un joven de fuerzas básicas",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-el-accidente-de-leandro-hernandez-debe-ser-consciente-ya-no-es/2026-11-08/181925.html",
-   "date": "2026-11-08T21:19:25+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "23c2c44ddc59",
    "source": "France 24",
    "title": "Festival de las luces: empiezan celebraciones de una de las fiestas más importantes del hinduismo",
@@ -162,16 +292,6 @@
    "type": "Prensa"
   },
   {
-   "id": "818ab302cee2",
-   "source": "Radio Cooperativa",
-   "title": "Tras campeonar con Boca: Carlos Palacios festejó la estrella 35 de Colo Colo en Chillán",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El volante nacional Carlos Palacios dijo presente este domingo en el Estadio \"Nelson Oyarzún\" de Chillán para presenciar l a consagración de Colo Colo tras derrotar por 1-2 a Ñublense por la fecha 27 de la Liga de Primera. ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/tras-campeonar-con-boca-carlos-palacios-festejo-la-estrella-35-de-colo/2026-11-08/181359.html",
-   "date": "2026-11-08T21:13:59+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "c92ab07023ce",
    "source": "Radio Cooperativa",
    "title": "Hackeo a agencia rusa destapó cerca de 400.000 soldados de Moscú muertos en Ucrania",
@@ -189,16 +309,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
    "date": "2026-11-08T21:11:40+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "e8a86ed21c56",
-   "source": "Radio Cooperativa",
-   "title": "Lichnovsky: No nos interesa lo que pase con el que está arriba ni con el de abajo",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El defensor nacional Igor Lichnovsky repasó la victoria de Universidad de Chile ante Cobresal y, tras anotar para el 2-1 en Rancagua, desestimó el impacto que generó la consagración de Colo Colo en la misma jornada. \" La U ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/lichnovsky-no-nos-interesa-lo-que-pase-con-el-que-esta-arriba-ni-con-el/2026-11-08/180818.html",
-   "date": "2026-11-08T21:08:18+00:00",
-   "category": "Economía nacional",
    "type": "Prensa"
   },
   {
@@ -252,16 +362,6 @@
    "type": "Prensa"
   },
   {
-   "id": "08286912ea52",
-   "source": "Radio Cooperativa",
-   "title": "Mosa y la estrella 35: Es una luz al final del túnel para el pueblo colocolino",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Aníbal Mosa, presidente de Blanco y Negro , celebró la conquista del título 35 de Colo Colo y destacó el significado que tiene entregar una alegría a los hinchas después de una temporada anterior marcada por las dificultade",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-y-la-estrella-35-es-una-luz-al-final-del-tunel-para-el-pueblo/2026-11-08/180129.html",
-   "date": "2026-11-08T21:01:29+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "f6521794ca44",
    "source": "The Guardian",
    "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
@@ -272,26 +372,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cee46bfb37b3",
-   "source": "Radio Cooperativa",
-   "title": "Vozinha tras ganar el título: Vine para eso, culmina lo que he hecho toda mi vida",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El arquero caboverdiano Vozinha evidenció su felicidad luego de levantar la copa de campeón con Colo Colo tras la fecha 27 de la Liga de Primera, con emoción y sentidas dedicatorias por el título. \"Quiero agradecer a todos ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-tras-ganar-el-titulo-vine-para-eso-culmina-lo-que-he-hecho/2026-11-08/175952.html",
-   "date": "2026-11-08T20:59:52+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "eb9fdf14a9f7",
-   "source": "Radio Cooperativa",
-   "title": "Tragedia en Santo Domingo: Camión traspasó eje de la calzada antes de chocar con el microbús",
-   "description": "El camión tolva involucrado en el accidente que terminó con 11 personas fallecidas y 15 lesionadas en la Ruta H-66 , también conocida como Ruta de la Fruta, traspasó el eje central de la calza antes de colisionar frontalmente con el microbús con pasajeros. Este nuevo antecedente ",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/accidentes-de-transito/tragedia-en-santo-domingo-camion-traspaso-eje-de-la-calzada-antes-de/2026-11-08/175524.html",
-   "date": "2026-11-08T20:55:24+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "c792943ee4e1",
    "source": "Al Jazeera",
    "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
@@ -299,16 +379,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
    "date": "2026-11-08T20:51:22+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "5d17eb7f3f03",
-   "source": "Radio Cooperativa",
-   "title": "Arturo Vidal y su futuro: \"Tengo unos días para pensar qué quiero hacer\"",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/arturo-vidal-y-su-futuro-tengo-unos-dias-para-pensar-que-quiero-hacer/2026-11-08/174930.html",
-   "date": "2026-11-08T20:49:30+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -772,16 +842,6 @@
    "type": "Prensa"
   },
   {
-   "id": "45cafee912e0",
-   "source": "Radio Cooperativa",
-   "title": "[PERFIL] Arturo Vidal, el Rey que logró el sueño de conquistar como capitán el título en Colo Colo",
-   "description": "Arturo Vidal sumó un nuevo capítulo a su extensa y exitosa carrera luego de conquistar con Colo Colo la estrella número 35 del club, tras el triunfo sobre Ñublense en Chillán, por la fecha 27 de la Liga de Primera. Para el \"King\", sin embargo, esta corona tuvo un significado dist",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/arturo-vidal/perfil-arturo-vidal-el-rey-que-logro-el-sueno-de-conquistar-como/2026-11-08/145301.html",
-   "date": "2026-11-08T17:53:01+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "ea8e79f068d4",
    "source": "Radio Bío-Bío",
    "title": "Forado en muro y oxicorte para entrar a bóveda: lo que se sabe de millonario robo a banco penquista",
@@ -789,16 +849,6 @@
    "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/forado-en-muro-y-oxicorte-para-entrar-a-boveda-lo-que-se-sabe-de-millonario-robo-a-banco-penquista.shtml",
    "date": "2026-11-08T17:52:16+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "4dd662e8a9a0",
-   "source": "The Guardian",
-   "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
-   "description": "Exclusive: Louise Haigh likely to weaken mandate for sales that forms key part of emission reduction plan Analysis: Climate always comes second – are green issues slipping down Burnham’s agenda? Ministers are expected to make steep cuts to the government’s electric vehicle (EV) t",
-   "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
-   "date": "2026-11-08T17:51:19+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -864,8 +914,8 @@
   {
    "id": "9e5c5bd642f5",
    "source": "Al Jazeera",
-   "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-   "description": "Previews, team news and live text updates from Atletico Madrid vs Barcelona in football's La Liga.",
+   "title": "Atletico Madrid 1-2 Barcelona – La Liga – as it happened",
+   "description": "Relive the action as Barcelona come from behind to win at Atletico Madrid in football's La Liga.",
    "url": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
    "date": "2026-11-08T17:00:00+00:00",
    "category": "Oriente Medio",
@@ -948,16 +998,6 @@
    "description": "Seven killed, 112 injured in train collision in Egypt",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
    "date": "2026-11-08T16:31:54+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "c077248146ab",
-   "source": "Al Jazeera",
-   "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
-   "description": "Abed Abou Shhadeh says his detention was part of Israel's political measures 'to intimidate Arab society as a whole'.",
-   "url": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
-   "date": "2026-11-08T16:18:09+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
@@ -1312,16 +1352,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cb6a578a3f8d",
-   "source": "Deutsche Welle",
-   "title": "Suman 33 los muertos en bombardeos sauditas en Yemen, según hutíes",
-   "description": "Los ataques contra la aldea de Al Shariya dejaron también 39 personas heridas, informó el Ministerio de Salud de los hutíes.",
-   "url": "https://www.dw.com/es/suman-33-los-muertos-en-bombardeos-sauditas-en-yemen-según-hutíes/a-79888584?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-08T02:39:00+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "3243f64b3b15",
    "source": "France 24",
    "title": "Polonia: tiroteo en el corazón de Cracovia deja varios muertos y heridos",
@@ -1329,26 +1359,6 @@
    "url": "https://www.france24.com/es/video/20261108-polonia-tiroteo-en-el-coraz%C3%B3n-de-cracovia-deja-varios-muertos-y-heridos",
    "date": "2026-11-08T02:10:23+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "4eadb5226deb",
-   "source": "France 24",
-   "title": "Tras la crisis, ¿Paraguay se encamina hacia un cambio real o solo a un relevo de figuras?",
-   "description": "La destitución y posterior detención del expresidente paraguayo Santiago Peña han abierto uno de los periodos de mayor incertidumbre política en Paraguay en los últimos años. La crisis se desencadenó tras la intervención de Ueno Bank derivó en investigaciones por presuntos confli",
-   "url": "https://www.france24.com/es/video/20261108-tras-la-crisis-paraguay-se-encamina-hacia-un-cambio-real-o-solo-a-un-relevo-de-figuras",
-   "date": "2026-11-08T02:07:51+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a4d7168387fb",
-   "source": "France 24",
-   "title": "El papa: su llamado en Uruguay a formar una familia y a superar las divisiones",
-   "description": "El papa León XIV encabezó este sábado 7 de noviembre un multitudinario encuentro en la ciudad uruguaya de Paysandú, cerca de la frontera con Argentina, donde pidió mayor cooperación entre los países de la región en medio de las tensiones políticas. La visita forma parte de una gi",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261108-el-papa-su-llamado-en-uruguay-a-formar-una-familia-y-a-superar-las-divisiones",
-   "date": "2026-11-08T02:06:08+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -1422,11 +1432,21 @@
    "type": "Prensa"
   },
   {
-   "id": "82d4b30478ef",
+   "id": "8318e7403865",
    "source": "Radio Cooperativa",
-   "title": "[En vivo] La Calera y Huachipato juegan por la fecha 27",
+   "title": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 27",
+   "description": "Revisa en vivo la tabla de posiciones de la Liga de Primera 2026: Pos. Club PJ Pts. Dif. Zona 1 Colo Colo (CAMPEON) 27 61 +29 Libertadores 2 U. de Chile 27 51 +25 Libertadores 3 Universidad Católica 27 49 +19 Duelo Chile 4 4 Deportes Limache 26 40 +11 Sudamericana 5 Everton 27 40",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-27/2026-11-07/125004.html",
+   "date": "2026-11-07T15:50:04+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "26882aafe7c5",
+   "source": "Radio Cooperativa",
+   "title": "[En vivo] U. de Concepción y O'Higgins cierran la fecha 27",
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con la definición del título por delante, además de la lucha por el descenso, la Liga de Primera 2026 desarrolla este fin de semana su trascendental fecha 27. Domingo 8 de noviembre Universidad Católica 3-0 Deportes Limache",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/en-vivo-la-calera-y-huachipato-juegan-por-la-fecha-27/2026-11-07/123544.html",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/en-vivo-u-de-concepcion-y-o-higgins-cierran-la-fecha-27/2026-11-07/123544.html",
    "date": "2026-11-07T15:35:44+00:00",
    "category": "",
    "type": "Prensa"
@@ -1702,16 +1722,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5b25ff3e85cb",
-   "source": "BBC Mundo",
-   "title": "\"Cuando vienes de una familia pobre que ha bregado tanto sientes la responsabilidad de salvar a tus padres\"",
-   "description": "La escritora y periodista peruana Rosa Chávez Yacila presenta \"Las nerviosas\", una novela autobiográfica en la que explora los padecimientos mentales que atraviesan su historia familiar.",
-   "url": "https://www.bbc.com/mundo/articles/c5398ejlw7jro?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-06T12:57:40+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "db8d116997a2",
    "source": "The Guardian",
    "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
@@ -1789,16 +1799,6 @@
    "url": "https://www.bbc.com/mundo/articles/c674ppz944jxo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-06T08:43:22+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "cbdea67314b9",
-   "source": "Radio Cooperativa",
-   "title": "[PERFIL] Fernando Ortiz, el entrenador que apostó por la juventud y alcanzó la gloria con Colo Colo",
-   "description": "Colo Colo nuevamente llegó a la cima del fútbol chileno y bajó su estrella número 35 , tras coronarse campeón de la Liga de Primera en la fecha 27, con un triunfo ante Ñublense en Chillán. Y el gran artífice de esta campaña fue el técnico argentino Fernando Ortiz, quien llegó en ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/perfil-fernando-ortiz-el-entrenador-que-aposto-por-la-juventud-y/2026-11-05/212552.html",
-   "date": "2026-11-06T00:25:52+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
