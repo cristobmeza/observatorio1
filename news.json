@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-09T04:57:18.194068+00:00",
+ "updated": "2026-11-09T05:58:22.161447+00:00",
  "items": [
+  {
+   "id": "ca51b578c38d",
+   "source": "Al Jazeera",
+   "title": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
+   "description": "Air quality in Indian capital reaches severe levels, posing heightened health risks for more than 30 million residents.",
+   "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss",
+   "date": "2026-11-09T05:20:08+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "bcd763db2237",
+   "source": "Al Jazeera",
+   "title": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
+   "description": "Hundreds of thousands of Palestinians are vulnerable to flooding as Israel continues to block entry of mobile homes.",
+   "url": "https://www.aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza?traffic_source=rss",
+   "date": "2026-11-09T05:18:39+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2ee05bc1f84e",
+   "source": "Deutsche Welle",
+   "title": "Taiwán detiene a opositor de un partido minoritario por recibir financiación e instrucciones del Partido Comunista de China para las elecciones",
+   "description": "Según la Fiscalía, Lin Te-wang, fundador de una formación minoritaria, aceptó \"instrucciones y financiación\" del Partido Comunista de China.",
+   "url": "https://www.dw.com/es/taiwán-detiene-a-opositor-de-un-partido-minoritario-por-recibir-financiación-e-instrucciones-del-partido-comunista-de-china-para-las-elecciones/a-79895348?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-09T05:08:00+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "66f34c058c48",
+   "source": "Al Jazeera",
+   "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
+   "description": "Ankara aims to make electricity account for 35 percent of global energy demand by 2035.",
+   "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
+   "date": "2026-11-09T05:02:19+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "029f8c102041",
+   "source": "Al Jazeera",
+   "title": "A joke or test? Why Trump floated UFC’s Dana White as his press secretary",
+   "description": "White is a close friend of Trump and has endorsed him for president, but has never held a government position.",
+   "url": "https://www.aljazeera.com/news/2026/11/9/a-joke-or-test-why-trump-floated-ufcs-dana-white-as-his-press-secretary?traffic_source=rss",
+   "date": "2026-11-09T05:02:16+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "7a2fe567e8fc",
+   "source": "The Guardian",
+   "title": "Burnham’s homelessness pledge to ‘get everyone in for Christmas’ in jeopardy",
+   "description": "Minister says Labour hoping to offer bed to every rough sleeper in England but cites chronic housing shortage Andy Burnham’s pledge to tackle rough sleeping by getting “everyone in for Christmas” is in jeopardy amid rising numbers of people on the streets and a severe housing sho",
+   "url": "https://www.theguardian.com/society/2026/nov/09/burnham-homelessness-pledge-rough-sleeping-england",
+   "date": "2026-11-09T05:01:01+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "aeef50fce655",
+   "source": "The Guardian",
+   "title": "Starbucks plans to hire 7,500 staff in major UK expansion plan",
+   "description": "Coffee shop chain targets growth north of London with extra 500 outlets in big boost for youth employment Starbucks has set out plans to hire 7,500 new baristas over the next five years, in a boost to youth employment as the chain pins hopes for future growth on the north of the ",
+   "url": "https://www.theguardian.com/business/2026/nov/09/starbucks-hire-7500-staff-uk-expansion-plan",
+   "date": "2026-11-09T05:01:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "970fb26ae47b",
+   "source": "The Guardian",
+   "title": "Victorian election 2026: Concern and scepticism among Labor MPs as new poll shows party trailing One Nation",
+   "description": "Ben Carroll refuses to be drawn on latest opinion poll that puts Labor at all-time low of just 18%, behind One Nation on 21% and the Coalition on 33% Get our daily political email , free app or daily news podcast Victorian Labor MPs are both sceptical and seriously concerned abou",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/09/victoria-election-2026-labor-mps-new-opinion-poll-one-nation-ntwnfb",
+   "date": "2026-11-09T04:55:15+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "dd3b3cae8328",
+   "source": "Al Jazeera",
+   "title": "Pope tells Argentina’s Milei leaders should know limits of power",
+   "description": "Pope Leo XIV urged Argentina to protect democracy during an address alongside President Javier Milei.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss",
+   "date": "2026-11-09T04:52:34+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
   {
    "id": "5af55680ab1c",
    "source": "Al Jazeera",
@@ -75,7 +165,7 @@
    "id": "a02d2a33d4c5",
    "source": "The Guardian",
    "title": "‘Outrageous and racist’: premier responds to NSW One Nation candidate’s claim Australians are being ‘demographically replaced’",
-   "description": "Chris Minns and human rights commissioner lambast comments made by Stuart Bonds, who leads party’s NSW upper house ticket Get our breaking news email , free app or daily news podcast The New South Wales premier and the Australian Human Rights Commission have criticised comments b",
+   "description": "Chris Minns and race discrimination commissioner lambast comments made by Stuart Bonds, who leads party’s NSW upper house ticket Get our breaking news email , free app or daily news podcast The New South Wales premier and the Australian Human Rights Commission have criticised com",
    "url": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb",
    "date": "2026-11-09T03:33:14+00:00",
    "category": "Elecciones",
@@ -912,16 +1002,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ac10dda5b1fd",
-   "source": "The Guardian",
-   "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
-   "description": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania Get our breaking news email , free app or daily news podcast Snow blanketed parts of New South Wales, Victoria and Tasmania across the weekend as an unseasonal cold blast whippe",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
-   "date": "2026-11-08T21:25:10+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "23c2c44ddc59",
    "source": "France 24",
    "title": "Festival de las luces: empiezan celebraciones de una de las fiestas más importantes del hinduismo",
@@ -972,26 +1052,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6827bddb1e96",
-   "source": "Al Jazeera",
-   "title": "Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online",
-   "description": "‘JD, habibi’ is going viral after Michigan Senator-elect Abdul El-Sayed used the phrase to mock JD Vance in a speech.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss",
-   "date": "2026-11-08T21:01:33+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "c792943ee4e1",
-   "source": "Al Jazeera",
-   "title": "Iran waiting to resume talks after US midterms ‘shock’",
-   "description": "Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
-   "date": "2026-11-08T20:51:22+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "bf393615f51a",
    "source": "France 24",
    "title": "El partido de Mandela sufre un revés en las elecciones municipales: ¿qué viene ahora en Sudáfrica?",
@@ -999,36 +1059,6 @@
    "url": "https://www.france24.com/es/%C3%A1frica/20261108-el-partido-de-mandela-sufre-un-rev%C3%A9s-en-las-elecciones-municipales-qu%C3%A9-viene-ahora-en-sud%C3%A1frica",
    "date": "2026-11-08T20:30:12+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "7417a6c418fc",
-   "source": "Al Jazeera",
-   "title": "Pope Leo XIV delivers homily to thousands in Uruguay",
-   "description": "Pope Leo XIV delivers homily to thousands in Uruguay",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
-   "date": "2026-11-08T20:29:47+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "a17154a70a78",
-   "source": "Al Jazeera",
-   "title": "Rangoli makers adapt to rising costs to preserve colourful Diwali tradition",
-   "description": "Rangoli makers in India are adapting to rising material costs by turning to organic alternatives.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss",
-   "date": "2026-11-08T20:26:01+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "0bc0dc75b391",
-   "source": "Al Jazeera",
-   "title": "Iran threatens to ‘rain down hell’ if US escalates war",
-   "description": "President Trump warns that US forces are 'locked and loaded' and ready to strike, if necessary.",
-   "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
-   "date": "2026-11-08T20:13:39+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1082,16 +1112,6 @@
    "type": "Prensa"
   },
   {
-   "id": "14f0fabac9ad",
-   "source": "The Guardian",
-   "title": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
-   "description": "Culture secretary says there is still a problem with exploitation and abuse in the industry and public life The culture secretary, Lisa Nandy, has said there is still a problem with exploitation and abuse in the media industry and a failure to properly deal with allegations after",
-   "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
-   "date": "2026-11-08T19:05:04+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "d1308f729129",
    "source": "Ex-Ante",
    "title": "[Valor Agregado] Exportaciones de vino chileno caen 5,2%: la estrategia de las viñas para recuperar terreno. Por Ignacia Munita",
@@ -1099,16 +1119,6 @@
    "url": "https://www.ex-ante.cl/valor-agregado/exportaciones-vino-caen-estrategia/",
    "date": "2026-11-08T18:37:15+00:00",
    "category": "Comercio internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "987a759990b5",
-   "source": "The Guardian",
-   "title": "Riot breaks out at influencer boxing event attended by Tommy Robinson in Ireland",
-   "description": "Two people arrested after Robinson’s presence inflames tensions in scenes witnessed by many on social media Two people were arrested at an influencer boxing event that descended into a riot in Ireland after the presence of the far-right activist Tommy Robinson inflamed tensions i",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland",
-   "date": "2026-11-08T18:33:34+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1359,16 +1369,6 @@
    "url": "https://www.dw.com/es/¿podrá-alemania-organizar-el-mundial-de-hockey-de-2027-sin-rusia/a-79888455?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-08T11:15:00+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "f9731d274cb5",
-   "source": "Deutsche Welle",
-   "title": "Irán ejecuta a otros tres hombres en relación con las protestas antigubernamentales",
-   "description": "El régimen ha ejecutado al menos a 40 hombres tras las manifestaciones, que estallaron en medio de una crisis económica en el país y rápidamente derivaron en protestas masivas contra el liderazgo autoritario.",
-   "url": "https://www.dw.com/es/irán-ejecuta-a-otros-tres-hombres-en-relación-con-las-protestas-antigubernamentales/a-79890033?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-08T11:08:00+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
