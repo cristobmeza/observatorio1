@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T09:59:14.990892+00:00",
+ "updated": "2026-11-09T10:56:15.919900+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -53,9 +53,8 @@
    "url": "https://rss.dw.com/xml/rss-sp-all"
   },
   "France 24": {
-   "ok": true,
-   "n": 24,
-   "url": "https://www.france24.com/es/rss"
+   "ok": false,
+   "err": "HTTP Error 403: Forbidden"
   },
   "Al Jazeera": {
    "ok": true,
@@ -69,7 +68,7 @@
   },
   "Agencia EFE": {
    "ok": false,
-   "err": "HTTP Error 500: Internal Server Error"
+   "err": "HTTP Error 429: Too Many Requests"
   },
   "Biblioteca del Congreso Nacional": {
    "ok": false,
@@ -98,7 +97,7 @@
   },
   "Instituto Nacional de Estadísticas": {
    "ok": false,
-   "err": "mismatched tag: line 616, column 588"
+   "err": "mismatched tag: line 616, column 594"
   },
   "Dirección de Presupuestos": {
    "ok": false,
