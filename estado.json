@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T18:47:41.557064+00:00",
+ "updated": "2026-11-09T19:51:04.784385+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -44,7 +44,7 @@
   },
   "BBC Mundo": {
    "ok": true,
-   "n": 33,
+   "n": 34,
    "url": "https://feeds.bbci.co.uk/mundo/rss.xml"
   },
   "Deutsche Welle": {
