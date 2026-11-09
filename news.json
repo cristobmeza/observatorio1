@@ -1,6 +1,146 @@
 {
- "updated": "2026-11-09T22:40:20.438094+00:00",
+ "updated": "2026-11-09T23:34:00.980334+00:00",
  "items": [
+  {
+   "id": "430a4972aa46",
+   "source": "BBC Mundo",
+   "title": "Quién es la supuesta espía china que tuvo una relación con el director de Nvidia, el gigante tecnológico de la IA (y otras claves del caso)",
+   "description": "El multimillonario de la industria tecnológica está inmerso en un escándalo de seguridad personal y nacional.",
+   "url": "https://www.bbc.com/mundo/articles/cked3dy4ynjxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T23:31:27+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "58951d00f2b9",
+   "source": "Ex-Ante",
+   "title": "Reducción de penas: Rabat amplía la suspensión del beneficio, con el que Boric otorgó 5.614 rebajas de condenas",
+   "description": "El ministro Rabat concretó dos cambios de criterio en medio de la crisis por las rebajas de penas, por la que la oposición anunció la…",
+   "url": "https://www.ex-ante.cl/nacional/rabat-amplia-suspension-de-reduccion-penas/",
+   "date": "2026-11-09T23:17:16+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "99005467191b",
+   "source": "Radio Cooperativa",
+   "title": "Mosa le respondió a Vidal: Es un tremendo emblema, pero no juega solo",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-le-respondio-a-vidal-es-un-tremendo-emblema-pero-no-juega-solo/2026-11-09/201427.html",
+   "date": "2026-11-09T23:14:27+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "3306434daf76",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] Leo Rey se sumó a la celebración de Colo Colo con un grito a \"Chunchítico\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El reconocido cantante de cumbia Leo Rey se hizo presente en la celebración de Colo Colo por el título de la Liga de Primera y encendió al Estadio Monumental con su esperado ingreso a la cancha. El intérprete cambió su fras",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-leo-rey-se-sumo-a-la-celebracion-de-colo-colo-con-un-grito-a/2026-11-09/200308.html",
+   "date": "2026-11-09T23:03:08+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "3edb80c37a59",
+   "source": "CIPER Chile",
+   "title": "Kast anuncia nueva alza de $40 en los combustibles, pero presenta proyecto para limitar los aumentos; gobierno amplía suspensión de rebajas de condena a todos los delitos, y avisos de ofertas laborales caen 12,6% anual",
+   "description": "La entrada Kast anuncia nueva alza de $40 en los combustibles, pero presenta proyecto para limitar los aumentos; gobierno amplía suspensión de rebajas de condena a todos los delitos, y avisos de ofertas laborales caen 12,6% anual se publicó primero en CIPER Chile .",
+   "url": "https://www.ciperchile.cl/2026/11/09/radar-09-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-09-11-26",
+   "date": "2026-11-09T22:59:08+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "4f1a39072da2",
+   "source": "Radio Cooperativa",
+   "title": "Cámara Baja aprobó en general el Presupuesto 2027, que avanzó a votación particular",
+   "description": "Con 80 votos a favor , 63 en contra y una abstención , la Cámara de Diputadas y Diputados aprobó este lunes , en general , el proyecto de Ley de Presupuesto 2027 , dando inicio a una etapa de votación en particular que pondrá a prueba la mayoría oficialista en el Congreso . La ne",
+   "url": "https://www.cooperativa.cl/noticias/economia/presupuesto/camara-baja-aprobo-en-general-el-presupuesto-2027-que-avanzo-a-votacion/2026-11-09/195727.html",
+   "date": "2026-11-09T22:57:27+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "239418d07263",
+   "source": "BBC Mundo",
+   "title": "La Fiscalía de Paraguay trata de abrir una bóveda oculta hallada en una propiedad del expresidente Santiago Peña",
+   "description": "El allanamiento se enmarca en la investigación por el caso Ueno Bank, cuya crisis dejó a millones de clientes sin acceso a sus ahorros y precipitó la destitución del exmandatario.",
+   "url": "https://www.bbc.com/mundo/articles/c6zxjxyz1ejpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T22:56:47+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "ffc1de1c21e9",
+   "source": "Radio Cooperativa",
+   "title": "Incendio afecta a campamento de Cerrillos en medio de desalojo",
+   "description": "Un incendio de proporciones afecta la tarde de este lunes a diversas viviendas del campamento Nuevo Amanecer, ubicado en la comuna de Cerrillos , en el mismo sector donde durante la mañana se dio inicio a la primera etapa del masivo desalojo ordenado por las autoridades, que abar",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/incendios/incendio-afecta-a-campamento-de-cerrillos-en-medio-de-desalojo/2026-11-09/195605.html",
+   "date": "2026-11-09T22:56:05+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "19aaf75a2f82",
+   "source": "Radio Cooperativa",
+   "title": "JC Muñoz asume reconocimiento de TIME como una reivindicación tras la polémica por el cable chino",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/sociedad/medioambiente/clima/jc-munoz-asume-reconocimiento-de-time-como-una-reivindicacion-tras-la/2026-11-09/195405.html",
+   "date": "2026-11-09T22:54:05+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "28d7a7744b56",
+   "source": "Ex-Ante",
+   "title": "El paso a paso del descubrimiento de las irregularidades en Codelco y el cuestionado rol de Pacheco",
+   "description": "Las irregularidades en la producción de Codelco durante la presidencia de Máximo Pacheco escalaron en la última junta de accionistas: 42.100 toneladas de cobre registradas…",
+   "url": "https://www.ex-ante.cl/negocios/codelco-cifras-infladas-cobre-era-pacheco/",
+   "date": "2026-11-09T22:51:38+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "cdf76354431b",
+   "source": "Ex-Ante",
+   "title": "La conversación personal de Rabat con Kast en medio de especulaciones sobre su renuncia",
+   "description": "El presidente y el ministro se reunieron a solas el viernes 23 de octubre. Cercanos a Rabat señalaron a Ex-Ante que éste señaló que no…",
+   "url": "https://www.ex-ante.cl/politica/kast-rabat-especulaciones-renuncia/",
+   "date": "2026-11-09T22:50:11+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "25162a31d4e6",
+   "source": "BBC Mundo",
+   "title": "Un congresista republicano inicia el proceso para el \"impeachment\" del secretario de Defensa de EE.UU. por la guerra en Irán",
+   "description": "Es probable que el intento fracase, pero el representante Thomas Massie quiere presionar a Trump para que despida a Hegseth antes de que los demócratas puedan iniciar su propio proceso de destitución.",
+   "url": "https://www.bbc.com/mundo/articles/cm62y2l3eng1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T22:46:51+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "03201eee2cec",
+   "source": "France 24",
+   "title": "Cierra 'Novaya Gazeta', uno de los pocos medios en Rusia que hablaba contra la guerra en Ucrania",
+   "description": "Este 9 de noviembre, el periódico Novaya Gazeta cierra su redacción luego de que \"las autoridades rusas y los servicios especiales rusos han obligado a poner fin a su trabajo\". Mientras el Kremlin asegura que el \"panorama mediático ruso es muy diverso\", cientos de medios de comun",
+   "url": "https://www.france24.com/es/video/20261109-cierra-novaya-gazeta-uno-de-los-pocos-medios-en-rusia-que-hablaba-contra-la-guerra-en-ucrania",
+   "date": "2026-11-09T22:46:01+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "8e60f5736e16",
+   "source": "France 24",
+   "title": "Empieza la COP31 en Turquía con un complejo panorama climático en el mundo y crisis de combustible",
+   "description": "Turquía acoge la COP31, el encuentro climático que busca llegar a acuerdos para hacer frente al cambio climático. Este año, el panorama es más desalentador que en ediciones anteriores, con un mensaje inédito de urgencia por la imposibilidad real de frenar el calentamiento terrest",
+   "url": "https://www.france24.com/es/video/20261109-empieza-la-cop31-en-turqu%C3%ADa-con-un-complejo-panorama-clim%C3%A1tico-en-el-mundo-y-crisis-de-combustible",
+   "date": "2026-11-09T22:44:33+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "750a3ed6ef4d",
    "source": "Radio Bío-Bío",
@@ -12,6 +152,16 @@
    "type": "Prensa"
   },
   {
+   "id": "a9d1a97a21ea",
+   "source": "Al Jazeera",
+   "title": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
+   "description": "Iranian officials dismissed Trump's latest remarks as 'fake news' after the US president suggested a close to the war.",
+   "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+   "date": "2026-11-09T22:31:19+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
    "id": "c5c95a9ef106",
    "source": "France 24",
    "title": "Trump ve \"un impulso positivo hacia el fin del conflicto\" con Irán y descarta una acción militar por ahora",
@@ -19,6 +169,16 @@
    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261109-trump-ve-un-impulso-positivo-hacia-el-fin-del-conflicto-con-ir%C3%A1n-y-descarta-una-acci%C3%B3n-militar-por-ahora",
    "date": "2026-11-09T22:26:36+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a9653cdb80f0",
+   "source": "The Guardian",
+   "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+   "description": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to ‘see out his days’ Get our breaking news email , free app or daily news podcast Beaconsfield mine collapse survivor Todd Russell has died aged 54 after recently announcing deteriorating health. ",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+   "date": "2026-11-09T22:26:31+00:00",
+   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -392,16 +552,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3f40632734db",
-   "source": "Radio Cooperativa",
-   "title": "Nicolás Jarry avanzó al cuadro principal en el Challenger de Lima",
-   "description": "Nicolás Jarry (790° del ranking ATP) mantuvo el tranco ganador ante el argentino Máximo Zeitune (514°) y se sumó a su compatriota Tomás Barrios (191°) en el cuadro principal del Challenger de Lima. Para hacerlo, el tenista nacional libró una durísima batalla ante un adversario tr",
-   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/challengers/nicolas-jarry-avanzo-al-cuadro-principal-en-el-challenger-de-lima/2026-11-09/180755.html",
-   "date": "2026-11-09T21:07:55+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "d110e21d4707",
    "source": "Radio Cooperativa",
    "title": "Florence Pugh despide a Sebastián Lelio con emotivo mensaje: \"Tengo el corazón roto\"",
@@ -492,26 +642,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d65974c75d2f",
-   "source": "Radio Cooperativa",
-   "title": "Chile dio el último adiós al cineasta Sebastián Lelio",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/magazine/cine/cine-chileno/chile-dio-el-ultimo-adios-al-cineasta-sebastian-lelio/2026-11-09/172023.html",
-   "date": "2026-11-09T20:20:23+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "df8879521281",
-   "source": "Radio Cooperativa",
-   "title": "Concierto gratuito en Santiago recorrerá \"Las cuatro estaciones\" de Vivaldi",
-   "description": "La Camerata de la Universidad de los Andes, bajo la dirección del maestro italiano Giovanni Panella y con la participación solista de la destacada violinista chilena Nazaret Beroiza , ofrecerá un concierto gratuito al aire libre dedicado a una de las piezas más emblemáticas del r",
-   "url": "https://www.cooperativa.cl/noticias/magazine/panoramas/concierto-gratuito-en-santiago-recorrera-las-cuatro-estaciones-de/2026-11-09/171937.html",
-   "date": "2026-11-09T20:19:37+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "85c54019fb35",
    "source": "Al Jazeera",
    "title": "Deadly explosion at Iron and steel plant in Turkiye",
@@ -519,26 +649,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
    "date": "2026-11-09T20:19:18+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "982b55f2f111",
-   "source": "Radio Cooperativa",
-   "title": "Revista TIME distinguió a Juan Carlos Muñoz como líder internacional de la acción climática",
-   "description": "El exministro y académico chileno Juan Carlos Muñoz fue seleccionado por la revista estadounidense TIME para integrar la lista TIME100 Climate 2026 , que reconoce a 100 líderes internacionales por su contribución a la acción climática. En la categoría \"Leaders\" , la publicación d",
-   "url": "https://www.cooperativa.cl/noticias/sociedad/medioambiente/clima/revista-time-distinguio-a-juan-carlos-munoz-como-lider-internacional-de/2026-11-09/171403.html",
-   "date": "2026-11-09T20:14:03+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "ee555326a9bb",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] \"¿Son lechuzas o son leones?\": Los dardos de Javier Correa contra la U",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con el correr de las horas, diversos fragmentos de transmisiones hechas por los jugadores de Colo Colo celebrando llamaron la atención en redes sociales, con Javier Correa como protagonista al lanzar duros dardos contra Uni",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-son-lechuzas-o-son-leones-los-dardos-de-javier-correa/2026-11-09/171402.html",
-   "date": "2026-11-09T20:14:02+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -619,26 +729,6 @@
    "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
    "date": "2026-11-09T19:40:45+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "382807862cf9",
-   "source": "Radio Cooperativa",
-   "title": "Innova Viña: La apuesta para fomentar la industria de videojuegos y el conocimiento local",
-   "description": "Hugo Villarroel, director ejecutivo de Innova Viña, profundió acerca de la nueva Corporación de Innovación y Desarrollo Sostenible en la Ciudad Jardín, destacando su potencial para liderar la industria del conocimiento y los desarrollos tecnocreativos, superando su perfil tradici",
-   "url": "https://www.cooperativa.cl/noticias/economia/pymes/innova-vina-la-apuesta-para-fomentar-la-industria-de-videojuegos-y-el/2026-11-09/163754.html",
-   "date": "2026-11-09T19:37:54+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "54fafcacb799",
-   "source": "Radio Cooperativa",
-   "title": "Sanfic 2026 eligió a sus ganadores en ceremonia marcada por el homenaje a Sebastián Lelio",
-   "description": "El homenaje al cineasta Sebastián Lelio marcó la ceremonia de cierre de la edición 2026 del Santiago Festival Internacional de Cine (Sanfic) , en una celebración donde el recuerdo del ganador del Oscar por \"Una Mujer Fantástica\" se hizo presente desde el primer momento. Un moment",
-   "url": "https://www.cooperativa.cl/noticias/magazine/cine/festivales-de-cine/sanfic-2026-eligio-a-sus-ganadores-en-ceremonia-marcada-por-el-homenaje/2026-11-09/163303.html",
-   "date": "2026-11-09T19:33:03+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -792,16 +882,6 @@
    "type": "Prensa"
   },
   {
-   "id": "430a4972aa46",
-   "source": "BBC Mundo",
-   "title": "Quién es la supuesta espía china que tuvo una relación con el director de Nvidia, el gigante tecnológico de la IA (y otras claves del caso)",
-   "description": "El multimillonario de la industria tecnológica está inmerso en un escándalo de seguridad personal y nacional.",
-   "url": "https://www.bbc.com/mundo/articles/cked3dy4ynjxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-09T18:25:47+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "6dc59954caf9",
    "source": "Al Jazeera",
    "title": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
@@ -809,6 +889,16 @@
    "url": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss",
    "date": "2026-11-09T18:21:38+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2e326480d6b8",
+   "source": "Radio Cooperativa",
+   "title": "Con Leo Rey: Colo Colo celebra su estrella 35 en el Estadio Monumental",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-leo-rey-colo-colo-celebra-su-estrella-35-en-el-estadio-monumental/2026-11-09/151559.html",
+   "date": "2026-11-09T18:15:59+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -939,16 +1029,6 @@
    "url": "https://www.france24.com/es/programas/en-primera-plana/20261109-tsunami-dem%C3%B3crata-principio-del-fin-del-trumpismo",
    "date": "2026-11-09T17:29:58+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "870f9eff7963",
-   "source": "Al Jazeera",
-   "title": "Israeli tourists spark outrage over video pushing tour guide into sea",
-   "description": "A video of an Israeli tourist pushing a Sri Lankan tour guide off a boat has sparked outrage. Here is what we know.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss",
-   "date": "2026-11-09T17:17:39+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1119,26 +1199,6 @@
    "url": "https://www.bbc.com/mundo/articles/ck8dz3494l5yo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-09T14:55:53+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "6df12b068364",
-   "source": "France 24",
-   "title": "\"Economía debe estar al servicio de la gente\": León XIV llega a Argentina con duro discurso político",
-   "description": "Los fieles católicos recibieron a León XIV en Buenos Aires con alegría y peticiones de dar esperanza al país en medio de la situación económica, en el que una de cada tres personas vive bajo los índices de pobreza. El papa parece haber escuchado sus peticiones y durante su discur",
-   "url": "https://www.france24.com/es/video/20261109-econom%C3%ADa-debe-estar-al-servicio-de-la-gente-le%C3%B3n-xiv-llega-a-argentina-con-duro-discurso-pol%C3%ADtico",
-   "date": "2026-11-09T14:55:18+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "eff829b2e891",
-   "source": "France 24",
-   "title": "Inicia COP31 Turquía- Australia con los combustibles fósiles y la energía en el centro del debate",
-   "description": "La transición energética, los combustibles fósiles y la electrificación vuelven a ser temas centrales de la agenda de la COP31 en Turquía y copresidida por Australia. Entre otros temas que juegan un papel importante de los debates también se encuentra la guerra en Irán, que aumen",
-   "url": "https://www.france24.com/es/video/20261109-inicia-cop31-turqu%C3%ADa-australia-con-los-combustibles-f%C3%B3siles-y-la-energ%C3%ADa-en-el-centro-del-debate",
-   "date": "2026-11-09T14:48:23+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1352,16 +1412,6 @@
    "type": "Prensa"
   },
   {
-   "id": "888a10873063",
-   "source": "The Guardian",
-   "title": "Stop undermining Jim Chalmers, environment minister urges Labor colleagues",
-   "description": "‘It’s pretty obvious that there are all sorts of people making all sorts of comments,’ Murray Watt says after budget savings meeting Get our breaking news email , free app or daily news podcast The environment minister, Murray Watt , has urged ministers to stop undermining the tr",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/09/stop-undermining-treasurer-jim-chalmers-environment-minister-urges-colleagues",
-   "date": "2026-11-09T05:47:49+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "981223b17df7",
    "source": "BBC Mundo",
    "title": "Las imágenes satelitales que muestran importantes obras de construcción cerca de las bases de misiles de Irán",
@@ -1379,6 +1429,16 @@
    "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
    "date": "2026-11-09T02:11:25+00:00",
    "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "3907db38e945",
+   "source": "Radio Cooperativa",
+   "title": "El campeón estrena el título: La programación de la fecha 28 de la Liga de Primera",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La ANFP dio a conocer la programación de la fecha 28 de la Liga de Primera, que se disputará entre el 20 y 22 de noviembre, y que tendrá como duelo estelar el clásico entre Colo Colo, campeón, y Universidad Católica en el E",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/el-campeon-estrena-el-titulo-la-programacion-de-la-fecha-28-de-la-liga/2026-11-08/214949.html",
+   "date": "2026-11-09T00:49:49+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -1412,16 +1472,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cab58fbc2e84",
-   "source": "Ex-Ante",
-   "title": "Cadem: Rebaja de penas, caída de crecimiento y alza de desempleo explican alta desaprobación de Kast (Lea aquí la encuesta)",
-   "description": "En la primera semana de noviembre, un 29% (tres puntos más que en la anterior encuesta) aprueba la gestión del Presidente Kast y 68% (un…",
-   "url": "https://www.ex-ante.cl/politica/cadem-desaprobacion-kast-rebaja-de-penas/",
-   "date": "2026-11-08T23:34:37+00:00",
-   "category": "Economía nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "d97cd3e72cb3",
    "source": "CIPER Chile",
    "title": "Una política de envejecimiento que no solo mire el cuerpo",
@@ -1442,16 +1492,6 @@
    "type": "Prensa"
   },
   {
-   "id": "59489369d5d9",
-   "source": "Ex-Ante",
-   "title": "Crónica: por qué Valparaíso es la ciudad que menos se ha recuperado desde el estallido",
-   "description": "Valparaíso sufrió un fuerte impacto económico y urbanístico, con incendios de edificios patrimoniales, destrucción de locales comerciales en el plan de la ciudad y daños…",
-   "url": "https://www.ex-ante.cl/cronica/valparaiso-no-se-ha-recuperado-estallido/",
-   "date": "2026-11-08T21:35:36+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "d552fcdddc49",
    "source": "BBC Mundo",
    "title": "La coalición de Trump quedó hundida: ¿qué harán ahora los republicanos?",
@@ -1459,16 +1499,6 @@
    "url": "https://www.bbc.com/mundo/articles/c94g1nmvjygxo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-08T21:31:48+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "f0f7261382c2",
-   "source": "Ex-Ante",
-   "title": "Colo-Colo campeón 2026: cuántos títulos y subcampeonatos tienen los equipos chilenos",
-   "description": "Tras su triunfo sobre Ñublense, el equipo albo consiguió su campeonato número 35 del fútbol chileno, más que cualquier otro club del país, clasificando, además,…",
-   "url": "https://www.ex-ante.cl/deportes/colo-colo-campeon-titulos-equipos/",
-   "date": "2026-11-08T20:05:55+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1642,16 +1672,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6ab2dc540bf5",
-   "source": "BBC Mundo",
-   "title": "Cómo es Casavalle, la barriada humilde de Montevideo estremecida por la violencia que visitó el papa León XIV",
-   "description": "Esta zona de la capital uruguaya que recibió en la tarde del sábado al pontífice tiene niveles de homicidios y pobreza muy superiores al resto de la ciudad. También hay una fuerte presencia de la Iglesia.",
-   "url": "https://www.bbc.com/mundo/articles/cqgm00d1krkjo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-07T23:07:45+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "5db1d25d89d9",
    "source": "CIPER Chile",
    "title": "Sebastián Lelio, el hombre que amaba a las mujeres",
@@ -1802,6 +1822,16 @@
    "type": "Prensa"
   },
   {
+   "id": "10fa2211ee1e",
+   "source": "CIPER Chile",
+   "title": "Podcast | Lo que calló Rabat",
+   "description": "La entrada Podcast | Lo que calló Rabat se publicó primero en CIPER Chile .",
+   "url": "https://www.ciperchile.cl/2026/11/06/podcast-lo-que-callo-rabat/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-lo-que-callo-rabat",
+   "date": "2026-11-06T22:39:19+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "9eff4beed4f5",
    "source": "CIPER Chile",
    "title": "El proyecto de reforma al INDH ante los estándares internacionales",
@@ -1849,16 +1879,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
    "date": "2026-11-06T15:08:43+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "80a3862d283f",
-   "source": "BBC Mundo",
-   "title": "\"Perdí los ahorros de toda mi vida. Todos deben ir presos\": la angustiosa situación de miles de ahorradores en Paraguay por el cierre del Ueno Bank",
-   "description": "Miles de personas en Paraguay desconocen qué va a pasar con el dinero que tenían guardado en el Ueno Bank que fue cerrado esta semana.",
-   "url": "https://www.bbc.com/mundo/articles/cqe8llzx5j4yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-06T14:09:37+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -2059,26 +2079,6 @@
    "url": "https://www.ciperchile.cl/2026/11/04/todas-las-violas-se-van-al-cielo-adios-a-penelope-knuth/?utm_source=rss&utm_medium=rss&utm_campaign=todas-las-violas-se-van-al-cielo-adios-a-penelope-knuth",
    "date": "2026-11-04T16:13:40+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "e3e8c36cba33",
-   "source": "CIPER Chile",
-   "title": "Fallos de cortes de apelaciones establecen que Rabat sí podía rechazar las rebajas de condenas",
-   "description": "La entrada Fallos de cortes de apelaciones establecen que Rabat sí podía rechazar las rebajas de condenas se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/04/fallos-de-cortes-de-apelaciones-establecen-que-rabat-si-podia-rechazar-las-rebajas-de-condenas/?utm_source=rss&utm_medium=rss&utm_campaign=fallos-de-cortes-de-apelaciones-establecen-que-rabat-si-podia-rechazar-las-rebajas-de-condenas",
-   "date": "2026-11-04T16:07:36+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "82937200ee50",
-   "source": "CIPER Chile",
-   "title": "Trump perdió el referéndum sobre sí mismo",
-   "description": "La entrada Trump perdió el referéndum sobre sí mismo se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/04/trump-perdio-el-referendum-sobre-si-mismo/?utm_source=rss&utm_medium=rss&utm_campaign=trump-perdio-el-referendum-sobre-si-mismo",
-   "date": "2026-11-04T15:53:49+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
