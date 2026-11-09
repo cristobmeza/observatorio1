@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-09T07:19:34.914245+00:00",
+ "updated": "2026-11-09T09:00:52.703804+00:00",
  "items": [
+  {
+   "id": "072eb29ac9a4",
+   "source": "Al Jazeera",
+   "title": "Trump says his immigration policy ‘too tough’ for voters",
+   "description": "Trump concedes some voters were unhappy with his administration's controversial deportation drive.",
+   "url": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss",
+   "date": "2026-11-09T08:35:05+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "e8eb3083d219",
+   "source": "Al Jazeera",
+   "title": "US top Democrat backs impeachment of Pete Hegseth",
+   "description": "‘Hegseth has got to go’.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-top-democrat-backs-impeachment-of-pete-hegseth?traffic_source=rss",
+   "date": "2026-11-09T08:26:50+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5bbdcd1d2e8b",
+   "source": "Al Jazeera",
+   "title": "Trump ‘only kidding’ about Dana White press secretary role",
+   "description": "Donald Trump says he was ‘only kidding’ about appointing UFC CEO Dana White as the White House press secretary.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss",
+   "date": "2026-11-09T08:18:00+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "df3107c0bf13",
+   "source": "The Guardian",
+   "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
+   "description": "From Serbia to Bangladesh and India to France, young people are pushing back against authoritarianism and reshaping political landscapes In Brazil, they rallied online by the millions, sharing videos and spreading memes. In Serbia, they cycled across Europe and ran ultramarathons",
+   "url": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world",
+   "date": "2026-11-09T08:04:44+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "771a593483f2",
+   "source": "Al Jazeera",
+   "title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar",
+   "description": "Aprilia's Marco Bezzecchi wins Qatar Grand Prix as Ducati's Marc Marquez finishes second.",
+   "url": "https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss",
+   "date": "2026-11-09T07:56:16+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "705765070385",
+   "source": "BBC Mundo",
+   "title": "Qué se sabe del ataque que dejó al menos 6 muertos y decenas de heridos en Polonia",
+   "description": "Las autoridades han iniciado las investigaciones para esclarecer los motivos de este \"trágico suceso\".",
+   "url": "https://www.bbc.com/mundo/articles/c6d091e7jzz7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-09T07:44:53+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "088c41575e0a",
+   "source": "Deutsche Welle",
+   "title": "Muere el autor del atentado de Cracovia sin aclararse el móvil",
+   "description": "El sospechoso falleció en el hospital tras resultar herido durante su detención. Las autoridades investigan el ataque, que causó seis muertos y 16 heridos, como un posible acto de terrorismo.",
+   "url": "https://www.dw.com/es/muere-el-autor-del-atentado-de-cracovia-sin-aclararse-el-móvil/a-79895882?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-09T07:41:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "faedf346bb1d",
+   "source": "Al Jazeera",
+   "title": "Which countries and industries emit the most greenhouse gases?",
+   "description": "The US has emitted the most CO2 in history; China is now the biggest emitter. Here’s who is driving global emissions.",
+   "url": "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss",
+   "date": "2026-11-09T07:21:37+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "8566290aaa06",
+   "source": "Al Jazeera",
+   "title": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
+   "description": "Hasina, who has been living in India for two years, has promised that she would return to Bangladesh in December.",
+   "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss",
+   "date": "2026-11-09T07:12:09+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "c7d0f9723a5b",
+   "source": "Al Jazeera",
+   "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
+   "description": "International Maritime Organization records at least 25 deaths since the conflict started on February 28.",
+   "url": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
+   "date": "2026-11-09T07:07:26+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "26ddba3eca3a",
+   "source": "Al Jazeera",
+   "title": "Poland mass shooting assailant dies in hospital, police say",
+   "description": "Suspect shot by police and arrested minutes ‌after gunfire opened on people in central Krakow.",
+   "url": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss",
+   "date": "2026-11-09T07:03:24+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "5b9d43161227",
    "source": "The Guardian",
@@ -189,6 +299,16 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/new-delhi-blanketed-in-toxic-smog-after-diwali-fireworks?traffic_source=rss",
    "date": "2026-11-09T04:35:34+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "73150f47bd65",
+   "source": "The Guardian",
+   "title": "CFMEU ‘enjoy a significant level of influence’ over Victorian government, Big Build royal commission hears",
+   "description": "Inquiry into allegations of corruption begins block of hearings focused on 2022 level crossing removal project Get our breaking news email , free app or daily news podcast The royal commission into allegations of corruption on Victorian Big Build projects has heard a major constr",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/09/big-build-royal-commission-hears-cfmeu-enjoy-a-significant-level-of-influence-over-victorian-government-ntwnfb",
+   "date": "2026-11-09T04:34:08+00:00",
+   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -542,16 +662,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8bd93a7d4803",
-   "source": "The Guardian",
-   "title": "‘Homicidal, not suicidal’: Beau Lamarre-Condon allegedly claimed workplace bullying for sympathy, court hears",
-   "description": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in early 2024 Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon was “homicidal, not suicidal”, a court",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
-   "date": "2026-11-09T01:44:14+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "88fcf2181301",
    "source": "Radio Bío-Bío",
    "title": "Zelenski afirma que Rusia efectuó una importante rotación militar durante la tregua en Oleshki",
@@ -639,16 +749,6 @@
    "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/08/alexis-sanchez-y-alexandra-litvinova-celebran-el-primer-ano-de-su-hija-compartieron-tiernas-fotos.shtml",
    "date": "2026-11-09T01:26:40+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "6fd889aa5f39",
-   "source": "Al Jazeera",
-   "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
-   "description": "The strike leaves more than 70 percent of northern Iraq's Kurdish region without power.",
-   "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
-   "date": "2026-11-09T01:19:09+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -762,16 +862,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1147a941180c",
-   "source": "Al Jazeera",
-   "title": "India’s night lights up for Diwali",
-   "description": "India is celebrating Diwali with prayers, lights and fireworks marking one of the country's biggest Hindu festivals.",
-   "url": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss",
-   "date": "2026-11-09T00:24:04+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "d7aa7adfebfa",
    "source": "Radio Bío-Bío",
    "title": "Trump dice que \"supone que subió\" su riqueza: Forbes reveló aumento de 3 mil millones en su patrimonio",
@@ -812,16 +902,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3f664ce1a0f1",
-   "source": "Al Jazeera",
-   "title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
-   "description": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.",
-   "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
-   "date": "2026-11-09T00:07:02+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "0f634720a317",
    "source": "Radio Bío-Bío",
    "title": "Partido en Teletón 2026: el gol de Lucila Vit que terminó en risas y abrazo con Rafael Olarra",
@@ -842,36 +922,6 @@
    "type": "Prensa"
   },
   {
-   "id": "19c7d79f1f68",
-   "source": "Al Jazeera",
-   "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
-   "description": "Trump says Iran land blockade is now in effect, as Tehran threatens to 'rain down hell' if US resumes attacks.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
-   "date": "2026-11-09T00:00:34+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "674756de7b47",
-   "source": "Al Jazeera",
-   "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
-   "description": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
-   "date": "2026-11-08T23:58:53+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "bd5434d2acd1",
-   "source": "Al Jazeera",
-   "title": "Mexican mayor found alive after hours-long abduction",
-   "description": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.",
-   "url": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
-   "date": "2026-11-08T23:55:37+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "232ba93f442c",
    "source": "BBC Mundo",
    "title": "\"La economía debe estar al servicio de las personas y no las personas al servicio de la economía\": el mensaje del papa León XIV frente a Milei a su llegada a Argentina",
@@ -879,16 +929,6 @@
    "url": "https://www.bbc.com/mundo/articles/cqkg5r5x5l7mo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-08T23:54:35+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "eb994d5f1f90",
-   "source": "Al Jazeera",
-   "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
-   "description": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party.",
-   "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
-   "date": "2026-11-08T23:39:47+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -979,16 +1019,6 @@
    "url": "https://www.dw.com/es/trump-considera-altamente-improbable-que-se-reanude-la-guerra-con-irán/a-79894761?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-08T22:43:00+00:00",
    "category": "Conflictos armados y seguridad internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "2875558dc19e",
-   "source": "Al Jazeera",
-   "title": "Lopez double fires Barcelona to win at Atletico Madrid",
-   "description": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
-   "url": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
-   "date": "2026-11-08T22:42:12+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1292,16 +1322,6 @@
    "type": "Prensa"
   },
   {
-   "id": "385ebb562dd3",
-   "source": "The Guardian",
-   "title": "UK spent £100m on zombie Brexit border inspection posts",
-   "description": "Five of seven facilities in England and Wales never reached operational stage as Tories vacillated over plans to check goods The UK wasted at least £100m in taxpayers’ money to set up zombie Brexit border inspection posts that were never used, it has been revealed. The overall co",
-   "url": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods",
-   "date": "2026-11-08T13:32:58+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "2026d6989682",
    "source": "Ex-Ante",
    "title": "Entre la sordera y la falta de política. Por Enrique Correa",
@@ -1319,16 +1339,6 @@
    "url": "https://www.bbc.com/mundo/articles/cm20v7vg5zd1o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-08T13:13:50+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "1995afb3efc0",
-   "source": "Deutsche Welle",
-   "title": "Polonia califica de ataque \"terrorista\" el tiroteo en Cracovia",
-   "description": "Además de las seis personas que murieron, se hallaron los cuerpos de los padres y una hermana en la residencia del sospechoso.",
-   "url": "https://www.dw.com/es/polonia-califica-de-ataque-terrorista-el-tiroteo-en-cracovia/a-79890865?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-08T13:05:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -1378,16 +1388,6 @@
    "description": "Tras el impacto del asteroide que acabó con los dinosaurios, las aves gigantes se convirtieron en superdepredadores durante decenas de millones de años, y los seres humanos figuraban entre sus presas.",
    "url": "https://www.bbc.com/mundo/articles/cm62yxpxv5kqo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-08T10:56:09+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "705765070385",
-   "source": "BBC Mundo",
-   "title": "Qué se sabe del ataque que dejó al menos 6 muertos y decenas de heridos en Polonia",
-   "description": "Las autoridades han iniciado las investigaciones para esclarecer los motivos de este \"trágico suceso\".",
-   "url": "https://www.bbc.com/mundo/articles/c6d091e7jzz7o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-08T10:30:14+00:00",
    "category": "América Latina",
    "type": "Prensa"
   },
