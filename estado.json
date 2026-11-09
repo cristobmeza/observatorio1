@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T23:29:47.850484+00:00",
+ "updated": "2026-11-09T00:48:40.875850+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -49,7 +49,7 @@
   },
   "Deutsche Welle": {
    "ok": true,
-   "n": 18,
+   "n": 12,
    "url": "https://rss.dw.com/xml/rss-sp-all"
   },
   "France 24": {

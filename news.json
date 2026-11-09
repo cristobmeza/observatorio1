@@ -1,6 +1,376 @@
 {
- "updated": "2026-11-08T23:29:47.850484+00:00",
+ "updated": "2026-11-09T00:48:40.875850+00:00",
  "items": [
+  {
+   "id": "4b8c4772b023",
+   "source": "The Guardian",
+   "title": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
+   "description": "Footscray man charged over death of 47-year-old Feng Jianming in the CBD on Friday night Get our breaking news email , free app or daily news podcast A man has been charged with murder after a delivery rider was stabbed to death while working, leaving his family bereft and a city",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
+   "date": "2026-11-09T00:38:46+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "67d101341553",
+   "source": "France 24",
+   "title": "¿Qué pasó con las donaciones del terremoto en Colombia? La fundación de la primera dama, bajo la lupa",
+   "description": "Después de tres meses del terremoto en Colombia, un juez ordenó a la fundación de Ana Lucía Pineda, esposa del presidente Abelardo de la Espriella, detallar el uso de los aportes privados para las víctimas de la tragedia del 10 de agosto, que dejó al menos 330 muertos y destruyó ",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261109-qu%C3%A9-pas%C3%B3-con-las-donaciones-del-terremoto-en-colombia-la-fundaci%C3%B3n-de-la-primera-dama-bajo-la-lupa",
+   "date": "2026-11-09T00:29:12+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "88b4e4f74137",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] Con mensaje a Alexítico incluido: El bailecito de Mosa tras el título de Colo Colo",
+   "description": "El presidente de Blanco y Negro, Aníbal Mosa, se lució con pasos de baile en medio de los festejos de Colo Colo por el título 35, alcanzado en Chillán gracias a un triunfo 2-1 sobre Ñublense. El dirigente, acompañado de varios jugadores del plantel, se mostró de gran ánimo en un ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-con-mensaje-a-alexitico-incluido-el-bailecito-de-mosa-tras-el/2026-11-08/212725.html",
+   "date": "2026-11-09T00:27:25+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "1384bec18842",
+   "source": "Radio Cooperativa",
+   "title": "Jeyson Rojas: Como canteranos, es el sueño de todos poder salir campeón",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/jeyson-rojas-como-canteranos-es-el-sueno-de-todos-poder-salir-campeon/2026-11-08/212634.html",
+   "date": "2026-11-09T00:26:34+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "f6521794ca44",
+   "source": "The Guardian",
+   "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+   "description": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligen",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+   "date": "2026-11-09T00:25:28+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "3a8d2a7a4586",
+   "source": "Radio Cooperativa",
+   "title": "Nvidia investigará a su CEO por infidelidad con supuesta espía china",
+   "description": "El gigante tecnológico Nvidia anunció que investigará a su propio fundador y director ejecutivo, Jensen Huang, quien admitió que tuvo un amorío extramarital con una mujer de negocios, quien resultó ser una espía china , según reportes de inteligencia de Estados Unidos. La junta d",
+   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/seguridad/nvidia-investigara-a-su-ceo-por-infidelidad-con-supuesta-espia-china/2026-11-08/211940.html",
+   "date": "2026-11-09T00:19:40+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "40024b98d56f",
+   "source": "Radio Cooperativa",
+   "title": "Diego Ulloa y la corona de Colo Colo: Somos un gran grupo y se vio reflejado",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/diego-ulloa-y-la-corona-de-colo-colo-somos-un-gran-grupo-y-se-vio/2026-11-08/211159.html",
+   "date": "2026-11-09T00:11:59+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "386faf7a99b5",
+   "source": "Radio Cooperativa",
+   "title": "Caída de árboles lesionó a una persona y causó corte de energía en Conchalí",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/caida-de-arboles-lesiono-a-una-persona-y-causo-corte-de-energia-en/2026-11-08/211056.html",
+   "date": "2026-11-09T00:10:56+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "3f664ce1a0f1",
+   "source": "Al Jazeera",
+   "title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+   "description": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.",
+   "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
+   "date": "2026-11-09T00:07:02+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "0f634720a317",
+   "source": "Radio Bío-Bío",
+   "title": "Partido en Teletón 2026: el gol de Lucila Vit que terminó en risas y abrazo con Rafael Olarra",
+   "description": "Fue un gol, una carrera y un abrazo que nadie esperaba. La presentadora argentina Lucila Vit anotó en un partido benéfico de la Teletón 2026 y salió corriendo a celebrar con Rafael Olarra, con quien habría terminado su relación a mediados de año. El encuentro se jugó en El Uno Ca",
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/08/partido-en-teleton-2026-el-gol-de-lucila-vit-que-termino-en-risas-y-abrazo-con-rafael-olarra.shtml",
+   "date": "2026-11-09T00:04:43+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "ce7ad27137ee",
+   "source": "Radio Bío-Bío",
+   "title": "\"Si Colo Colo fuera de la gente, jugaría gratis\": Vidal responde fuerte a críticos y a ByN tras título",
+   "description": "El futuro de Arturo Vidal en Colo Colo suma un nuevo capítulo de tensión. En medio de los rumores que apuntan a una eventual reducción del 50% de su salario para continuar en el Monumental, el volante rompió el silencio y lanzó un potente mensaje. Todo ocurrió a la salida del Est",
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/si-colo-colo-fuera-de-la-gente-jugaria-gratis-vidal-responde-fuerte-a-criticos-y-a-byn-tras-titulo.shtml",
+   "date": "2026-11-09T00:02:25+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "b75a1774f86a",
+   "source": "Radio Cooperativa",
+   "title": "Jonathan Villagra: Esto recién empieza, el campeonato nos motiva para un 2027 mucho mejor",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/jonathan-villagra-esto-recien-empieza-el-campeonato-nos-motiva-para-un/2026-11-08/210133.html",
+   "date": "2026-11-09T00:01:33+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "55813a487c43",
+   "source": "The Guardian",
+   "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
+   "description": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools into “early exam factories”, the education secretary has said, warning that it is ",
+   "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
+   "date": "2026-11-09T00:01:05+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "19c7d79f1f68",
+   "source": "Al Jazeera",
+   "title": "Iran war live: Trump says land blockade in effect; drone cuts power in Iraq",
+   "description": "More than 70 percent of northern Iraq's Kurdish region is without power after a drone struck the Khor Mor gas facility,",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+   "date": "2026-11-09T00:00:34+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "674756de7b47",
+   "source": "Al Jazeera",
+   "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
+   "description": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
+   "date": "2026-11-08T23:58:53+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "c9970f2f356d",
+   "source": "Radio Cooperativa",
+   "title": "Jarry cerró trabajado triunfo y avanzó en la qualy del Challenger de Lima",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Nicolás Jarry (785° del ranking ATP) consiguió una importante victoria este domingo en la primera ronda de la qualy del Challenger de Lima, tras superar al brasileño Felipe Meligeni Alves (348°) por parciales de 7-6 (4) y 7",
+   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/nicolas-jarry/jarry-cerro-trabajado-triunfo-y-avanzo-en-la-qualy-del-challenger-de-lima/2026-11-08/205744.html",
+   "date": "2026-11-08T23:57:44+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "bd5434d2acd1",
+   "source": "Al Jazeera",
+   "title": "Mexican mayor found alive after hours-long abduction",
+   "description": "Rio Bravo mayor freed by captors after being abducted in Zacatecas state, known for cartel-linked violence.",
+   "url": "https://www.aljazeera.com/news/2026/11/8/mexican-mayor-found-alive-after-hours-long-abduction?traffic_source=rss",
+   "date": "2026-11-08T23:55:37+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "6bd988add6cd",
+   "source": "Radio Cooperativa",
+   "title": "Alcaraz venció a Shelton y conquistó por primera vez el Masters 1.000 de París",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Carlos Alcaraz (3° del ranking ATP) se proclamó campeón del Masters 1.000 de París tras derrotar al estadounidense Ben Shelton (4°) por 7-6 (5) y 7-5, en una final disputada este domingo que le permitió conquistar por prime",
+   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/carlos-alcaraz/alcaraz-vencio-a-shelton-y-conquisto-por-primera-vez-el-masters-1-000-de/2026-11-08/205456.html",
+   "date": "2026-11-08T23:54:56+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "232ba93f442c",
+   "source": "BBC Mundo",
+   "title": "El mensaje del papa León XIV frente a Milei a su llegada a Argentina",
+   "description": "El pontífice dijo ante Javier Milei, conocido por los insultos contra sus detractores, que fortalecer la democracia requería una \"disposición a escuchar\" y un \"uso cuidadoso de las palabras\".",
+   "url": "https://www.bbc.com/mundo/articles/cqkg5r5x5l7mo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-08T23:54:35+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "4223940ff72e",
+   "source": "Radio Cooperativa",
+   "title": "Norris ganó el GP de Sao Paulo y Mercedes conquistó el título de constructores",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Lando Norris, piloto británico de McLaren, se quedó con la victoria en el Gran Premio de Sao Paulo , disputado este domingo en el circuito de Interlagos, mientras que Mercedes aseguró matemáticamente el Campeonato Mundial d",
+   "url": "https://www.cooperativa.cl/noticias/deportes/automovilismo/formula-1/norris-gano-el-gp-de-sao-paulo-y-mercedes-conquisto-el-titulo-de/2026-11-08/205407.html",
+   "date": "2026-11-08T23:54:07+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "4018aa6c2f40",
+   "source": "Radio Cooperativa",
+   "title": "Barcelona remontó ante Atlético de Madrid y se afianzó como líder en España",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes FC Barcelona consiguió una importante victoria por 2-1 ante Atlético de Madrid en el Estadio Metropolitano, por la duodécima fecha de la liga española, gracias a un doblete de Fermín López que le permitió remontar el marcad",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/fc-barcelona/barcelona-remonto-ante-atletico-de-madrid-y-se-afianzo-como-lider-en/2026-11-08/205352.html",
+   "date": "2026-11-08T23:53:52+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "8bd93a7d4803",
+   "source": "The Guardian",
+   "title": "‘This happened very quick’: Beau Lamarre-Condon reenacts shooting Jesse Baird during double murder trial",
+   "description": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in early 2024 Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has demonstrated in court how he claims he shot Jesse Baird, acting out his movements",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/09/beau-lamarre-condon-trial-reenacts-shooting-jesse-baird-ntwnfb",
+   "date": "2026-11-08T23:50:17+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "3fd568418db3",
+   "source": "Radio Bío-Bío",
+   "title": "Tonka Tomicic causa intriga con nuevo video sobre el \"caso relojes\": \"Me tomé mi tiempo\"",
+   "description": "Tonka Tomici volvió a causar intriga con un nuevo video en sus redes sociales que hace referencia al polémico “caso relojes”, por el cual es investigado su exesposo Marco Antonio López, más conocido como Parived. Este domingo, la comunicadora publicó en su cuenta de Instagram un ",
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/08/tonka-tomicic-causa-intriga-con-nuevo-video-sobre-el-caso-relojes-me-tome-mi-tiempo.shtml",
+   "date": "2026-11-08T23:46:00+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "baca1049115c",
+   "source": "Radio Cooperativa",
+   "title": "Huachipato naufragó en su visita a La Calera",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-naufrago-en-su-visita-a-la-calera/2026-11-08/204106.html",
+   "date": "2026-11-08T23:41:06+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "cf9684147b45",
+   "source": "Radio Cooperativa",
+   "title": "Caso Ueno bank: Fiscalía de Paraguay allanó la lujosa mansión de Santiago Peña",
+   "description": "La Fiscalía de Paraguay ordenó este domingo una operación de registro de una lujosa vivienda del expresidente Santiago Peña , quien se encuentra en prisión preventiva como parte de la investigación por el cierre de Ueno bank , una entidad con la que el ahora exmandatario es vincu",
+   "url": "https://www.cooperativa.cl/noticias/mundo/paraguay/caso-ueno-bank-fiscalia-de-paraguay-allano-la-lujosa-mansion-de/2026-11-08/204104.html",
+   "date": "2026-11-08T23:41:04+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "eb994d5f1f90",
+   "source": "Al Jazeera",
+   "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+   "description": "Ilse Aigner, speaker of the Bavarian state parliament, belongs to the Christian Social Union in Bavaria (CSU) party.",
+   "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss",
+   "date": "2026-11-08T23:39:47+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "4643fbdb782b",
+   "source": "France 24",
+   "title": "Informe desde Buenos Aires: Javier Milei recibe a León XIV en Buenos Aires",
+   "description": "El papa León XIV inició su visita oficial a Argentina, la primera de un pontífice al país en casi cuatro décadas. Durante una gira de cuatro días, recorrerá Buenos Aires, Córdoba y Luján, donde encabezará celebraciones religiosas, encuentros con autoridades y actividades con fiel",
+   "url": "https://www.france24.com/es/video/20261108-informe-desde-buenos-aires-javier-milei-recibe-a-le%C3%B3n-xiv-en-buenos-aires",
+   "date": "2026-11-08T23:35:43+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "cab58fbc2e84",
+   "source": "Ex-Ante",
+   "title": "Cadem: Rebaja de penas, caída de crecimiento y alza de desempleo explican alta desaprobación de Kast (Lea aquí la encuesta)",
+   "description": "En la primera semana de noviembre, un 29% (tres puntos más que en la anterior encuesta) aprueba la gestión del Presidente Kast y 68% (un…",
+   "url": "https://www.ex-ante.cl/politica/cadem-desaprobacion-kast-rebaja-de-penas/",
+   "date": "2026-11-08T23:34:37+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "3aa7885fd179",
+   "source": "France 24",
+   "title": "¿Fin de la era Netanyahu? Eisenkot recibe el encargo de formar gobierno",
+   "description": "El presidente de Isaac Herzog encargó a Gadi Eisenkot la formación de un nuevo gobierno en Israel, tras convertirse en el líder con mayores posibilidades de reunir una mayoría parlamentaria en la Knéset. Si logra consolidar una coalición, reemplazará al Ejecutivo encabezado por B",
+   "url": "https://www.france24.com/es/video/20261108-fin-de-la-era-netanyahu-eisenkot-recibe-el-encargo-de-formar-gobierno",
+   "date": "2026-11-08T23:34:27+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "d97cd3e72cb3",
+   "source": "CIPER Chile",
+   "title": "Una política de envejecimiento que no solo mire el cuerpo",
+   "description": "La entrada Una política de envejecimiento que no solo mire el cuerpo se publicó primero en CIPER Chile .",
+   "url": "https://www.ciperchile.cl/2026/11/08/una-politica-de-envejecimiento-que-no-solo-mire-el-cuerpo/?utm_source=rss&utm_medium=rss&utm_campaign=una-politica-de-envejecimiento-que-no-solo-mire-el-cuerpo",
+   "date": "2026-11-08T23:34:11+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "25b31c92ccc5",
+   "source": "France 24",
+   "title": "Informe desde Antalya: ¿en qué temas se centrará la COP31 que arranca en Turquía?",
+   "description": "La ciudad turca de Antalya ultima los preparativos para recibir la COP31, la Conferencia de las Partes de la ONU sobre cambio climático, que se celebrará del 9 al 20 de noviembre de 2026. En la agenda de la cumbre se espera que la no dependencia de los combustibles fósiles y la e",
+   "url": "https://www.france24.com/es/video/20261108-informe-desde-antalya-en-qu%C3%A9-temas-se-centrar%C3%A1-la-cop31-que-arranca-en-turqu%C3%ADa",
+   "date": "2026-11-08T23:32:01+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d3c0e5676b14",
+   "source": "France 24",
+   "title": "Informe desde Jerusalén: Gadi Eisenkot invitó al partido de Netanyahu a formar coalición",
+   "description": "El líder opositor israelí Gadi Eisenkot sorprendió al invitar al Likud, el partido de Benjamin Netanyahu, y al Partido Sionista Religioso a sumarse a un posible gobierno de coalición. La propuesta llega después de que el presidente Isaac Herzog le encargara formar Ejecutivo tras ",
+   "url": "https://www.france24.com/es/video/20261108-informe-desde-jerusal%C3%A9n-gadi-eisenkot-invit%C3%B3-al-partido-de-netanyahu-a-formar-coalici%C3%B3n",
+   "date": "2026-11-08T23:29:47+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "3a7f2f7abf60",
+   "source": "Radio Bío-Bío",
+   "title": "Usar inteligencia artificial sale más caro si no hablas inglés, según un nuevo estudio",
+   "description": "Dos personas hacen la misma pregunta a un asistente de inteligencia artificial. Una la escribe en inglés y la otra en un idioma con poca presencia en internet. El resultado es parecido, pero la segunda puede pagar bastante más por obtenerlo. Esa es la conclusión de un estudio de ",
+   "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/pc-e-internet/2026/11/08/usar-inteligencia-artificial-sale-mas-caro-si-no-hablas-ingles-segun-un-nuevo-estudio.shtml",
+   "date": "2026-11-08T23:22:39+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "42dc07c2f929",
+   "source": "Radio Bío-Bío",
+   "title": "Los decretos no se detuvieron: Rabat y nueva subsecretaria bajan pena a condenado por brutal homicidio",
+   "description": "En medio de la crisis que atraviesa el Gobierno, Fernando Rabat estampó su rúbrica en un nuevo decreto que benefició a un homicida con una conocida carrera criminal en el interior de la región de Valparaíso. El favorecido esta vez es Peter Andrés Rojas Gallardo (40). Su última co",
+   "url": "https://www.biobiochile.cl/especial/bbcl-investiga/noticias/articulos/2026/11/08/los-decretos-no-se-detuvieron-rabat-y-nueva-subsecretaria-bajan-pena-a-condenado-por-brutal-homicidio.shtml",
+   "date": "2026-11-08T23:21:30+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "ac1d9e0cebfc",
+   "source": "Radio Cooperativa",
+   "title": "Camioneros solicitaron al Gobierno modificar el Mepco ante eventual nueva alza del diésel",
+   "description": "La Confederación Nacional de Transporte de Carga de Chile (CNTC) solicitó al Gobierno modificar los parámetros del Mecanismo de Estabilización de Precios de los Combustibles (Mepco) ante la posibilidad de que el diésel registre un alza de hasta 580 pesos , según las estimaciones ",
+   "url": "https://www.cooperativa.cl/noticias/pais/consumidores/combustibles/camioneros-solicitaron-al-gobierno-modificar-el-mepco-ante-eventual/2026-11-08/202105.html",
+   "date": "2026-11-08T23:21:05+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "8cf488f37cdd",
+   "source": "Radio Bío-Bío",
+   "title": "Pareja de Arturo Vidal lo llena de elogios por triunfo de Colo Colo: \"Lo guerrero y luchador que eres\"",
+   "description": "Este domingo Colo Colo se coronó campeón de la Liga de Primera 2026 y uno de los protagonistas de la jornada fue Arturo Vidal, a quien su pareja, Sonia Isaza, llenó de elogios por este nuevo triunfo en su carrera. Colo Colo se coronó este domingo campeón de la Liga de Primera 202",
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/08/pareja-de-arturo-vidal-lo-llena-de-elogios-por-triunfo-de-colo-colo-lo-guerrero-y-luchador-que-eres.shtml",
+   "date": "2026-11-08T23:18:29+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "d4fa0eb56fe8",
+   "source": "Radio Bío-Bío",
+   "title": "Cadem: rebaja de penas y desempleo impulsan la desaprobación del presidente Kast",
+   "description": "En su más reciente edición, la encuesta Plaza Pública Cadem reveló que la rebaja de penas a condenados por delitos sexuales (43%) y la caída del crecimiento, así como el aumento del desempleo (42%) son las principales razones de desaprobación al presidente José Antonio Kast. Segú",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/08/cadem-rebaja-de-penas-y-desempleo-impulsan-la-desaprobacion-del-presidente-kast.shtml",
+   "date": "2026-11-08T23:16:59+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
   {
    "id": "ebc3c788fec6",
    "source": "France 24",
@@ -12,23 +382,13 @@
    "type": "Prensa"
   },
   {
-   "id": "6df833ac8ffa",
-   "source": "Radio Cooperativa",
-   "title": "Unión La Calera venció a Huachipato y tomó aire en la lucha por la permanencia",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Unión La Calera consiguió una victoria fundamental en su lucha por evitar el descenso tras superar por 1-0 a Huachipato en el Estadio \"Nicolás Chahuán\", resultado que le permitió abandonar provisoriamente el último lugar de",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/union-la-calera/union-la-calera-vencio-a-huachipato-y-tomo-aire-en-la-lucha-por-la/2026-11-08/201001.html",
-   "date": "2026-11-08T23:10:01+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "ea148ab44dcf",
-   "source": "Radio Cooperativa",
-   "title": "Iván Román: Estoy feliz por levantar una copa en el club más grande de Chile",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ivan-roman-estoy-feliz-por-levantar-una-copa-en-el-club-mas-grande-de/2026-11-08/200406.html",
-   "date": "2026-11-08T23:04:06+00:00",
-   "category": "",
+   "id": "5402c1a0cc88",
+   "source": "Radio Bío-Bío",
+   "title": "Tras ser campeón con Boca: Palacios alentó a Colo Colo en Chillán y celebró con abrazo junto a Correa",
+   "description": "Carlos Palacios sorprendió al aparecer este domingo en el Estadio ‘Nelson Oyarzún’ de Chillán para alentar a Colo Colo, apenas horas después de haberse consagrado campeón con Boca Juniors en Argentina. La ‘Joya’ no quiso perderse la posibilidad de acompañar a sus excompañeros en ",
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/tras-ser-campeon-con-boca-palacios-alento-a-colo-colo-en-chillan-y-celebro-con-abrazo-junto-a-correa.shtml",
+   "date": "2026-11-08T23:09:57+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -42,43 +402,13 @@
    "type": "Prensa"
   },
   {
-   "id": "10310815d122",
-   "source": "Radio Cooperativa",
-   "title": "Gedeón Díaz se ilusiona con jugar la Libertadores: Me puedo mostrar más",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/gedeon-diaz-se-ilusiona-con-jugar-la-libertadores-me-puedo-mostrar-mas/2026-11-08/195706.html",
-   "date": "2026-11-08T22:57:06+00:00",
+   "id": "e76fc7a1dbc6",
+   "source": "Radio Bío-Bío",
+   "title": "Niño embajador de la Teletón festeja histórica recaudación y agradece a los chilenos: \"Sueño cumplido\"",
+   "description": "Iaán Calderón, el niño embajador de la Teletón de este año, utilizó sus redes sociales para celebrar la histórica recaudación de este año y agradecer a los chilenos por su solidaridad. A solo minutos del cierre de la transmisión televisiva, durante la madrugada del domingo, se su",
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/08/nino-embajador-de-la-teleton-festeja-historica-recaudacion-y-agradece-a-los-chilenos-sueno-cumplido.shtml",
+   "date": "2026-11-08T22:52:54+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "1afdb852cae7",
-   "source": "Radio Cooperativa",
-   "title": "Joaquín Sosa: Estoy enojado por perderme el partido más importante",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/joaquin-sosa-estoy-enojado-por-perderme-el-partido-mas-importante/2026-11-08/195459.html",
-   "date": "2026-11-08T22:54:59+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "4d9b949979ad",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] Colo Colo repasó a Vero Bianchi y Mandreva: \"La historia no cambia\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Tras consagrarse campeón de la Liga de Primera 2026, Colo Colo le dio un inesperado repaso a la periodista Verónica Bianchi y el streamer Mandreva , y hasta al liquidador de Sartor, Eduardo Godoy, por sus palabras a lo larg",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-colo-colo-repaso-a-vero-bianchi-y-mandreva-la-historia-no/2026-11-08/194857.html",
-   "date": "2026-11-08T22:48:57+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "3f9c37c263a0",
-   "source": "Radio Cooperativa",
-   "title": "Morón: Ser campeón no es algo del último partido, sino que de todo un año",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/moron-ser-campeon-no-es-algo-del-ultimo-partido-sino-que-de-todo-un/2026-11-08/194748.html",
-   "date": "2026-11-08T22:47:48+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -92,16 +422,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ebbf6fdc5580",
-   "source": "Radio Cooperativa",
-   "title": "Pastrán reafirmó su intención de seguir en Colo Colo: Me gustaría quedarme",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/pastran-reafirmo-su-intencion-de-seguir-en-colo-colo-me-gustaria/2026-11-08/194259.html",
-   "date": "2026-11-08T22:42:59+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "2875558dc19e",
    "source": "Al Jazeera",
    "title": "Lopez double fires Barcelona to win at Atletico Madrid",
@@ -112,13 +432,13 @@
    "type": "Prensa"
   },
   {
-   "id": "92f005937bb1",
-   "source": "Radio Cooperativa",
-   "title": "Papa León XIV y Javier Milei se reunieron en la Casa Rosada en el inicio de su visita a Argentina",
-   "description": "El papa León XIV y el presidente de Argentina , Javier Milei , mantuvieron este domingo una reunión en la Casa Rosada , sede del Ejecutivo argentino, en el primer día de la visita apostólica al país suramericano. El papa fue recibido a las puertas de la Casa Rosada por Milei , tr",
-   "url": "https://www.cooperativa.cl/noticias/mundo/vaticano/papa-leon-xiv/papa-leon-xiv-y-javier-milei-se-reunieron-en-la-casa-rosada-en-el-inicio/2026-11-08/193105.html",
-   "date": "2026-11-08T22:31:05+00:00",
-   "category": "América Latina",
+   "id": "a02e77f00c7e",
+   "source": "Radio Bío-Bío",
+   "title": "Unión La Calera derrotó con lo justo a Huachipato, sale del fondo y sigue soñando con la salvación",
+   "description": "Unión La Calera consiguió este domingo un triunfo importantísimo en su lucha por mantenerse en la Primera División del fútbol chileno. El cuadro cementero derrotó por 1-0 a Huachipato, en el estadio Nicolás Chahuán, en compromiso válido por la fecha 27 de la Liga de Primera 2026.",
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/union-la-calera-derroto-con-lo-justo-a-huachipato-sale-del-fondo-y-sigue-sonando-con-la-salvacion.shtml",
+   "date": "2026-11-08T22:33:38+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -132,6 +452,26 @@
    "type": "Prensa"
   },
   {
+   "id": "2b3d19613006",
+   "source": "Radio Bío-Bío",
+   "title": "Detienen a un hombre por amenazar de muerte al Papa en Argentina",
+   "description": "La Secretaría de Inteligencia de Estado (SIDE) de Argentina, dependiente de la Presidencia, informó de la detención de un hombre por supuestamente haber amenazado al papa León XIV en la antesala de su visita al país suramericano. La SIDE informó en un comunicado, distribuido en l",
+   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/08/detienen-a-un-hombre-por-amenazar-de-muerte-al-papa-en-argentina.shtml",
+   "date": "2026-11-08T22:27:13+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "957a475cc759",
+   "source": "Radio Bío-Bío",
+   "title": "Perrito chileno iba a ser sacrificado, pero fue adoptado por canadiense: ahora vive feliz en Vancouver",
+   "description": "El fotógrafo e influencer canadiense Justin Veenema caminaba por las calles de Vancouver cuando se encontró con Sid, un perrito, y con su dueño, Luke. Al notar la ternura y belleza del can, decidió consultar si podía tomarle un par de fotos. Fue ahí cuando Luke contó la emocionan",
+   "url": "https://www.biobiochile.cl/noticias/sociedad/historia/2026/11/08/perrito-chileno-iba-a-ser-sacrificado-pero-fue-adoptado-por-canadiense-ahora-vive-feliz-en-vancouver.shtml",
+   "date": "2026-11-08T22:24:57+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "409b8bebebd1",
    "source": "BBC Mundo",
    "title": "Nvidia abre una investigación sobre la relación de su director ejecutivo con una presunta espía china",
@@ -139,16 +479,6 @@
    "url": "https://www.bbc.com/mundo/articles/ck20wv99nd81o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-08T22:20:28+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "8b36561b07b0",
-   "source": "Radio Cooperativa",
-   "title": "Una multitud de hinchas colmó Plaza Italia para celebrar la estrella 35 de Colo Colo",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/una-multitud-de-hinchas-colmo-plaza-italia-para-celebrar-la-estrella-35/2026-11-08/191931.html",
-   "date": "2026-11-08T22:19:31+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -172,33 +502,33 @@
    "type": "Prensa"
   },
   {
-   "id": "4b8c4772b023",
-   "source": "The Guardian",
-   "title": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
-   "description": "Footscray man charged over death of 47-year-old Feng Jianming in the CBD on Friday night Get our breaking news email , free app or daily news podcast A man has been charged with murder after a delivery rider was stabbed to death while working, leaving his family bereft and a city",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
-   "date": "2026-11-08T22:03:59+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "id": "1fa6d1b55e85",
+   "source": "Radio Bío-Bío",
+   "title": "Alejandro Arriagada se lesionó tras partido de la Teletón, pero no le importó: le hizo un gol a Bravo",
+   "description": "El exchico Mekano Alejandro Arriagada se lesionó tras jugar un partido de fútbol para recaudar fondos para la Teletón. Sin embargo, su lesión no le importó, ya que se jactó de que le hizo un gol al mismísimo Claudio Bravo. Fue a través de sus redes sociales donde Alejandro se bur",
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/08/alejandro-arriagada-se-lesiono-tras-partido-de-la-teleton-pero-no-le-importo-le-hizo-un-gol-a-bravo.shtml",
+   "date": "2026-11-08T22:08:51+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "83e42eaa0720",
+   "source": "Radio Bío-Bío",
+   "title": "Popular \"acuario\" de Roku se irá a fin de mes: creador canceló millonario contrato en rechazo a Fox",
+   "description": "Un día los usuarios de Roku, el popular aparato para ver streaming en el televisor, encendieron su pantalla y se encontraron con un tan triste como inesperado: sus peces se iban a ir. Desde el 1 de diciembre, el popular protector de pantalla \"Aquatic Life\" dejará de estar disponi",
+   "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/pc-e-internet/2026/11/08/popular-acuario-de-roku-se-ira-a-fin-de-mes-creador-cancelo-millonario-contrato-en-rechazo-a-fox.shtml",
+   "date": "2026-11-08T22:08:16+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
    "id": "8c9c60b164ba",
    "source": "Al Jazeera",
-   "title": "Why Trump wants UFC chief Dana White as his new White House press secretary",
+   "title": "Why Trump joked about having Dana White as his White House press secretary",
    "description": "The two have business ties going back decades, and White has helped Trump reach out to younger voters.",
    "url": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
    "date": "2026-11-08T22:03:54+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "678420a054f2",
-   "source": "Radio Cooperativa",
-   "title": "Copa al cielo y fiesta alba: El festejo de Colo Colo como campeón de la Liga de Primera 2026",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/copa-al-cielo-y-fiesta-alba-el-festejo-de-colo-colo-como-campeon-de-la/2026-11-08/185227.html",
-   "date": "2026-11-08T21:52:27+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -292,16 +622,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c92ab07023ce",
-   "source": "Radio Cooperativa",
-   "title": "Hackeo a agencia rusa destapó cerca de 400.000 soldados de Moscú muertos en Ucrania",
-   "description": "Piratas informáticos estimaron en casi 400.000 el número de soldados rusos muertos en Ucrania tras haber hackeado los sistemas del servicio nacional de estadísticas ruso, Rosstat. El grupo Kiberpartizani BY cifró los militares fallecidos desde febrero de 2022 en 393.881, que son ",
-   "url": "https://www.cooperativa.cl/noticias/mundo/rusia/hackeo-a-agencia-rusa-destapo-cerca-de-400-000-soldados-de-moscu-muertos/2026-11-08/181333.html",
-   "date": "2026-11-08T21:13:33+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "07995bb1d570",
    "source": "The Guardian",
    "title": "Two police officers hailed as heroes for confronting Kraków gunman",
@@ -362,63 +682,13 @@
    "type": "Prensa"
   },
   {
-   "id": "f6521794ca44",
-   "source": "The Guardian",
-   "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
-   "description": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligen",
-   "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
-   "date": "2026-11-08T21:00:58+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "c792943ee4e1",
    "source": "Al Jazeera",
-   "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+   "title": "Iran waiting to resume talks after US midterms ‘shock’",
    "description": "Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
    "date": "2026-11-08T20:51:22+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "0b3a75dc2597",
-   "source": "Radio Bío-Bío",
-   "title": "Nvidia abre investigación contra su CEO tras admitir que tuvo affaire con posible espía china",
-   "description": "«Fui infiel a mi esposa». Con esa frase, el director ejecutivo de Nvidia, Jensen Huang, abrió un mensaje interno a sus trabajadores este domingo. Poco después, el directorio de la compañía anunció que investigará si el empresario fue blanco de una operación de espionaje extranjer",
-   "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/pc-e-internet/2026/11/08/nvidia-abre-investigacion-contra-su-ceo-tras-admitir-que-tuvo-affaire-con-posible-espia-china.shtml",
-   "date": "2026-11-08T20:40:24+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "17d7aa895816",
-   "source": "Radio Bío-Bío",
-   "title": "VIDEO I Bolados héroe y desató la fiesta alba: así fue el gol agónico que le dio a Colo Colo la ’35’",
-   "description": "Cuando el empate parecía sentenciar la espera y obligar a Colo Colo a postergar la celebración, apareció Marcos Bolados para cambiarlo todo y bajar la estrella número 35 en Primera para los albos. En el minuto 90+2, el delantero conectó con la punta del pie y envió el balón al fo",
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/video-i-bolados-heroe-y-desato-la-fiesta-alba-asi-fue-el-gol-agonico-que-le-dio-a-colo-colo-la-35.shtml",
-   "date": "2026-11-08T20:39:47+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "eb43488e0862",
-   "source": "Radio Cooperativa",
-   "title": "Operativo en La Legua dejó cuatro detenidos y droga incautada avaluada en $6 millones",
-   "description": "Cuatro integrantes de una banda dedicada al tráfico de drogas fueron detenidos por la Policía de Investigaciones (PDI) durante un operativo realizado en las poblaciones Legua Emergencia y Legua Antigua, en la comuna de San Joaquín, Región Metropolitana. El procedimiento contempló",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/operativo-en-la-legua-dejo-cuatro-detenidos-y-droga-incautada-avaluada/2026-11-08/173532.html",
-   "date": "2026-11-08T20:35:32+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "9ebdec3c4acc",
-   "source": "Radio Bío-Bío",
-   "title": "Destituyen a 58 funcionarios en Curicó por viajar con licencia médica: otros 68 renunciaron",
-   "description": "Un total de 58 funcionarios de la Municipalidad de Curicó fueron destituidos luego que las investigaciones administrativas determinaran que realizaron viajes al extranjero mientras se encontraban con licencia médica. A esta cifra se suman otros 68 trabajadores que renunciaron ant",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-maule/2026/11/08/destituyen-a-58-funcionarios-en-curico-por-viajar-con-licencia-medica-otros-68-renunciaron.shtml",
-   "date": "2026-11-08T20:34:19+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -449,26 +719,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss",
    "date": "2026-11-08T20:26:01+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "31f1cb94d908",
-   "source": "Radio Bío-Bío",
-   "title": "La U cumplió en Rancagua al superar a Cobresal y seguir firme por el ’Chile 2’: Edu Vargas falló penal",
-   "description": "La U sacó adelante una tarea clave al derrotar por 2-1 a Cobresal, en el Estadio El Teniente de Rancagua, por la fecha 27 de la Liga de Primera 2026. El elenco colegial sumó tres puntos fundamentales para mantenerse como uno de los principales candidatos a quedarse con el cupo de",
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/08/la-u-cumplio-en-rancagua-al-superar-a-cobresal-y-seguir-firme-por-el-chile-2-edu-vargas-fallo-penal.shtml",
-   "date": "2026-11-08T20:22:15+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "ca3cf7276f02",
-   "source": "Radio Bío-Bío",
-   "title": "Choque entre camioneta y motocicleta en Alto Bío Bío deja un fallecido",
-   "description": "Una camioneta y una motocicleta protagonizaron un choque en la Ruta Q-61-R en Alto Bío Bío, región del Bío Bío. A raíz del accidente, el conductor de la motocicleta falleció debido a sus graves heridas. El mayor de Carabineros y comisario de la Cuarta Comisaría de Santa Bárbara, ",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/choque-entre-camioneta-y-motocicleta-en-alto-bio-bio-deja-un-fallecido.shtml",
-   "date": "2026-11-08T20:13:57+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -512,16 +762,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f5b111c70301",
-   "source": "Radio Bío-Bío",
-   "title": "Bajó la 35 con gol agónico: Colo Colo venció a Ñublense y se coronó campeón de la Liga de Primera 2026",
-   "description": "Colo Colo se coronó este domingo campeón de la Liga de Primera 2026 al superar con un gol en la agonía por 2-1 a Ñublense, en duelo jugado en el Estadio Bicentenario ‘Nelson Oyarzún’ de Chillán y válido por la fecha 27 del campeonato. El equipo dirigido por Fernando Ortiz llegó a",
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/08/puede-valer-un-titulo-el-golazo-de-arturo-vidal-a-nublense-que-esta-consagrando-a-colo-colo-en-liga.shtml",
-   "date": "2026-11-08T20:00:44+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "995a41ac8b28",
    "source": "Deutsche Welle",
    "title": "Rebeldes hutíes reivindican ataque a rascacielos de Aramco en Arabia Saudita",
@@ -529,16 +769,6 @@
    "url": "https://www.dw.com/es/rebeldes-hutíes-reivindican-ataque-a-rascacielos-de-aramco-en-arabia-saudita/a-79894137?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-08T19:54:00+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "8f21b16accad",
-   "source": "Radio Bío-Bío",
-   "title": "Arraigo nacional y firma mensual para Leandro Hernández, formalizado tras accidente en Providencia",
-   "description": "El futbolista de Colo Colo, Leandro Hernández, quedó con arraigo nacional y firma mensual tras ser formalizado por el violento accidente que protagonizó en Providencia durante la madrugada de este domingo. Además, se fijó un plazo de investigación de 120 días. Según indicó la fis",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/08/arraigo-nacional-y-firma-mensual-para-leandro-hernandez-formalizado-tras-accidente-en-providencia.shtml",
-   "date": "2026-11-08T19:51:52+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -559,16 +789,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
    "date": "2026-11-08T19:26:38+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "c36712681654",
-   "source": "Radio Bío-Bío",
-   "title": "Carabinero resultó con fractura grave tras ser atropellado en Osorno: conductor dio positivo en drogas",
-   "description": "Un funcionario de Carabineros resultó con una fractura grave en su muñeca derecha al ser atropellado por el conductor de un taxi colectivo en el centro de Osorno, región de Los Lagos. Más tarde se comprobó que el chofer manejaba bajo los efectos de marihuana y cocaína. El acciden",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/08/carabinero-resulto-con-fractura-grave-tras-ser-atropellado-en-osorno-conductor-dio-positivo-en-drogas.shtml",
-   "date": "2026-11-08T19:24:28+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -622,42 +842,12 @@
    "type": "Prensa"
   },
   {
-   "id": "f43266e82970",
-   "source": "Radio Bío-Bío",
-   "title": "Lando Norris conquistó GP de Brasil de Fórmula 1: Max Verstappen remontó 19 puestos y acabó segundo",
-   "description": "El británico Lando Norris (McLaren) se impuso este domingo en el Gran Premio de Sao Paulo (Brasil), vigésima prueba del Mundial de Fórmula 1 y disputada en su parte final bajo la lluvia en el Autódromo José Carlos Pace, en Interlagos. Norris, campeón del mundo en 2025, ganó por d",
-   "url": "https://www.biobiochile.cl/especial/bio-bio-tuercas/noticias/2026/11/08/lando-norris-conquisto-gp-de-brasil-de-formula-1-max-verstappen-remonto-19-puestos-y-acabo-segundo.shtml",
-   "date": "2026-11-08T19:01:18+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "502d5ac777d9",
-   "source": "Radio Cooperativa",
-   "title": "La ruta del campeón: La campaña de Colo Colo para conquistar la estrella 35",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/la-ruta-del-campeon-la-campana-de-colo-colo-para-conquistar-la-estrella/2026-11-08/155254.html",
-   "date": "2026-11-08T18:52:54+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "d39e01c95bec",
    "source": "France 24",
    "title": "Santiago Peña pasa su primera noche en prisión, mientras Paraguay busca salir de la crisis de Ueno Bank",
    "description": "El expresidente de Paraguay, Santiago Peña, permanece recluido en el Regimiento Escolta Presidencial (REP), bajo un régimen que, según la orden judicial, permite la \"libre comunicación\", con acceso a un teléfono móvil y a visitas. Por su parte, su sucesor Pedro Alliana reorganiza",
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261108-santiago-pe%C3%B1a-pasa-su-primera-noche-en-prisi%C3%B3n-mientras-paraguay-busca-salir-de-la-crisis-de-ueno-bank",
    "date": "2026-11-08T18:47:48+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a266d121055b",
-   "source": "Radio Bío-Bío",
-   "title": "Tragedia en Santo Domingo: hay diez heridos hospitalizados y dos de ellos en riesgo vital",
-   "description": "Durante este domingo se ha dado a conocer el estado de los damnificados por la trágica colisión frontal protagonizada por un microbús con pasajeros, un camión de carga y un vehículo menor en el kilómetro 119,800 de la Ruta de la Fruta, esto en Santo Domingo, región de Valparaíso.",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/08/tragedia-en-santo-domingo-hay-diez-heridos-hospitalizados-y-dos-de-ellos-en-riesgo-vital.shtml",
-   "date": "2026-11-08T18:41:49+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -742,26 +932,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ced8a093461e",
-   "source": "Radio Bío-Bío",
-   "title": "Siete muertos y 112 heridos tras accidente ferroviario en Egipto",
-   "description": "Siete muertos y 112 heridos reportados por el Ministerio de Salud de Egipto es, hasta el momento, el saldo de un accidente ferroviario ocurrido este domingo 08 de noviembre en la región de Al Ayat, en la provincia egipcia de Giza, a unos 59 kilómetros al sur de El Cairo. Eso sí, ",
-   "url": "https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/08/siete-muertos-y-112-heridos-tras-accidente-ferroviario-en-egipto.shtml",
-   "date": "2026-11-08T18:08:06+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "55813a487c43",
-   "source": "The Guardian",
-   "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
-   "description": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools into “early exam factories”, the education secretary has said, warning that it is ",
-   "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
-   "date": "2026-11-08T18:07:54+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "8f802fc1c4a3",
    "source": "France 24",
    "title": "Europa participará en nuevos diálogos sobre la guerra rusa en Ucrania: ministro de Exteriores francés",
@@ -802,16 +972,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a1eeed38fa46",
-   "source": "Radio Bío-Bío",
-   "title": "Sala Cuna Universal vive semana clave y vuelve a discusión con nueva fórmula de financiamiento",
-   "description": "La próxima semana comenzará una etapa clave para el proyecto de Sala Cuna Universal, luego de que la Comisión de Trabajo de la Cámara despachara la iniciativa y aprobara una nueva fórmula de financiamiento. La iniciativa busca ampliar el acceso al beneficio y eliminar la actual e",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/08/sala-cuna-universal-vive-semana-clave-y-vuelve-a-discusion-con-nueva-formula-de-financiamiento.shtml",
-   "date": "2026-11-08T17:58:18+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "8c1c64ac0acd",
    "source": "Deutsche Welle",
    "title": "Siete muertos y 112 heridos en accidente de trenes en Egipto",
@@ -819,16 +979,6 @@
    "url": "https://www.dw.com/es/siete-muertos-y-112-heridos-en-accidente-de-trenes-en-egipto/a-79893139?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-08T17:55:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "6c3752e3dcaf",
-   "source": "Radio Bío-Bío",
-   "title": "Católica liquidó a Limache y dejó tarea a La U por Chile 2 en Liga de Primera: Coquimbo venció a Audax",
-   "description": "En apenas cuarenta y cinco minutos impuso su dominio Universidad Católica ante Deportes Limache, decretando un contundente 3-0 a su favor en la fecha 27 de la Liga de Primera. Con la responsabilidad de seguir luchando por el Chile 2 de Libertadores, el cuadro cruzado asumió la in",
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/universidad-catolica/2026/11/08/catolica-liquido-a-limache-y-dejo-tarea-a-la-u-por-chile-2-en-liga-de-primera-coquimbo-vencio-a-audax.shtml",
-   "date": "2026-11-08T17:54:02+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -842,20 +992,10 @@
    "type": "Prensa"
   },
   {
-   "id": "ea8e79f068d4",
-   "source": "Radio Bío-Bío",
-   "title": "Forado en muro y oxicorte para entrar a bóveda: lo que se sabe de millonario robo a banco penquista",
-   "description": "Un “cinematográfico” robo fue el que protagonizaron la madrugada de este domingo -al menos- cinco delincuentes en la sucursal del Banco BCI ubicada en pleno centro de Concepción, región del Bío Bío, desde la cual sustrajeron una cifra que supera los 3 mil millones de pesos. De ac",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/08/forado-en-muro-y-oxicorte-para-entrar-a-boveda-lo-que-se-sabe-de-millonario-robo-a-banco-penquista.shtml",
-   "date": "2026-11-08T17:52:16+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "0646ae9b0c0a",
    "source": "The Guardian",
    "title": "Collision of two trains in Egypt kills at least seven",
-   "description": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo Seven people were killed and more than 100 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ay",
+   "description": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ayyat d",
    "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
    "date": "2026-11-08T17:51:17+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -932,16 +1072,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9f63e1ffc1da",
-   "source": "Al Jazeera",
-   "title": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
-   "description": "India's Cockroach Janta Party is a youth movement demanding political accountability, employment and fair elections.",
-   "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss",
-   "date": "2026-11-08T16:59:31+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "6e9b5552f768",
    "source": "France 24",
    "title": "Crisis en Paraguay: prisión preventiva para Santiago Peña por cierre de Ueno Bank",
@@ -952,26 +1082,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7071d90618d8",
-   "source": "Al Jazeera",
-   "title": "Fan hospitalised after falling through stand at Norwegian football match",
-   "description": "A stand in the away end of Tromso's stadium gave way during a match against Bodo/Glimt, causing fans to fall through.",
-   "url": "https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss",
-   "date": "2026-11-08T16:53:03+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "878eed1526a5",
-   "source": "Al Jazeera",
-   "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
-   "description": "Israeli opposition leader Gadi Eisenkot has been tasked by Israeli President Isaac Herzog with forming a new government.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
-   "date": "2026-11-08T16:51:41+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "0ff2b937f049",
    "source": "The Guardian",
    "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
@@ -979,26 +1089,6 @@
    "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
    "date": "2026-11-08T16:50:58+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "4263202a8902",
-   "source": "Al Jazeera",
-   "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
-   "description": "The passenger train was travelling from Egypt's capital to Aswan in the south when it derailed, overturning carriages.",
-   "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss",
-   "date": "2026-11-08T16:37:20+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "b35a0a16e1f4",
-   "source": "Al Jazeera",
-   "title": "Seven killed, 112 injured in train collision in Egypt",
-   "description": "Seven killed, 112 injured in train collision in Egypt",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
-   "date": "2026-11-08T16:31:54+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1042,32 +1132,12 @@
    "type": "Prensa"
   },
   {
-   "id": "111b30d432b8",
-   "source": "France 24",
-   "title": "Desde el ataque a una base militar hasta la evacuación de un canal de TV: ¿qué está pasando en Colombia?",
-   "description": "Este fin de semana Colombia se ha visto sacudida por una serie de hechos violentos, entre ellos el ataque contra una base militar que dejó tres soldados muertos, un hecho atribuido por el Ministerio de Defensa al Ejército de Liberación Nacional (ELN). A las horas de tensión se su",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261108-desde-el-ataque-a-una-base-militar-hasta-la-evacuaci%C3%B3n-de-un-canal-de-tv-qu%C3%A9-est%C3%A1-pasando-en-colombia",
-   "date": "2026-11-08T15:17:41+00:00",
-   "category": "Conflictos armados y seguridad internacional",
-   "type": "Prensa"
-  },
-  {
    "id": "9679e9ceb820",
    "source": "Ex-Ante",
    "title": "Criteria: aprobación de Kast acumula 6 puntos de caída desde principios de octubre y llega a 24% (Lea aquí la encuesta)",
    "description": "La desaprobación, en tanto, subió a 67%, dos puntos más con respecto a la semana pasada, y también es la más alta de su mandato.…",
    "url": "https://www.ex-ante.cl/politica/caida-aprobacion-kast-24-criteria/",
    "date": "2026-11-08T15:07:02+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "8f62780283b2",
-   "source": "France 24",
-   "title": "Polonia lanza una investigación por terrorismo: entre el luto, la conmoción y el miedo tras el mortal tiroteo",
-   "description": "El país europeo, poco acostumbrado a hechos de violencia, amaneció en estado de shock este domingo, un día después de que un joven \"fascinado\" por ideas de extrema derecha matara a seis personas e hiriera a quince en una concurrida plaza de Cracovia, la segunda ciudad más grande ",
-   "url": "https://www.france24.com/es/europa/20261108-polonia-lanza-una-investigaci%C3%B3n-por-terrorismo-entre-el-luto-la-conmoci%C3%B3n-y-el-miedo-tras-el-mortal-tiroteo",
-   "date": "2026-11-08T14:49:32+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -1212,16 +1282,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9c4f61202269",
-   "source": "The Guardian",
-   "title": "Who’s who at Cop31: key players at the climate talks",
-   "description": "What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting? Hosting Cop was a key pledge from Australia’s prime minister, Anthony Albanese in 2021 , while in opposition, before his successful election campaign. But arcan",
-   "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
-   "date": "2026-11-08T11:48:56+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "55048ee3754d",
    "source": "BBC Mundo",
    "title": "La arriesgada misión para extraer de Polonia el cohete v2, el \"arma milagrosa\" de Hitler",
@@ -1342,26 +1402,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f015a7653031",
-   "source": "France 24",
-   "title": "Gaza bajo el agua: desplazados intentan salvar lo poco que queda de sus tiendas inundadas",
-   "description": "Tras una noche de intensas tormentas en la Franja de Gaza, miles de desplazados despertaron con sus tiendas de campaña inundadas. Familias enteras utilizaron baldes para sacar el agua acumulada y levantaron barreras improvisadas de arena y barro para intentar proteger sus refugio",
-   "url": "https://www.france24.com/es/video/20261108-gaza-bajo-el-agua-desplazados-intentan-salvar-lo-poco-que-queda-de-sus-tiendas-inundadas",
-   "date": "2026-11-08T02:46:46+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "3243f64b3b15",
-   "source": "France 24",
-   "title": "Polonia: tiroteo en el corazón de Cracovia deja varios muertos y heridos",
-   "description": "Un tiroteo ocurrido en el centro histórico de Cracovia, una de las ciudades más visitadas de Polonia, dejó varios muertos y heridos, según informaron las autoridades. El ataque se produjo en la Plaza del Mercado Principal, donde un hombre armado abrió fuego de forma indiscriminad",
-   "url": "https://www.france24.com/es/video/20261108-polonia-tiroteo-en-el-coraz%C3%B3n-de-cracovia-deja-varios-muertos-y-heridos",
-   "date": "2026-11-08T02:10:23+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "3d3e6cd6f1c7",
    "source": "The Guardian",
    "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
@@ -1369,16 +1409,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
    "date": "2026-11-08T01:00:48+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "72510145a7a6",
-   "source": "Ex-Ante",
-   "title": "Envío de militares a Haití: la osada apuesta de Nayib Bukele para extender su influencia regional",
-   "description": "El Presidente salvadoreño envió 2.000 uniformados al país caribeño para participar en el rescate de cuatro trabajadores de su país secuestrados. “El envío de tropas…",
-   "url": "https://www.ex-ante.cl/internacional/envio-militares-haiti-nayib-bukele/",
-   "date": "2026-11-07T23:35:09+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1432,21 +1462,11 @@
    "type": "Prensa"
   },
   {
-   "id": "8318e7403865",
+   "id": "9d2d6179c04e",
    "source": "Radio Cooperativa",
-   "title": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 27",
-   "description": "Revisa en vivo la tabla de posiciones de la Liga de Primera 2026: Pos. Club PJ Pts. Dif. Zona 1 Colo Colo (CAMPEON) 27 61 +29 Libertadores 2 U. de Chile 27 51 +25 Libertadores 3 Universidad Católica 27 49 +19 Duelo Chile 4 4 Deportes Limache 26 40 +11 Sudamericana 5 Everton 27 40",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-27/2026-11-07/125004.html",
-   "date": "2026-11-07T15:50:04+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "26882aafe7c5",
-   "source": "Radio Cooperativa",
-   "title": "[En vivo] U. de Concepción y O'Higgins cierran la fecha 27",
+   "title": "[En vivo] U. de Concepción y O'Higgins empatan en el cierre de la fecha 27",
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con la definición del título por delante, además de la lucha por el descenso, la Liga de Primera 2026 desarrolla este fin de semana su trascendental fecha 27. Domingo 8 de noviembre Universidad Católica 3-0 Deportes Limache",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/en-vivo-u-de-concepcion-y-o-higgins-cierran-la-fecha-27/2026-11-07/123544.html",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/en-vivo-u-de-concepcion-y-o-higgins-empatan-en-el-cierre-de-la-fecha-27/2026-11-07/123544.html",
    "date": "2026-11-07T15:35:44+00:00",
    "category": "",
    "type": "Prensa"
@@ -1500,16 +1520,6 @@
    "date": "2026-11-07T12:00:00+00:00",
    "category": "América Latina",
    "type": "Oficial"
-  },
-  {
-   "id": "d3b74999c54a",
-   "source": "BBC Mundo",
-   "title": "Qué pasó en la isla noruega que quiso abolir el tiempo",
-   "description": "Siete años después de que un extraño plan para abolir el tiempo acaparara los titulares, ¿cómo es realmente la vida en esta remota isla del Ártico?",
-   "url": "https://www.bbc.com/mundo/articles/cmx2dxe1513jo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-07T10:59:54+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
   },
   {
    "id": "b946b8b12070",
@@ -1622,16 +1632,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0d84d3fee88e",
-   "source": "Deutsche Welle",
-   "title": "A 37 años de la caída del Muro, en Alemania aún hay heridas abiertas",
-   "description": "Recuerdos de la infancia en la RDA, críticas al proceso de reunificación y la pregunta sobre un \"nosotros\" común: tres artistas relatan cómo ven la integración entre el Este y el Oeste de Alemania",
-   "url": "https://www.dw.com/es/a-37-años-de-la-caída-del-muro-en-alemania-aún-hay-heridas-abiertas/a-79880980?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-06T21:16:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "f60e18b95204",
    "source": "The Guardian",
    "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
@@ -1652,26 +1652,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4c19ad695edb",
-   "source": "Deutsche Welle",
-   "title": "Niclas Füllkrug, el goleador que volvió a encontrar la felicidad en Bremen",
-   "description": "En su regreso, Niclas Füllkrug encontró en Bremen mucho más que una camiseta: recuperó su mejor versión. Nueve tantos en ocho partidos, un récord histórico y una nueva oportunidad con Alemania.",
-   "url": "https://www.dw.com/es/niclas-füllkrug-el-goleador-que-volvió-a-encontrar-la-felicidad-en-bremen/a-79880024?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-06T17:17:00+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "40fb2577fdb0",
-   "source": "Deutsche Welle",
-   "title": "Acciones de IA respiran tras desplome por elecciones en EE. UU",
-   "description": "Temor por posibles regulaciones y freno a infraestructura hicieron caer las acciones este jueves en Wall Street, pero la semana terminó al alza.",
-   "url": "https://www.dw.com/es/acciones-de-ia-respiran-tras-desplome-por-elecciones-en-ee-uu/a-79879675?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-06T16:35:00+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "414eada8f014",
    "source": "BBC Mundo",
    "title": "\"El envío de tropas a Haití es una apuesta política de Bukele: demostrar que no es solo un actor nacional, sino uno mucho más poderoso a nivel regional\"",
@@ -1689,16 +1669,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
    "date": "2026-11-06T15:08:43+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "4ecf2ef726c5",
-   "source": "Deutsche Welle",
-   "title": "El Stuttgart de Hoeness: goles y talento en busca de regularidad",
-   "description": "Capaz de vencer al Leverkusen y perder ante el colista, el Stuttgart vive entre dos extremos. Demirovic aporta los goles, pero la regularidad sigue siendo una asignatura pendiente para el equipo de Sebastian Hoeness.",
-   "url": "https://www.dw.com/es/el-stuttgart-de-hoeness-goles-y-talento-en-busca-de-regularidad/a-79874632?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-06T14:40:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -1769,26 +1739,6 @@
    "url": "https://www.bbc.com/mundo/articles/ck7vpp3y5nypo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-06T11:32:45+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "612012d19494",
-   "source": "Deutsche Welle",
-   "title": "Comienza el juicio contra la organización extremista Königreich Deutschland",
-   "description": "Los cuatro jefes del grupo que pretendía instaurar un 'Reino de Alemania', con Peter Fitzek al frente, se sientan en el banquillo de acusados en Düsseldorf.",
-   "url": "https://www.dw.com/es/comienza-el-juicio-contra-la-organización-extremista-königreich-deutschland/a-79874423?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-06T10:45:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "a71d73b48ce0",
-   "source": "Deutsche Welle",
-   "title": "\"No hay fecha\" para el regreso de Vincent Kompany al banquillo del Bayern Múnich",
-   "description": "Kompany sufrió irritación de las meninges y salió del hospital, pero por el momento no regresa a las canchas.",
-   "url": "https://www.dw.com/es/no-hay-fecha-para-el-regreso-de-vincent-kompany-al-banquillo-del-bayern-múnich/a-79874349?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-06T10:39:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -2049,16 +1999,6 @@
    "url": "https://www.ciperchile.cl/2026/11/04/reforma-al-indh-el-leviatan-sin-contrapesos/?utm_source=rss&utm_medium=rss&utm_campaign=reforma-al-indh-el-leviatan-sin-contrapesos",
    "date": "2026-11-04T07:00:14+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "14b313c719fa",
-   "source": "CIPER Chile",
-   "title": "Condenan por lavado de activos a general (r) Óscar Izurieta; Kast desafía a la oposición a presentar acusación contra Rabat, y fundación de los Tompkins dona 22 mil hectáreas para futuro parque en Magallanes",
-   "description": "La entrada Condenan por lavado de activos a general (r) Óscar Izurieta; Kast desafía a la oposición a presentar acusación contra Rabat, y fundación de los Tompkins dona 22 mil hectáreas para futuro parque en Magallanes se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/03/radar-03-11-2026/?utm_source=rss&utm_medium=rss&utm_campaign=radar-03-11-2026",
-   "date": "2026-11-03T23:23:03+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -2540,6 +2480,16 @@
    "date": "2026-10-10T07:49:45+00:00",
    "category": "",
    "type": "Oficial"
+  },
+  {
+   "id": "dbbc4dc71f68",
+   "source": "Radio Cooperativa",
+   "title": "Cartelera de conciertos 2026 en Chile",
+   "description": "CONCIERTOS 2026 EN CHILE CONCIERTOS NOVIEMBRE 2026 1 de noviembre - Iron Maiden - Estadio Nacional - Entradas 1 de noviembre - Alex Serra y Totidub - Club Chocolate - Entradas 1 de noviembre - Opeth - Santander Arena - Entradas 1 de noviembre - Nicole - Teatro Municipal Valparaís",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html",
+   "date": "2025-12-01T11:21:52+00:00",
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "9745c15368a2",
