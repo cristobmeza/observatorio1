@@ -1,6 +1,256 @@
 {
- "updated": "2026-11-09T15:53:26.160470+00:00",
+ "updated": "2026-11-09T16:58:20.313296+00:00",
  "items": [
+  {
+   "id": "fcf095648071",
+   "source": "Radio Cooperativa",
+   "title": "Cooperativa Deportes: Colo Colo bajó su estrella 35",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/cooperativa-deportes/opinion/cooperativa-deportes-colo-colo-bajo-su-estrella-35/2026-11-09/135241.html",
+   "date": "2026-11-09T16:52:41+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "2aecde959d90",
+   "source": "Ex-Ante",
+   "title": "Las Condes empieza a quedarse sin oficinas premium: arriendos suben más de 10%",
+   "description": "De acuerdo a un estudio de CBRE, la vacancia de oficinas Clase A en la comuna cayó a 4,75% al cierre del tercer trimestre, por…",
+   "url": "https://www.ex-ante.cl/negocios/precios-arriendos-oficinas-lascondes-suben/",
+   "date": "2026-11-09T16:50:28+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "697490d17a52",
+   "source": "Al Jazeera",
+   "title": "Al Jazeera tries skateboarding at Youth Olympics",
+   "description": "Al Jazeera tries skateboarding at Youth Olympics",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/al-jazeera-tries-skateboarding-at-youth-olympics?traffic_source=rss",
+   "date": "2026-11-09T16:48:34+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f6264c1924f1",
+   "source": "France 24",
+   "title": "Turquía plantea electrificar más de un tercio de la economía para 2035 al inicio de la COP31",
+   "description": "La conferencia climática COP31 comenzó este lunes en la ciudad turca de Antalya con un llamado de Turquía y la ONU a acelerar la electrificación de la economía, reducir las emisiones de metano y facilitar la financiación climática, un tema que ha sido conflictivo en ediciones ant",
+   "url": "https://www.france24.com/es/medio-ambiente/20261109-turqu%C3%ADa-plantea-electrificar-m%C3%A1s-de-un-tercio-de-la-econom%C3%ADa-para-2035-al-inicio-de-la-cop31",
+   "date": "2026-11-09T16:45:22+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "69cf9cd8218d",
+   "source": "Radio Cooperativa",
+   "title": "Cuarteto de Nos regresa a Chile: Somos una banda de rock rara",
+   "description": "El músico Roberto Musso , miembro fundador de la banda uruguaya de rock alternativo Cuarteto de Nos , aseguró a Cooperativa que le gusta la definición \"minimalista\" que le da las redes sociales al grupo: \"Una banda de rock rara\" . \" Para mí, es la que encaja mejor con nosotros co",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cuarteto-de-nos-regresa-a-chile-somos-una-banda-de-rock-rara/2026-11-09/134514.html",
+   "date": "2026-11-09T16:45:14+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "942c42316c55",
+   "source": "France 24",
+   "title": "Ecuador: ¿qué han cambiado 1.000 días de estado de excepción?",
+   "description": "Ecuador cumple 1.000 días bajo estados de excepción desde enero de 2024, una estrategia que ha normalizado la presencia militar en las calles. Las cifras oficiales registraron menos homicidios en 2024, pero la violencia repuntó en 2025 hasta un récord histórico. En 2026, pese a u",
+   "url": "https://www.france24.com/es/programas/enlace/20261109-ecuador-qu%C3%A9-han-cambiado-1-000-d%C3%ADas-de-estado-de-excepci%C3%B3n",
+   "date": "2026-11-09T16:38:44+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "f2ae12539caa",
+   "source": "Radio Cooperativa",
+   "title": "El histórico bronce de Vittorio Gorziglia en los Juegos Olímpicos de la Juventud de Dakar",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/polideportivo/team-chile/el-historico-bronce-de-vittorio-gorziglia-en-los-juegos-olimpicos-de-la/2026-11-09/133607.html",
+   "date": "2026-11-09T16:36:07+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "0f16b5a741b5",
+   "source": "Al Jazeera",
+   "title": "France accuses Iran of cyberattack on European fridges",
+   "description": "This is a breaking news story.",
+   "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
+   "date": "2026-11-09T16:33:33+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f6d099ca0bb3",
+   "source": "Deutsche Welle",
+   "title": "Russell Brand es condenado a más de 10 años de cárcel por violación y agresiones sexuales",
+   "description": "Quien fuera estrella de Hollywood, Brand fue encarcelado tras ser declarado culpable de violar a una mujer y agredir sexualmente a otras tres hace aproximadamente dos décadas.",
+   "url": "https://www.dw.com/es/russell-brand-es-condenado-a-más-de-10-años-de-cárcel-por-violación-y-agresiones-sexuales/a-79903582?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-09T16:30:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "55798d364878",
+   "source": "France 24",
+   "title": "Dakar 2026: ¿por qué estos Juegos Olímpicos de la Juventud hacen historia?",
+   "description": "Dakar acoge los primeros Juegos Olímpicos de la Juventud celebrados en suelo africano, una cita que sitúa al continente en el centro del mapa deportivo internacional. Para Senegal, el país anfitrión, es también una oportunidad de reivindicarse en el escenario olímpico y de recupe",
+   "url": "https://www.france24.com/es/programas/reporteros/20261109-dakar-2026-por-qu%C3%A9-estos-juegos-ol%C3%ADmpicos-de-la-juventud-hacen-historia",
+   "date": "2026-11-09T16:25:02+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "887c9bf8ebd8",
+   "source": "The Guardian",
+   "title": "Judo star Teddy Riner announces plan to run in France’s presidential election",
+   "description": "Five-times Olympic champion says he is neither leftwing nor rightwing but would seek to ‘bring people together’ The French judo star and five-times Olympic gold medallist Teddy Riner has announced plans to run in next year’s presidential election, describing himself as someone ne",
+   "url": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
+   "date": "2026-11-09T16:24:50+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "75ba07c0a936",
+   "source": "France 24",
+   "title": "¿Por qué los líderes católicos han sido tan críticos con el Gobierno de Javier Milei?",
+   "description": "León XIV continúa con su gira por Suramérica con su paso por Argentina, donde fue recibido por el presidente Javier Milei y dio un duro discurso contra las medidas económicas del país a pesar de no mencionar directamente al mandatario. El líder de la Iglesia católica está saldand",
+   "url": "https://www.france24.com/es/video/20261109-por-qu%C3%A9-los-l%C3%ADderes-cat%C3%B3licos-han-sido-tan-cr%C3%ADticos-con-el-gobierno-de-javier-milei",
+   "date": "2026-11-09T16:20:19+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "dd3392ab4e29",
+   "source": "The Guardian",
+   "title": "‘Black English’ and ‘Asian English’ should be census options, MPs say",
+   "description": "Exclusive: Cross-party call for ethnicity options to be broadened beyond ‘English’ being only within ‘White’ category Britons should be able to define themselves as both Black and English, according to senior MPs who are calling to broaden the range of ethnicity options in the ce",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/09/black-english-asian-english-should-be-census-options-mps",
+   "date": "2026-11-09T16:19:11+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "7a0c31b59221",
+   "source": "France 24",
+   "title": "Infidelidad y presunto espionaje, el escándalo en el que está involucrado el CEO de Nvidia",
+   "description": "El CEO de la empresa tecnológica Nvidia, Jensen Huang, aceptó estar en una relación extramatrimonial con Alice Huang, una mujer de negocios originaria de Shanghai. Pero, más allá de la infidelidad, la relación ha causado revuelo por las acusaciones contra la ciudadana china de, p",
+   "url": "https://www.france24.com/es/video/20261109-infidelidad-y-presunto-espionaje-el-esc%C3%A1ndalo-en-el-que-est%C3%A1-involucrado-el-ceo-de-nvidia",
+   "date": "2026-11-09T16:18:49+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "c15f823537f2",
+   "source": "Al Jazeera",
+   "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
+   "description": "Netanyahu and Zini's interference claims lack evidence, according to law enforcement officials quoted by Haaretz.",
+   "url": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss",
+   "date": "2026-11-09T16:18:28+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "1b43a80a0d83",
+   "source": "Deutsche Welle",
+   "title": "Un atentado sacude la imagen de Polonia como país seguro",
+   "description": "El ataque dejó nueve muertos y desató una nueva disputa política entre el Gobierno de Donald Tusk y la oposición de derecha, en medio de crecientes cuestionamientos sobre la seguridad.",
+   "url": "https://www.dw.com/es/un-atentado-sacude-la-imagen-de-polonia-como-país-seguro/a-79902694?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-09T16:17:00+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "7c810a6bc1f7",
+   "source": "The Guardian",
+   "title": "Burnham warns that NHS will ‘struggle’ to cope if consultants don’t resume talks over pay – UK politics live",
+   "description": "Hospital consultants are set to go on a two-day strike at the end of October Downing Street has insisted that the government remains committed to the principle of the zero emission vehicle (ZEV) mandate – while not denying today’s Guardian report saying interim targets to achieve",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
+   "date": "2026-11-09T16:16:23+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "19cd9cda1406",
+   "source": "Al Jazeera",
+   "title": "Man uses excavator to destroy Chinese government building",
+   "description": "A man has driven an excavator into a Chinese government affairs centre in Shaanxi",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/man-uses-excavator-to-destroy-chinese-government-building?traffic_source=rss",
+   "date": "2026-11-09T16:15:04+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "c9e150316357",
+   "source": "The Guardian",
+   "title": "Russell Brand sentenced to more than 10 years for rape and sexual assault offences – latest updates",
+   "description": "Disgraced comedian must serve two-thirds of the 10 years and six month sentence before he will be eligible for parole Russell Brand sentenced to more than 10 years in prison Proceedings are beginning now. Chief prosecutor Riel Karmy-Jones KC is up on her feet. She’ll be the first",
+   "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
+   "date": "2026-11-09T16:10:31+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "580f8d369fe7",
+   "source": "Deutsche Welle",
+   "title": "Bayern Múnich: Uli Hoeness duda que Musiala vuelva a su mejor nivel",
+   "description": "El presidente honorario del Bayern Múnich puso en duda la recuperación plena del mediapunta, quien padece un trastorno neurológico.",
+   "url": "https://www.dw.com/es/bayern-múnich-uli-hoeness-duda-que-musiala-vuelva-a-su-mejor-nivel/a-79903023?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-09T16:09:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "f5292f5aca60",
+   "source": "Radio Cooperativa",
+   "title": "\"Mi cable a tierra\": La romántica dedicatoria de Fernando Ortiz a su esposa tras título con Colo Colo",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Luego de alcanzar la gloria y cortar su sequía personal al consagrarse campeón del fútbol chileno con Colo Colo, el director técnico Fernando Ortiz se tomó una pausa en medio de los festejos populares para dedicarle una emo",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mi-cable-a-tierra-la-romantica-dedicatoria-de-fernando-ortiz-a-su/2026-11-09/130421.html",
+   "date": "2026-11-09T16:04:21+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "767dffe2068b",
+   "source": "Al Jazeera",
+   "title": "Nvidia shares slump amid investigation into CEO Jensen Huang",
+   "description": "Huang admits infidelity, denies compromising Nvidia security as China spy inquiry shakes $4.5 trillion AI firm.",
+   "url": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
+   "date": "2026-11-09T16:00:10+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "97231aedc4c4",
+   "source": "Servicio Electoral",
+   "title": "Estudiantes de Administración Pública de la Universidad Católica del Maule conocieron el funcionamiento del Servicio Electoral",
+   "description": "Una treintena de estudiantes de la carrera de Administración Pública de la Universidad Católica del Maule, visitó las dependencias del Servicio Electoral de Chile, en una jornada formativa orientada a conocer el rol institucional de Servel, sus principales funciones y los proceso",
+   "url": "https://www.servel.cl/Ch/app/estudiantes-de-administracion-publica-de-la-universidad-catolica-del-maule-conocieron-el-funcionamiento-del-servicio-electoral/sin-categoria/",
+   "date": "2026-11-09T15:57:05+00:00",
+   "category": "Elecciones",
+   "type": "Oficial"
+  },
+  {
+   "id": "2add24e3a72c",
+   "source": "Al Jazeera",
+   "title": "More than 50,000 displaced by deadly Ethiopia border clashes",
+   "description": "Families arrive in Kenya with little food or shelter as host communities struggle to cope.",
+   "url": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes?traffic_source=rss",
+   "date": "2026-11-09T15:55:27+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "bd47e743862f",
+   "source": "The Guardian",
+   "title": "Polish prosecutors say ‘too early’ to tell if Kraków gunman was motivated by political ideology",
+   "description": "Terrorism investigation will continue after suspect who killed six after opening fire in market square died Polish prosecutors have said they do not currently have any evidence tying the man who killed six people and injured 16 in a rare mass shooting in Kraków to any particularl",
+   "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
+   "date": "2026-11-09T15:52:26+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "3bfface1b376",
    "source": "Ex-Ante",
@@ -9,6 +259,16 @@
    "url": "https://www.ex-ante.cl/entrevista/sebastian-edwards-sobre-presidente-kast/",
    "date": "2026-11-09T15:46:49+00:00",
    "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "71bb8570c6a1",
+   "source": "Radio Cooperativa",
+   "title": "Cartelera de conciertos en Chile 2027",
+   "description": "CONCIERTOS 2027 EN CHILE 8 de enero - Necrosis - Teatro Cariola - Entradas 8 de enero - FaceBrooklyn - Teatro Caupolicán - Entradas 9 de enero - Kidd Voodoo - Quinta Vergara - Entradas 15 y 16 de enero - Festival In Rock: Kuervos del Sur, FORCE, Combo Chabela, Betrayal Devours Co",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-en-chile-2027/2026-11-09/124529.html",
+   "date": "2026-11-09T15:45:29+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -22,6 +282,16 @@
    "type": "Prensa"
   },
   {
+   "id": "ff6902f26c6b",
+   "source": "Radio Cooperativa",
+   "title": "Dos millones y medio de fieles asistieron a misa del papa León XIV en Buenos Aires",
+   "description": "León XIV congregó este lunes a dos millones y medio de fieles para la misa que celebró ante el Monumento de los Españoles y en el recorrido de la avenida Libertador de Buenos Aires para verle pasar en el papamóvil, en el evento más multitudinario desde que comenzó su pontificado ",
+   "url": "https://www.cooperativa.cl/noticias/mundo/vaticano/papa-leon-xiv/dos-millones-y-medio-de-fieles-asistieron-a-misa-del-papa-leon-xiv-en/2026-11-09/124514.html",
+   "date": "2026-11-09T15:45:14+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "ef7a3551a231",
    "source": "Radio Cooperativa",
    "title": "La verdadera razón por la que los jugadores nuevos se benefician de empezar con estas 5 opciones inteligentes",
@@ -32,12 +302,12 @@
    "type": "Prensa"
   },
   {
-   "id": "7c810a6bc1f7",
+   "id": "920262bff6e0",
    "source": "The Guardian",
-   "title": "Burnham says bravery of Brand’s victims will change the justice system to better support survivors – UK politics live",
-   "description": "The prime minister said he wants police forces to have dedicated rape and serious sexual offence teams by the end of 2027 Downing Street has insisted that the government remains committed to the principle of the zero emission vehicle (ZEV) mandate – while not denying today’s Guar",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
-   "date": "2026-11-09T15:39:44+00:00",
+   "title": "French police officers on trial over beating of black man they accused of not wearing Covid mask",
+   "description": "Assault on Michel Zecler in 2020 is rare case of police brutality reaching court, at time of heightened tensions Three French police officers have gone on trial over the beating of a black music producer who they say was not wearing a face mask during the Covid pandemic, in a rar",
+   "url": "https://www.theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid",
+   "date": "2026-11-09T15:40:20+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -49,16 +319,6 @@
    "url": "https://www.cooperativa.cl/noticias/corporativo/noticias/marcas-negocios/como-la-ia-generativa-esta-cambiando-la-forma-de-crear-videojuegos/2026-11-09/123811.html",
    "date": "2026-11-09T15:38:11+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "c9e150316357",
-   "source": "The Guardian",
-   "title": "Russell Brand sentenced to more than 10 years for rape and sexual assault offences – latest updates",
-   "description": "Disgraced comedian must serve two-thirds of the 10 years and six month sentence before he will be eligible for parole Russell Brand sentenced to more than 10 years in prison Proceedings are beginning now. Chief prosecutor Riel Karmy-Jones KC is up on her feet. She’ll be the first",
-   "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
-   "date": "2026-11-09T15:37:56+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -88,6 +348,16 @@
    "description": "La idea equivocada más común es que quien empieza a crear contenido de videojuegos necesita un estudio visualmente elaborado antes de pulsar grabar. Esa creencia retrasa el trabajo útil: capturar la partida y hablar con claridad , además de darles a los espectadores una razón par",
    "url": "https://www.cooperativa.cl/noticias/corporativo/noticias/marcas-negocios/por-que-el-contenido-de-videojuegos-apto-para-streaming-empieza-con-una/2026-11-09/123501.html",
    "date": "2026-11-09T15:35:01+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "8cea600ff64e",
+   "source": "Radio Cooperativa",
+   "title": "Kast anunció proyecto para limitar a $20 alzas de combustibles por tres meses",
+   "description": "El Presidente José Antonio Kast anunció un proyecto , con discusión inmediata, para evitar que futuras alzas de los combustibles no superen los 20 pesos , lo que remarcó es un \"esfuerzo fiscal muy importante\". Para esta semana, en tanto, el Mandatario confirmó que se aplicará el ",
+   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/kast-anuncio-proyecto-para-limitar-a-20-alzas-de-combustibles-por-tres/2026-11-09/123318.html",
+   "date": "2026-11-09T15:33:18+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -172,16 +442,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9ec2b67acd33",
-   "source": "Radio Cooperativa",
-   "title": "Tobías Reinhart y el título de Colo Colo: \"Intentamos todo hasta el final, pero este año no se pudo\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes A pesar de cumplir con su tarea y derrotar por 2-1 a Cobresal en el Estadio El Teniente de Rancagua, en Universidad de Chile no pudieron evitar la consagración de Colo Colo, elenco que venció sobre la hora a Ñublense en Chi",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/tobias-reinhart-y-el-titulo-de-colo-colo-intentamos-todo-hasta-el/2026-11-09/120644.html",
-   "date": "2026-11-09T15:06:44+00:00",
-   "category": "Economía nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "a799235e786d",
    "source": "Al Jazeera",
    "title": "Los Angeles mayoral race points to growing sway of democratic socialists",
@@ -222,16 +482,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6ba970fd0ce3",
-   "source": "The Guardian",
-   "title": "More than 400,000 Russians killed fighting in Ukraine war, leaked data suggests",
-   "description": "Death records reveal losses since full-scale invasion that are unprecedented in Russia’s modern history Postwar ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio More than 400,000 Russians have been killed fighting in Ukraine since Moscow launched its full",
-   "url": "https://www.theguardian.com/world/2026/nov/09/russians-killed-ukraine-war-leaked-data",
-   "date": "2026-11-09T14:58:01+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "5d840d2df7b0",
    "source": "BBC Mundo",
    "title": "Las 4 investigaciones que los demócratas pueden abrir contra el gobierno de Trump tras tomar control del Congreso de EE.UU.",
@@ -259,16 +509,6 @@
    "url": "https://www.france24.com/es/video/20261109-inicia-cop31-turqu%C3%ADa-australia-con-los-combustibles-f%C3%B3siles-y-la-energ%C3%ADa-en-el-centro-del-debate",
    "date": "2026-11-09T14:48:23+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "cb24c46bce5f",
-   "source": "Radio Cooperativa",
-   "title": "Estremecedora lesión: Brutal hematoma desfiguró a un boxeador y obligó a suspender la pelea",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Una de las postales más impactantes del boxeo reciente se vivió en el AO Arena de Manchester, luego de que el púgil británico Zak Miller sufriera una severa desfiguración en su cabeza producto de gigantescos hematomas, situ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/boxeo/boxeo-internacional/estremecedora-lesion-brutal-hematoma-desfiguro-a-un-boxeador-y-obligo-a/2026-11-09/114609.html",
-   "date": "2026-11-09T14:46:09+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -312,26 +552,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8f1d7fe3ad4e",
-   "source": "Radio Cooperativa",
-   "title": "Russell Brand condenado a más de 10 años de cárcel por violación y agresión sexual",
-   "description": "El actor y comediante británico Russell Brand , de 51 años, fue condenado este lunes por un tribunal de Londres a 10 años y 6 meses de cárcel por un delito de violación y tres de agresión sexual cometidos contra cuatro mujeres entre 2004 y 2009. Un jurado popular, el pasado jueve",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/russell-brand-condenado-a-mas-de-10-anos-de-carcel-por-violacion-y/2026-11-09/113854.html",
-   "date": "2026-11-09T14:38:54+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "0a7172f8178f",
-   "source": "Radio Cooperativa",
-   "title": "Solari ve tras críticas a Codelco la \"vieja aspiración de privatizarla\"",
-   "description": "El exministro Ricardo Solari (PS) sostuvo en El Primer Café de Cooperativa que los cuestionamientos del Gobierno a Codelco apuntan a generar fundamentos para una eventual privatización , en medio de las investigaciones por irregularidades en los registros de producción de la esta",
-   "url": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/solari-ve-tras-criticas-a-codelco-la-vieja-aspiracion-de-privatizarla/2026-11-09/113852.html",
-   "date": "2026-11-09T14:38:52+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "bca1d2708cd2",
    "source": "France 24",
    "title": "El Papa León XIV junto a Javier Milei pidió tener \"el cuidado de la palabra\": 'La Nación'",
@@ -352,16 +572,6 @@
    "type": "Prensa"
   },
   {
-   "id": "455e91031191",
-   "source": "Radio Cooperativa",
-   "title": "Delincuentes robaron 200 millones de pesos a ciudadano chino al salir de banco en Cerrillos",
-   "description": "Un ciudadano de nacionalidad china fue asaltado tras retirar alrededor de 200 millones de pesos desde una sucursal de un banco en la comuna de Cerrillos , Región Metropolitana. De acuerdo a información preliminar, la víctima fue intimidada por un grupo de sujetos, quienes le quit",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/robos/delincuentes-robaron-200-millones-de-pesos-a-ciudadano-chino-al-salir-de/2026-11-09/112905.html",
-   "date": "2026-11-09T14:29:05+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "62be7ff113e6",
    "source": "The Guardian",
    "title": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assault",
@@ -369,16 +579,6 @@
    "url": "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault",
    "date": "2026-11-09T14:28:49+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "fc5051712529",
-   "source": "Radio Cooperativa",
-   "title": "Vittorio Cavalieri y Sebastián Ibáñez se adjudicaron el Zonal Sur de Rodeo en Osorno",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Los jinetes Vittorio Cavalieri y Sebastián Ibáñez se adjudicaron este domingo el Zonal Sur de Rodeo, que se disputó este fin de semana en la Medialuna del Recinto SAGO de Osorno. En los lomos de Yumita y Yucatán , los repre",
-   "url": "https://www.cooperativa.cl/noticias/deportes/rodeo/champion-de-chile/vittorio-cavalieri-y-sebastian-ibanez-se-adjudicaron-el-zonal-sur-de/2026-11-09/112523.html",
-   "date": "2026-11-09T14:25:23+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -399,26 +599,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi?traffic_source=rss",
    "date": "2026-11-09T14:24:31+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "79b5adbb0281",
-   "source": "The Guardian",
-   "title": "EU sues IBM and two European firms over troubled entry/exit border system",
-   "description": "Lawsuit filed last year against IBM, Atos and Leonardo after delays to delivery to troubled new system The EU has filed a lawsuit against IBM and two other companies involved in its troubled border-management system, an internal document has revealed. The bloc’s IT agency, EU-Lis",
-   "url": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system",
-   "date": "2026-11-09T14:24:26+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "c4d786d5a66f",
-   "source": "The Guardian",
-   "title": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
-   "description": "Terrorism investigation was opened after attacker opened fire in a market square AFP has a quick snap that Ukraine is to hold “separate” meetings with Europeans and Nato in Abu Dhabi. The Kremlin earlier insisted no other European nations would be involved. The US-mediated talks ",
-   "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
-   "date": "2026-11-09T14:17:54+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -489,16 +669,6 @@
    "url": "https://www.dw.com/es/lennart-karl-y-el-regaño-incómodo-que-funcionó/a-79900360?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-09T14:06:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "2720df0960a0",
-   "source": "Radio Cooperativa",
-   "title": "Ubilla cuestiona ataques a Chile Vamos y pide convivencia oficialista",
-   "description": "El exsubsecretario del Interior Rodrigo Ubilla cuestionó las descalificaciones entre parlamentarios del oficialismo y advirtió que estas pueden tener un costo ante la ciudadanía, en medio del debate por la permanencia del ministro de Justicia , Fernando Rabat , y las solicitudes ",
-   "url": "https://www.cooperativa.cl/noticias/pais/politica/chile-vamos/ubilla-cuestiona-ataques-a-chile-vamos-y-pide-convivencia-oficialista/2026-11-09/110443.html",
-   "date": "2026-11-09T14:04:43+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -619,16 +789,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena?traffic_source=rss",
    "date": "2026-11-09T13:44:00+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "c1951e5449b4",
-   "source": "The Guardian",
-   "title": "‘Obvious risk of further tragedy’ at rail crossing type at which Amazon driver died, inquiry finds",
-   "description": "Call for overhaul of manually operated level crossings after delivery worker was killed by passenger train in Kent An Amazon delivery driver was killed by a train after he drove his van on to railway tracks at a manually operated level crossing, apparently without realising he ne",
-   "url": "https://www.theguardian.com/business/2026/nov/09/amazon-driver-died-inquiry-manually-operated-level-crossing-kent",
-   "date": "2026-11-09T13:43:57+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -874,7 +1034,7 @@
   {
    "id": "0fa28b923d7b",
    "source": "BBC Mundo",
-   "title": "Cómo el extraordinario crecimiento de la \"escandalosamente barata\" energía solar ha desafiado todas las proyecciones",
+   "title": "Cómo el crecimiento de la energía solar \"escandalosamente barata\" ha desafiado todas las proyecciones",
    "description": "La energía solar, debido a sus costos bajos, se ha convertido en una principales fuentes de energía en varios países del mundo.",
    "url": "https://www.bbc.com/mundo/articles/cr4g1ee27w6po?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-09T11:10:31+00:00",
@@ -918,66 +1078,6 @@
    "description": "Four children and a woman were killed after heavy rain caused a sandbank to collapse on their tent.",
    "url": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
    "date": "2026-11-09T10:50:49+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "463685334014",
-   "source": "Al Jazeera",
-   "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
-   "description": "Allegations linking CEO to Chinese intelligence shake markets with chipmaker's shares falling more than 4 percent.",
-   "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
-   "date": "2026-11-09T10:49:02+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "37de0df8674b",
-   "source": "Al Jazeera",
-   "title": "Usman Khawaja’s ‘Sandpapergate’ claims are ‘accurate’, says David Warner",
-   "description": "'We're not here to point fingers and we're not opening old wounds,' Australia's Warner said of himself and Khawaja.",
-   "url": "https://www.aljazeera.com/sports/2026/11/9/usman-khawajas-sandpapergate-claims-are-accurate-says-david-warner?traffic_source=rss",
-   "date": "2026-11-09T10:38:10+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "1a32f32cc491",
-   "source": "Al Jazeera",
-   "title": "US deports Lebanese consul-general in Detroit over Hezbollah praise",
-   "description": "US Secretary of State Marco Rubio has ordered Ibrahim Charara, Lebanon’s consul general in Detroit, to leave the country",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-deports-lebanese-consul-general-in-detroit-over-hezbollah-praise?traffic_source=rss",
-   "date": "2026-11-09T10:35:53+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "86cf75753b50",
-   "source": "Al Jazeera",
-   "title": "At least four people killed as Russia and Ukraine trade strikes overnight",
-   "description": "Russia's second-largest oil refinery is set on fire by drones while Russian strikes target Ukrainian energy sites.",
-   "url": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
-   "date": "2026-11-09T10:08:45+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "fcbc9d8dc118",
-   "source": "Al Jazeera",
-   "title": "Iran’s authorities harden domestic security controls amid US strike threats",
-   "description": "Iran is cracking down on perceived security threats from alleged spies to crowds of youngsters.",
-   "url": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss",
-   "date": "2026-11-09T09:56:13+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "e7b393f81a57",
-   "source": "Al Jazeera",
-   "title": "The DNA that Unmasked a Killer | True Crime Reports",
-   "description": "For 21 years, Leslie Preer’s murder went unsolved. Then new DNA tech led police to a suspect thousands of miles away.",
-   "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/9/the-dna-that-unmasked-a-killer-true-crime-reports?traffic_source=rss",
-   "date": "2026-11-09T09:36:53+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
@@ -1192,36 +1292,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6e8824f4ab85",
-   "source": "France 24",
-   "title": "Fermín lidera la remontada del Barcelona en casa del Atlético de Madrid",
-   "description": "El cuadro culé se marcha a la ventana de partidos internacionales como líder de la Liga después de dar vuelta al marcador en el estadio Metropolitano. Los rojiblancos comenzaron con solidez y se adelantaron para ocupar de manera parcial el lugar más alto en la clasificación.",
-   "url": "https://www.france24.com/es/deportes/20261109-ferm%C3%ADn-lidera-lremontada-barcelona-casa-atl%C3%A9tico-de-madrid",
-   "date": "2026-11-09T00:48:19+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "cc24ab5b06e0",
-   "source": "Deutsche Welle",
-   "title": "El partido de Mandela, el Congreso Nacional Africano, enfrenta sus peores resultados electorales en Sudáfrica",
-   "description": "Este resultado de las elecciones municipales marca un retroceso exponencial para el Congreso Nacional Africano, que domina la política sudafricana desde 1994, tras el fin del apartheid.",
-   "url": "https://www.dw.com/es/el-partido-de-mandela-el-congreso-nacional-africano-enfrenta-sus-peores-resultados-electorales-en-sudáfrica/a-79894787?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-09T00:34:00+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "67d101341553",
-   "source": "France 24",
-   "title": "¿Qué pasó con las donaciones del terremoto en Colombia? La fundación de la primera dama, bajo la lupa",
-   "description": "Después de tres meses del terremoto en Colombia, un juez ordenó a la fundación de Ana Lucía Pineda, esposa del presidente Abelardo de la Espriella, detallar el uso de los aportes privados para las víctimas de la tragedia del 10 de agosto, que dejó al menos 330 muertos y destruyó ",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261109-qu%C3%A9-pas%C3%B3-con-las-donaciones-del-terremoto-en-colombia-la-fundaci%C3%B3n-de-la-primera-dama-bajo-la-lupa",
-   "date": "2026-11-09T00:29:12+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "f6521794ca44",
    "source": "The Guardian",
    "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
@@ -1232,22 +1302,22 @@
    "type": "Prensa"
   },
   {
+   "id": "4896b0a3b140",
+   "source": "Organización Mundial del Comercio",
+   "title": "Alemania dona EUR 500.000 para reforzar la capacidad comercial de las economías en desarrollo",
+   "description": "Alemania ha donado EUR 500.000 (aproximadamente CHF 460.000) al Fondo Fiduciario Global de la OMC para ayudar a las economías en desarrollo y los países menos adelantados (PMA) a aumentar su participación en el sistema multilateral de comercio. La Sra. Carmen Heidecke, Embajadora",
+   "url": "https://www.wto.org/spanish/news_s/news26_s/tech_09nov26_543_s.htm",
+   "date": "2026-11-09T00:00:00+00:00",
+   "category": "Comercio internacional",
+   "type": "Oficial"
+  },
+  {
    "id": "232ba93f442c",
    "source": "BBC Mundo",
    "title": "\"La economía debe estar al servicio de las personas y no las personas al servicio de la economía\": el mensaje del papa León XIV frente a Milei a su llegada a Argentina",
    "description": "El pontífice dijo ante Javier Milei, conocido por los insultos contra sus detractores, que fortalecer la democracia requería una \"disposición a escuchar\" y un \"uso cuidadoso de las palabras\".",
    "url": "https://www.bbc.com/mundo/articles/cqkg5r5x5l7mo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-08T23:54:35+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "4643fbdb782b",
-   "source": "France 24",
-   "title": "Informe desde Buenos Aires: Javier Milei recibe a León XIV en Buenos Aires",
-   "description": "El papa León XIV inició su visita oficial a Argentina, la primera de un pontífice al país en casi cuatro décadas. Durante una gira de cuatro días, recorrerá Buenos Aires, Córdoba y Luján, donde encabezará celebraciones religiosas, encuentros con autoridades y actividades con fiel",
-   "url": "https://www.france24.com/es/video/20261108-informe-desde-buenos-aires-javier-milei-recibe-a-le%C3%B3n-xiv-en-buenos-aires",
-   "date": "2026-11-08T23:35:43+00:00",
    "category": "América Latina",
    "type": "Prensa"
   },
@@ -1262,16 +1332,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3aa7885fd179",
-   "source": "France 24",
-   "title": "¿Fin de la era Netanyahu? Eisenkot recibe el encargo de formar gobierno",
-   "description": "El presidente de Isaac Herzog encargó a Gadi Eisenkot la formación de un nuevo gobierno en Israel, tras convertirse en el líder con mayores posibilidades de reunir una mayoría parlamentaria en la Knéset. Si logra consolidar una coalición, reemplazará al Ejecutivo encabezado por B",
-   "url": "https://www.france24.com/es/video/20261108-fin-de-la-era-netanyahu-eisenkot-recibe-el-encargo-de-formar-gobierno",
-   "date": "2026-11-08T23:34:27+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "d97cd3e72cb3",
    "source": "CIPER Chile",
    "title": "Una política de envejecimiento que no solo mire el cuerpo",
@@ -1279,26 +1339,6 @@
    "url": "https://www.ciperchile.cl/2026/11/08/una-politica-de-envejecimiento-que-no-solo-mire-el-cuerpo/?utm_source=rss&utm_medium=rss&utm_campaign=una-politica-de-envejecimiento-que-no-solo-mire-el-cuerpo",
    "date": "2026-11-08T23:34:11+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "25b31c92ccc5",
-   "source": "France 24",
-   "title": "Informe desde Antalya: ¿en qué temas se centrará la COP31 que arranca en Turquía?",
-   "description": "La ciudad turca de Antalya ultima los preparativos para recibir la COP31, la Conferencia de las Partes de la ONU sobre cambio climático, que se celebrará del 9 al 20 de noviembre de 2026. En la agenda de la cumbre se espera que la no dependencia de los combustibles fósiles y la e",
-   "url": "https://www.france24.com/es/video/20261108-informe-desde-antalya-en-qu%C3%A9-temas-se-centrar%C3%A1-la-cop31-que-arranca-en-turqu%C3%ADa",
-   "date": "2026-11-08T23:32:01+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "1640509bde1d",
-   "source": "Deutsche Welle",
-   "title": "Trump considera “altamente improbable” que se reanude la guerra con Irán",
-   "description": "El mandatario dijo que, si bien depende de que Teherán firme un acuerdo sólido, solo ordenaría retomar los bombardeos “si fuera necesario”.",
-   "url": "https://www.dw.com/es/trump-considera-altamente-improbable-que-se-reanude-la-guerra-con-irán/a-79894761?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-08T22:43:00+00:00",
-   "category": "Conflictos armados y seguridad internacional",
    "type": "Prensa"
   },
   {
@@ -1439,16 +1479,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
    "date": "2026-11-08T14:26:14+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "230754bcfc6d",
-   "source": "Ex-Ante",
-   "title": "Princesa Ana visitará islas Malvinas justo cuando se inicie audiencia sobre demanda argentina en Tribunal del Mar",
-   "description": "Si bien la Casa Real presenta su viaje como una visita patrimonial y conmemorativa, coincide con un hecho clave: el Tribunal Internacional del Derecho del…",
-   "url": "https://www.ex-ante.cl/internacional/princesa-ana-visitara-islas-malvinas/",
-   "date": "2026-11-08T13:40:50+00:00",
-   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -2392,32 +2422,12 @@
    "type": "Oficial"
   },
   {
-   "id": "baba9e79ac2c",
-   "source": "Organización Mundial del Comercio",
-   "title": "El Examen Global 2026 destaca las asociaciones para el comercio y el desarrollo",
-   "description": "\"Las economías en desarrollo que quieren comerciar satisfactoriamente necesitan asociaciones más fuertes con todas las partes interesadas\", dijo la Directora General de la OMC Ngozi Okonjo-Iweala en sus observaciones introductorias pronunciadas el 29 de octubre en el Examen Globa",
-   "url": "https://www.wto.org/spanish/news_s/news26_s/aid_29oct26_526_s.htm",
-   "date": "2026-10-29T00:00:00+00:00",
-   "category": "Comercio internacional",
-   "type": "Oficial"
-  },
-  {
    "id": "75fb8e991a54",
    "source": "Servicio Electoral",
    "title": "Presidenta de Servel participó en seminario sobre amistad cívica y formación democrática de las juventudes",
    "description": "La Presidenta del Consejo Directivo del Servicio Electoral, Pamela Figueroa, participó en el seminario “La amistad cívica en diálogo: experiencias desde el Estado, la sociedad civil y la universidad”, instancia propiciada por la Pontificia Universidad Católica de Chile y que conv",
    "url": "https://www.servel.cl/Ch/app/presidenta-de-servel-participo-en-seminario-sobre-amistad-civica-y-formacion-democratica-de-las-juventudes/sin-categoria/",
    "date": "2026-10-28T15:22:55+00:00",
-   "category": "Elecciones",
-   "type": "Oficial"
-  },
-  {
-   "id": "58008c32fd0e",
-   "source": "Servicio Electoral",
-   "title": "Servel colabora con Comisión de la Cámara de Diputadas y Diputados sobre plataformas digitales",
-   "description": "El lunes 26 de octubre el Director Nacional del Servicio Electoral, Raúl García, asistió al Congreso Nacional para exponer ante la Comisión Especial Investigadora relativa a desinformación, manipulación algorítmica de plataformas digitales y RRSS, y herramientas de IA, desde 2020",
-   "url": "https://www.servel.cl/Ch/app/servel-colabora-con-comision-de-la-camara-de-diputadas-y-diputados-sobre-plataformas-digitales/sin-categoria/",
-   "date": "2026-10-28T14:39:42+00:00",
    "category": "Elecciones",
    "type": "Oficial"
   },
