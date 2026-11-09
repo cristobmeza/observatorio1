@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-09T09:00:52.703804+00:00",
+ "updated": "2026-11-09T09:59:14.990892+00:00",
  "items": [
+  {
+   "id": "c9e150316357",
+   "source": "The Guardian",
+   "title": "Russell Brand to be sentenced for rape and sexual assault today – latest updates",
+   "description": "Disgraced comedian was convicted last week and was warned he faces a ‘signficant’ prison term Following his conviction last week, the Met Police revealed that they were investigating further rape allegations against Brand, including one involving a then 16-year-old girl. The Met ",
+   "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
+   "date": "2026-11-09T09:53:20+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "7c810a6bc1f7",
+   "source": "The Guardian",
+   "title": "Polanski says Labour has ‘shocking record’ on climate issues as ministers expected to cut EV targets for car industry – UK politics live",
+   "description": "Louise Haigh is expected to agree to cut a target for EV sales by about a quarter Here is an article by Fiona Harvey and Jasper Jolly published last month on what the consequences would be if the government were to relax its EV targets, as the Guardian today reports now seems ine",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
+   "date": "2026-11-09T09:45:39+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c4d786d5a66f",
+   "source": "The Guardian",
+   "title": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
+   "description": "Terrorism investigation was opened after attacker opened fire in a market square A Ukrainian drone attack has hit Russia’s second-largest oil refinery in Kirishi , in the Leningrad region, the regional governor, Aleksandr Drozdenko , said. A fire broke out at the refinery after t",
+   "url": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
+   "date": "2026-11-09T09:39:52+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e7b393f81a57",
+   "source": "Al Jazeera",
+   "title": "The DNA that Unmasked a Killer | True Crime Reports",
+   "description": "For 21 years, Leslie Preer’s murder went unsolved. Then new DNA tech led police to a suspect thousands of miles away.",
+   "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/9/the-dna-that-unmasked-a-killer-true-crime-reports?traffic_source=rss",
+   "date": "2026-11-09T09:36:53+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "21d8216040f5",
+   "source": "Al Jazeera",
+   "title": "Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?",
+   "description": "Iran has put forward a two-day proposal developed with Qatari mediators that Washington is examining.",
+   "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
+   "date": "2026-11-09T09:27:35+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "920262bff6e0",
+   "source": "The Guardian",
+   "title": "French police officers face trial over beating of black man not wearing mask during Covid",
+   "description": "Assault on Michel Zecler in 2020 is rare case of police brutality reaching court, at time of heightened tensions Three French police officers are to go on trial over the beating of a black music producer who they say was not wearing a face mask during the Covid pandemic, in a rar",
+   "url": "https://www.theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid",
+   "date": "2026-11-09T09:09:01+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "1fe3748ac24f",
+   "source": "Deutsche Welle",
+   "title": "Por caso de espionaje: Nvidia abre investigación sobre su CEO, Jensen Huang",
+   "description": "Nvidia abrió una investigación independiente sobre Jensen Huang tras las acusaciones de que pudo ser objetivo de una operación de inteligencia vinculada a China en plena disputa tecnológica entre ambos países.",
+   "url": "https://www.dw.com/es/por-caso-de-espionaje-nvidia-abre-investigación-sobre-su-ceo-jensen-huang/a-79896180?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-09T09:09:00+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "5b59e398bd28",
+   "source": "Deutsche Welle",
+   "title": "La lucha contra el hambre marca el arranque de la COP31 en Turquía",
+   "description": "Con 318 millones de personas afectadas por el hambre vinculada al cambio climático y crecientes tensiones sobre la financiación climática, la COP31 abrió en Turquía.",
+   "url": "https://www.dw.com/es/la-lucha-contra-el-hambre-marca-el-arranque-de-la-cop31-en-turquía/a-79896095?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-09T08:38:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
   {
    "id": "072eb29ac9a4",
    "source": "Al Jazeera",
@@ -85,7 +165,7 @@
    "id": "8566290aaa06",
    "source": "Al Jazeera",
    "title": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
-   "description": "Hasina, who has been living in India for two years, has promised that she would return to Bangladesh in December.",
+   "description": "Hasina, who has been living in India for two years, has promised to return to Bangladesh in December.",
    "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss",
    "date": "2026-11-09T07:12:09+00:00",
    "category": "China y Asia",
@@ -258,16 +338,6 @@
    "description": "Minister says Labour hoping to offer bed to every rough sleeper in England but cites chronic housing shortage Andy Burnham’s pledge to tackle rough sleeping by getting “everyone in for Christmas” is in jeopardy amid rising numbers of people on the streets and a severe housing sho",
    "url": "https://www.theguardian.com/society/2026/nov/09/burnham-homelessness-pledge-rough-sleeping-england",
    "date": "2026-11-09T05:01:01+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "aeef50fce655",
-   "source": "The Guardian",
-   "title": "Starbucks plans to hire 7,500 staff in major UK expansion plan",
-   "description": "Coffee shop chain targets growth north of London with extra 500 outlets in big boost for youth employment Starbucks has set out plans to hire 7,500 new baristas over the next five years, in a boost to youth employment as the chain pins hopes for future growth on the north of the ",
-   "url": "https://www.theguardian.com/business/2026/nov/09/starbucks-hire-7500-staff-uk-expansion-plan",
-   "date": "2026-11-09T05:01:00+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -482,16 +552,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3a787182fca6",
-   "source": "Al Jazeera",
-   "title": "Moldova launches new power line to Romania to cut reliance on Russia",
-   "description": "Moldovan President Maia Sandu says 'two more power lines to Romania are on the way'.",
-   "url": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss",
-   "date": "2026-11-09T02:35:15+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "de4d53408bee",
    "source": "France 24",
    "title": "Más de 3.300 migrantes llegan a El Hierro, en Canarias: ¿hay capacidad de respuesta?",
@@ -519,16 +579,6 @@
    "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/08/el-emotivo-adios-de-la-expareja-de-sebastian-lelio-fue-un-honor-compartir-parte-de-este-viaje.shtml",
    "date": "2026-11-09T02:24:13+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "3e2be3fab14a",
-   "source": "Al Jazeera",
-   "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
-   "description": "A drone attack has halted production at the Khor Mor gas field in northern Iraq, causing widespread power outages.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
-   "date": "2026-11-09T02:23:11+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -819,16 +869,6 @@
    "url": "https://www.france24.com/es/deportes/20261109-ferm%C3%ADn-lidera-lremontada-barcelona-casa-atl%C3%A9tico-de-madrid",
    "date": "2026-11-09T00:48:19+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "476a7e8aec9e",
-   "source": "The Guardian",
-   "title": "Maya Jama steps down as Love Island host after nine seasons",
-   "description": "‘Time to throw myself into something new,’ 32-year-old presenter announces on social media while hailing her ‘unforgettable time’ on the show Maya Jama has announced she is stepping down as the host of Love Island after three years. The 32-year-old presenter of the reality TV sho",
-   "url": "https://www.theguardian.com/media/2026/nov/09/maya-jama-steps-down-as-love-island-host-after-nine-seasons",
-   "date": "2026-11-09T00:43:39+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1172,16 +1212,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9c707bb21588",
-   "source": "The Guardian",
-   "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
-   "description": "Culture secretary pushes back against talk of revisiting Brexit but says closer ties would fulfil referendum promises One of Andy Burnham’s cabinet ministers has said she wants to avoid “circular arguments” about whether the UK should rejoin the EU, underlining divisions at the t",
-   "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
-   "date": "2026-11-08T18:20:06+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "8c1c64ac0acd",
    "source": "Deutsche Welle",
    "title": "Siete muertos y 112 heridos en accidente de trenes en Egipto",
@@ -1232,26 +1262,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0ff2b937f049",
-   "source": "The Guardian",
-   "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
-   "description": "Bailiffs reportedly seized digital records before court case over alleged intellectual property breaches on Land Rover Defender Bailiffs acting for Jaguar Land Rover raided the Dutch offices of a Chinese “copycat” rival before a legal showdown this week over whether its “Defender",
-   "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
-   "date": "2026-11-08T16:50:58+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "5d7d799612ef",
-   "source": "Deutsche Welle",
-   "title": "Eisenkot invita al partido de Benjamin Netanyahu a formar una coalición de gobierno",
-   "description": "El político opositor fue designado por el presidente de Israel para formar un nuevo Ejecutivo. Eisenkot dijo que los días en que los israelíes se sentían excluidos por sus gobernantes “tienen que terminar”.",
-   "url": "https://www.dw.com/es/eisenkot-invita-al-partido-de-benjamin-netanyahu-a-formar-una-coalición-de-gobierno/a-79892606?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-08T16:17:00+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "416bce499348",
    "source": "CIPER Chile",
    "title": "Paulina García: “Nunca estuvo en mis sueños hacer cine”",
@@ -1289,16 +1299,6 @@
    "url": "https://www.bbc.com/mundo/articles/c3j47pzvv7kgo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-08T14:47:24+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "f45808211c60",
-   "source": "Deutsche Welle",
-   "title": "Estados Unidos crea grupo de trabajo para bloquear rutas terrestres hacia Irán",
-   "description": "El Comando Central estima que el bloqueo naval ha impedido exportaciones de petróleo iraní por un valor de más de 25.000 millones de dólares.",
-   "url": "https://www.dw.com/es/estados-unidos-crea-grupo-de-trabajo-para-bloquear-rutas-terrestres-hacia-irán/a-79891420?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-08T14:46:00+00:00",
-   "category": "Comercio internacional",
    "type": "Prensa"
   },
   {
