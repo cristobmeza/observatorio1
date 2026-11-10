@@ -1,14 +1,104 @@
 {
- "updated": "2026-11-10T15:41:29.585993+00:00",
+ "updated": "2026-11-10T16:44:57.258146+00:00",
  "items": [
+  {
+   "id": "e3672bc8e11c",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] Marchant le ofreció cerveza a Leandro Hernández y así reaccionó",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Leandro Hernández vivió un incómodo momento durante las celebraciones por el título de Colo Colo en el Monumental, ya que las cámaras captaron a Francisco Marchant ofreciéndole una cerveza al delantero que fue formalizado p",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-marchant-le-ofrecio-cerveza-a-leandro-hernandez-y-asi-reacciono/2026-11-10/132956.html",
+   "date": "2026-11-10T16:29:56+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "faf6b3749195",
+   "source": "Al Jazeera",
+   "title": "Did Fox News’ fixation on Hasan Piker backfire?",
+   "description": "Did Fox News' fixation on Hasan Piker backfire?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/did-fox-news-fixation-on-hasan-piker-backfire?traffic_source=rss",
+   "date": "2026-11-10T16:26:08+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f94efc19c63c",
+   "source": "France 24",
+   "title": "Rubio califica de \"muy productivas\" las conversaciones entre Ucrania y Rusia",
+   "description": "",
+   "url": "https://www.france24.com/es/europa/20261110-rusia-y-ucrania-vuelven-a-la-mesa-de-negociaci%C3%B3n-en-abu-dabi-tras-casi-nueve-meses-sin-contactos",
+   "date": "2026-11-10T16:24:05+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "be65a905d2df",
+   "source": "Deutsche Welle",
+   "title": "Por qué la electrificación es el factor decisivo que necesitamos frente al cambio climático",
+   "description": "Vehículos y autobuses eléctricos que circulan por nuestras carreteras, bombas de calor en los hogares o paneles solares: la transición hacia la electrificación está en marcha. ¿Qué cambia con esta tecnología?",
+   "url": "https://www.dw.com/es/por-qué-la-electrificación-es-el-factor-decisivo-que-necesitamos-frente-al-cambio-climático/a-79911079?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-10T16:23:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "15a118004f8f",
+   "source": "Al Jazeera",
+   "title": "At least 12 people killed in Bulgaria motorway pile-up",
+   "description": "At least 12 people have been killed and dozens injured in multiple crashes involving around 50 vehicles on a motorway",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss",
+   "date": "2026-11-10T16:20:12+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "34a2b27f48bb",
+   "source": "Radio Cooperativa",
+   "title": "Experto: El escándalo de Nvidia da cuenta de la fragilidad del ecosistema en torno a la IA",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/experto-el-escandalo-de-nvidia-da-cuenta-de-la-fragilidad-del/2026-11-10/132006.html",
+   "date": "2026-11-10T16:20:06+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "fb8d225ee87a",
+   "source": "The Guardian",
+   "title": "People in deprived areas of England more than twice as likely to die early, study shows",
+   "description": "Premature death risk also varies according to employment and qualifications, shows analysis ‘laying bare the scale of inequalities’ People living in the most deprived areas of England are more than twice as likely to die prematurely than their more affluent counterparts, accordin",
+   "url": "https://www.theguardian.com/news/2026/nov/10/early-death-deprived-areas-england",
+   "date": "2026-11-10T16:19:41+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "8aa078656069",
+   "source": "Ex-Ante",
+   "title": "¿Quién cuida al gerente general?",
+   "description": "En Chile la incertidumbre se ha vuelto más la norma que la excepción, por lo tanto, esta conversación no es teórica. Un buen directorio debe…",
+   "url": "https://www.ex-ante.cl/afteroffice/quien-cuida-al-gerente-general/",
+   "date": "2026-11-10T16:18:52+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "544d8374ef15",
    "source": "The Guardian",
    "title": "Planned Tory welfare cuts ‘a charter for human misery,’ says Labour – UK politics live",
    "description": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of £36bn Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the U",
    "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
-   "date": "2026-11-10T15:33:05+00:00",
+   "date": "2026-11-10T16:11:19+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "40c9aa0c558a",
+   "source": "Deutsche Welle",
+   "title": "Conversaciones entre Rusia y Ucrania en Abu Dabi: ¿se producirá un avance decisivo?",
+   "description": "La delegación rusa que participa en las conversaciones con Ucrania cuenta con una representación de alto nivel. También viajan a Abu Dabi representantes de países europeos. ¿Qué significa?",
+   "url": "https://www.dw.com/es/conversaciones-entre-rusia-y-ucrania-en-abu-dabi-¿se-producirá-un-avance-decisivo/a-79910461?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-10T16:11:00+00:00",
+   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -17,8 +107,158 @@
    "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – Europe live",
    "description": "US-led talks in Abu Dhabi break up after four hours but are expected to resume tomorrow as Zelenskyy says humanitarian issues were discussed US officials seek ‘final end’ to Russia-Ukraine war as talks begin The EU has said it stands ready “to come with a swift and united respons",
    "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
-   "date": "2026-11-10T15:31:20+00:00",
+   "date": "2026-11-10T16:04:27+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a513bbf55334",
+   "source": "Radio Cooperativa",
+   "title": "Nicolás Córdova participó armando jugadas en un nuevo entrenamiento de La Roja",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nicolas-cordova-participo-armando-jugadas-en-un-nuevo-entrenamiento-de/2026-11-10/130345.html",
+   "date": "2026-11-10T16:03:45+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "c9317a6b7ee4",
+   "source": "BBC Mundo",
+   "title": "Mi hermano murió tras rechazar una transfusión por sus creencias; semanas después los Testigos de Jehová eliminaron esa prohibición",
+   "description": "Muchos testigos de Jehová han muerto en las últimas décadas por seguir un precepto ahora revisado.",
+   "url": "https://www.bbc.com/mundo/articles/cm9dzdq3p48zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T16:02:51+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "faddf2cc6b93",
+   "source": "Al Jazeera",
+   "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
+   "description": "Israel has killed more than 1,600 people in Gaza since last year's 'ceasefire', the enclave's Health Ministry says.",
+   "url": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
+   "date": "2026-11-10T15:49:36+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "cdb4c47c7d48",
+   "source": "Radio Cooperativa",
+   "title": "Con presencia del Presidente Kast, comenzó la marcha blanca del Teleférico Bicentenario",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/transportes/con-presencia-del-presidente-kast-comenzo-la-marcha-blanca-del/2026-11-10/124522.html",
+   "date": "2026-11-10T15:45:22+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "b037ab7a76c6",
+   "source": "Radio Cooperativa",
+   "title": "Kast llamó a camioneros a \"pensar en Chile\" frente al paro por el alza de las bencinas",
+   "description": "En el marco de la inauguración de la marcha blanca del teleférico que unirá a las comunas de Huechuraba y Providencia, el Presidente José Antonio Kast se refirió brevemente a la movilización que mantienen los gremios de transportistas en varias regiones del país por el alza de lo",
+   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-llamo-a-camioneros-a-pensar-en-chile-frente-al-paro-por-el-alza/2026-11-10/124428.html",
+   "date": "2026-11-10T15:44:28+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "c44d4305f1eb",
+   "source": "Radio Cooperativa",
+   "title": "Vozinha tras el título con Colo Colo: \"Hay logros que las palabras no pueden explicar\"",
+   "description": "El portero caboverdiano Josimar Évora Dias , más conocido como Vozinha , utilizó sus redes sociales para compartir una sentida reflexión tras conquistar el título de la Liga de Primera junto a Colo Colo y el cuarto de su trayectoria profesional. \" Hay logros que las palabras no p",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/vozinha-tras-el-titulo-con-colo-colo-hay-logros-que-las-palabras-no/2026-11-10/124254.html",
+   "date": "2026-11-10T15:42:54+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "2a00dce15e51",
+   "source": "Radio Cooperativa",
+   "title": "Regreso de \"Machos\" no logró conquistar a la audiencia",
+   "description": "\"Machos\" , la recordada teleserie de 2003, no logró conquistar a las audiencias en su regreso a las pantallas de Canal 13 . El reestreno, a 23 años de la emisión original y a un año de la muerte de Héctor \"Tito\" Noguera, quien interpretó al patriarca \"Ángel Mercader\", quedó en cu",
+   "url": "https://www.cooperativa.cl/noticias/magazine/television/telenovelas/regreso-de-machos-no-logro-conquistar-a-la-audiencia/2026-11-10/124051.html",
+   "date": "2026-11-10T15:40:51+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e75d13298224",
+   "source": "The Guardian",
+   "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+   "description": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory. The seven-time Formula One world",
+   "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+   "date": "2026-11-10T15:39:26+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "73b703655a61",
+   "source": "Al Jazeera",
+   "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
+   "description": "Suspect in deadly November 7 Krakow shooting looked up the white supremacist who killed dozens in 2011, a minister says.",
+   "url": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss",
+   "date": "2026-11-10T15:36:49+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "351f650b9b0b",
+   "source": "The Guardian",
+   "title": "Cop31 as it happened: ‘Everything and everyone we love is at stake,’ Greta Thunberg warns",
+   "description": "Host Turkey celebrates new oilfields as UN climate summit prepares to host world leaders from more than 90 countries We’ve just heard from Patricia Espinosa , the former UN climate boss (succeeded by Simon Stiell) and now we are hearing from former US secretary of state and clima",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+   "date": "2026-11-10T15:35:09+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "910826107769",
+   "source": "Radio Cooperativa",
+   "title": "Conmoción en Brasil: Asesinaron al padre de Rony y Neymar acudió en su ayuda",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El fútbol brasileño quedó conmocionado por el asesinato de Marigerson Barbosa Carneiro, padre de Rony, delantero de Santos , quien murió este lunes a los 72 años luego de recibir una puñalada en el cuello en el municipio de",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-brasilena/conmocion-en-brasil-asesinaron-al-padre-de-rony-y-neymar-acudio-en-su/2026-11-10/122933.html",
+   "date": "2026-11-10T15:29:33+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "4b982eaebf89",
+   "source": "Radio Cooperativa",
+   "title": "Líder de Rammstein confirmó show en Chile y será solo para mayores de edad",
+   "description": "El cantante alemán Till Lindemann , líder de la banda Rammstein , anunció su regreso a Chile en plan solista con un espectáculo que será exclusivo para mayores de edad . Su show se realizará el próximo 20 de abril de 2027 en el Teatro Caupolicán , en Santiago, como parte de su gi",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/lider-de-rammstein-confirmo-show-en-chile-y-sera-solo-para-mayores-de/2026-11-10/122323.html",
+   "date": "2026-11-10T15:23:23+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "5f77f055ffb5",
+   "source": "Al Jazeera",
+   "title": "Deadly Egypt train crash prompts calls for political accountability",
+   "description": "A deadly train collision in Egypt's al-Ayyat prompts demands for political accountability and rail upgrade reviews.",
+   "url": "https://www.aljazeera.com/news/2026/11/10/deadly-egypt-train-collision-prompts-calls-for-political-accountability?traffic_source=rss",
+   "date": "2026-11-10T15:22:17+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ba9457d3e828",
+   "source": "Al Jazeera",
+   "title": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
+   "description": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss",
+   "date": "2026-11-10T15:21:11+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f3b66ce61c57",
+   "source": "Al Jazeera",
+   "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+   "description": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
+   "url": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
+   "date": "2026-11-10T15:18:32+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -29,16 +269,6 @@
    "url": "https://www.france24.com/es/programas/migrantes/20261110-trump-y-la-migraci%C3%B3n-tras-el-voto-de-castigo-mano-dura-o-distensi%C3%B3n",
    "date": "2026-11-10T15:16:54+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "351f650b9b0b",
-   "source": "The Guardian",
-   "title": "Cop31 live: ‘Everything and everyone we love is at stake,’ Greta Thunberg warns",
-   "description": "Host Turkey celebrates new oilfields as UN climate summit prepares to host world leaders from more than 90 countries We’ve just heard from Patricia Espinosa , the former UN climate boss (succeeded by Simon Stiell) and now we are hearing from former US secretary of state and clima",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
-   "date": "2026-11-10T15:15:07+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -155,7 +385,7 @@
    "id": "15b0abd1aa21",
    "source": "Al Jazeera",
    "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
-   "description": "Eight articles brought by a Republican lawmaker accuse the Pentagon chief of waging unlawful wars on Iran and Venezuela.",
+   "description": "Eight articles brought by a Republican lawmaker accuse US Pentagon chief of waging unlawful wars on Iran and Venezuela.",
    "url": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss",
    "date": "2026-11-10T14:45:22+00:00",
    "category": "América Latina",
@@ -252,46 +482,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5ded16172ae1",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] Carlos Palacios salió entre empujones con la prensa tras declarar ante la PDI",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Carlos Palacios, futbolista chileno de Boca Juniors , protagonizó un tenso incidente con la prensa a su salida de dependencias de la Policía de Investigaciones (PDI), luego de declarar en calidad de imputado en una investig",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/chilenos-en-el-exterior/video-carlos-palacios-salio-entre-empujones-con-la-prensa-tras/2026-11-10/112310.html",
-   "date": "2026-11-10T14:23:10+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "4bb113c51fca",
-   "source": "Radio Cooperativa",
-   "title": "Ganancias de ferias libres han caído 60% en medio de complejo escenario económico",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/consumidores/ganancias-de-ferias-libres-han-caido-60-en-medio-de-complejo-escenario/2026-11-10/111525.html",
-   "date": "2026-11-10T14:15:25+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "4b0b9388f74b",
-   "source": "Radio Cooperativa",
-   "title": "Romero pide disciplina al oficialismo tras cuestionar críticas de Longton",
-   "description": "El diputado del Partido Republicano Agustín Romero llamó al oficialismo a actuar con disciplina para construir una coalición política , tras cuestionar las críticas del senador RN Andrés Longton a la oportunidad de las medidas del Gobierno para enfrentar el impacto del alza de lo",
-   "url": "https://www.cooperativa.cl/noticias/pais/politica/chile-vamos/romero-pide-disciplina-al-oficialismo-tras-cuestionar-criticas-de-longton/2026-11-10/110831.html",
-   "date": "2026-11-10T14:08:31+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "12aae71124ec",
-   "source": "Radio Cooperativa",
-   "title": "Irán negó su implicación en los ataques a los frigoríficos de la distribución de Francia",
-   "description": "Irán negó enérgicamente este martes su implicación en los ciberataques a los sistemas de refrigeración de varias cadenas de distribución en octubre en Francia, y calificó las acusaciones de París acerca de su participación en esas acciones de \"infundadas\" y \"parciales\". \"El Minis",
-   "url": "https://www.cooperativa.cl/noticias/mundo/iran/iran-nego-su-implicacion-en-los-ataques-a-los-frigorificos-de-la/2026-11-10/110543.html",
-   "date": "2026-11-10T14:05:43+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "76a9302a9549",
    "source": "Al Jazeera",
    "title": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
@@ -304,7 +494,7 @@
   {
    "id": "25162a31d4e6",
    "source": "BBC Mundo",
-   "title": "Un congresista republicano inicia el proceso para el \"impeachment\" de Pete Hegseth por la guerra en Irán, mientras el secretario de Defensa de EE.UU. denuncia un \"circo\" político",
+   "title": "Un congresista republicano inicia el proceso para el \"impeachment\" de Pete Hegseth por la guerra en Irán",
    "description": "El secretario de Defensa de EE.UU., Pete Hegseth, defendió este martes su gestión en su primera rueda de prensa en seis meses.",
    "url": "https://www.bbc.com/mundo/articles/cm62y2l3eng1o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-10T14:03:26+00:00",
@@ -319,16 +509,6 @@
    "url": "https://www.ex-ante.cl/politica/sobrina-matthei-coordinadora-ac-rabat/",
    "date": "2026-11-10T14:03:09+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "baf6c575569d",
-   "source": "Radio Cooperativa",
-   "title": "Diputado UDI pide extender hasta marzo el límite al alza de combustibles",
-   "description": "El diputado y vicepresidente de la UDI Eduardo Cretton propuso extender hasta mediados de marzo el límite a las alzas de los combustibles , anunciado por el Gobierno para un periodo de 90 días , con el objetivo de aliviar los costos del transporte y permitir que concluyan las cos",
-   "url": "https://www.cooperativa.cl/noticias/pais/transportes/diputado-udi-pide-extender-hasta-marzo-el-limite-al-alza-de-combustibles/2026-11-10/110230.html",
-   "date": "2026-11-10T14:02:30+00:00",
-   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -372,16 +552,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5ff167a8ef94",
-   "source": "Radio Cooperativa",
-   "title": "Verónica Bianchi denunció incitación a la violencia y hostigamiento por video de Colo Colo",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Verónica Bianchi, periodista de TNT Sport s , denunció hostigamiento en redes sociales luego de que Colo Colo publicara un video para recordar las críticas que recibió durante la temporada , incluyendo unas declaraciones de",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/tnt-sports/veronica-bianchi-denuncio-incitacion-a-la-violencia-y-hostigamiento-por/2026-11-10/105839.html",
-   "date": "2026-11-10T13:58:39+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "dc3eca215ca9",
    "source": "Al Jazeera",
    "title": "Meta’s AI age-check goes global: Can it protect teens?",
@@ -422,16 +592,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ba319f2ca2c2",
-   "source": "Radio Cooperativa",
-   "title": "Delegado Codina no descartó \"aplicar la ley con fuerza\" ante paro de camioneros",
-   "description": "El delegado presidencial de la Región Metropolitana, Germán Codina , llegó hasta el kilómetro 12 de la Ruta 68 donde los gremios de camioneros mantienen paralizado el tránsito en reclamo por el alza de los combustibles, y pese a su disposición para escucharlos, no descartó \"aplic",
-   "url": "https://www.cooperativa.cl/noticias/pais/transportes/delegado-codina-no-descarto-aplicar-la-ley-con-fuerza-ante-paro-de/2026-11-10/104002.html",
-   "date": "2026-11-10T13:40:02+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "394e2070ed79",
    "source": "Al Jazeera",
    "title": "Attacks escalate between Saudi-led forces and Yemen’s Iran-backed Houthis",
@@ -449,16 +609,6 @@
    "url": "https://www.france24.com/es/programas/revista-de-prensa/20261110-el-liderazgo-de-hegseth-perjudic%C3%B3-al-pent%C3%A1gono-foreign-policy",
    "date": "2026-11-10T13:38:53+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "a71c2e836234",
-   "source": "Radio Cooperativa",
-   "title": "Sujeto fue asesinado tras riña en la vía pública en Rancagua",
-   "description": "Personal de Carabineros investiga el asesinato de un hombre de 37 años , hecho ocurrido en la intersección de Avenida República con Constitución en la comuna de Rancagua. La víctima tenía al menos una herida cortopunzante y en el lugar se encontró un estoque y otra arma blanca, l",
-   "url": "https://www.cooperativa.cl/noticias/pais/region-de-ohiggins/sujeto-fue-asesinado-tras-rina-en-la-via-publica-en-rancagua/2026-11-10/103634.html",
-   "date": "2026-11-10T13:36:34+00:00",
-   "category": "Derecho constitucional",
    "type": "Prensa"
   },
   {
@@ -494,21 +644,11 @@
   {
    "id": "929fbcbe9778",
    "source": "Al Jazeera",
-   "title": "Pentagon chief Hegseth calls US House impeachment effort a ‘farce’",
+   "title": "Pentagon chief Pete Hegseth calls US House impeachment effort a ‘farce’",
    "description": "Hegseth condemns impeachment resolution against him as 'sabotage', defending his actions and policy decisions.",
    "url": "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce?traffic_source=rss",
    "date": "2026-11-10T13:23:41+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "ebfb2b9fbfe4",
-   "source": "Radio Cooperativa",
-   "title": "Tarja Turunen, histórica voz de Nightwish, vuelve a Chile: Fecha, recinto y entradas",
-   "description": "Tarja Turunen , la histórica voz de la banda finlandesa de metal sinfónico Nightwish , regresa a Chile con un show en solitario . La soprano finlandesa trae a los escenarios nacionales su gira \"Frisson Live 2027\" , presentándose el próximo 7 de junio en el Teatro Coliseo , en San",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/tarja-turunen-historica-voz-de-nightwish-vuelve-a-chile-fecha/2026-11-10/102235.html",
-   "date": "2026-11-10T13:22:35+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -549,16 +689,6 @@
    "url": "https://www.ex-ante.cl/internacional/gnecco-nombramiento-cultural/",
    "date": "2026-11-10T13:10:26+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "14275822710c",
-   "source": "The Guardian",
-   "title": "Pharma firms’ focus on weight-loss drugs could put insulin supply at risk, experts warn",
-   "description": "GLP-1 products such as Ozempic and Mounjaro spread but many in poorer countries struggle to get basic diabetes treatment The gold rush into GLP-1 weight-loss drugs risks diverting pharmaceutical firms’ attention away from diabetes treatments such as insulin, the head of the Acces",
-   "url": "https://www.theguardian.com/business/2026/nov/10/pharma-firms-weight-loss-drugs-insulin-glp-1-ozempic-mounjaro",
-   "date": "2026-11-10T13:00:53+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -682,16 +812,6 @@
    "type": "Prensa"
   },
   {
-   "id": "00e2c0239b28",
-   "source": "Al Jazeera",
-   "title": "Why the GCC is setting up an advanced military command base in Kuwait",
-   "description": "Gulf leaders emphasised the need to strengthen defence coordination to confront present and future regional challenges.",
-   "url": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
-   "date": "2026-11-10T12:09:54+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "e3ddbbb5cb09",
    "source": "The Guardian",
    "title": "US and rest of world must follow China’s lead on green energy, says John Kerry",
@@ -709,16 +829,6 @@
    "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/11/10/solo-un-41-de-las-faenas-mineras-afectadas-por-los-temporales-han-retomado-operaciones.shtml",
    "date": "2026-11-10T12:08:16+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "497955d75ba3",
-   "source": "Al Jazeera",
-   "title": "Ohio State suspends fraternity after video shows two people on fire",
-   "description": "A video showing two men engulfed in fire as spectators laugh has prompted Ohio State University to suspend a fraternity.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/ohio-state-suspends-fraternity-after-video-shows-two-people-on-fire?traffic_source=rss",
-   "date": "2026-11-10T12:07:13+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -789,16 +899,6 @@
    "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/10/confirman-fecha-para-el-regreso-de-pasapalabra-y-revelan-millonario-pozo-del-rosco.shtml",
    "date": "2026-11-10T11:53:59+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "d713709879f9",
-   "source": "Al Jazeera",
-   "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
-   "description": "Analysts say Trump’s comments are more likely to be political posturing than a reflection of serious policy priorities.",
-   "url": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
-   "date": "2026-11-10T11:52:34+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -912,26 +1012,6 @@
    "type": "Prensa"
   },
   {
-   "id": "de6b1af2f0e9",
-   "source": "Al Jazeera",
-   "title": "Malaysian court clears former PM Najib Razak for house arrest transfer",
-   "description": "Najib, 73, was jailed for his role in looting the now-defunct sovereign wealth fund 1MDB.",
-   "url": "https://www.aljazeera.com/news/2026/11/10/malaysian-court-clears-former-pm-najib-razak-for-house-arrest-transfer?traffic_source=rss",
-   "date": "2026-11-10T11:17:36+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "bca6c254acae",
-   "source": "Al Jazeera",
-   "title": "Who moves first in Iran-US diplomacy?",
-   "description": "Breaking the deadlock requires coordinated, verifiable concessions, not demands for one side to act first.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/10/who-moves-first-in-iran-us-diplomacy?traffic_source=rss",
-   "date": "2026-11-10T11:14:16+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "2bcc87f2d4af",
    "source": "BBC Mundo",
    "title": "Las personas que solo necesitan dormir 4 horas y cómo lo explica la genética",
@@ -952,16 +1032,6 @@
    "type": "Prensa"
   },
   {
-   "id": "77cf66a39b43",
-   "source": "Al Jazeera",
-   "title": "Moroccan trio make African Player of Year shortlist as Salah absent",
-   "description": "WAFCON winners Cameroon dominate women’s list after heroics from Monique Ngock, Michaely Bihina and Marie Ngah Manga.",
-   "url": "https://www.aljazeera.com/sports/2026/11/10/moroccan-trio-make-african-player-of-year-shortlist-as-salah-absent?traffic_source=rss",
-   "date": "2026-11-10T11:05:20+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "c421a2beba26",
    "source": "The Guardian",
    "title": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile",
@@ -969,16 +1039,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
    "date": "2026-11-10T10:57:51+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "4f8fcacf4a9a",
-   "source": "Al Jazeera",
-   "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
-   "description": "Iran categorically denied the French accusations, calling the claims 'baseless'.",
-   "url": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss",
-   "date": "2026-11-10T10:51:02+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1222,26 +1282,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9d4880bbb4b4",
-   "source": "France 24",
-   "title": "¿Por qué Nvidia es un objetivo estratégico para la seguridad de EE. UU.?",
-   "description": "El gigante estadounidense de los microprocesadores abrió una investigación independiente por una presunta operación de inteligencia china dirigida contra su presidente ejecutivo, Jensen Huang. Según reveló 'The New York Times', una empresaria identificada como Alice Huang habría ",
-   "url": "https://www.france24.com/es/video/20261110-por-qu%C3%A9-nvidia-es-un-objetivo-estrat%C3%A9gico-para-la-seguridad-de-ee-uu",
-   "date": "2026-11-10T02:29:38+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "d0e13347af8e",
-   "source": "France 24",
-   "title": "Visita del papa León XIV a Argentina también beneficia a los comerciantes",
-   "description": "La llegada del papa León XIV a Argentina también beneficia a los comerciantes. En una editorial y santería católica de Buenos Aires, sus dueños aprovecharon la visita del pontífice para impulsar las ventas de libros e imágenes religiosas. En otra zona comercial, los vendedores co",
-   "url": "https://www.france24.com/es/video/20261110-visita-del-papa-le%C3%B3n-xiv-a-argentina-tambi%C3%A9n-beneficia-a-los-comerciantes",
-   "date": "2026-11-10T02:29:19+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "c20a60c6a510",
    "source": "Deutsche Welle",
    "title": "Jefe del Pentágono enfrenta moción de censura en Congreso de EE.UU.",
@@ -1342,16 +1382,6 @@
    "type": "Prensa"
   },
   {
-   "id": "da0c535a4494",
-   "source": "Deutsche Welle",
-   "title": "Irán mantiene su capacidad de presión en el estrecho de Ormuz",
-   "description": "La inseguridad en esta ruta marítima clave amenaza a las tripulaciones, dispara los costos del transporte de energía y genera incertidumbre en el comercio mundial.",
-   "url": "https://www.dw.com/es/irán-mantiene-su-capacidad-de-presión-en-el-estrecho-de-ormuz/a-79905064?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-09T21:17:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d8c1eab22680",
    "source": "Deutsche Welle",
    "title": "Alemania podría tener por primera vez una mujer como presidenta",
@@ -1359,6 +1389,16 @@
    "url": "https://www.dw.com/es/alemania-podría-tener-por-primera-vez-una-mujer-como-presidenta/a-79904782?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-09T21:17:00+00:00",
    "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "da0c535a4494",
+   "source": "Deutsche Welle",
+   "title": "Irán mantiene su capacidad de presión en el estrecho de Ormuz",
+   "description": "La inseguridad en esta ruta marítima clave amenaza a las tripulaciones, dispara los costos del transporte de energía y genera incertidumbre en el comercio mundial.",
+   "url": "https://www.dw.com/es/irán-mantiene-su-capacidad-de-presión-en-el-estrecho-de-ormuz/a-79905064?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-09T21:17:00+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1409,16 +1449,6 @@
    "url": "https://www.ex-ante.cl/nacional/rabat-apela-beneficio-corte-apelaciones/",
    "date": "2026-11-09T17:06:21+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "aca81e0105fe",
-   "source": "Ex-Ante",
-   "title": "El golpe bursátil a Nvidia por escándalo que involucra a su CEO y a una supuesta espía china",
-   "description": "La firma estadounidense abrió una investigación independiente sobre Jensen Huang, su cofundador y máximo ejecutivo, luego de que reportes de prensa lo vincularan sentimentalmente con…",
-   "url": "https://www.ex-ante.cl/negocios/escandalo-nvidia-investigacion-ceo-espia/",
-   "date": "2026-11-09T16:59:46+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -2042,16 +2072,6 @@
    "type": "Académica"
   },
   {
-   "id": "ad24129ac855",
-   "source": "The Guardian",
-   "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
-   "description": "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed. “A Briti",
-   "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
-   "date": "2026-11-04T18:18:37+00:00",
-   "category": "África",
-   "type": "Prensa"
-  },
-  {
    "id": "ea578be293ef",
    "source": "CIPER Chile",
    "title": "Todas las violas se van al cielo: adiós a Penelope Knuth",
@@ -2122,16 +2142,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9c34737fb96c",
-   "source": "BBC Mundo",
-   "title": "El emotivo regreso a casa de Karl Bushby, el aventurero británico que recorrió el mundo a pie tras partir de Chile hace 28 años",
-   "description": "El aventurero británico culmina este lunes su travesía por el mundo. Un viaje que emprendió hace 28 años desde Chile para regresar a su hogar en Reino Unido.",
-   "url": "https://www.bbc.com/mundo/articles/c8wy941ee4rzo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-03T00:38:16+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "a6008efb3940",
    "source": "Servicio Electoral",
    "title": "Presidenta de Servel se reunió con parlamentarios por proyecto de ley sobre regulación de cuentas automatizadas y uso de IA en campañas electorales",
@@ -2170,6 +2180,16 @@
    "date": "2026-11-01T13:01:49+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
+  },
+  {
+   "id": "d2f20901f5f3",
+   "source": "Organización Mundial del Comercio",
+   "title": "La Presidenta del Grupo de Trabajo visita Uzbekistán cuando las negociaciones de adhesión del país a la OMC entran en una etapa decisiva",
+   "description": "Del 1 al 3 de noviembre, una delegación de la OMC encabezada por la Embajadora Sung-yo Choi (República de Corea), Presidenta del Grupo de Trabajo sobre la Adhesión de Uzbekistán, visitó Taskent (Uzbekistán) para contribuir a los preparativos del país para su adhesión a la OMC, en",
+   "url": "https://www.wto.org/spanish/news_s/news26_s/acc_01nov26_545_s.htm",
+   "date": "2026-11-01T00:00:00+00:00",
+   "category": "Comercio internacional",
+   "type": "Oficial"
   },
   {
    "id": "512830ad7e19",
@@ -2219,16 +2239,6 @@
    "url": "https://www.wto.org/spanish/news_s/news26_s/devel_29oct26_535_s.htm",
    "date": "2026-10-29T00:00:00+00:00",
    "category": "Comercio internacional",
-   "type": "Oficial"
-  },
-  {
-   "id": "509108529dcf",
-   "source": "Organización Mundial del Comercio",
-   "title": "Asociados del algodón ponen en marcha una iniciativa para atraer inversiones en textiles y prendas de vestir en África Occidental y Central",
-   "description": "El 29 de octubre, coincidiendo con el Examen Global de la Ayuda para el Comercio, los asociados del algodón pusieron en marcha una Iniciativa de Promoción de las Inversiones para ayudar a los agricultores africanos a pasar de exportar algodón como fibra en bruto a aumentar su par",
-   "url": "https://www.wto.org/spanish/news_s/news26_s/cotpt_29oct26_540_s.htm",
-   "date": "2026-10-29T00:00:00+00:00",
-   "category": "África",
    "type": "Oficial"
   },
   {
