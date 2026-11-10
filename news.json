@@ -1,21 +1,141 @@
 {
- "updated": "2026-11-10T20:39:01.784954+00:00",
+ "updated": "2026-11-10T21:35:02.743526+00:00",
  "items": [
+  {
+   "id": "c5ff3d88b052",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver el duelo entre Italia y Francia por la Nations League?",
+   "description": "El Estadio San Siro de Milán aguarda por un choque de colosos este jueves 12 de noviembre , jornada en la que las selecciones de Italia y Francia se verán las caras por la quinta jornada de la fase de grupos de la UEFA Nations League . El partido está programado para las 16:45 ho",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/nations-league/cuando-y-donde-ver-el-duelo-entre-italia-y-francia-por-la-nations/2026-11-10/180426.html",
+   "date": "2026-11-10T21:04:26+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "40c9aa0c558a",
+   "source": "Deutsche Welle",
+   "title": "Conversaciones entre Rusia y Ucrania en Abu Dabi: ¿se producirá un avance decisivo?",
+   "description": "La delegación rusa que participa en las conversaciones con Ucrania cuenta con una representación de alto nivel. También viajan a Abu Dabi representantes de países europeos. ¿Qué significa?",
+   "url": "https://www.dw.com/es/conversaciones-entre-rusia-y-ucrania-en-abu-dabi-¿se-producirá-un-avance-decisivo/a-79910461?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-10T21:02:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "be243821a804",
+   "source": "Al Jazeera",
+   "title": "2026 Midterms: Blue wave or anti-establishment backlash?",
+   "description": "Emma Vigeland and Olivia Troye join Josh Rushing to discuss the fallout of the 2026 midterm elections.",
+   "url": "https://www.aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss",
+   "date": "2026-11-10T21:00:55+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "5322bf90e4d7",
+   "source": "Al Jazeera",
+   "title": "White House announces funds for law enforcement programme in several cities",
+   "description": "Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push.",
+   "url": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+   "date": "2026-11-10T21:00:01+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "0fefa8bbbc7d",
+   "source": "Deutsche Welle",
+   "title": "¿Remará Australia en contra de los combustibles fósiles en la COP31?",
+   "description": "Australia, como líder negociador en la conferencia climática de la ONU, se enfrenta a presiones para trazar un camino que permita alejarse del carbón y el gas y, al mismo tiempo, proteger a sus vecinos del Pacífico.",
+   "url": "https://www.dw.com/es/¿remará-australia-en-contra-de-los-combustibles-fósiles-en-la-cop31/a-79912484?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-10T20:58:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d0d1d5e29ce4",
+   "source": "Radio Cooperativa",
+   "title": "Agresión a una concejala marcó la última jornada de protestas estudiantiles en Francia",
+   "description": "La nueva jornada en Francia de protestas estudiantiles , convocada por los sindicatos de educación pública y por organizaciones de alumnos , estuvo marcada este martes por la agresión a la concejala en la región parisina Angela Pascoa Dos Santos , que el presidente, Emmanuel Macr",
+   "url": "https://www.cooperativa.cl/noticias/mundo/francia/disturbios/agresion-a-una-concejala-marco-la-ultima-jornada-de-protestas/2026-11-10/175613.html",
+   "date": "2026-11-10T20:56:13+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "353fb08b27df",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver a Alejandro Tabilo ante Lorenzo Sonego en el ATP de Estocolmo?",
+   "description": "El chileno Alejandro Tabilo (31° del ranking mundial) vivirá el cierre de su temporada a partir de este miércoles 11 de noviembre, jornada en la que se medirá ante el italiano Lorenzo Sonego (115°) por los octavos del ATP de Estocolmo. El duelo está pactado para el primer turno, ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/alejandro-tabilo/cuando-y-donde-ver-a-alejandro-tabilo-ante-lorenzo-sonego-en-el-atp-de/2026-11-10/175416.html",
+   "date": "2026-11-10T20:54:16+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
   {
    "id": "a5bef7a5f870",
    "source": "BBC Mundo",
-   "title": "El secretario de Defensa de EE.UU. se enfrenta a un posible \"impeachment\" por la guerra en Irán, pero es Trump quien definirá su destino",
+   "title": "El secretario de Defensa de EE.UU. lucha por su supervivencia política, aunque su destino está en manos de Trump",
    "description": "Pete Hegseth podría enfrentarse a un juicio político pero es Trump quien podría determinar su destino, plantea este análisis de Gary O'Donoghue.",
    "url": "https://www.bbc.com/mundo/articles/ck8dzdvn6d0mo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T20:32:56+00:00",
+   "date": "2026-11-10T20:47:41+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "ae676568d007",
+   "source": "Ex-Ante",
+   "title": "Sucesión en el Banco Central: Larraín, Fontaine y Claro, los favoritos de Kast para reemplazar a Rosanna Costa",
+   "description": "La sucesión de Rosanna Costa pone a Kast ante una definición clave: extender su presidencia en el Banco Central hasta 2029 o abrir la carrera…",
+   "url": "https://www.ex-ante.cl/negocios/cartas-de-kast-para-presidir-banco-central/",
+   "date": "2026-11-10T20:45:51+00:00",
+   "category": "Política monetaria",
+   "type": "Prensa"
+  },
+  {
+   "id": "3001e3b18d14",
+   "source": "Deutsche Welle",
+   "title": "Zelenski califica de “constructiva” primera ronda de conversaciones con Rusia",
+   "description": "Delegaciones de ambos países se encontraron, bajo la mediación de Estados Unidos y tras nueve meses sin reuniones, en Abu Dabi. Hubo algunos avances, aseguró también Marco Rubio.",
+   "url": "https://www.dw.com/es/zelenski-califica-de-constructiva-primera-ronda-de-conversaciones-con-rusia/a-79913519?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-10T20:44:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "beede3a42773",
+   "source": "Al Jazeera",
+   "title": "US soldier arrested in UK on suspicion of spying for Russia",
+   "description": "London Metropolitan Police says its 'counterterror' forces worked closely with the FBI and US military to make arrest.",
+   "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+   "date": "2026-11-10T20:41:53+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2105d1c984c9",
+   "source": "Al Jazeera",
+   "title": "Netanyahu and Eisenkot push for new government after election deadlock",
+   "description": "Netanyahu and Eisenkot push for new government after election deadlock",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
+   "date": "2026-11-10T20:39:46+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b50aab90ce67",
+   "source": "Radio Cooperativa",
+   "title": "\"Brígido\" y \"guarifaifa\": los chilenismos que se incorporan al Diccionario de la RAE",
+   "description": "La Real Academia Española (RAE) presentó la actualización número 24 del Diccionario de la Lengua Española (DLE) , que incorpora más de 6.000 nuevas palabras y acepciones provenientes de distintos países hispanohablantes, entre ellas dos expresiones propias del habla chilena: \"brí",
+   "url": "https://www.cooperativa.cl/noticias/sociedad/ciencias-sociales/lenguaje/brigido-y-guarifaifa-los-chilenismos-que-se-incorporan-al/2026-11-10/173227.html",
+   "date": "2026-11-10T20:32:27+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
    "id": "62f48b192dc9",
    "source": "Radio Cooperativa",
    "title": "\"No + TAG\" tras reunión con el Gobierno: \"La movilización sigue y no descartamos que se radicalice\"",
-   "description": "Más información en instantes .",
+   "description": "El movimiento \"No + TAG\" ratificó este martes la continuidad de sus movilizaciones a nivel nacional tras el fracaso de la reunión sostenida con autoridades del Gobierno en las dependencias del Ministerio de Transportes . Al término de la cita de emergencia, la dirigencia advirtió",
    "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/no-tag-tras-reunion-con-el-gobierno-la-movilizacion-sigue-y-no/2026-11-10/172821.html",
    "date": "2026-11-10T20:28:21+00:00",
    "category": "Gobierno y administración pública",
@@ -262,32 +382,12 @@
    "type": "Prensa"
   },
   {
-   "id": "47f6f5dcb2f8",
-   "source": "Radio Cooperativa",
-   "title": "Alejandro Tabilo conoció a su rival para el debut en el ATP 250 de Estocolmo",
-   "description": "El tenista nacional Alejandro Tabilo (31° del ranking mundial) conoció este martes a su rival para estrenarse en el ATP 250 de Estocolmo , certamen donde disputará el último torneo de su temporada 2026 . La primera raqueta chilena se medirá en los octavos de final ante el italian",
-   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/torneos-atp/alejandro-tabilo-conocio-a-su-rival-para-el-debut-en-el-atp-250-de/2026-11-10/162552.html",
-   "date": "2026-11-10T19:25:52+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "41ec3c1ff227",
    "source": "France 24",
    "title": "Directo Latam y la visita de León XIV a Córdoba, la segunda ciudad más poblada de Argentina",
    "description": "Tras pasar dos días en Buenos Aires, el papa León XIV sale de la capital argentina y llega a Córdoba, la segunda ciudad más poblada del país, donde dará una misa masiva en una fábrica de aviones. La visita del pontífice ha generado una gran pasión y emoción en el pueblo argentino",
    "url": "https://www.france24.com/es/video/20261110-directo-latam-y-la-visita-de-le%C3%B3n-xiv-a-c%C3%B3rdoba-la-segunda-ciudad-m%C3%A1s-poblada-de-argentina",
    "date": "2026-11-10T19:23:32+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "a6b4314e9578",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver el primer amistoso de La Roja y Colombia en la fecha FIFA?",
-   "description": "La selección chilena enfrentará este viernes a Colombia en la ciudad de Cali, en el primero de los dos amistosos pactados para la fecha FIFA de noviembre, l a última del año 2026. El compromiso se disputará en el Estadio \"Pascual Guerrero\" de Cali, a partir de las 21:00 horas (00",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-primer-amistoso-de-la-roja-y-colombia-en-la-fecha/2026-11-10/162025.html",
-   "date": "2026-11-10T19:20:25+00:00",
    "category": "América Latina",
    "type": "Prensa"
   },
@@ -382,16 +482,6 @@
    "type": "Prensa"
   },
   {
-   "id": "70476a0d80d0",
-   "source": "Radio Cooperativa",
-   "title": "Eisenkot: Netanyahu no es apto para permanecer \"ni un minuto más\" en el cargo",
-   "description": "El líder del partido Yashar! , Gadi Eisenkot , encargado de formar Gobierno en Israel, afirmó este martes que el discurso del primer ministro en funciones, Benjamín Netanyahu , tras la sesión inaugural de la Knéset (Parlamento) lo convenció de que \"no es apto para permanecer ni u",
-   "url": "https://www.cooperativa.cl/noticias/mundo/medio-oriente/israel/eisenkot-netanyahu-no-es-apto-para-permanecer-ni-un-minuto-mas-en-el/2026-11-10/153602.html",
-   "date": "2026-11-10T18:36:02+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "ba2023c91f69",
    "source": "Deutsche Welle",
    "title": "Precios del gas en Europa: el rol Alemania y sus reservas",
@@ -419,16 +509,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/10/trump-administration-again-boycotts-un-human-rights-review?traffic_source=rss",
    "date": "2026-11-10T18:29:56+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "4ab198603003",
-   "source": "Radio Cooperativa",
-   "title": "Ministro Rau pide \"avanzar más rápido en el Congreso\" para enfrentar crisis del empleo",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/trabajo/ministro-rau-pide-avanzar-mas-rapido-en-el-congreso-para-enfrentar/2026-11-10/152623.html",
-   "date": "2026-11-10T18:26:23+00:00",
-   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -472,26 +552,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8bcf455004b6",
-   "source": "Radio Cooperativa",
-   "title": "Feria laboral ofrece más de 26 mil vacantes en todo Chile",
-   "description": "Cerca de 1.300 empresas participan en la feria laboral de Inacap y la Confederación de la Producción y el Comercio (CPC) con más de 26.000 vacantes , de las que siete de cada 10 está en regiones y la mayoría no requiere experiencia previa. Las jornadas presenciales se realizarán ",
-   "url": "https://www.cooperativa.cl/noticias/pais/trabajo/feria-laboral-ofrece-mas-de-26-mil-vacantes-en-todo-chile/2026-11-10/152035.html",
-   "date": "2026-11-10T18:20:35+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "0fefa8bbbc7d",
-   "source": "Deutsche Welle",
-   "title": "¿Remará Australia en contra de los combustibles fósiles en la COP31?",
-   "description": "Australia, como líder negociador en la conferencia climática de la ONU, se enfrenta a presiones para trazar un camino que permita alejarse del carbón y el gas y, al mismo tiempo, proteger a sus vecinos del Pacífico.",
-   "url": "https://www.dw.com/es/¿remará-australia-en-contra-de-los-combustibles-fósiles-en-la-cop31/a-79912484?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-10T18:20:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "1bb215fc206d",
    "source": "Radio Bío-Bío",
    "title": "Tras su incorporación olímpica: Santiago Squash Club busca acercar la disciplina a nuevos jugadores",
@@ -519,16 +579,6 @@
    "url": "https://www.biobiochile.cl/noticias/sociedad/debate/2026/11/10/un-nuevo-escandalo-sexual-sacude-a-exclusiva-universidad-de-eeuu-tras-acusacion-de-violacion-grupal.shtml",
    "date": "2026-11-10T18:15:51+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "37d6ce87b0ac",
-   "source": "Radio Cooperativa",
-   "title": "\"Indignidad para suceder\": Tres hijos quedan sin herencia por abandonar a su madre",
-   "description": "La Corte Suprema ratificó un fallo judicial que dejó sin herencia a tres hijos que abandonaron a su madre de la tercera edad diagnosticada con alzheimer , caso ocurrido en la ciudad de Antofagasta. La situación comenzó en 2015 cuando la adulta mayo r, de nombre Elsa, fue declarad",
-   "url": "https://www.cooperativa.cl/noticias/pais/judicial/corte-suprema/indignidad-para-suceder-tres-hijos-quedan-sin-herencia-por-abandonar/2026-11-10/151325.html",
-   "date": "2026-11-10T18:13:25+00:00",
-   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -912,16 +962,6 @@
    "type": "Prensa"
   },
   {
-   "id": "40c9aa0c558a",
-   "source": "Deutsche Welle",
-   "title": "Conversaciones entre Rusia y Ucrania en Abu Dabi: ¿se producirá un avance decisivo?",
-   "description": "La delegación rusa que participa en las conversaciones con Ucrania cuenta con una representación de alto nivel. También viajan a Abu Dabi representantes de países europeos. ¿Qué significa?",
-   "url": "https://www.dw.com/es/conversaciones-entre-rusia-y-ucrania-en-abu-dabi-¿se-producirá-un-avance-decisivo/a-79910461?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-10T16:51:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "374e2a477b72",
    "source": "Ex-Ante",
    "title": "Gobierno impulsa concesionar terrenos fiscales para proyectos energéticos, inmobiliarios y desarrollo turístico",
@@ -972,16 +1012,6 @@
    "type": "Prensa"
   },
   {
-   "id": "faf6b3749195",
-   "source": "Al Jazeera",
-   "title": "Did Fox News’ fixation on Hasan Piker backfire?",
-   "description": "Did Fox News' fixation on Hasan Piker backfire?",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/did-fox-news-fixation-on-hasan-piker-backfire?traffic_source=rss",
-   "date": "2026-11-10T16:26:08+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "f94efc19c63c",
    "source": "France 24",
    "title": "Rubio califica de \"muy productivas\" las conversaciones entre Ucrania y Rusia",
@@ -999,16 +1029,6 @@
    "url": "https://www.dw.com/es/por-qué-la-electrificación-es-el-factor-decisivo-que-necesitamos-frente-al-cambio-climático/a-79911079?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-10T16:23:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "15a118004f8f",
-   "source": "Al Jazeera",
-   "title": "At least 12 people killed in Bulgaria motorway pile-up",
-   "description": "At least 12 people have been killed and dozens injured in multiple crashes involving around 50 vehicles on a motorway",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss",
-   "date": "2026-11-10T16:20:12+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1032,32 +1052,12 @@
    "type": "Prensa"
   },
   {
-   "id": "faddf2cc6b93",
-   "source": "Al Jazeera",
-   "title": "Father, child among eight Palestinians killed in Israeli attacks on Gaza",
-   "description": "Israel has killed more than 1,600 people in Gaza since last year's 'ceasefire', the enclave's Health Ministry says.",
-   "url": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
-   "date": "2026-11-10T15:49:36+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "e75d13298224",
    "source": "The Guardian",
    "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
    "description": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory. The seven-time Formula One world",
    "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
    "date": "2026-11-10T15:39:26+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "73b703655a61",
-   "source": "Al Jazeera",
-   "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
-   "description": "Suspect in deadly November 7 Krakow shooting looked up the white supremacist who killed dozens in 2011, a minister says.",
-   "url": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss",
-   "date": "2026-11-10T15:36:49+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
@@ -1442,16 +1442,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ea557c633465",
-   "source": "Deutsche Welle",
-   "title": "Australia: aerolínea Qantas despedirá a 850 empleados",
-   "description": "La directora ejecutiva de la empresa australiana, Vanessa Hudson, divulgó la información que será efectiva a mediados de 2027.",
-   "url": "https://www.dw.com/es/australia-aerolínea-qantas-despedirá-a-850-empleados/a-79906001?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-10T04:16:00+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "c4eedf9720be",
    "source": "BBC Mundo",
    "title": "\"Es insostenible\": El Hierro, la isla de 12.000 habitantes en España a la que han llegado 8.000 migrantes en barca en las últimas 5 semanas",
@@ -1492,16 +1482,6 @@
    "type": "Prensa"
   },
   {
-   "id": "58951d00f2b9",
-   "source": "Ex-Ante",
-   "title": "Reducción de penas: Rabat amplía la suspensión del beneficio, con el que Boric otorgó 5.614 rebajas de condenas",
-   "description": "El ministro Rabat concretó dos cambios de criterio en medio de la crisis por las rebajas de penas, por la que la oposición anunció la…",
-   "url": "https://www.ex-ante.cl/nacional/rabat-amplia-suspension-de-reduccion-penas/",
-   "date": "2026-11-09T23:17:16+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "3edb80c37a59",
    "source": "CIPER Chile",
    "title": "Kast anuncia nueva alza de $40 en los combustibles, pero presenta proyecto para limitar los aumentos; gobierno amplía suspensión de rebajas de condena a todos los delitos, y avisos de ofertas laborales caen 12,6% anual",
@@ -1509,6 +1489,16 @@
    "url": "https://www.ciperchile.cl/2026/11/09/radar-09-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-09-11-26",
    "date": "2026-11-09T22:59:08+00:00",
    "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "5267a7d70297",
+   "source": "The Guardian",
+   "title": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
+   "description": "President, after talks with Qatari PM, suggests end to war coming ‘fairly soon’ and military escalation not needed Donald Trump has said that the war in Iran is “effectively over” as he played down concerns that the US would escalate its military campaign against Tehran after the",
+   "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+   "date": "2026-11-09T22:58:31+00:00",
+   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1762,6 +1752,16 @@
    "type": "Prensa"
   },
   {
+   "id": "87ffa5699a0b",
+   "source": "Radio Cooperativa",
+   "title": "Tres fechas para definir el \"Chile 2\": Los partidos y las cuentas de la U y la UC",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Universidad de Chile y Universidad Católica definirán en las últimas tres fechas del Campeonato Nacional al equipo que se quedará con el \"2\" , el cupo que entrega el segundo lugar a la Copa Libertadores 2027. Después del tr",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/tres-fechas-para-definir-el-chile-2-los-partidos-y-las-cuentas-de-la/2026-11-08/224100.html",
+   "date": "2026-11-09T01:41:00+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
    "id": "f6521794ca44",
    "source": "The Guardian",
    "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
@@ -1839,16 +1839,6 @@
    "url": "https://www.ciperchile.cl/2026/11/08/paulina-garcia-nunca-estuvo-en-mis-suenos-hacer-cine/?utm_source=rss&utm_medium=rss&utm_campaign=paulina-garcia-nunca-estuvo-en-mis-suenos-hacer-cine",
    "date": "2026-11-08T15:35:40+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "f6106f09f4a3",
-   "source": "The Guardian",
-   "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-   "description": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, the prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, after a deadlocked election t",
-   "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-   "date": "2026-11-08T14:26:14+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -2209,6 +2199,16 @@
    "url": "https://www.bbc.com/mundo/articles/cmq8n12772l9o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-05T10:35:07+00:00",
    "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "08864b577474",
+   "source": "Radio Cooperativa",
+   "title": "La agenda de La Roja para los amistosos con Colombia en la fecha FIFA",
+   "description": "La Roja volverá a la acción este mes de noviembre en el marco de la fecha FIFA, la última del año, y enfrentará en dos amistosos a la selección de Colombia. Nicolás Córdova citó a 26 jugadores para estos desafíos y pretende mantener las buenas sensaciones que dejó el último parti",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-agenda-de-la-roja-para-los-amistosos-con-colombia-en-la-fecha-fifa/2026-11-04/224505.html",
+   "date": "2026-11-05T01:45:05+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
