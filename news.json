@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-10T06:55:19.154944+00:00",
+ "updated": "2026-11-10T08:07:40.022371+00:00",
  "items": [
+  {
+   "id": "351f650b9b0b",
+   "source": "The Guardian",
+   "title": "Cop31 live: slight drop in fossil fuel emissions revealed as conference enters second day",
+   "description": "UN climate summit prepares to host world leaders from more than 90 countries tomorrow Good morning from Turkey and welcome to the second day of Cop31, the UN gathering that is taking place, again, to help prod indolent countries clear of catastrophic planetary heating. A lot of a",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+   "date": "2026-11-10T07:47:17+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "6f75c33e9c2a",
+   "source": "The Guardian",
+   "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
+   "description": "From the assassinations of her husband and mother-in-law to press stonewalling under Modi, Belonging offers an insider’s account of India’s political evolution Few love stories have been as closely entwined with a nation’s history as that of Sonia and Rajiv Gandhi. The former’s m",
+   "url": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
+   "date": "2026-11-10T07:30:31+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "87f8ec13c2d3",
+   "source": "Al Jazeera",
+   "title": "Australia tightens AI oversight rules after OpenAI government breach",
+   "description": "The decision comes after ​an OpenAI agent breached ​an Australian government website in June.",
+   "url": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
+   "date": "2026-11-10T07:05:11+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "89870d54a3b6",
+   "source": "The Guardian",
+   "title": "Author Jojo Moyes among UK travellers at risk of EU ban amid digital border system glitches",
+   "description": "Errors in entry and exit records leave some Britons wrongly flagged as having overstayed post-Brexit 90-day limit EU sues IBM and two European firms over entry/exit border system The writer Jojo Moyes is facing a two-year EU travel ban and €10,000 (£8,300) fine because of glitche",
+   "url": "https://www.theguardian.com/business/2026/nov/10/jojo-moyes-uk-travellers-eu-ban-digital-border-system-ees",
+   "date": "2026-11-10T07:00:32+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "3d4bd6879da0",
+   "source": "The Guardian",
+   "title": "US reportedly evacuated aircraft from RAF Mildenhall over Iran threat",
+   "description": "The reported evacuation comes weeks after the US withdrew bombers from RAF Fairford over a suspected Iran-linked security incident The US military evacuated aircraft from a second airbase in ⁠Britain on Monday after a threat from Iran, the Wall Street Journal (WSJ) reported, citi",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
+   "date": "2026-11-10T06:46:53+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "6c099b899962",
    "source": "Al Jazeera",
@@ -214,8 +264,8 @@
   {
    "id": "9e2f662f1b70",
    "source": "The Guardian",
-   "title": "Sydney private school accused of sexual abuse should be banned from enrolling new students, inquiry says",
-   "description": "Inquiry recommends police investigate allegations of sexual assault and other abuse at Redeemer Baptist school Get our breaking news email , free app or daily news podcast An investigation into a private religious school accused of sexual, physical, psychological, spiritual and f",
+   "title": "Sydney private school accused of mishandling sexual abuse allegations should be banned from enrolling new students, inquiry says",
+   "description": "Inquiry recommends police investigate allegations of sexual assault and other abuse at Redeemer Baptist school Get our breaking news email , free app or daily news podcast An investigation into a private religious school accused of mishandling allegations of sexual, physical, psy",
    "url": "https://www.theguardian.com/australia-news/2026/nov/10/redeemer-baptist-school-sexual-abuse-inquiry-ntwnfb",
    "date": "2026-11-10T04:51:39+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -892,16 +942,6 @@
    "type": "Prensa"
   },
   {
-   "id": "57d67bd891ce",
-   "source": "Al Jazeera",
-   "title": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
-   "description": "US president says he believes CEO Jensen Huang had no knowledge of woman's alleged work for Chinese intelligence.",
-   "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
-   "date": "2026-11-10T00:44:28+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "8b33130942ce",
    "source": "Radio Bío-Bío",
    "title": "La guerra de EEUU con Irán está \"prácticamente terminada\" tras reunión en Qatar, afirma Trump",
@@ -1154,20 +1194,10 @@
   {
    "id": "1ca705b65394",
    "source": "The Guardian",
-   "title": "Cyber-attack on French supermarket freezers has geopolitical context",
+   "title": "The French fridge hacks were relatively unsophisticated. An AI-enabled attack would raise the stakes",
    "description": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe Iranian hackers like to send a message. In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to broadcast a deepfake",
    "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
    "date": "2026-11-09T19:40:45+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "632328b9b8ae",
-   "source": "The Guardian",
-   "title": "Jemima Goldsmith says ex-partner Russell Brand physically assaulted her",
-   "description": "TV producer, who was in relationship with ex-comedian that reportedly ended in 2014, accuses him of ‘violence, coercive control and abuse’ Russell Brand sentenced to more than 10 years in prison for rape and sexual assault Jemima Goldsmith has said Russell Brand physically assaul",
-   "url": "https://www.theguardian.com/news/2026/nov/09/jemima-goldsmith-says-ex-partner-russell-brand-physically-assaulted-her",
-   "date": "2026-11-09T19:27:22+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -1179,16 +1209,6 @@
    "url": "https://www.dw.com/es/trump-pone-en-duda-la-legitimidad-de-las-elecciones-del-3-de-noviembre/a-79905045?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-09T19:22:00+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "fa953d0eb421",
-   "source": "The Guardian",
-   "title": "Air pollution soars as fog traps emissions in England’s urban areas",
-   "description": "Particles from fireworks and bonfires likely to have contributed to levels well above WHO’s daily guideline Air pollution soared to “very high” levels across urban parts of England on Monday as still, foggy weather kept emissions trapped after a weekend of fireworks and bonfires.",
-   "url": "https://www.theguardian.com/environment/2026/nov/09/air-pollution-soars-fog-traps-emissions-england-urban-areas",
-   "date": "2026-11-09T19:13:59+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1218,16 +1238,6 @@
    "description": "French foreign minister vows European sanctions against Tehran over ‘unprecedented’ hacks last month France has said Iran was responsible for a massive cyber-attack on supermarket freezers and chiller cabinets that was described by its foreign minister as being an act of “unprece",
    "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
    "date": "2026-11-09T17:54:40+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "887c9bf8ebd8",
-   "source": "The Guardian",
-   "title": "‘I know what it’s like to fight’- France’s most popular sportsman says he’s running for president",
-   "description": "Five-times Olympic judo champion Teddy Riner says he is neither leftwing nor rightwing but would seek to ‘bring people together’ The French judo star and five-times Olympic gold medallist Teddy Riner has announced plans to run in next year’s presidential election, describing hims",
-   "url": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
-   "date": "2026-11-09T17:42:51+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -2510,16 +2520,6 @@
    "date": "2026-10-28T12:00:00+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Oficial"
-  },
-  {
-   "id": "82686ad6d885",
-   "source": "The Guardian",
-   "title": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India",
-   "description": "Rubio’s decision not to meet Narendra Modi last week was seen by some as a snub – but by focusing on business leaders and oil, the secretary of state made American priorities clear. Plus: the artist bringing a female perspective to men’s clothing • Don’t get This is India deliver",
-   "url": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
-   "date": "2026-10-27T09:21:33+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
   },
   {
    "id": "aceaa3f9248a",
