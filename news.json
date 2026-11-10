@@ -1,6 +1,216 @@
 {
- "updated": "2026-11-10T00:47:40.051648+00:00",
+ "updated": "2026-11-10T01:56:48.914901+00:00",
  "items": [
+  {
+   "id": "c20a60c6a510",
+   "source": "Deutsche Welle",
+   "title": "Jefe del Pentágono enfrenta moción de censura en Congreso de EE.UU.",
+   "description": "La destitución es muy poco probable, deberá pasar por la Cámara de Representantes, el Senado y ser sancionada por el presidente.",
+   "url": "https://www.dw.com/es/jefe-del-pentágono-enfrenta-moción-de-censura-en-congreso-de-ee-uu/a-79905871?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-10T01:39:00+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "04325e5314b7",
+   "source": "Radio Cooperativa",
+   "title": "\"Ready for AOC\": progresistas lanzan campaña para impulsar candidatura presidencial de Ocasio-Cortez",
+   "description": "Un grupo de progresistas lanzó este lunes Ready for AOC (Preparados para Alexandria Ocasio-Cortez) , una campaña para impulsar la carrera de la congresista de Nueva York como la candidata demócrata a las elecciones presidenciales de 2028 . \"AOC es la única candidata que puede lid",
+   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/ready-for-aoc-progresistas-lanzan-campana-para-impulsar-candidatura/2026-11-09/223546.html",
+   "date": "2026-11-10T01:35:46+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "e82d5a065aaf",
+   "source": "The Guardian",
+   "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
+   "description": "Australian carrier announces agreement with Accenture amid ‘unprecedented’ technological disruption, CEO Vanessa Hudson says Qantas is preparing to cut 850 local jobs and outsource work offshore under an AI-driven overhaul, marking a growing wave of disruption to the Australian w",
+   "url": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul",
+   "date": "2026-11-10T01:34:47+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "29804224c555",
+   "source": "Radio Cooperativa",
+   "title": "La agenda de los amistosos internacionales para este fin de semana",
+   "description": "Esta semana comienza la fecha FIFA de noviembre y mientras en Europa se disputa la Nations League, en el resto del mundo varias selecciones disputarán amistosos internacionales. La acción se concentrará los días viernes 13 y sábado 14 de noviembre, y La Roja será protagonista con",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/internacional/la-agenda-de-los-amistosos-internacionales-para-este-fin-de-semana/2026-11-09/221559.html",
+   "date": "2026-11-10T01:15:59+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "4f6380d4cacf",
+   "source": "BBC Mundo",
+   "title": "Por qué la infidelidad del jefe de Nvidia con una supesta espía china tendrá repercusiones en EE.UU. y más allá",
+   "description": "Jensen Huang, director de Nvidia, está siendo investigado por su propia empresa por una relación extramatrimonial con una mujer señalada como una espía china.",
+   "url": "https://www.bbc.com/mundo/articles/c6p9g97x540jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T01:15:11+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "061f8f9fce31",
+   "source": "Radio Bío-Bío",
+   "title": "\"Le paré los carros\": Daniela Castillo recordó tenso encontrón con Rafael Araneda en Rojo",
+   "description": "Daniela Castillo recordó un incómodo episodio que protagonizó con Rafael Araneda durante su participación en ‘Rojo’, donde terminó siendo reprendida por enfrentar al animador en plena transmisión. La cantante entregó detalles de lo ocurrido durante su participación en ‘Y nos fuim",
+   "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/09/le-pare-los-carros-daniela-castillo-recordo-tenso-encontron-con-rafael-araneda-en-rojo.shtml",
+   "date": "2026-11-10T01:14:56+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "8a980ff31c88",
+   "source": "The Guardian",
+   "title": "Teenager who planned terror attack in Sydney tells court he was radicalised online and used AI to strategise",
+   "description": "Boy says he was first exposed to extremist material on TikTok, turned to Telegram and YouTube for bomb-making instructions, and used ChatGPT to devise his plans Get our breaking news email , free app or daily news podcast A teenager who admitted to planning a terrorist attack in ",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/10/teen-planned-sydney-terror-attack-using-chatgpt-radicalised-tiktok-ntwnfb",
+   "date": "2026-11-10T01:09:19+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "675ecc8bfe0e",
+   "source": "Radio Bío-Bío",
+   "title": "Hallan bóveda con tecnología israelí detrás de una pared falsa en mansión de Santiago Peña en Paraguay",
+   "description": "Una comitiva fiscal y policial llegó hasta la entrada de una bóveda con tecnología de origen israelí en la mansión de Santiago Peña, expresidente de Paraguay, durante un allanamiento en las últimas horas. El equipo llegó hasta la segunda puerta de la bóveda. La estructura permane",
+   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/09/hallan-boveda-con-tecnologia-israeli-detras-de-una-pared-falsa-en-mansion-de-santiago-pena-en-paraguay.shtml",
+   "date": "2026-11-10T01:06:30+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ca07cc1bcaaf",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] \"El chuncho no lo puede creer\": Vidal lideró cánticos contra la U en la fiesta de la estrella 35",
+   "description": "Colo Colo tuvo este lunes su fiesta por la estrella 35 en el Estadio Monumental y el capitán Arturo Vidal encabezó los cánticos con los hinchas, y en especial hubo uno con d edicatoria a Universidad de Chile. En el podio en el centro de la cancha, Vidal tomó el micrófono y empezó",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-el-chuncho-no-lo-puede-creer-vidal-lidero-canticos-contra-la/2026-11-09/220404.html",
+   "date": "2026-11-10T01:04:04+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "3b998a9cfdda",
+   "source": "Al Jazeera",
+   "title": "France blames Iran for October supermarket cyberattack",
+   "description": "French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+   "date": "2026-11-10T01:01:47+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "4874b636f487",
+   "source": "Al Jazeera",
+   "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+   "description": "Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+   "date": "2026-11-10T01:00:00+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "b6ebc8323583",
+   "source": "Radio Bío-Bío",
+   "title": "El hermano investigado que pone en jaque a presidenta de Corte en elección de fiscal de Valparaíso",
+   "description": "La elección del próximo fiscal regional de Valparaíso enfrenta cuestionamientos por la exclusión de cinco postulantes y un eventual conflicto de interés que involucraría a la presidenta de la Corte de Apelaciones, Silvana Donoso. ¿Debe inhabilitarse la ministra Silvana Donoso de ",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/09/el-hermano-investigado-que-pone-en-jaque-a-presidenta-de-corte-en-eleccion-del-fiscal-de-valparaiso.shtml",
+   "date": "2026-11-10T00:59:20+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "e01f083b73b7",
+   "source": "Al Jazeera",
+   "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
+   "description": "Angie Pena's disappearance in 2022 exposed what prosecutors called a sex-trafficking network and state corruption.",
+   "url": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss",
+   "date": "2026-11-10T00:57:58+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ed60ac1b13e0",
+   "source": "Radio Bío-Bío",
+   "title": "Arturo Vidal provocó a La U en plena fiesta alba: sus cánticos marcaron los festejos del título 35",
+   "description": "Colo Colo celebró este lunes el título de la Liga de Primera 2026 en el Estadio Monumental, ante más de 35 mil hinchas albos. Una fiesta que tuvo música con Leo Rey, una emotiva vuelta olímpica y, por supuesto, las tradicionales provocaciones al archirrival. Uno de los grandes pr",
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/09/arturo-vidal-provoco-a-la-u-en-plena-fiesta-alba-sus-canticos-marcaron-los-festejos-del-titulo-35.shtml",
+   "date": "2026-11-10T00:55:34+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "8edf50dd82ee",
+   "source": "Radio Cooperativa",
+   "title": "El festejo de Colo Colo en el Monumental por el título de la Liga de Primera",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/el-festejo-de-colo-colo-en-el-monumental-por-el-titulo-de-la-liga-de/2026-11-09/215411.html",
+   "date": "2026-11-10T00:54:11+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "ba79a5300bcc",
+   "source": "The Guardian",
+   "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as double murder trial continues",
+   "description": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him over start of relationship with Baird Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied being “obsessed” with Jesse Baird from t",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
+   "date": "2026-11-10T00:53:54+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "49144b613cc1",
+   "source": "France 24",
+   "title": "Frenar a la extrema derecha en Francia: la estrella del judo Teddy Riner lanza su candidatura a la Presidencia",
+   "description": "El judoca francés Teddy Riner anunció su candidatura a las elecciones presidenciales de 2027, comprometiéndose a ser un \"presidente que una a la gente\". El presidente Emmanuel Macron celebró la sorpresiva candidatura, expresando su satisfacción por la decisión del \"gran campeón\" ",
+   "url": "https://www.france24.com/es/europa/20261110-frenar-a-la-extrema-derecha-en-francia-la-estrella-del-judo-teddy-riner-lanza-su-candidatura-a-la-presidencia",
+   "date": "2026-11-10T00:49:53+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "e1d5c0d7b36b",
+   "source": "Radio Cooperativa",
+   "title": "Diversas alertas en la Región de Coquimbo por deshielos y peligrosa crecida de ríos",
+   "description": "Un total de seis comunas de la Región de Coquimbo se encuentran bajo distintos niveles de alerta debido al aumento en los caudales de los ríos , fenómeno impulsado por las altas temperaturas del último fin de semana y el consiguiente proceso acelerado de deshielos en la alta cord",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-coquimbo/diversas-alertas-en-la-region-de-coquimbo-por-deshielos-y-peligrosa/2026-11-09/214945.html",
+   "date": "2026-11-10T00:49:45+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "8a23ebeb2cb0",
+   "source": "Radio Cooperativa",
+   "title": "La COP31 empezó con caos organizativo y expectativas moderadas",
+   "description": "La cumbre climática COP31 comenzó este lunes en Antalya, Turquía , entre llamadas a la cooperación internacional en un mundo enfrentado y dividido, nuevas señales de la aceleración del calentamiento y un caos organizativo que dejó a miles de participantes atrapados en largas cola",
+   "url": "https://www.cooperativa.cl/noticias/sociedad/medioambiente/cumbres-cop/la-cop31-empezo-con-caos-organizativo-y-expectativas-moderadas/2026-11-09/214836.html",
+   "date": "2026-11-10T00:48:36+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "57d67bd891ce",
+   "source": "Al Jazeera",
+   "title": "Trump says FBI probing Nvidia CEO’s affair with alleged spy",
+   "description": "US president says he believes CEO Jensen Huang had no knowledge of woman's alleged work for Chinese intelligence.",
+   "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
+   "date": "2026-11-10T00:44:28+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "8b33130942ce",
+   "source": "Radio Bío-Bío",
+   "title": "La guerra de EEUU con Irán está \"prácticamente terminada\" tras reunión en Qatar, afirma Trump",
+   "description": "El , tras reunirse en Washington con el primer ministro y titular de Exteriores de Qatar, Mohamed bin Abderrahmán Al Thani, mediador en el conflicto. El mandatario estadounidense compareció por sorpresa en la Casa Blanca donde aseguró que Irán estaba “militarmente, prácticamente ",
+   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/09/la-guerra-de-eeuu-con-iran-esta-practicamente-terminada-tras-reunion-en-qatar-afirma-trump.shtml",
+   "date": "2026-11-10T00:38:56+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
   {
    "id": "73b25a4937a7",
    "source": "Deutsche Welle",
@@ -42,13 +252,13 @@
    "type": "Prensa"
   },
   {
-   "id": "ba79a5300bcc",
-   "source": "The Guardian",
-   "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as evidence to double murder trial continues",
-   "description": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him over start of relationship with Baird Beau Lamarre-Condon has denied being “obsessed” with Jesse Baird from the start of their relationship, telling a court he would have",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
-   "date": "2026-11-10T00:18:13+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "id": "7b1f268735a2",
+   "source": "Radio Bío-Bío",
+   "title": "Congreso despacha a ley la flexibilización de los SLEP y ajusta el calendario de traspasos hasta 2035",
+   "description": "La Cámara de Diputadas y Diputados aprobó esta tarde, en general y en particular, el proyecto que modifica la segunda etapa de instalación de los Servicios Locales de Educación Pública (SLEP). Con esa decisión, la iniciativa quedó despachada a ley. El proyecto busca entregar mayo",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/09/congreso-despacha-a-ley-la-flexibilizacion-de-los-slep-y-ajusta-el-calendario-de-traspasos-hasta-2035.shtml",
+   "date": "2026-11-10T00:19:49+00:00",
+   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -59,6 +269,36 @@
    "url": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
    "date": "2026-11-10T00:14:45+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "4abb58d43d57",
+   "source": "Radio Bío-Bío",
+   "title": "CDE se querella contra carabinero que pidió préstamo de $20 millones a Camila Polizzi",
+   "description": "El Consejo de Defensa del Estado (CDE) se hizo parte, como querellante, en la causa para saldar urgentes compromisos económicos. Fue el jefe del organismo en el Bío Bío, Georgy Schubert, quien ingresó en el Juzgado de Garantía de Concepción la querella por cohecho contra el cabo ",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/09/cde-se-querella-contra-carabinero-que-pidio-prestamo-de-20-millones-a-camila-polizzi.shtml",
+   "date": "2026-11-10T00:13:48+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9c26c3c4684b",
+   "source": "Radio Bío-Bío",
+   "title": "Mosa responde críticas de Arturo Vidal por tema renovación y le raya la cancha: \"No juega solo\"",
+   "description": "En medio de los festejos de Colo Colo por la estrella 35, Arturo Vidal lanzó el domingo cuestionamientos contra Blanco y Negro, especialmente por la situación institucional del club y las dudas que rodean su renovación. Sus declaraciones no pasaron inadvertidas y fue Aníbal Mosa,",
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/09/mosa-responde-criticas-de-arturo-vidal-por-tema-renovacion-y-le-raya-la-cancha-no-juega-solo.shtml",
+   "date": "2026-11-10T00:09:29+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "a6a06245631e",
+   "source": "Radio Bío-Bío",
+   "title": "Demandan a fundación de software de criptomonedas por exigir a empleados firmar pacto suicida",
+   "description": "En la página 11 de un documento de 38 páginas, una inocente ilustración al estilo anime, con un gato de caricatura incluido, contenía una exigencia que hacía palidecer a cualquier otro contrato laboral. Quien trabajara en el software de la Fundación Ethereum para criptomonedas de",
+   "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/moviles-y-apps/2026/11/09/demandan-a-fundacion-de-software-de-criptomonedas-por-exigir-a-empleados-firmar-pacto-suicida.shtml",
+   "date": "2026-11-10T00:04:47+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -82,10 +322,20 @@
    "type": "Prensa"
   },
   {
+   "id": "788a2fab2ba2",
+   "source": "Radio Bío-Bío",
+   "title": "Notoria pérdida de peso y estudio espiritual: así son los días de Nicolás Maduro en prisión, según NYT",
+   "description": "El depuesto presidente venezolano, Nicolás Maduro, estudia religión en la prisión de Nueva York, donde lleva recluido desde su captura por parte de Estados Unidos en enero de 2026, y se ha interesado por el judaísmo, según informó este lunes el diario The New York Times (NYT). El",
+   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/09/notoria-perdida-de-peso-y-estudio-espiritual-asi-son-los-dias-de-nicolas-maduro-en-prision-segun-nyt.shtml",
+   "date": "2026-11-10T00:00:01+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
    "id": "2406d5604843",
    "source": "Al Jazeera",
-   "title": "Iran war live: Trump says war ‘effectively over’, Iran demands ‘surrender’",
-   "description": "US President Donald Trump made the remarks after meeting Qatar's prime minister in Washington, DC.",
+   "title": "Iran war live: Iran demands US ‘surrender’ to its conditions",
+   "description": "US President Donald Trump said the war was \"effectively over\" after meeting Qatar's prime minister in Washington, DC.",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
    "date": "2026-11-09T23:55:23+00:00",
    "category": "Estados Unidos y Canadá",
@@ -252,16 +502,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3306434daf76",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] Leo Rey se sumó a la celebración de Colo Colo con un grito a \"Chunchítico\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El reconocido cantante de cumbia Leo Rey se hizo presente en la celebración de Colo Colo por el título de la Liga de Primera y encendió al Estadio Monumental con su esperado ingreso a la cancha. El intérprete cambió su fras",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-leo-rey-se-sumo-a-la-celebracion-de-colo-colo-con-un-grito-a/2026-11-09/200308.html",
-   "date": "2026-11-09T23:03:08+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "3edb80c37a59",
    "source": "CIPER Chile",
    "title": "Kast anuncia nueva alza de $40 en los combustibles, pero presenta proyecto para limitar los aumentos; gobierno amplía suspensión de rebajas de condena a todos los delitos, y avisos de ofertas laborales caen 12,6% anual",
@@ -289,16 +529,6 @@
    "url": "https://www.bbc.com/mundo/articles/c6zxjxyz1ejpo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-09T22:56:47+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "ffc1de1c21e9",
-   "source": "Radio Cooperativa",
-   "title": "Incendio afecta a campamento de Cerrillos en medio de desalojo",
-   "description": "Un incendio de proporciones afectó la tarde de este lunes a una veintena de viviendas del campamento Nuevo Amanecer, ubicado en la comuna de Cerrillos , en el mismo sector donde durante la mañana se dio inicio a la primera etapa del masivo desalojo ordenado por las autoridades, q",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/incendios/incendio-afecta-a-campamento-de-cerrillos-en-medio-de-desalojo/2026-11-09/195605.html",
-   "date": "2026-11-09T22:56:05+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -402,20 +632,10 @@
    "type": "Prensa"
   },
   {
-   "id": "750a3ed6ef4d",
-   "source": "Radio Bío-Bío",
-   "title": "En medio de tensión con Argentina: Danstar llega a Punta Arenas esta semana y alista zarpe a Malvinas",
-   "description": "En medio de tensiones con Argentina por su futuro viaje a las islas Malvinas, , previo a su zarpe hacia el archipiélago. Inicialmente, la embarcación debía arribar este martes a la zona austral. Sin embargo, las fuertes ráfagas de viento, que alcanzaron los 127 kilómetros por hor",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-magallanes/2026/11/09/en-medio-de-tension-con-argentina-danstar-llega-a-punta-arenas-esta-semana-y-alista-zarpe-a-malvinas.shtml",
-   "date": "2026-11-09T22:34:12+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "a9d1a97a21ea",
    "source": "Al Jazeera",
-   "title": "After meeting with Qatar PM, Trump declares Iran war ‘effectively over’",
-   "description": "Iranian officials dismissed Trump's latest remarks as 'fake news' after the US president suggested keeping 'status quo'.",
+   "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
+   "description": "Iranian officials dismissed Trump's remarks as 'fake news' after he suggested keeping the 'status quo'.",
    "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
    "date": "2026-11-09T22:31:19+00:00",
    "category": "Estados Unidos y Canadá",
@@ -429,56 +649,6 @@
    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261109-trump-ve-un-impulso-positivo-hacia-el-fin-del-conflicto-con-ir%C3%A1n-y-descarta-una-acci%C3%B3n-militar-por-ahora",
    "date": "2026-11-09T22:26:36+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "13f897a0a9b9",
-   "source": "Radio Bío-Bío",
-   "title": "Actriz Florence Pugh conmueve con emotiva despedida a Sebastián Lelio: \"Tengo el corazón roto\"",
-   "description": "La reconocida actriz británica Florence Pugh conmovió con unas emotivas palabras de despedida dedicadas al director chileno Sebastián Lelio, quien la dirigió en la película “The Wonder”. A través de su cuenta de Instagram, la intérprete posteó una fotografía con el chileno, recor",
-   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/11/09/actriz-florence-pugh-conmueve-con-emotiva-despedida-a-sebastian-lelio-tengo-el-corazon-roto.shtml",
-   "date": "2026-11-09T22:26:17+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "c7ef8017d0cd",
-   "source": "Radio Bío-Bío",
-   "title": "Primeros cambios de Skydance en Warner: anuncian salida de James Gunn de la dirección de DC Studios",
-   "description": "El conglomerado Skydance, la empresa creada tras la reciente fusión entre Paramount y Warner Bros. Discovery (WBD, por sus siglas en inglés), anunció este lunes la salida de James Gunn y Peter Safran, conocidos por relanzar el universo de superhéroes con títulos como ‘Superman’, ",
-   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/cine-y-series/2026/11/09/skydance-aparta-de-dc-studios-a-james-gunn-y-peter-safran-que-relanzaron-a-superman.shtml",
-   "date": "2026-11-09T22:20:07+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "dc8fa58beb5b",
-   "source": "Radio Bío-Bío",
-   "title": "Senado reabre debate sobre prohibición de casas de apuestas online en medio de diferencias y tensiones",
-   "description": "Una intensa sesión en la Comisión de Economía del Senado reabrió el debate sobre el futuro de las casas de apuestas en línea. La discusión volvió a enfrentar dos posturas: regular su funcionamiento bajo un sistema de licencias o prohibirlas definitivamente. El proyecto, aprobado ",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/09/senado-reabre-debate-sobre-prohibicion-de-casas-de-apuestas-online-en-medio-de-diferencias-y-tensiones.shtml",
-   "date": "2026-11-09T22:19:56+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "99ce5ea3ff19",
-   "source": "Radio Bío-Bío",
-   "title": "No hay paz para Alexis Sánchez: CF Montreal sale a la venta tras una temporada de terror",
-   "description": "El ciclo de Joey Saputo al frente del CF Montreal está llegando a su fin. El empresario confirmó oficialmente este lunes que el club donde milita el chileno Alexis Sánchez . Una decisión que sacude los cimientos de la institución canadiense y que llega en medio de una profunda cr",
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/chilenos-en-el-exterior/2026/11/09/no-hay-paz-para-alexis-sanchez-cf-montreal-sale-a-la-venta-tras-una-temporada-de-terror.shtml",
-   "date": "2026-11-09T22:16:50+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "135611a64aab",
-   "source": "Radio Bío-Bío",
-   "title": "Rabat desafía veto opositor: llega sin invitación al Senado y tensiona debate por rebajas de condenas",
-   "description": "Pese a no haber sido invitado, el ministro de Justicia, Fernando Rabat, asistió de todas formas a la Comisión de Constitución del Senado, en la antesala del debate que comenzará este miércoles sobre los distintos proyectos que buscan modificar el sistema de rebajas de penas. Entr",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/09/rabat-desafia-veto-opositor-llega-sin-invitacion-al-senado-y-tensiona-debate-por-rebajas-de-condenas.shtml",
-   "date": "2026-11-09T22:15:24+00:00",
-   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -502,16 +672,6 @@
    "type": "Prensa"
   },
   {
-   "id": "931421df92c7",
-   "source": "Radio Bío-Bío",
-   "title": "Gran incendio afecta toma Nuevo Amanecer en Cerrillos tras operativo de desalojo",
-   "description": "Este lunes, se generó un importante incendio en la toma Nuevo Amanecer, ubicada en la comuna de Cerrillos. Varias compañías de Bomberos acudieron para combatir el fuego, que avanzó rápidamente y ya alcanzó una La emergencia se dastó justo luego de que en horas de la mañana, tras ",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/09/gran-incendio-afecta-toma-nuevo-amanecer-en-cerrillos-tras-operativo-de-desalojo.shtml",
-   "date": "2026-11-09T22:13:40+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "57f82e08ec52",
    "source": "Al Jazeera",
    "title": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
@@ -532,36 +692,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5aa1dd678c90",
-   "source": "Radio Bío-Bío",
-   "title": "Aseguran que EEUU admitió deficiencias médicas en más de 20 muertes de migrantes bajo custodia del ICE",
-   "description": "Una investigación interna del Servicio de Inmigración y Control de Aduanas (ICE) concluyó que , según informes obtenidos por el diario San Francisco Chronicle. El rotativo californiano obtuvo los resultados de las investigaciones internas de ICE sobre el deceso de 29 inmigrantes ",
-   "url": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/11/09/aseguran-que-eeuu-admitio-deficiencias-medicas-en-mas-de-20-muertes-de-migrantes-bajo-custodia-del-ice.shtml",
-   "date": "2026-11-09T22:09:23+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "9100449d6d9e",
-   "source": "Radio Bío-Bío",
-   "title": "¿Posible cambio en la política internacional de Estados Unidos? La expectativa que surge en cumbre G7",
-   "description": "La expectativa ante posibles cambios en la política internacional de Estados Unidos, en particular respecto a los conflictos en Ucrania y en Oriente Medio, sobrevoló este lunes en la primera jornada de la reunión de ministros de Exteriores del G7 en París. La cuestión de si habrá",
-   "url": "https://www.biobiochile.cl/noticias/internacional/europa/2026/11/09/posible-cambio-en-la-politica-internacional-de-estados-unidos-la-expectativa-que-surge-en-cumbre-g7.shtml",
-   "date": "2026-11-09T22:00:43+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "c996212a0b4c",
-   "source": "Radio Bío-Bío",
-   "title": "De las velas a sorpresas de maquillaje: cuál es el origen del calendario de Adviento y qué simboliza",
-   "description": "Hoy, muchas marcas lanzan un calendario de Adviento como una estrategia de marketing navideña. Versiones recientes de este 2026 vienen con dulces, maquillaje o accesorios. Sin embargo, lejos de tratarse de una moda pasajera, la práctica es una tradición que lleva celebrándose des",
-   "url": "https://www.biobiochile.cl/noticias/servicios/explicado/2026/11/09/de-las-velas-a-sorpresas-de-maquillaje-cual-es-el-origen-del-calendario-de-adviento-y-que-simboliza.shtml",
-   "date": "2026-11-09T21:58:39+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "b6b2b193671c",
    "source": "France 24",
    "title": "Francia adelanta la subida del salario mínimo ante las protestas y la presión sindical",
@@ -569,16 +699,6 @@
    "url": "https://www.france24.com/es/francia/20261109-francia-adelanta-la-subida-del-salario-m%C3%ADnimo-ante-las-protestas-y-la-presi%C3%B3n-sindical",
    "date": "2026-11-09T21:53:43+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "17ea7fa0064c",
-   "source": "Radio Cooperativa",
-   "title": "Camioneros y opositores desprecian anuncio de Kast y mantienen presión por los combustibles",
-   "description": "El anuncio del Gobierno de limitar a 40 pesos por litro el alza de los combustibles prevista para este jueves y establecer un techo de 20 pesos durante los próximos 90 días no logró desactivar las críticas de la oposición ni la movilización de los transportistas . La medida, anun",
-   "url": "https://www.cooperativa.cl/noticias/pais/consumidores/combustibles/camioneros-y-opositores-desprecian-anuncio-de-kast-y-mantienen-presion/2026-11-09/184813.html",
-   "date": "2026-11-09T21:48:13+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -602,13 +722,13 @@
    "type": "Prensa"
   },
   {
-   "id": "bfb6ebebdd24",
+   "id": "1b43a80a0d83",
    "source": "Deutsche Welle",
-   "title": "La IA en el aula: los alumnos \"ya no pueden pensar por sí mismos\"",
-   "description": "Estudios muestran claramente que si los jóvenes no utilizan la inteligencia artificial de forma adecuada, su rendimiento escolar puede desplomarse. Para los docentes, esto supone un desafío enorme.",
-   "url": "https://www.dw.com/es/la-ia-en-el-aula-los-alumnos-ya-no-pueden-pensar-por-sí-mismos/a-79903037?maca=spa-rss-sp-all-1122-xml-mrss",
+   "title": "Un atentado sacude la imagen de Polonia como país seguro",
+   "description": "El ataque dejó nueve muertos y desató una nueva disputa política entre el Gobierno de Donald Tusk y la oposición de derecha, en medio de crecientes cuestionamientos sobre la seguridad.",
+   "url": "https://www.dw.com/es/un-atentado-sacude-la-imagen-de-polonia-como-país-seguro/a-79902694?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-09T21:17:00+00:00",
-   "category": "Europa",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -622,6 +742,16 @@
    "type": "Prensa"
   },
   {
+   "id": "bfb6ebebdd24",
+   "source": "Deutsche Welle",
+   "title": "La IA en el aula: los alumnos \"ya no pueden pensar por sí mismos\"",
+   "description": "Estudios muestran claramente que si los jóvenes no utilizan la inteligencia artificial de forma adecuada, su rendimiento escolar puede desplomarse. Para los docentes, esto supone un desafío enorme.",
+   "url": "https://www.dw.com/es/la-ia-en-el-aula-los-alumnos-ya-no-pueden-pensar-por-sí-mismos/a-79903037?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-09T21:17:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
    "id": "d8c1eab22680",
    "source": "Deutsche Welle",
    "title": "Alemania podría tener por primera vez una mujer como presidenta",
@@ -629,16 +759,6 @@
    "url": "https://www.dw.com/es/alemania-podría-tener-por-primera-vez-una-mujer-como-presidenta/a-79904782?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-09T21:17:00+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "1b43a80a0d83",
-   "source": "Deutsche Welle",
-   "title": "Un atentado sacude la imagen de Polonia como país seguro",
-   "description": "El ataque dejó nueve muertos y desató una nueva disputa política entre el Gobierno de Donald Tusk y la oposición de derecha, en medio de crecientes cuestionamientos sobre la seguridad.",
-   "url": "https://www.dw.com/es/un-atentado-sacude-la-imagen-de-polonia-como-país-seguro/a-79902694?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-09T21:17:00+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -892,16 +1012,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cb7933772036",
-   "source": "Al Jazeera",
-   "title": "Two security breaches near White House prompt brief lockdown",
-   "description": "Active investigations are under way after a vehicle crashed at Lafayette Park and a second individual jumped a barrier.",
-   "url": "https://www.aljazeera.com/news/2026/11/9/two-security-breaches-near-white-house-prompt-brief-lockdown?traffic_source=rss",
-   "date": "2026-11-09T18:57:01+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "b2ec34b06f88",
    "source": "France 24",
    "title": "Trump cuestiona las midterms y sus aliados debaten el rumbo de Washington ante las guerras",
@@ -909,16 +1019,6 @@
    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261109-trump-cuestiona-las-midterms-y-sus-aliados-debaten-el-rumbo-de-washington-ante-las-guerras",
    "date": "2026-11-09T18:55:50+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "bd87d50a7712",
-   "source": "Al Jazeera",
-   "title": "Al Jazeera.net co-founder and cartoonist Shujaat Ali dies aged 54",
-   "description": "Ali was an award-winning pioneer of animated political caricatures and Pakistan's first court artist.",
-   "url": "https://www.aljazeera.com/news/2026/11/9/al-jazeera-net-co-founder-and-cartoonist-shujaat-ali-dies-aged-54?traffic_source=rss",
-   "date": "2026-11-09T18:50:29+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -932,16 +1032,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a4ef9ff2a18b",
-   "source": "Al Jazeera",
-   "title": "Qatar PM meets with Trump for talks on ending war on Iran",
-   "description": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani has met with US President Donald Trump.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss",
-   "date": "2026-11-09T18:48:00+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "f336d6fa6772",
    "source": "France 24",
    "title": "Informe desde Buenos Aires: más de dos millones de personas esperan para ver a León XIV",
@@ -952,16 +1042,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ede199873d70",
-   "source": "Al Jazeera",
-   "title": "Yemen government forces claim new advances as Houthi border attacks resume",
-   "description": "Yemeni forces claim fresh advances across key fronts as cross-border Houthi attacks surge amid heavy clashes.",
-   "url": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume?traffic_source=rss",
-   "date": "2026-11-09T18:37:03+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "de772fc36788",
    "source": "The Guardian",
    "title": "Witnesses recount struggle to save people buried in ‘horrifying’ Gaza landslide",
@@ -969,16 +1049,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
    "date": "2026-11-09T18:27:51+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "600a61921111",
-   "source": "Radio Cooperativa",
-   "title": "Vuelta olímpica: Colo Colo celebra su estrella 35 en el Estadio Monumental",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/vuelta-olimpica-colo-colo-celebra-su-estrella-35-en-el-estadio-monumental/2026-11-09/151559.html",
-   "date": "2026-11-09T18:15:59+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1152,16 +1222,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7a0c31b59221",
-   "source": "France 24",
-   "title": "Infidelidad y presunto espionaje, el escándalo en el que está involucrado el CEO de Nvidia",
-   "description": "El CEO de la empresa tecnológica Nvidia, Jensen Huang, aceptó estar en una relación extramatrimonial con Alice Huang, una mujer de negocios originaria de Shanghai. Pero, más allá de la infidelidad, la relación ha causado revuelo por las acusaciones contra la ciudadana china de, p",
-   "url": "https://www.france24.com/es/video/20261109-infidelidad-y-presunto-espionaje-el-esc%C3%A1ndalo-en-el-que-est%C3%A1-involucrado-el-ceo-de-nvidia",
-   "date": "2026-11-09T16:18:49+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "580f8d369fe7",
    "source": "Deutsche Welle",
    "title": "Bayern Múnich: Uli Hoeness duda que Musiala vuelva a su mejor nivel",
@@ -1249,26 +1309,6 @@
    "url": "https://www.dw.com/es/lennart-karl-y-el-regaño-incómodo-que-funcionó/a-79900360?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-09T14:06:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "8423aa9e18f8",
-   "source": "The Guardian",
-   "title": "‘Exceedingly heavy-handed’: ACT police criticised by magistrate for Tasering disabled Aboriginal woman",
-   "description": "Exclusive : Body-worn camera footage shows woman pulled off bench and a Taser activated despite ‘putting up no resistance’, magistrate says Get our breaking news email , free app or daily news podcast A magistrate has criticised “exceedingly heavy-handed” ACT police officers who ",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/10/exceedingly-heavy-handed-act-police-officers-criticised-by-magistrate-for-taser-arrest-of-disabled-aboriginal-woman-ntwnfb",
-   "date": "2026-11-09T14:00:13+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "c5f371bc119f",
-   "source": "The Guardian",
-   "title": "‘Settle down’ and ‘do your own swabs’: how alleged rape victims are treated in Queensland revealed in major report",
-   "description": "Prosecutors dropped cases because survivors ‘didn’t act how a rape victim should’, Australian Institute of Criminology review of 19,000 sexual assault cases finds Get our breaking news email , free app or daily news podcast Queensland police put sexual assault investigations “on ",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/10/settle-down-do-your-own-swabs-how-alleged-victims-are-treated-in-queensland-revealed-in-major-report",
-   "date": "2026-11-09T14:00:12+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1402,16 +1442,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1fe3748ac24f",
-   "source": "Deutsche Welle",
-   "title": "Por caso de espionaje: Nvidia abre investigación sobre su CEO, Jensen Huang",
-   "description": "Nvidia abrió una investigación independiente sobre Jensen Huang tras las acusaciones de que pudo ser objetivo de una operación de inteligencia vinculada a China en plena disputa tecnológica entre ambos países.",
-   "url": "https://www.dw.com/es/por-caso-de-espionaje-nvidia-abre-investigación-sobre-su-ceo-jensen-huang/a-79896180?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-09T09:09:00+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "981223b17df7",
    "source": "BBC Mundo",
    "title": "Las imágenes satelitales que muestran importantes obras de construcción cerca de las bases de misiles de Irán",
@@ -1429,16 +1459,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
    "date": "2026-11-09T02:11:25+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "3907db38e945",
-   "source": "Radio Cooperativa",
-   "title": "El campeón estrena el título: La programación de la fecha 28 de la Liga de Primera",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La ANFP dio a conocer la programación de la fecha 28 de la Liga de Primera, que se disputará entre el 20 y 22 de noviembre, y que tendrá como duelo estelar el clásico entre Colo Colo, campeón, y Universidad Católica en el E",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/el-campeon-estrena-el-titulo-la-programacion-de-la-fecha-28-de-la-liga/2026-11-08/214949.html",
-   "date": "2026-11-09T00:49:49+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1992,16 +2012,6 @@
    "type": "Oficial"
   },
   {
-   "id": "fdc1e1a60dcb",
-   "source": "BBC Mundo",
-   "title": "4 datos que muestran el peso del voto latino en la \"ola azul\" que llevó a los demócratas a arrasar en las elecciones de EE.UU.",
-   "description": "Según las encuestas a boca de urna que hace un consorcio que integran la agencia AP y otros grandes medios, el apoyo latino a los demócratas aumentó 11 puntos porcentuales desde 2024 y borró el avance que había experimentado Trump en su reelección.",
-   "url": "https://www.bbc.com/mundo/articles/cq203vjl5ym8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-05T11:56:53+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "e6b98baf7b11",
    "source": "BBC Mundo",
    "title": "\"No sabía que tenía deficiencia de vitamina D hasta que me desmayé en el trabajo\"",
@@ -2009,16 +2019,6 @@
    "url": "https://www.bbc.com/mundo/articles/cmq8n12772l9o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-05T10:35:07+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "08864b577474",
-   "source": "Radio Cooperativa",
-   "title": "La agenda de La Roja para los amistosos con Colombia en la fecha FIFA",
-   "description": "La Roja volverá a la acción este mes de noviembre en el marco de la fecha FIFA, la última del año, y enfrentará en dos amistosos a la selección de Colombia. Nicolás Córdova citó a 26 jugadores para estos desafíos y pretende mantener las buenas sensaciones que dejó el último parti",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-agenda-de-la-roja-para-los-amistosos-con-colombia-en-la-fecha-fifa/2026-11-04/224505.html",
-   "date": "2026-11-05T01:45:05+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
