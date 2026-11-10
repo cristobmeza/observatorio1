@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T09:51:03.966833+00:00",
+ "updated": "2026-11-10T10:49:12.431359+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -114,9 +114,8 @@
    "err": "HTTP Error 404: Not Found"
   },
   "Naciones Unidas": {
-   "ok": true,
-   "n": 30,
-   "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml"
+   "ok": false,
+   "err": "not well-formed (invalid token): line 1, column 0"
   },
   "Fondo Monetario Internacional": {
    "ok": false,
