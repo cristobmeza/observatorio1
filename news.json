@@ -1,6 +1,106 @@
 {
- "updated": "2026-11-10T02:44:49.554813+00:00",
+ "updated": "2026-11-10T03:44:07.185899+00:00",
  "items": [
+  {
+   "id": "2fe3f840b9a6",
+   "source": "Al Jazeera",
+   "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+   "description": "Saudi forces intercept two missiles fired towards Riyadh, hours after reporting damage to key East-West pipeline.",
+   "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
+   "date": "2026-11-10T03:17:51+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "72df07eba8f4",
+   "source": "Al Jazeera",
+   "title": "Newly-elected Democrats react to Hegseth impeachment bid",
+   "description": "Newly-elected Democrats say holding Defense Secretary Pete Hegseth accountable, will be a priority in the next Congress.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/newly-elected-democrats-react-to-hegseth-impeachment-bid?traffic_source=rss",
+   "date": "2026-11-10T03:16:44+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ba79a5300bcc",
+   "source": "The Guardian",
+   "title": "Beau Lamarre-Condon denies stalking Jesse Baird as double murder trial continues",
+   "description": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him over start of relationship with Baird Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied being “obsessed” with Jesse Baird and st",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
+   "date": "2026-11-10T03:07:17+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "cc92e1dd553a",
+   "source": "Deutsche Welle",
+   "title": "Explosiones sacuden la capital de Arabia Saudita, reportan medios",
+   "description": "\"Las defensas aéreas interceptaron y destruyeron un misil balístico lanzado por la milicia terrorista hutí hacia Riad\", publicó la coalición liderada por Arabia Saudita.",
+   "url": "https://www.dw.com/es/explosiones-sacuden-la-capital-de-arabia-saudita-reportan-medios/a-79905935?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-10T03:05:00+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "72bd553aff36",
+   "source": "Radio Cooperativa",
+   "title": "Fijan para 2028 el juicio contra el acusado de asesinar a Charlie Kirk",
+   "description": "Un juez de Utah, estado de EE.UU., fijo este lunes la fecha del juicio contra Tyler Robinson , acusado de asesinar al activista ultraconservador Charlie Kirk , para el 21 de junio de 2028 , en un proceso con jurado por cargos que pueden implicar la pena de muerte . El juez del Tr",
+   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/tiroteos/fijan-para-2028-el-juicio-contra-el-acusado-de-asesinar-a-charlie-kirk/2026-11-10/000017.html",
+   "date": "2026-11-10T03:00:17+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "b301ef1332dd",
+   "source": "Radio Cooperativa",
+   "title": "Paulina García tras bailar \"Gloria\" en despedida de Sebastián Lelio: \"Me tomó por sorpresa\"",
+   "description": "Tras la muerte de Sebastián Lelio, la actriz Paulina García relató el emotivo momento que protagonizó en el velorio del director nacional, con quien trabajó en la película \"Gloria\". El registro rápidamente comenzó a circular en redes sociales, mostrando a la intérprete bailando y",
+   "url": "https://www.cooperativa.cl/noticias/magazine/cine/paulina-garcia-tras-bailar-gloria-en-despedida-de-sebastian-lelio-me/2026-11-09/235745.html",
+   "date": "2026-11-10T02:57:45+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "bc748efdee4a",
+   "source": "Al Jazeera",
+   "title": "Harare demolitions leave families homeless after years of building",
+   "description": "Residents who say they legally bought land have seen their homes demolished.",
+   "url": "https://www.aljazeera.com/news/2026/11/10/harare-demolitions-leave-families-homeless-after-years-of-building?traffic_source=rss",
+   "date": "2026-11-10T02:48:19+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "d9dc26df4d92",
+   "source": "Al Jazeera",
+   "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+   "description": "Zelenskyy claims Russia 'suffering record losses' as Trump says US seeing 'strong inclination' to end war in Ukraine.",
+   "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
+   "date": "2026-11-10T02:45:14+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "7f0e1e216972",
+   "source": "Radio Cooperativa",
+   "title": "Antofagasta en alerta: paralizan faenas pesqueras tras ola de ataques de lobos marinos",
+   "description": "Una grave situación de seguridad mantiene paralizadas las faenas extractivas en el borde costero de Antofagasta , luego de registrarse al menos 23 ataques de lobos marinos contra buzos y pescadores artesanales: 15 en la caleta Coloso y ocho en el terminal pesquero. Los trabajador",
+   "url": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/pesca/antofagasta-en-alerta-paralizan-faenas-pesqueras-tras-ola-de-ataques-de/2026-11-09/234143.html",
+   "date": "2026-11-10T02:41:43+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "c553eaf51622",
+   "source": "Radio Cooperativa",
+   "title": "Riña derivó en balacera en una playa de Penco",
+   "description": "Una riña que involucró a más de 15 personas derivó en balacera en una playa de la comuna de Penco (Provincia de Concepción, Región del Biobío), en un momento de alta afluencia de público. La pelea dejó un saldo de cinco heridos, pero, providencialmente, nadie \"ajeno\" a ella se cu",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/rina-derivo-en-balacera-en-una-playa-de-penco/2026-11-09/233543.html",
+   "date": "2026-11-10T02:35:43+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "9fa89826470b",
    "source": "Radio Bío-Bío",
@@ -9,6 +109,16 @@
    "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/09/kast-se-reune-con-el-oficialismo-sin-abordar-crisis-por-rabat-y-prepara-cita-clave-en-cerro-castillo.shtml",
    "date": "2026-11-10T02:33:11+00:00",
    "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "d9a0b0cf1019",
+   "source": "The Guardian",
+   "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+   "description": "Government flags criminal law changes to ensure companies can’t argue in future ‘that someone didn’t know the computer was loaded’ OpenAI won’t face criminal penalties over the Medicare hack but the prime minister has flagged changes to Australia’s criminal law to crack down on f",
+   "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+   "date": "2026-11-10T02:31:08+00:00",
+   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -312,16 +422,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ba79a5300bcc",
-   "source": "The Guardian",
-   "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as double murder trial continues",
-   "description": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him over start of relationship with Baird Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied being “obsessed” with Jesse Baird from t",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
-   "date": "2026-11-10T00:53:54+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "49144b613cc1",
    "source": "France 24",
    "title": "Frenar a la extrema derecha en Francia: la estrella del judo Teddy Riner lanza su candidatura a la Presidencia",
@@ -382,32 +482,12 @@
    "type": "Prensa"
   },
   {
-   "id": "134b0b3ba841",
-   "source": "Radio Cooperativa",
-   "title": "Ortiz confirmó que conversó con Mosa por la renovación: \"Vamos por buen camino\"",
-   "description": "El argentino Fernando Ortiz, técnico de Colo Colo , confirmó que ya comenzó las conversaciones con Aníbal Mosa , presidente de Blanco y Negro, para tratar la renovación de su vínculo en el cuadro albo , tras haber logrado el título de la Liga de Primera 2026, faltando tres fechas",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-confirmo-que-converso-con-mosa-por-la-renovacion-vamos-por-buen/2026-11-09/212613.html",
-   "date": "2026-11-10T00:26:13+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "d64f36066a6b",
    "source": "Radio Cooperativa",
    "title": "Camioneros convocaron a movilización en la Ruta 5 Sur y el Gran Concepción",
    "description": "Diversas asociaciones de transportistas de carga pesada iniciarán movilizaciones este martes a partir de las 06:00 de la mañana en distintos nudos viales del sur del país , en protesta por los sostenidos incrementos en el valor del diésel y la falta de respuesta estatal ante la p",
    "url": "https://www.cooperativa.cl/noticias/pais/region-del-biobio/camioneros-convocaron-a-movilizacion-en-la-ruta-5-sur-y-el-gran/2026-11-09/212215.html",
    "date": "2026-11-10T00:22:15+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "15969f82f409",
-   "source": "Radio Cooperativa",
-   "title": "Fiesta alba en el Monumental: Colo Colo celebró a estadio lleno su estrella 35",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este lunes, Colo Colo vibró con la gran celebración del título 2026 de la Liga de Primera, reuniendo a miles de fanáticos en el Estadio Monumental . Pese a las dificultades por el horario en pleno inicio de semana laboral, ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/fiesta-alba-en-el-monumental-colo-colo-celebro-a-estadio-lleno-su/2026-11-09/212008.html",
-   "date": "2026-11-10T00:20:08+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -459,16 +539,6 @@
    "url": "https://www.theguardian.com/education/2026/nov/10/headteachers-consider-leaving-job-earlier-than-planned-new-ofsted-inspection",
    "date": "2026-11-10T00:01:22+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "003a93b68c1c",
-   "source": "Radio Cooperativa",
-   "title": "Charles Aránguiz inició conversaciones para renovar en Universidad de Chile",
-   "description": "Charles Aránguiz, capitán de Universidad de Chile , inició conversaciones con la gerencia deportiva de Azul Azul para tratar el tema de su renovación en el equipo. Según información de Cooperativa Deportes PM, Aránguiz se sentó a conversar con la gerencia que encabeza Manuel Mayo",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/charles-aranguiz-inicio-conversaciones-para-renovar-en-universidad-de/2026-11-09/210037.html",
-   "date": "2026-11-10T00:00:37+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -539,16 +609,6 @@
    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261109-hegseth-en-la-cuerda-floja-saldr%C3%A1-el-jefe-del-pent%C3%A1gono-del-gobierno-de-trump",
    "date": "2026-11-09T23:37:37+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "bdf9c141cec6",
-   "source": "Radio Cooperativa",
-   "title": "Honorables cruzaron burlas etílicas, desafíos de hombría y \"caras de raja\" en la Cámara",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/honorables-cruzaron-burlas-etilicas-desafios-de-hombria-y-caras-de/2026-11-09/203525.html",
-   "date": "2026-11-09T23:35:25+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -752,16 +812,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1b43a80a0d83",
-   "source": "Deutsche Welle",
-   "title": "Un atentado sacude la imagen de Polonia como país seguro",
-   "description": "El ataque dejó nueve muertos y desató una nueva disputa política entre el Gobierno de Donald Tusk y la oposición de derecha, en medio de crecientes cuestionamientos sobre la seguridad.",
-   "url": "https://www.dw.com/es/un-atentado-sacude-la-imagen-de-polonia-como-país-seguro/a-79902694?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-09T21:17:00+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "da0c535a4494",
    "source": "Deutsche Welle",
    "title": "Irán mantiene su capacidad de presión en el estrecho de Ormuz",
@@ -772,13 +822,13 @@
    "type": "Prensa"
   },
   {
-   "id": "bfb6ebebdd24",
+   "id": "1b43a80a0d83",
    "source": "Deutsche Welle",
-   "title": "La IA en el aula: los alumnos \"ya no pueden pensar por sí mismos\"",
-   "description": "Estudios muestran claramente que si los jóvenes no utilizan la inteligencia artificial de forma adecuada, su rendimiento escolar puede desplomarse. Para los docentes, esto supone un desafío enorme.",
-   "url": "https://www.dw.com/es/la-ia-en-el-aula-los-alumnos-ya-no-pueden-pensar-por-sí-mismos/a-79903037?maca=spa-rss-sp-all-1122-xml-mrss",
+   "title": "Un atentado sacude la imagen de Polonia como país seguro",
+   "description": "El ataque dejó nueve muertos y desató una nueva disputa política entre el Gobierno de Donald Tusk y la oposición de derecha, en medio de crecientes cuestionamientos sobre la seguridad.",
+   "url": "https://www.dw.com/es/un-atentado-sacude-la-imagen-de-polonia-como-país-seguro/a-79902694?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-09T21:17:00+00:00",
-   "category": "Europa",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -789,6 +839,16 @@
    "url": "https://www.dw.com/es/alemania-podría-tener-por-primera-vez-una-mujer-como-presidenta/a-79904782?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-09T21:17:00+00:00",
    "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "bfb6ebebdd24",
+   "source": "Deutsche Welle",
+   "title": "La IA en el aula: los alumnos \"ya no pueden pensar por sí mismos\"",
+   "description": "Estudios muestran claramente que si los jóvenes no utilizan la inteligencia artificial de forma adecuada, su rendimiento escolar puede desplomarse. Para los docentes, esto supone un desafío enorme.",
+   "url": "https://www.dw.com/es/la-ia-en-el-aula-los-alumnos-ya-no-pueden-pensar-por-sí-mismos/a-79903037?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-09T21:17:00+00:00",
+   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -902,16 +962,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c1063aa89070",
-   "source": "Al Jazeera",
-   "title": "Russell Brand sentenced to 10.5 years over sexual assault charges",
-   "description": "Russell Brand has been sentenced to 10 years and six months in prison after being convicted of raping one woman",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
-   "date": "2026-11-09T20:08:18+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d55b93b70a88",
    "source": "The Guardian",
    "title": "Tommy Walsh, co-presenter of BBC’s Ground Force, dies aged 69",
@@ -922,26 +972,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5d1f3e5c3e0c",
-   "source": "Al Jazeera",
-   "title": "Explosion at Turkish steel plant kills at least 16 people",
-   "description": "President Erdogan announces an investigation after a crane collapsed into a furnace, triggering the blast near Izmir.",
-   "url": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
-   "date": "2026-11-09T19:58:40+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "b1e756fb20e7",
-   "source": "Al Jazeera",
-   "title": "South Africa detains foreigners suspected of heading to join Russian forces",
-   "description": "Africans and others continue to be recruited to fight for Russia in its war on Ukraine.",
-   "url": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
-   "date": "2026-11-09T19:56:45+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "db39a0772580",
    "source": "France 24",
    "title": "Directo París y el anuncio del adelanto del aumento del salario mínimo en Francia",
@@ -949,16 +979,6 @@
    "url": "https://www.france24.com/es/video/20261109-directo-par%C3%ADs-y-el-anuncio-del-adelanto-del-aumento-del-salario-m%C3%ADnimo-en-francia",
    "date": "2026-11-09T19:51:32+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "0a3ea27e9dd1",
-   "source": "Al Jazeera",
-   "title": "How is Gaza coping with another severe winter?",
-   "description": "How is Gaza coping with another severe winter?",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/how-is-gaza-coping-with-another-severe-winter?traffic_source=rss",
-   "date": "2026-11-09T19:47:46+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1068,16 +1088,6 @@
    "description": "French foreign minister vows European sanctions against Tehran over ‘unprecedented’ hacks last month France has said Iran was responsible for a massive cyber-attack on supermarket freezers and chiller cabinets that was described by its foreign minister as being an act of “unprece",
    "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
    "date": "2026-11-09T17:54:40+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "28425c466cfc",
-   "source": "The Guardian",
-   "title": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31",
-   "description": "Simon Stiell makes opening address at summit in Turkey, where talks are under way about speeding up shift to electrification A global fossil fuel price crisis is “spreading inflation like a cancer” around the planet, the UN’s climate chief, Simon Stiell, told the opening plenary ",
-   "url": "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31",
-   "date": "2026-11-09T17:47:04+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -1389,16 +1399,6 @@
    "url": "https://www.dw.com/es/9-de-noviembre-alemania-recuerda-la-caída-del-muro-y-los-pogromos-de-1938/a-79899547?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-09T11:57:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "9dc42dd0c971",
-   "source": "Deutsche Welle",
-   "title": "Festividades con pirotecnia dejan contaminación severa en India",
-   "description": "La polución tras la fiesta Diwali en Nueva Delhi equivale a fumar un paquete de cigarrillos en un solo día. Autoridades advierten sobre daños a la salud.",
-   "url": "https://www.dw.com/es/festividades-con-pirotecnia-dejan-contaminación-severa-en-india/a-79898962?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-09T11:25:00+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
