@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T19:53:57.138908+00:00",
+ "updated": "2026-11-11T21:27:15.798708+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -30,8 +30,9 @@
    "err": "[Errno 104] Connection reset by peer"
   },
   "Río en Línea": {
-   "ok": false,
-   "err": "The read operation timed out"
+   "ok": true,
+   "n": 1,
+   "url": "https://www.rioenlinea.cl/feed/"
   },
   "Reuters": {
    "ok": false,
@@ -48,7 +49,7 @@
   },
   "Deutsche Welle": {
    "ok": true,
-   "n": 31,
+   "n": 32,
    "url": "https://rss.dw.com/xml/rss-sp-all"
   },
   "France 24": {
