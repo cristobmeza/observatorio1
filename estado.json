@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T11:49:07.061682+00:00",
+ "updated": "2026-11-11T12:55:39.089281+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -44,7 +44,7 @@
   },
   "BBC Mundo": {
    "ok": true,
-   "n": 33,
+   "n": 34,
    "url": "https://feeds.bbci.co.uk/mundo/rss.xml"
   },
   "Deutsche Welle": {
@@ -69,7 +69,7 @@
   },
   "Agencia EFE": {
    "ok": false,
-   "err": "HTTP Error 500: Internal Server Error"
+   "err": "HTTP Error 403: Forbidden"
   },
   "Biblioteca del Congreso Nacional": {
    "ok": false,
@@ -114,9 +114,8 @@
    "err": "HTTP Error 404: Not Found"
   },
   "Naciones Unidas": {
-   "ok": true,
-   "n": 30,
-   "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml"
+   "ok": false,
+   "err": "not well-formed (invalid token): line 1, column 0"
   },
   "Fondo Monetario Internacional": {
    "ok": false,
@@ -132,7 +131,7 @@
   },
   "CEPAL": {
    "ok": false,
-   "err": "HTTP Error 403: Forbidden"
+   "err": "<urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   "Organización Mundial del Comercio": {
    "ok": true,
@@ -175,7 +174,7 @@
   },
   "Publicaciones de CEPAL": {
    "ok": false,
-   "err": "HTTP Error 403: Forbidden"
+   "err": "<urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   "Publicaciones del FMI": {
    "ok": false,
