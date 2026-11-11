@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-11T03:48:29.444406+00:00",
+ "updated": "2026-11-11T04:52:39.031290+00:00",
  "items": [
+  {
+   "id": "869d10c413da",
+   "source": "Al Jazeera",
+   "title": "Netanyahu heckled by Bennett at Knesset opening session",
+   "description": "Former Israeli Prime Minister Naftali Bennett repeatedly heckled caretaker PM Benjamin Netanyahu.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/netanyahu-heckled-by-bennett-at-knesset-opening-session?traffic_source=rss",
+   "date": "2026-11-11T04:04:56+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "599d795aefa9",
+   "source": "France 24",
+   "title": "\"Papá está encerrado\": el diario de la vida y muerte de un impresor internado en Francia durante la I Guerra Mundial",
+   "description": "Con motivo del 11 de noviembre, France 24 nos cuenta la historia de Samuel Gunsberg, un impresor nacido en Budapest que se instaló en Francia en el año 1900 y fue internado en 1914 como \"sujeto enemigo\". Su diario inédito, hallado por su tataranieta, periodista de France 24, desv",
+   "url": "https://www.france24.com/es/europa/20261111-pap%C3%A1-est%C3%A1-encerrado-el-diario-de-la-vida-y-muerte-de-un-impresor-internado-en-francia-durante-la-i-guerra-mundial",
+   "date": "2026-11-11T04:04:21+00:00",
+   "category": "Conflictos armados y seguridad internacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "f1adb3ee9316",
+   "source": "The Guardian",
+   "title": "David Jones to close half its stores triggering mass job losses under ‘urgent restructure’",
+   "description": "Australia’s oldest department store collapsed into voluntary administration last week after years of steep losses David Jones is set to shutter half its department store network, triggering mass job losses under a sweeping restructure, receivers FTI Consulting said on Wednesday. ",
+   "url": "https://www.theguardian.com/business/2026/nov/11/david-jones-store-closures-administration-restructure",
+   "date": "2026-11-11T03:59:03+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "817f1a1147a6",
+   "source": "Al Jazeera",
+   "title": "Section 219: the future of US-Israeli defence partnership",
+   "description": "US President Donald Trump has announced plans to end the billions of dollars in annual US military aid to Israel.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_the-future-of-us-israeli-defence-partnership-101126?traffic_source=rss",
+   "date": "2026-11-11T03:48:58+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ed27f6d6da6e",
+   "source": "Radio Cooperativa",
+   "title": "UDI: El Presidente decidió enfrentar la acusación constitucional con Rabat para ganarla",
+   "description": "Este martes por la noche, en Cerro Castillo , el Presidente José Antonio Kast buscó cerrar las diferencias al interior del oficialismo y contener las críticas a la conducción política de su Gobierno , en medio de las presiones por un cambio de gabinete y la controversia en torno ",
+   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/udi-el-presidente-decidio-enfrentar-la-acusacion-constitucional-con/2026-11-11/003605.html",
+   "date": "2026-11-11T03:36:05+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
   {
    "id": "4d3ae67391e9",
    "source": "France 24",
@@ -64,7 +114,7 @@
   {
    "id": "1576111a3bb2",
    "source": "The Guardian",
-   "title": "Underworld figure Mick Gatto gave CFEMU official gold bracelet after construction site assault, Big Build royal commission told",
+   "title": "Underworld figure Mick Gatto gave CFMEU official gold bracelet after construction site assault, Big Build royal commission told",
    "description": "Former CFMEU official Paul Tzimas tells inquiry he suffered fractured ankle and a colleague was left with major injuries and severe PTSD Get our breaking news email , free app or daily news podcast A former CFMEU official has told a royal commission that underworld figure Mick Ga",
    "url": "https://www.theguardian.com/australia-news/2026/nov/11/mick-gatto-cfmeu-big-build-royal-commission-ntwnfb",
    "date": "2026-11-11T03:07:14+00:00",
@@ -179,16 +229,6 @@
    "url": "https://www.france24.com/es/video/20261111-as%C3%AD-busca-m%C3%A9xico-a-los-desaparecidos-un-nuevo-modelo-para-acelerar-las-b%C3%BAsquedas",
    "date": "2026-11-11T02:46:57+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "9a404d404934",
-   "source": "The Guardian",
-   "title": "Beau Lamarre-Condon denies making fake Grindr account for Jesse Baird, double murder trial hears",
-   "description": "Former police officer accused of murdering Baird and Luke Davies cross-examined in NSW supreme court Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied making a fake dating app account of Jesse Baird after their breakup, a court has heard.",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/11/beau-lamarre-condon-murder-trial-fake-grindr-account-ntwnfb",
-   "date": "2026-11-11T02:44:58+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -324,7 +364,7 @@
   {
    "id": "3911c3b7e5fd",
    "source": "Al Jazeera",
-   "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+   "title": "US charges 3 men over alleged Iranian-backed plot at UK Fairford air base",
    "description": "The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.",
    "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
    "date": "2026-11-11T01:44:21+00:00",
@@ -418,6 +458,16 @@
    "description": "El Papa pidió este martes a los jóvenes que no caigan “ante los nuevos ídolos que reclaman su adoración“, ni al éxito a cualquier precio o la obsesión por la apariencia, en la vigilia que celebró ante el monumento de los Españoles en el barrio de Palermo, en Buenos Aires, ante ce",
    "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/10/el-papa-pide-en-buenos-aires-ante-un-millon-de-jovenes-que-resistan-a-los-nuevos-idolos.shtml",
    "date": "2026-11-11T01:25:37+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "1e5d562c926b",
+   "source": "Radio Cooperativa",
+   "title": "Alunizaje en casa de cambio en Valparaíso: ladrones escaparon tras activar alarma de humo",
+   "description": "En Valparaíso , la Policía de Investigaciones (PDI) indaga un robo que afectó durante la madrugada de este martes a una casa de cambio ubicada en calle Cochrane. El delito fue cometido por seis sujetos que llegaron en dos vehículos y utilizaron el método del \" alunizaje\" para ing",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/robos/alunizaje-en-casa-de-cambio-en-valparaiso-ladrones-escaparon-tras/2026-11-10/222107.html",
+   "date": "2026-11-11T01:21:07+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -602,16 +652,6 @@
    "type": "Prensa"
   },
   {
-   "id": "72fed6d528d0",
-   "source": "Radio Cooperativa",
-   "title": "River Plate tiene en carpeta a Erick Pulgar para la temporada 2027",
-   "description": "El mediocampista nacional Erick Pulgar, quien recientemente renovó su contrato con Flamengo hasta diciembre de 2029, apareció en la órbita de River Plate , gigante del fútbol argentino. De acuerdo con DSports Radio Argentina , el chileno está entre los candidatos que baraja la di",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/chilenos-en-el-exterior/river-plate-tiene-en-carpeta-a-erick-pulgar-para-la-temporada-2027/2026-11-10/213836.html",
-   "date": "2026-11-11T00:38:36+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "72a69f20adaa",
    "source": "Radio Cooperativa",
    "title": "¿Para el reel? \"Menos mal que sabía de economía, ministro\", dijo un diputado liberal a Quiroz",
@@ -619,16 +659,6 @@
    "url": "https://www.cooperativa.cl/noticias/economia/presupuesto/para-el-reel-menos-mal-que-sabia-de-economia-ministro-dijo-un/2026-11-10/213539.html",
    "date": "2026-11-11T00:35:39+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "2d80d3ddbf18",
-   "source": "Radio Cooperativa",
-   "title": "Humberto Suazo y Fabián Estay fueron inducidos al Salón de la Fama del Fútbol Internacional",
-   "description": "Humberto Suazo y Fabián Estay, leyendas del fútbol chileno e históricos de La Roja, fueron inducidos al Salón de la Fama del Fútbol Internacional, clase 2026, en una ceremonia realizada este martes en Pachuca, México. \"Chupete\" y Estay fueron reconocidos por sus enormes trayector",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/exfutbolistas/humberto-suazo-y-fabian-estay-fueron-inducidos-al-salon-de-la-fama-del/2026-11-10/213413.html",
-   "date": "2026-11-11T00:34:13+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -1072,16 +1102,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2105d1c984c9",
-   "source": "Al Jazeera",
-   "title": "Netanyahu and Eisenkot push for new government after election deadlock",
-   "description": "Netanyahu and Eisenkot push for new government after election deadlock",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
-   "date": "2026-11-10T20:39:46+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "8306edcb9ea2",
    "source": "BBC Mundo",
    "title": "\"No tengo noticias de mi dinero\": los millones de paraguayos afectados por la crisis del Ueno Bank que reclaman la devolución de sus ahorros",
@@ -1089,16 +1109,6 @@
    "url": "https://www.bbc.com/mundo/articles/c977p7pn0m0mo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-10T20:28:11+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "7857330fec52",
-   "source": "Al Jazeera",
-   "title": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
-   "description": "Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
-   "date": "2026-11-10T20:23:03+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1149,16 +1159,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
    "date": "2026-11-10T19:59:33+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "937472bed371",
-   "source": "France 24",
-   "title": "Directo a... Bogotá y el aumento de los ataques de grupos armados en Colombia",
-   "description": "Medios colombianos han dado a conocer datos del Ministerio de Defensa con cifras de criminalidad de los grupos armados durante los primeros 90 días del Gobierno de Abelardo de la Espriella. Entre el 7 de agosto y el 5 de noviembre aumentaron el reclutamiento de menores, el secues",
-   "url": "https://www.france24.com/es/video/20261110-directo-a-bogot%C3%A1-y-el-aumento-de-los-ataques-de-grupos-armados-en-colombia",
-   "date": "2026-11-10T19:59:17+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
