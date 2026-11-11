@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-11T01:55:57.929330+00:00",
+ "updated": "2026-11-11T02:44:24.657844+00:00",
  "items": [
+  {
+   "id": "874796a85131",
+   "source": "Radio Cooperativa",
+   "title": "Colombiano y venezolana fueron atacados a tiros en Viña del Mar",
+   "description": "Un hombre de nacionalidad colombiana permanece internado en riesgo vital en el Hospital Gustavo Fricke tras haber sido atacado a tiros -cuando estaba en compañía de una mujer venezolana- al interior de un vehículo en el sector de Santa Inés , en la parte alta de Viña del Mar . \"D",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/colombiano-y-venezolana-fueron-atacados-a-tiros-en-vina-del-mar/2026-11-10/232645.html",
+   "date": "2026-11-11T02:26:45+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "9f002f7736fb",
+   "source": "Al Jazeera",
+   "title": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
+   "description": "Pro-Palestinian protesters hurled milk towards Joe Biden in Ireland over his support for Israel.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
+   "date": "2026-11-11T02:12:22+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "205c0f8ce494",
+   "source": "Al Jazeera",
+   "title": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
+   "description": "Lebanese authorities launch a 'murder' investigation after al-Alwani's body is found in an apartment in Beirut.",
+   "url": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss",
+   "date": "2026-11-11T02:07:15+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "07bdf2d5592f",
+   "source": "Radio Bío-Bío",
+   "title": "Volante de Colombia destaca a La Roja de cara a amistosos: \"Siempre ha sido un rival fuerte\"\"",
+   "description": "El centrocampista Gustavo Puerta reconoció este martes la fortaleza de la selección de Chile, a la que Colombia enfrentará el viernes en la ciudad de Cali. El jugador del Olympiacos griego destacó que ante el reto que supone enfrentar a La Roja, Colombia está concentrada en hacer",
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/10/volante-de-colombia-gustavo-puerta-destaca-fortaleza-de-chile-amistoso-la-roja.shtml",
+   "date": "2026-11-11T01:56:03+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "c2f678b9b160",
+   "source": "Radio Bío-Bío",
+   "title": "En plena crisis: Chile Vamos reflota idea de una coalición de Gobierno y Republicanos exige disciplina",
+   "description": "En medio de la crisis que enfrenta el oficialismo, Chile Vamos reflotó la propuesta de conformar una coalición de gobierno y calificó como el mayor error de diseño del sector no haber formalizado esta alianza. Frente a la iniciativa, desde el Partido Republicano exigieron discipl",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/10/en-plena-crisis-chile-vamos-reflota-idea-de-una-coalicion-de-gobierno-y-republicanos-exige-disciplina.shtml",
+   "date": "2026-11-11T01:52:13+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
   {
    "id": "f3b2c8744df1",
    "source": "Radio Cooperativa",
@@ -9,6 +59,46 @@
    "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/carabineros-ha-multado-a-casi-100-camioneros-movilizados-en-la-region-de/2026-11-10/224847.html",
    "date": "2026-11-11T01:48:47+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "ae93545ac17c",
+   "source": "Radio Bío-Bío",
+   "title": "Muere conductor de nacionalidad peruana tras volcar su motocicleta en la Ruta 5 Norte en Antofagasta",
+   "description": "Un hombre de 55 años de nacionalidad peruana perdió la vida en un accidente de tránsito la jornada de este martes en la Ruta 5 Norte, en la región de Antofagasta. El siniestro vial se registró en el Kilómetro 1.239 e involucró a una motocicleta con patente peruana. Por causas que",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/11/10/muere-conductor-de-nacionalidad-peruana-tras-volcar-su-motocicleta-en-la-ruta-5-norte-en-antofagasta.shtml",
+   "date": "2026-11-11T01:48:14+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "3911c3b7e5fd",
+   "source": "Al Jazeera",
+   "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+   "description": "The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.",
+   "url": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+   "date": "2026-11-11T01:44:21+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "c42ea67f5847",
+   "source": "Al Jazeera",
+   "title": "Republicans block Hegseth impeachment motion",
+   "description": "Republicans have blocked a motion to impeach US Secretary of Defense Pete Hegseth over the war on Iran.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss",
+   "date": "2026-11-11T01:43:42+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5a6c9db1c376",
+   "source": "Radio Bío-Bío",
+   "title": "Muere fundador e histórico acordeonista del grupo argentino de cumbia ’Los Palmeras’",
+   "description": "El mundo de la música tropical argentina está de luto tras confirmarse la muerte de Marcos Camino, histórico acordeonista y uno de los fundadores de Los Palmeras, a los 76 años. El músico falleció este martes 10 de noviembre en la ciudad de Santa Fe, Argentina, donde fue encontra",
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/10/muere-fundador-e-historico-acordeonista-del-grupo-argentino-de-cumbia-los-palmeras.shtml",
+   "date": "2026-11-11T01:43:27+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -32,6 +122,26 @@
    "type": "Prensa"
   },
   {
+   "id": "73b4ea52b637",
+   "source": "Radio Cooperativa",
+   "title": "Con cameo de Alejandro Zambra: así era la última película de Sebastián Lelio",
+   "description": "La muerte de Sebastián Lelio dejó inconcluso uno de sus últimos proyectos cinematográficos: la adaptación de \"Poeta chileno\", novela del escritor nacional Alejandro Zambra, cuyo rodaje se encontraba en su etapa final al momento del fallecimiento del cineasta. Según consignó La Te",
+   "url": "https://www.cooperativa.cl/noticias/magazine/cine/con-cameo-de-alejandro-zambra-asi-era-la-ultima-pelicula-de-sebastian/2026-11-10/223532.html",
+   "date": "2026-11-11T01:35:32+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "7aacccb6d4f5",
+   "source": "Radio Bío-Bío",
+   "title": "Con Joaquín Niemann liderando: Club Los Leones palpita su 66° Abierto de Golf",
+   "description": "El Club de Golf Los Leones será el anfitrión de una nueva edición de su abierto, el cual se realizará entre el 20 y 22 de noviembre. Este es uno de los torneos más tradicionales de nuestro país y se espera que reúna a más de un centenar de golfistas, contando con la presencia des",
+   "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/10/con-joaquin-niemann-liderando-club-leones-palpita-66-abierto-de-golf.shtml",
+   "date": "2026-11-11T01:34:32+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "9d8a47ad281a",
    "source": "Radio Cooperativa",
    "title": "\"Chupete\" eterno: Humberto Suazo posó con el galardón del Salón de la Fama del Fútbol",
@@ -42,10 +152,20 @@
    "type": "Prensa"
   },
   {
+   "id": "c51d8c153756",
+   "source": "Radio Bío-Bío",
+   "title": "El Papa pide en Buenos Aires ante un millón de jóvenes que resistan a los nuevos ídolos",
+   "description": "El Papa pidió este martes a los jóvenes que no caigan “ante los nuevos ídolos que reclaman su adoración“, ni al éxito a cualquier precio o la obsesión por la apariencia, en la vigilia que celebró ante el monumento de los Españoles en el barrio de Palermo, en Buenos Aires, ante ce",
+   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/10/el-papa-pide-en-buenos-aires-ante-un-millon-de-jovenes-que-resistan-a-los-nuevos-idolos.shtml",
+   "date": "2026-11-11T01:25:37+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "763a038c1812",
    "source": "The Guardian",
    "title": "Macquarie Bank to pay $14m penalty after confusing ‘welcome rate’ promotion",
-   "description": "Asic says customers should not have to check every transaction to ensure they receive the correct interest Macquarie Bank is set to pay a $14m court-imposed penalty after it admitted to breaking the Corporations Act with its “welcome rate” promotions. The penalty comes amid a cra",
+   "description": "Asic says customers should not have to check every transaction to ensure they receive the correct interest Get our breaking news email , free app or daily news podcast Macquarie Bank is set to pay a $14m court-imposed penalty after it admitted to breaking the Corporations Act wit",
    "url": "https://www.theguardian.com/australia-news/2026/nov/11/macquarie-bank-14m-penalty-welcome-rate-savings-account",
    "date": "2026-11-11T01:23:39+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -62,6 +182,16 @@
    "type": "Prensa"
   },
   {
+   "id": "2c2ab589e0a9",
+   "source": "Radio Bío-Bío",
+   "title": "VIDEOS | Camioneros independientes mantienen cortes en Ruta 68 en Valparaíso ante alza de combustibles",
+   "description": "Alrededor de . Esto, ante el alza de combustibles. Por minutos el tránsito se interrumpe en una tercera pista, sumando una más de las dos que ya se mantienen bloqueadas por parte de este grupo de camioneros independientes, según constata Radio Bío Bío en el lugar. Los trabajadore",
+   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/10/videos-camioneros-independientes-mantienen-cortes-en-ruta-68-en-valparaiso-ante-alza-de-combustibles.shtml",
+   "date": "2026-11-11T01:19:07+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "11ef3c2aacbd",
    "source": "The Guardian",
    "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
@@ -69,6 +199,26 @@
    "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
    "date": "2026-11-11T01:18:56+00:00",
    "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "e78dcf920506",
+   "source": "Radio Bío-Bío",
+   "title": "Se acabaron los descuentos: senadores UDI impulsan fin de rebajas de condenas por buena conducta",
+   "description": "La bancada de senadores de la UDI anunció la presentación de un proyecto de ley que busca eliminar el mecanismo de reducción de condenas por buena conducta de los internos. Los parlamentarios argumentan que la iniciativa apunta a garantizar el cumplimiento efectivo de las penas i",
+   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/10/se-acabaron-los-descuentos-senadores-udi-impulsan-fin-de-rebajas-de-condenas-por-buena-conducta.shtml",
+   "date": "2026-11-11T01:18:43+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "a26e0bbdc840",
+   "source": "Radio Bío-Bío",
+   "title": "\"En punto muerto\": afirman que Blanco y Negro se molestó con Arturo Vidal y su renovación se entrampó",
+   "description": "No todo está tranquilo en Colo Colo. Pese a la obtención de la Liga de Primera, las renovaciones para la siguiente temporada se han convertido en un dolor de cabeza para la dirigencia de Blanco y Negro. Las más comentadas hasta ahora son las del entrenador, Fernando Ortiz, y la d",
+   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/colo-colo/2026/11/10/punto-muerto-afirman-que-colo-colo-no-renovara-a-arturo-vidal.shtml",
+   "date": "2026-11-11T01:13:57+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -172,6 +322,16 @@
    "type": "Prensa"
   },
   {
+   "id": "84c9f6c91a11",
+   "source": "Radio Bío-Bío",
+   "title": "Muere actor chileno Leonardo Pierucci a los 87 años en Costa Rica",
+   "description": "El mundo del espectáculo está de luto tras confirmarse el fallecimiento de Leonardo Perucci, reconocido actor, director teatral y presentador chileno que desarrolló gran parte de su carrera en Costa Rica. El artista murió este martes 10 de noviembre, a los 87 años, según confirmó",
+   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/10/confirman-en-costa-rica-muerte-del-actor-chileno-leonardo-pierucci.shtml",
+   "date": "2026-11-11T01:00:04+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "42a074def537",
    "source": "BBC Mundo",
    "title": "Bukele asegura que fuerzas de El Salvador han destruido el cuartel de la banda 400 Mawozo en un ataque aéreo en Haití",
@@ -219,6 +379,16 @@
    "url": "https://www.cooperativa.cl/noticias/economia/presupuesto/para-el-reel-menos-mal-que-sabia-de-economia-ministro-dijo-un/2026-11-10/213539.html",
    "date": "2026-11-11T00:35:39+00:00",
    "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "2d80d3ddbf18",
+   "source": "Radio Cooperativa",
+   "title": "Humberto Suazo y Fabián Estay fueron inducidos al Salón de la Fama del Fútbol Internacional",
+   "description": "Humberto Suazo y Fabián Estay, leyendas del fútbol chileno e históricos de La Roja, fueron inducidos al Salón de la Fama del Fútbol Internacional, clase 2026, en una ceremonia realizada este martes en Pachuca, México. \"Chupete\" y Estay fueron reconocidos por sus enormes trayector",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/exfutbolistas/humberto-suazo-y-fabian-estay-fueron-inducidos-al-salon-de-la-fama-del/2026-11-10/213413.html",
+   "date": "2026-11-11T00:34:13+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -452,16 +622,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9fc9cac305b0",
-   "source": "Radio Cooperativa",
-   "title": "ANFP y ANFA dieron un paso clave y aprobaron los estatutos para la nueva Federación de Chile",
-   "description": "La ANFP y la ANFA dieron un paso clave y aprobaron los estatutos para la nueva Federación de Fútbol de Chile , que se separará de la Asociación Nacional de Fútbol Profesional. La reunión contó con la presencia de Pablo Milad, presidente de la ANFP; los candidatos a las elecciones",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/anfp/anfp-y-anfa-dieron-un-paso-clave-y-aprobaron-los-estatutos-para-la-nueva/2026-11-10/203912.html",
-   "date": "2026-11-10T23:39:12+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "e87e5a29bc7c",
    "source": "Radio Bío-Bío",
    "title": "Presidente Kast reúne al oficialismo en Cerro Castillo con paro de camioneros tensionando la agenda",
@@ -502,16 +662,6 @@
    "type": "Prensa"
   },
   {
-   "id": "550d0e60d3da",
-   "source": "Radio Cooperativa",
-   "title": "Advierten por correos fraudulentos que simulan comunicaciones del Poder Judicial",
-   "description": "El Poder Judicial alertó por la proliferación de mails fraudulentos, que simulan comunicaciones de tribunales para lograr estafar a sus destinarios, pues este poder del Estado \"no realiza este tipo de solicitudes por correo electrónico\". \"Durante las últimas horas, el área de cib",
-   "url": "https://www.cooperativa.cl/noticias/tecnologia/internet/advierten-por-correos-fraudulentos-que-simulan-comunicaciones-del-poder/2026-11-10/203207.html",
-   "date": "2026-11-10T23:32:07+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
    "id": "19c280e2c51b",
    "source": "CIPER Chile",
    "title": "Gobierno amenaza a camioneros con despejar carreteras si continúa paro; exministra Steinert es nombrada agregada de Seguridad en embajada en Paraguay, y rebaja de condena a mujer agresora salpica a Rabat",
@@ -528,16 +678,6 @@
    "description": "Ocho minutos. Ese es el tiempo máximo que el nuevo dron de seguridad de Amazon puede volar antes de volver a su base a cargarse. Es poco, pero la empresa asegura que alcanza para algo que, dice, \"nunca había existido\": una cámara que se levanta sola y recorre la casa cuando suena",
    "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/moviles-y-apps/2026/11/10/amazon-lanza-un-mini-dron-que-sale-al-encuentro-de-cualquier-intruso-que-entre-a-tu-casa.shtml",
    "date": "2026-11-10T23:31:28+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "238ad1b9b607",
-   "source": "Radio Bío-Bío",
-   "title": "Dos empresas de buses suspenden viajes desde Puerto Montt hacia Santiago tras paro de camioneros",
-   "description": "Al menos , a propósito del paro de camioneros -por el alza de combustibles- que se mantiene en varios puntos del país. En la capital regional de Los Lagos los gremios de dueños de camiones no se han adherido a la paralización. No obstante, dicha situación sí ha generado complicac",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/10/dos-empresas-de-buses-suspenden-viajes-desde-puerto-montt-hacia-santiago-tras-paro-de-camioneros.shtml",
-   "date": "2026-11-10T23:24:15+00:00",
    "category": "Empresas y mercados",
    "type": "Prensa"
   },
@@ -562,56 +702,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7a5d3c8cb54d",
-   "source": "Radio Bío-Bío",
-   "title": "Fiscalía pide 15 años de cárcel para carabineros por fatal atropello de dos jóvenes en el Monumental",
-   "description": "En las últimas horas, la Fiscalía Metropolitana Oriente confirmó que pidió un total de para cada uno de los dos carabineros implicados en el mediático atropello que le costó la vida a dos jóvenes en inmediaciones del Estadio Monumental. Como bien es sabido, el trágico suceso se r",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/10/fiscalia-pide-15-anos-de-carcel-para-carabineros-por-fatal-atropello-de-dos-jovenes-en-el-monumental.shtml",
-   "date": "2026-11-10T23:20:23+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "d711a41b09af",
-   "source": "Radio Bío-Bío",
-   "title": "Ludópata contra TNT Sports y ANFP: abogado solicita poner causa \"en tabla\" a tres meses de su demanda",
-   "description": "La causa judicial de un ludópata chileno contra TNT Sports y la ANFP, que busca paralizar la promoción de las apuestas en los partidos de fútbol, sumó un nuevo episodio los últimos días. Esto luego que el abogado del demandante ingresara una solicitud para que el caso sea visto, ",
-   "url": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/10/ludopata-contra-tnt-sports-y-anfp-abogado-solicita-poner-causa-en-tabla-a-tres-meses-de-su-demanda.shtml",
-   "date": "2026-11-10T23:19:12+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "43e47cf78600",
-   "source": "Radio Bío-Bío",
-   "title": "Laura Pausini es la primera artista confirmada para el Festival de Viña del Mar 2027",
-   "description": "La Municipalidad de Viña del Mar y la organización del Festival de Viña confirmaron la noche de este martes a la italiana Laura Pausini, como la primera artista confirmada para la edición 2027 del certamen. “Una leyenda de la música mundial llega a Viña 2027. Laura Pausini es la ",
-   "url": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/10/laura-pausini-es-la-primera-artista-confirmada-para-el-festival-de-vina-del-mar-2027.shtml",
-   "date": "2026-11-10T23:11:52+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "38ce74ca10a1",
-   "source": "Radio Bío-Bío",
-   "title": "Asesinan a tiros a periodista ecuatoriano fuera de su vivienda: “un crimen anunciado”",
-   "description": "El periodista, director del medio digital Calcetines, fue asesinado en la noche del domingo cuando ingresaba en su vivienda, según la ONG de libertad de prensa Fundamedios. El comunicador \"fue atacado a tiros la noche del 8 de noviembre, cuando ingresaba su vehículo a su vivienda",
-   "url": "https://www.biobiochile.cl/noticias/internacional/radio-france-internationale/2026/11/10/asesinan-a-tiros-a-periodista-ecuatoriano-fuera-de-su-vivienda-un-crimen-anunciado.shtml",
-   "date": "2026-11-10T23:06:27+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "d98d3485d4bb",
-   "source": "Radio Bío-Bío",
-   "title": "“¿Qué le hicieron las mascotas a Kast?”: Manouchehri critica recorte del 86% a Ley Cholito",
-   "description": "El diputado del Partido Socialista (PS), Daniel Manouchehri, cuestionó al Gobierno del presidente José Antonio Kast por la reducción del 86% de los recursos destinados al Programa de Tenencia Responsable de Animales de Compañía, en el marco de la discusión del Presupuesto 2027. L",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/10/que-le-hicieron-las-mascotas-a-kast-manouchehri-critica-recorte-del-86-a-ley-cholito.shtml",
-   "date": "2026-11-10T23:06:00+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "85ce0e416698",
    "source": "France 24",
    "title": "Informe desde Washington: Hegseth se defiende tras ola de acusaciones por resultados de las midterms",
@@ -632,42 +722,12 @@
    "type": "Prensa"
   },
   {
-   "id": "8941ef4bd7ba",
-   "source": "Radio Bío-Bío",
-   "title": "\"La defenderemos en la calle\": FTC acusa intento de privatizar Codelco y desafía al Gobierno",
-   "description": "La Federación de Trabajadores del Cobre (FTC) manifestó su rechazo a los planteamientos del Gobierno y del presidente del directorio de Codelco, Bernardo Fontaine, acusándolos de promover un supuesto proceso de desprestigio de la compañía que tendría como objetivo facilitar su pr",
-   "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/10/la-defenderemos-en-la-calle-ftc-acusa-intento-de-privatizar-codelco-y-desafia-al-gobierno.shtml",
-   "date": "2026-11-10T22:59:42+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "e3210e6ff8db",
-   "source": "Radio Bío-Bío",
-   "title": "Desbaratan banda de estafas y secuestros en el Maule: 32 detenidos y cerca de mil millones incautados",
-   "description": "Un operativo de la Policía de Investigaciones (PDI) en la región del Maule permitió desbaratar una banda criminal dedicada a estafas telefónicas, secuestros y presunto lavado de activos, dejando . La denominada “Operación Interferencia” contó con la participación de diversas unid",
-   "url": "https://www.biobiochile.cl/noticias/nacional/region-del-maule/2026/11/10/desbaratan-banda-de-estafas-y-secuestros-en-el-maule-32-detenidos-y-cerca-de-mil-millones-incautados.shtml",
-   "date": "2026-11-10T22:58:05+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "acc066c9fe02",
    "source": "Ex-Ante",
    "title": "Quién es quién en el dividido gremio de los camioneros y sus diversas posturas ante el gobierno de Kast",
    "description": "El transporte de carga es un sector atomizado, con cuatro confederaciones que han adoptado posiciones distintas frente al Gobierno. Las dos organizaciones tradicionales de camioneros,…",
    "url": "https://www.ex-ante.cl/nacional/dividido-gremio-de-los-camioneros/",
    "date": "2026-11-10T22:52:20+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "ae1c07b66276",
-   "source": "Radio Bío-Bío",
-   "title": "Paro de camioneros: qué pasa si la movilización me impide llegar al trabajo y qué hacer al respecto",
-   "description": "En las últimas horas se ha intensificado el paro de camioneros tras no llegar a un acuerdo con el Gobierno en el petitorio. Aquello ha causado incertidumbre en quienes deben trasladarse a sus trabajos y han sufrido demoras en las rutas. Para los trabajadores afectados, la pregunt",
-   "url": "https://www.biobiochile.cl/noticias/servicios/explicado/2026/11/10/paro-de-camioneros-que-pasa-si-la-movilizacion-me-impide-llegar-al-trabajo-y-que-hacer-al-respecto.shtml",
-   "date": "2026-11-10T22:50:47+00:00",
    "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
@@ -679,26 +739,6 @@
    "url": "https://www.dw.com/es/aliado-de-trump-es-el-nuevo-líder-de-los-republicanos-en-la-cámara-de-representantes/a-79913634?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-10T22:50:00+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "55f2045afb1e",
-   "source": "Radio Bío-Bío",
-   "title": "El gobernante Partido Colorado expulsa a Santiago Peña tras escándalo por Ueno bank",
-   "description": "El gobernante Partido Colorado expulsó de sus filas al exmandatario Santiago Peña por la que describió y a esa formación política tras su destitución en un juicio político por la intervención de Ueno bank, entidad con la que ha sido vinculado. El Tribunal de Conducta de la tambié",
-   "url": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/10/el-gobernante-partido-colorado-expulsa-a-santiago-pena-tras-escandalo-por-ueno-bank.shtml",
-   "date": "2026-11-10T22:46:23+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "f79a399d665e",
-   "source": "Radio Cooperativa",
-   "title": "Riot Games: \"2027 será el año más importante en la historia de League of Legends\"",
-   "description": "Todo está definido para la gran final del campeonato mundial de \" League of Legends \" , Worlds 2026 , y desde el estudio Riot Games saben que el evento marcará un antes y un después para el popular título, al punto de asegurar que el 2027 será el año \"más importante en la histori",
-   "url": "https://www.cooperativa.cl/noticias/tecnologia/industria/videojuegos/riot-games-2027-sera-el-ano-mas-importante-en-la-historia-de-league-of/2026-11-10/194404.html",
-   "date": "2026-11-10T22:44:04+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1022,26 +1062,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4ebc43f17e87",
-   "source": "Al Jazeera",
-   "title": "Who was Al Jazeera cartoonist Shujaat Ali?",
-   "description": "Who was Al Jazeera cartoonist Shujaat Ali?",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/who-was-al-jazeera-cartoonist-shujaat-ali?traffic_source=rss",
-   "date": "2026-11-10T19:55:13+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "c56d529813b5",
-   "source": "Al Jazeera",
-   "title": "Republicans elect Trump ally Jim Jordan as new US House minority leader",
-   "description": "Ohio Congressman Jim Jordan to succeed Mike Johnson as GOP minority leader, promising unity and a robust opposition.",
-   "url": "https://www.aljazeera.com/news/2026/11/10/republicans-elect-trump-ally-jim-jordan-as-new-us-house-minority-leader?traffic_source=rss",
-   "date": "2026-11-10T19:54:46+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "70ecfc4a958f",
    "source": "France 24",
    "title": "Informe desde Antalya: críticas al Gobierno por represión a protestas en COP31",
@@ -1082,16 +1102,6 @@
    "type": "Prensa"
   },
   {
-   "id": "dec04f0cd4b8",
-   "source": "Al Jazeera",
-   "title": "Rubio says no need for major combat operations against Iran",
-   "description": "US Secretary of State Marco Rubio says there is “no need” for further major combat operations against Iran",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-   "date": "2026-11-10T19:34:13+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "dbfb68e0f70d",
    "source": "France 24",
    "title": "El drama de los damnificados del terremoto en Colombia por la falta de ayudas tres meses después",
@@ -1129,16 +1139,6 @@
    "url": "https://www.france24.com/es/video/20261110-no-llega-ayuda-del-estado-colombia-a-tres-meses-del-terremoto",
    "date": "2026-11-10T19:14:55+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "51dd4c8e531e",
-   "source": "Al Jazeera",
-   "title": "US Senate advances major bill boosting energy infrastructure",
-   "description": "Rare bipartisan bill requires data centres to pay for infrastructure, but environmental groups say it falls short.",
-   "url": "https://www.aljazeera.com/news/2026/11/10/us-senate-advances-major-bill-boosting-energy-infrastructure?traffic_source=rss",
-   "date": "2026-11-10T19:09:12+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1462,26 +1462,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6742dfef36ae",
-   "source": "Naciones Unidas",
-   "title": "COP31: la transición energética toma el protagonismo más allá de los combustibles fósiles",
-   "description": "La transición energética global tomó el protagonismo en el segundo día de la COP31, donde los países exploraron cómo alejarse de los combustibles fósiles, acelerar la energía limpia y superar las barreras financieras y de infraestructura que se interponen en el camino.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542160",
-   "date": "2026-11-10T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "a3e59fd711ae",
-   "source": "Naciones Unidas",
-   "title": "Desigualdad en la COP31, Sudán, ébola y Estados Unidos: las noticias del martes",
-   "description": "Unos 1500 millones de mujeres y niñas viven ya en zonas de alto riesgo climático, y la crisis podría empujar a 141 millones más a la pobreza extrema. En Sudán, UNICEF alerta de que 825.000 niños sufrirán desnutrición aguda debido a los ataques con drones a las centrales eléctrica",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542159",
-   "date": "2026-11-10T12:00:00+00:00",
-   "category": "África",
-   "type": "Oficial"
-  },
-  {
    "id": "270de30d7881",
    "source": "Deutsche Welle",
    "title": "Antiguo ejecutivo de Marvel tomará las riendas de DC Studios",
@@ -1760,36 +1740,6 @@
    "date": "2026-11-09T12:35:23+00:00",
    "category": "",
    "type": "Prensa"
-  },
-  {
-   "id": "225470f14465",
-   "source": "Naciones Unidas",
-   "title": "La COP31 abre en Antalya: ¿pueden por fin las promesas climáticas dar resultados?",
-   "description": "Casi 200 países han llegado a la costa mediterránea de Turquía para una cumbre climática con una ambición diferente: menos declaraciones y más decisiones. Con un poderoso fenómeno de El Niño que amenaza con empeorar los eventos meteorológicos extremos, los negociadores se enfrent",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542157",
-   "date": "2026-11-09T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "2816d1297bcf",
-   "source": "Naciones Unidas",
-   "title": "COP31, Ucrania, Gaza, Papa y sarampión… las noticias del lunes",
-   "description": "La COP31 arranca en Antalya con una advertencia: El Niño podría costar 11 billones de dólares a la economía mundial, mientras la financiación climática sigue sin llegar a los más vulnerables. En Ucrania, los ataques rusos a la energía dejan a cientos de miles de personas sin luz ",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542155",
-   "date": "2026-11-09T12:00:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Oficial"
-  },
-  {
-   "id": "35dcb8b65809",
-   "source": "Naciones Unidas",
-   "title": "Las temperaturas extremas \"excepcionales\" continuarán el año que viene",
-   "description": "Los últimos 12 años han sido los más cálidos registrados y la temperatura media global entre enero y septiembre de 2026 fue de 1,47 °C por encima de la era preindustrial. Un fenómeno de el Niño que será el más fuerte registrado en diciembre seguirá desatando eventos extremos hast",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542152",
-   "date": "2026-11-09T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
   },
   {
    "id": "2008287336b7",
@@ -2072,16 +2022,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a42d28575973",
-   "source": "Naciones Unidas",
-   "title": "La joven ingeniera nuclear que salió de la periferia de Brasil para conquistar el mundo",
-   "description": "Pero para llegar a trabajar en el Organismo Internacional de la Energía Atómica tuvo que superar el racismo, la discriminación social y jornadas de más de 12 horas para estudiar Ingeniería. \"Nuestros héroes están en la vida cotidiana. Solo hay que reconocer a esas personas que co",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542146",
-   "date": "2026-11-07T12:00:00+00:00",
-   "category": "América Latina",
-   "type": "Oficial"
-  },
-  {
    "id": "5b02364acde7",
    "source": "CIPER Chile",
    "title": "Lo que calló Rabat",
@@ -2152,36 +2092,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6dc6acddc05b",
-   "source": "Naciones Unidas",
-   "title": "Frente a la desinformación, hay que reconquistar la confianza en la ciencia",
-   "description": "La agencia de la saludo lanza el movimiento \"Juntos por la ciencia y la salud\", después de que la encuesta global más amplia hasta la fecha, con 140.000 personas en 140 países, revele que, aunque más del 70 % sigue creyendo en la ciencia, la confianza ha caído desde 2018, sobre t",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542150",
-   "date": "2026-11-06T12:00:00+00:00",
-   "category": "Sociedad",
-   "type": "Oficial"
-  },
-  {
-   "id": "95c92900955e",
-   "source": "Naciones Unidas",
-   "title": "COP31, Sudán, Ucrania y precios de los alimentos… las noticias del viernes",
-   "description": "La Conferencia sobre el Clima, la COP31, arranca la próxima semana en Turquía con una advertencia: las ciudades necesitan 4,5 billones de dólares al año para adaptarse al clima, pero solo reciben una quinta parte. Baja el precio de los alimentos, pero el azúcar se dispara, mientr",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542149",
-   "date": "2026-11-06T12:00:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Oficial"
-  },
-  {
-   "id": "9bc66d26a1fc",
-   "source": "Naciones Unidas",
-   "title": "En el Ártico y a la deriva, una expedición científica lanza un llamado a los líderes mundiales: Escuchen a la ciencia",
-   "description": "Atrapados voluntariamente en el hielo del Ártico, un grupo de científicos observa cómo se transforma una de las regiones más frágiles del planeta. Mientras el hielo retrocede y los petroleros ganan terreno, sus hallazgos llegan hasta el Secretario General de la ONU, en una conver",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542147",
-   "date": "2026-11-06T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
    "id": "89a1b888bcf0",
    "source": "BBC Mundo",
    "title": "Muere Gonzalo Moratorio, el científico que \"blindó\" a Uruguay del covid-19 y luchaba por pagarse un costoso tratamiento contra el cáncer",
@@ -2210,26 +2120,6 @@
    "date": "2026-11-05T23:00:49+00:00",
    "category": "",
    "type": "Prensa"
-  },
-  {
-   "id": "88677ad93ff3",
-   "source": "Naciones Unidas",
-   "title": "Agua, Cumbre Iberoamericana y violencia sexual en el Reino Unido: las noticias del jueves",
-   "description": "Los ataques contra los sistemas de agua en las guerras se han triplicado en cinco años y dejan a millones de personas sin acceso a agua potable, según UNICEF. La Cumbre Iberoamericana arranca en Madrid con la recomendación de la CEPAL a América Latina de integrarse mejor para no ",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542145",
-   "date": "2026-11-05T12:00:00+00:00",
-   "category": "Conflictos armados y seguridad internacional",
-   "type": "Oficial"
-  },
-  {
-   "id": "562c1bffd28c",
-   "source": "Naciones Unidas",
-   "title": "COP31: ¿Qué está en juego este año en la cumbre climática de la ONU?",
-   "description": "Las energías renovables avanzan a un ritmo sin precedentes, pero gran parte del mundo sigue sin tener los recursos necesarios para aprovecharlas. La financiación y el cumplimiento de los compromisos climáticos estarán en el centro de una cumbre que deberá demostrar que los acuerd",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542143",
-   "date": "2026-11-05T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
   },
   {
    "id": "e6b98baf7b11",
@@ -2282,36 +2172,6 @@
    "type": "Académica"
   },
   {
-   "id": "5b013aac22e2",
-   "source": "Naciones Unidas",
-   "title": "Un 25% de los adolescentes no hace suficiente ejercicio",
-   "description": "Uno de cada cuatro adolescentes, unos 240 millones, no realiza 60 minutos de actividad física ningún día de la semana, y las niñas se quedan más atrás: el 28 % no tiene ningún día activo, frente al 22 % de los niños. Durante 15 años, el mundo no ha logrado casi ningún avance. La ",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542142",
-   "date": "2026-11-04T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "9d8701d1c4e7",
-   "source": "Naciones Unidas",
-   "title": "Clima y salud, clima y adaptación, el precio del petróleo… las noticias del miércoles",
-   "description": "El mundo \"no está preparado\" para adaptarse al cambio climático: los países en desarrollo necesitarán 305.000 millones de dólares anuales para 2035, pero la financiación pública internacional solo alcanzó entre 28.200 y 31.700 millones en 2024. La OMS advierte de que seis medidas",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542141",
-   "date": "2026-11-04T12:00:00+00:00",
-   "category": "Sociedad",
-   "type": "Oficial"
-  },
-  {
-   "id": "39aef2178c95",
-   "source": "Naciones Unidas",
-   "title": "El mundo no está preparado para la adaptación climática: la financiación se queda muy corta",
-   "description": "Los países en desarrollo necesitarán unos 305.000 millones de dólares anuales para 2035 para adaptarse al cambio climático, pero la financiación pública internacional solo alcanzó entre 28.200 y 31.700 millones en 2024 y, aunque se triplique, cubrirá como máximo el 29 % de las ne",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542139",
-   "date": "2026-11-04T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
    "id": "e6fbaed4ecbe",
    "source": "Servicio Electoral",
    "title": "Servel fortaleció la formación ciudadana y educación cívica electoral de estudiantes de la Región Metropolitana",
@@ -2332,26 +2192,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5de736b036ba",
-   "source": "Naciones Unidas",
-   "title": "La igualdad de género beneficia a las empresas: ¿por qué algunas dan marcha atrás?",
-   "description": "La igualdad de género y la diversidad no son solo cuestiones sociales: también constituyen un activo económico para las empresas. Si bien las mujeres acceden cada vez más a puestos de alta responsabilidad, este progreso sigue siendo frágil y requiere nuevos compromisos para no pe",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542138",
-   "date": "2026-11-03T12:00:00+00:00",
-   "category": "Empresas y mercados",
-   "type": "Oficial"
-  },
-  {
-   "id": "5172b354ae74",
-   "source": "Naciones Unidas",
-   "title": "Ébola, brecha de género, brecha digital… las noticias del martes",
-   "description": "Con más de 10.000 casos confirmados y las 5000 muertes, la respuesta al brote de ébola en la República Democrática del Congo sigue yendo por detrás de la transmisión. Las mujeres solo ocupan el 30 % de los puestos directivos en el mundo. El 76 % de la población mundial usa intern",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542136",
-   "date": "2026-11-03T12:00:00+00:00",
-   "category": "África",
-   "type": "Oficial"
-  },
-  {
    "id": "d24ccd75ac22",
    "source": "The Guardian",
    "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
@@ -2369,26 +2209,6 @@
    "url": "https://www.servel.cl/Ch/app/presidenta-de-servel-se-reunio-con-parlamentarios-por-proyecto-de-ley-sobre-regulacion-de-cuentas-automatizadas-y-uso-de-ia-en-campanas-electorales/sin-categoria/",
    "date": "2026-11-02T13:27:55+00:00",
    "category": "Elecciones",
-   "type": "Oficial"
-  },
-  {
-   "id": "c2b3519c2e63",
-   "source": "Naciones Unidas",
-   "title": "Seis de cada siete asesinatos de periodistas quedan impunes",
-   "description": "Los territorios palestinos ocupados por Israel registraron el mayor número de asesinatos en el bienio 2024-2025, con 62 muertes, dentro de la región de los Estados Árabes, que sumó 97 casos, seguida de América Latina y el Caribe (37), Asia y el Pacífico (34), Europa Central y Ori",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542134",
-   "date": "2026-11-02T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "c77b56fa9785",
-   "source": "Naciones Unidas",
-   "title": "Periodistas asesinados, desinformación sobre migrantes, Ucrania, Sáhara Occidental… las noticias del lunes",
-   "description": "En 2024-2025, fueron asesinados 189 periodistas. La desinformación amplificada por la inteligencia artificial está convirtiendo a los migrantes en \"objetivos\" de odio y violencia. Más de 400 evacuados de Oleshky, en Ucrania, tras un breve alto el fuego, reciben ayuda humanitaria.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542133",
-   "date": "2026-11-02T12:00:00+00:00",
-   "category": "Sociedad",
    "type": "Oficial"
   },
   {
@@ -2422,46 +2242,6 @@
    "type": "Académica"
   },
   {
-   "id": "7803b320b75c",
-   "source": "Naciones Unidas",
-   "title": "COP17: Los países acuerdan una hoja de ruta para acelerar la protección de la biodiversidad",
-   "description": "La cumbre de biodiversidad de la ONU concluyó en Armenia con una hoja de ruta para acelerar el cumplimiento de los objetivos mundiales de protección de la naturaleza antes de 2030. Los países anunciaron cerca de 2000 millones de dólares en nueva financiación y acordaron reforzar ",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542131",
-   "date": "2026-11-01T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "9805bf19c0eb",
-   "source": "Naciones Unidas",
-   "title": "La IA está cambiando cómo pensamos: ¿Nos daremos cuenta a tiempo?",
-   "description": "Es muy tentador ahorrarle al cerebro el pensar del todo\". Solo entre el cinco y el diez por ciento de los trabajadores usa la IA para liberar capacidad mental; la mayoría externaliza también el análisis y la decisión. \"Mantén tu cerebro en el juego\", pide un neurocientífico, que ",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542129",
-   "date": "2026-11-01T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "9ce2a27b2cf8",
-   "source": "Naciones Unidas",
-   "title": "Desconectarse para conectar: la juventud argentina debate los retos de la era digital",
-   "description": "En Buenos Aires, jóvenes debatieron sobre entornos digitales en el marco de la iniciativa Círculos de la Paz de Naciones Unidas. Desinformación, el impacto de las redes sociales en la salud mental y crecer en la era de la inteligencia artificial fueron los principales temas.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542125",
-   "date": "2026-11-01T12:00:00+00:00",
-   "category": "Sociedad",
-   "type": "Oficial"
-  },
-  {
-   "id": "700eba664da4",
-   "source": "Naciones Unidas",
-   "title": "Sáhara Occidental: La ONU reafirma su compromiso con una solución pacífica tras el fin de la misión de paz MINURSO",
-   "description": "La misión de paz de Naciones Unidas en el Sáhara Occidental concluyó sus operaciones después de que el Consejo de Seguridad no lograra un acuerdo para renovar su mandato. El Secretario General reafirmó el derecho del pueblo saharaui a la libre determinación, pidió máxima moderaci",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542130",
-   "date": "2026-11-01T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
    "id": "d2f20901f5f3",
    "source": "Organización Mundial del Comercio",
    "title": "La Presidenta del Grupo de Trabajo visita Uzbekistán cuando las negociaciones de adhesión del país a la OMC entran en una etapa decisiva",
@@ -2469,16 +2249,6 @@
    "url": "https://www.wto.org/spanish/news_s/news26_s/acc_01nov26_545_s.htm",
    "date": "2026-11-01T00:00:00+00:00",
    "category": "Comercio internacional",
-   "type": "Oficial"
-  },
-  {
-   "id": "aedd2439cec9",
-   "source": "Naciones Unidas",
-   "title": "Cambio climático: Nueva York se protege elevando un parque para contener la subida del nivel del mar",
-   "description": "Catorce años después del huracán Sandy, Nueva York eleva hasta tres metros el East River Park y construye muros y compuertas ocultas para proteger a más de 110.000 residentes, con una inversión de 2000 millones de dólares. La ONU advierte de que 770 millones de personas viven a m",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542118",
-   "date": "2026-10-31T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Oficial"
   },
   {
@@ -2490,26 +2260,6 @@
    "date": "2026-10-30T12:54:17+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "d93633cc86e0",
-   "source": "Naciones Unidas",
-   "title": "Gaza, Colombia, VIH, refugiados… Las noticias del viernes",
-   "description": "Gaza: la expansión de las posiciones israelíes aumenta el temor a una limpieza étnica. El Consejo de Seguridad prorroga un año más la misión de verificación de la ONU en Colombia. Barbados elimina la transmisión del VIH de madre a hijo. Ucrania, Siria, Líbano, Afganistán: ACNUR s",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542127",
-   "date": "2026-10-30T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "3079a5233b23",
-   "source": "Naciones Unidas",
-   "title": "Gaza: la expansión de las posiciones israelíes reaviva los temores de una \"limpieza étnica\"",
-   "description": "Israel pretende ampliar su despliegue militar al 70 % del territorio de Gaza, mientras empuja a los palestinos hacia zonas cada vez más pequeñas y ataca campamentos de desplazados, denuncia ONU Derechos Humanos.",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542126",
-   "date": "2026-10-30T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
   },
   {
    "id": "487d63068d64",
@@ -2540,56 +2290,6 @@
    "date": "2026-10-29T12:36:43+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "5dd86bd75429",
-   "source": "Naciones Unidas",
-   "title": "La naturaleza está resurgiendo, pero la financiación para restaurarla debe cuadruplicarse",
-   "description": "No todo es destrucción. Unos 252 millones de hectáreas en 149 países —una superficie del tamaño de Kazajistán— están en restauración, y se han creado más de un millón de empleos verdes, pero la financiación anual debe cuadruplicarse, de 64.000 a 296.000 millones de dólares, para ",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542123",
-   "date": "2026-10-29T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "2a5f30b1dd02",
-   "source": "Naciones Unidas",
-   "title": "Trabajo de cuidados, seguridad marítima, restauración de la naturaleza, contaminación… Las noticias del jueves",
-   "description": "Crece la demanda de cuidados de larga duración en América, al tiempo que la población envejece. Las nuevas tecnologías plantean oportunidades y riesgos para la seguridad marítima, advierte la ONU. La naturaleza se recupera, pero la financiación para restaurarla debe cuadruplicars",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542122",
-   "date": "2026-10-29T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "eb39f68d9424",
-   "source": "Naciones Unidas",
-   "title": "En el mar, la IA trastoca las reglas de la guerra",
-   "description": "\"El arma decisiva de la próxima década no será un misil hipersónico, será el algoritmo\", advierte el periodista Fareed Zakaria ante el Consejo de Seguridad. El diagnóstico supera con creces los desafíos militares. Más del 90 % del comercio mundial de mercancías transita por los m",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542121",
-   "date": "2026-10-29T12:00:00+00:00",
-   "category": "Conflictos armados y seguridad internacional",
-   "type": "Oficial"
-  },
-  {
-   "id": "33f024b5b622",
-   "source": "Naciones Unidas",
-   "title": "Haití: la inseguridad alimentaria en camino de alcanzar niveles récord",
-   "description": "Haití se enfrenta a una inseguridad alimentaria récord: 6,35 millones de personas en situación de crisis o emergencia entre marzo y junio de 2027, medio millón más que en el mismo período del año anterior, y casi dos millones en nivel de \"urgencia\". La ONU necesita 78 millones de",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542120",
-   "date": "2026-10-29T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "f3206b98c8dd",
-   "source": "Naciones Unidas",
-   "title": "Crece la demanda de cuidados de larga duración en América, al tiempo que la población envejece",
-   "description": "Para 2050, 306 millones de personas en las Américas tendrán 60 años o más, pero solo 15 de los 35 Estados cuentan con un sistema formal y públicamente financiado de cuidados de larga duración, pese a que el 88 % de los países ha incluido el tema en su legislación.",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542119",
-   "date": "2026-10-29T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
   },
   {
    "id": "a171bd9fbe8a",
