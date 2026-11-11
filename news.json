@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-11T06:59:25.506369+00:00",
+ "updated": "2026-11-11T08:18:36.181579+00:00",
  "items": [
+  {
+   "id": "7616cbf26236",
+   "source": "Al Jazeera",
+   "title": "Students run for safety after fireworks set off inside French school",
+   "description": "Video captures the moment students and staff ran for safety as fireworks were set off along a school corridor in France.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/students-run-for-safety-after-fireworks-set-off-inside-french-school?traffic_source=rss",
+   "date": "2026-11-11T07:55:55+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "50279ba046df",
+   "source": "The Guardian",
+   "title": "Aldi cuts hundreds of UK head office roles as part of global cost trimming",
+   "description": "Supermarket’s move labelled ‘shortsighted’ by worker who calls upper management ‘woefully out of touch with reality’ Aldi’s UK business is cutting hundreds of head office roles as part of a global effort to trim costs at the budget grocer. The retailer is consulting with its tech",
+   "url": "https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming",
+   "date": "2026-11-11T07:30:12+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e27ba02700c1",
+   "source": "Al Jazeera",
+   "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+   "description": "Investigation reveals Chinese entities accessing US-restricted AI tech despite stringent export control measures.",
+   "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
+   "date": "2026-11-11T07:26:28+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "95ba8029a7a5",
+   "source": "Al Jazeera",
+   "title": "Is Washington rethinking its relationship with Israel?",
+   "description": "The midterms exposed a growing challenge to decades of US support for Israel, with potentially lasting consequences.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss",
+   "date": "2026-11-11T07:26:17+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "21b797b1c382",
+   "source": "Al Jazeera",
+   "title": "If hackers can take over a supermarket fridge, what else is at risk?",
+   "description": "As our lives become more digitised, we show which smart systems can be hacked and how to protect yourself.",
+   "url": "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk?traffic_source=rss",
+   "date": "2026-11-11T07:20:08+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5273e22d6c92",
+   "source": "The Guardian",
+   "title": "Lending to property investors falls at record pace, as Australians fall behind on home loans",
+   "description": "Share of CBA customers struggling to repay their mortgages has climbed to 12-year high Get our breaking news email , free app or daily news podcast New lending to property investors fell at its fastest pace on record through the three months to September, as landlords adjust to h",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/11/property-investor-lending-rates-fall-cba-mortgage-repayments",
+   "date": "2026-11-11T07:02:15+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "ee06609ac983",
+   "source": "The Guardian",
+   "title": "AI has made it ‘close to impossible’ to assess university coursework, regulator says",
+   "description": "Office for Students says institutions in England should return to traditional exams and in-person presentations Universities should go back to traditional exams and in-person presentations to grade students after lecturers complained that AI has made it “close to impossible” to a",
+   "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+   "date": "2026-11-11T07:00:33+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "a303613feb36",
    "source": "The Guardian",
@@ -29,16 +99,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss",
    "date": "2026-11-11T06:23:04+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "50279ba046df",
-   "source": "The Guardian",
-   "title": "Aldi cuts hundreds of UK head office and logistics roles as part of global cost trimming",
-   "description": "Supermarket’s move labelled ‘shortsighted’ by worker who calls upper management ‘woefully out of touch with reality’ Aldi’s UK business is cutting hundreds of head office and logistics roles as part of a global effort to trim costs at the budget grocer. The retailer is consulting",
-   "url": "https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming",
-   "date": "2026-11-11T06:00:34+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -85,7 +145,7 @@
    "id": "2dd751f94828",
    "source": "Al Jazeera",
    "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
-   "description": "Yemen's government says 190 rebel fighters killed and wounded, as Houthis also claim inflicting heavy losses.",
+   "description": "Yemen's government says 190 rebel fighters killed and wounded, as Houthis also claim dealing heavy blows.",
    "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
    "date": "2026-11-11T05:39:26+00:00",
    "category": "Oriente Medio",
@@ -204,8 +264,8 @@
   {
    "id": "3baaa8e2b942",
    "source": "Al Jazeera",
-   "title": "Russia claims interception of 146 drones in Leningrad region",
-   "description": "Attacks also reported in the Russian-occupied Donbas region of Ukraine as US-mediated talks continue in Abu Dhabi.",
+   "title": "Russia, Ukraine exchange strikes as Baltic nations issue drone alerts",
+   "description": "Attacks also reported in Russia's northwest as US-mediated talks continue in Abu Dhabi.",
    "url": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
    "date": "2026-11-11T04:34:47+00:00",
    "category": "Oriente Medio",
@@ -348,16 +408,6 @@
    "description": "Exclusive : Jillian Segal suggested ‘transferring’ powers in updated report released a fortnight ago but government sources note media regulator already exists Get our breaking news email , free app or daily news podcast The Albanese government won’t follow a suggestion by the an",
    "url": "https://www.theguardian.com/media/2026/nov/11/labor-abc-sbs-ombudsmen-antisemitism-envoy-gaza-coverage-ntwnfb",
    "date": "2026-11-11T03:10:37+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "1576111a3bb2",
-   "source": "The Guardian",
-   "title": "Underworld figure Mick Gatto gave CFMEU official gold bracelet after construction site assault, Big Build royal commission told",
-   "description": "Former CFMEU official Paul Tzimas tells inquiry he suffered fractured ankle and a colleague was left with major injuries and severe PTSD Get our breaking news email , free app or daily news podcast A former CFMEU official has told a royal commission that underworld figure Mick Ga",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/11/mick-gatto-cfmeu-big-build-royal-commission-ntwnfb",
-   "date": "2026-11-11T03:07:14+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -922,31 +972,11 @@
    "type": "Prensa"
   },
   {
-   "id": "2dd6f76d9db7",
-   "source": "Al Jazeera",
-   "title": "Iran war live: US House blocks Hegseth impeachment with 11 Democrats absent",
-   "description": "US House blocks bid to impeach Defense Secretary Pete Hegseth over US-Israel war on Iran as 11 Democrats miss vote.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
-   "date": "2026-11-11T00:01:26+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "fa0cfd08bfd6",
    "source": "The Guardian",
    "title": "‘No one is in charge’: social care system in England in chaos, Louise Casey to say",
    "description": "Head of major review into adult social care will say that governments have been ‘asleep at the wheel’ of vital system Successive governments in England have been “asleep at the wheel” on social care, leaving the system to grow as a chaotic patchwork of local services with no clea",
    "url": "https://www.theguardian.com/society/2026/nov/11/louise-casey-england-social-care-system",
-   "date": "2026-11-11T00:01:23+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "104e7873f0b1",
-   "source": "The Guardian",
-   "title": "Disabled people in England ‘have to wait up to two years for wheelchairs’",
-   "description": "Ombudsman’s report says delays have profound consequences and limit users’ ability to lead independent lives Disabled people are having to wait up to two years to get a wheelchair because of delays involving NHS bodies and private firms that make them. The situation is revealed i",
-   "url": "https://www.theguardian.com/society/2026/nov/11/disabled-people-in-england-have-to-wait-up-to-two-years-for-wheelchairs",
    "date": "2026-11-11T00:01:23+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
@@ -992,26 +1022,6 @@
    "type": "Prensa"
   },
   {
-   "id": "294d7622ecc0",
-   "source": "Al Jazeera",
-   "title": "Fire contained on platform in Iran’s South Pars gas field",
-   "description": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
-   "url": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
-   "date": "2026-11-10T23:38:02+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "e98907e21ecf",
-   "source": "Al Jazeera",
-   "title": "Massive fire as Israeli settlers burn down business near Nablus",
-   "description": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
-   "date": "2026-11-10T23:33:43+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "19c280e2c51b",
    "source": "CIPER Chile",
    "title": "Gobierno amenaza a camioneros con despejar carreteras si continúa paro; exministra Steinert es nombrada agregada de Seguridad en embajada en Paraguay, y rebaja de condena a mujer agresora salpica a Rabat",
@@ -1019,16 +1029,6 @@
    "url": "https://www.ciperchile.cl/2026/11/10/radar-10-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-10-11-26",
    "date": "2026-11-10T23:31:31+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "feba6f0e321e",
-   "source": "Al Jazeera",
-   "title": "French far-right author Zemmour launches second bid for 2027 presidency",
-   "description": "Zemmour seeks to expel 'foreign unemployed people' after last month's violent protests.",
-   "url": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
-   "date": "2026-11-10T23:23:12+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1532,6 +1532,26 @@
    "type": "Prensa"
   },
   {
+   "id": "6742dfef36ae",
+   "source": "Naciones Unidas",
+   "title": "COP31: la transición energética toma el protagonismo más allá de los combustibles fósiles",
+   "description": "La transición energética global tomó el protagonismo en el segundo día de la COP31, donde los países exploraron cómo alejarse de los combustibles fósiles, acelerar la energía limpia y superar las barreras financieras y de infraestructura que se interponen en el camino.",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542160",
+   "date": "2026-11-10T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "a3e59fd711ae",
+   "source": "Naciones Unidas",
+   "title": "Desigualdad en la COP31, Sudán, ébola y Estados Unidos: las noticias del martes",
+   "description": "Unos 1500 millones de mujeres y niñas viven ya en zonas de alto riesgo climático, y la crisis podría empujar a 141 millones más a la pobreza extrema. En Sudán, UNICEF alerta de que 825.000 niños sufrirán desnutrición aguda debido a los ataques con drones a las centrales eléctrica",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542159",
+   "date": "2026-11-10T12:00:00+00:00",
+   "category": "África",
+   "type": "Oficial"
+  },
+  {
    "id": "270de30d7881",
    "source": "Deutsche Welle",
    "title": "Antiguo ejecutivo de Marvel tomará las riendas de DC Studios",
@@ -1760,6 +1780,36 @@
    "date": "2026-11-09T12:35:23+00:00",
    "category": "",
    "type": "Prensa"
+  },
+  {
+   "id": "225470f14465",
+   "source": "Naciones Unidas",
+   "title": "La COP31 abre en Antalya: ¿pueden por fin las promesas climáticas dar resultados?",
+   "description": "Casi 200 países han llegado a la costa mediterránea de Turquía para una cumbre climática con una ambición diferente: menos declaraciones y más decisiones. Con un poderoso fenómeno de El Niño que amenaza con empeorar los eventos meteorológicos extremos, los negociadores se enfrent",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542157",
+   "date": "2026-11-09T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "2816d1297bcf",
+   "source": "Naciones Unidas",
+   "title": "COP31, Ucrania, Gaza, Papa y sarampión… las noticias del lunes",
+   "description": "La COP31 arranca en Antalya con una advertencia: El Niño podría costar 11 billones de dólares a la economía mundial, mientras la financiación climática sigue sin llegar a los más vulnerables. En Ucrania, los ataques rusos a la energía dejan a cientos de miles de personas sin luz ",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542155",
+   "date": "2026-11-09T12:00:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Oficial"
+  },
+  {
+   "id": "35dcb8b65809",
+   "source": "Naciones Unidas",
+   "title": "Las temperaturas extremas \"excepcionales\" continuarán el año que viene",
+   "description": "Los últimos 12 años han sido los más cálidos registrados y la temperatura media global entre enero y septiembre de 2026 fue de 1,47 °C por encima de la era preindustrial. Un fenómeno de el Niño que será el más fuerte registrado en diciembre seguirá desatando eventos extremos hast",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542152",
+   "date": "2026-11-09T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
   },
   {
    "id": "2008287336b7",
@@ -2022,6 +2072,16 @@
    "type": "Prensa"
   },
   {
+   "id": "a42d28575973",
+   "source": "Naciones Unidas",
+   "title": "La joven ingeniera nuclear que salió de la periferia de Brasil para conquistar el mundo",
+   "description": "Pero para llegar a trabajar en el Organismo Internacional de la Energía Atómica tuvo que superar el racismo, la discriminación social y jornadas de más de 12 horas para estudiar Ingeniería. \"Nuestros héroes están en la vida cotidiana. Solo hay que reconocer a esas personas que co",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542146",
+   "date": "2026-11-07T12:00:00+00:00",
+   "category": "América Latina",
+   "type": "Oficial"
+  },
+  {
    "id": "5b02364acde7",
    "source": "CIPER Chile",
    "title": "Lo que calló Rabat",
@@ -2092,6 +2152,36 @@
    "type": "Prensa"
   },
   {
+   "id": "6dc6acddc05b",
+   "source": "Naciones Unidas",
+   "title": "Frente a la desinformación, hay que reconquistar la confianza en la ciencia",
+   "description": "La agencia de la saludo lanza el movimiento \"Juntos por la ciencia y la salud\", después de que la encuesta global más amplia hasta la fecha, con 140.000 personas en 140 países, revele que, aunque más del 70 % sigue creyendo en la ciencia, la confianza ha caído desde 2018, sobre t",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542150",
+   "date": "2026-11-06T12:00:00+00:00",
+   "category": "Sociedad",
+   "type": "Oficial"
+  },
+  {
+   "id": "95c92900955e",
+   "source": "Naciones Unidas",
+   "title": "COP31, Sudán, Ucrania y precios de los alimentos… las noticias del viernes",
+   "description": "La Conferencia sobre el Clima, la COP31, arranca la próxima semana en Turquía con una advertencia: las ciudades necesitan 4,5 billones de dólares al año para adaptarse al clima, pero solo reciben una quinta parte. Baja el precio de los alimentos, pero el azúcar se dispara, mientr",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542149",
+   "date": "2026-11-06T12:00:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Oficial"
+  },
+  {
+   "id": "9bc66d26a1fc",
+   "source": "Naciones Unidas",
+   "title": "En el Ártico y a la deriva, una expedición científica lanza un llamado a los líderes mundiales: Escuchen a la ciencia",
+   "description": "Atrapados voluntariamente en el hielo del Ártico, un grupo de científicos observa cómo se transforma una de las regiones más frágiles del planeta. Mientras el hielo retrocede y los petroleros ganan terreno, sus hallazgos llegan hasta el Secretario General de la ONU, en una conver",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542147",
+   "date": "2026-11-06T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
    "id": "89a1b888bcf0",
    "source": "BBC Mundo",
    "title": "Muere Gonzalo Moratorio, el científico que \"blindó\" a Uruguay del covid-19 y luchaba por pagarse un costoso tratamiento contra el cáncer",
@@ -2120,6 +2210,26 @@
    "date": "2026-11-05T23:00:49+00:00",
    "category": "",
    "type": "Prensa"
+  },
+  {
+   "id": "88677ad93ff3",
+   "source": "Naciones Unidas",
+   "title": "Agua, Cumbre Iberoamericana y violencia sexual en el Reino Unido: las noticias del jueves",
+   "description": "Los ataques contra los sistemas de agua en las guerras se han triplicado en cinco años y dejan a millones de personas sin acceso a agua potable, según UNICEF. La Cumbre Iberoamericana arranca en Madrid con la recomendación de la CEPAL a América Latina de integrarse mejor para no ",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542145",
+   "date": "2026-11-05T12:00:00+00:00",
+   "category": "Conflictos armados y seguridad internacional",
+   "type": "Oficial"
+  },
+  {
+   "id": "562c1bffd28c",
+   "source": "Naciones Unidas",
+   "title": "COP31: ¿Qué está en juego este año en la cumbre climática de la ONU?",
+   "description": "Las energías renovables avanzan a un ritmo sin precedentes, pero gran parte del mundo sigue sin tener los recursos necesarios para aprovecharlas. La financiación y el cumplimiento de los compromisos climáticos estarán en el centro de una cumbre que deberá demostrar que los acuerd",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542143",
+   "date": "2026-11-05T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
   },
   {
    "id": "e6b98baf7b11",
@@ -2172,6 +2282,36 @@
    "type": "Académica"
   },
   {
+   "id": "5b013aac22e2",
+   "source": "Naciones Unidas",
+   "title": "Un 25% de los adolescentes no hace suficiente ejercicio",
+   "description": "Uno de cada cuatro adolescentes, unos 240 millones, no realiza 60 minutos de actividad física ningún día de la semana, y las niñas se quedan más atrás: el 28 % no tiene ningún día activo, frente al 22 % de los niños. Durante 15 años, el mundo no ha logrado casi ningún avance. La ",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542142",
+   "date": "2026-11-04T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "9d8701d1c4e7",
+   "source": "Naciones Unidas",
+   "title": "Clima y salud, clima y adaptación, el precio del petróleo… las noticias del miércoles",
+   "description": "El mundo \"no está preparado\" para adaptarse al cambio climático: los países en desarrollo necesitarán 305.000 millones de dólares anuales para 2035, pero la financiación pública internacional solo alcanzó entre 28.200 y 31.700 millones en 2024. La OMS advierte de que seis medidas",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542141",
+   "date": "2026-11-04T12:00:00+00:00",
+   "category": "Sociedad",
+   "type": "Oficial"
+  },
+  {
+   "id": "39aef2178c95",
+   "source": "Naciones Unidas",
+   "title": "El mundo no está preparado para la adaptación climática: la financiación se queda muy corta",
+   "description": "Los países en desarrollo necesitarán unos 305.000 millones de dólares anuales para 2035 para adaptarse al cambio climático, pero la financiación pública internacional solo alcanzó entre 28.200 y 31.700 millones en 2024 y, aunque se triplique, cubrirá como máximo el 29 % de las ne",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542139",
+   "date": "2026-11-04T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
    "id": "e6fbaed4ecbe",
    "source": "Servicio Electoral",
    "title": "Servel fortaleció la formación ciudadana y educación cívica electoral de estudiantes de la Región Metropolitana",
@@ -2192,6 +2332,26 @@
    "type": "Prensa"
   },
   {
+   "id": "5de736b036ba",
+   "source": "Naciones Unidas",
+   "title": "La igualdad de género beneficia a las empresas: ¿por qué algunas dan marcha atrás?",
+   "description": "La igualdad de género y la diversidad no son solo cuestiones sociales: también constituyen un activo económico para las empresas. Si bien las mujeres acceden cada vez más a puestos de alta responsabilidad, este progreso sigue siendo frágil y requiere nuevos compromisos para no pe",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542138",
+   "date": "2026-11-03T12:00:00+00:00",
+   "category": "Empresas y mercados",
+   "type": "Oficial"
+  },
+  {
+   "id": "5172b354ae74",
+   "source": "Naciones Unidas",
+   "title": "Ébola, brecha de género, brecha digital… las noticias del martes",
+   "description": "Con más de 10.000 casos confirmados y las 5000 muertes, la respuesta al brote de ébola en la República Democrática del Congo sigue yendo por detrás de la transmisión. Las mujeres solo ocupan el 30 % de los puestos directivos en el mundo. El 76 % de la población mundial usa intern",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542136",
+   "date": "2026-11-03T12:00:00+00:00",
+   "category": "África",
+   "type": "Oficial"
+  },
+  {
    "id": "d24ccd75ac22",
    "source": "The Guardian",
    "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
@@ -2209,6 +2369,26 @@
    "url": "https://www.servel.cl/Ch/app/presidenta-de-servel-se-reunio-con-parlamentarios-por-proyecto-de-ley-sobre-regulacion-de-cuentas-automatizadas-y-uso-de-ia-en-campanas-electorales/sin-categoria/",
    "date": "2026-11-02T13:27:55+00:00",
    "category": "Elecciones",
+   "type": "Oficial"
+  },
+  {
+   "id": "c2b3519c2e63",
+   "source": "Naciones Unidas",
+   "title": "Seis de cada siete asesinatos de periodistas quedan impunes",
+   "description": "Los territorios palestinos ocupados por Israel registraron el mayor número de asesinatos en el bienio 2024-2025, con 62 muertes, dentro de la región de los Estados Árabes, que sumó 97 casos, seguida de América Latina y el Caribe (37), Asia y el Pacífico (34), Europa Central y Ori",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542134",
+   "date": "2026-11-02T12:00:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Oficial"
+  },
+  {
+   "id": "c77b56fa9785",
+   "source": "Naciones Unidas",
+   "title": "Periodistas asesinados, desinformación sobre migrantes, Ucrania, Sáhara Occidental… las noticias del lunes",
+   "description": "En 2024-2025, fueron asesinados 189 periodistas. La desinformación amplificada por la inteligencia artificial está convirtiendo a los migrantes en \"objetivos\" de odio y violencia. Más de 400 evacuados de Oleshky, en Ucrania, tras un breve alto el fuego, reciben ayuda humanitaria.",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542133",
+   "date": "2026-11-02T12:00:00+00:00",
+   "category": "Sociedad",
    "type": "Oficial"
   },
   {
@@ -2242,6 +2422,46 @@
    "type": "Académica"
   },
   {
+   "id": "7803b320b75c",
+   "source": "Naciones Unidas",
+   "title": "COP17: Los países acuerdan una hoja de ruta para acelerar la protección de la biodiversidad",
+   "description": "La cumbre de biodiversidad de la ONU concluyó en Armenia con una hoja de ruta para acelerar el cumplimiento de los objetivos mundiales de protección de la naturaleza antes de 2030. Los países anunciaron cerca de 2000 millones de dólares en nueva financiación y acordaron reforzar ",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542131",
+   "date": "2026-11-01T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "9805bf19c0eb",
+   "source": "Naciones Unidas",
+   "title": "La IA está cambiando cómo pensamos: ¿Nos daremos cuenta a tiempo?",
+   "description": "Es muy tentador ahorrarle al cerebro el pensar del todo\". Solo entre el cinco y el diez por ciento de los trabajadores usa la IA para liberar capacidad mental; la mayoría externaliza también el análisis y la decisión. \"Mantén tu cerebro en el juego\", pide un neurocientífico, que ",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542129",
+   "date": "2026-11-01T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "9ce2a27b2cf8",
+   "source": "Naciones Unidas",
+   "title": "Desconectarse para conectar: la juventud argentina debate los retos de la era digital",
+   "description": "En Buenos Aires, jóvenes debatieron sobre entornos digitales en el marco de la iniciativa Círculos de la Paz de Naciones Unidas. Desinformación, el impacto de las redes sociales en la salud mental y crecer en la era de la inteligencia artificial fueron los principales temas.",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542125",
+   "date": "2026-11-01T12:00:00+00:00",
+   "category": "Sociedad",
+   "type": "Oficial"
+  },
+  {
+   "id": "700eba664da4",
+   "source": "Naciones Unidas",
+   "title": "Sáhara Occidental: La ONU reafirma su compromiso con una solución pacífica tras el fin de la misión de paz MINURSO",
+   "description": "La misión de paz de Naciones Unidas en el Sáhara Occidental concluyó sus operaciones después de que el Consejo de Seguridad no lograra un acuerdo para renovar su mandato. El Secretario General reafirmó el derecho del pueblo saharaui a la libre determinación, pidió máxima moderaci",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542130",
+   "date": "2026-11-01T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
    "id": "d2f20901f5f3",
    "source": "Organización Mundial del Comercio",
    "title": "La Presidenta del Grupo de Trabajo visita Uzbekistán cuando las negociaciones de adhesión del país a la OMC entran en una etapa decisiva",
@@ -2249,6 +2469,16 @@
    "url": "https://www.wto.org/spanish/news_s/news26_s/acc_01nov26_545_s.htm",
    "date": "2026-11-01T00:00:00+00:00",
    "category": "Comercio internacional",
+   "type": "Oficial"
+  },
+  {
+   "id": "aedd2439cec9",
+   "source": "Naciones Unidas",
+   "title": "Cambio climático: Nueva York se protege elevando un parque para contener la subida del nivel del mar",
+   "description": "Catorce años después del huracán Sandy, Nueva York eleva hasta tres metros el East River Park y construye muros y compuertas ocultas para proteger a más de 110.000 residentes, con una inversión de 2000 millones de dólares. La ONU advierte de que 770 millones de personas viven a m",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542118",
+   "date": "2026-10-31T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
    "type": "Oficial"
   },
   {
@@ -2260,6 +2490,26 @@
    "date": "2026-10-30T12:54:17+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
+  },
+  {
+   "id": "d93633cc86e0",
+   "source": "Naciones Unidas",
+   "title": "Gaza, Colombia, VIH, refugiados… Las noticias del viernes",
+   "description": "Gaza: la expansión de las posiciones israelíes aumenta el temor a una limpieza étnica. El Consejo de Seguridad prorroga un año más la misión de verificación de la ONU en Colombia. Barbados elimina la transmisión del VIH de madre a hijo. Ucrania, Siria, Líbano, Afganistán: ACNUR s",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542127",
+   "date": "2026-10-30T12:00:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Oficial"
+  },
+  {
+   "id": "3079a5233b23",
+   "source": "Naciones Unidas",
+   "title": "Gaza: la expansión de las posiciones israelíes reaviva los temores de una \"limpieza étnica\"",
+   "description": "Israel pretende ampliar su despliegue militar al 70 % del territorio de Gaza, mientras empuja a los palestinos hacia zonas cada vez más pequeñas y ataca campamentos de desplazados, denuncia ONU Derechos Humanos.",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542126",
+   "date": "2026-10-30T12:00:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Oficial"
   },
   {
    "id": "487d63068d64",
@@ -2290,6 +2540,56 @@
    "date": "2026-10-29T12:36:43+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
+  },
+  {
+   "id": "5dd86bd75429",
+   "source": "Naciones Unidas",
+   "title": "La naturaleza está resurgiendo, pero la financiación para restaurarla debe cuadruplicarse",
+   "description": "No todo es destrucción. Unos 252 millones de hectáreas en 149 países —una superficie del tamaño de Kazajistán— están en restauración, y se han creado más de un millón de empleos verdes, pero la financiación anual debe cuadruplicarse, de 64.000 a 296.000 millones de dólares, para ",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542123",
+   "date": "2026-10-29T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "2a5f30b1dd02",
+   "source": "Naciones Unidas",
+   "title": "Trabajo de cuidados, seguridad marítima, restauración de la naturaleza, contaminación… Las noticias del jueves",
+   "description": "Crece la demanda de cuidados de larga duración en América, al tiempo que la población envejece. Las nuevas tecnologías plantean oportunidades y riesgos para la seguridad marítima, advierte la ONU. La naturaleza se recupera, pero la financiación para restaurarla debe cuadruplicars",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542122",
+   "date": "2026-10-29T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "eb39f68d9424",
+   "source": "Naciones Unidas",
+   "title": "En el mar, la IA trastoca las reglas de la guerra",
+   "description": "\"El arma decisiva de la próxima década no será un misil hipersónico, será el algoritmo\", advierte el periodista Fareed Zakaria ante el Consejo de Seguridad. El diagnóstico supera con creces los desafíos militares. Más del 90 % del comercio mundial de mercancías transita por los m",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542121",
+   "date": "2026-10-29T12:00:00+00:00",
+   "category": "Conflictos armados y seguridad internacional",
+   "type": "Oficial"
+  },
+  {
+   "id": "33f024b5b622",
+   "source": "Naciones Unidas",
+   "title": "Haití: la inseguridad alimentaria en camino de alcanzar niveles récord",
+   "description": "Haití se enfrenta a una inseguridad alimentaria récord: 6,35 millones de personas en situación de crisis o emergencia entre marzo y junio de 2027, medio millón más que en el mismo período del año anterior, y casi dos millones en nivel de \"urgencia\". La ONU necesita 78 millones de",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542120",
+   "date": "2026-10-29T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "f3206b98c8dd",
+   "source": "Naciones Unidas",
+   "title": "Crece la demanda de cuidados de larga duración en América, al tiempo que la población envejece",
+   "description": "Para 2050, 306 millones de personas en las Américas tendrán 60 años o más, pero solo 15 de los 35 Estados cuentan con un sistema formal y públicamente financiado de cuidados de larga duración, pese a que el 88 % de los países ha incluido el tema en su legislación.",
+   "url": "https://news.un.org/feed/view/es/story/2026/10/1542119",
+   "date": "2026-10-29T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
   },
   {
    "id": "a171bd9fbe8a",
