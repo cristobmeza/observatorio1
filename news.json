@@ -1,6 +1,236 @@
 {
- "updated": "2026-11-11T15:44:27.356049+00:00",
+ "updated": "2026-11-11T16:49:30.584901+00:00",
  "items": [
+  {
+   "id": "9f750386a028",
+   "source": "Ex-Ante",
+   "title": "La recuperación que necesita el Presupuesto",
+   "description": "El desafío de 2027 no será solamente recuperar el crecimiento, sino asegurar que las cuentas públicas puedan sostener su trayectoria incluso si los resultados económicos…",
+   "url": "https://www.ex-ante.cl/afteroffice/recuperacion-necesita-el-presupuesto/",
+   "date": "2026-11-11T16:41:27+00:00",
+   "category": "Finanzas públicas",
+   "type": "Prensa"
+  },
+  {
+   "id": "b3584329e893",
+   "source": "Río en Línea",
+   "title": "Gobierno descarta falta de combustible en Los Ríos y advierte posibles retrasos en su distribución",
+   "description": "El Gobierno descartó un eventual desabastecimiento de combustibles en la Región de Los Ríos, pese a las movilizaciones de camioneros que se mantienen en tres puntos de la zona por el paro nacional de transportistas. No obstante, advirtió que podrían registrarse algunos retrasos e",
+   "url": "https://www.rioenlinea.cl/gobierno-descarta-falta-de-combustible-en-los-rios-y-advierte-posibles-retrasos-en-su-distribucion/",
+   "date": "2026-11-11T16:31:09+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "4708c22930c5",
+   "source": "The Guardian",
+   "title": "Morgan McSweeney calls for rethink of UK cabinet ministers’ ‘quasi-judicial’ powers",
+   "description": "Keir Starmer’s former chief of staff also says the ‘thicket of rules’ about how PMs operate should be cleared away Keir Starmer’s former chief of staff, Morgan McSweeney, has called for a rethink of “quasi-judicial” powers given to cabinet ministers such as the energy secretary’s",
+   "url": "https://www.theguardian.com/politics/2026/nov/11/morgan-mcsweeney-calls-for-rethink-of-cabinet-ministers-quasi-judicial-powers",
+   "date": "2026-11-11T16:25:37+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "ab57759d5c49",
+   "source": "Radio Cooperativa",
+   "title": "Mosa dijo que Leandro Hernández deberá pagar auto que chocó y será citado a reunión",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Aníbal Mosa, presidente de Blanco y Negro , anunció que la dirigencia de Colo Colo sostendrá una reunión con Leandro Hernández para abordar las consecuencias del accidente de tránsito que protagonizó en estado de ebriedad y",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-dijo-que-leandro-hernandez-debera-pagar-auto-que-choco-y-sera/2026-11-11/132422.html",
+   "date": "2026-11-11T16:24:22+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "6f98a1ec3e0f",
+   "source": "Radio Cooperativa",
+   "title": "Unión San Felipe reprochó dichos de director deportivo de Puerto Montt: \"Es trampa y deslealtad\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Un verdadero polvorín se desató en la recta final de la Liga de Ascenso luego de que Unión San Felipe emitiera una incendiaria declaración pública en respuesta directa al director deportivo de Deportes Puerto Montt, Pablo S",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/union-san-felipe-reprocho-dichos-de-director-deportivo-de-puerto-montt/2026-11-11/132208.html",
+   "date": "2026-11-11T16:22:08+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "329261cda2ba",
+   "source": "The Guardian",
+   "title": "Chancellor confident budget will lead to growth despite OBR not finding evidence to prove it – UK politics live",
+   "description": "The OBR normally only includes growth measures in their scorecard if they will increase growth by at least 0.1% of GDP Here are some more comments on the report for the Casey commission released today looking at how social care is run in England. (See 9.56am .) This is from Natas",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
+   "date": "2026-11-11T16:20:23+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "2af97d5b4d44",
+   "source": "Al Jazeera",
+   "title": "‘It’s just too expensive’: Housing and wages at the heart of Spain’s strike",
+   "description": "Mass walkout across several cities marks first general strike in 14 years.",
+   "url": "https://www.aljazeera.com/news/2026/11/11/its-just-too-expensive-housing-and-wages-at-the-heart-of-spains-strike?traffic_source=rss",
+   "date": "2026-11-11T16:20:13+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "328c95531b6e",
+   "source": "France 24",
+   "title": "Finaliza ronda de negociaciones entre Ucrania y Rusia en Abu dabi: ¿hubo avances?",
+   "description": "Las negociaciones entre Kiev y Moscú, celebradas en Abu Dabi con la mediación de Washington, concluyeron con varios avances destacados. Entre ellos figura un nuevo intercambio masivo de prisioneros entre Ucrania y Rusia, así como la creación de grupos de trabajo para estudiar un ",
+   "url": "https://www.france24.com/es/video/20261111-finaliza-ronda-de-negociaciones-entre-ucrania-y-rusia-en-abu-dabi-hubo-avances",
+   "date": "2026-11-11T16:14:26+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "a8d2b9dfedaf",
+   "source": "Radio Cooperativa",
+   "title": "León XIV se despidió de Argentina: \"Me he sentido como en casa\"",
+   "description": "\"Gracias por recibirme con tanto cariño, me he sentido como en casa\", así se despidió este miércoles León XIV de Argentina tras celebrar una misa ante dos millones de fieles en el santuario de Nuestra Señora de Luján. \"Queridos hermanos y hermanas: doy gracias a Dios por lo vivid",
+   "url": "https://www.cooperativa.cl/noticias/mundo/vaticano/papa-leon-xiv/leon-xiv-se-despidio-de-argentina-me-he-sentido-como-en-casa/2026-11-11/131147.html",
+   "date": "2026-11-11T16:11:47+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "9f0619c84f27",
+   "source": "The Guardian",
+   "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - as it happened",
+   "description": "This blog is now closed Separately, I am also keeping an eye on Italy, with reports that several schools are being evacuated after receiving bomb threats by emails. According to Rai and Sky TG24 , the email was signed by “Mikhail Andropov” – the same name used in several hoax bom",
+   "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+   "date": "2026-11-11T16:08:20+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "312ca3c280b6",
+   "source": "France 24",
+   "title": "España afronta una huelga general por la crisis de vivienda y la pérdida de poder adquisitivo",
+   "description": "Los sindicatos españoles convocaron una huelga general para exigir medidas frente al encarecimiento de la vivienda y el deterioro del poder adquisitivo, en la primera movilización de este tipo desde 2012. Las protestas, con bloqueos y piquetes en varias ciudades, coinciden con un",
+   "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261111-espa%C3%B1a-afronta-una-huelga-general-por-la-crisis-de-vivienda-y-la-p%C3%A9rdida-de-poder-adquisitivo",
+   "date": "2026-11-11T16:07:42+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "bad25af0fbaa",
+   "source": "The Guardian",
+   "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
+   "description": "Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans Britain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a Dominium maris Britannici , Argentina has told an",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
+   "date": "2026-11-11T16:05:45+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "8df40788276d",
+   "source": "The Guardian",
+   "title": "Labour MPs warn against weakening electric vehicle targets ahead of crunch talks",
+   "description": "Exclusive: Cutting 2030 goal would be a ‘step backwards’, say MPs, as ministers clash over proposed reductions UK politics live – latest updates Cop31 live – latest updates Labour MPs are urging the government not to weaken its electric vehicle targets as divided cabinet minister",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/11/labour-mps-electric-vehicle-targets",
+   "date": "2026-11-11T16:01:41+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "396790c83562",
+   "source": "The Guardian",
+   "title": "BMI alternative for identifying obesity ‘could prevent misdiagnosis in millions’",
+   "description": "Combining body mass index with other measurements and tests would lead to better care and outcomes, experts say An alternative to BMI for diagnosing obesity could prevent misdiagnosis in millions of people worldwide, according to doctors who found it more accurately distinguished",
+   "url": "https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index",
+   "date": "2026-11-11T16:00:53+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e62bb6c36e64",
+   "source": "Deutsche Welle",
+   "title": "UEFA prepara rival para Infantino: Blatter agita a la FIFA",
+   "description": "El antiguo presidente de la FIFA arremete contra su sucesor y adelanta que la UEFA ofrecerá un frente común. Wenger o Coe, posibles candidatos.",
+   "url": "https://www.dw.com/es/uefa-prepara-rival-para-infantino-blatter-agita-a-la-fifa/a-79922383?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-11T16:00:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "1b592bea866b",
+   "source": "The Guardian",
+   "title": "Hoax bomb threats made to hundreds of schools in Scotland and Northern Ireland",
+   "description": "Police assure parents and teachers that warnings were bogus despite pupils being evacuated from some sites Hundreds of schools in Scotland and Northern Ireland were hit by a fresh wave of hoax bomb threats on Wednesday, with some sites evacuated as a precaution. Police said at le",
+   "url": "https://www.theguardian.com/education/2026/nov/11/bomb-threats-hoax-schools-scotland-northern-ireland",
+   "date": "2026-11-11T15:58:39+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "060ea176e0fb",
+   "source": "Al Jazeera",
+   "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
+   "description": "Lebanese wheat production hit by war as farmlands face severe destruction in the south and Bekaa Valley.",
+   "url": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
+   "date": "2026-11-11T15:48:39+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "45e006e5dd85",
+   "source": "Al Jazeera",
+   "title": "Russia bans two French lawmakers, two journalists in tit-for-tat move",
+   "description": "Kremlin spokeswoman says ban responds to the expulsion of a Russian commentator who used to head RT France.",
+   "url": "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move?traffic_source=rss",
+   "date": "2026-11-11T15:47:37+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "208434e4db6c",
+   "source": "The Guardian",
+   "title": "Is the US blue wave a turning point for Europe, too?",
+   "description": "Far-right populists remain insurgent and pro-EU governments are braced for Trump’s betrayal. But the midterms also showed that democracy can fight back • Don’t get This Is Europe delivered to your inbox? Sign up here “Is Maga dead?” asked Margaret, a Guardian reader in Switzerlan",
+   "url": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too",
+   "date": "2026-11-11T15:40:52+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "5317b6881083",
+   "source": "Al Jazeera",
+   "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
+   "description": "The government is defiant and planning for the worst, but a US siege is expected to make most Iranians poorer.",
+   "url": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
+   "date": "2026-11-11T15:40:17+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "fae181afd8b5",
+   "source": "Radio Cooperativa",
+   "title": "Gobierno retiró proyecto que fijaba tope de $20 en alzas del combustible",
+   "description": "A 24 horas de haberlo ingresado, el Gobierno de José Antonio Kast retiró de manera transitoria el proyecto que fijaba un tope de $20 en alzas del combustible . De acuerdo a información preliminar, la iniciativa fue retirada por solicitud del Ministerio de Hacienda para realizarle",
+   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/gobierno-retiro-proyecto-que-fijaba-tope-de-20-en-alzas-del-combustible/2026-11-11/123630.html",
+   "date": "2026-11-11T15:36:30+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "2f6c7983c0ee",
+   "source": "Radio Cooperativa",
+   "title": "Universidad de Chile recibió citación al Tribunal de Disciplina de la ANFP",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Universidad de Chile fue citada a comparecer ante el Tribunal Autónomo de Disciplina de la ANFP el próximo miércoles 18 de noviembre, según las resoluciones adoptadas en la audiencia número 41, celebrada el martes. La convo",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/universidad-de-chile-recibio-citacion-al-tribunal-de-disciplina-de-la/2026-11-11/123545.html",
+   "date": "2026-11-11T15:35:45+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "61f7e1ad31ed",
+   "source": "Radio Cooperativa",
+   "title": "Tribunal ratificó suspensión de jugador de la UC para el clásico con Colo Colo",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El Tribunal Autónomo de Disciplina de la ANFP ratificó una suspensión que afectará a Universidad Católica en el clásico frente a Colo Colo , programado para el domingo 22 de noviembre en el Estadio Monumental, por la fecha ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/tribunal-ratifico-suspension-de-jugador-de-la-uc-para-el-clasico-con/2026-11-11/123533.html",
+   "date": "2026-11-11T15:35:33+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
   {
    "id": "131b267623cb",
    "source": "Radio Cooperativa",
@@ -9,6 +239,26 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/anfp-designo-a-los-arbitros-que-impartiran-justicia-en-la-final-de-la/2026-11-11/123456.html",
    "date": "2026-11-11T15:34:56+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "92a776ba16bf",
+   "source": "Al Jazeera",
+   "title": "Kenya discharges last Ebola patient, awaits disease-free status",
+   "description": "Health Minister Aden Duale says Kenya will continue to exercise prevention measures until December 23.",
+   "url": "https://www.aljazeera.com/news/2026/11/11/kenya-discharges-last-ebola-patient?traffic_source=rss",
+   "date": "2026-11-11T15:34:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e2ab6e229898",
+   "source": "Al Jazeera",
+   "title": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
+   "description": "A deliberate expansion of Iran’s campaign of retaliation beyond the Middle East could be taking place, said an expert.",
+   "url": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss",
+   "date": "2026-11-11T15:33:38+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -32,13 +282,13 @@
    "type": "Prensa"
   },
   {
-   "id": "329261cda2ba",
-   "source": "The Guardian",
-   "title": "Burnham indicates backing for ‘black English’ and ‘Asian English’ census options – UK politics live",
-   "description": "PM, in response to Ed Davey at PMQs, says measures could help address ‘poisonous politics’ Here are some more comments on the report for the Casey commission released today looking at how social care is run in England. (See 9.56am .) This is from Natasha Curry, deputy director of",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
-   "date": "2026-11-11T15:26:56+00:00",
-   "category": "China y Asia",
+   "id": "6e1111935c4c",
+   "source": "Radio Cooperativa",
+   "title": "Diana Bolocco y José Miguel Viñuela serán animadores del Festival de Olmué 2027",
+   "description": "Este miércoles se oficializó que Diana Bolocco estará a cargo de la conducción del próximo Festival del Huaso de Olmué , confirmándose que será acompañada por José Miguel Viñuela en la animación. Los rostros de Chilevisión animarán la edición 2027 del tradicional evento en su nue",
+   "url": "https://www.cooperativa.cl/noticias/magazine/festivales/olmue/diana-bolocco-y-jose-miguel-vinuela-seran-animadores-del-festival-de/2026-11-11/122245.html",
+   "date": "2026-11-11T15:22:45+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -72,6 +322,16 @@
    "type": "Prensa"
   },
   {
+   "id": "c472b3c5b22e",
+   "source": "Al Jazeera",
+   "title": "Inside the fight against Denmark’s ‘straight up racist’ housing law",
+   "description": "Residents say Denmark’s ‘ghetto law’ is breaking up strong communities, as the Supreme Court prepares to rule.",
+   "url": "https://www.aljazeera.com/features/2026/11/11/they-see-me-as-non-western-top-court-to-rule-on-denmarks-housing-law?traffic_source=rss",
+   "date": "2026-11-11T15:15:10+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
    "id": "8666a6a4aa42",
    "source": "France 24",
    "title": "De la abundancia a la bancarrota: auge y caída de LIV Golf",
@@ -92,13 +352,13 @@
    "type": "Prensa"
   },
   {
-   "id": "9f0619c84f27",
-   "source": "The Guardian",
-   "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
-   "description": "US negotiators to meet Putin in Moscow, Zelenskyy in Dublin next Separately, I am also keeping an eye on Italy, with reports that several schools are being evacuated after receiving bomb threats by emails. According to Rai and Sky TG24 , the email was signed by “Mikhail Andropov”",
-   "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
-   "date": "2026-11-11T15:12:08+00:00",
-   "category": "Rusia y espacio postsoviético",
+   "id": "82ee07d6476a",
+   "source": "Radio Cooperativa",
+   "title": "Gobierno entregó al Congreso los decretos de rebaja de condena",
+   "description": "El Ministerio de Justicia entregó este miércoles a la Comisión de Constitución del Senado los decretos que redujeron las penas de personas condenadas por abuso sexual o violación de menores de edad. Un funcionario de la cartera entregó los documentos a la secretaría de la comisió",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/gobierno-entrego-al-congreso-los-decretos-de-rebaja-de-condena/2026-11-11/121235.html",
+   "date": "2026-11-11T15:12:35+00:00",
+   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -112,16 +372,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2bb9e5a54dda",
-   "source": "Radio Cooperativa",
-   "title": "Cómo organizar un dormitorio pequeño y aprovechar mejor sus muebles",
-   "description": "Abrir un cajón sin golpear la cama, encontrar la ropa que buscas y llegar al clóset sin mover una silla son pequeñas pruebas de que un dormitorio funciona. Cuando el espacio es limitado, esas acciones cotidianas ayudan a decidir qué muebles necesitas y dónde conviene ubicarlos. L",
-   "url": "https://www.cooperativa.cl/noticias/corporativo/noticias/marcas-negocios/como-organizar-un-dormitorio-pequeno-y-aprovechar-mejor-sus-muebles/2026-11-11/120749.html",
-   "date": "2026-11-11T15:07:49+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "8c83faa73559",
    "source": "Radio Cooperativa",
    "title": "Diputado de Evópoli calificó de \"premio de consuelo\" el nombramiento de Steinert en Paraguay",
@@ -132,13 +382,13 @@
    "type": "Prensa"
   },
   {
-   "id": "e49e62cf20a0",
-   "source": "Río en Línea",
-   "title": "Camioneros se movilizan en tres puntos de la Región de Los Ríos por paro nacional",
-   "description": "Las movilizaciones de gremios transportistas por el alza de los combustibles también se hicieron sentir este miércoles en la Región de Los Ríos, con la presencia de camioneros en tres puntos de la zona, en el marco del paro nacional. De acuerdo con información entregada por Carab",
-   "url": "https://www.rioenlinea.cl/camioneros-se-movilizan-en-tres-puntos-de-la-region-de-los-rios-por-paro-nacional/",
-   "date": "2026-11-11T15:00:27+00:00",
-   "category": "Regiones (Los Ríos)",
+   "id": "3fa530bd9898",
+   "source": "Radio Cooperativa",
+   "title": "\"Emily en París\" se despide en el tráiler de su temporada final",
+   "description": "Es hora de decir \"adieu\" porque la aventura europea llega a su fin en la sexta y última temporada de \"Emily en París\" , cuyo tráiler confirmó su estreno para el próximo 24 de diciembre en Netflix . Lily Collins se despide de su personaje desde Grecia , donde \"Emily Cooper\", al ad",
+   "url": "https://www.cooperativa.cl/noticias/magazine/streaming/emily-en-paris-se-despide-en-el-trailer-de-su-temporada-final/2026-11-11/120557.html",
+   "date": "2026-11-11T15:05:57+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -162,16 +412,6 @@
    "type": "Prensa"
   },
   {
-   "id": "371e494d7ea6",
-   "source": "The Guardian",
-   "title": "ITV to cut show budgets as UK TV and film production spend drops by more than £2bn",
-   "description": "Broadcaster plans to make £30m in ‘temporary’ savings before inquiry into takeover by Sky Business live – latest updates ITV plans to slash its programming budget as new figures showed that spend on the production of films and prestige TV shows in the UK is down more than £2bn ov",
-   "url": "https://www.theguardian.com/business/2026/nov/11/itv-cut-costs-falling-advertising-sales",
-   "date": "2026-11-11T14:57:38+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "7cf49b17ca84",
    "source": "BBC Mundo",
    "title": "\"El capitalismo ya trataba mal a las personas; lo que ha cambiado ahora es que esa lógica se ha adoptado (…) en discursos sobre liderazgo\"",
@@ -182,26 +422,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d6daa2e9b96f",
-   "source": "Radio Cooperativa",
-   "title": "Sebastián Arancibia será operado por lesión sufrida en el clásico universitario",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes A través de sus canales oficiales, Universidad Católica comunicó que el lateral derecho Sebastián Arancibia deberá ser intervenido quirúrgicamente este jueves 12 de noviembre producto de la grave lesión que sufrió durante e",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/sebastian-arancibia-sera-operado-por-lesion-sufrida-en-el-clasico/2026-11-11/115231.html",
-   "date": "2026-11-11T14:52:31+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "d4f1d2d71bf6",
-   "source": "The Guardian",
-   "title": "Burnham signals support for bill to make ‘Black English’ and ‘Asian English’ census options",
-   "description": "PM welcomes cross-party push to reject ethnic basis for Englishness promoted by Reform UK politicians UK politics live – latest updates Andy Burnham has said he is likely to support a bill tabled by a Liberal Democrat MP that would allow people to define themselves as both black ",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/11/andy-burnham-black-english-asian-english-census-bill-ethnicity",
-   "date": "2026-11-11T14:50:15+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "c57c4e2f6117",
    "source": "BBC Mundo",
    "title": "Qué ventajas tienen los niños que tienen amigos imaginarios",
@@ -209,26 +429,6 @@
    "url": "https://www.bbc.com/mundo/articles/c6vg2d59k45ko?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-11T14:50:03+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "12656e00d988",
-   "source": "Radio Cooperativa",
-   "title": "Alcalde Luksic: Si teleférico no se integra a transporte público va a ser solo turístico",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/transportes/alcalde-luksic-si-teleferico-no-se-integra-a-transporte-publico-va-a/2026-11-11/114858.html",
-   "date": "2026-11-11T14:48:58+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "d624490b7637",
-   "source": "Radio Cooperativa",
-   "title": "Martínez pide suspender la megarreforma ante el alza de los combustibles",
-   "description": "La secretaria general del Frente Amplio, Constanza Martínez , pidió este miércoles en El Primer Café de Cooperativa que el Gobierno suspenda la megarreforma para contar con recursos fiscales que permitan amortiguar el alza de los combustibles. A juicio de la dirigenta, el proyect",
-   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/martinez-pide-suspender-la-megarreforma-ante-el-alza-de-los-combustibles/2026-11-11/114423.html",
-   "date": "2026-11-11T14:44:23+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -245,7 +445,7 @@
    "id": "692ecc1ead91",
    "source": "Radio Cooperativa",
    "title": "Festival de Olmué 2027 completó su parrilla: Esta es la programación por día",
-   "description": "Chilevisión y la productora Bizarro presentaron este miércoles la parrilla de artistas y humoristas para el próximo Festival del Huaso de Olmué . En su nueva casa televisiva , el evento se llevará a cabo entre el jueves 14 y el domingo 17 de enero en el tradicional escenario de E",
+   "description": "Chilevisión y la productora Bizarro presentaron este miércoles la parrilla de artistas y humoristas para el próximo Festival del Huaso de Olmué . En su nueva casa televisiva , el evento conducido por Diana Bolocco y José Miguel Viñuela se llevará a cabo entre el jueves 14 y el do",
    "url": "https://www.cooperativa.cl/noticias/magazine/festivales/olmue/festival-de-olmue-2027-completo-su-parrilla-esta-es-la-programacion-por/2026-11-11/114353.html",
    "date": "2026-11-11T14:43:53+00:00",
    "category": "",
@@ -272,16 +472,6 @@
    "type": "Prensa"
   },
   {
-   "id": "93157cf998f7",
-   "source": "Radio Cooperativa",
-   "title": "Kast por paro de transportistas: Si alguien quiere más inversión en Chile, debe permitir el libre tránsito",
-   "description": "En medio de manifestaciones a nivel nacional , el Presidente José Antonio Kast llamó, sin referenciarlos directamente, a los camioneros a \"permitir el libre tránsito\" en las carreteras, asegurando que de esta manera habrá \"más inversión en Chile\". En una actividad de Amazon, el M",
-   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-por-paro-de-transportistas-si-alguien-quiere-mas-inversion-en/2026-11-11/113454.html",
-   "date": "2026-11-11T14:34:54+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "5286d76ebcf8",
    "source": "France 24",
    "title": "León XIV y su huella en Perú: sus amigos, su ahijada y su labor social en Chiclayo",
@@ -302,16 +492,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e383216ae457",
-   "source": "The Guardian",
-   "title": "Consultant doctors in England call off two-day pay strike",
-   "description": "Action on 25 and 26 November suspended to allow for formal negotations with the government UK politics live – latest updates Consultant doctors in England have decided to pause their two days of strike action at the end of the month. Scheduled for 25 and 26 November, the action w",
-   "url": "https://www.theguardian.com/society/2026/nov/11/consultant-doctors-in-england-call-off-nhs-strike",
-   "date": "2026-11-11T14:33:44+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "074cca6c8352",
    "source": "The Guardian",
    "title": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial",
@@ -322,16 +502,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9911e765c9dc",
-   "source": "Radio Cooperativa",
-   "title": "La Roja sumó su segunda baja en defensa y Nicolás Córdova sorprendió nominando a zaguero sub 20",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Un sensible dolor de cabeza sumó la selección chilena en la previa de su doble desafío amistoso frente a Colombia en esta fecha FIFA de noviembre luego de que el zaguero Paulo Díaz fuera liberado de la concentración del com",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-sumo-su-segunda-baja-en-defensa-y-nicolas-cordova-sorprendio/2026-11-11/112506.html",
-   "date": "2026-11-11T14:25:06+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "511a6a85511c",
    "source": "France 24",
    "title": "Enviados estadounidenses se reunirán con Putin en Moscú y con Zelenski en Dublín tras las conversaciones en Abu Dabi",
@@ -339,16 +509,6 @@
    "url": "https://www.france24.com/es/europa/20261111-enviados-estadounidenses-se-reunir%C3%A1n-con-putin-en-mosc%C3%BA-y-con-zelenski-en-dubl%C3%ADn-tras-las-conversaciones-en-abu-dabi",
    "date": "2026-11-11T14:24:45+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "33a5538aec49",
-   "source": "The Guardian",
-   "title": "Andy Burnham says government will unveil 10-year plan by mid-December",
-   "description": "Prime minister tells Kemi Badenoch at PMQs that flagship strategy will be revealed before Commons Christmas recess UK politics live – latest updates The government’s 10-year plan will emerge by mid-December, Andy Burnham has told MPs, having previously raised the possibility it m",
-   "url": "https://www.theguardian.com/politics/2026/nov/11/andy-burnham-says-government-will-unveil-10-year-plan-by-mid-december",
-   "date": "2026-11-11T14:17:02+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -399,16 +559,6 @@
    "url": "https://www.aljazeera.com/features/2026/11/11/as-gaza-flood-waters-subside-palestinians-assess-human-and-material-damage?traffic_source=rss",
    "date": "2026-11-11T14:04:17+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "fc7cacfafa41",
-   "source": "Radio Cooperativa",
-   "title": "Hurto de energía eléctrica: más de 2.500 denuncias y 171 imputados en dos años",
-   "description": "Entre 2025 y 2026 se han presentado 2.543 denuncias por hurto de energía eléctrica a nivel nacional, según datos de la distribuidora CGE, que junto a la empresa ALTO ha impulsado acciones legales que a la fecha suman 171 personas imputadas y sentencias condenatorias en distintos ",
-   "url": "https://www.cooperativa.cl/noticias/corporativo/especiales/cge-presenta/hurto-de-energia-electrica-mas-de-2-500-denuncias-y-171-imputados-en/2026-11-11/110402.html",
-   "date": "2026-11-11T14:04:02+00:00",
-   "category": "Empresas y mercados",
    "type": "Prensa"
   },
   {
@@ -469,16 +619,6 @@
    "url": "https://www.aljazeera.com/sports/2026/11/11/why-is-pochettino-the-favourite-to-replace-carrick-at-manchester-united?traffic_source=rss",
    "date": "2026-11-11T13:56:53+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "9a0f3dce3718",
-   "source": "Radio Cooperativa",
-   "title": "Krauss cuestionó el llamado de Kast a los camioneros a \"pensar en Chile\"",
-   "description": "La secretaria nacional de la Democracia Cristiana, Alejandra Krauss , cuestionó este miércoles en El Primer Café de Cooperativa el llamado del Presidente José Antonio Kast a los camioneros a \"pensar en Chile\" en medio del paro por el alza de los combustibles. Al explicar por qué ",
-   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/krauss-cuestiono-el-llamado-de-kast-a-los-camioneros-a-pensar-en-chile/2026-11-11/105640.html",
-   "date": "2026-11-11T13:56:40+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -602,16 +742,6 @@
    "type": "Prensa"
   },
   {
-   "id": "00b853c36ba6",
-   "source": "Al Jazeera",
-   "title": "Trump ‘Foot Soldier’ statue mocks his Vietnam draft deferment",
-   "description": "An anonymous art collective called Secret Handshake has installed a golden statue of US President Donald Trump.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/trump-foot-soldier-statue-mocks-his-vietnam-draft-deferment?traffic_source=rss",
-   "date": "2026-11-11T13:20:49+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "76c2cb12dbbc",
    "source": "France 24",
    "title": "Huelga general en España: ¿cuáles son las exigencias detrás de las masivas movilizaciones?",
@@ -669,16 +799,6 @@
    "url": "https://www.dw.com/es/el-gobierno-alemán-aprueba-la-creación-de-una-reserva-nacional-de-gas/a-79919507?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-11T13:14:00+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "6e478325e5ff",
-   "source": "The Guardian",
-   "title": "Nissan reduces petrol car production as EV sales boom in China",
-   "description": "Manufacturer says ‘shift to new energy vehicles is happening faster than expected’ and market is harsh Business live – latest updates The Japanese carmaker Nissan has said it has been caught out by accelerating sales of electric and hybrid cars in China amid a brutal price war in",
-   "url": "https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china",
-   "date": "2026-11-11T13:11:58+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -832,72 +952,12 @@
    "type": "Prensa"
   },
   {
-   "id": "8b7170602a7f",
-   "source": "Radio Cooperativa",
-   "title": "Segundo día: Paro de camioneros genera corte total en algunos puntos",
-   "description": "Con la participación de más camiones y buses , y expectación por la eventual adhesión de otros gremios comenzó este miércoles la segunda jornada del paro de los transportistas de carga , que genera gran congestión vehicular en varios puntos del país. En la Región Metropolitana, e",
-   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/segundo-dia-paro-de-camioneros-genera-corte-total-en-algunos-puntos/2026-11-11/075430.html",
-   "date": "2026-11-11T10:54:30+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "087e4bdd9e2b",
    "source": "BBC Mundo",
    "title": "Por fin hay un tratamiento para la demencia de mi hijo de 5 años, pero tiene un costo de US$4 millones",
    "description": "El tratamiento para la demencia infantil está disponible en Estados Unidos, pero su costo es demasiado elevado para quien no vive allí.",
    "url": "https://www.bbc.com/mundo/articles/cxzd6dej1328o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-11T10:46:15+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "c4d728a7dda8",
-   "source": "Al Jazeera",
-   "title": "Did Democrats save Pete Hegseth from impeachment?",
-   "description": "Eleven Democrats are absent from procedural vote that narrowly shelves House impeachment vote against defence secretary.",
-   "url": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss",
-   "date": "2026-11-11T10:32:03+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "ec448896bb36",
-   "source": "Al Jazeera",
-   "title": "AI boom or bubble?",
-   "description": "A tech sell-off has raised questions about AI spending and the risks to jobs and growth across the global economy.",
-   "url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/11/ai-boom-or-bubble?traffic_source=rss",
-   "date": "2026-11-11T10:31:24+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "ff8e97542ed6",
-   "source": "Al Jazeera",
-   "title": "What’s the Falklands oil project at the heart of latest UK-Argentina spat?",
-   "description": "UK says it will defend its interests at tribunal hearing, as Argentina seeks measures to block the offshore project.",
-   "url": "https://www.aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat?traffic_source=rss",
-   "date": "2026-11-11T10:28:12+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "4cc0b1d1b8c6",
-   "source": "Al Jazeera",
-   "title": "Workers across Spain stage first general strike in 14 years",
-   "description": "Strike disrupts public transport and industries amid demands for housing reform ahead of November 29 elections.",
-   "url": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
-   "date": "2026-11-11T10:18:28+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "763d07074fbf",
-   "source": "Al Jazeera",
-   "title": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
-   "description": "Iran is said to have geo-located Bessent's $12.5m mansion in Washington, DC after a photo of it was published.",
-   "url": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
-   "date": "2026-11-11T10:16:38+00:00",
    "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
@@ -909,16 +969,6 @@
    "url": "https://www.theguardian.com/australia-news/2026/nov/11/one-nation-candidate-apologises-offensive-comments-ntwnfb",
    "date": "2026-11-11T10:12:42+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "3a62856b77c0",
-   "source": "Al Jazeera",
-   "title": "Gaza’s infrastructure collapse leaves residents defenceless against floods",
-   "description": "Winter weather has continued to wreak havoc in Gaza, with flooding and strong winds.",
-   "url": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss",
-   "date": "2026-11-11T10:12:37+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1059,26 +1109,6 @@
    "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/11/camioneros-y-colectiveros-de-san-antonio-se-suman-a-paro-e-interrumpen-ruta-78-en-region-de-valparaiso.shtml",
    "date": "2026-11-11T04:03:40+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "4d3ae67391e9",
-   "source": "France 24",
-   "title": "De los “ataques cinéticos” y Venezuela a la guerra en Irán: los momentos que acorralaron a Hegseth",
-   "description": "El polémico secretario de Defensa de Estados Unidos se enfrentó a la perspectiva de ser el primero en su cargo objeto de un juicio político desde 1876. Su conducción del Pentágono ha incluido desde una purga “antiwoke” hasta la disposición a transmitir una ejecución en línea, pas",
-   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261111-de-los-ataques-cin%C3%A9ticos-a-la-guerra-en-ir%C3%A1n-los-momentos-que-acorralaron-a-hegseth",
-   "date": "2026-11-11T03:32:28+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "2050f1d92fb7",
-   "source": "France 24",
-   "title": "El diésel acorrala también a Latinoamérica: transportistas chilenos ponen presión al presidente Kast",
-   "description": "Una parte del gremio de camioneros de Chile protagoniza una paralización en sus actividades para llamar la atención por el elevado precio de los combustibles. Luego de un encuentro con representantes del Gobierno chileno, los conductores decidieron mantener la protesta tras no al",
-   "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261111-economia-chile-camiones-paro-diesel",
-   "date": "2026-11-11T03:11:01+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -1542,16 +1572,6 @@
    "type": "Prensa"
   },
   {
-   "id": "40aa809357b4",
-   "source": "Ex-Ante",
-   "title": "Principales constitucionalistas del PS se distancian de AC contra Rabat por falta de fundamentos jurídicos",
-   "description": "Francisco Zúñiga y Gabriel Osorio, los dos principales juristas del PS, no están respaldando la acusación constitucional contra el ministro de Justicia. Luis Cordero también…",
-   "url": "https://www.ex-ante.cl/politica/ac-rabat-pierde-juristas-distancian/",
-   "date": "2026-11-10T17:18:25+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "ad007f8bf04e",
    "source": "Deutsche Welle",
    "title": "Establecen récord Guinness de vuelo humano impulsado por una catapulta",
@@ -2002,16 +2022,6 @@
    "type": "Prensa"
   },
   {
-   "id": "45dddde26eec",
-   "source": "The Guardian",
-   "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
-   "description": "President has opposing views on many issues, and once called Leo’s predecessor the ‘representative of the Evil One’ Trees are being planted in the garden. The brightly coloured buildings are getting another coat of paint. The choir rehearses. Hundreds of other residents, several ",
-   "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
-   "date": "2026-11-08T09:00:35+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "a99c5b98005c",
    "source": "The Guardian",
    "title": "Environmentalists criticise choice of Earthshot prize venue owned by fossil fuel firm",
@@ -2212,6 +2222,16 @@
    "type": "Académica"
   },
   {
+   "id": "8ddb87e218b9",
+   "source": "Organización Mundial del Comercio",
+   "title": "Los Miembros examinan los progresos realizados en la resolución de las preocupaciones comerciales relacionadas con las MSF en la OMC",
+   "description": "En su reunión de los días 4 a 6 de noviembre, el Comité de Medidas Sanitarias y Fitosanitarias (MSF) de la OMC recibió información actualizada sobre la resolución de las preocupaciones comerciales relacionadas con MSF planteadas anteriormente por los Miembros, examinó una lista d",
+   "url": "https://www.wto.org/spanish/news_s/news26_s/sps_04nov26_548_s.htm",
+   "date": "2026-11-04T00:00:00+00:00",
+   "category": "Comercio internacional",
+   "type": "Oficial"
+  },
+  {
    "id": "a0fb7f72dae0",
    "source": "The Guardian",
    "title": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
@@ -2310,16 +2330,6 @@
    "date": "2026-10-29T12:36:43+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "a171bd9fbe8a",
-   "source": "Organización Mundial del Comercio",
-   "title": "Nuevo informe analiza el papel de la cooperación Sur-Sur y triangular para el desarrollo del comercio",
-   "description": "En una publicación conjunta presentada el primer día (29 de octubre) del Décimo Examen Global de la Ayuda para el Comercio por la OMC y la Oficina de las Naciones Unidas para la Cooperación Sur-Sur (UNOSSC) se pone de relieve la importancia creciente del comercio entre las econom",
-   "url": "https://www.wto.org/spanish/news_s/news26_s/devel_29oct26_535_s.htm",
-   "date": "2026-10-29T00:00:00+00:00",
-   "category": "Comercio internacional",
-   "type": "Oficial"
   },
   {
    "id": "598a7805828e",
