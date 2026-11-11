@@ -1,6 +1,156 @@
 {
- "updated": "2026-11-11T22:45:13.691478+00:00",
+ "updated": "2026-11-11T23:43:49.471227+00:00",
  "items": [
+  {
+   "id": "3a265e12af73",
+   "source": "BBC Mundo",
+   "title": "En imágenes: graves disturbios en Barcelona y decenas de detenidos en la primera huelga general en España en 14 años",
+   "description": "Con un seguimiento de la huelga dispar, los españoles protestaron este miércoles por la crisis de la vivienda y el alto costo de la vida en el país europeo.",
+   "url": "https://www.bbc.com/mundo/articles/ckx28e5lj300o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T23:30:52+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "e4ad527e240b",
+   "source": "Río en Línea",
+   "title": "Amtmann y Cuvertino llevan a Kast prioridades regionales: Hospital, doble vía y puente Cochrane",
+   "description": "La adquisición de terrenos para el nuevo Hospital Regional, la doble vía de acceso a Valdivia y el futuro del puente Cochrane fueron algunos de los principales proyectos que la alcaldesa Carla Amtmann y el gobernador regional Luis Cuvertino plantearon al Presidente José Antonio K",
+   "url": "https://www.rioenlinea.cl/amtmann-y-cuvertino-llevan-a-kast-prioridades-regionales-hospital-doble-via-y-puente-cochrane/",
+   "date": "2026-11-11T23:30:34+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "0177fc135dad",
+   "source": "The Guardian",
+   "title": "Hacker claims to have sold VCE exam papers to hundreds of students after government website hack",
+   "description": "With year 12 exams under way, VCAA says there is no evidence any have leaked and hacker is attempting to exploit ‘anxious students’ Get our breaking news email , free app or daily news podcast The Victorian Curriculum and Assessment Authority’s website has been hacked during the ",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/12/vce-exams-hack-year-12-papers-vcaa-victorian-curriculum-and-assessment-authority",
+   "date": "2026-11-11T23:28:17+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e9dc25c12011",
+   "source": "Radio Cooperativa",
+   "title": "Colo Colo espera millones: Montevideo City quiere comprar el pase de Salomón Rodríguez",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-espera-millones-montevideo-city-quiere-comprar-el-pase-de/2026-11-11/202445.html",
+   "date": "2026-11-11T23:24:45+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "5c16eca9028c",
+   "source": "France 24",
+   "title": "¿Misión de rescate o apuesta política de Bukele?: dudas por el despliegue militar de El Salvador en Haití",
+   "description": "A finales de octubre, el presidente de El Salvador, Nayib Bukele, anunció el envío de militares de su país para rescatar a cuatro técnicos de aviación salvadoreños, desaparecidos el 18 de octubre durante una emboscada de pandilleros en Puerto Príncipe. El opaco despliegue de 2.00",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261111-misi%C3%B3n-de-rescate-o-apuesta-pol%C3%ADtica-de-bukele-dudas-por-el-despliegue-militar-de-el-salvador-en-hait%C3%AD",
+   "date": "2026-11-11T23:22:24+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "1c0035b1adf8",
+   "source": "Radio Cooperativa",
+   "title": "Paro camionero: bloqueo en Iquique afecta exportaciones y mantiene cargas bolivianas detenidas",
+   "description": "En la Región de Tarapacá , el paro de transportistas continúa afectando el funcionamiento del puerto de Iquique y el desplazamiento de carga en distintas rutas. Los bloqueos se mantienen en la Ruta 5 , a la altura de Pozo Almonte, y en la Ruta 1 , que conecta Iquique con el Aerop",
+   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/paro-camionero-bloqueo-en-iquique-afecta-exportaciones-y-mantiene/2026-11-11/201809.html",
+   "date": "2026-11-11T23:18:09+00:00",
+   "category": "Comercio internacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "bfc177cd7d5c",
+   "source": "Al Jazeera",
+   "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
+   "description": "The historic victory delivers an eighth US Senate seat to Democrats after last week's pivotal midterm election.",
+   "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
+   "date": "2026-11-11T23:05:34+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2737edba1136",
+   "source": "CIPER Chile",
+   "title": "Gobierno se reúne con camioneros pero el paro continúa; Quiroz reconoce recesión técnica, y Ejecutivo repondrá “Yo elijo mi PC” en presupuesto 2027",
+   "description": "La entrada Gobierno se reúne con camioneros pero el paro continúa; Quiroz reconoce recesión técnica, y Ejecutivo repondrá “Yo elijo mi PC” en presupuesto 2027 se publicó primero en CIPER Chile .",
+   "url": "https://www.ciperchile.cl/2026/11/11/radar-11-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-11-11-26",
+   "date": "2026-11-11T23:00:13+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "51d90268c8b9",
+   "source": "The Guardian",
+   "title": "Human torso found in sofa in Sydney bushland prompts homicide investigation",
+   "description": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man Get our breaking news email , free app or daily news podcast New South Wales police have launched a homicide investigation after a human torso was found in bushl",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
+   "date": "2026-11-11T22:57:33+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "9da7f36b2669",
+   "source": "Al Jazeera",
+   "title": "Israeli strikes hit tent camp as five killed in Gaza",
+   "description": "Tent camp attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.",
+   "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
+   "date": "2026-11-11T22:55:37+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ec6985f12acd",
+   "source": "France 24",
+   "title": "Colapsa un edificio en Nueva York; buscan a personas atrapadas",
+   "description": "Personal de emergencia trabaja este miércoles 11 de noviembre en el lugar del derrumbe parcial de un edificio donde, según informes locales, hay personas atrapadas en el distrito de Brooklyn, en la ciudad de Nueva York.",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261111-colapsa-un-edificio-en-nueva-york-buscan-a-personas-atrapadas",
+   "date": "2026-11-11T22:51:10+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "f9675abf87c4",
+   "source": "The Guardian",
+   "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
+   "description": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt but whose remains were taken to the United States and used in racist ",
+   "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
+   "date": "2026-11-11T22:50:37+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "139950b0c8be",
+   "source": "France 24",
+   "title": "\"El papa vuelve a casa\": Perú está de fiesta por la llegada de León XIV",
+   "description": "El papa León XIV aterriza en Lima y la fiesta se prende en todo Perú. Los fieles católicos celebran por todo lo alto la llegada de Robert Francis Prevost, el primer papa con nacionalidad peruana, que pasó más de veinte años ejerciendo, empezando como misionero, hasta llegar a obi",
+   "url": "https://www.france24.com/es/video/20261111-el-papa-vuelve-a-casa-per%C3%BA-est%C3%A1-de-fiesta-por-la-llegada-de-le%C3%B3n-xiv",
+   "date": "2026-11-11T22:50:02+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "9dfafe40aba8",
+   "source": "Al Jazeera",
+   "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
+   "description": "The move comes months after the government of Javier Milei designated Iran's IRGC as a 'terrorist organisation'.",
+   "url": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
+   "date": "2026-11-11T22:34:43+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "07267e3718e7",
+   "source": "Radio Cooperativa",
+   "title": "Couso no ve mérito para acusación constitucional contra Rabat ni la Corte Suprema",
+   "description": "El abogado constitucionalista Javier Couso (DC) aseguró en Cooperativa que los antecedentes hasta ahora conocidos por la rebaja de condena a pederastas son insuficientes para sustentar la acusación constitucional -anunciada por la oposición- contra el ministro de Justicia , Ferna",
+   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/couso-no-ve-merito-para-acusacion-constitucional-contra-rabat-ni-la/2026-11-11/193429.html",
+   "date": "2026-11-11T22:34:29+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
   {
    "id": "ce5996f87e86",
    "source": "Radio Cooperativa",
@@ -29,6 +179,16 @@
    "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/grandes-gremios-de-camioneros-descartan-sumarse-al-paro-pero-exigen/2026-11-11/191657.html",
    "date": "2026-11-11T22:16:57+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "c91adf92031f",
+   "source": "Radio Cooperativa",
+   "title": "En México aseguraron Alexis Sánchez es una \"posibilidad de mercado\" para Monterrey",
+   "description": "Alexis Sánchez, goleador histórico de La Roja y delantero de CF Montreal en Canadá, volvió a aparecer en la órbita de Monterrey y en México aseguraron los Rayados tienen una gran \"posibilidad de mercado\" para firmar al chileno. El medio Fútbol Total afirmó que Monterrey intentó f",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/alexis-sanchez/en-mexico-aseguraron-alexis-sanchez-es-una-posibilidad-de-mercado-para/2026-11-11/191548.html",
+   "date": "2026-11-11T22:15:48+00:00",
+   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -142,16 +302,6 @@
    "type": "Prensa"
   },
   {
-   "id": "51d90268c8b9",
-   "source": "The Guardian",
-   "title": "Human torso found in sofa in Sydney bushland prompts homicide investigation",
-   "description": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man Get our breaking news email , free app or daily news podcast New South Wales police have launched a homicide investigation after a human torso was found in bushl",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
-   "date": "2026-11-11T21:09:56+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "87a1aa3c6d28",
    "source": "Al Jazeera",
    "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
@@ -262,26 +412,6 @@
    "type": "Prensa"
   },
   {
-   "id": "caed8005ea89",
-   "source": "Radio Cooperativa",
-   "title": "Rapa Nui acogerá gran final del Circuito Nacional de Surf en diciembre",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Rapa Nui será escenario de la gran final del Circuito Nacional de Surf 2026 , que se disputará entre el 2 y el 6 de diciembre en la emblemática ola de Motu Hava. El certamen, denominado Rapa Nui Pro , corresponderá a la sép",
-   "url": "https://www.cooperativa.cl/noticias/deportes/polideportivo/surf/rapa-nui-acogera-gran-final-del-circuito-nacional-de-surf-en-diciembre/2026-11-11/174430.html",
-   "date": "2026-11-11T20:44:30+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "0ebbdc598877",
-   "source": "Radio Cooperativa",
-   "title": "Zidane confirmó que Mbappé será baja en Francia para el duelo con Italia",
-   "description": "Zinédine Zidane, seleccionador de Francia , confirmó este miércoles que Kylian Mbappé no podrá jugar este jueves contra Italia en San Siro, Milán, por la quinta fecha de la Nations League. El delantero del Real Madrid sufre una \"pequeña molestia\", según el seleccionador de los Bl",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-francesa/zidane-confirmo-que-mbappe-sera-baja-en-francia-para-el-duelo-con-italia/2026-11-11/174355.html",
-   "date": "2026-11-11T20:43:55+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "1f2be3b0152b",
    "source": "Deutsche Welle",
    "title": "COP31: ¿habrá esta vez más hechos que palabras en materia de clima?",
@@ -350,16 +480,6 @@
    "date": "2026-11-11T20:31:24+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "daf988769506",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver a Tabilo versus Michelsen en el ATP de Estocolmo?",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Alejandro Tabilo (31° del ranking ATP) enfrentará este jueves 12 de noviembre al estadounidense Alex Michelsen (35°) , por los cuartos de final del ATP 250 de Estocolmo, en Suecia, con el objetivo de avanzar a las semifinal",
-   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/alejandro-tabilo/cuando-y-donde-ver-a-tabilo-versus-michelsen-en-el-atp-de-estocolmo/2026-11-11/172753.html",
-   "date": "2026-11-11T20:27:53+00:00",
-   "category": "",
-   "type": "Prensa"
   },
   {
    "id": "ea9c9146c3c2",
@@ -712,16 +832,6 @@
    "type": "Prensa"
   },
   {
-   "id": "67fc7cd0a223",
-   "source": "Al Jazeera",
-   "title": "Tens of thousands join Poland’s nationalist Independence Day march",
-   "description": "Polish PM Donald Tusk calls for restraint, urging unity after deadly Krakow attack linked to far-right ideology.",
-   "url": "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march?traffic_source=rss",
-   "date": "2026-11-11T17:38:03+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "cfa818f4bc9b",
    "source": "Ex-Ante",
    "title": "Los detalles del polémico proyecto de rebaja de penas con que Kast busca salir de la crisis (lea el texto)",
@@ -764,21 +874,11 @@
   {
    "id": "16e1bae462f3",
    "source": "Ex-Ante",
-   "title": "Camioneros: Alvarado asume el control total de la crisis tras el desorden inicial de La Moneda",
+   "title": "Camioneros: Alvarado asume el control de la crisis tras el desorden inicial de La Moneda (y su negociación contrarreloj)",
    "description": "Cuando el conflicto amenazaba con escalar, el ministro del Interior centralizó en sus manos las tratativas y abrió una ronda de reuniones separadas con las…",
    "url": "https://www.ex-ante.cl/politica/alvarado-control-crisis-camioneros/",
    "date": "2026-11-11T17:26:41+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "d3300ac421cc",
-   "source": "Al Jazeera",
-   "title": "John Thune re-elected as US Senate Republican leader after midterm losses",
-   "description": "The Republican ran unopposed, despite some GOP lawmaker demands to evaluate the party's stinging midterm losses to Democ",
-   "url": "https://www.aljazeera.com/news/2026/11/11/thune-re-elected-as-us-senate-republican-leader-after-midterm-losses?traffic_source=rss",
-   "date": "2026-11-11T17:08:12+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -802,26 +902,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3a265e12af73",
-   "source": "BBC Mundo",
-   "title": "En imágenes: decenas de detenidos en la primera huelga general en España en 14 años",
-   "description": "Con un seguimiento de la huelga dispar, los españoles protestan este miércoles por la crisis de la vivienda y el alto costo de la vida en el país europeo.",
-   "url": "https://www.bbc.com/mundo/articles/ckx28e5lj300o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-11T16:59:13+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "e17cd3724824",
-   "source": "Al Jazeera",
-   "title": "Russia-Ukraine talks in UAE secure major prisoner exchange deal",
-   "description": "Russia and Ukraine have agreed to a major prisoner exchange following two days of US-mediated talks in Abu Dhabi",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss",
-   "date": "2026-11-11T16:58:32+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "6840e07e7d07",
    "source": "France 24",
    "title": "\"Por la economía, para reducir el coste de vida\", el slogan a favor de la acción climática en la COP31",
@@ -839,16 +919,6 @@
    "url": "https://www.ex-ante.cl/afteroffice/recuperacion-necesita-el-presupuesto/",
    "date": "2026-11-11T16:41:27+00:00",
    "category": "Finanzas públicas",
-   "type": "Prensa"
-  },
-  {
-   "id": "b3584329e893",
-   "source": "Río en Línea",
-   "title": "Gobierno descarta falta de combustible en Los Ríos y advierte posibles retrasos en su distribución",
-   "description": "El Gobierno descartó un eventual desabastecimiento de combustibles en la Región de Los Ríos, pese a las movilizaciones de camioneros que se mantienen en tres puntos de la zona por el paro nacional de transportistas. No obstante, advirtió que podrían registrarse algunos retrasos e",
-   "url": "https://www.rioenlinea.cl/gobierno-descarta-falta-de-combustible-en-los-rios-y-advierte-posibles-retrasos-en-su-distribucion/",
-   "date": "2026-11-11T16:31:09+00:00",
-   "category": "Regiones (Los Ríos)",
    "type": "Prensa"
   },
   {
@@ -1072,16 +1142,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1b0d9f11df4e",
-   "source": "The Guardian",
-   "title": "Anthony Albanese fails to mention fossil fuels in Cop summit speech",
-   "description": "Australian PM boasts of success in renewables but is criticised for not addressing the nation’s huge coal industry Get our breaking news email , free app or daily news podcast Anthony Albanese has said governments have a “solemn responsibility” to act on climate change in a histo",
-   "url": "https://www.theguardian.com/environment/2026/nov/11/anthony-albanese-avoids-mention-of-fossil-fuels-in-cop-summit-speech",
-   "date": "2026-11-11T13:57:22+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "c6b39af0dbe0",
    "source": "Deutsche Welle",
    "title": "Rusia y Ucrania acuerdan un intercambio de prisioneros y mantienen abierto el diálogo",
@@ -1094,11 +1154,11 @@
   {
    "id": "a4caaf29e843",
    "source": "France 24",
-   "title": "En directo: La huelga general en España continúa con manifestaciones multitudinarias en Madrid y Barcelona",
-   "description": "La huelga general convocada por los principales sindicatos españoles comenzó este miércoles con cortes de carreteras, bloqueos en centros de trabajo y enfrentamientos con la Policía en distintas ciudades. La movilización reclama alquileres asequibles y salarios dignos, y registra",
+   "title": "La huelga general en España se vive con manifestaciones multitudinarias en vísperas de las elecciones",
+   "description": "La huelga general convocada por los principales sindicatos españoles transcurrió este miércoles 11 de noviembre con cortes de carreteras, bloqueos en centros de trabajo y enfrentamientos con la Policía en distintas ciudades. La movilización reclama alquileres asequibles y salario",
    "url": "https://www.france24.com/es/europa/20261111-la-polic%C3%ADa-carga-contra-manifestantes-en-la-gran-v%C3%ADa-de-madrid-y-detiene-a-varias-personas",
    "date": "2026-11-11T13:50:03+00:00",
-   "category": "Europa",
+   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1112,16 +1172,6 @@
    "type": "Prensa"
   },
   {
-   "id": "99514050f397",
-   "source": "France 24",
-   "title": "Italia: 20 explosiones en cuatro meses ponen a Roma en alerta; temen guerra entre clanes criminales",
-   "description": "En los últimos meses, Roma ha registrado una ola de explosiones que mantiene en alerta a las autoridades. Cerca de una veintena de artefactos han causado daños en comercios y zonas residenciales, mientras investigadores y organismos antimafia analizan una posible disputa entre cl",
-   "url": "https://www.france24.com/es/video/20261111-italia-20-explosiones-en-cuatro-meses-ponen-a-roma-en-alerta-temen-guerra-entre-clanes-criminales",
-   "date": "2026-11-11T13:46:38+00:00",
-   "category": "Conflictos armados y seguridad internacional",
-   "type": "Prensa"
-  },
-  {
    "id": "991d78cbfbf9",
    "source": "Servicio Electoral",
    "title": "Servel Los Ríos promovió la democracia escolar y la participación ciudadana en el Liceo Armando Robles Rivera de Valdivia",
@@ -1130,26 +1180,6 @@
    "date": "2026-11-11T13:43:29+00:00",
    "category": "Regiones (Los Ríos)",
    "type": "Oficial"
-  },
-  {
-   "id": "515d34fd8bbe",
-   "source": "France 24",
-   "title": "Directo París y la última conmemoración de Macron por el fin de la I Guerra Mundial",
-   "description": "La conmemoración del fin de la Primera Guerra Mundial tuvo un significado especial para Emmanuel Macron, quien participó en la tradicional ceremonia del 11 de noviembre en un momento que coincide con la recta final de su mandato. El acto, marcado por la solemnidad y el protocolo,",
-   "url": "https://www.france24.com/es/video/20261111-directo-par%C3%ADs-y-la-%C3%BAltima-conmemoraci%C3%B3n-de-macron-por-el-fin-de-la-i-guerra-mundial",
-   "date": "2026-11-11T13:40:55+00:00",
-   "category": "Conflictos armados y seguridad internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "eb5959bf6c70",
-   "source": "France 24",
-   "title": "Midterms 2026: ¿por qué las mujeres fueron las grandes ganadoras?",
-   "description": "Esta semana, Ellas Hoy analiza el papel de las mujeres en las elecciones de medio mandato del 3 de noviembre en Estados Unidos, que dejaron un número récord de mujeres elegidas al Congreso y a gobernaciones estatales. Entre ellas figuran nombres como Gina Hinojosa, en Texas, o Ke",
-   "url": "https://www.france24.com/es/programas/ellas-hoy/20261111-midterms-2026-por-qu%C3%A9-las-mujeres-fueron-las-grandes-ganadoras",
-   "date": "2026-11-11T13:39:42+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
   },
   {
    "id": "2e1b8712823b",
@@ -1692,16 +1722,6 @@
    "type": "Prensa"
   },
   {
-   "id": "34aa3ea3f936",
-   "source": "The Guardian",
-   "title": "Democrats demand answers on 8-year-old Haitian boy detained by ICE",
-   "description": "Child was put into restraints and taken into custody after arriving for an immigration check-in in San Diego Democratic lawmakers in California are demanding answers from the Trump administration about the safety and whereabouts of an eight-year-old Haitian boy who they say was p",
-   "url": "https://www.theguardian.com/us-news/2026/nov/10/haitian-boy-ice-california",
-   "date": "2026-11-10T15:51:42+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "e75d13298224",
    "source": "The Guardian",
    "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
@@ -1889,16 +1909,6 @@
    "url": "https://www.dw.com/es/irán-mantiene-su-capacidad-de-presión-en-el-estrecho-de-ormuz/a-79905064?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-09T21:17:00+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "968d9d667d75",
-   "source": "Radio Cooperativa",
-   "title": "La programación de la Nations League de la UEFA para esta semana",
-   "description": "Esta semana arranca la fecha FIFA de noviembre, la última del año 2026, y en Europa se disputarán duelos de la N ations League de la UEFA , con dos clásicos mundiales en la agenda. El primer partido estelar se dará el jueves, en San Siro, Milán, con la selección de Italia enfrent",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/nations-league/la-programacion-de-la-nations-league-de-la-uefa-para-esta-semana/2026-11-09/161457.html",
-   "date": "2026-11-09T19:14:57+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -2188,16 +2198,6 @@
    "description": "La entrada Podcast | Lo que calló Rabat se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/11/06/podcast-lo-que-callo-rabat/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-lo-que-callo-rabat",
    "date": "2026-11-06T22:39:19+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "9eff4beed4f5",
-   "source": "CIPER Chile",
-   "title": "El proyecto de reforma al INDH ante los estándares internacionales",
-   "description": "La entrada El proyecto de reforma al INDH ante los estándares internacionales se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/06/el-proyecto-de-reforma-al-indh-ante-los-estandares-internacionales/?utm_source=rss&utm_medium=rss&utm_campaign=el-proyecto-de-reforma-al-indh-ante-los-estandares-internacionales",
-   "date": "2026-11-06T21:38:24+00:00",
    "category": "",
    "type": "Prensa"
   },
