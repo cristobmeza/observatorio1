@@ -1,14 +1,414 @@
 {
- "updated": "2026-11-11T12:55:39.089281+00:00",
+ "updated": "2026-11-11T14:10:00.267356+00:00",
  "items": [
+  {
+   "id": "5f2961bfec5a",
+   "source": "Servicio Electoral",
+   "title": "Servel Antofagasta culminó la primera Escuela de Formación Cívica y Ciudadana para jóvenes en proceso de reinserción social",
+   "description": "Con una ceremonia de graduación realizada el pasado 29 de octubre, el Servicio Electoral de Chile, a través de su Dirección Regional de Antofagasta, finalizó la primera versión de la “Escuela de Formación Cívica y Ciudadana”, iniciativa desarrollada en alianza con el Servicio Nac",
+   "url": "https://www.servel.cl/Ch/app/servel-antofagasta-culmino-la-primera-escuela-de-formacion-civica-y-ciudadana-para-jovenes-en-proceso-de-reinsercion-social/sin-categoria/",
+   "date": "2026-11-11T14:04:48+00:00",
+   "category": "Elecciones",
+   "type": "Oficial"
+  },
+  {
+   "id": "ee7e99cdc30c",
+   "source": "Río en Línea",
+   "title": "Valdivia: Condenan a hombre por femicidio tentado y violencia intrafamiliar",
+   "description": "Un tribunal condenó por unanimidad a un hombre que intentó asesinar a su conviviente en febrero de 2024. La Fiscalía solicitó penas que superan los 15 años de presidio efectivo. La Fiscalía Regional de Los Ríos obtuvo un veredicto condenatorio unánime contra un hombre por femicid",
+   "url": "https://www.rioenlinea.cl/valdivia-condenan-a-hombre-por-femicidio-tentado-y-violencia-intrafamiliar/",
+   "date": "2026-11-11T14:03:35+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "e4c6a8fa7232",
+   "source": "France 24",
+   "title": "Corea del Sur promueve la desintoxicación digital para jóvenes adictos a las pantallas",
+   "description": "Con un estimado del 40% de niños y adolescentes atrapados en la dependencia digital, Corea del Sur implementa medidas drásticas para reducir el tiempo frente a las pantallas. Mientras en Francia el Consejo Constitucional frenó la prohibición de redes sociales para menores de 15 a",
+   "url": "https://www.france24.com/es/programas/en-foco/20261111-corea-del-sur-promueve-la-desintoxicaci%C3%B3n-digital-para-j%C3%B3venes-adictos-a-las-pantallas",
+   "date": "2026-11-11T13:59:54+00:00",
+   "category": "Derecho constitucional",
+   "type": "Prensa"
+  },
+  {
+   "id": "b1c79d0b9615",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] En chalas: Adriano deslumbró haciendo \"jueguitos\" en las calles de Brasil",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El histórico exgoleador de la selección brasileña y de Inter de Milán, Adriano Leite Ribeiro, causó furor en las plataformas digitales tras protagonizar un viralizado registro donde hace gala de su intacta técnica individua",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-brasilena/video-en-chalas-adriano-deslumbro-haciendo-jueguitos-en-las-calles/2026-11-11/105938.html",
+   "date": "2026-11-11T13:59:38+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "9f0619c84f27",
+   "source": "The Guardian",
+   "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
+   "description": "US negotiators to meet Putin in Moscow, Zelenskyy in Dublin next Separately, I am also keeping an eye on Italy, with reports that several schools are being evacuated after receiving bomb threats by emails. According to Rai and Sky TG24 , the email was signed by “Mikhail Andropov”",
+   "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+   "date": "2026-11-11T13:59:15+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "c57c4e2f6117",
+   "source": "BBC Mundo",
+   "title": "Animales invisibles y cartones de leche parlanchines: cómo los amigos imaginarios pueden potenciar nuestra mente",
+   "description": "Independientemente de la forma que adopten, los beneficios de las amistades ficticias pueden perdurar hasta bien entrada la edad adulta y ayudarnos a superar situaciones difíciles de la vida real.",
+   "url": "https://www.bbc.com/mundo/articles/c6vg2d59k45ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T13:58:32+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "1b0d9f11df4e",
+   "source": "The Guardian",
+   "title": "Anthony Albanese fails to mention fossil fuels in Cop summit speech",
+   "description": "Australian PM boasts of success in renewables but is criticised for not addressing the nation’s huge coal industry Get our breaking news email , free app or daily news podcast Anthony Albanese said governments had a “solemn responsibility” to act on climate change in a historic s",
+   "url": "https://www.theguardian.com/environment/2026/nov/11/anthony-albanese-avoids-mention-of-fossil-fuels-in-cop-summit-speech",
+   "date": "2026-11-11T13:57:22+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "571bc14aa23e",
+   "source": "Al Jazeera",
+   "title": "Why is Pochettino the favourite to replace Carrick at Manchester United?",
+   "description": "What would Mauricio Pochettino bring to the job if he replaces Michael Carrick in the Old Trafford hot seat?",
+   "url": "https://www.aljazeera.com/sports/2026/11/11/why-is-pochettino-the-favourite-to-replace-carrick-at-manchester-united?traffic_source=rss",
+   "date": "2026-11-11T13:56:53+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "9a0f3dce3718",
+   "source": "Radio Cooperativa",
+   "title": "Krauss cuestionó el llamado de Kast a los camioneros a \"pensar en Chile\"",
+   "description": "La secretaria nacional de la Democracia Cristiana, Alejandra Krauss , cuestionó este miércoles en El Primer Café de Cooperativa el llamado del Presidente José Antonio Kast a los camioneros a \"pensar en Chile\" en medio del paro por el alza de los combustibles. Al explicar por qué ",
+   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/krauss-cuestiono-el-llamado-de-kast-a-los-camioneros-a-pensar-en-chile/2026-11-11/105640.html",
+   "date": "2026-11-11T13:56:40+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "529a0072645a",
+   "source": "The Guardian",
+   "title": "Millions join Spain’s first general strike in 14 years in protest at rising housing costs",
+   "description": "The 24-hour stoppage has drawn high participation across sectors and comes weeks before election in which far right could gain power Millions of people across Spain have joined the country’s first general strike in 14 years, setting up picket lines to protest against soaring hous",
+   "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
+   "date": "2026-11-11T13:54:36+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c6b39af0dbe0",
+   "source": "Deutsche Welle",
+   "title": "Rusia y Ucrania acuerdan un intercambio de prisioneros y mantienen abierto el diálogo",
+   "description": "Aunque las diferencias siguen sin resolverse, las delegaciones hablaron de avances y abrieron la puerta a nuevos encuentros para acercar posiciones antes de que termine 2026.",
+   "url": "https://www.dw.com/es/rusia-y-ucrania-acuerdan-un-intercambio-de-prisioneros-y-mantienen-abierto-el-diálogo/a-79919727?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-11T13:52:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "a4caaf29e843",
+   "source": "France 24",
+   "title": "En directo: La Policía carga contra manifestantes en la Gran Vía de Madrid y detiene a varias personas",
+   "description": "La huelga general convocada por los principales sindicatos españoles comenzó este miércoles con cortes de carreteras, bloqueos en centros de trabajo y enfrentamientos con la Policía en distintas ciudades. La movilización reclama alquileres asequibles y salarios dignos, y registra",
+   "url": "https://www.france24.com/es/europa/20261111-la-polic%C3%ADa-carga-contra-manifestantes-en-la-gran-v%C3%ADa-de-madrid-y-detiene-a-varias-personas",
+   "date": "2026-11-11T13:50:03+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "33a5538aec49",
+   "source": "The Guardian",
+   "title": "Andy Burnham says government will unveil 10-year plan by mid-December",
+   "description": "Prime minister tells Kemi Badenoch at PMQs that flagship strategy will be revealed before Commons Christmas recess The government’s flagship 10-year plan will emerge by mid-December, Andy Burnham has told MPs, having previously raised the possibility that it might be delayed unti",
+   "url": "https://www.theguardian.com/politics/2026/nov/11/andy-burnham-says-government-will-unveil-10-year-plan-by-mid-december",
+   "date": "2026-11-11T13:47:50+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e301818082e3",
+   "source": "Ex-Ante",
+   "title": "Derogar la ley 19.856 es botar el bebé junto al agua sucia de la bañera",
+   "description": "El gobierno no puede expiar su culpa por haber validado rebajas de penas para estos crímenes atroces eliminando la aspiración de obtener rebajas de sus…",
+   "url": "https://www.ex-ante.cl/opinion/auth-no-botemos-bebe-agua-sucia-banera/",
+   "date": "2026-11-11T13:47:08+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "99514050f397",
+   "source": "France 24",
+   "title": "Italia: 20 explosiones en cuatro meses ponen a Roma en alerta; temen guerra entre clanes criminales",
+   "description": "En los últimos meses, Roma ha registrado una ola de explosiones que mantiene en alerta a las autoridades. Cerca de una veintena de artefactos han causado daños en comercios y zonas residenciales, mientras investigadores y organismos antimafia analizan una posible disputa entre cl",
+   "url": "https://www.france24.com/es/video/20261111-italia-20-explosiones-en-cuatro-meses-ponen-a-roma-en-alerta-temen-guerra-entre-clanes-criminales",
+   "date": "2026-11-11T13:46:38+00:00",
+   "category": "Conflictos armados y seguridad internacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "991d78cbfbf9",
+   "source": "Servicio Electoral",
+   "title": "Servel Los Ríos promovió la democracia escolar y la participación ciudadana en el Liceo Armando Robles Rivera de Valdivia",
+   "description": "En el marco de sus iniciativas de Formación Ciudadana, Servel Los Ríos desarrolló dos actividades en el Liceo Armando Robles Rivera de Valdivia, orientadas a fortalecer la educación cívica, promover la participación estudiantil y acercar a las nuevas generaciones al conocimiento ",
+   "url": "https://www.servel.cl/Ch/app/servel-los-rios-promovio-la-democracia-escolar-y-la-participacion-ciudadana-en-el-liceo-armando-robles-rivera-de-valdivia/sin-categoria/",
+   "date": "2026-11-11T13:43:29+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Oficial"
+  },
+  {
+   "id": "515d34fd8bbe",
+   "source": "France 24",
+   "title": "Directo París y la última conmemoración de Macron por el fin de la I Guerra Mundial",
+   "description": "La conmemoración del fin de la Primera Guerra Mundial tuvo un significado especial para Emmanuel Macron, quien participó en la tradicional ceremonia del 11 de noviembre en un momento que coincide con la recta final de su mandato. El acto, marcado por la solemnidad y el protocolo,",
+   "url": "https://www.france24.com/es/video/20261111-directo-par%C3%ADs-y-la-%C3%BAltima-conmemoraci%C3%B3n-de-macron-por-el-fin-de-la-i-guerra-mundial",
+   "date": "2026-11-11T13:40:55+00:00",
+   "category": "Conflictos armados y seguridad internacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "eb5959bf6c70",
+   "source": "France 24",
+   "title": "Midterms 2026: ¿por qué las mujeres fueron las grandes ganadoras?",
+   "description": "Esta semana, Ellas Hoy analiza el papel de las mujeres en las elecciones de medio mandato del 3 de noviembre en Estados Unidos, que dejaron un número récord de mujeres elegidas al Congreso y a gobernaciones estatales. Entre ellas figuran nombres como Gina Hinojosa, en Texas, o Ke",
+   "url": "https://www.france24.com/es/programas/ellas-hoy/20261111-midterms-2026-por-qu%C3%A9-las-mujeres-fueron-las-grandes-ganadoras",
+   "date": "2026-11-11T13:39:42+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "d149939b0e40",
+   "source": "The Guardian",
+   "title": "Air traffic control boss says he was ‘most disliked person in the UK’ after flight chaos",
+   "description": "Nats chief says he ‘quite enjoyed’ ignoring calls from Ryanair CEO to quit over system outages in September Business live – latest updates The boss of Nats has said he was “the most disliked person in the UK” after air traffic control systems failed twice in September, disrupting",
+   "url": "https://www.theguardian.com/business/2026/nov/11/air-traffic-control-nats-martin-rolfe-outages-ryanair",
+   "date": "2026-11-11T13:35:52+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "0030ceb0e4b7",
+   "source": "France 24",
+   "title": "Si EE. UU. da por \"concluida\" la guerra en Irán, ¿fracasó la presión militar?",
+   "description": "Con el anuncio de Washington de dar por \"concluidas\" las operaciones militares en Irán, la estrategia conjunta con Israel abre un interrogante sobre el alcance real de la campaña, mientras la tensión continúa en el terreno económico. ¿Fracasó la presión armada en Oriente Medio? L",
+   "url": "https://www.france24.com/es/programas/el-debate/20261111-si-ee-uu-da-por-concluida-la-guerra-en-ir%C3%A1n-fracas%C3%B3-la-presi%C3%B3n-militar",
+   "date": "2026-11-11T13:34:50+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "329261cda2ba",
    "source": "The Guardian",
    "title": "Burnham indicates backing for ‘black English’ and ‘Asian English’ census options – UK politics live",
    "description": "PM, in response to Ed Davey at PMQs, says measures could help address ‘poisonous politics’ Here are some more comments on the report for the Casey commission released today looking at how social care is run in England. (See 9.56am .) This is from Natasha Curry, deputy director of",
    "url": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
-   "date": "2026-11-11T12:48:49+00:00",
+   "date": "2026-11-11T13:31:47+00:00",
    "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "e6ed3b41accc",
+   "source": "Radio Cooperativa",
+   "title": "Manchester United encaminó la llegada del técnico Mauricio Pochettino",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Un verdadero remezón en el mercado de pases europeo alista Manchester United dado que según reveló la prestigiosa cadena británica Sky Sports , el entrenador argentino Mauricio Pochettino tiene prácticamente sellado su reto",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-israeli/manchester-united-encamino-la-llegada-del-tecnico-mauricio-pochettino/2026-11-11/103112.html",
+   "date": "2026-11-11T13:31:12+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "30cc2a9fafd9",
+   "source": "Radio Cooperativa",
+   "title": "Quiroz reconoce que Chile está en recesión y abre la puerta a inversión extranjera en Codelco",
+   "description": "El ministro de Hacienda, Jorge Quiroz, reconoció por primera vez que el país se encuentra en una recesión, aunque aseguró que la situación se superará rápidamente y que el PIB crecerá cerca de 4% en 2028. En conversación con Bloomberg , el ministro sostuvo que \"se le puede llamar",
+   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/quiroz-reconoce-que-chile-esta-en-recesion-y-abre-la-puerta-a-inversion/2026-11-11/103033.html",
+   "date": "2026-11-11T13:30:33+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "7a1ebee7f897",
+   "source": "The Guardian",
+   "title": "Diesel still costing close to a ’dismal’ £2 a litre despite oil price falls",
+   "description": "Pump prices stay stubbornly high as leading bank official warns energy costs are likely to remain ‘elevated’ Business live – latest updates The price of diesel on UK forecourts remains stubbornly close to October’s record high of £2 despite a sharp fall in oil prices. A litre cos",
+   "url": "https://www.theguardian.com/money/2026/nov/11/diesel-prices-petrol-business-oil-hormuz",
+   "date": "2026-11-11T13:30:27+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d4389df34cb9",
+   "source": "Radio Cooperativa",
+   "title": "Tita Ureta rompió el silencio tras polémica con Rafa Araneda en Teletón",
+   "description": "La animadora Tita Ureta finalmente rompió el silencio tras el polémico cruce que tuvo con Rafael Araneda durante la Teletón 2026 , que le significó duras críticas al conductor por su actitud con la figura televisiva que debutaba en la transmisión. Al leer un cómputo la mañana del",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/tita-ureta-rompio-el-silencio-tras-polemica-con-rafa-araneda-en-teleton/2026-11-11/102930.html",
+   "date": "2026-11-11T13:29:30+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "72773f4cd2ae",
+   "source": "BBC Mundo",
+   "title": "\"Sin su paso por Perú León XIV nunca hubiera llegado a ser Papa\"",
+   "description": "El escritor peruano Santiago Roncagliolo habló con BBC Mundo sobre el año que pasó siguiendo las huellas del actual pontífice en Perú y reconstruyendo el camino que lo llevó hasta el trono de San Pedro.",
+   "url": "https://www.bbc.com/mundo/articles/cm75pk2zx53xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T13:29:13+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "e13b4146442a",
+   "source": "Radio Cooperativa",
+   "title": "Delincuentes robaron computador desde un colegio de Estación Central",
+   "description": "Un grupo de tres delincuentes robó al menos un computador desde el colegio Villa España la madrugada de este martes, en la comuna de Estación Central. Los sujetos irrumpieron en el recinto de Avenida 5 de Abril -cerca de General Velásquez- cerca de las 1:00 horas , logrando entra",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/robos/delincuentes-robaron-computador-desde-un-colegio-de-estacion-central/2026-11-11/102407.html",
+   "date": "2026-11-11T13:24:07+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "2a9a4460316a",
+   "source": "France 24",
+   "title": "La Cámara de Representantes frena el intento de destituir a Hegseth; Trump celebra la decisión",
+   "description": "La Cámara de Representantes de Estados Unidos rechazó el intento de abrir un proceso de impeachment contra el secretario de Defensa, Pete Hegseth, impulsado por el congresista republicano Thomas Massie. La iniciativa lo acusaba de exceder sus atribuciones en operaciones militares",
+   "url": "https://www.france24.com/es/video/20261111-la-c%C3%A1mara-de-representantes-frena-el-impeachment-contra-pete-hegseth-trump-celebra-la-decisi%C3%B3n",
+   "date": "2026-11-11T13:22:23+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "00b853c36ba6",
+   "source": "Al Jazeera",
+   "title": "Trump ‘Foot Soldier’ statue mocks his Vietnam draft deferment",
+   "description": "An anonymous art collective called Secret Handshake has installed a golden statue of US President Donald Trump.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/trump-foot-soldier-statue-mocks-his-vietnam-draft-deferment?traffic_source=rss",
+   "date": "2026-11-11T13:20:49+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "76c2cb12dbbc",
+   "source": "France 24",
+   "title": "Huelga general en España: ¿cuáles son las exigencias detrás de las masivas movilizaciones?",
+   "description": "La crisis de la vivienda ha llevado a miles de personas a secundar una huelga general en España, donde trabajadores y ciudadanos reclaman acceso a viviendas asequibles, salarios dignos y mayor protección social. Las protestas reflejan el malestar por el aumento de los alquileres,",
+   "url": "https://www.france24.com/es/video/20261111-huelga-general-en-espa%C3%B1a-cu%C3%A1les-son-las-exigencias-detr%C3%A1s-de-las-masivas-movilizaciones",
+   "date": "2026-11-11T13:19:24+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "7acfdf9e5f69",
+   "source": "France 24",
+   "title": "El derecho a la vivienda impulsa la primera huelga general en España en 14 años",
+   "description": "",
+   "url": "https://www.france24.com/es/europa/20261111-efecto-maricarmen-espa%C3%B1a-vive-su-primera-huelga-general-en-14-a%C3%B1os-por-la-crisis-de-la-vivienda",
+   "date": "2026-11-11T13:18:54+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "87ca33dd74fa",
+   "source": "Al Jazeera",
+   "title": "At least 300 schools evacuated in Italy after email bomb alerts",
+   "description": "Italian PM Meloni says there is no danger as UK and Northern Ireland authorities also report 'bogus' alerts.",
+   "url": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
+   "date": "2026-11-11T13:18:36+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "0379c54adb88",
+   "source": "France 24",
+   "title": "Informe desde Antalya: COP31 marcada por ausencias y advertencias sobre el calentamiento global",
+   "description": "La COP31 reúne en Turquía a líderes mundiales en medio de crecientes alertas sobre la crisis climática. El secretario general de la ONU, António Guterres, advirtió que el objetivo de limitar el calentamiento a 1,5 °C ya es inevitablemente superado y pidió acelerar la reducción de",
+   "url": "https://www.france24.com/es/video/20261111-informe-desde-antalya-cop31-marcada-por-ausencias-y-advertencias-sobre-el-calentamiento-global",
+   "date": "2026-11-11T13:18:06+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "51a91def9a41",
+   "source": "Al Jazeera",
+   "title": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
+   "description": "The talks in the UAE capital were the first ⁠between the two warring sides since February.",
+   "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
+   "date": "2026-11-11T13:16:30+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "61c382b6b3d8",
+   "source": "France 24",
+   "title": "En directo: León XIV visita la cárcel de Devoto, un lugar emblemático para el papa Francisco, y lleva un mensaje de esperanza a los presos",
+   "description": "En el último día de su visita a Argentina, el papa León XIV recorrió la cárcel de Villa Devoto, en Buenos Aires, un penal muy ligado a la historia de Jorge Bergoglio, quien durante su etapa como arzobispo de la ciudad acudía allí para lavar los pies a los internos en Jueves Santo",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261111-en-directo-le%C3%B3n-xiv-visita-la-c%C3%A1rcel-de-devoto-un-lugar-emblem%C3%A1tico-para-el-papa-francisco-y-lleva-un-mensaje-de-esperanza-a-los-presos",
+   "date": "2026-11-11T13:14:34+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "2e1b8712823b",
+   "source": "Deutsche Welle",
+   "title": "El Gobierno alemán aprueba la creación de una reserva nacional de gas",
+   "description": "El Gobierno alemán dio luz verde a una reserva nacional de gas destinada a afrontar crisis energéticas y cortes de suministro. La medida, que aún debe aprobar el Parlamento, se financiará con una tasa a consumidores.",
+   "url": "https://www.dw.com/es/el-gobierno-alemán-aprueba-la-creación-de-una-reserva-nacional-de-gas/a-79919507?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-11T13:14:00+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "b6c79d977b16",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] Promesa cumplida: Kimi Antonelli se tiñó el pelo con la bandera de Italia",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Fiel a su palabra, el flamante campeón mundial de la Fórmula 1, Andrea Kimi Antonelli, sorprendió a todos los fanáticos del automovilismo al cumplir una llamativa promesa tras asegurar la corona de la temporada 2026. El pro",
+   "url": "https://www.cooperativa.cl/noticias/deportes/automovilismo/formula-1/video-promesa-cumplida-kimi-antonelli-se-tino-el-pelo-con-la-bandera/2026-11-11/101227.html",
+   "date": "2026-11-11T13:12:27+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "6e478325e5ff",
+   "source": "The Guardian",
+   "title": "Nissan reduces petrol car production as EV sales boom in China",
+   "description": "Manufacturer says ‘shift to new energy vehicles is happening faster than expected’ and market is harsh Business live – latest updates The Japanese carmaker Nissan has said it has been caught out by accelerating sales of electric and hybrid cars in China amid a brutal price war in",
+   "url": "https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china",
+   "date": "2026-11-11T13:11:58+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "7b781d83110d",
+   "source": "Al Jazeera",
+   "title": "US man convicted after admitting he dismembered wife but denies killing her",
+   "description": "A Virginia man has been convicted of murdering his wife, more than two years after she went missing.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-man-convicted-after-admitting-he-dismembered-wife-but-denies-killing-her?traffic_source=rss",
+   "date": "2026-11-11T13:09:39+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "9aca45d2361e",
+   "source": "Radio Cooperativa",
+   "title": "Angelina Jolie defiende: Los países en desarrollo \"no son pobres\"",
+   "description": "La actriz estadounidense Angelina Jolie , ganadora de dos premios Oscar, defendió este miércoles que los países en desarrollo \"no son pobres\" y reclamó un comercio más justo que les permita prosperar por sí mismos , durante una intervención en la capital filipina centrada en el d",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/angelina-jolie-defiende-los-paises-en-desarrollo-no-son-pobres/2026-11-11/100404.html",
+   "date": "2026-11-11T13:04:04+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "8b6013541ca3",
+   "source": "Al Jazeera",
+   "title": "‘Climate crisis is outrunning us,’ UN chief Guterres says at COP31",
+   "description": "Guterres says the world must fight harder, accuses the fossil fuel lobby of delaying climate action at critical talks.",
+   "url": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31?traffic_source=rss",
+   "date": "2026-11-11T12:48:21+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -32,13 +432,13 @@
    "type": "Prensa"
   },
   {
-   "id": "9f0619c84f27",
-   "source": "The Guardian",
-   "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
-   "description": "US negotiators to meet Putin in Moscow, Zelenskyy in Dublin next Separately, I am also keeping an eye on Italy, with reports that several schools are being evacuated after receiving bomb threats by emails. According to Rai and Sky TG24 , the email was signed by “Mikhail Andropov”",
-   "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
-   "date": "2026-11-11T12:39:58+00:00",
-   "category": "Rusia y espacio postsoviético",
+   "id": "eb98ea2f66bd",
+   "source": "Radio Cooperativa",
+   "title": "Fiscales en Paraguay dicen que Peña se expone a 15 años de cárcel por caso de Ueno bank",
+   "description": "El expresidente de Paraguay Santiago Peña se expone a una pena máxima de 15 años de cárcel como parte de la investigación en su contra por el caso del intervenido Ueno bank , entidad con la que ha sido vinculado y en la que distintas organizaciones estatales depositaron millonari",
+   "url": "https://www.cooperativa.cl/noticias/mundo/paraguay/fiscales-en-paraguay-dicen-que-pena-se-expone-a-15-anos-de-carcel-por/2026-11-11/094041.html",
+   "date": "2026-11-11T12:40:41+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -59,16 +459,6 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/real-madrid/vinicius-invita-a-un-partido-de-real-madrid-a-nino-sudanes-que-perdio/2026-11-11/093222.html",
    "date": "2026-11-11T12:32:22+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "7acfdf9e5f69",
-   "source": "France 24",
-   "title": "Efecto \"Maricarmen\": España vive su primera huelga general en 14 años por la crisis de la vivienda",
-   "description": "La primera huelga general en 14 años en España comenzó este miércoles con cortes de carreteras, bloqueos en centros de trabajo y protestas en distintas ciudades contra la crisis de la vivienda, el aumento de los alquileres y la pérdida de poder adquisitivo. La movilización tiene ",
-   "url": "https://www.france24.com/es/europa/20261111-efecto-maricarmen-espa%C3%B1a-vive-su-primera-huelga-general-en-14-a%C3%B1os-por-la-crisis-de-la-vivienda",
-   "date": "2026-11-11T12:32:17+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -135,7 +525,7 @@
    "id": "ee98f03d7b1f",
    "source": "The Guardian",
    "title": "Belgian plan for ICE-style immigration raids on homes criticised as ‘law of fear’",
-   "description": "Rights groups oppose new law that will let police forcibly enter homes to remove refused asylum seekers Belgium could see ICE-style home raids, echoing the US crackdown on immigration, rights campaigners have warned, after MPs approved a law that allows police to forcibly enter p",
+   "description": "Rights groups oppose law that will let police forcibly enter homes to remove refused asylum seekers Belgium could see ICE-style home raids that echo the US crackdown on immigration, rights campaigners have warned, after MPs approved a law that allows police to forcibly enter prop",
    "url": "https://www.theguardian.com/world/2026/nov/11/belgium-ice-style-home-raids-immigration",
    "date": "2026-11-11T12:13:37+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -192,26 +582,6 @@
    "type": "Prensa"
   },
   {
-   "id": "31587aec4a89",
-   "source": "The Guardian",
-   "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
-   "description": "181GW of gas-fired capacity proposed for sites in US and Europe because of delays in connecting to national grids, says report Developers of AI datacentres plan to build on-site climate-destroying gas power stations on a huge scale to meet their energy demands, research reveals. ",
-   "url": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
-   "date": "2026-11-11T12:00:48+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "1eeef2fb653a",
-   "source": "The Guardian",
-   "title": "Police to target 500 chronic shoplifters in retail crime crackdown in England",
-   "description": "Tactics to include GPS tagging for repeat offenders, high street bans and tougher sentences Five hundred of the most prolific shoplifters across England will be targeted in a police crackdown on retail crime, with tougher sentences, high street bans and GPS tagging. The home secr",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/11/police-target-chronic-shoplifters-retail-crackdown-england-wales",
-   "date": "2026-11-11T11:46:37+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "cfe8ca741e3f",
    "source": "France 24",
    "title": "Italia evacúa al menos 300 escuelas tras recibir una misma amenaza de bomba",
@@ -219,16 +589,6 @@
    "url": "https://www.france24.com/es/europa/20261111-italia-evac%C3%BAa-al-menos-300-escuelas-tras-recibir-una-misma-amenaza-de-bomba",
    "date": "2026-11-11T11:46:26+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "4696dddb86ea",
-   "source": "Radio Cooperativa",
-   "title": "Figura de Colombia palpitó los amistosos ante La Roja: \"Chile siempre ha sido un rival fuerte\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La selección chilena afina los últimos detalles para afrontar una exigente doble fecha de amistosos internacionales frente a Colombia en esta ventana FIFA de noviembre, iniciando la serie este viernes en la ciudad de Cali p",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-colombiana/figura-de-colombia-palpito-los-amistosos-ante-la-roja-chile-siempre-ha/2026-11-11/084506.html",
-   "date": "2026-11-11T11:45:06+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -242,16 +602,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c9543bc1e389",
-   "source": "Radio Cooperativa",
-   "title": "Murió Stacy Keach, reconocido actor de \"Prison Break\" y \"Mike Hammer\"",
-   "description": "El actor estadounidense Stacy Keach , conocido por interpretar al detective privado \"Mike Hammer\" en la serie de televisión ochentera \"The New Mike Hammer\" , ha muerto a sus 85 años en Polonia , según confirmó este miércoles su mujer Malgosia Tomassi a la revista Variety . La est",
-   "url": "https://www.cooperativa.cl/noticias/magazine/cine/murio-stacy-keach-reconocido-actor-de-prison-break-y-mike-hammer/2026-11-11/084003.html",
-   "date": "2026-11-11T11:40:03+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "154e4b61284b",
    "source": "BBC Mundo",
    "title": "Ruta 66: la historia poco conocida de la carretera más famosa de EE.UU.",
@@ -259,36 +609,6 @@
    "url": "https://www.bbc.com/mundo/articles/cj20vq3g51z1o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-11T11:33:18+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "d4506c4e56f2",
-   "source": "The Guardian",
-   "title": "Thomas Markle, Meghan’s father, jailed after cutting off ankle monitor, DoJ says",
-   "description": "Estranged father of Duchess of Sussex was arrested for keeping child sexual abuse material, authorities say The estranged father of Meghan Markle, the Duchess of Sussex, has been jailed after US authorities said he cut an electronic monitoring device off his ankle, days after his",
-   "url": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
-   "date": "2026-11-11T11:29:43+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "c90173a701bd",
-   "source": "Río en Línea",
-   "title": "Presidente Kast se reunirá este miércoles con autoridades de Los Ríos para abordar temas regionales",
-   "description": "El Presidente de la República, José Antonio Kast, sostendrá este miércoles una jornada de trabajo con las principales autoridades de la Región de Los Ríos, en una reunión programada para las 15:00 horas. En el encuentro participarán el Gobernador Regional, Luis Cuvertino; la Dele",
-   "url": "https://www.rioenlinea.cl/presidente-kast-se-reunira-este-miercoles-con-autoridades-de-los-rios-para-abordar-temas-regionales/",
-   "date": "2026-11-11T11:20:06+00:00",
-   "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
-   "id": "97d507796408",
-   "source": "Radio Cooperativa",
-   "title": "Conmebol dice que torneos y premios no peligran por intervención del Ueno bank paraguayo",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La Confederación Sudamericana de Fútbol (Conmebol) informó que las competiciones y premios del organismo no están en riesgo de suspensión tras la intervención por problemas de solvencia financiera del banco paraguayo Ueno b",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/conmebol/conmebol-dice-que-torneos-y-premios-no-peligran-por-intervencion-del/2026-11-11/081926.html",
-   "date": "2026-11-11T11:19:26+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -309,16 +629,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss",
    "date": "2026-11-11T10:57:39+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "aa8ab17a3d9a",
-   "source": "Radio Cooperativa",
-   "title": "Segundo día de paro: Más gremios de camioneros evalúan unirse a la manifestación",
-   "description": "Las confederaciones de Dueños de Camiones de Chile (CNDC) y del Transporte de Carga (CNTC), junto a la Federación de Transportistas de Carga del Biobío , sostendrán un encuentro este martes, con el fin de abordar las alzas del diésel y decidir si se suman al paro del sector que c",
-   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/segundo-dia-de-paro-mas-gremios-de-camioneros-evaluan-unirse-a-la/2026-11-11/075430.html",
-   "date": "2026-11-11T10:54:30+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -422,16 +732,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e0149b08f9e8",
-   "source": "The Guardian",
-   "title": "NAZA documentary on Gaza killings becomes one of year’s most watched",
-   "description": "The film, which details Israel’s surveillance of Palestinian civilians, has been seen by more than 1.5m people in less than two months NAZA, the award-winning documentary that details Israel’s mass killing of civilians in Gaza, has been seen by more than 1.5 million people since ",
-   "url": "https://www.theguardian.com/film/2026/nov/11/naza-documentary-on-gaza-killings-becomes-one-of-years-most-watched",
-   "date": "2026-11-11T09:47:46+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "439493405bfd",
    "source": "Al Jazeera",
    "title": "Pakistan’s PTI demands access to jailed Khan after overnight hospital visit",
@@ -439,16 +739,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/11/pakistans-pti-demands-access-to-jailed-khan-after-overnight-hospital-visit?traffic_source=rss",
    "date": "2026-11-11T09:47:25+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "282b3d5376d9",
-   "source": "The Guardian",
-   "title": "Burnham lauds £12bn offshore wind investment as he prepares for climate summit",
-   "description": "Package for plan off Norfolk coast revealed as government tries to calm critics after approving Jackdaw gasfield UK politics live – latest updates Andy Burnham has hailed a record investment in offshore wind, as the government tries to repair its green credentials after approving",
-   "url": "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
-   "date": "2026-11-11T09:46:18+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -508,66 +798,6 @@
    "description": "US embassy says goods still flowing into Yemeni areas under Houthi control, while accusing the rebels of besieging Taiz.",
    "url": "https://www.aljazeera.com/news/2026/11/11/us-embassy-refutes-houthis-yemen-blockade-claims-highlights-siege-on-taiz?traffic_source=rss",
    "date": "2026-11-11T08:58:59+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "854e2bfcd5d0",
-   "source": "Al Jazeera",
-   "title": "Putin is not ready to make peace in Abu Dhabi",
-   "description": "The Russian leader still believes he can outlast Western support for Ukraine.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/11/putin-is-not-ready-to-make-peace-in-abu-dhabi?traffic_source=rss",
-   "date": "2026-11-11T08:37:31+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "de365ce37bfe",
-   "source": "Al Jazeera",
-   "title": "How are Pakistan’s imports from India growing again despite tensions?",
-   "description": "Formally, they're not trading at all. But Pakistan's imports from India are back to pre-war levels. Is a thaw next?",
-   "url": "https://www.aljazeera.com/news/2026/11/11/how-are-pakistans-imports-from-india-growing-again-despite-tensions?traffic_source=rss",
-   "date": "2026-11-11T08:30:40+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "7430d5f96b8d",
-   "source": "Al Jazeera",
-   "title": "Why China’s $1 trillion trade surplus isn’t all good news for its economy",
-   "description": "Booming exports mask a thriftiness among the Chinese that could undermine long-term growth.",
-   "url": "https://www.aljazeera.com/economy/2026/11/11/why-chinas-1-trillion-trade-surplus-isnt-all-good-news-for-its-economy?traffic_source=rss",
-   "date": "2026-11-11T08:29:10+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "a5f2b9935695",
-   "source": "Al Jazeera",
-   "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
-   "description": "Mohsen Rezaei's comments come as the IRGC said at least three ships had hit mines and caught fire in the Hormuz strait.",
-   "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met?traffic_source=rss",
-   "date": "2026-11-11T08:21:56+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "7616cbf26236",
-   "source": "Al Jazeera",
-   "title": "Students run for safety after fireworks set off inside French school",
-   "description": "Video captures the moment students and staff ran for safety as fireworks were set off along a school corridor in France.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/students-run-for-safety-after-fireworks-set-off-inside-french-school?traffic_source=rss",
-   "date": "2026-11-11T07:55:55+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "e27ba02700c1",
-   "source": "Al Jazeera",
-   "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
-   "description": "Investigation reveals Chinese entities accessing US-restricted AI tech despite stringent export control measures.",
-   "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
-   "date": "2026-11-11T07:26:28+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
@@ -719,16 +949,6 @@
    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261111-economia-chile-camiones-paro-diesel",
    "date": "2026-11-11T03:11:01+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "de36a322c375",
-   "source": "The Guardian",
-   "title": "Labor won’t scrap ABC and SBS ombudsmen in favour of external body as suggested by antisemitism envoy",
-   "description": "Exclusive : Jillian Segal suggested ‘transferring’ powers in updated report released a fortnight ago but government sources note media regulator already exists Get our breaking news email , free app or daily news podcast The Albanese government won’t follow a suggestion by the an",
-   "url": "https://www.theguardian.com/media/2026/nov/11/labor-abc-sbs-ombudsmen-antisemitism-envoy-gaza-coverage-ntwnfb",
-   "date": "2026-11-11T03:10:37+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -922,16 +1142,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1e5d562c926b",
-   "source": "Radio Cooperativa",
-   "title": "Alunizaje en casa de cambio en Valparaíso: ladrones escaparon tras activar alarma de humo",
-   "description": "En Valparaíso , la Policía de Investigaciones (PDI) indaga un robo que afectó durante la madrugada de este martes a una casa de cambio ubicada en calle Cochrane. El delito fue cometido por seis sujetos que llegaron en dos vehículos y utilizaron el método del \" alunizaje\" para ing",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/robos/alunizaje-en-casa-de-cambio-en-valparaiso-ladrones-escaparon-tras/2026-11-10/222107.html",
-   "date": "2026-11-11T01:21:07+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "2c2ab589e0a9",
    "source": "Radio Bío-Bío",
    "title": "VIDEOS | Camioneros independientes mantienen cortes en Ruta 68 en Valparaíso ante alza de combustibles",
@@ -972,66 +1182,6 @@
    "type": "Prensa"
   },
   {
-   "id": "31a461733c10",
-   "source": "France 24",
-   "title": "Desde la catedral de Toledo, España despide a las 69 víctimas mortales del choque de trenes",
-   "description": "Con campanadas en la catedral de Toledo y una vela por cada uno de los 69 fallecidos, España rindió homenaje a las víctimas del choque de trenes en Urda. Los reyes de España, varios ministros, políticos y ciudadanos asistieron a la misa en la que se despidió a los muertos. Nuestr",
-   "url": "https://www.france24.com/es/video/20261111-desde-la-catedral-de-toledo-espa%C3%B1a-despide-a-las-69-v%C3%ADctimas-mortales-del-choque-de-trenes",
-   "date": "2026-11-11T01:09:21+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "3eb5f380421c",
-   "source": "France 24",
-   "title": "Knesset inicia sesiones en Israel: Netanyahu llama a \"gobierno de unidad\", pero sin partidos árabes",
-   "description": "En la sesión inaugural del Parlamento israelí, el primer ministro, Benjamin Netanyahu, lanzó un llamado a un \"gobierno de unidad nacional\" frente a las amenazas de su némesis iraní, mientras la oposición le reclamaba una investigación sobre su presunta responsabilidad en los ataq",
-   "url": "https://www.france24.com/es/video/20261111-knesset-inicia-sesiones-en-israel-netanyahu-llama-a-gobierno-de-unidad-pero-sin-partidos-%C3%A1rabes",
-   "date": "2026-11-11T01:08:57+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "96cf27f3a09c",
-   "source": "France 24",
-   "title": "California rechaza propuesta de impuesto a los multimillonarios",
-   "description": "En California perdió la Proposición 40, que buscaba recaudar 100.000 millones de dólares mediante un gravamen único del 5% a los residentes con un patrimonio superior a 1.000 millones de dólares. California es uno de los estados con mayor concentración de fortuna de Estados Unido",
-   "url": "https://www.france24.com/es/video/20261111-california-rechaza-propuesta-de-impuesto-a-los-multimillonarios",
-   "date": "2026-11-11T01:07:14+00:00",
-   "category": "Tributación",
-   "type": "Prensa"
-  },
-  {
-   "id": "a0bbda75bb88",
-   "source": "France 24",
-   "title": "Nuevo Parlamento israelí inicia sesiones en medio de la incertidumbre política",
-   "description": "Israel inauguró la legislatura de la Knesset en medio de una profunda incertidumbre política y una intensa disputa por la formación del próximo Gobierno. El presidente Isaac Herzog dijo que deben evitar «a toda costa» unas nuevas elecciones y pidió a los diputados diálogo para al",
-   "url": "https://www.france24.com/es/video/20261111-nuevo-parlamento-israel%C3%AD-inicia-sesiones-en-medio-de-la-incertidumbre-pol%C3%ADtica",
-   "date": "2026-11-11T01:06:12+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "6f2536ec106d",
-   "source": "France 24",
-   "title": "¿Qué dice Amnistía Internacional a Haití y El Salvador frente a la lucha contra bandas criminales?",
-   "description": "La situación en Haití enfrenta una nueva presión. El despliegue de 2.000 efectivos salvadoreños para buscar a cuatro militares de El Salvador que fueron secuestrados por pandillas. Amnistía Internacional hizo un llamado urgente a que tanto Haití como El Salvador \"respete\" los Der",
-   "url": "https://www.france24.com/es/video/20261111-qu%C3%A9-dice-amnist%C3%ADa-internacional-a-hait%C3%AD-y-el-salvador-frente-a-la-lucha-contra-bandas-criminales",
-   "date": "2026-11-11T01:05:41+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "edd456b5e397",
-   "source": "France 24",
-   "title": "¿Por qué las COP no tienen resultados ambientales visibles a pesar de las metas pactadas cada año?",
-   "description": "Cada año, los miembros de las Naciones Unidas se reúnen para tratar los temas medioambientales y fijar objetivos para hacer frente a la crisis climática que vive el planeta. Sin embargo, cada año se fijan metas cada vez más ambiciosas, pero no se evidencian resultados concretos. ",
-   "url": "https://www.france24.com/es/video/20261111-por-qu%C3%A9-las-cop-no-tienen-resultados-ambientales-visibles-a-pesar-de-las-metas-pactadas-cada-a%C3%B1o",
-   "date": "2026-11-11T01:05:22+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "84c9f6c91a11",
    "source": "Radio Bío-Bío",
    "title": "Muere actor chileno Leonardo Pierucci a los 87 años en Costa Rica",
@@ -1062,16 +1212,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5d5da7ba3066",
-   "source": "France 24",
-   "title": "\"Aún esperamos las ayudas\": Colombia a tres meses del terremoto",
-   "description": "🇨🇴 Tres meses después del terremoto que sacudió a Colombia, Christian Casta Bermúdez, fotógrafo y sobreviviente, habló sobre cómo han avanzado la llegada de ayudas y los alivios para pagar las viviendas. De los tres alivios prometidos, solo ha llegado uno de un millón de pesos co",
-   "url": "https://www.france24.com/es/video/20261111-a%C3%BAn-esperamos-las-ayudas-colombia-a-tres-meses-del-terremoto",
-   "date": "2026-11-11T00:09:15+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "4aed22dc2794",
    "source": "Deutsche Welle",
    "title": "Eisenkot cancela reunión con Likud para negociar un Gobierno tras discurso de Netanyahu",
@@ -1092,16 +1232,6 @@
    "type": "Prensa"
   },
   {
-   "id": "39fb59fa2198",
-   "source": "France 24",
-   "title": "Pete Hegseth sobrevive: se frustra el primer intento de destituir al jefe del Pentágono",
-   "description": "La mayoría republicana de la Cámara de Representantes bloqueó este martes 10 de noviembre un intento de juicio político contra el secretario de Defensa, Pete Hegseth, por la guerra en Irán y la captura de Nicolás Maduro en Venezuela.",
-   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261110-pete-hegseth-sobrevive-se-frustra-el-primer-intento-de-destituir-al-jefe-del-pent%C3%A1gono",
-   "date": "2026-11-10T23:45:14+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "31b85fdb9e12",
    "source": "Ex-Ante",
    "title": "Quién es la sobrina de Matthei que integra el equipo del PS encargado de redactar AC contra Rabat",
@@ -1118,36 +1248,6 @@
    "description": "La entrada Gobierno amenaza a camioneros con despejar carreteras si continúa paro; exministra Steinert es nombrada agregada de Seguridad en embajada en Paraguay, y rebaja de condena a mujer agresora salpica a Rabat se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/11/10/radar-10-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-10-11-26",
    "date": "2026-11-10T23:31:31+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "581aebd87439",
-   "source": "France 24",
-   "title": "Los republicanos de la Cámara Baja frustran por ahora el intento de destituir al jefe del Pentágono",
-   "description": "",
-   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261109-hegseth-en-la-cuerda-floja-saldr%C3%A1-el-jefe-del-pent%C3%A1gono-del-gobierno-de-trump",
-   "date": "2026-11-10T23:20:38+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "85ce0e416698",
-   "source": "France 24",
-   "title": "Informe desde Washington: Hegseth se defiende tras ola de acusaciones por resultados de las midterms",
-   "description": "El secretario de Defensa, Pete Hegseth, se mostró preparado el martes para dar batalla ante un posible proceso de destitución en el Congreso, declarando a los periodistas que un legislador —al que calificó de actuar por su cuenta— lo tiene en el punto de mira debido a \"desacuerdo",
-   "url": "https://www.france24.com/es/video/20261110-informe-desde-washington-hegseth-se-defiende-tras-ola-de-acusaciones-por-resultados-de-las-midterms",
-   "date": "2026-11-10T23:01:06+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "2c34b5fc93d3",
-   "source": "France 24",
-   "title": "Informe desde París: segundo día de negociaciones de ministros de Exteriores del G7",
-   "description": "Los ministros de relaciones de Relaciones Exteriores del G7 se reunieron en París para dos días de cumbre, en los que Irán y Ucrania estuvieron en el centro de los debates. Nuestra periodista Natalia Ruiz Giraldo nos amplió la información sobre los temas destacados de la agenda y",
-   "url": "https://www.france24.com/es/video/20261110-informe-desde-par%C3%ADs-segundo-d%C3%ADa-de-negociaciones-de-ministros-de-exteriores-del-g7",
-   "date": "2026-11-10T23:00:30+00:00",
    "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
@@ -1222,16 +1322,6 @@
    "type": "Prensa"
   },
   {
-   "id": "353fb08b27df",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver a Alejandro Tabilo ante Lorenzo Sonego en el ATP de Estocolmo?",
-   "description": "El chileno Alejandro Tabilo (31° del ranking mundial) vivirá el cierre de su temporada a partir de este miércoles 11 de noviembre, jornada en la que se medirá ante el italiano Lorenzo Sonego (115°) por los octavos del ATP de Estocolmo. El duelo está pactado para el primer turno, ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/alejandro-tabilo/cuando-y-donde-ver-a-alejandro-tabilo-ante-lorenzo-sonego-en-el-atp-de/2026-11-10/175416.html",
-   "date": "2026-11-10T20:54:16+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "ae676568d007",
    "source": "Ex-Ante",
    "title": "Sucesión en el Banco Central: Larraín, Fontaine y Claro, los favoritos de Kast para reemplazar a Rosanna Costa",
@@ -1239,16 +1329,6 @@
    "url": "https://www.ex-ante.cl/negocios/cartas-de-kast-para-presidir-banco-central/",
    "date": "2026-11-10T20:45:51+00:00",
    "category": "Política monetaria",
-   "type": "Prensa"
-  },
-  {
-   "id": "3001e3b18d14",
-   "source": "Deutsche Welle",
-   "title": "Zelenski califica de “constructiva” primera ronda de conversaciones con Rusia",
-   "description": "Delegaciones de ambos países se encontraron, bajo la mediación de Estados Unidos y tras nueve meses sin reuniones, en Abu Dabi. Hubo algunos avances, aseguró también Marco Rubio.",
-   "url": "https://www.dw.com/es/zelenski-califica-de-constructiva-primera-ronda-de-conversaciones-con-rusia/a-79913519?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-10T20:44:00+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1309,16 +1389,6 @@
    "url": "https://www.ciperchile.cl/2026/11/10/aqui-tienes-la-parte-considerativa-y-resolutiva-la-huella-de-la-inteligencia-artificial-en-sentencias-del-poder-judicial/?utm_source=rss&utm_medium=rss&utm_campaign=aqui-tienes-la-parte-considerativa-y-resolutiva-la-huella-de-la-inteligencia-artificial-en-sentencias-del-poder-judicial",
    "date": "2026-11-10T19:34:45+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "a6b4314e9578",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver el primer amistoso de La Roja y Colombia en la fecha FIFA?",
-   "description": "La selección chilena enfrentará este viernes a Colombia en la ciudad de Cali, en el primero de los dos amistosos pactados para la fecha FIFA de noviembre, l a última del año 2026. El compromiso se disputará en el Estadio \"Pascual Guerrero\" de Cali, a partir de las 21:00 horas (00",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-primer-amistoso-de-la-roja-y-colombia-en-la-fecha/2026-11-10/162025.html",
-   "date": "2026-11-10T19:20:25+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -1442,16 +1512,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8aa078656069",
-   "source": "Ex-Ante",
-   "title": "¿Quién cuida al gerente general?",
-   "description": "En Chile la incertidumbre se ha vuelto más la norma que la excepción, por lo tanto, esta conversación no es teórica. Un buen directorio debe…",
-   "url": "https://www.ex-ante.cl/afteroffice/quien-cuida-al-gerente-general/",
-   "date": "2026-11-10T16:18:52+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "c9317a6b7ee4",
    "source": "BBC Mundo",
    "title": "Mi hermano murió tras rechazar una transfusión por sus creencias; semanas después los Testigos de Jehová eliminaron esa prohibición",
@@ -1539,16 +1599,6 @@
    "url": "https://www.dw.com/es/antiguo-ejecutivo-de-marvel-tomará-las-riendas-de-dc-studios/a-79908475?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-10T11:57:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "1352ba9985a8",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver la final de la Copa de la Liga entre Coquimbo Unido y O'Higgins?",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Coquimbo Unido y O'Higgins disputarán este sábado 14 de noviembre la final de la Copa de la Liga 2026 , encuentro que definirá al primer campeón de la competencia y entregará al ganador la clasificación a la Copa Libertador",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/cuando-y-donde-ver-la-final-de-la-copa-de-la-liga-entre-coquimbo-unido/2026-11-10/083533.html",
-   "date": "2026-11-10T11:35:33+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1662,16 +1712,6 @@
    "type": "Prensa"
   },
   {
-   "id": "968d9d667d75",
-   "source": "Radio Cooperativa",
-   "title": "La programación de la Nations League de la UEFA para esta semana",
-   "description": "Esta semana arranca la fecha FIFA de noviembre, la última del año 2026, y en Europa se disputarán duelos de la N ations League de la UEFA , con dos clásicos mundiales en la agenda. El primer partido estelar se dará el jueves, en San Siro, Milán, con la selección de Italia enfrent",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/nations-league/la-programacion-de-la-nations-league-de-la-uefa-para-esta-semana/2026-11-09/161457.html",
-   "date": "2026-11-09T19:14:57+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "1b2a540b408e",
    "source": "BBC Mundo",
    "title": "Mis padres decidieron morir juntos y yo tuve que afrontar su pérdida solo",
@@ -1739,16 +1779,6 @@
    "url": "https://www.bbc.com/mundo/articles/ck240e0n9z8yo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-09T13:22:21+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "674aaaaf305e",
-   "source": "BBC Mundo",
-   "title": "Jensen Huang, el migrante taiwanés que pasó de lavar platos a fundar Nvidia y ahora es investigado por su relación con una presunta espía china",
-   "description": "Habiendo emigrado a Estados Unidos con 9 años y sin hablar inglés, Jensen Huang terminó creando Nvidia, una de las empresas tecnológicas más valiosas del mundo.",
-   "url": "https://www.bbc.com/mundo/articles/c03r1red14yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-09T13:07:35+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -2152,16 +2182,6 @@
    "type": "Académica"
   },
   {
-   "id": "e6fbaed4ecbe",
-   "source": "Servicio Electoral",
-   "title": "Servel fortaleció la formación ciudadana y educación cívica electoral de estudiantes de la Región Metropolitana",
-   "description": "Durante octubre, la Dirección Regional Metropolitana del Servicio Electoral desarrolló cuatro actividades de formación ciudadana y educación cívica electoral en establecimientos educacionales de La Granja, Melipilla, La Cisterna y Conchalí, mediante elecciones de centros de estud",
-   "url": "https://www.servel.cl/Ch/app/servel-fortalecio-la-formacion-ciudadana-y-educacion-civica-electoral-de-estudiantes-de-la-region-metropolitana/sin-categoria/",
-   "date": "2026-11-03T19:56:57+00:00",
-   "category": "Elecciones",
-   "type": "Oficial"
-  },
-  {
    "id": "a0fb7f72dae0",
    "source": "The Guardian",
    "title": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
@@ -2169,16 +2189,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india",
    "date": "2026-11-03T15:24:53+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "f00420ef84b9",
-   "source": "BBC Mundo",
-   "title": "\"Soy morra, cis y hetero, pero creo que es mejor tener menos novios y más amigas\"",
-   "description": "La escritora mexicana y ganadora del Premio Biblioteca Breve 2026, conversa con BBC Mundo sobre su obra y cómo es vivir al lado de la frontera con EE.UU.",
-   "url": "https://www.bbc.com/mundo/articles/cme3xkq104ejo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-03T15:14:21+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -2190,16 +2200,6 @@
    "date": "2026-11-03T06:00:39+00:00",
    "category": "China y Asia",
    "type": "Prensa"
-  },
-  {
-   "id": "a6008efb3940",
-   "source": "Servicio Electoral",
-   "title": "Presidenta de Servel se reunió con parlamentarios por proyecto de ley sobre regulación de cuentas automatizadas y uso de IA en campañas electorales",
-   "description": "La Presidenta del Consejo Directivo del Servicio Electoral, Pamela Figueroa, acompañada por el Subdirector de Control del Gasto y Financiamiento Electoral, Guillermo González, sostuvo una reunión con la Diputada Constanza Schonhaut y el Diputado Gonzalo Winter, para abordar un fu",
-   "url": "https://www.servel.cl/Ch/app/presidenta-de-servel-se-reunio-con-parlamentarios-por-proyecto-de-ley-sobre-regulacion-de-cuentas-automatizadas-y-uso-de-ia-en-campanas-electorales/sin-categoria/",
-   "date": "2026-11-02T13:27:55+00:00",
-   "category": "Elecciones",
-   "type": "Oficial"
   },
   {
    "id": "ceed82e26ff0",
