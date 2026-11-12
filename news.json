@@ -1,14 +1,344 @@
 {
- "updated": "2026-11-12T12:57:43.829521+00:00",
+ "updated": "2026-11-12T14:14:22.412144+00:00",
  "items": [
+  {
+   "id": "adceb1167e1e",
+   "source": "Deutsche Welle",
+   "title": "Trump amenaza con duplicar aranceles a México si no frena a migrantes",
+   "description": "Donald Trump amenazó con duplicar de inmediato los aranceles a México si el Gobierno mexicano no detiene nuevas caravanas de migrantes que, según el presidente estadounidense, se dirigen hacia la frontera.",
+   "url": "https://www.dw.com/es/trump-amenaza-con-duplicar-aranceles-a-méxico-si-no-frena-a-migrantes/a-79931643?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-12T14:00:00+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "5af6c4261095",
+   "source": "Radio Cooperativa",
+   "title": "Agostini calificó de \"chantaje\" los bloqueos de los camioneros",
+   "description": "El economista Claudio Agostini , académico de la Universidad Adolfo Ibáñez, calificó de \"chantaje\" los bloqueos de carreteras protagonizados por camioneros en protesta por el alza de los combustibles. En El Primer Café de Cooperativa , cuestionó el peso que han tenido las paraliz",
+   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/agostini-califico-de-chantaje-los-bloqueos-de-los-camioneros/2026-11-12/105741.html",
+   "date": "2026-11-12T13:57:41+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "a99082d6cf48",
+   "source": "Radio Cooperativa",
+   "title": "Oposición repudia \"grave falta de respeto\" de diputada republicana que arremetió contra DD.HH.",
+   "description": "Un grupo de partidos de oposición manifestó su \"enérgico rechazo\" hacia las palabras de la diputada republicana Javiera Rodríguez , quien ayer miércoles acusó al mundo de los derechos humanos de actuar como una empresa lucrativa . Durante el debate de la partida del Ministerio de",
+   "url": "https://www.cooperativa.cl/noticias/pais/dd-hh/oposicion-repudia-grave-falta-de-respeto-de-diputada-republicana-que/2026-11-12/105725.html",
+   "date": "2026-11-12T13:57:25+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "810339dfaa64",
+   "source": "The Guardian",
+   "title": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
+   "description": "Film features testimony from 24 Israeli officials involved in surveillance and remote killing of Palestinian civilians • NAZA is in cinemas worldwide and will screen for free on the Guardian’s website from early December. Sign up here to be the first to watch it. Continue reading",
+   "url": "https://www.theguardian.com/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary",
+   "date": "2026-11-12T13:57:05+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "18e29f9f155a",
+   "source": "Al Jazeera",
+   "title": "Nvidia CEO Jensen Huang steps down amid spy scandal and market loss",
+   "description": "This is a breaking news story.",
+   "url": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo?traffic_source=rss",
+   "date": "2026-11-12T13:55:07+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "3b84b7341768",
    "source": "The Guardian",
    "title": "Young people should get fewer welfare benefits, according to Milburn review on the workforce – UK politics live",
-   "description": "Milburn’s review is considering how to address the growing number of young people classified as not in education, employment or training Continue reading...",
+   "description": "Milburn’s review is considering how to address the growing number of young people classified as not in education, employment or training On the Today programme this morning, the Labour MP Bell Ribeiro-Addy , a prominent leftwinger, indicated she might vote against legislation to ",
    "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
-   "date": "2026-11-12T12:48:21+00:00",
+   "date": "2026-11-12T13:54:31+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "9a7dfbf10641",
+   "source": "The Guardian",
+   "title": "US envoys meet Putin as Zelenskyy says Starlink disrupted for Ukraine’s military again - Europe live",
+   "description": "Restrictions to Starshield ‘directly affect our ability to intercept Russian jet powered drones’, Ukraine’s president says Luxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleag",
+   "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+   "date": "2026-11-12T13:51:51+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "e54a025599b4",
+   "source": "Ex-Ante",
+   "title": "Un viaje por el Teleférico Bicentenario: La impresionante odisea por la ciudad",
+   "description": "Sin duda será un hito para la ciudad. El teleférico Bicentenario -que le hace honor al nombre- es una experiencia de gran nivel tanto por…",
+   "url": "https://www.ex-ante.cl/cronica/viaje-teleferico-bicentenario-impresionante/",
+   "date": "2026-11-12T13:51:18+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "12f6f92345d2",
+   "source": "The Guardian",
+   "title": "Poundland owner secures two extra weeks to ensure retail chain’s survival",
+   "description": "US investment firm Gordon Brothers is ‘taking due care’ to consider if one of three bidders has enough funds Business live – latest updates Poundland’s owner has said it is “taking due care” to consider if one of three bidders had enough funds to ensure its survival after the tro",
+   "url": "https://www.theguardian.com/business/2026/nov/12/poundland-owner-secures-two-extra-weeks-ensure-retail-chains-survival",
+   "date": "2026-11-12T13:46:34+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "fbc465476ca4",
+   "source": "Río en Línea",
+   "title": "Investigan incendio que dejó un hombre de 31 años fallecido en Lanco",
+   "description": "La Fiscalía Regional de Los Ríos investiga un incendio registrado durante la madrugada de este jueves 12 de noviembre en una vivienda de la comuna de Lanco, emergencia que dejó como resultado un hombre de 31 años fallecido. De acuerdo con los antecedentes preliminares, el siniest",
+   "url": "https://www.rioenlinea.cl/investigan-incendio-que-dejo-un-hombre-de-31-anos-fallecido-en-lanco/",
+   "date": "2026-11-12T13:45:23+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "ed6f8d6a4ab1",
+   "source": "The Guardian",
+   "title": "‘A second chance’: children guilty of serious offences will no longer have to declare criminal records",
+   "description": "Government proposal aims to reduce number of children in custody in England and Wales and boost youth employment Children found guilty of robbery, dealing drugs to other children or violent disorder will no longer have to disclose their criminal records to prospective employers u",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/12/children-criminal-records-england-wales-labour",
+   "date": "2026-11-12T13:44:20+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d8f52d12b1b7",
+   "source": "Radio Cooperativa",
+   "title": "Grandes gremios acusan \"anarquía\" en paro de transportistas: Aparecen caciques por todas partes",
+   "description": "Los líderes de los grandes gremios camioneros advirtieron sobre una \"anarquía\" en relación al sector que actualmente permanece movilizado en diversas partes del país. Sergio Pérez , presidente de la Confederación Nacional del Transporte de Carga de Chile (CNTC), y Juan Araya , lí",
+   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/grandes-gremios-acusan-anarquia-en-paro-de-transportistas-aparecen/2026-11-12/104333.html",
+   "date": "2026-11-12T13:43:33+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "cf934ef2bde3",
+   "source": "Radio Cooperativa",
+   "title": "Argentina ya no tiene dos papas: León XIV borró celebrado posteo en redes",
+   "description": "Una curiosa decisión tomó el Vaticano sobre las redes sociales del papa León XIV en medio de su visita oficial a Uruguay, Argentina y Perú, porque un emotivo posteo en X fue borrado , causando sorpresa en Buenos Aires. El 11 de noviembre, al cierre de su paso por Argentina, la cu",
+   "url": "https://www.cooperativa.cl/noticias/mundo/vaticano/papa-leon-xiv/argentina-ya-no-tiene-dos-papas-leon-xiv-borro-celebrado-posteo-en-redes/2026-11-12/104321.html",
+   "date": "2026-11-12T13:43:21+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "48ab8af96ce6",
+   "source": "BBC Mundo",
+   "title": "\"El papa León XIV es mi padrino de bautizo\": la insólita historia de Mildred Camacho, la joven peruana que es ahijada del Sumo Pontífice",
+   "description": "Hace 30 años, el joven sacerdote Robert Prevost Martínez aceptó ser el padrino de bautismo de una niña en Chulucanas, en la región de Piura. Ahora ella espera con ansiedad su visita a Perú como el papa León XIV.",
+   "url": "https://www.bbc.com/mundo/articles/cqly3jpmvvl9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T13:37:10+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "cd7066c72df9",
+   "source": "Radio Cooperativa",
+   "title": "Top 8 olímpico: esgrimista Sofía Bossay brilló al cierre de la actuación del Team Chile en Dakar 2026",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Una sobresaliente jornada firmó la esgrimista del Team Chile S ofía Bossay luego de finalizar entre las ocho mejores especialistas del planeta en la modalidad de sable en los Juegos Olímpicos de la Juventud Dakar 2026. La t",
+   "url": "https://www.cooperativa.cl/noticias/deportes/polideportivo/team-chile/top-8-olimpico-esgrimista-sofia-bossay-brillo-al-cierre-de-la-actuacion/2026-11-12/103627.html",
+   "date": "2026-11-12T13:36:27+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "23add16414ef",
+   "source": "France 24",
+   "title": "Escándalo de Nvidia: ¿cuál es el poder de los microchips que habrían terminado en China?",
+   "description": "China habría conseguido acceder a semiconductores avanzados de Nvidia, según reportes de inteligencia que apuntan a una presunta operación de adquisición y traslado de estos componentes al territorio chino. En el centro de las informaciones aparece Alice Huang, una empresaria chi",
+   "url": "https://www.france24.com/es/programas/ciencia-y-tecnolog%C3%ADa/20261112-esc%C3%A1ndalo-de-nvidia-cu%C3%A1l-es-el-poder-de-los-microchips-que-habr%C3%ADan-terminado-en-china",
+   "date": "2026-11-12T13:31:07+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "c98723f4915b",
+   "source": "France 24",
+   "title": "España ante la huelga general: ¿vivienda digna o estrategia electoral antes del 29-N?",
+   "description": "España vive su primera huelga general desde 2012, una movilización que pretende la reivindicación el acceso a una vivienda digna. Convocada por el Sindicato de Inquilinas y respaldada por UGT y Comisiones Obreras, la protesta pone en el centro del debate la crisis habitacional. E",
+   "url": "https://www.france24.com/es/programas/el-debate/20261112-espa%C3%B1a-ante-la-huelga-general-vivienda-digna-o-estrategia-electoral-antes-del-29-n",
+   "date": "2026-11-12T13:29:05+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "4e576ce7abbe",
+   "source": "Al Jazeera",
+   "title": "Family of killed teen Javits Frimpong calls for justice",
+   "description": "The family of slain Ghanaian teen Javits Frimpong have reiterated demands for justice after police arrested a suspect.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/family-of-killed-teen-javits-frimpong-calls-for-justice?traffic_source=rss",
+   "date": "2026-11-12T13:27:32+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e120919bf13e",
+   "source": "BBC Mundo",
+   "title": "\"Me los quitaron porque yo estaba sola\": la mujer que se reencontró con sus hijos 40 años después de que le fueran arrebatados por la dictadura de Pinochet en Chile",
+   "description": "En 2020, tras hacerse un examen médico, Tim Roinick descubrió la historia de cómo había sido adoptado de forma irregular.",
+   "url": "https://www.bbc.com/mundo/articles/cwr7gr7l9zgvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T13:26:03+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "d069995f8f90",
+   "source": "France 24",
+   "title": "Jensen Huang: de líder de Nvidia a protagonista de un escándalo por infidelidad con presunta espía",
+   "description": "De migrante a líder de la revolución tecnológica: la historia de Jensen Huang. Nacido en Taiwán y trasladado a Estados Unidos en su infancia, el fundador y CEO de NVIDIA transformó una pequeña empresa creada en 1993 en uno de los gigantes mundiales de los semiconductores y la int",
+   "url": "https://www.france24.com/es/video/20261112-jensen-huang-de-l%C3%ADder-de-nvidia-a-protagonista-de-un-esc%C3%A1ndalo-por-infidelidad-con-presunta-esp%C3%ADa",
+   "date": "2026-11-12T13:24:47+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "ee587ec5a656",
+   "source": "Al Jazeera",
+   "title": "More than 1,800 Italian schools targeted by new hoax bomb alerts",
+   "description": "The latest warnings come amid rising concerns ⁠⁠⁠⁠⁠⁠⁠⁠in Europe about hybrid warfare threats.",
+   "url": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
+   "date": "2026-11-12T13:20:20+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "4e0875a97896",
+   "source": "Radio Cooperativa",
+   "title": "El desahogo de San Marcos de Arica tras zafar de la desafiliación: \"Gracias por acompañarnos\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes San Marcos de Arica emitió una declaración pública para agradecer el masivo respaldo ciudadano e institucional recibido durante las semanas en que el club estuvo formalmente desafiliado del fútbol profesional, panorama que ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/el-desahogo-de-san-marcos-de-arica-tras-zafar-de-la-desafiliacion/2026-11-12/102009.html",
+   "date": "2026-11-12T13:20:09+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "99097eab9b7a",
+   "source": "The Guardian",
+   "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+   "description": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine ",
+   "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+   "date": "2026-11-12T13:14:38+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "02aae1136d0c",
+   "source": "Radio Cooperativa",
+   "title": "Negociaciones entre Viña 2027 y Foo Fighters no prosperaron",
+   "description": "Las negociaciones entre la producción del Festival de Viña del Mar y Foo Fighters para tener al grupo en la edición 2027 del certamen no llegaron a buen puerto. Según detalla La Tercera , la organización de Viña se sentó a conversar con Dave Grohl y compañía aprovechando el conci",
+   "url": "https://www.cooperativa.cl/noticias/magazine/festival-de-vina/negociaciones-entre-vina-2027-y-foo-fighters-no-prosperaron/2026-11-12/101406.html",
+   "date": "2026-11-12T13:14:06+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "a1b3d3ad96cd",
+   "source": "Deutsche Welle",
+   "title": "Italia mantiene las clases pese a una nueva ola de amenazas de bomba",
+   "description": "Más de 1.800 escuelas italianas recibieron nuevas amenazas de bomba por correo electrónico. El Gobierno de Giorgia Meloni pide mantener las clases salvo que existan indicios reales de peligro.",
+   "url": "https://www.dw.com/es/italia-mantiene-las-clases-pese-a-una-nueva-ola-de-amenazas-de-bomba/a-79930803?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-12T13:13:00+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "7bfc406b2159",
+   "source": "The Guardian",
+   "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
+   "description": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter AI helps UK economy grow at fastest pace for more than two years The forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in t",
+   "url": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
+   "date": "2026-11-12T13:08:12+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c65380c0e0c8",
+   "source": "BBC Mundo",
+   "title": "El exintegrante de las Brigadas Rojas italianas detenido en Argentina que escapó por un balcón usando un arnés",
+   "description": "Leonardo Bertulazzi, antiguo miembro del grupo guerrillero marxista Brigadas Rojas, estaba a punto de ser extraditado a Italia, su país de origen.",
+   "url": "https://www.bbc.com/mundo/articles/cmly7w7err0yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T13:00:11+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "7c72d135d28c",
+   "source": "Radio Cooperativa",
+   "title": "Aldeas Infantiles cesa actividad en TikTok: \"Tenemos que dar el ejemplo\"",
+   "description": "La ONG Aldeas Infantiles informó este jueves su decisión de cesar su actividad en la red social TikTok tras conocer una denuncia del portal de verificación Maldita.es sobre la difusión, intercambio y venta de material de explotación sexual infantil en la plataforma . \"Como organi",
+   "url": "https://www.cooperativa.cl/noticias/tecnologia/redes-sociales/aldeas-infantiles-cesa-actividad-en-tiktok-tenemos-que-dar-el-ejemplo/2026-11-12/095941.html",
+   "date": "2026-11-12T12:59:41+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "dc8c5e2f8c90",
+   "source": "Al Jazeera",
+   "title": "FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal",
+   "description": "FIFA says its 'security assessments' for the 48-team tournament remain unchanged after US Soccer pulled out.",
+   "url": "https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss",
+   "date": "2026-11-12T12:57:12+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "983d5beab29e",
+   "source": "Al Jazeera",
+   "title": "Canada won’t let Russian players enter for ice hockey junior championship",
+   "description": "Russian, Belarusian athletes and officials will be prevented from entering Canada regardless of their visa status.",
+   "url": "https://www.aljazeera.com/sports/2026/11/12/canada-wont-let-russian-players-enter-for-ice-hockey-junior-championship?traffic_source=rss",
+   "date": "2026-11-12T12:56:27+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "87a759b6692d",
+   "source": "Al Jazeera",
+   "title": "Greta Thunberg: The planet is being killed",
+   "description": "Climate activist Greta Thunberg delivers a stark warning at COP31.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/greta-thunberg-the-planet-is-being-killed?traffic_source=rss",
+   "date": "2026-11-12T12:53:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "eef21bbd0a6c",
+   "source": "Al Jazeera",
+   "title": "Europe views US with ‘much less horror’ after Trump’s midterms defeat",
+   "description": "But experts say Washington’s shift away from Europe runs deeper than Trump and is unlikely to be reversed.",
+   "url": "https://www.aljazeera.com/news/2026/11/12/europe-views-us-with-much-less-horror-after-trumps-midterms-defeat?traffic_source=rss",
+   "date": "2026-11-12T12:51:43+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "16390bf29afa",
+   "source": "Radio Cooperativa",
+   "title": "Gobierno italiano ordena no evacuar colegios ante nueva oleada de amenazas anónimas",
+   "description": "El gobierno de Italia instó este jueves a no evacuar las escuelas y a seguir con las clases con normalidad, en medio de la oleada de falsas amenazas de bomba recibidas por segundo día consecutivo en todo el país con correos electrónicos anónimos. El Ejecutivo, mediante los minist",
+   "url": "https://www.cooperativa.cl/noticias/mundo/italia/gobierno-italiano-ordena-no-evacuar-colegios-ante-nueva-oleada-de/2026-11-12/095109.html",
+   "date": "2026-11-12T12:51:09+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "3fc9bdcf14af",
+   "source": "Radio Cooperativa",
+   "title": "Darío Osorio se quedó sin técnico: Crystal Palace despidió a Pierre Sage tras paupérrima campaña",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Un cambio de timón vivirá el delantero chileno Darío Osorio en el fútbol inglés luego de que Crystal Palace anunciara este jueve s la destitución inmediata de su director técnico, el francés Pierre Sage , luego de completar",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/chilenos-en-el-exterior/dario-osorio-se-quedo-sin-tecnico-crystal-palace-despidio-a-pierre-sage/2026-11-12/095002.html",
+   "date": "2026-11-12T12:50:02+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -52,26 +382,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7bfc406b2159",
-   "source": "The Guardian",
-   "title": "AI helped the UK defy expectations – but will Britain’s resilience fizzle out?",
-   "description": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter AI helps UK economy grow at fastest pace for more than two years The forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in t",
-   "url": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
-   "date": "2026-11-12T12:37:53+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "9a7dfbf10641",
-   "source": "The Guardian",
-   "title": "Zelenskyy urges Europe to ‘pay attention’ to security relations with Russia as US envoys meet Putin - Europe live",
-   "description": "The Ukrainian president said Europe should ‘become a regular part’ of negotiations with Russia Luxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend a",
-   "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-   "date": "2026-11-12T12:32:27+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "b6dc1d89c10d",
    "source": "Al Jazeera",
    "title": "Missing teenager found in bushland during aerial search in Australia",
@@ -82,11 +392,11 @@
    "type": "Prensa"
   },
   {
-   "id": "5b54ca7a957c",
+   "id": "9eb4e056487f",
    "source": "Radio Cooperativa",
-   "title": "Manchester United despidió a Michael Carrick tras el peor arranque de temporada en 40 años",
+   "title": "Manchester United despidió a Carrick tras el peor arranque de temporada en 40 años",
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Manchester United confirmó este jueves el despido de su entrenador, Michael Carrick , después de completar el peor inicio de temporada del club en 40 años y tras permanecer apenas seis meses en el cargo, según adelantó la B",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-inglesa/manchester-united-despidio-a-michael-carrick-tras-el-peor-arranque-de/2026-11-12/092501.html",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-inglesa/manchester-united-despidio-a-carrick-tras-el-peor-arranque-de-temporada/2026-11-12/092501.html",
    "date": "2026-11-12T12:25:01+00:00",
    "category": "",
    "type": "Prensa"
@@ -172,16 +482,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d131b1269531",
-   "source": "Radio Cooperativa",
-   "title": "Delincuentes robaron en la casa de la madre de Charles Aránguiz en Puente Alto",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Un amargo y complejo momento personal golpeó al volante y capitán de Universidad de Chile, Charles Aránguiz , luego de que se confirmara un robo en el domicilio de su madre, Mariana Sandoval, en la comuna de Puente Alto. De",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/charles-aranguiz/delincuentes-robaron-en-la-casa-de-la-madre-de-charles-aranguiz-en/2026-11-12/090203.html",
-   "date": "2026-11-12T12:02:03+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "2ca597d8425a",
    "source": "Al Jazeera",
    "title": "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen",
@@ -202,26 +502,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6f4c6a31a803",
-   "source": "Radio Cooperativa",
-   "title": "Pavez por paro de transportistas: Un gobierno responsable no puede rebajar precios por ley",
-   "description": "En medio del paro nacional de camioneros, el subsecretario del Interior, Máximo Pavez, descartó en Cooperativa la posibilidad de rebajar por ley el precio de los combustibles, asegurando que \"un gobierno responsable\" no puede tomar una medida de este tipo. En conversación con El ",
-   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/pavez-por-paro-de-transportistas-un-gobierno-responsable-no-puede/2026-11-12/085447.html",
-   "date": "2026-11-12T11:54:47+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "1d090d690c36",
-   "source": "Radio Cooperativa",
-   "title": "Incendio destruyó popular centro comercial uruguayo en Colonia",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/mundo/uruguay/incendio-destruyo-popular-centro-comercial-uruguayo-en-colonia/2026-11-12/085335.html",
-   "date": "2026-11-12T11:53:35+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "5fba946cda72",
    "source": "Al Jazeera",
    "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
@@ -229,16 +509,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
    "date": "2026-11-12T11:43:19+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "2071a7ed23af",
-   "source": "The Guardian",
-   "title": "Tim Westwood in court to deny two more sexual offence charges",
-   "description": "Former Radio 1 DJ accused of new offences against women in London and now faces trial in January for 17 charges The former radio DJ Tim Westwood has denied two additional sex offences dating back to 1991 and 2004. His latest not guilty pleas mean he now denies 17 charges against ",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/12/tim-westwood-in-court-to-deny-two-more-sexual-offence-charges",
-   "date": "2026-11-12T11:36:13+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -252,16 +522,6 @@
    "type": "Prensa"
   },
   {
-   "id": "689119efbd1e",
-   "source": "Radio Cooperativa",
-   "title": "Así quedó la tabla del Ascenso tras fallos en los casos de San Marcos y Puerto Montt",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La Segunda Sala del Tribunal Autónomo de Disciplina de la ANFP zanjó los casos de la Liga de Ascenso al dejar sin efecto la drástica sanción de desafiliación que pesaba sobre San Marcos de Arica y ratificando la permanencia",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/asi-quedo-la-tabla-del-ascenso-tras-fallos-en-los-casos-de-san-marcos-y/2026-11-12/083000.html",
-   "date": "2026-11-12T11:30:00+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
    "id": "a92177a95d10",
    "source": "Deutsche Welle",
    "title": "Derrumbe de un edificio en Brooklyn deja al menos 8 muertos",
@@ -269,16 +529,6 @@
    "url": "https://www.dw.com/es/derrumbe-de-un-edificio-en-brooklyn-deja-al-menos-8-muertos/a-79928582?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-12T11:30:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "007a944cd2ba",
-   "source": "Radio Cooperativa",
-   "title": "Influencer Tío Tito fue liberado tras confusa detención: Anunció acciones legales",
-   "description": "Pasada las 2:30 de la madrugada de este jueves fue liberado el influencer conocido como Tío Tito tras protagonizar una confusa detención en una manifestación contra el alza de combustibles . El hombre, cuyo nombre real es Héctor Hernán Peña Meneses, se encontraba participando de ",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/influencer-tio-tito-fue-liberado-tras-confusa-detencion-anuncio/2026-11-12/082854.html",
-   "date": "2026-11-12T11:28:54+00:00",
-   "category": "Empresas y mercados",
    "type": "Prensa"
   },
   {
@@ -302,16 +552,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d73ff706e1c2",
-   "source": "Radio Cooperativa",
-   "title": "Ueno Bank: detuvieron al superintendente de bancos de Paraguay",
-   "description": "El superintendente de Bancos de Paraguay, Holger Insfrán, fue detenido en medio de las investigaciones por la intervención de Ueno Bank y el bloqueo de los ahorros de millones de personas, caso en que han sido enviados a prisión preventiva los ahora expresidente Santiago Peña y e",
-   "url": "https://www.cooperativa.cl/noticias/mundo/paraguay/ueno-bank-detuvieron-al-superintendente-de-bancos-de-paraguay/2026-11-12/081543.html",
-   "date": "2026-11-12T11:15:43+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "c1747ee2b694",
    "source": "The Guardian",
    "title": "European survey reveals 900m galaxies – and possibly secrets of ‘dark universe’",
@@ -319,16 +559,6 @@
    "url": "https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe",
    "date": "2026-11-12T11:08:54+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "4b0d7c06eab1",
-   "source": "Radio Cooperativa",
-   "title": "\"Chapita\" Fuenzalida y Manuel Alfaro en #TeQuieroVer de Hogar de Cristo",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/iglesia-catolica/hogar-de-cristo/chapita-fuenzalida-y-manuel-alfaro-en-tequierover-de-hogar-de-cristo/2026-11-12/075507.html",
-   "date": "2026-11-12T10:55:07+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -369,26 +599,6 @@
    "url": "https://www.bbc.com/mundo/articles/cqj6l2w1je7po?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-12T10:48:37+00:00",
    "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "74211405e993",
-   "source": "Radio Cooperativa",
-   "title": "Pese a concesiones del Gobierno, transportistas mantienen paro por tercer día",
-   "description": "A pesar de que el Gobierno accedió a retrotraer los incrementos -que se aplicarán a partir de hoy jueves- de 38 pesos por litro en las bencinas y de 42 pesos en el diésel , y a congelar dichas tarifas por 90 días , los camioneros paralizados mantienen la protesta, al parecer, de ",
-   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/pese-a-concesiones-del-gobierno-transportistas-mantienen-paro-por/2026-11-12/073801.html",
-   "date": "2026-11-12T10:38:01+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "2cd2f0c05b58",
-   "source": "Radio Cooperativa",
-   "title": "Vuelco total en la B: Segunda Sala entregó su veredicto sobre San Marcos de Arica",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Luego de semanas de incertidumbre que mantuvieron paralizada la definición de la temporada de Primera B, la Segunda Sala del Tribunal Autónomo de Disciplina de la ANFP zanjó de manera definitiva los casos administrativos de",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/vuelco-total-en-la-b-segunda-sala-entrego-su-veredicto-sobre-san-marcos/2026-11-12/073503.html",
-   "date": "2026-11-12T10:35:03+00:00",
-   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -542,16 +752,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a54314f55a81",
-   "source": "Al Jazeera",
-   "title": "Pope Leo welcomed by millions in his second ‘homeland’ of Peru",
-   "description": "On his Latin America tour, the pontiff is expected to spend 3 days in Chiclayo, where ​he was bishop from 2015-2023.",
-   "url": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru?traffic_source=rss",
-   "date": "2026-11-12T07:37:42+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "6010168d1d7e",
    "source": "France 24",
    "title": "Multitudinarias manifestaciones y algunos disturbios: así transcurrió la primera huelga general en España en 14 años",
@@ -572,16 +772,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ebf7790d3853",
-   "source": "Al Jazeera",
-   "title": "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
-   "description": "Netanyahu's fight for political survival turns the parliament's opening into a scene of insults and acrimony.",
-   "url": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy?traffic_source=rss",
-   "date": "2026-11-12T06:49:45+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "32cb1f3315b0",
    "source": "The Guardian",
    "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
@@ -589,46 +779,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
    "date": "2026-11-12T06:43:31+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "63b0d4f10b53",
-   "source": "Al Jazeera",
-   "title": "Indonesia vice president resigns amid dispute over eligibility",
-   "description": "Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education.",
-   "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
-   "date": "2026-11-12T06:38:01+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "a72996f6fe29",
-   "source": "Al Jazeera",
-   "title": "Sheikh Hasina must return to Bangladesh to face her sentence",
-   "description": "Delhi should ensure that its territory is not used to incite violence in Bangladesh or threaten its people.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/12/sheikh-hasina-must-return-to-bangladesh-to-face-her-sentence?traffic_source=rss",
-   "date": "2026-11-12T06:37:06+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "af602820e039",
-   "source": "Al Jazeera",
-   "title": "It is time for a change of leadership in the Democratic Party in the US",
-   "description": "The Democrats need to deliver on an ambitious agenda, and they need new energy and new voices to do so.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/12/it-is-time-for-a-change-of-leadership-in-the-democratic-party-in-the-us?traffic_source=rss",
-   "date": "2026-11-12T06:26:01+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "873cd5cb98b4",
-   "source": "Al Jazeera",
-   "title": "From Pong to GTA VI: Play your way through 50 years of video games",
-   "description": "Video games are now a $200bn business. Play through the six games that tell the story of how they got there.",
-   "url": "https://www.aljazeera.com/features/longform/2026/11/12/from-pong-to-gta-vi-play-your-way-through-50-years-of-video-games?traffic_source=rss",
-   "date": "2026-11-12T06:17:48+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -664,21 +814,11 @@
   {
    "id": "bdab5f9d727f",
    "source": "France 24",
-   "title": "En directo: enviados de EE. UU. llegan al Kremlin; Zelenski: restricciones en Starshield “provocan la muerte de más ucranianos”",
-   "description": "Los enviados de Estados Unidos, Steve Witkoff y Jared Kushner, se reúnen este jueves 12 de noviembre con el mandatario ruso, Vladímir Putin, en Moscú. Y, posteriormente, con el presidente ucraniano, Volodímir Zelenski, en Dublín, en medio de una nueva jornada de ataques entre Rus",
+   "title": "En directo: Putin propone misión humanitaria en Kostiantynivka en la reunión con enviados de EE. UU.",
+   "description": "Al inicio de la reunión con los enviados de Estados Unidos, Steve Witkoff y Jared Kushner, el presidente ruso Vladímir Putin sugirió un nuevo corredor humanitario para asistir a los cientos de civiles que permanecen en Konstiantynivka, en el este de Ucrania. También se mostró abi",
    "url": "https://www.france24.com/es/europa/20261112-en-directo-enviados-de-ee-uu-se-re%C3%BAnen-con-putin-este-jueves-tras-nuevo-cruce-de-ataques-entre-rusia-y-ucrania",
    "date": "2026-11-12T05:35:45+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "6cdcc335aa88",
-   "source": "Al Jazeera",
-   "title": "French guard collapses as Macron rushes to help",
-   "description": "A member of the French honour guard collapsed during Slovak President Peter Pellegrini’s arrival at the Elysee Palace.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss",
-   "date": "2026-11-12T05:11:15+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -902,16 +1042,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e4ad527e240b",
-   "source": "Río en Línea",
-   "title": "Amtmann y Cuvertino llevan a Kast prioridades regionales: Hospital, doble vía y puente Cochrane",
-   "description": "La adquisición de terrenos para el nuevo Hospital Regional, la doble vía de acceso a Valdivia y el futuro del puente Cochrane fueron algunos de los principales proyectos que la alcaldesa Carla Amtmann y el gobernador regional Luis Cuvertino plantearon al Presidente José Antonio K",
-   "url": "https://www.rioenlinea.cl/amtmann-y-cuvertino-llevan-a-kast-prioridades-regionales-hospital-doble-via-y-puente-cochrane/",
-   "date": "2026-11-11T23:30:34+00:00",
-   "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
    "id": "5c16eca9028c",
    "source": "France 24",
    "title": "¿Misión de rescate o apuesta política de Bukele?: dudas por el despliegue militar de El Salvador en Haití",
@@ -952,26 +1082,6 @@
    "type": "Prensa"
   },
   {
-   "id": "139950b0c8be",
-   "source": "France 24",
-   "title": "\"El papa vuelve a casa\": Perú está de fiesta por la llegada de León XIV",
-   "description": "El papa León XIV aterriza en Lima y la fiesta se prende en todo Perú. Los fieles católicos celebran por todo lo alto la llegada de Robert Francis Prevost, el primer papa con nacionalidad peruana, que pasó más de veinte años ejerciendo, empezando como misionero, hasta llegar a obi",
-   "url": "https://www.france24.com/es/video/20261111-el-papa-vuelve-a-casa-per%C3%BA-est%C3%A1-de-fiesta-por-la-llegada-de-le%C3%B3n-xiv",
-   "date": "2026-11-11T22:50:02+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "61c382b6b3d8",
-   "source": "France 24",
-   "title": "León XIV aterriza en Perú: la emotiva llegada del papa a su tierra adoptiva",
-   "description": "",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261111-en-directo-le%C3%B3n-xiv-visita-la-c%C3%A1rcel-de-devoto-un-lugar-emblem%C3%A1tico-para-el-papa-francisco-y-lleva-un-mensaje-de-esperanza-a-los-presos",
-   "date": "2026-11-11T22:09:05+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "a4ba8c6e8b02",
    "source": "Ex-Ante",
    "title": "La demoledora respuesta del Poder Judicial a la demanda en que el juez Urrutia pide $77 millones (lea el documento)",
@@ -992,16 +1102,6 @@
    "type": "Prensa"
   },
   {
-   "id": "972f188a72ea",
-   "source": "Deutsche Welle",
-   "title": "OTAN asegura que Estados Unidos, Europa y Ucrania están \"completamente alineados y unidos\"",
-   "description": "Ahora habrá que ver si \"Rusia está dispuesta a participar en el juego\", expresó el jefe de la alianza militar.",
-   "url": "https://www.dw.com/es/otan-asegura-que-estados-unidos-europa-y-ucrania-están-completamente-alineados-y-unidos/a-79924342?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-11T21:18:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "b73eb6646814",
    "source": "Ex-Ante",
    "title": "Video: El ataque de las tropas de Bukele a la principal banda Haití (y su envío de 2.500 soldados a ese país )",
@@ -1012,16 +1112,6 @@
    "type": "Prensa"
   },
   {
-   "id": "404a00cef4fb",
-   "source": "France 24",
-   "title": "El 'ministerio del Noviazgo' en Brasil: Lula y su promesa de que todo el mundo va a tener pareja",
-   "description": "“En mi Gobierno, todo el mundo va a tener pareja”. Esta fue la promesa que Luiz Inácio Lula da Silva hizo a los brasileños durante la campaña electoral de 2022, cuando aspiraba a conquistar su tercer mandato. Ahora, sus seguidores intentan materializar esa iniciativa. En la misma",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261111-el-ministerio-del-noviazgo-en-brasil-lula-y-su-promesa-de-que-todo-el-mundo-va-a-tener-pareja",
-   "date": "2026-11-11T20:55:33+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "ae1e8f9975b0",
    "source": "Ex-Ante",
    "title": "Quiénes paralizaron el proyecto minero de Barrick en la zona de Pascua Lama",
@@ -1029,16 +1119,6 @@
    "url": "https://www.ex-ante.cl/negocios/pascua-lama-proyecto-barrick-paralizaron/",
    "date": "2026-11-11T20:54:44+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "cd2a86da2b14",
-   "source": "Deutsche Welle",
-   "title": "España vive huelga general y protestas por la vivienda antes de elecciones",
-   "description": "En Madrid, unas 120.000 personas marcharon y otras miles también salieron a las calles en numerosas ciudades del país.",
-   "url": "https://www.dw.com/es/españa-vive-huelga-general-y-protestas-por-la-vivienda-antes-de-elecciones/a-79924314?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-11T20:50:00+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1060,16 +1140,6 @@
    "date": "2026-11-11T20:31:24+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "daf988769506",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver a Tabilo versus Michelsen en el ATP de Estocolmo?",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Alejandro Tabilo (31° del ranking ATP) enfrentará este jueves 12 de noviembre al estadounidense Alex Michelsen (35°) , por los cuartos de final del ATP 250 de Estocolmo, en Suecia, con el objetivo de avanzar a las semifinal",
-   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/alejandro-tabilo/cuando-y-donde-ver-a-tabilo-versus-michelsen-en-el-atp-de-estocolmo/2026-11-11/172753.html",
-   "date": "2026-11-11T20:27:53+00:00",
-   "category": "",
-   "type": "Prensa"
   },
   {
    "id": "e68c086e3f75",
@@ -1108,16 +1178,6 @@
    "description": "Marshall Islands president warns of worsening floods as UN chief calls for a windfall tax on oil and gas firms Failure to provide an overwhelming response to the climate crisis means “the world we know is over”, the president of the embattled Marshall Islands has warned, as dozen",
    "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
    "date": "2026-11-11T18:52:08+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "529a0072645a",
-   "source": "The Guardian",
-   "title": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
-   "description": "Twenty-four-hour stoppage draws high participation weeks before election in which far right could gain power Millions of people across Spain have joined the country’s first general strike in 14 years, setting up picket lines to protest against soaring housing prices before an ele",
-   "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
-   "date": "2026-11-11T18:51:02+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -1322,16 +1382,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e301818082e3",
-   "source": "Ex-Ante",
-   "title": "Derogar la ley 19.856 es botar el bebé junto al agua sucia de la bañera",
-   "description": "El gobierno no puede expiar su culpa por haber validado rebajas de penas para estos crímenes atroces eliminando la aspiración de obtener rebajas de sus…",
-   "url": "https://www.ex-ante.cl/opinion/auth-no-botemos-bebe-agua-sucia-banera/",
-   "date": "2026-11-11T13:47:08+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "991d78cbfbf9",
    "source": "Servicio Electoral",
    "title": "Servel Los Ríos promovió la democracia escolar y la participación ciudadana en el Liceo Armando Robles Rivera de Valdivia",
@@ -1419,16 +1469,6 @@
    "url": "https://www.theguardian.com/global-development/2026/nov/11/woman-in-saudi-arabia-sentenced-to-100-lashes-for-giving-birth-outside-marriage",
    "date": "2026-11-11T09:15:44+00:00",
    "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "ee4ca20cb695",
-   "source": "The Guardian",
-   "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
-   "description": "Bessent, driving force behind US push to cripple Iran’s economy, relocates over alleged threat to his life The US Treasury secretary, Scott Bessent, has relocated from his home in the Washington area to a military base after an Iranian threat against his life, the New York Times ",
-   "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
-   "date": "2026-11-11T09:11:30+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1669,16 +1709,6 @@
    "url": "https://www.ciperchile.cl/2026/11/10/radar-10-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-10-11-26",
    "date": "2026-11-10T23:31:31+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "bc821404cc50",
-   "source": "BBC Mundo",
-   "title": "Detienen en Reino Unido a un militar de alto rango de EE.UU. bajo sospecha de espiar para Rusia",
-   "description": "El militar de 41 años está acusado de colaborar con los rusos. Fue detenido en una base que sirve a EE.UU. y la OTAN en Inglaterra.",
-   "url": "https://www.bbc.com/mundo/articles/cqlyj888nnj9o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T21:23:12+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1959,16 +1989,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
    "date": "2026-11-10T07:30:31+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "c4eedf9720be",
-   "source": "BBC Mundo",
-   "title": "\"Es insostenible\": El Hierro, la isla de 12.000 habitantes en España a la que han llegado 8.000 migrantes en barca en las últimas 5 semanas",
-   "description": "La isla canaria de El Hierro vide desde hace unas semanas una mayor afluencia de cayucos y la acogida de migrantes pone el sistema sanitario al borde del colapso.",
-   "url": "https://www.bbc.com/mundo/articles/c5vgjg9dvjgzo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T04:04:55+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -2268,16 +2288,6 @@
    "description": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their families The leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murders of 190 children and one adult in one of the world’s w",
    "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
    "date": "2026-11-06T15:08:43+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "db8d116997a2",
-   "source": "The Guardian",
-   "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-   "description": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nelson Mandela falling to under a third of t",
-   "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-   "date": "2026-11-06T12:48:37+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
