@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T17:47:23.949865+00:00",
+ "updated": "2026-11-12T18:45:57.205969+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -49,12 +49,13 @@
   },
   "Deutsche Welle": {
    "ok": true,
-   "n": 29,
+   "n": 30,
    "url": "https://rss.dw.com/xml/rss-sp-all"
   },
   "France 24": {
-   "ok": false,
-   "err": "HTTP Error 403: Forbidden"
+   "ok": true,
+   "n": 24,
+   "url": "https://www.france24.com/es/rss"
   },
   "Al Jazeera": {
    "ok": true,
