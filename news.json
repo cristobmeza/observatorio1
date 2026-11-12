@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-12T08:22:18.928080+00:00",
+ "updated": "2026-11-12T09:53:06.532059+00:00",
  "items": [
+  {
+   "id": "476841b16ec8",
+   "source": "Al Jazeera",
+   "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
+   "description": "For decades, these bases allowed the US to wage faraway wars. Now, Iran has changed that calculation.",
+   "url": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss",
+   "date": "2026-11-12T09:38:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "9a7dfbf10641",
+   "source": "The Guardian",
+   "title": "Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live",
+   "description": "Ukraine’s president said unwelcome ‘speed restrictions’ on military connectivity are ‘helping the Russians kill’ I am also keeping one eye on another bomb alert in Europe, this time at Calais-Fréthun station in northern France. The station remains closed as the alert is getting “",
+   "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+   "date": "2026-11-12T09:27:44+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "9d196d4bd084",
+   "source": "The Guardian",
+   "title": "AI helps UK economy grow at fastest pace for more than two years",
+   "description": "GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices Business live – latest updates The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, as the rollout of AI services increased act",
+   "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
+   "date": "2026-11-12T09:12:52+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "70549b30b067",
+   "source": "The Guardian",
+   "title": "Argentina threatens UK oil firm CEO with jail over Falklands drilling",
+   "description": "Exclusive: Legal notice comes as Buenos Aires ramps up rhetoric over UK territory and seeks to halt Sea Lion project The Argentinian government threatened a British businessman involved in an offshore Falkland Islands oil project with jail, the Guardian can reveal. Sam Moody, the",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/12/argentina-threatens-uk-oil-firm-ceo-with-jail-over-falklands-drilling",
+   "date": "2026-11-12T09:11:09+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "f17073a3279c",
+   "source": "Al Jazeera",
+   "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+   "description": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
+   "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+   "date": "2026-11-12T09:01:24+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "869c82f4b36d",
+   "source": "Al Jazeera",
+   "title": "India bypasses own rules to buy Israeli phone-hacking tech",
+   "description": "India's expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.",
+   "url": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
+   "date": "2026-11-12T08:40:08+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "eed797126503",
+   "source": "Deutsche Welle",
+   "title": "Jensen Huang, el rey de los chips de IA, al borde de ser destituido de Nvidia",
+   "description": "La junta de Nvidia debate la destitución de Jensen Huang tras el escándalo por sus relaciones extramatrimoniales y los presuntos vínculos de una de sus amantes con el espionaje chino.",
+   "url": "https://www.dw.com/es/jensen-huang-el-rey-de-los-chips-de-ia-al-borde-de-ser-destituido-de-nvidia/a-79926415?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-12T08:38:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "1d8cfe517c5a",
+   "source": "Al Jazeera",
+   "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+   "description": "Officers were returning from a mine in Kohat district when fighters opened fire on them, authorities say.",
+   "url": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
+   "date": "2026-11-12T08:35:20+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "d060a8e78680",
+   "source": "Al Jazeera",
+   "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
+   "description": "Xi Jinping, President of China, has called for the peaceful ‘reunification’ of Taiwan with China.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
+   "date": "2026-11-12T08:34:45+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "85831d2b4cd1",
+   "source": "The Guardian",
+   "title": "‘Tourists hate themselves’ – which is why Tasmania is telling them to stay away",
+   "description": "Island state declares it ‘is not really for tourists’ – but is the marketing strategy just a cheeky piece of reverse psychology? Get our breaking news email , free app or daily news podcast Research shows “tourists hate themselves” – which is exactly why the marketing flacks at T",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away",
+   "date": "2026-11-12T08:30:57+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e3685a9d40a1",
+   "source": "Al Jazeera",
+   "title": "Mississippi elects first Black Senator since 1874",
+   "description": "Democrat Scott Colom has won Mississippi’s Senate race, becoming the state’s first Black senator since 1874.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/mississippi-elects-first-black-senator-since-1874?traffic_source=rss",
+   "date": "2026-11-12T08:12:40+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "853b4503824a",
    "source": "France 24",
@@ -12,22 +122,22 @@
    "type": "Prensa"
   },
   {
-   "id": "ea982accce4e",
-   "source": "The Guardian",
-   "title": "Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’",
-   "description": "Regulator to hasten review over concerns that firms are ‘undermining’ rules to make large payments to bosses The water company bonus ban is set to be tightened after the regulator accused the industry of a risk of “damaging public trust” with large payments to bosses that appeare",
-   "url": "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat",
-   "date": "2026-11-12T07:59:52+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "id": "c84648555b32",
+   "source": "Al Jazeera",
+   "title": "Photos: Protesters clash with police after housing cost rallies in Spain",
+   "description": "Anger over housing affordability and purchasing power leads to clashes amid Spain's first general strike in 14 years.",
+   "url": "https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain?traffic_source=rss",
+   "date": "2026-11-12T08:01:29+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
-   "id": "9d196d4bd084",
+   "id": "ea982accce4e",
    "source": "The Guardian",
-   "title": "UK economy grows at fastest pace for more than two years",
-   "description": "GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, confirming that consumers and businesses remained resilient despite high o",
-   "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
-   "date": "2026-11-12T07:56:19+00:00",
+   "title": "Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’",
+   "description": "Regulator to hasten review over concerns that firms are ‘undermining’ rules to make large payments to bosses Business live – latest updates The water company bonus ban is set to be tightened after the regulator accused the industry of a risk of “damaging public trust” with large ",
+   "url": "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat",
+   "date": "2026-11-12T07:59:52+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -472,16 +582,6 @@
    "type": "Prensa"
   },
   {
-   "id": "048c1d6b27cd",
-   "source": "Al Jazeera",
-   "title": "Three-storey building collapses in Brooklyn",
-   "description": "A three-storey building collapsed in Brooklyn, New York, killing at least two people and injuring several others.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss",
-   "date": "2026-11-12T01:50:36+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "7f3570121bed",
    "source": "Radio Cooperativa",
    "title": "Detienen al influencer Tío Tito durante caravana contra el alza de los combustibles",
@@ -489,36 +589,6 @@
    "url": "https://www.cooperativa.cl/noticias/magazine/personajes/detienen-al-influencer-tio-tito-durante-caravana-contra-el-alza-de-los/2026-11-11/224225.html",
    "date": "2026-11-12T01:42:25+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "0120f7c1fd77",
-   "source": "Al Jazeera",
-   "title": "What could Chinese intelligence have learned from Nvidia CEO’s affair?",
-   "description": "Nvidia says no secrets were compromised, but experts question what sensitive information may have been exposed.",
-   "url": "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss",
-   "date": "2026-11-12T01:33:09+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "51d90268c8b9",
-   "source": "The Guardian",
-   "title": "Human torso found in sofa in Sydney bushland prompts homicide investigation",
-   "description": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man Get our breaking news email , free app or daily news podcast New South Wales police have entered their second day searching for human remains after a human torso",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
-   "date": "2026-11-12T01:27:01+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "90a2b629ca5b",
-   "source": "Al Jazeera",
-   "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
-   "description": "Gaza's Civil Defence says an Israeli strike on Nasser Hospital has killed at least six people.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
-   "date": "2026-11-12T01:20:55+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -539,16 +609,6 @@
    "url": "https://www.cooperativa.cl/noticias/magazine/personajes/yamila-reyna-arriesgaria-millonaria-multa-por-hablar-de-americo-cifra/2026-11-11/220722.html",
    "date": "2026-11-12T01:07:22+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "df0e6e21d850",
-   "source": "Al Jazeera",
-   "title": "Former Italian Red Brigades member escapes house arrest in Argentina",
-   "description": "Bertulazzi used a rope and harness to climb down from a fifth-floor apartment and evade authorities in Argentina.",
-   "url": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss",
-   "date": "2026-11-12T01:04:28+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -579,26 +639,6 @@
    "url": "https://www.france24.com/es/video/20261112-por-qu%C3%A9-est%C3%A1n-siendo-amenazados-con-falsos-ataques-sectores-de-la-cotidianidad-de-europa",
    "date": "2026-11-12T00:43:54+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "ff66a2078a4d",
-   "source": "Al Jazeera",
-   "title": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
-   "description": "Chip giant's stock price falls more than 8 percent amid speculation over co-founder's position.",
-   "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
-   "date": "2026-11-12T00:43:26+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "3cce22b10a35",
-   "source": "Al Jazeera",
-   "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
-   "description": "Guard at memorial site can be heard yelling at group to 'maintain an atmosphere of silence and respect at all times'.",
-   "url": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-   "date": "2026-11-12T00:42:37+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -639,16 +679,6 @@
    "url": "https://www.france24.com/es/video/20261112-directo-a-asunci%C3%B3n-y-los-hasta-15-a%C3%B1os-de-c%C3%A1rcel-a-los-que-se-podr%C3%ADa-enfrentar-expresidente-pe%C3%B1a",
    "date": "2026-11-12T00:37:34+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "5816e7c34d4a",
-   "source": "Al Jazeera",
-   "title": "Why the US, Mexico and Guatemala may lose their measles-free status",
-   "description": "An independent commission is reviewing whether countries in the Americas still meet measles elimination criteria.",
-   "url": "https://www.aljazeera.com/news/2026/11/12/why-the-us-mexico-and-guatemala-may-lose-their-measles-free-status?traffic_source=rss",
-   "date": "2026-11-12T00:33:44+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -789,16 +819,6 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-agenda-de-la-roja-en-el-mundial-sub-17-catar-2026/2026-11-11/193425.html",
    "date": "2026-11-11T22:34:25+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "91f1331b6d85",
-   "source": "The Guardian",
-   "title": "UK appoints world’s first special representative for climate security",
-   "description": "Exclusive: Madeleine Alessandri, chair of the joint intelligence committee, will take on the role of advising No 10 on climate-related national security risks The UK government has appointed the world’s first special representative for climate security, in the strongest sign yet ",
-   "url": "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security",
-   "date": "2026-11-11T22:30:01+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -992,16 +1012,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1611ad4e7d54",
-   "source": "Deutsche Welle",
-   "title": "Megaspeed: la empresa en el centro del caso del CEO de Nvidia y la \"espía china\"",
-   "description": "La relación extramatrimonial de Jensen Huang con una presunta espía china ha puesto el foco en Megaspeed, la empresa para la que ella trabajaba. La compañía está siendo investigada en EE. UU. por contrabando de chips.",
-   "url": "https://www.dw.com/es/megaspeed-la-empresa-en-el-centro-del-caso-del-ceo-de-nvidia-y-la-espía-china/a-79923899?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-11T18:59:00+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "99ec4ef7848b",
    "source": "The Guardian",
    "title": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
@@ -1169,16 +1179,6 @@
    "url": "https://www.dw.com/es/uefa-prepara-rival-para-infantino-blatter-agita-a-la-fifa/a-79922383?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-11T16:00:00+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "208434e4db6c",
-   "source": "The Guardian",
-   "title": "Is the US blue wave a turning point for Europe, too?",
-   "description": "Far-right populists remain insurgent and pro-EU governments are braced for Trump’s betrayal. But the midterms also showed that democracy can fight back • Don’t get This Is Europe delivered to your inbox? Sign up here “Is Maga dead?” asked Margaret, a Guardian reader in Switzerlan",
-   "url": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too",
-   "date": "2026-11-11T15:40:52+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
