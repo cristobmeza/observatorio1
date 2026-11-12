@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-12T09:53:06.532059+00:00",
+ "updated": "2026-11-12T10:55:28.210181+00:00",
  "items": [
+  {
+   "id": "86c07cbada87",
+   "source": "Al Jazeera",
+   "title": "China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’",
+   "description": "Nvidia CEO is under investigation for an affair with a woman whom US intelligence believes to be a Chinese spy.",
+   "url": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
+   "date": "2026-11-12T10:49:41+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "34f3b0e2e09b",
+   "source": "BBC Mundo",
+   "title": "Qué es el ejercicio incidental, la manera de mantenernos en forma y saludables sin intentarlo",
+   "description": "La actividad incidental puede reducir nuestro riesgo de padecer enfermedades cardiovasculares e incluso de morir. Puedes incorporar algunas formas sencillas de realizarla durante una reunión, en un vuelo o mientras lees este artículo.",
+   "url": "https://www.bbc.com/mundo/articles/cqj6l2w1je7po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T10:48:37+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "876876328c9c",
+   "source": "The Guardian",
+   "title": "Far-right activist Daniel Thomas admits criminal damage of dinghy in the Channel",
+   "description": "Thomas changes plea over slashing boat with knife after watching occupants being helped by rescue services The far-right activist Daniel Thomas has admitted criminal damage after slashing an inflatable dinghy with a knife in the Channel. The 37-year-old, who is known as Danny Tom",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/12/far-right-activist-daniel-thomas-admits-criminal-damage-slashing-dinghy-channel",
+   "date": "2026-11-12T10:47:32+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "3b84b7341768",
+   "source": "The Guardian",
+   "title": "Young people should get fewer welfare benefits, according to Milburn review on the workforce – UK politics live",
+   "description": "Milburn’s review is considering how to address the growing number of young people classified as not in education, employment or training “Britain is back and ready to play its full part,” Andy Burnham has said at the opening of today’s Cop31 summit. The UK prime minister celebrat",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
+   "date": "2026-11-12T10:44:31+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "74211405e993",
+   "source": "Radio Cooperativa",
+   "title": "Pese a concesiones del Gobierno, transportistas mantienen paro por tercer día",
+   "description": "A pesar de que el Gobierno accedió a retrotraer los incrementos -que se aplicarán a partir de hoy jueves- de 38 pesos por litro en las bencinas y de 42 pesos en el diésel , y a congelar dichas tarifas por 90 días , los camioneros paralizados mantienen la protesta, al parecer, de ",
+   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/pese-a-concesiones-del-gobierno-transportistas-mantienen-paro-por/2026-11-12/073801.html",
+   "date": "2026-11-12T10:38:01+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "9a7dfbf10641",
+   "source": "The Guardian",
+   "title": "Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live",
+   "description": "Ukraine’s president said unwelcome ‘speed restrictions’ on military connectivity are ‘helping the Russians kill’ A quick update on the bomb alert at Calais train station ( 10:22 , 10:45 ): the traffic has now resumed, the local authorities and Eurostar confirmed. Meanwhile, US en",
+   "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+   "date": "2026-11-12T10:37:18+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "0bf1a834033b",
+   "source": "France 24",
+   "title": "Nvidia y el futuro de Jensen Huang: ¿cómo su romance con una presunta espía china podría sacudir a Washington?",
+   "description": "El consejo de administración de Nvidia se reunió para evaluar la continuidad de Jensen Huang al frente de la compañía, después de que salieran a la luz informaciones sobre sus presuntas relaciones extramatrimoniales, una de ellas con una empresaria china investigada por sus posib",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261112-nvidia-y-el-futuro-de-jensen-huang-c%C3%B3mo-su-romance-con-una-presunta-esp%C3%ADa-china-podr%C3%ADa-sacudir-a-washington",
+   "date": "2026-11-12T10:33:36+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "0d5ad5d65957",
+   "source": "Al Jazeera",
+   "title": "Manchester United sack Michael Carrick as manager",
+   "description": "This is a breaking news story.",
+   "url": "https://www.aljazeera.com/news/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss",
+   "date": "2026-11-12T10:33:29+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "52f48e217415",
+   "source": "The Guardian",
+   "title": "UK drone maker founded by Ukrainians hits £4.5bn value after raising £500m",
+   "description": "Britain’s national wealth fund invests £113m in UForce, whose equipment has been used heavily in war with Russia A London-based naval drone maker founded by Ukrainians has reached a £4.5bn valuation after it raised more than £500m from investors including the UK government. UForc",
+   "url": "https://www.theguardian.com/business/2026/nov/12/uk-drone-maker-ukraine-value-uforce",
+   "date": "2026-11-12T10:31:50+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "de7a1c066933",
+   "source": "The Guardian",
+   "title": "‘Like priests who don’t believe in God’: Italy’s anti-vax medics eye return to frontline duty",
+   "description": "Progress of bill to reinstate struck-off doctors hinged on support from far right figure Roberto Vannacci, whose rise is shaping politics before 2027 elections Antonio Cremasco contracted Covid at a dinner party on 6 March 2020. Four days later, as Italy became the first European",
+   "url": "https://www.theguardian.com/world/2026/nov/12/italy-anti-vax-medics-return-vote-meloni",
+   "date": "2026-11-12T10:20:09+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "226aacdd3f92",
+   "source": "Radio Cooperativa",
+   "title": "Israel bombardeó un hospital en la Franja de Gaza: al menos seis muertos",
+   "description": "Israel atacó el hospital gazatí de Nasser, al sur de la Franja de Gaza , durante la madrugada de este jueves, acción que mató al menos a seis personas e hirió a otra treintena , incluyendo a personal sanitario, según informaron fuentes de este centro médico y confirmó el Ejército",
+   "url": "https://www.cooperativa.cl/noticias/mundo/medio-oriente/conflicto-israel-palestina/israel-bombardeo-un-hospital-en-la-franja-de-gaza-al-menos-seis-muertos/2026-11-12/070100.html",
+   "date": "2026-11-12T10:01:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "476841b16ec8",
    "source": "Al Jazeera",
@@ -12,13 +122,13 @@
    "type": "Prensa"
   },
   {
-   "id": "9a7dfbf10641",
+   "id": "e1d0d5243eaf",
    "source": "The Guardian",
-   "title": "Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live",
-   "description": "Ukraine’s president said unwelcome ‘speed restrictions’ on military connectivity are ‘helping the Russians kill’ I am also keeping one eye on another bomb alert in Europe, this time at Calais-Fréthun station in northern France. The station remains closed as the alert is getting “",
-   "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-   "date": "2026-11-12T09:27:44+00:00",
-   "category": "Rusia y espacio postsoviético",
+   "title": "‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland",
+   "description": "William, 17, was reported missing after straying from his camp near Walhalla in Victoria’s Gippsland region Get our breaking news email , free app or daily news podcast A teenager has shared an emotional reunion with his mother after being found alive following almost a week lost",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
+   "date": "2026-11-12T09:35:44+00:00",
+   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -129,16 +239,6 @@
    "url": "https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain?traffic_source=rss",
    "date": "2026-11-12T08:01:29+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "ea982accce4e",
-   "source": "The Guardian",
-   "title": "Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’",
-   "description": "Regulator to hasten review over concerns that firms are ‘undermining’ rules to make large payments to bosses Business live – latest updates The water company bonus ban is set to be tightened after the regulator accused the industry of a risk of “damaging public trust” with large ",
-   "url": "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat",
-   "date": "2026-11-12T07:59:52+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -512,16 +612,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e1d0d5243eaf",
-   "source": "The Guardian",
-   "title": "‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland",
-   "description": "William, 17, was reported missing after straying from his camp near Walhalla in Victoria’s Gippsland region Get our breaking news email , free app or daily news podcast A teenager has shared an emotional reunion with his mother after being found alive following almost a week lost",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
-   "date": "2026-11-12T02:30:28+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "2390de1fbf2c",
    "source": "France 24",
    "title": "Primera huelga general en 14 años por el costo de vida en toda España",
@@ -532,32 +622,12 @@
    "type": "Prensa"
   },
   {
-   "id": "b3ea6c3be7b3",
-   "source": "Al Jazeera",
-   "title": "Indonesian VP resigns over education qualification row",
-   "description": "Indonesia's Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
-   "date": "2026-11-12T02:22:48+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "6fd3e5c37315",
    "source": "Radio Cooperativa",
    "title": "Chile descartó pedir permiso a Argentina por ruta marítima a las Malvinas",
    "description": "El canciller Francisco Pérez-Mackenna afirmó este miércoles que Chile no solicitará autorización a Argentina para operar la nueva ruta comercial marítima entre Punta Arenas y las Islas Malvinas , defendiendo el derecho a la libre navegación establecido en la Convención de Nacione",
    "url": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/argentina/chile-descarto-pedir-permiso-a-argentina-por-ruta-maritima-a-las-malvinas/2026-11-11/230741.html",
    "date": "2026-11-12T02:07:41+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "549121a908c9",
-   "source": "Al Jazeera",
-   "title": "Argentina’s Milei cries as he bids farewell to the Pope",
-   "description": "President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss",
-   "date": "2026-11-12T02:03:30+00:00",
    "category": "América Latina",
    "type": "Prensa"
   },
@@ -599,26 +669,6 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mundial-sub-17/estaba-en-el-grupo-de-chile-ee-uu-se-retiro-del-mundial-sub-17-en/2026-11-11/221534.html",
    "date": "2026-11-12T01:15:34+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "b2811121e3a9",
-   "source": "Radio Cooperativa",
-   "title": "Yamila Reyna arriesgaría millonaria multa por hablar de Américo: cifra llegaría a $700 mil dólares",
-   "description": "Yamila Reyna podría enfrentar una nueva controversia , luego de que Cecilia Gutiérrez revelara antecedentes sobre una cláusula económica que estaría incluida en el acuerdo que la actriz firmó con Américo tras el cierre de su causa por violencia intrafamiliar. Durante el programa ",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/yamila-reyna-arriesgaria-millonaria-multa-por-hablar-de-americo-cifra/2026-11-11/220722.html",
-   "date": "2026-11-12T01:07:22+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "b0967ff36183",
-   "source": "Radio Cooperativa",
-   "title": "Gobierno retrotraerá el alza de este jueves y congelará precios de las bencinas hasta febrero",
-   "description": "El biministro del Interior y Segegob, Claudio Alvarado , anunció nuevas medidas para destrabar el paro de camioneros por el alza de los combustibles, luego de la reunión que se realizó este miércoles con la Confederación de Transportistas Fuerza del Norte (CTFN) y la Confederació",
-   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/gobierno-retrotraera-el-alza-de-este-jueves-y-congelara-precios-de-las/2026-11-11/215316.html",
-   "date": "2026-11-12T00:53:16+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -702,26 +752,6 @@
    "type": "Prensa"
   },
   {
-   "id": "781a3fdae26c",
-   "source": "The Guardian",
-   "title": "Bronze leg found in Scottish bog sheds new light on Roman occupation",
-   "description": "Once thought to have been looted by Scottish tribes, the gilded limb is the centrepiece of a new exhibition on Roman Scotland in Edinburgh A large bronze leg found in a bog in rural Scotland more than 200 years ago and then hidden away in a duke’s storeroom is helping to rewrite ",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/12/bronze-leg-scottish-bog-roman-occupation-exhibit",
-   "date": "2026-11-12T00:01:03+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "0377be3d4034",
-   "source": "The Guardian",
-   "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
-   "description": "Inspectors find some officers acted on potential matches from retrospective searches without making enough checks Police officers risk arresting innocent people, especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, an official report ha",
-   "url": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
-   "date": "2026-11-12T00:01:03+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "130e5ebca010",
    "source": "France 24",
    "title": "Cientos de escuelas evacuadas en Italia por falsas amenazas de bomba",
@@ -729,16 +759,6 @@
    "url": "https://www.france24.com/es/video/20261111-cientos-de-escuelas-evacuadas-en-italia-por-falsas-amenazas-de-bomba",
    "date": "2026-11-11T23:59:49+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "399a9ed3b6eb",
-   "source": "Radio Cooperativa",
-   "title": "Tensión en la ruta: Automovilista enfrentó a manifestantes y Carabineros evitó una paliza",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/medioambiente/tension-en-la-ruta-automovilista-enfrento-a-manifestantes-y-carabineros/2026-11-11/204025.html",
-   "date": "2026-11-11T23:40:25+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -952,6 +972,16 @@
    "type": "Académica"
   },
   {
+   "id": "daf988769506",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver a Tabilo versus Michelsen en el ATP de Estocolmo?",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Alejandro Tabilo (31° del ranking ATP) enfrentará este jueves 12 de noviembre al estadounidense Alex Michelsen (35°) , por los cuartos de final del ATP 250 de Estocolmo, en Suecia, con el objetivo de avanzar a las semifinal",
+   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/alejandro-tabilo/cuando-y-donde-ver-a-tabilo-versus-michelsen-en-el-atp-de-estocolmo/2026-11-11/172753.html",
+   "date": "2026-11-11T20:27:53+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "9b7483d13ed1",
    "source": "France 24",
    "title": "Amenazas de bomba en Europa: ¿quién está detrás?",
@@ -969,16 +999,6 @@
    "url": "https://www.dw.com/es/la-cifra-oculta-del-acoso-sexual-en-las-fuerzas-armadas-alemanas/a-79922583?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-11T19:52:00+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "f265e2f9c38d",
-   "source": "France 24",
-   "title": "Huelga general en España: \"estoy a una hora y media de mi trabajo, eso es basura\"",
-   "description": "España vive su primera huelga general desde 2014. Miles de personas salieron a las calles para reclamar soluciones a la crisis de la vivienda, salarios dignos y mejoras en las condiciones laborales.Muchos manifestantes recuerdan el caso de Maricarmen Abascal, cuya situación tras ",
-   "url": "https://www.france24.com/es/video/20261111-huelga-general-en-espa%C3%B1a-estoy-a-una-hora-y-media-de-mi-trabajo-eso-es-basura",
-   "date": "2026-11-11T19:49:24+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -1152,16 +1172,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9f0619c84f27",
-   "source": "The Guardian",
-   "title": "US envoys to meet Putin and Zelenskyy separately - as it happened",
-   "description": "This blog is now closed Separately, I am also keeping an eye on Italy, with reports that several schools are being evacuated after receiving bomb threats by emails. According to Rai and Sky TG24 , the email was signed by “Mikhail Andropov” – the same name used in several hoax bom",
-   "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
-   "date": "2026-11-11T16:08:20+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "bad25af0fbaa",
    "source": "The Guardian",
    "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
@@ -1292,36 +1302,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f00cd98dba05",
-   "source": "Naciones Unidas",
-   "title": "Guterres: Es el momento de la verdad: o actuamos o nos asamos",
-   "description": "\"Los combustibles fósiles deben seguir el camino de los dinosaurios (la extinción). (Pero) los dinosaurios no tenían un lobby. Los combustibles fósiles, sí\", advierte el titular de la ONU. Además, contrasta los 95.000 millones que ganaron las nueve mayores petroleras en un trimes",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542164",
-   "date": "2026-11-11T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "8468dcc3302b",
-   "source": "Naciones Unidas",
-   "title": "COP31, sequía en Centroamérica, Gaza, ébola… las noticias del miércoles",
-   "description": "En la COP31, el Secretario General advierte de que \"los combustibles fósiles deben seguir el camino de los dinosaurios\", la extinción. En nuestro podcast \"Sin la ONU\", viajamos al Corredor Seco de Centroamérica para conocer cómo la sequía está cambiando la vida de los agricultore",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542163",
-   "date": "2026-11-11T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "a300ecc8e0b5",
-   "source": "Naciones Unidas",
-   "title": "El Corredor Seco: “Cuando no hay agua, ahí termina toda la inteligencia”",
-   "description": "Con El Niño fortaleciéndose, la sequía vuelve a amenazar el Corredor Seco de Centroamérica. Anastacio y Marta lideran iniciativas que ayudan a sus comunidades a afrontar la sequía y evitar que más familias tengan que marcharse.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542151",
-   "date": "2026-11-11T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
    "id": "154e4b61284b",
    "source": "BBC Mundo",
    "title": "Ruta 66: la historia poco conocida de la carretera más famosa de EE.UU.",
@@ -1384,7 +1364,7 @@
   {
    "id": "c1bf141eabe2",
    "source": "The Guardian",
-   "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
+   "title": "‘The cold is lethal’: storms leave thousands in Gaza without shelter",
    "description": "Charities warn of lack of protection amid health fears for more than 940,000 displaced people living in flood-prone areas Tens of thousands of Palestinians have been left in waterlogged and damaged tents after deadly storms at the weekend, while 150,000 new shelters are held outs",
    "url": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
    "date": "2026-11-11T05:00:32+00:00",
@@ -1632,6 +1612,16 @@
    "type": "Prensa"
   },
   {
+   "id": "c5ff3d88b052",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver el duelo entre Italia y Francia por la Nations League?",
+   "description": "El Estadio San Siro de Milán aguarda por un choque de colosos este jueves 12 de noviembre , jornada en la que las selecciones de Italia y Francia se verán las caras por la quinta jornada de la fase de grupos de la UEFA Nations League . El partido está programado para las 16:45 ho",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/nations-league/cuando-y-donde-ver-el-duelo-entre-italia-y-francia-por-la-nations/2026-11-10/180426.html",
+   "date": "2026-11-10T21:04:26+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
    "id": "0fefa8bbbc7d",
    "source": "Deutsche Welle",
    "title": "¿Remará Australia en contra de los combustibles fósiles en la COP31?",
@@ -1852,26 +1842,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6742dfef36ae",
-   "source": "Naciones Unidas",
-   "title": "COP31: la transición energética toma el protagonismo más allá de los combustibles fósiles",
-   "description": "La transición energética global tomó el protagonismo en el segundo día de la COP31, donde los países exploraron cómo alejarse de los combustibles fósiles, acelerar la energía limpia y superar las barreras financieras y de infraestructura que se interponen en el camino.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542160",
-   "date": "2026-11-10T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "a3e59fd711ae",
-   "source": "Naciones Unidas",
-   "title": "Desigualdad en la COP31, Sudán, ébola y Estados Unidos: las noticias del martes",
-   "description": "Unos 1500 millones de mujeres y niñas viven ya en zonas de alto riesgo climático, y la crisis podría empujar a 141 millones más a la pobreza extrema. En Sudán, UNICEF alerta de que 825.000 niños sufrirán desnutrición aguda debido a los ataques con drones a las centrales eléctrica",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542159",
-   "date": "2026-11-10T12:00:00+00:00",
-   "category": "África",
-   "type": "Oficial"
-  },
-  {
    "id": "270de30d7881",
    "source": "Deutsche Welle",
    "title": "Antiguo ejecutivo de Marvel tomará las riendas de DC Studios",
@@ -1879,16 +1849,6 @@
    "url": "https://www.dw.com/es/antiguo-ejecutivo-de-marvel-tomará-las-riendas-de-dc-studios/a-79908475?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-10T11:57:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "1352ba9985a8",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver la final de la Copa de la Liga entre Coquimbo Unido y O'Higgins?",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Coquimbo Unido y O'Higgins disputarán este sábado 14 de noviembre la final de la Copa de la Liga 2026 , encuentro que definirá al primer campeón de la competencia y entregará al ganador la clasificación a la Copa Libertador",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/cuando-y-donde-ver-la-final-de-la-copa-de-la-liga-entre-coquimbo-unido/2026-11-10/083533.html",
-   "date": "2026-11-10T11:35:33+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -2042,52 +2002,12 @@
    "type": "Prensa"
   },
   {
-   "id": "225470f14465",
-   "source": "Naciones Unidas",
-   "title": "La COP31 abre en Antalya: ¿pueden por fin las promesas climáticas dar resultados?",
-   "description": "Casi 200 países han llegado a la costa mediterránea de Turquía para una cumbre climática con una ambición diferente: menos declaraciones y más decisiones. Con un poderoso fenómeno de El Niño que amenaza con empeorar los eventos meteorológicos extremos, los negociadores se enfrent",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542157",
-   "date": "2026-11-09T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "2816d1297bcf",
-   "source": "Naciones Unidas",
-   "title": "COP31, Ucrania, Gaza, Papa y sarampión… las noticias del lunes",
-   "description": "La COP31 arranca en Antalya con una advertencia: El Niño podría costar 11 billones de dólares a la economía mundial, mientras la financiación climática sigue sin llegar a los más vulnerables. En Ucrania, los ataques rusos a la energía dejan a cientos de miles de personas sin luz ",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542155",
-   "date": "2026-11-09T12:00:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Oficial"
-  },
-  {
-   "id": "35dcb8b65809",
-   "source": "Naciones Unidas",
-   "title": "Las temperaturas extremas \"excepcionales\" continuarán el año que viene",
-   "description": "Los últimos 12 años han sido los más cálidos registrados y la temperatura media global entre enero y septiembre de 2026 fue de 1,47 °C por encima de la era preindustrial. Un fenómeno de el Niño que será el más fuerte registrado en diciembre seguirá desatando eventos extremos hast",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542152",
-   "date": "2026-11-09T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
    "id": "0fa28b923d7b",
    "source": "BBC Mundo",
    "title": "Cómo el crecimiento de la energía solar \"escandalosamente barata\" ha desafiado todas las proyecciones",
    "description": "La energía solar, debido a sus costos bajos, se ha convertido en una principales fuentes de energía en varios países del mundo.",
    "url": "https://www.bbc.com/mundo/articles/cr4g1ee27w6po?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-09T11:10:31+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "cb91493b4d20",
-   "source": "BBC Mundo",
-   "title": "Cómo me cambió la vida hacerme una prueba para saber si una enfermedad hará que muera más joven",
-   "description": "Laura Sides se enfrentó al dilema de averiguar si heredaría la enfermedad de su padre.",
-   "url": "https://www.bbc.com/mundo/articles/cqd0988j9vngo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-09T10:59:37+00:00",
    "category": "América Latina",
    "type": "Prensa"
   },
@@ -2222,16 +2142,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a42d28575973",
-   "source": "Naciones Unidas",
-   "title": "La joven ingeniera nuclear que salió de la periferia de Brasil para conquistar el mundo",
-   "description": "Pero para llegar a trabajar en el Organismo Internacional de la Energía Atómica tuvo que superar el racismo, la discriminación social y jornadas de más de 12 horas para estudiar Ingeniería. \"Nuestros héroes están en la vida cotidiana. Solo hay que reconocer a esas personas que co",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542146",
-   "date": "2026-11-07T12:00:00+00:00",
-   "category": "América Latina",
-   "type": "Oficial"
-  },
-  {
    "id": "5b02364acde7",
    "source": "CIPER Chile",
    "title": "Lo que calló Rabat",
@@ -2272,36 +2182,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6dc6acddc05b",
-   "source": "Naciones Unidas",
-   "title": "Frente a la desinformación, hay que reconquistar la confianza en la ciencia",
-   "description": "La agencia de la saludo lanza el movimiento \"Juntos por la ciencia y la salud\", después de que la encuesta global más amplia hasta la fecha, con 140.000 personas en 140 países, revele que, aunque más del 70 % sigue creyendo en la ciencia, la confianza ha caído desde 2018, sobre t",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542150",
-   "date": "2026-11-06T12:00:00+00:00",
-   "category": "Sociedad",
-   "type": "Oficial"
-  },
-  {
-   "id": "95c92900955e",
-   "source": "Naciones Unidas",
-   "title": "COP31, Sudán, Ucrania y precios de los alimentos… las noticias del viernes",
-   "description": "La Conferencia sobre el Clima, la COP31, arranca la próxima semana en Turquía con una advertencia: las ciudades necesitan 4,5 billones de dólares al año para adaptarse al clima, pero solo reciben una quinta parte. Baja el precio de los alimentos, pero el azúcar se dispara, mientr",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542149",
-   "date": "2026-11-06T12:00:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Oficial"
-  },
-  {
-   "id": "9bc66d26a1fc",
-   "source": "Naciones Unidas",
-   "title": "En el Ártico y a la deriva, una expedición científica lanza un llamado a los líderes mundiales: Escuchen a la ciencia",
-   "description": "Atrapados voluntariamente en el hielo del Ártico, un grupo de científicos observa cómo se transforma una de las regiones más frágiles del planeta. Mientras el hielo retrocede y los petroleros ganan terreno, sus hallazgos llegan hasta el Secretario General de la ONU, en una conver",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542147",
-   "date": "2026-11-06T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
    "id": "8f8e87bc024c",
    "source": "Organización Mundial del Comercio",
    "title": "La UE inicia una investigación en materia de salvaguardias sobre determinados productos químicos de resina de PET",
@@ -2309,26 +2189,6 @@
    "url": "https://www.wto.org/spanish/news_s/news26_s/safe_eec_06nov26_542_s.htm",
    "date": "2026-11-06T00:00:00+00:00",
    "category": "Comercio internacional",
-   "type": "Oficial"
-  },
-  {
-   "id": "88677ad93ff3",
-   "source": "Naciones Unidas",
-   "title": "Agua, Cumbre Iberoamericana y violencia sexual en el Reino Unido: las noticias del jueves",
-   "description": "Los ataques contra los sistemas de agua en las guerras se han triplicado en cinco años y dejan a millones de personas sin acceso a agua potable, según UNICEF. La Cumbre Iberoamericana arranca en Madrid con la recomendación de la CEPAL a América Latina de integrarse mejor para no ",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542145",
-   "date": "2026-11-05T12:00:00+00:00",
-   "category": "Conflictos armados y seguridad internacional",
-   "type": "Oficial"
-  },
-  {
-   "id": "562c1bffd28c",
-   "source": "Naciones Unidas",
-   "title": "COP31: ¿Qué está en juego este año en la cumbre climática de la ONU?",
-   "description": "Las energías renovables avanzan a un ritmo sin precedentes, pero gran parte del mundo sigue sin tener los recursos necesarios para aprovecharlas. La financiación y el cumplimiento de los compromisos climáticos estarán en el centro de una cumbre que deberá demostrar que los acuerd",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542143",
-   "date": "2026-11-05T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Oficial"
   },
   {
@@ -2372,36 +2232,6 @@
    "type": "Académica"
   },
   {
-   "id": "5b013aac22e2",
-   "source": "Naciones Unidas",
-   "title": "Un 25% de los adolescentes no hace suficiente ejercicio",
-   "description": "Uno de cada cuatro adolescentes, unos 240 millones, no realiza 60 minutos de actividad física ningún día de la semana, y las niñas se quedan más atrás: el 28 % no tiene ningún día activo, frente al 22 % de los niños. Durante 15 años, el mundo no ha logrado casi ningún avance. La ",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542142",
-   "date": "2026-11-04T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "9d8701d1c4e7",
-   "source": "Naciones Unidas",
-   "title": "Clima y salud, clima y adaptación, el precio del petróleo… las noticias del miércoles",
-   "description": "El mundo \"no está preparado\" para adaptarse al cambio climático: los países en desarrollo necesitarán 305.000 millones de dólares anuales para 2035, pero la financiación pública internacional solo alcanzó entre 28.200 y 31.700 millones en 2024. La OMS advierte de que seis medidas",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542141",
-   "date": "2026-11-04T12:00:00+00:00",
-   "category": "Sociedad",
-   "type": "Oficial"
-  },
-  {
-   "id": "39aef2178c95",
-   "source": "Naciones Unidas",
-   "title": "El mundo no está preparado para la adaptación climática: la financiación se queda muy corta",
-   "description": "Los países en desarrollo necesitarán unos 305.000 millones de dólares anuales para 2035 para adaptarse al cambio climático, pero la financiación pública internacional solo alcanzó entre 28.200 y 31.700 millones en 2024 y, aunque se triplique, cubrirá como máximo el 29 % de las ne",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542139",
-   "date": "2026-11-04T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
    "id": "8ddb87e218b9",
    "source": "Organización Mundial del Comercio",
    "title": "Los Miembros examinan los progresos realizados en la resolución de las preocupaciones comerciales relacionadas con las MSF en la OMC",
@@ -2422,26 +2252,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5de736b036ba",
-   "source": "Naciones Unidas",
-   "title": "La igualdad de género beneficia a las empresas: ¿por qué algunas dan marcha atrás?",
-   "description": "La igualdad de género y la diversidad no son solo cuestiones sociales: también constituyen un activo económico para las empresas. Si bien las mujeres acceden cada vez más a puestos de alta responsabilidad, este progreso sigue siendo frágil y requiere nuevos compromisos para no pe",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542138",
-   "date": "2026-11-03T12:00:00+00:00",
-   "category": "Empresas y mercados",
-   "type": "Oficial"
-  },
-  {
-   "id": "5172b354ae74",
-   "source": "Naciones Unidas",
-   "title": "Ébola, brecha de género, brecha digital… las noticias del martes",
-   "description": "Con más de 10.000 casos confirmados y las 5000 muertes, la respuesta al brote de ébola en la República Democrática del Congo sigue yendo por detrás de la transmisión. Las mujeres solo ocupan el 30 % de los puestos directivos en el mundo. El 76 % de la población mundial usa intern",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542136",
-   "date": "2026-11-03T12:00:00+00:00",
-   "category": "África",
-   "type": "Oficial"
-  },
-  {
    "id": "d24ccd75ac22",
    "source": "The Guardian",
    "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
@@ -2450,26 +2260,6 @@
    "date": "2026-11-03T06:00:39+00:00",
    "category": "China y Asia",
    "type": "Prensa"
-  },
-  {
-   "id": "c2b3519c2e63",
-   "source": "Naciones Unidas",
-   "title": "Seis de cada siete asesinatos de periodistas quedan impunes",
-   "description": "Los territorios palestinos ocupados por Israel registraron el mayor número de asesinatos en el bienio 2024-2025, con 62 muertes, dentro de la región de los Estados Árabes, que sumó 97 casos, seguida de América Latina y el Caribe (37), Asia y el Pacífico (34), Europa Central y Ori",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542134",
-   "date": "2026-11-02T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "c77b56fa9785",
-   "source": "Naciones Unidas",
-   "title": "Periodistas asesinados, desinformación sobre migrantes, Ucrania, Sáhara Occidental… las noticias del lunes",
-   "description": "En 2024-2025, fueron asesinados 189 periodistas. La desinformación amplificada por la inteligencia artificial está convirtiendo a los migrantes en \"objetivos\" de odio y violencia. Más de 400 evacuados de Oleshky, en Ucrania, tras un breve alto el fuego, reciben ayuda humanitaria.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542133",
-   "date": "2026-11-02T12:00:00+00:00",
-   "category": "Sociedad",
-   "type": "Oficial"
   },
   {
    "id": "34769db6c7d8",
@@ -2492,46 +2282,6 @@
    "type": "Académica"
   },
   {
-   "id": "7803b320b75c",
-   "source": "Naciones Unidas",
-   "title": "COP17: Los países acuerdan una hoja de ruta para acelerar la protección de la biodiversidad",
-   "description": "La cumbre de biodiversidad de la ONU concluyó en Armenia con una hoja de ruta para acelerar el cumplimiento de los objetivos mundiales de protección de la naturaleza antes de 2030. Los países anunciaron cerca de 2000 millones de dólares en nueva financiación y acordaron reforzar ",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542131",
-   "date": "2026-11-01T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "9805bf19c0eb",
-   "source": "Naciones Unidas",
-   "title": "La IA está cambiando cómo pensamos: ¿Nos daremos cuenta a tiempo?",
-   "description": "Es muy tentador ahorrarle al cerebro el pensar del todo\". Solo entre el cinco y el diez por ciento de los trabajadores usa la IA para liberar capacidad mental; la mayoría externaliza también el análisis y la decisión. \"Mantén tu cerebro en el juego\", pide un neurocientífico, que ",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542129",
-   "date": "2026-11-01T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "9ce2a27b2cf8",
-   "source": "Naciones Unidas",
-   "title": "Desconectarse para conectar: la juventud argentina debate los retos de la era digital",
-   "description": "En Buenos Aires, jóvenes debatieron sobre entornos digitales en el marco de la iniciativa Círculos de la Paz de Naciones Unidas. Desinformación, el impacto de las redes sociales en la salud mental y crecer en la era de la inteligencia artificial fueron los principales temas.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542125",
-   "date": "2026-11-01T12:00:00+00:00",
-   "category": "Sociedad",
-   "type": "Oficial"
-  },
-  {
-   "id": "700eba664da4",
-   "source": "Naciones Unidas",
-   "title": "Sáhara Occidental: La ONU reafirma su compromiso con una solución pacífica tras el fin de la misión de paz MINURSO",
-   "description": "La misión de paz de Naciones Unidas en el Sáhara Occidental concluyó sus operaciones después de que el Consejo de Seguridad no lograra un acuerdo para renovar su mandato. El Secretario General reafirmó el derecho del pueblo saharaui a la libre determinación, pidió máxima moderaci",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542130",
-   "date": "2026-11-01T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
    "id": "d2f20901f5f3",
    "source": "Organización Mundial del Comercio",
    "title": "La Presidenta del Grupo de Trabajo visita Uzbekistán cuando las negociaciones de adhesión del país a la OMC entran en una etapa decisiva",
@@ -2539,16 +2289,6 @@
    "url": "https://www.wto.org/spanish/news_s/news26_s/acc_01nov26_545_s.htm",
    "date": "2026-11-01T00:00:00+00:00",
    "category": "Comercio internacional",
-   "type": "Oficial"
-  },
-  {
-   "id": "aedd2439cec9",
-   "source": "Naciones Unidas",
-   "title": "Cambio climático: Nueva York se protege elevando un parque para contener la subida del nivel del mar",
-   "description": "Catorce años después del huracán Sandy, Nueva York eleva hasta tres metros el East River Park y construye muros y compuertas ocultas para proteger a más de 110.000 residentes, con una inversión de 2000 millones de dólares. La ONU advierte de que 770 millones de personas viven a m",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542118",
-   "date": "2026-10-31T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Oficial"
   },
   {
@@ -2560,26 +2300,6 @@
    "date": "2026-10-30T12:54:17+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "d93633cc86e0",
-   "source": "Naciones Unidas",
-   "title": "Gaza, Colombia, VIH, refugiados… Las noticias del viernes",
-   "description": "Gaza: la expansión de las posiciones israelíes aumenta el temor a una limpieza étnica. El Consejo de Seguridad prorroga un año más la misión de verificación de la ONU en Colombia. Barbados elimina la transmisión del VIH de madre a hijo. Ucrania, Siria, Líbano, Afganistán: ACNUR s",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542127",
-   "date": "2026-10-30T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "3079a5233b23",
-   "source": "Naciones Unidas",
-   "title": "Gaza: la expansión de las posiciones israelíes reaviva los temores de una \"limpieza étnica\"",
-   "description": "Israel pretende ampliar su despliegue militar al 70 % del territorio de Gaza, mientras empuja a los palestinos hacia zonas cada vez más pequeñas y ataca campamentos de desplazados, denuncia ONU Derechos Humanos.",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542126",
-   "date": "2026-10-30T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
   },
   {
    "id": "487d63068d64",
@@ -2610,26 +2330,6 @@
    "date": "2026-10-29T12:43:33+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "5dd86bd75429",
-   "source": "Naciones Unidas",
-   "title": "La naturaleza está resurgiendo, pero la financiación para restaurarla debe cuadruplicarse",
-   "description": "No todo es destrucción. Unos 252 millones de hectáreas en 149 países —una superficie del tamaño de Kazajistán— están en restauración, y se han creado más de un millón de empleos verdes, pero la financiación anual debe cuadruplicarse, de 64.000 a 296.000 millones de dólares, para ",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542123",
-   "date": "2026-10-29T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "2a5f30b1dd02",
-   "source": "Naciones Unidas",
-   "title": "Trabajo de cuidados, seguridad marítima, restauración de la naturaleza, contaminación… Las noticias del jueves",
-   "description": "Crece la demanda de cuidados de larga duración en América, al tiempo que la población envejece. Las nuevas tecnologías plantean oportunidades y riesgos para la seguridad marítima, advierte la ONU. La naturaleza se recupera, pero la financiación para restaurarla debe cuadruplicars",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542122",
-   "date": "2026-10-29T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
   },
   {
    "id": "aceaa3f9248a",
