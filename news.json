@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-12T07:01:14.068877+00:00",
+ "updated": "2026-11-12T08:22:18.928080+00:00",
  "items": [
+  {
+   "id": "853b4503824a",
+   "source": "France 24",
+   "title": "¿El país más hackeado en Europa? ¿Por qué Francia es el objetivo de tantos ciberataques?",
+   "description": "Los ataques informáticos “sin precedentes” contra los sistemas de refrigeración de supermercados franceses constituyen el episodio más reciente de una serie de ciberataques de gran envergadura que, según algunos analistas, han convertido a Francia en el país más afectado por este",
+   "url": "https://www.france24.com/es/francia/20261112-el-pa%C3%ADs-m%C3%A1s-hackeado-en-europa-por-qu%C3%A9-francia-es-el-objetivo-de-tantos-ciberataques",
+   "date": "2026-11-12T08:10:58+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "ea982accce4e",
+   "source": "The Guardian",
+   "title": "Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’",
+   "description": "Regulator to hasten review over concerns that firms are ‘undermining’ rules to make large payments to bosses The water company bonus ban is set to be tightened after the regulator accused the industry of a risk of “damaging public trust” with large payments to bosses that appeare",
+   "url": "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat",
+   "date": "2026-11-12T07:59:52+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "9d196d4bd084",
+   "source": "The Guardian",
+   "title": "UK economy grows at fastest pace for more than two years",
+   "description": "GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, confirming that consumers and businesses remained resilient despite high o",
+   "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
+   "date": "2026-11-12T07:56:19+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a4b79698e97a",
+   "source": "Al Jazeera",
+   "title": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
+   "description": "Iran’s chief negotiator says Iran is open to a deal if the US refrains from creating distrust and excessive demands.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf?traffic_source=rss",
+   "date": "2026-11-12T07:38:05+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a54314f55a81",
+   "source": "Al Jazeera",
+   "title": "Pope Leo welcomed by millions in his second ‘homeland’ of Peru",
+   "description": "On his Latin America tour, the pontiff is expected to spend 3 days in Chiclayo, where ​he was bishop from 2015-2023.",
+   "url": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru?traffic_source=rss",
+   "date": "2026-11-12T07:37:42+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "6010168d1d7e",
+   "source": "France 24",
+   "title": "Multitudinarias manifestaciones y algunos disturbios: así transcurrió la primera huelga general en España en 14 años",
+   "description": "Millones de trabajadores secundaron una jornada de huelga general para exigir salarios dignos y medidas urgentes frente a la crisis de vivienda, en una movilización que paralizó parcialmente sectores estratégicos y reunió a miles de personas en las principales ciudades. La protes",
+   "url": "https://www.france24.com/es/europa/20261112-multitudinarias-manifestaciones-y-algunos-disturbios-as%C3%AD-transcurri%C3%B3-la-primera-huelga-general-en-espa%C3%B1a-en-14-a%C3%B1os",
+   "date": "2026-11-12T07:14:45+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "7a8c9be12b96",
+   "source": "The Guardian",
+   "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
+   "description": "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts Get our daily political email , free app or daily news podcast Entry-level jobs will be the first to be automated due to AI, but it could mean fewer hours and",
+   "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
+   "date": "2026-11-12T06:55:44+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "ebf7790d3853",
    "source": "Al Jazeera",
@@ -94,7 +164,7 @@
   {
    "id": "bdab5f9d727f",
    "source": "France 24",
-   "title": "En directo: enviados de EE. UU. se reúnen con Putin este jueves tras nuevo cruce de ataques entre Rusia y Ucrania",
+   "title": "En directo: enviados de EE. UU. llegan a Moscú para reunirse con Putin tras nuevo cruce de ataques entre Rusia y Ucrania",
    "description": "Los enviados de Estados Unidos, Steve Witkoff y Jared Kushner, se reúnen este jueves 12 de noviembre con el mandatario ruso, Vladímir Putin, en Moscú. Y, posteriormente, con el presidente ucraniano, Volodímir Zelenski, en Dublín, en medio de una nueva jornada de ataques entre Rus",
    "url": "https://www.france24.com/es/europa/20261112-en-directo-enviados-de-ee-uu-se-re%C3%BAnen-con-putin-este-jueves-tras-nuevo-cruce-de-ataques-entre-rusia-y-ucrania",
    "date": "2026-11-12T05:35:45+00:00",
@@ -482,16 +552,6 @@
    "type": "Prensa"
   },
   {
-   "id": "dc7a1222ea3f",
-   "source": "The Guardian",
-   "title": "Australian states could sue tobacco companies for billions in healthcare costs under proposal",
-   "description": "Exclusive: Former barrister who helped legally establish that secondhand smoke causes lung cancer argues states could seek up to $50bn in compensation Get our breaking news email , free app or daily news podcast Australian state governments could sue tobacco companies for billion",
-   "url": "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs",
-   "date": "2026-11-12T01:02:01+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "b0967ff36183",
    "source": "Radio Cooperativa",
    "title": "Gobierno retrotraerá el alza de este jueves y congelará precios de las bencinas hasta febrero",
@@ -588,26 +648,6 @@
    "description": "An independent commission is reviewing whether countries in the Americas still meet measles elimination criteria.",
    "url": "https://www.aljazeera.com/news/2026/11/12/why-the-us-mexico-and-guatemala-may-lose-their-measles-free-status?traffic_source=rss",
    "date": "2026-11-12T00:33:44+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "f0050089584a",
-   "source": "Al Jazeera",
-   "title": "Cameroon: Who is really calling the shots?",
-   "description": "Biya’s absences raise questions about who holds power and what comes next in Cameroon.",
-   "url": "https://www.aljazeera.com/news/2026/11/12/cameroon-who-is-really-calling-the-shots?traffic_source=rss",
-   "date": "2026-11-12T00:29:33+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "41d1e4d1ed4d",
-   "source": "Al Jazeera",
-   "title": "Hegseth scolded by security at Tomb of the Unknown Soldier",
-   "description": "An army sentinel guarding the Tomb of the Unknown Soldier in the Arlington National Cemetery has reprimanded Hegseth.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-   "date": "2026-11-12T00:18:46+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
@@ -942,26 +982,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f33126cbad4b",
-   "source": "The Guardian",
-   "title": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say",
-   "description": "Retailer’s management to seek two-week extension of legal protection from creditors in high court MPs have accused the owner of Poundland of extracting millions of pounds from the budget retailer when it was on a “knife-edge” as it seeks extra time to secure a rescue deal. The ma",
-   "url": "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
-   "date": "2026-11-11T19:10:26+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "448c9160407d",
-   "source": "The Guardian",
-   "title": "Double amputee marathon runner criticises Badenoch for ‘weaponising his success’",
-   "description": "Paralympian Richard Whitehead ‘gobsmacked’ at Tory leader’s speech over proposed £36bn welfare cuts The double amputee marathon runner Richard Whitehead has criticised Kemi Badenoch for “weaponising his sporting success” to justify her proposed £36bn welfare cuts. The Conservativ",
-   "url": "https://www.theguardian.com/sport/2026/nov/11/double-amputee-runner-richard-whitehead-badenoch-weaponising-success-welfare",
-   "date": "2026-11-11T19:07:36+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "d78367a1b627",
    "source": "The Guardian",
    "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
@@ -1012,16 +1032,6 @@
    "type": "Prensa"
   },
   {
-   "id": "76a62f7c7fba",
-   "source": "France 24",
-   "title": "Santiago Peña, de la impunidad a la cárcel",
-   "description": "Santiago Peña fue destituido y tiene prisión preventiva. Mientras los allanamientos vinculados a Ueno Bank continúan, se van conociendo detalles de los turbios manejos financieros que dieron forma a lo que muchos califican como \"una gran estafa\" al pueblo paraguayo. Pero ¿qué lle",
-   "url": "https://www.france24.com/es/programas/aqu%C3%AD-am%C3%A9rica/20261111-santiago-pe%C3%B1a-de-la-impunidad-a-la-c%C3%A1rcel",
-   "date": "2026-11-11T18:30:02+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "4bb38bd7487b",
    "source": "BBC Mundo",
    "title": "Por qué la familia Kennedy demanda a Trump por la polémica construcción de su arco del triunfo",
@@ -1059,16 +1069,6 @@
    "url": "https://www.bbc.com/mundo/articles/cmzx96kk0ly7o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-11T18:10:57+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "188e46ad8502",
-   "source": "France 24",
-   "title": "COP31: Erdogan y Lula alertan sobre el cambio climático en una cumbre marcada por las ausencias",
-   "description": "La COP31 estuvo marcada por la cumbre de jefes de Estado, donde el presidente turco Recep Tayyip Erdogan buscó dar un nuevo impulso a la lucha contra el cambio climático y criticó la falta de acción de los países desarrollados frente a un año marcado por fenómenos meteorológicos ",
-   "url": "https://www.france24.com/es/video/20261111-cop31-erdogan-y-lula-alertan-sobre-el-cambio-clim%C3%A1tico-en-una-cumbre-marcada-por-las-ausencias",
-   "date": "2026-11-11T18:01:13+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
