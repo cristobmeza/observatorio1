@@ -1,6 +1,206 @@
 {
- "updated": "2026-11-12T20:43:22.996783+00:00",
+ "updated": "2026-11-12T21:41:08.806068+00:00",
  "items": [
+  {
+   "id": "3d62ccc8546c",
+   "source": "BBC Mundo",
+   "title": "Una falla en Microsoft deja fuera de servicio el correo electrónico de Outlook y otras plataformas",
+   "description": "La firma informó que registra fallas en sus servidores, luego de reportes de pérdida de conexión de servicios como Outlook, Microsoft 365 y Teams a nivel mundial.",
+   "url": "https://www.bbc.com/mundo/articles/cm20v6ed340wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T21:28:47+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "48b89f5b3032",
+   "source": "Al Jazeera",
+   "title": "Deadly shooting in Washington DC",
+   "description": "Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
+   "date": "2026-11-12T21:18:24+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "b7f940f5fca3",
+   "source": "The Guardian",
+   "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
+   "description": "An alert on Microsoft’s site said it was ‘aggressively pursuing all pathways to reduce impact’ and blamed a server issue Microsoft says its servers are beginning to return to service after a global outage resulted in nearly 130,000 users globally reporting issues accessing its 36",
+   "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+   "date": "2026-11-12T21:14:11+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "401870d14871",
+   "source": "France 24",
+   "title": "Escasez de dermatólogos en Francia: pacientes desesperados por conseguir cita",
+   "description": "En Francia se diagnostican alrededor de 200.000 casos de cáncer de piel al año. Sin embargo, a medida que aumenta el número de pacientes que buscan atención médica, conseguir una cita con un dermatólogo se vuelve cada vez más difícil. La mitad de los dermatólogos del país están p",
+   "url": "https://www.france24.com/es/programas/francia-en-foco/20261112-escasez-de-dermat%C3%B3logos-en-francia-pacientes-desesperados-por-conseguir-cita",
+   "date": "2026-11-12T21:05:55+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "f5e0491c4a8d",
+   "source": "Al Jazeera",
+   "title": "Microsoft outage hits tens of thousands of users",
+   "description": "Microsoft says servers unexpectedly went offline, disrupting Outlook email, Teams, Copilot and other services.",
+   "url": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
+   "date": "2026-11-12T21:03:09+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "47753d93cbdb",
+   "source": "Deutsche Welle",
+   "title": "Putin no hará concesiones para poner fin a la guerra rusa en Ucrania",
+   "description": "El dirigente del Kremlin aseguró desear una “paz eterna” con su vecino, al que invadió a gran escala en 2022, pero dijo a enviados estadounidenses que no renunciará a sus exigencias territoriales.",
+   "url": "https://www.dw.com/es/putin-no-hará-concesiones-para-poner-fin-a-la-guerra-rusa-en-ucrania/a-79935618?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-12T21:02:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "40e90c21c234",
+   "source": "The Guardian",
+   "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
+   "description": "Move by Norway ‘a further tightening’ of current rules Russians ‘have no business’ in Finland, says minister Norway’s government announced that it would prevent Russian and Belarusian professional athletes from coming to Norway to compete, hours after neighbouring Finland announc",
+   "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
+   "date": "2026-11-12T21:00:12+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "ad32a4f1442f",
+   "source": "Al Jazeera",
+   "title": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
+   "description": "Pope Leo XIV says the Catholic Church must confront sexual abuse committed by clergy with truth and justice.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/pope-leo-calls-for-church-to-make-amends-to-sex-abuse-victims?traffic_source=rss",
+   "date": "2026-11-12T20:59:53+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "9b5ba9a8cc4b",
+   "source": "The Guardian",
+   "title": "‘Win-win’ deal with EU could be done, Andy Burnham says",
+   "description": "Prime minister says reset could be a deal ‘like the Brexit people thought they were voting for in 2016’ Andy Burnham has said he believes a “win-win” deal could be done with the EU that could be “more like the Brexit that people thought they were voting for in 2016”. The prime mi",
+   "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
+   "date": "2026-11-12T20:59:05+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "222395ef5a65",
+   "source": "The Guardian",
+   "title": "Woman, 18, admits murdering girl, 16, in Leeds",
+   "description": "Kayla Smith stabbed Chloe Watson Dransfield to death during planned fight over young man An 18-year-old woman who stabbed a teenage girl to death during a planned fight over a young man has pleaded guilty to murder. Chloe Watson Dransfield, 16, was attacked by Kayla Smith, 18, af",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/12/woman-18-admits-murdering-girl-16-in-leeds",
+   "date": "2026-11-12T20:57:07+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "8251e33234f0",
+   "source": "Radio Cooperativa",
+   "title": "Gobierno descartó \"letra chica\" en el anunciado congelamiento de los combustibles",
+   "description": "En medio del paro de camioneros y transportistas —que continúa sin una solución definitiva —, el Gobierno, a través del delegado presidencial de la Región Metropolitana, Germán Codina , salió a aclarar los alcances del congelamiento de los precios de los combustibles , asegurando",
+   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/gobierno-descarto-letra-chica-en-el-anunciado-congelamiento-de-los/2026-11-12/175555.html",
+   "date": "2026-11-12T20:55:55+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "89fbbd61d8f5",
+   "source": "Radio Cooperativa",
+   "title": "José Ramón Correa y los nuevos directores de Azul Azul: Los nombres son muy buenos",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/jose-ramon-correa-y-los-nuevos-directores-de-azul-azul-los-nombres-son/2026-11-12/174949.html",
+   "date": "2026-11-12T20:49:49+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "85fcd9f39d9c",
+   "source": "Al Jazeera",
+   "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
+   "description": "The report seeks to address concerns about the Trump administration's handling of revenue held in trust for Venezuela.",
+   "url": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
+   "date": "2026-11-12T20:49:36+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "6d421e677d27",
+   "source": "Deutsche Welle",
+   "title": "La situación humanitaria en Gaza empeora con las inundaciones y el frío, en medio del estancamiento político",
+   "description": "En la Franja, azotada por la guerra, fuertes lluvias inundaron y dañaron miles de tiendas. Varias personas murieron. ¿Podría la presión de la Junta de Paz de Trump ayudar a aliviar la crisis humanitaria?",
+   "url": "https://www.dw.com/es/la-situación-humanitaria-en-gaza-empeora-con-las-inundaciones-y-el-frío-en-medio-del-estancamiento-político/a-79935270?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-12T20:48:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "bbf301cdbaa3",
+   "source": "Deutsche Welle",
+   "title": "Miriam González: \"La población inmigrante en España es un activo\"",
+   "description": "DW entrevistó a la líder del partido Democracia 21, una figura de trayectoria internacional que planta cara a los bloques políticos tradicionales en las elecciones del 29 de noviembre en España.",
+   "url": "https://www.dw.com/es/miriam-gonzález-la-población-inmigrante-en-españa-es-un-activo/a-79927366?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-12T20:47:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "26ff5fd48f0d",
+   "source": "Radio Cooperativa",
+   "title": "Republicano acusó uso político de los enfermos de cáncer y exasperó a Ossandón: \"Patético\"",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/republicano-acuso-uso-politico-de-los-enfermos-de-cancer-y-exaspero-a/2026-11-12/174543.html",
+   "date": "2026-11-12T20:45:43+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "09034c7fb4c0",
+   "source": "Deutsche Welle",
+   "title": "Conversaciones a tres bandas entre Ucrania, Estados Unidos y Rusia en Abu Dabi: ¿han aportado realmente algo a Kiev?",
+   "description": "Las primeras conversaciones trilaterales entre Ucrania, Estados Unidos y Rusia en nueve meses terminaron con un acuerdo sobre el intercambio de prisioneros. ¿Se puede considerar un éxito y un paso hacia la paz?",
+   "url": "https://www.dw.com/es/conversaciones-a-tres-bandas-entre-ucrania-estados-unidos-y-rusia-en-abu-dabi-¿han-aportado-realmente-algo-a-kiev/a-79933391?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-12T20:44:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "cfe4c7ff655e",
+   "source": "Deutsche Welle",
+   "title": "Preocupa a las comunidades el regreso del cólera en la República Democrática del Congo",
+   "description": "Se han notificado tres nuevos casos de cólera en las afueras de la capital, Kinsasa. En medio de la amenaza de un nuevo brote, los residentes están preocupados por cómo protegerse mejor a sí mismos y a sus comunidades.",
+   "url": "https://www.dw.com/es/preocupa-a-las-comunidades-el-regreso-del-cólera-en-la-república-democrática-del-congo/a-79934803?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-12T20:43:00+00:00",
+   "category": "África",
+   "type": "Prensa"
+  },
+  {
+   "id": "959ca0d21d94",
+   "source": "Deutsche Welle",
+   "title": "La integración en Alemania progresa, pero los planes del Gobierno podrían frenarla",
+   "description": "22 millones de personas en Alemania tienen trasfondo migratorio. Un nuevo informe muestra avances en la integración. Sin embargo, los planes de ahorro del gobierno están generando una disputa política.",
+   "url": "https://www.dw.com/es/la-integración-en-alemania-progresa-pero-los-planes-del-gobierno-podrían-frenarla/a-79933070?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-12T20:40:00+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "817d3169010c",
+   "source": "Radio Cooperativa",
+   "title": "Nuevos antecedentes lo perjudican: Tribunal rechazó cambio en medida cautelar de Michael Clark",
+   "description": "Michael Clark , expresidente de Azul Azul, continuará en prisión preventiva por el caso Sartor, luego que el Cuarto Juzgado de Garantía de Santiago rechazara la solicitud de su defensa para modificar la medida cautelar. Esta audiencia estaba fijada originalmente para el lunes 9 d",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/nuevos-antecedentes-lo-perjudican-tribunal-rechazo-cambio-en-medida/2026-11-12/173513.html",
+   "date": "2026-11-12T20:35:13+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
   {
    "id": "9ee3eb976ee9",
    "source": "France 24",
@@ -24,7 +224,7 @@
   {
    "id": "22ca0fc564c8",
    "source": "Ex-Ante",
-   "title": "Tormenta editorial: Qué dice la biografía de Vargas Llosa que desató el repudio su entorno (y el reproche por su apoyo a Kast)",
+   "title": "Tormenta editorial: Qué dice la biografía de Vargas Llosa que desató el repudio en su entorno (y el reproche por su apoyo a Kast)",
    "description": "El libro, fruto de 13 años de investigación, es implacable con el escritor, en lo personal y en lo político. La editorial Debate se rehusó…",
    "url": "https://www.ex-ante.cl/internacional/biografia-vargas-llosa-desato-repudio/",
    "date": "2026-11-12T20:22:43+00:00",
@@ -119,16 +319,6 @@
    "url": "https://www.ex-ante.cl/nacional/cde-se-suma-caso-rebaja-penas-suprema/",
    "date": "2026-11-12T20:07:04+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "6d421e677d27",
-   "source": "Deutsche Welle",
-   "title": "La situación humanitaria en Gaza empeora con las inundaciones y el frío, en medio del estancamiento político",
-   "description": "En la Franja, azotada por la guerra, fuertes lluvias inundaron y dañaron miles de tiendas. Varias personas murieron. ¿Podría la presión de la Junta de Paz de Trump ayudar a aliviar la crisis humanitaria?",
-   "url": "https://www.dw.com/es/la-situación-humanitaria-en-gaza-empeora-con-las-inundaciones-y-el-frío-en-medio-del-estancamiento-político/a-79935270?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-12T20:07:00+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -244,7 +434,7 @@
   {
    "id": "451e9e07c875",
    "source": "France 24",
-   "title": "Microsoft sufre una caída masiva de sus servicios Outlook, Teams y 365",
+   "title": "Microsoft sufre una caída masiva de sus servicios Outlook, Teams y 365: esto se sabe",
    "description": "Más de 130.000 usuarios reportaron problemas con Microsoft Outlook este jueves 12 de noviembre en Estados Unidos, según el sitio de monitoreo Downdetector, que también registró unos 46.000 reportes de fallas en Microsoft 365 y cerca de 3.000 en Teams. La empresa informó que había",
    "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261112-microsoft-sufre-una-ca%C3%ADda-masiva-de-sus-servicios-outlook-teams-y-365",
    "date": "2026-11-12T19:30:11+00:00",
@@ -342,16 +532,6 @@
    "type": "Prensa"
   },
   {
-   "id": "993817e50d1e",
-   "source": "Radio Cooperativa",
-   "title": "Putin y Trump abordarán la paz en Ucrania durante la cumbre de APEC",
-   "description": "El presidente ruso , Vladímir Putin , y su homólogo estadounidense , Donald Trump , abordarán las vías para resolver el conflicto en Ucrania durante su reunión en el marco de la cumbre de la APEC en China , mientras continúan los preparativos para un encuentro tripartito con el l",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/donald-trump/putin-y-trump-abordaran-la-paz-en-ucrania-durante-la-cumbre-de-apec/2026-11-12/155130.html",
-   "date": "2026-11-12T18:51:30+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "e87c422a4042",
    "source": "France 24",
    "title": "Seis palestinos mueren en el séptimo bombardeo de Israel contra el principal hospital del sur de Gaza",
@@ -369,16 +549,6 @@
    "url": "https://www.dw.com/es/ee-uu-entregó-a-venezuela-unos-usd-12-000-millones-por-venta-de-recursos-naturales/a-79935104?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-12T18:50:00+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "72edb8f4ca5a",
-   "source": "Radio Cooperativa",
-   "title": "Empresa austríaca instalará peaje \"free flow\" en el Túnel Lo Ruiz",
-   "description": "La empresa austríaca Kapsch TrafficCom, especializada en tecnologías de tráfico, instalará un sistema de peaje electrónico de flujo libre multicarril (MLFF) en el túnel Lo Ruiz, en Santiago, mediante un contrato valorado en unos 2,7 millones de euros (más de 2.900 millones de pes",
-   "url": "https://www.cooperativa.cl/noticias/pais/transportes/autopistas/empresa-austriaca-instalara-peaje-free-flow-en-el-tunel-lo-ruiz/2026-11-12/154153.html",
-   "date": "2026-11-12T18:41:53+00:00",
-   "category": "Empresas y mercados",
    "type": "Prensa"
   },
   {
@@ -412,16 +582,6 @@
    "type": "Prensa"
   },
   {
-   "id": "24f8fef9f37f",
-   "source": "Radio Cooperativa",
-   "title": "La U es uno de los equipos con menos goles recibidos en Sudamérica",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Universidad de Chile destacó a nivel internacional como uno de los equipos sudamericanos con menor promedio de goles recibidos por partido, según un estudio del Centro Internacional de Estudios del Deporte (CIES). La entida",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-u-es-uno-de-los-equipos-con-menos-goles-recibidos-en-sudamerica/2026-11-12/153407.html",
-   "date": "2026-11-12T18:34:07+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "dd2ce53e8de1",
    "source": "France 24",
    "title": "Informe desde Lima: el papa León XIV desata ovación al citar famosa canción peruana, ¿qué significa?",
@@ -439,16 +599,6 @@
    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261112-jensen-huang-renuncia-a-nvidia-y-sacude-los-mercados-en-plena-carrera-de-la-ia",
    "date": "2026-11-12T18:32:19+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "cfe4c7ff655e",
-   "source": "Deutsche Welle",
-   "title": "Preocupa a las comunidades el regreso del cólera en la República Democrática del Congo",
-   "description": "Se han notificado tres nuevos casos de cólera en las afueras de la capital, Kinsasa. En medio de la amenaza de un nuevo brote, los residentes están preocupados por cómo protegerse mejor a sí mismos y a sus comunidades.",
-   "url": "https://www.dw.com/es/preocupa-a-las-comunidades-el-regreso-del-cólera-en-la-república-democrática-del-congo/a-79934803?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-12T18:28:00+00:00",
-   "category": "África",
    "type": "Prensa"
   },
   {
@@ -522,16 +672,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0dd9065ca590",
-   "source": "Radio Cooperativa",
-   "title": "Paro de camioneros complica la exportación de cerezas y el transporte interurbano",
-   "description": "Las interrupciones de tránsito y congestiones causadas por el paro de camioneros en diversos puntos de la red vial nacional comenzaron a generar complicaciones logísticas, impactando a la agroindustria de exportación y provocando alteraciones en los servicios de buses interurbano",
-   "url": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/agricultura/paro-de-camioneros-complica-la-exportacion-de-cerezas-y-el-transporte/2026-11-12/145927.html",
-   "date": "2026-11-12T17:59:27+00:00",
-   "category": "Comercio internacional",
-   "type": "Prensa"
-  },
-  {
    "id": "179dbca68aab",
    "source": "Deutsche Welle",
    "title": "Pantuflas, té y no más de tres clics: así se prepara América Latina para los turistas chinos",
@@ -602,16 +742,6 @@
    "type": "Prensa"
   },
   {
-   "id": "40e90c21c234",
-   "source": "The Guardian",
-   "title": "Finland bars Russian athletes from entering country over Ukraine war",
-   "description": "Russians ‘have no business’ in country, says minister Skating and cross-country skiing first to be affected Finland says it will restrict entry to the country for Russian athletes because of the war in Ukraine, potentially affecting a number of winter sports. The move follows a b",
-   "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
-   "date": "2026-11-12T17:23:51+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "e054eda72c16",
    "source": "Al Jazeera",
    "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
@@ -644,8 +774,8 @@
   {
    "id": "7da9349ded2b",
    "source": "The Guardian",
-   "title": "Local funds for some young people losing Pip under Milburn plans",
-   "description": "Exclusive: Former health secretary says he wants to ‘tear up the old approach’, with under-25s to lose personal independence payments Some young people with disabilities will lose their personal independence payments but will be able to apply to a local fund for short-term expens",
+   "title": "Some young disabled people to lose Pip in Milburn plan – but can apply to local fund",
+   "description": "Exclusive: Former health secretary wants to ‘tear up the old approach’, and end ongoing payments to certain under-25s Some young people with disabilities will lose their personal independence payments but will be able to apply to a local fund for short-term expenses and equipment",
    "url": "https://www.theguardian.com/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn",
    "date": "2026-11-12T17:14:34+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -712,16 +842,6 @@
    "type": "Prensa"
   },
   {
-   "id": "09034c7fb4c0",
-   "source": "Deutsche Welle",
-   "title": "Conversaciones a tres bandas entre Ucrania, Estados Unidos y Rusia en Abu Dabi: ¿han aportado realmente algo a Kiev?",
-   "description": "Las primeras conversaciones trilaterales entre Ucrania, Estados Unidos y Rusia en nueve meses terminaron con un acuerdo sobre el intercambio de prisioneros. ¿Se puede considerar un éxito y un paso hacia la paz?",
-   "url": "https://www.dw.com/es/conversaciones-a-tres-bandas-entre-ucrania-estados-unidos-y-rusia-en-abu-dabi-¿han-aportado-realmente-algo-a-kiev/a-79933391?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-12T16:45:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "5a6719358092",
    "source": "Al Jazeera",
    "title": "Italy vs France LIVE: UEFA Nations League",
@@ -742,32 +862,12 @@
    "type": "Prensa"
   },
   {
-   "id": "efdd9c3f5e57",
-   "source": "The Guardian",
-   "title": "Farage was guest on Brand podcast after sexual assault investigation began",
-   "description": "Reform leader this week criticised the Labour party for ‘cosying up to’ and ‘promoting’ disgraced comedian Nigel Farage appeared on Russell Brand’s US podcast nine months after police opened an investigation into the comedian after allegations of sexual assault, the Guardian has ",
-   "url": "https://www.theguardian.com/politics/2026/nov/12/farage-was-guest-on-brand-podcast-after-sexual-assault-investigation-began",
-   "date": "2026-11-12T16:43:33+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "7e5514fdbff4",
    "source": "The Guardian",
    "title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
    "description": "Swedish activist criticised world governments for their failure to prevent environmental breakdown The planet is “not dying, it is being killed and we know by who”, said Greta Thunberg, who excoriated world governments for their failure to prevent environmental breakdown in her f",
    "url": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
    "date": "2026-11-12T16:39:47+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "0ca156c226e2",
-   "source": "The Guardian",
-   "title": "UK car industry to press EU for two-year delay to Brexit EV tariffs",
-   "description": "‘Rules of origin’ on vehicle batteries due to come into force on 1 January if deal on new delay is not reached Business live – latest updates The UK car industry is preparing to push for a two-year delay to Brexit tariffs on electric cars traded with the EU, after an initial Euro",
-   "url": "https://www.theguardian.com/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu",
-   "date": "2026-11-12T16:30:27+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -799,26 +899,6 @@
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261112-en-directo-el-papa-le%C3%B3n-xiv-pide-a-los-obispos-de-per%C3%BA-que-respondan-a-abusos-con-justicia-y-reparaci%C3%B3n",
    "date": "2026-11-12T16:21:35+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "959ca0d21d94",
-   "source": "Deutsche Welle",
-   "title": "La integración en Alemania progresa, pero los planes del Gobierno podrían frenarla",
-   "description": "22 millones de personas en Alemania tienen trasfondo migratorio. Un nuevo informe muestra avances en la integración. Sin embargo, los planes de ahorro del gobierno están generando una disputa política.",
-   "url": "https://www.dw.com/es/la-integración-en-alemania-progresa-pero-los-planes-del-gobierno-podrían-frenarla/a-79933070?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-12T16:21:00+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "880600e6266b",
-   "source": "Al Jazeera",
-   "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
-   "description": "The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
-   "date": "2026-11-12T16:07:16+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -862,16 +942,6 @@
    "type": "Prensa"
   },
   {
-   "id": "89ba7ed6cc6f",
-   "source": "Al Jazeera",
-   "title": "Four people shot in Washington DC",
-   "description": "A major police operation is underway in Washington DC where four people have reportedly been shot",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
-   "date": "2026-11-12T15:42:07+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "ff987eb1cb68",
    "source": "Ex-Ante",
    "title": "El ajuste fiscal pendiente para 2028",
@@ -889,26 +959,6 @@
    "url": "https://www.france24.com/es/medio-ambiente/20261112-la-islas-claman-en-la-cop31-por-su-supervivencia-venezuela-llama-a-potenciar-su-sistema-petrolero",
    "date": "2026-11-12T15:24:03+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "d2c0f2e2cf62",
-   "source": "Al Jazeera",
-   "title": "Manchester United sacked manager Michael Carrick",
-   "description": "Michael Carrick has become the third recent Manchester United manager to be sacked midway through the season.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
-   "date": "2026-11-12T15:21:43+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "42fadf143106",
-   "source": "Al Jazeera",
-   "title": "UK court finds two Iranian men guilty of spying for Iran",
-   "description": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.",
-   "url": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
-   "date": "2026-11-12T15:15:48+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -939,16 +989,6 @@
    "url": "https://f24.my/CHNx",
    "date": "2026-11-12T14:16:31+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "bbf301cdbaa3",
-   "source": "Deutsche Welle",
-   "title": "Miriam González: \"La población inmigrante en España es un activo\"",
-   "description": "DW entrevistó a la líder del partido Democracia 21, una figura de trayectoria internacional que planta cara a los bloques políticos tradicionales en las elecciones del 29 de noviembre en España.",
-   "url": "https://www.dw.com/es/miriam-gonzález-la-población-inmigrante-en-españa-es-un-activo/a-79927366?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-12T14:14:00+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -985,7 +1025,7 @@
    "id": "e554f3f47894",
    "source": "The Guardian",
    "title": "What’s behind Australia’s surge in teen extremism?",
-   "description": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says In March, Guardian Australia revealed that most people who have been charged with the new federal crime of possession of violent extremist material are under 18. This week ",
+   "description": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says Get our breaking news email , free app or daily news podcast In March, Guardian Australia revealed that most people who have been charged with the new federal crime of poss",
    "url": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
    "date": "2026-11-12T14:00:45+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -995,7 +1035,7 @@
    "id": "87971b2645bf",
    "source": "The Guardian",
    "title": "Icac’s drama and dirt files show NSW’s ‘guns for hire’ problem. But neither major party is serious about reform",
-   "description": "Chris Minns is trying to address the threat of undeclared lobbying but falls well short of what the commission recommended five years ago Get our daily political email , free app or daily news podcast A dirt file on a state minister peddled to journalists. A subterranean campaign",
+   "description": "Chris Minns’s move to address the threat of undeclared lobbying falls well short of what the commission recommended five years ago Get our daily political email , free app or daily news podcast A dirt file on a state minister peddled to journalists. A subterranean campaign to dis",
    "url": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb",
    "date": "2026-11-12T14:00:44+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -1082,16 +1122,6 @@
    "type": "Prensa"
   },
   {
-   "id": "92398971476c",
-   "source": "France 24",
-   "title": "¿Cómo influyó Perú en la identidad del papa León XIV y cómo fue su vida como misionero en el país?",
-   "description": "Antes de convertirse en León XIV, Robert Prevost pasó gran parte de su vida pastoral en Perú, un país que ha descrito como su “segundo hogar”. Allí trabajó como misionero, sacerdote y obispo, especialmente en la región de Chiclayo, acompañando a comunidades locales y formando a n",
-   "url": "https://www.france24.com/es/video/20261112-c%C3%B3mo-influy%C3%B3-per%C3%BA-en-la-identidad-del-papa-le%C3%B3n-xiv-y-c%C3%B3mo-fue-su-vida-como-misionero-en-el-pa%C3%ADs",
-   "date": "2026-11-12T13:32:58+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "e120919bf13e",
    "source": "BBC Mundo",
    "title": "\"Me los quitaron porque yo estaba sola\": la mujer que se reencontró con sus hijos 40 años después de que le fueran arrebatados por la dictadura de Pinochet en Chile",
@@ -1142,16 +1172,6 @@
    "type": "Prensa"
   },
   {
-   "id": "767d2c2d8653",
-   "source": "Deutsche Welle",
-   "title": "Hallan con vida a un joven desaparecido seis días en Australia",
-   "description": "Un adolescente de 17 años con autismo fue hallado con vida tras pasar seis días desaparecido en una remota zona boscosa de Australia. Sobrevivió al frío y al aislamiento hasta ser localizado por un helicóptero policial.",
-   "url": "https://www.dw.com/es/hallan-con-vida-a-un-joven-desaparecido-seis-días-en-australia/a-79929497?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-12T12:17:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "cb8ebc40479f",
    "source": "BBC Mundo",
    "title": "4 claves del escándalo de los supuestos \"sexocontratos\" por el que se investiga al expresidente de Colombia Gustavo Petro",
@@ -1198,16 +1218,6 @@
    "description": "William, 17, was reported missing after straying from his camp near Walhalla in Victoria’s Gippsland region Get our breaking news email , free app or daily news podcast A teenager has shared an emotional reunion with his mother after being found alive following almost a week lost",
    "url": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
    "date": "2026-11-12T09:35:44+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "85831d2b4cd1",
-   "source": "The Guardian",
-   "title": "‘Tourists hate themselves’ – which is why Tasmania is telling them to stay away",
-   "description": "Island state declares it ‘is not really for tourists’ – but is the marketing strategy just a cheeky piece of reverse psychology? Get our breaking news email , free app or daily news podcast Research shows “tourists hate themselves” – which is exactly why the marketing flacks at T",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away",
-   "date": "2026-11-12T08:30:57+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -1899,16 +1909,6 @@
    "url": "https://www.ciperchile.cl/2026/11/10/funcionarios-de-sernapesca-advierten-que-recortes-de-presupuesto-podrian-poner-en-riesgo-su-capacidad-fiscalizadora/?utm_source=rss&utm_medium=rss&utm_campaign=funcionarios-de-sernapesca-advierten-que-recortes-de-presupuesto-podrian-poner-en-riesgo-su-capacidad-fiscalizadora",
    "date": "2026-11-10T17:57:51+00:00",
    "category": "Finanzas públicas",
-   "type": "Prensa"
-  },
-  {
-   "id": "e2d0cd45bc2e",
-   "source": "BBC Mundo",
-   "title": "Qué presencia tienen los lefebvrianos en Argentina, el primer país de América Latina en el que se estableció el grupo al que el Vaticano acusa de promover un \"cisma\"",
-   "description": "La organización tradicionalista desembarcó en el país durante la dictadura militar y actualmente está presente en 11 de las 24 provincias.",
-   "url": "https://www.bbc.com/mundo/articles/cwp8gg9e0nn7o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T17:46:50+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
