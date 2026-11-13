@@ -1,6 +1,106 @@
 {
- "updated": "2026-11-13T21:42:44.079717+00:00",
+ "updated": "2026-11-13T22:39:44.560921+00:00",
  "items": [
+  {
+   "id": "74974f4984e1",
+   "source": "BBC Mundo",
+   "title": "Un crucero con pasajeros a bordo vuelca en Nueva Orleans tras ser embestido por un buque cisterna",
+   "description": "Más de 120 personas se encontraban en el barco turístico en el momento de la colisión.",
+   "url": "https://www.bbc.com/mundo/articles/c804wpyd29wro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T22:26:35+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "b353b2e1d102",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] Colo Colo sacudió a Racing con un golazo de Gedeón Diaz",
+   "description": "Colo Colo abrió rápido el marcador ante Racing de Avellaneda en el amistoso en Concepción, con un golazo del joven canterano Gedeón Díaz. Francisco Marchant envió el centro al área, Maxi Romero la peinó y Díaz, de 18 años, estaba atento, la bajó con el pecho y soltó el remate par",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/video-colo-colo-sacudio-a-racing-con-un-golazo-de-gedeon-diaz/2026-11-13/191957.html",
+   "date": "2026-11-13T22:19:57+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "a9ad8758fce0",
+   "source": "The Guardian",
+   "title": "US air force responds to suspected drone activity at RAF Lakenheath",
+   "description": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US air force has said it responded to “suspected unauthorised drone activity” on Friday night at an RAF airbase in the east of England. No personnel, aircraft or infrastructure were affected, ",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
+   "date": "2026-11-13T22:18:43+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c1f62824e31b",
+   "source": "BBC Mundo",
+   "title": "La autoridad de aviación de EE.UU. ordena suspender los despegues de vuelos en todo el país \"por circunstancias extraordinarias\"",
+   "description": "La FAA ordenó este viernes suspender hasta nuevo aviso todos los despegues de vuelos en Estados Unidos, alegando \"circunstancias extraordinarias\" y motivos de seguridad.",
+   "url": "https://www.bbc.com/mundo/articles/crgqx8jpw3jvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T22:16:21+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "ddc35c43ece5",
+   "source": "The Guardian",
+   "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
+   "description": "Anti-corruption agency carried out searches as part of investigation into Orbán-era minister accused of taking bribes Hungary’s anti-corruption agency said on Friday it had seized cash worth $19.5m (£14.8m) buried in forests and hidden elsewhere while investigating an ex-minister",
+   "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
+   "date": "2026-11-13T22:12:54+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "2ce58744a05c",
+   "source": "France 24",
+   "title": "Estados Unidos ordena la suspensión de despegues en todo el país por problemas en las comunicaciones",
+   "description": "",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261113-estados-unidos-ordena-la-suspensi%C3%B3n-de-despegues-en-todo-el-pa%C3%ADs-por-problemas-en-las-comunicaciones",
+   "date": "2026-11-13T22:03:03+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "65aeff1dec95",
+   "source": "Al Jazeera",
+   "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
+   "description": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
+   "date": "2026-11-13T22:02:07+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "d671fea7dc69",
+   "source": "Radio Cooperativa",
+   "title": "Federación Española confirmó castigo a Owono por el fatal choque con Jesús de Miguel",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este viernes, el Comité de Disciplina de la Real Federación Española de Fútbol (RFEF) sancionó con 12 partidos al arquero Jesús Owono , arquero de FC Andorra por la dura entrada que provocó el fallecimiento del delantero Je",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-espanola/federacion-espanola-confirmo-castigo-a-owono-por-el-fatal-choque-con/2026-11-13/185923.html",
+   "date": "2026-11-13T21:59:23+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "5ca4dba4a819",
+   "source": "Deutsche Welle",
+   "title": "Miles de vuelos afectados en EE.UU. por fallo técnico en centros de control",
+   "description": "Las autoridades ordenaron suspender todos los despegues y analizar caso a caso los vuelos internacionales que deban aterrizar. Es la tercera vez en este siglo que se adopta esta medida.",
+   "url": "https://www.dw.com/es/miles-de-vuelos-afectados-en-ee-uu-por-fallo-técnico-en-centros-de-control/a-79945299?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-13T21:54:00+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "fab342eebb56",
+   "source": "Radio Cooperativa",
+   "title": "Naveillán ve los indultos de Kast \"como un embarazo difícil\" y con alto riesgo de aborto",
+   "description": "Como \"un embarazo difícil\" con complicaciones que , tras nueve meses de gestación , todavía no llega al parto : así graficó la diputada libertaria Gloria Naveillán la falta de avances en los indultos presidenciales prometidos por José Antonio Kast a uniformados vinculados al esta",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/naveillan-ve-los-indultos-de-kast-como-un-embarazo-dificil-y-con-alto/2026-11-13/183948.html",
+   "date": "2026-11-13T21:39:48+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
   {
    "id": "37c1e58239b1",
    "source": "Radio Cooperativa",
@@ -12,23 +112,43 @@
    "type": "Prensa"
   },
   {
-   "id": "c1f62824e31b",
-   "source": "BBC Mundo",
-   "title": "La autoridad de aviación de EE.UU. ordena suspender los despegues de vuelos en todo el país por motivos de seguridad",
-   "description": "La Administración Federal de Aviación (FAA) ordenó este viernes suspender todos los despegues de vuelos en Estados Unidos hasta nuevo aviso, alegando \"circunstancias extraordinarias\" y motivos de seguridad.",
-   "url": "https://www.bbc.com/mundo/articles/crgqx8jpw3jvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-13T21:36:42+00:00",
-   "category": "Estados Unidos y Canadá",
+   "id": "be50ca3b4688",
+   "source": "Radio Cooperativa",
+   "title": "Alemania batió a Serbia en Belgrado y se ilusiona con avanzar en la Nations League",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/nations-league/alemania-batio-a-serbia-en-belgrado-y-se-ilusiona-con-avanzar-en-la/2026-11-13/183641.html",
+   "date": "2026-11-13T21:36:41+00:00",
+   "category": "Europa",
    "type": "Prensa"
   },
   {
    "id": "16f42a4a351e",
    "source": "The Guardian",
    "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
-   "description": "Exclusive: Report says restricting cars and freeing up pavement space could be a cheap way to entice shoppers The long decline of the high street is a problem that has gripped British governments for years. But what if there was a solution no one had considered before – doing it ",
+   "description": "Exclusive: Report says restricting cars and freeing up pavement space could be a cheap way to bring shoppers back The long decline of the high street is a problem that has gripped British governments for years. But what if there was a solution no one had considered before – doing",
    "url": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
    "date": "2026-11-13T21:34:43+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c19922531e0a",
+   "source": "Radio Cooperativa",
+   "title": "Países Bajos humilló a Grecia con siete goles y se acercó a cuartos de la Nations League",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/nations-league/paises-bajos-humillo-a-grecia-con-siete-goles-y-se-acerco-a-cuartos-de/2026-11-13/183227.html",
+   "date": "2026-11-13T21:32:27+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "aea63569feec",
+   "source": "Al Jazeera",
+   "title": "US grounds all flights after ‘communication issue’",
+   "description": "US Transportation Secretary Sean Duffy says federal aviation agency is 'investigating the issue'.",
+   "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+   "date": "2026-11-13T21:32:08+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -39,16 +159,6 @@
    "url": "https://www.bbc.com/mundo/articles/cve87dj13r0do?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-13T21:30:10+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "74974f4984e1",
-   "source": "BBC Mundo",
-   "title": "Un crucero con pasajeros a bordo vuelca en Nueva Orleans tras ser chocado por un buque cisterna",
-   "description": "Más de 120 personas se encontraban en el barco turístico en el momento de la colisión.",
-   "url": "https://www.bbc.com/mundo/articles/c804wpyd29wro?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-13T21:27:56+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -69,6 +179,16 @@
    "url": "https://www.ex-ante.cl/negocios/gigante-indio-que-firmo-acuerdo-codelco/",
    "date": "2026-11-13T21:22:53+00:00",
    "category": "Economía nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "9d6438624523",
+   "source": "Radio Cooperativa",
+   "title": "Cecilia Pérez en su salida de Azul Azul: Tratamos de buscar lo mejor para la U",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Cecilia Pérez dedicó unas palabras de despedida al directorio de Azul Azul tras la junta de accionistas que la revocó de la presidencia, con palabras positivas sobre su controvertido su mandato en la sociedad anónima que ma",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cecilia-perez-en-su-salida-de-azul-azul-tratamos-de-buscar-lo-mejor/2026-11-13/182022.html",
+   "date": "2026-11-13T21:20:22+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -99,16 +219,6 @@
    "url": "https://www.cooperativa.cl/noticias/pais/tiempo/meteorologia-anticipa-posibles-chubascos-tormentas-y-nubes-tornadicas/2026-11-13/180426.html",
    "date": "2026-11-13T21:04:26+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a9ad8758fce0",
-   "source": "The Guardian",
-   "title": "US air force responds to suspected drone activity at RAF Lakenheath",
-   "description": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US air force has said it responded to “suspected unauthorised drone activity” on Friday night at an airbase in the east of England. No personnel, aircraft or infrastructure were affected, the ",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
-   "date": "2026-11-13T21:01:40+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -162,13 +272,13 @@
    "type": "Prensa"
   },
   {
-   "id": "f2abcaa5556d",
-   "source": "Radio Cooperativa",
-   "title": "Matías Dituro denunció violento asalto en su casa en España",
-   "description": "El argentino Matías Dituro, exportero campeón con Universidad Católica y compañero de Lucas Cepeda en Elche , denunció con un mensaje en sus redes sociales un violento asalto ocurrido en su casa en España. De acuerdo a su relato, tres encapuchados entraron en su domicilio cerca d",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-espanola/matias-dituro-denuncio-violento-asalto-en-su-casa-en-espana/2026-11-13/174522.html",
-   "date": "2026-11-13T20:45:22+00:00",
-   "category": "Europa",
+   "id": "a58e842ed47b",
+   "source": "France 24",
+   "title": "EE. UU. vs Corea del Norte: ciberataques a Binance reeditan los enfrentamientos entre viejos rivales",
+   "description": "En nuestra sección 'En Contexto', profundizamos en un nuevo capítulo de la estafa contra Binance, la mayor plataforma de intercambio de divisas virtuales. El gobierno de Donald Trump y el norcoreano de Kim Jong-Un renuevan las tensiones a partir del mayor robo de monedas digitale",
+   "url": "https://www.france24.com/es/programas/en-contexto/20261113-ee-uu-vs-corea-del-norte-ciberataques-a-binance-reeditan-los-enfrentamientos-entre-viejos-rivales",
+   "date": "2026-11-13T20:46:15+00:00",
+   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -179,16 +289,6 @@
    "url": "https://www.ex-ante.cl/afteroffice/resolucion-bancaria-y-depositos/",
    "date": "2026-11-13T20:44:51+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "10aa9d9912bd",
-   "source": "Radio Cooperativa",
-   "title": "La Roja sub 20 igualó ante México en amistoso con miras al Sudamericano 2027",
-   "description": "En medio del receso por la fecha FIFA, la selección chilena sub 20 también aprovechó su oportunidad para sumar roce e igualó 1-1 ante su símil de México en un amistoso disputado en el Complejo \"Juan Pinto Durán\". El elenco dirigido por Sebastián Miranda remó desde atrás, ya que G",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/sub-20/la-roja-sub-20-igualo-ante-mexico-en-amistoso-con-miras-al-sudamericano/2026-11-13/174417.html",
-   "date": "2026-11-13T20:44:17+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -222,16 +322,6 @@
    "type": "Prensa"
   },
   {
-   "id": "858290955fc8",
-   "source": "Deutsche Welle",
-   "title": "Líderes de la UE debaten en Dublín a quién enviar para las conversaciones de paz entre Ucrania y Rusia",
-   "description": "Ahora parece probable que Europa vaya a tener un sitio en la mesa de negociación tras los comentarios del enviado estadounidense que acaba de reunirse con Putin. Pero sigue sin estar claro quién ocupará ese asiento.",
-   "url": "https://www.dw.com/es/líderes-de-la-ue-debaten-en-dublín-a-quién-enviar-para-las-conversaciones-de-paz-entre-ucrania-y-rusia/a-79942235?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-13T20:36:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "7fecae510c00",
    "source": "Deutsche Welle",
    "title": "AfD gana fuerza en Alemania, y sus vínculos con el entorno neonazi plantean interrogantes",
@@ -242,13 +332,13 @@
    "type": "Prensa"
   },
   {
-   "id": "037ed95beb9a",
-   "source": "Radio Cooperativa",
-   "title": "\"No más vergüenza\": Claudio Bravo se sumó a campaña para la prevención del cáncer de próstata",
-   "description": "Claudio Bravo , histórico excapitán de La Roja y bicampeón de América, sorprendió en sus redes sociales al sumarse a una campaña para para prevenir el cáncer de próstata. El pasado miércoles, Bravo dio pistas de esta campaña al señalar que se cansó de \"sentir vergüenza\" y que hab",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/claudio-bravo/no-mas-verguenza-claudio-bravo-se-sumo-a-campana-para-la-prevencion/2026-11-13/173356.html",
-   "date": "2026-11-13T20:33:56+00:00",
-   "category": "",
+   "id": "858290955fc8",
+   "source": "Deutsche Welle",
+   "title": "Líderes de la UE debaten en Dublín a quién enviar para las conversaciones de paz entre Ucrania y Rusia",
+   "description": "Ahora parece probable que Europa vaya a tener un sitio en la mesa de negociación tras los comentarios del enviado estadounidense que acaba de reunirse con Putin. Pero sigue sin estar claro quién ocupará ese asiento.",
+   "url": "https://www.dw.com/es/líderes-de-la-ue-debaten-en-dublín-a-quién-enviar-para-las-conversaciones-de-paz-entre-ucrania-y-rusia/a-79942235?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-13T20:36:00+00:00",
+   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -282,16 +372,6 @@
    "type": "Prensa"
   },
   {
-   "id": "78b06ad2306e",
-   "source": "Radio Cooperativa",
-   "title": "Justicia peruana rechazó excarcelar a Vladimiro Montesinos: seguirá preso hasta 2037",
-   "description": "El exasesor presidencial Vladimiro Montesinos , quien fuera la mano derecha del expresidente peruano Alberto Fujimori (1990-2000) , padre de la actual gobernante Keiko Fujimori , continuará en prisión hasta 2037 , según determinó un tribunal superior al declarar infundada su soli",
-   "url": "https://www.cooperativa.cl/noticias/mundo/peru/vladimiro-montesinos/justicia-peruana-rechazo-excarcelar-a-vladimiro-montesinos-seguira/2026-11-13/172654.html",
-   "date": "2026-11-13T20:26:54+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
    "id": "1ae3b12e6277",
    "source": "Al Jazeera",
    "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
@@ -312,11 +392,11 @@
    "type": "Prensa"
   },
   {
-   "id": "620f153e6b58",
+   "id": "e5485b3df850",
    "source": "Radio Cooperativa",
-   "title": "Colo Colo enfrenta a Racing en un amistoso internacional en Concepción",
-   "description": "Colo Colo, flamante campeón del fútbol chileno, enfrenta este viernes a Racing de Avellaneda , en un amistoso internacional en Concepción. Sigue en vivo el resultado en Cooperativa.cl. Colo Colo (CHI) vs. Racing (ARG). 19:00 horas . Estadio \"Ester Roa\", Concepción",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-enfrenta-a-racing-en-un-amistoso-internacional-en-concepcion/2026-11-13/171611.html",
+   "title": "Colo Colo vence a Racing en un amistoso internacional en Concepción",
+   "description": "Colo Colo, flamante campeón del fútbol chileno, enfrenta este viernes a Racing Club de Avellaneda , en un amistoso internacional en Concepción. Sigue en vivo el resultado en Cooperativa.cl. Colo Colo (CHI) 1-0 Racing (ARG). Primer tiempo . Estadio \"Ester Roa\", Concepción 1-0: 12'",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-vence-a-racing-en-un-amistoso-internacional-en-concepcion/2026-11-13/171611.html",
    "date": "2026-11-13T20:16:11+00:00",
    "category": "",
    "type": "Prensa"
@@ -329,6 +409,16 @@
    "url": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission?traffic_source=rss",
    "date": "2026-11-13T20:12:34+00:00",
    "category": "África",
+   "type": "Prensa"
+  },
+  {
+   "id": "6ee2b1c5b8eb",
+   "source": "France 24",
+   "title": "Humoristas clonadas por IA: el cebo en Instagram y TikTok para llevar tráfico a OnlyFans",
+   "description": "La cómica de ese vídeo viral puede no existir. En Instagram y TikTok se multiplican cuentas que copian a humoristas reales de Estados Unidos y ponen sus chistes en boca de mujeres hipersexualizadas creadas con inteligencia artificial. Algunos vídeos suman millones de visualizacio",
+   "url": "https://www.france24.com/es/programas/cultura/20261113-humoristas-clonadas-por-ia-el-cebo-en-instagram-y-tiktok-para-llevar-tr%C3%A1fico-a-onlyfans",
+   "date": "2026-11-13T19:58:35+00:00",
+   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -352,16 +442,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1e7d282b1b0f",
-   "source": "Radio Cooperativa",
-   "title": "Universidad Mayor capacitará a 10 mil escolares en emprendimiento e innovación",
-   "description": "La Universidad Mayor lanzó a nivel nacional el programa \" Savia Nueva: Emprendedores del Futuro \" , una iniciativa académica orientada a formar en innovación y emprendimiento a más de 10 mil estudiantes de educación media técnico-profesional de todo Chile , cuyo propósito es entr",
-   "url": "https://www.cooperativa.cl/noticias/economia/pymes/universidad-mayor-capacitara-a-10-mil-escolares-en-emprendimiento-e/2026-11-13/164823.html",
-   "date": "2026-11-13T19:48:23+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "38a0076fefa8",
    "source": "BBC Mundo",
    "title": "\"Esta es la ciudad del Papa, del Papa peruano\": la emotiva vuelta a casa de León XIV a Chiclayo",
@@ -379,16 +459,6 @@
    "url": "https://www.dw.com/es/¿va-a-estallar-la-burbuja-de-la-ia-con-anthropic-a-punto-de-salir-a-bolsa/a-79944577?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-13T19:46:00+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "f66d8554ad24",
-   "source": "Radio Cooperativa",
-   "title": "Exvicepresidente de Bolivia Álvaro García Linera se encuentra asilado en México",
-   "description": "El exvicepresidente boliviano Álvaro García Linera informó el jueves que se encuentra en México con \"asilo político\", en medio de una investigación abierta contra él y el expresidente Evo Morales por su presunta responsabilidad en un operativo policial en un hotel de Santa Cruz e",
-   "url": "https://www.cooperativa.cl/noticias/mundo/bolivia/politica/exvicepresidente-de-bolivia-alvaro-garcia-linera-se-encuentra-asilado-en/2026-11-13/164337.html",
-   "date": "2026-11-13T19:43:37+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -419,16 +489,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
    "date": "2026-11-13T19:23:05+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "614223956b4a",
-   "source": "Radio Cooperativa",
-   "title": "El Claro Arena pasó a la final de los Premios Estadios Summit en España",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El Claro Arena, estadio de Universidad Católica, volvió a destacar a nivel internacional tras ser confirmado como finalista de los Premios Estadios Summit 2026 , organizados en España. La casa del elenco \"cruzado\" compite e",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/el-claro-arena-paso-a-la-final-de-los-premios-estadios-summit-en-espana/2026-11-13/162048.html",
-   "date": "2026-11-13T19:20:48+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -842,16 +902,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f7c4af7bbd65",
-   "source": "The Guardian",
-   "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
-   "description": "Signing of agreement to smooth movement of food, plants and animals next week will not recoup huge sums firms were forced to spend The removal of border checks and paperwork on plant imports will “dissolve” £60m of annual costs for the horticulture industry when the UK and EU’s n",
-   "url": "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle",
-   "date": "2026-11-13T16:00:19+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "7694113aa37f",
    "source": "Al Jazeera",
    "title": "Turkiye and Qatar sign mutual defence agreement",
@@ -952,6 +1002,16 @@
    "type": "Prensa"
   },
   {
+   "id": "96bc3e7d9603",
+   "source": "Radio Cooperativa",
+   "title": "La Roja visita Cali para su primer amistoso frente a Colombia",
+   "description": "Este viernes, La Roja inicia su fecha FIFA con el primero de sus dos amistosos contra Colombia, arrancando como forastero en Cali. Colombia vs. Chile , 21:00 horas. Estadio \"Pascual Guerrero\". Sigue el Marcador Virtual de Cooperativa.cl y escucha la transmisión de Cooperativa Dep",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-visita-cali-para-su-primer-amistoso-frente-a-colombia/2026-11-13/121322.html",
+   "date": "2026-11-13T15:13:22+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
    "id": "3e41a0853abf",
    "source": "France 24",
    "title": "¿Cuáles son las consecuencias económicas y políticas del escándalo de Nvidia?",
@@ -959,16 +1019,6 @@
    "url": "https://www.france24.com/es/video/20261113-cu%C3%A1les-son-las-consecuencias-econ%C3%B3micas-y-pol%C3%ADticas-del-esc%C3%A1ndalo-de-nvidia",
    "date": "2026-11-13T15:02:24+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "347333d9045f",
-   "source": "Al Jazeera",
-   "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
-   "description": "Midterm gains give party room to overhaul NDAA funding, including provision to integrate US-Israeli military industries.",
-   "url": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
-   "date": "2026-11-13T15:02:16+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -982,36 +1032,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2436738fdef8",
-   "source": "France 24",
-   "title": "COP31: equipos diplomáticos negocian más financiación y menos combustibles fósiles",
-   "description": "La COP31 de Antalya, Turquía, entra en la fase de negociaciones tras la cumbre de jefes de Estado, con más financiación para los países vulnerables y menos combustibles fósiles como ejes de las primeras conclusiones de la conferencia de la ONU sobre cambio climático. Los equipos ",
-   "url": "https://www.france24.com/es/video/20261113-cop31-equipos-diplom%C3%A1ticos-negocian-m%C3%A1s-financiaci%C3%B3n-y-menos-combustibles-f%C3%B3siles",
-   "date": "2026-11-13T15:01:17+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "989c8fd03b40",
-   "source": "France 24",
-   "title": "Segunda jornada del papa en Perú: mensaje a la Iglesia sobre abusos y masiva reunión con jóvenes",
-   "description": "En la segunda jornada de su visita a Perú, el papa León XIV encabezó múltiples eventos en Lima. El 12 de noviembre se reunió con los líderes católicos locales para pedirles que continúen con las labores sociales de la Iglesia, pero también para reprochar los abusos cometidos por ",
-   "url": "https://www.france24.com/es/video/20261113-segunda-jornada-del-papa-en-per%C3%BA-mensaje-a-la-iglesia-sobre-abusos-y-masiva-reuni%C3%B3n-con-j%C3%B3venes",
-   "date": "2026-11-13T14:59:06+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "823553986445",
-   "source": "France 24",
-   "title": "Brasil prorroga el veto a las apuestas y el fútbol pierde a su gran patrocinador",
-   "description": "El Congreso de Brasil prorrogó por 60 días la medida provisional que prohíbe las apuestas en el país. El texto tendrá ahora hasta el 24 de marzo para ser votado en la Cámara de Diputados y el Senado; si no se aprueba, decae. La decisión golpea de lleno al fútbol: las casas de apu",
-   "url": "https://www.france24.com/es/programas/deportes/20261113-brasil-prorroga-el-veto-a-las-apuestas-y-el-f%C3%BAtbol-pierde-a-su-gran-patrocinador",
-   "date": "2026-11-13T14:52:19+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "59b58196375e",
    "source": "Deutsche Welle",
    "title": "Borussia Dortmund termina asociación con el consorcio armamentista Rheinmetall",
@@ -1022,16 +1042,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4875451639e8",
-   "source": "France 24",
-   "title": "\"Siete personas que Nvidia podría considerar para su próximo CEO\": 'NYT'",
-   "description": "El escándalo desatado por la relación extramatrimonial del ahora exdirector ejecutivo de Nvidia, Jensen Huang, con una presunta espía china ha dejado un enorme vacío: el liderazgo de una de las empresas más poderosas del mundo. La relevancia de la compañía tecnológica trasciende ",
-   "url": "https://www.france24.com/es/programas/revista-de-prensa/20261113-siete-personas-que-nvidia-podr%C3%ADa-considerar-para-su-pr%C3%B3ximo-ceo-nyt",
-   "date": "2026-11-13T14:36:02+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "0cca4d96bde0",
    "source": "Ex-Ante",
    "title": "Pago a cero días: Coopeuch pagará el mismo día las facturas de sus micro y pequeños proveedores",
@@ -1039,16 +1049,6 @@
    "url": "https://www.ex-ante.cl/negocios/coopeuch-pagara-en-dia-a-pymes/",
    "date": "2026-11-13T14:29:26+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "25fd3e3118e2",
-   "source": "Al Jazeera",
-   "title": "Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams",
-   "description": "Playing their first game since Cristiano Ronaldo's retirement, two-time champions Portugal face Denmark at home.",
-   "url": "https://www.aljazeera.com/sports/2026/11/13/portugal-denmark-ronaldo-uefa-nations-league-predictions-teams?traffic_source=rss",
-   "date": "2026-11-13T14:18:25+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1289,16 +1289,6 @@
    "url": "https://www.dw.com/es/irán-reivindica-ataque-a-radar-de-alerta-temprana-de-ee-uu-en-baréin/a-79936474?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-13T04:51:00+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "d255488eb4db",
-   "source": "Deutsche Welle",
-   "title": "Interrupción mundial afecta aplicación de mensajería Outlook de Microsoft",
-   "description": "La empresa atribuyó la interrupción a una “carga elevada” en su infraestructura, la cual afectó a los usuarios en todo el continente americano.",
-   "url": "https://www.dw.com/es/interrupción-mundial-afecta-aplicación-de-mensajería-outlook-de-microsoft/a-79936409?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-13T03:56:00+00:00",
-   "category": "Empresas y mercados",
    "type": "Prensa"
   },
   {
@@ -1742,16 +1732,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8395b08f5aaf",
-   "source": "Deutsche Welle",
-   "title": "Estudio asegura que un cuarto de los alemanes quiere una dictadura de derecha",
-   "description": "Los éxitos electorales de Alternativa para Alemania (AfD) parecen mostrar una tendencia clara: los prejuicios, resentimientos y extremismo de derecha van en aumento. ¿Qué significa esto para la democracia?",
-   "url": "https://www.dw.com/es/estudio-asegura-que-un-cuarto-de-los-alemanes-quiere-una-dictadura-de-derecha/a-79922826?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-11T17:31:00+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "d7c9b12f82d3",
    "source": "Deutsche Welle",
    "title": "Berlín reúne a disidentes para hallar respuestas ante las autocracias",
@@ -1759,6 +1739,16 @@
    "url": "https://www.dw.com/es/berlín-reúne-a-disidentes-para-hallar-respuestas-ante-las-autocracias/a-79916089?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-11T17:31:00+00:00",
    "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "8395b08f5aaf",
+   "source": "Deutsche Welle",
+   "title": "Estudio asegura que un cuarto de los alemanes quiere una dictadura de derecha",
+   "description": "Los éxitos electorales de Alternativa para Alemania (AfD) parecen mostrar una tendencia clara: los prejuicios, resentimientos y extremismo de derecha van en aumento. ¿Qué significa esto para la democracia?",
+   "url": "https://www.dw.com/es/estudio-asegura-que-un-cuarto-de-los-alemanes-quiere-una-dictadura-de-derecha/a-79922826?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-11T17:31:00+00:00",
+   "category": "Elecciones",
    "type": "Prensa"
   },
   {
