@@ -1,14 +1,184 @@
 {
- "updated": "2026-11-13T11:49:55.668845+00:00",
+ "updated": "2026-11-13T12:55:13.064281+00:00",
  "items": [
+  {
+   "id": "176d54355941",
+   "source": "BBC Mundo",
+   "title": "Los restos del escritor Miguel Ángel Asturias regresan a Guatemala más de medio siglo después de su muerte",
+   "description": "El escritor falleció en Madrid en 1974 y fue enterrado a pedido de su familia en el cementerio parisino de Père Lachaise. El jueves, sus restos regresaron al país que tanto amó y fue fuente de inspiración para su obra.",
+   "url": "https://www.bbc.com/mundo/articles/ck1l04rpm9l5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T12:51:27+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "9771bf02f8b5",
+   "source": "The Guardian",
+   "title": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
+   "description": "The report on food and emissions comes ahead of a joint UK-EU summit next week A news conference in Piddington descended into a shouting match between Reform’s Zia Yusuf and the Conservative’s Chris Philp. The two men, who are both home affairs spokespeople for their respective p",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+   "date": "2026-11-13T12:43:12+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "66a8e47f81db",
    "source": "The Guardian",
-   "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-   "description": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour a perfect pint of",
+   "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – Europe live",
+   "description": "Kaja Kallas warns against agreeing to Russia’s proposed sequence of events on talks on Ukraine Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour a perfect pint of Gu",
    "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-   "date": "2026-11-13T11:44:43+00:00",
+   "date": "2026-11-13T12:41:45+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "40f31349dc0c",
+   "source": "Radio Cooperativa",
+   "title": "Pellegrini defendió a su plantel tras evitar papelón en la Copa del Rey",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Manuel Pellegrini, entrenador chileno de Real Betis, dijo que no tiene \"ningún reproche\" para su equipo tras la agonía sufrida frente a Atlético Navalcarnero , de Segunda RFEF (cuarta división), al que ganó por 2-3 en el ti",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-del-rey/pellegrini-defendio-a-su-plantel-tras-evitar-papelon-en-la-copa-del-rey/2026-11-13/094116.html",
+   "date": "2026-11-13T12:41:16+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "b7f940f5fca3",
+   "source": "The Guardian",
+   "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+   "description": "Tech firm says there has been ‘encouraging’ progress in recovery in Europe and there is no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Micr",
+   "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+   "date": "2026-11-13T12:29:18+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "47805ed4f6e9",
+   "source": "France 24",
+   "title": "En directo: Europa alerta de las \"trampas\" de Rusia de cara a posibles negociaciones de paz en Ucrania",
+   "description": "La jefa de la diplomacia de la Unión Europea, Kaja Kallas, advirtió que Europa no debe caer en \"trampas\" rusas al sentarse a la mesa en las conversaciones para poner fin a la guerra en Ucrania, y añadió que un alto el fuego sigue siendo la máxima prioridad. Mientras Bruselas y Ki",
+   "url": "https://www.france24.com/es/europa/20261113-en-directo-europa-alerta-de-las-trampas-de-rusia-de-cara-a-posibles-negociaciones-de-paz-en-ucrania",
+   "date": "2026-11-13T12:27:48+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "59eb85f42f66",
+   "source": "BBC Mundo",
+   "title": "\"Seguí a 5 familias durante 14 años para retratar cómo se vive la pobreza extrema en Colombia y por qué solo algunos logramos salir de ella\"",
+   "description": "El documental \"El juego de la vida\" ha sido el más visto en salas de cine colombianas en los últimos cinco años. BBC Mundo habló con su autor.",
+   "url": "https://www.bbc.com/mundo/articles/cwe8rpg5mr9po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T12:26:38+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "b6972f81210b",
+   "source": "Radio Cooperativa",
+   "title": "Manchester United anunció a Mauricio Pochettino como su nuevo DT",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Manchester United anunció este viernes al argentino Mauricio Pochettino como su nuevo entrenador, a partir del día 18 de noviembre, para las próximas dos temporadas y media. Pochettino, que tenía contrato con la selección d",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-inglesa/manchester-united-anuncio-a-mauricio-pochettino-como-su-nuevo-dt/2026-11-13/091702.html",
+   "date": "2026-11-13T12:17:02+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "ef459765f039",
+   "source": "Deutsche Welle",
+   "title": "La Unión Europea celebra su primera cumbre sobre inteligencia artificial",
+   "description": "La primera cumbre dedicada exclusivamente a la inteligencia artificial (IA) tiene lugar en Dublín.",
+   "url": "https://www.dw.com/es/la-unión-europea-celebra-su-primera-cumbre-sobre-inteligencia-artificial/a-79939634?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-13T12:13:00+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "d16155a333cf",
+   "source": "Radio Cooperativa",
+   "title": "Cámara Baja despachó Presupuesto 2027 con siete partidas rechazadas tras maratónica sesión",
+   "description": "La Cámara de Diputadas y Diputados despachó al Senado el proyecto de Presupuesto 2027 , tras una maratónica discusión que se extendió hasta pasadas las seis de la mañana de este viernes y dejó sin aprobación los recursos destinados a siete partidas clave del Gobierno. El rechazo ",
+   "url": "https://www.cooperativa.cl/noticias/economia/presupuesto/camara-baja-despacho-presupuesto-2027-con-siete-partidas-rechazadas-tras/2026-11-13/091148.html",
+   "date": "2026-11-13T12:11:48+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "5a3e0384f833",
+   "source": "The Guardian",
+   "title": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
+   "description": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications to",
+   "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+   "date": "2026-11-13T12:07:13+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "6b959f1dd3a3",
+   "source": "Al Jazeera",
+   "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
+   "description": "Finland says Ukraine struck a Russian warship near its coast as Kyiv and Moscow held US-brokered talks in Abu Dhabi.",
+   "url": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss",
+   "date": "2026-11-13T12:06:56+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "082d9f74e604",
+   "source": "Al Jazeera",
+   "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+   "description": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
+   "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
+   "date": "2026-11-13T11:59:34+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "cde2d0746ab7",
+   "source": "Radio Cooperativa",
+   "title": "Presidente SNA: Para la agricultura fue duro sumar el paro a los efectos del Niño y aranceles",
+   "description": "El presidente de la Sociedad Nacional de Agricultura (SNA), Antonio Walker , abordó en Cooperativa el fuerte impacto que ha tenido en su sector el paro de camioneros , y por ende, llamó al Gobierno a \"actuar respecto de los descolgados\" del acuerdo alcanzado ayer jueves. En El Di",
+   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/presidente-sna-para-la-agricultura-fue-duro-sumar-el-paro-a-los-efectos/2026-11-13/085917.html",
+   "date": "2026-11-13T11:59:17+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "96514e40f53b",
+   "source": "Radio Cooperativa",
+   "title": "Rosalía arrasó en los Latin Grammy 2026 con seis premios",
+   "description": "La cantante española Rosalía se convirtió en la gran ganadora del Latin Grammy 2026 al obtener seis premios , incluyendo el del Álbum del Año por \"Lux\" y el de Canción del Año por \"La perla\". \"Sé que tengo mucho que aprender y todavía no he hecho mi mejor trabajo , pero tengo tod",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/grammy-latino/rosalia-arraso-en-los-latin-grammy-2026-con-seis-premios/2026-11-13/085434.html",
+   "date": "2026-11-13T11:54:34+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "4e701a81168c",
+   "source": "Al Jazeera",
+   "title": "India cancels visa of Norwegian journalist who questioned Modi",
+   "description": "The Norwegian journalist who questioned PM Narendra Modi over press freedom has had her visa to India cancelled.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/india-cancels-visa-of-norwegian-journalist-who-questioned-modi?traffic_source=rss",
+   "date": "2026-11-13T11:54:08+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "ac9d7d3abb23",
+   "source": "Al Jazeera",
+   "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
+   "description": "IAEA says it cannot verify whether an underground Iranian enrichment plant contains nuclear material.",
+   "url": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss",
+   "date": "2026-11-13T11:51:57+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "45008b62ed24",
+   "source": "Radio Cooperativa",
+   "title": "Será rival de Chile: República Dominicana reemplazará a EE.UU. en el Mundial sub 17",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La selección de República Dominicana competirá por primera vez en un Mundial de Fútbol sub 17, anunció la FIFA este jueves, luego de que Estados Unidos renunciara a su participación en la cita de Catar por asuntos de seguri",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/sub-17/sera-rival-de-chile-republica-dominicana-reemplazara-a-ee-uu-en-el/2026-11-13/084338.html",
+   "date": "2026-11-13T11:43:38+00:00",
+   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -65,7 +235,7 @@
    "id": "bc216b55c24a",
    "source": "Al Jazeera",
    "title": "Live: Microsoft struggles to restore services as outage hits global users",
-   "description": "As global outage affects users worldwide, Microsoft admits fixes are not going 'as expected'.",
+   "description": "As disruption affects users worldwide, Microsoft admits fixes are not going 'as expected'.",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
    "date": "2026-11-13T11:18:01+00:00",
    "category": "Oriente Medio",
@@ -99,16 +269,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti?traffic_source=rss",
    "date": "2026-11-13T10:57:20+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "9771bf02f8b5",
-   "source": "The Guardian",
-   "title": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
-   "description": "The report on food and emissions comes ahead of a joint UK-EU summit next week Ministers will face a legal challenge over plans to convert a Ministry of Defence site near the Oxfordshire village of Piddington into accommodation for more than 1,200 detained asylum seekers. It emer",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
-   "date": "2026-11-13T10:56:24+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -179,16 +339,6 @@
    "url": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss",
    "date": "2026-11-13T10:26:22+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "b7f940f5fca3",
-   "source": "The Guardian",
-   "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-   "description": "Tech company ‘seeing positive results’ with efforts and says no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft is scrambling to fix ",
-   "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-   "date": "2026-11-13T10:15:13+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -542,16 +692,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4c8de8f74ea6",
-   "source": "Al Jazeera",
-   "title": "Pope Leo meets clergy abuse survivors in Peru amid calls for justice",
-   "description": "Pope Leo met six clergy abuse survivors in Peru, while hundreds more say they remain excluded as they seek justice.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_pope-leo-meets-clergy-abuse-survivors-in-peru-121126?traffic_source=rss",
-   "date": "2026-11-13T05:05:50+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "a12659b838d9",
    "source": "France 24",
    "title": "Witkoff y Kushner se reúnen con Putin, mientras Zelenski pide mediación de Europa",
@@ -572,42 +712,12 @@
    "type": "Prensa"
   },
   {
-   "id": "6e700d67411d",
-   "source": "Al Jazeera",
-   "title": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
-   "description": "Funding cuts and Israel's war have left Palestinians in Lebanon in increasingly dire circumstances.",
-   "url": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
-   "date": "2026-11-13T04:51:56+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "a052bdcf46c7",
    "source": "Deutsche Welle",
    "title": "Irán reivindica ataque a radar de alerta temprana de EE.UU. en Baréin",
    "description": "Autoridades iraníes afirman que fue en respuesta a un ataque anterior por parte de EE.UU. contra una torre de telecomunicaciones al servicio de Teherán.",
    "url": "https://www.dw.com/es/irán-reivindica-ataque-a-radar-de-alerta-temprana-de-ee-uu-en-baréin/a-79936474?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-13T04:51:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "50d27b7c5181",
-   "source": "Al Jazeera",
-   "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
-   "description": "Despite knowing a war with Iran would be manufactured for Netanyahu's survival, many would still rally behind it.",
-   "url": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival?traffic_source=rss",
-   "date": "2026-11-13T04:48:40+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "26bac1f817f8",
-   "source": "Al Jazeera",
-   "title": "From ocean legend to undersea reef: Why has the SS United States been sunk?",
-   "description": "The ship had been inactive for years despite various owners attempting to save and restore it.",
-   "url": "https://www.aljazeera.com/news/2026/11/13/from-ocean-legend-to-undersea-reef-why-has-the-ss-united-states-been-sunk?traffic_source=rss",
-   "date": "2026-11-13T04:39:33+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
@@ -632,26 +742,6 @@
    "type": "Prensa"
   },
   {
-   "id": "fcf620e74a10",
-   "source": "Radio Cooperativa",
-   "title": "Fedefruta valoró fin del paro camionero, en plena temporada de exportación",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/fedefruta-valoro-fin-del-paro-camionero-en-plena-temporada-de/2026-11-13/005109.html",
-   "date": "2026-11-13T03:51:09+00:00",
-   "category": "Comercio internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "8e5c84d01786",
-   "source": "Radio Cooperativa",
-   "title": "Periodista chilena y autora de \"Siervas\" se reunió con León XIV: \"Lo sentí comprometido contra abusos\"",
-   "description": "La periodista chilena Camila Bustamante , una de las víctimas de abusos de la Iglesia que se reunieron este jueves con el papa León XIV durante su visita a Perú , aseguró que el pontífice le transmitió estar \"realmente comprometido de manera personal\" con investigar los casos y r",
-   "url": "https://www.cooperativa.cl/noticias/mundo/vaticano/papa-leon-xiv/periodista-chilena-y-autora-de-siervas-se-reunio-con-leon-xiv-lo/2026-11-13/002235.html",
-   "date": "2026-11-13T03:22:35+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "39e9ea72e90c",
    "source": "The Guardian",
    "title": "Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong – podcast",
@@ -659,26 +749,6 @@
    "url": "https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast",
    "date": "2026-11-13T03:00:06+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "2d6207663698",
-   "source": "Radio Cooperativa",
-   "title": "Nueva York: Buscan sobrevivientes tras derrumbe de edificio que dejó ocho muertos",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/nueva-york-buscan-sobrevivientes-tras-derrumbe-de-edificio-que-dejo/2026-11-12/235309.html",
-   "date": "2026-11-13T02:53:09+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "08484bb3c4b7",
-   "source": "Radio Cooperativa",
-   "title": "La Roja tuvo su última práctica antes del amistoso contra Colombia en Cali",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-tuvo-su-ultima-practica-antes-del-amistoso-contra-colombia-en/2026-11-12/233430.html",
-   "date": "2026-11-13T02:34:30+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -702,16 +772,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ed859af59d73",
-   "source": "Radio Cooperativa",
-   "title": "Acusación constitucional a Rabat: Desafiante, la UDI anticipa triunfo holgado del oficialismo",
-   "description": "El presidente de la UDI, el diputado Guillermo Ramírez , manifestó su confianza en que la acusación constitucional contra el ministro de Justicia, Fernando Rabat — presentada este jueves y dos semanas después de su anuncio —, no prosperará en la Cámara Baja. \"Ya era hora. Esto es",
-   "url": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/acusacion-constitucional-a-rabat-desafiante-la-udi-anticipa-triunfo/2026-11-12/223151.html",
-   "date": "2026-11-13T01:31:51+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "c41316c6152b",
    "source": "Deutsche Welle",
    "title": "Hutíes reivindican ataques contra el gigante petrolero Aramco en Arabia Saudita",
@@ -719,16 +779,6 @@
    "url": "https://www.dw.com/es/hutíes-reivindican-ataques-contra-el-gigante-petrolero-aramco-en-arabia-saudita/a-79935956?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-13T01:25:00+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "e3474ef3e059",
-   "source": "Radio Cooperativa",
-   "title": "Camioneros de Temuco, Rengo y buses interurbanos desconocen acuerdo y siguen paro",
-   "description": "Yuri Sobarzo, dirigente de los camioneros de Temuco y Cautín , se desmarcó del acuerdo anunciado esta tarde de jueves en La Moneda y declaró intención de seguir adelante con la protesta. \"En Temuco no se levanta el paro\" , dijo Sobarzo en la Ruta 5 Sur: \"Nosotros queremos una sol",
-   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/camioneros-de-temuco-rengo-y-buses-interurbanos-desconocen-acuerdo-y/2026-11-12/220053.html",
-   "date": "2026-11-13T01:00:53+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -972,16 +1022,6 @@
    "type": "Prensa"
   },
   {
-   "id": "09034c7fb4c0",
-   "source": "Deutsche Welle",
-   "title": "Conversaciones a tres bandas entre Ucrania, Estados Unidos y Rusia en Abu Dabi: ¿han aportado realmente algo a Kiev?",
-   "description": "Las primeras conversaciones trilaterales entre Ucrania, Estados Unidos y Rusia en nueve meses terminaron con un acuerdo sobre el intercambio de prisioneros. ¿Se puede considerar un éxito y un paso hacia la paz?",
-   "url": "https://www.dw.com/es/conversaciones-a-tres-bandas-entre-ucrania-estados-unidos-y-rusia-en-abu-dabi-¿han-aportado-realmente-algo-a-kiev/a-79933391?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-12T20:44:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "959ca0d21d94",
    "source": "Deutsche Welle",
    "title": "La integración en Alemania progresa, pero los planes del Gobierno podrían frenarla",
@@ -1172,16 +1212,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5c71c59b9bd3",
-   "source": "France 24",
-   "title": "Al menos un muerto y cuatro heridos tras un tiroteo en un concurrido barrio de Washington",
-   "description": "Al menos una persona murió después de que cinco personas fueran baleadas el jueves 12 de noviembre en un vecindario de Washington, D. C., a 1,6 kilómetros de la Casa Blanca, informó la policía. Un gran número de agentes acudió a un edificio de apartamentos cercano donde un sospec",
-   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261112-al-menos-un-muerto-y-cuatro-heridos-tras-un-tiroteo-en-un-concurrido-barrio-de-washington",
-   "date": "2026-11-12T18:14:21+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "d31df3f4672d",
    "source": "The Guardian",
    "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
@@ -1262,16 +1292,6 @@
    "type": "Prensa"
   },
   {
-   "id": "fd82c2975601",
-   "source": "BBC Mundo",
-   "title": "Al menos 1 muerto y 4 heridos en un tiroteo en un gimnasio en Washington DC",
-   "description": "Los equipos de emergencia se desplegaron en el barrio de Logan Circle, un par de kilómetros al norte de la Casa Blanca.",
-   "url": "https://www.bbc.com/mundo/articles/cq8j47lw9nmwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-12T15:14:15+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "810339dfaa64",
    "source": "The Guardian",
    "title": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
@@ -1329,16 +1349,6 @@
    "url": "https://www.bbc.com/mundo/articles/cmly7w7err0yo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-12T13:00:11+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "e6b85eff9fa7",
-   "source": "The Guardian",
-   "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
-   "description": "Hospital director says 28 wounded in attack on one of few remaining medical facilities in the strip An Israeli airstrike on Nasser hospital in southern Gaza killed six people, including a surgeon and a disabled man, and wounded 28 others, according to the hospital director. The I",
-   "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
-   "date": "2026-11-12T12:19:01+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1422,6 +1432,16 @@
    "type": "Prensa"
   },
   {
+   "id": "ce5996f87e86",
+   "source": "Radio Cooperativa",
+   "title": "La agenda de La Roja en el Mundial Sub 17 Catar 2026",
+   "description": "La Copa Mundial Sub 17 arrancará el próximo jueves 19 de noviembre en Catar, lugar en donde La Roja que es dirigida por Ariel Leporati integrará el Grupo J, junto a Argelia, República Dominicana (reemplazante de Estados Unidos) y Montenegro. El combinado nacional arrancará su per",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-agenda-de-la-roja-en-el-mundial-sub-17-catar-2026/2026-11-11/193425.html",
+   "date": "2026-11-11T22:34:25+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
    "id": "7c756a510a15",
    "source": "CIPER Chile",
    "title": "León XIV frente a Milei: cuando la diplomacia pontificia interpela al poder",
@@ -1479,16 +1499,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
    "date": "2026-11-11T19:00:33+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "4bb38bd7487b",
-   "source": "BBC Mundo",
-   "title": "Por qué la familia Kennedy demanda a Trump por la polémica construcción de su arco del triunfo",
-   "description": "La Casa Blanca declaró que es \"lamentable\" ver que algunos miembros de la familia Kennedy se han sumado a un litigio contra el arco.",
-   "url": "https://www.bbc.com/mundo/articles/cmedq15xwnx9o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-11T18:27:20+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1879,16 +1889,6 @@
    "url": "https://www.ciperchile.cl/2026/11/10/radar-10-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-10-11-26",
    "date": "2026-11-10T23:31:31+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "681ea82b6a9b",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver el amistoso entre Colo Colo y Racing?",
-   "description": "Buscando mantener el ritmo en el receso por la fecha FIFA, el campeón Colo Colo enfrentará a Racing en un amistoso pactado para este viernes 13 de noviembre en el Estadio \"Ester Roa Rebolledo\" de Concepción. El partido está programado para las 19:00 horas (22:00 GMT) y será trans",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/cuando-y-donde-ver-el-amistoso-entre-colo-colo-y-racing/2026-11-10/190100.html",
-   "date": "2026-11-10T22:01:00+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
