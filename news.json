@@ -1,14 +1,104 @@
 {
- "updated": "2026-11-13T02:48:03.820895+00:00",
+ "updated": "2026-11-13T03:47:36.982460+00:00",
  "items": [
   {
    "id": "3d62ccc8546c",
    "source": "BBC Mundo",
-   "title": "Una falla en Microsoft deja fuera de servicio el correo electrónico de Outlook y otras plataformas",
+   "title": "Una falla en Microsoft deja fuera de servicio en todo el mundo el correo electrónico de Outlook y otras plataformas",
    "description": "La firma informó que registra fallas en sus servidores, luego de reportes de pérdida de conexión de servicios como Outlook, Microsoft 365 y Teams a nivel mundial.",
    "url": "https://www.bbc.com/mundo/articles/cm20v6ed340wo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-13T02:42:49+00:00",
+   "date": "2026-11-13T03:30:49+00:00",
    "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "e9058dc1daab",
+   "source": "The Guardian",
+   "title": "Chips, creek water and Take Me Home, Country Roads: how an Australian teenager survived six nights in the bush",
+   "description": "William, 17, says ‘nights were pretty cold’ and he ‘honestly didn’t think’ he’d survive A teenage boy who survived almost a week lost in dense Australian bushland sang John Denver’s Take Me Home, Country Roads as he held out hope of rescue on long nights alone in the wilderness. ",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/13/chips-creek-water-and-take-me-home-country-roads-how-an-australian-teenager-survived-six-nights-in-the-bush",
+   "date": "2026-11-13T03:25:30+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "8e5c84d01786",
+   "source": "Radio Cooperativa",
+   "title": "Periodista chilena y autora de \"Siervas\" se reunió con León XIV: \"Lo sentí comprometido contra abusos\"",
+   "description": "La periodista chilena Camila Bustamante , una de las víctimas de abusos de la Iglesia que se reunieron este jueves con el papa León XIV durante su visita a Perú , aseguró que el pontífice le transmitió estar \"realmente comprometido de manera personal\" con investigar los casos y r",
+   "url": "https://www.cooperativa.cl/noticias/mundo/vaticano/papa-leon-xiv/periodista-chilena-y-autora-de-siervas-se-reunio-con-leon-xiv-lo/2026-11-13/002235.html",
+   "date": "2026-11-13T03:22:35+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "1565a06627c6",
+   "source": "Al Jazeera",
+   "title": "Mississippi elects first black senator in nearly 150 years",
+   "description": "Scott Colom will be the first black senator to represent Mississippi since 1881.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/mississippi-elects-first-black-senator-in-nearly-150-years?traffic_source=rss",
+   "date": "2026-11-13T03:21:25+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "3366e962dfe2",
+   "source": "Al Jazeera",
+   "title": "Iran says it targeted US radar site in Bahrain",
+   "description": "IRGC claimed Bahrain radar strike was response to US attacks on Iranian telecom tower in southern Hormozgan province.",
+   "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss",
+   "date": "2026-11-13T03:17:27+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a108d82f4b7e",
+   "source": "Al Jazeera",
+   "title": "Gaza surgeon films aftermath of Israeli strike",
+   "description": "British volunteer surgeon films the terrifying aftermath of an Israeli strike on Gaza’s Nasser Hospital.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss",
+   "date": "2026-11-13T03:11:43+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "39e9ea72e90c",
+   "source": "The Guardian",
+   "title": "Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong – podcast",
+   "description": "Pro-democracy activist Nathan Law and journalist Danny Vincent on the sentencing of the iconic Hong Kong campaigner Joshua Wong to another 10 years in prison. Send your comments and questions to tif.questions@theguardian.com He has been leading protests since he was 14. Joshua Wo",
+   "url": "https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast",
+   "date": "2026-11-13T03:00:06+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "2d6207663698",
+   "source": "Radio Cooperativa",
+   "title": "Nueva York: Buscan sobrevivientes tras derrumbe de edificio que dejó ocho muertos",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/nueva-york-buscan-sobrevivientes-tras-derrumbe-de-edificio-que-dejo/2026-11-12/235309.html",
+   "date": "2026-11-13T02:53:09+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "04aade7eb25a",
+   "source": "Al Jazeera",
+   "title": "Spanish court suspends far-right group over alleged hate crimes",
+   "description": "Judge orders office shut and accounts blocked after 14 arrests and the seizure of more than 20 firearms.",
+   "url": "https://www.aljazeera.com/news/2026/11/13/spanish-court-suspends-far-right-group-over-alleged-hate-crimes?traffic_source=rss",
+   "date": "2026-11-13T02:52:25+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5dea12f20b02",
+   "source": "Al Jazeera",
+   "title": "Chris Van Hollen launches bid to lead Democrats in US Senate",
+   "description": "Van Hollen's leadership drive follows Democratic sweeps in elections and challenges veteran leader Schumer.",
+   "url": "https://www.aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader?traffic_source=rss",
+   "date": "2026-11-13T02:42:41+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -172,31 +262,11 @@
    "type": "Prensa"
   },
   {
-   "id": "0ec41205c5b4",
+   "id": "e3474ef3e059",
    "source": "Radio Cooperativa",
-   "title": "Abogado del herido por choque de Leandro Hernández: No ha sido contactado por nadie de Colo Colo",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El estudio jurídico ILC Consultores Chile, representante de la persona herida por el choque que el futbolista Leandro Hernández protagonizó en estado de ebriedad , apuntó contra Colo Colo por su postura respecto al caso y e",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/abogado-del-herido-por-choque-de-leandro-hernandez-no-ha-sido/2026-11-12/220702.html",
-   "date": "2026-11-13T01:07:02+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "50381b6f0007",
-   "source": "Radio Cooperativa",
-   "title": "Ortiz y la continuidad de Vidal: No puedo proyectar el 2027 si mi situación no está resuelta",
-   "description": "Fernando Ortiz , técnico de Colo Colo, habló en la previa del amistoso contra Racing en Concepción y se refirió a la continuidad de Arturo Vidal e n el equipo y remarcó que no puede proyectar la temporada 2027, porque aún no ha resuelto su propia renovación en el equipo. \"Seguimo",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-la-continuidad-de-vidal-no-puedo-proyectar-el-2027-si-mi/2026-11-12/220223.html",
-   "date": "2026-11-13T01:02:23+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "0cc3ec9ec07d",
-   "source": "Radio Cooperativa",
-   "title": "Dirigente camionero: \"En Temuco no se levanta el paro\"",
+   "title": "Camioneros de Temuco, Rengo y buses interurbanos desconocen acuerdo y siguen paro",
    "description": "Yuri Sobarzo, dirigente de los camioneros de Temuco y Cautín , se desmarcó del acuerdo anunciado esta tarde de jueves en La Moneda y declaró intención de seguir adelante con la protesta. \"En Temuco no se levanta el paro\" , dijo Sobarzo en la Ruta 5 Sur: \"Nosotros queremos una sol",
-   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/dirigente-camionero-en-temuco-no-se-levanta-el-paro/2026-11-12/220053.html",
+   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/camioneros-de-temuco-rengo-y-buses-interurbanos-desconocen-acuerdo-y/2026-11-12/220053.html",
    "date": "2026-11-13T01:00:53+00:00",
    "category": "Gobierno y administración pública",
    "type": "Prensa"
@@ -262,11 +332,11 @@
    "type": "Prensa"
   },
   {
-   "id": "a829f82a4cb1",
+   "id": "e76095afa19d",
    "source": "Radio Cooperativa",
-   "title": "La Roja de Nicolás Córdova mide su nivel en el primer amistoso contra Colombia",
+   "title": "La Roja de Nicolás Córdova mide su nivel en el primer desafío amistoso contra Colombia",
    "description": "La selección chilena , dirigida por Nicolás Córdova , visita este viernes a Colombia en Cali , a partir de las 21:00 horas (00:00 GMT), en el primero de los dos amistosos pactados para la fecha FIFA de noviembre , con el objetivo de medir su nivel y mantener el alza que mostró en",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-de-nicolas-cordova-mide-su-nivel-en-el-primer-amistoso-contra/2026-11-12/212628.html",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-de-nicolas-cordova-mide-su-nivel-en-el-primer-desafio-amistoso/2026-11-12/212628.html",
    "date": "2026-11-13T00:26:28+00:00",
    "category": "América Latina",
    "type": "Prensa"
@@ -305,7 +375,7 @@
    "id": "653d6b5b3cb7",
    "source": "Al Jazeera",
    "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
-   "description": "Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.",
+   "description": "Trump says Gulf countries asked him to hold off on further attacks against Iran as Tehran targets US radar in Bahrain.",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
    "date": "2026-11-13T00:00:26+00:00",
    "category": "Estados Unidos y Canadá",
@@ -429,16 +499,6 @@
    "url": "https://www.ex-ante.cl/nacional/paro-camioneros-ley-contra-el-baila-pasa/",
    "date": "2026-11-12T22:22:21+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "87971b2645bf",
-   "source": "The Guardian",
-   "title": "Icac’s dirt files expose NSW’s ‘guns for hire’ problem. But neither major party is serious about lobbying reform",
-   "description": "Chris Minns’s move to address the threat of undeclared lobbying falls well short of what the commission recommended five years ago Get our daily political email , free app or daily news podcast A dirt file on a state minister peddled to journalists. A subterranean campaign to dis",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb",
-   "date": "2026-11-12T22:21:26+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -802,16 +862,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2679f7311e0d",
-   "source": "Al Jazeera",
-   "title": "Senegal’s wrestlers turn tradition into gold at Dakar Youth Olympics",
-   "description": "Senegal’s young wrestlers thrive as they adapt skills from their traditional sport to beach wrestling at Youth Olympics.",
-   "url": "https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss",
-   "date": "2026-11-12T19:32:25+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "451e9e07c875",
    "source": "France 24",
    "title": "Microsoft sufre una caída masiva de sus servicios Outlook, Teams y 365: esto se sabe",
@@ -862,16 +912,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d76b7c19ee64",
-   "source": "Al Jazeera",
-   "title": "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
-   "description": "The Lewisham Islamic Centre accused the charity watchdog of imposing disproportionate expectations on Muslim charities.",
-   "url": "https://www.aljazeera.com/news/2026/11/12/uk-mosque-rebukes-comissions-warning-following-palestine-comments?traffic_source=rss",
-   "date": "2026-11-12T18:58:49+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "e87c422a4042",
    "source": "France 24",
    "title": "Seis palestinos mueren en el séptimo bombardeo de Israel contra el principal hospital del sur de Gaza",
@@ -889,16 +929,6 @@
    "url": "https://www.dw.com/es/ee-uu-entregó-a-venezuela-unos-usd-12-000-millones-por-venta-de-recursos-naturales/a-79935104?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-12T18:50:00+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "8f794388b09b",
-   "source": "Al Jazeera",
-   "title": "Pro-Palestine philanthropist faces US extradition hearing in Spain",
-   "description": "James 'Fergie' Chambers denies wrongdoing, while his wife urges PM Sanchez to grant him political asylum.",
-   "url": "https://www.aljazeera.com/news/2026/11/12/james-fergie-chambers-extradition-hearing?traffic_source=rss",
-   "date": "2026-11-12T18:41:40+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -939,26 +969,6 @@
    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261112-jensen-huang-renuncia-a-nvidia-y-sacude-los-mercados-en-plena-carrera-de-la-ia",
    "date": "2026-11-12T18:32:19+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "cfa8b70f88c9",
-   "source": "Al Jazeera",
-   "title": "Home sales in the US are at their lowest level since 2016",
-   "description": "The sale of previously owned homes dropped 5.5 percent in October, the lowest level since August 2010.",
-   "url": "https://www.aljazeera.com/economy/2026/11/12/home-sales-in-the-us-are-at-their-lowest-level-since-2016?traffic_source=rss",
-   "date": "2026-11-12T18:26:28+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "0ae982dd92e6",
-   "source": "Al Jazeera",
-   "title": "What to know about the Logan Circle shooting in Washington, DC",
-   "description": "Trump has showcased the capital city as an example of his tough-on-crime approach.",
-   "url": "https://www.aljazeera.com/news/2026/11/12/what-to-know-about-the-logan-circle-shooting-in-washington-dc?traffic_source=rss",
-   "date": "2026-11-12T18:22:04+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -2159,16 +2169,6 @@
    "url": "https://www.bbc.com/mundo/articles/cr4g1ee27w6po?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-09T11:10:31+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "f6521794ca44",
-   "source": "The Guardian",
-   "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
-   "description": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligen",
-   "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
-   "date": "2026-11-09T00:25:28+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
