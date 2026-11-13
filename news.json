@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-13T02:00:00.859992+00:00",
+ "updated": "2026-11-13T02:48:03.820895+00:00",
  "items": [
+  {
+   "id": "3d62ccc8546c",
+   "source": "BBC Mundo",
+   "title": "Una falla en Microsoft deja fuera de servicio el correo electrónico de Outlook y otras plataformas",
+   "description": "La firma informó que registra fallas en sus servidores, luego de reportes de pérdida de conexión de servicios como Outlook, Microsoft 365 y Teams a nivel mundial.",
+   "url": "https://www.bbc.com/mundo/articles/cm20v6ed340wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T02:42:49+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "eb845a08e531",
+   "source": "Al Jazeera",
+   "title": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
+   "description": "Reports of attack in Baltic came before US envoys met with Russian and Ukrainian presidents.",
+   "url": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
+   "date": "2026-11-13T02:35:21+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "08484bb3c4b7",
+   "source": "Radio Cooperativa",
+   "title": "La Roja tuvo su última práctica antes del amistoso contra Colombia en Cali",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-tuvo-su-ultima-practica-antes-del-amistoso-contra-colombia-en/2026-11-12/233430.html",
+   "date": "2026-11-13T02:34:30+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "5505a3c51846",
+   "source": "Al Jazeera",
+   "title": "Trump moots toppling Cuba authorities before leaving office",
+   "description": "Calling Cuba a failed nation, the US president hints at attack on the country before his term ends.",
+   "url": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
+   "date": "2026-11-13T02:33:28+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "b5a1e0e229a7",
+   "source": "Deutsche Welle",
+   "title": "Donald Trump ve innecesario un pacto de Estados Unidos con Irán",
+   "description": "El mandatario estadounidense dijo que los tiempos de negociación de la guerra que desató junto con Israel “ya quedaron atrás”.",
+   "url": "https://www.dw.com/es/donald-trump-ve-innecesario-un-pacto-de-estados-unidos-con-irán/a-79935968?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-13T02:27:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e6f129c46210",
+   "source": "Radio Cooperativa",
+   "title": "Canal argentino confundió a la UC y la U en entrevista a Ariel Holan",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Nuevamente Universidad Católica fue víctima de una confusión en el extranjero , esta por parte del canal argentino TyC Sports , que referenció erróneamente a Universidad de Chile en una entrevista al exDT \"cruzado\" Ariel Ho",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/canal-argentino-confundio-a-la-uc-y-la-u-en-entrevista-a-ariel-holan/2026-11-12/230902.html",
+   "date": "2026-11-13T02:09:02+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9cf015bfead6",
+   "source": "The Guardian",
+   "title": "Pat Cummins addresses ball-tampering claims in marathon press conference – as it happened",
+   "description": "This blog is now closed ‘Complete and utter nonsense’: Australia captain Pat Cummins hits back at Khawaja ‘sandpapergate’ claims Cummins says there’s a ‘proper way to do things’ Cummins says he believes there was a proper way to handle the sandpaper incident, pointing to the Cric",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
+   "date": "2026-11-13T02:08:37+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e02fb1f82603",
+   "source": "The Guardian",
+   "title": "Aukus deal is ‘living a lie’: Australia will never get nuclear submarines from US and both sides know it, Bob Carr says",
+   "description": "Exclusive: Former Labor foreign affairs minister says $368bn deal has been reduced to a diplomatic joke Get our daily political email , free app or daily news podcast The former Labor foreign affairs minister Bob Carr says officials in Canberra and Washington acknowledge that the",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/13/bob-carr-aukus-deal-living-a-lie-australia-us",
+   "date": "2026-11-13T02:00:05+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
   {
    "id": "60010a0479af",
    "source": "Al Jazeera",
@@ -32,16 +112,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9cf015bfead6",
-   "source": "The Guardian",
-   "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja’s ‘sandpapergate’ claims",
-   "description": "Cummins speaks about allegations in Usman Khawaja’s book about the 2018 ball-tampering incident ‘Complete and utter nonsense’: Australia captain Pat Cummins hits back at Khawaja ‘sandpapergate’ claims Cummins says there’s a ‘proper way to do things’ Cummins says he believes there",
-   "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
-   "date": "2026-11-13T01:40:10+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "865267f51ed2",
    "source": "Radio Cooperativa",
    "title": "Presidente de Cruzados: El pasillo es algo de afuera, no veo que vaya a suceder",
@@ -59,6 +129,16 @@
    "url": "https://www.france24.com/es/europa/20261113-espa%C3%B1a-entra-en-campa%C3%B1a-llega-el-final-de-la-era-pedro-s%C3%A1nchez",
    "date": "2026-11-13T01:35:52+00:00",
    "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "ed859af59d73",
+   "source": "Radio Cooperativa",
+   "title": "Acusación constitucional a Rabat: Desafiante, la UDI anticipa triunfo holgado del oficialismo",
+   "description": "El presidente de la UDI, el diputado Guillermo Ramírez , manifestó su confianza en que la acusación constitucional contra el ministro de Justicia, Fernando Rabat — presentada este jueves y dos semanas después de su anuncio —, no prosperará en la Cámara Baja. \"Ya era hora. Esto es",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/acusacion-constitucional-a-rabat-desafiante-la-udi-anticipa-triunfo/2026-11-12/223151.html",
+   "date": "2026-11-13T01:31:51+00:00",
+   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -162,16 +242,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7a1392185c1e",
-   "source": "Radio Cooperativa",
-   "title": "Luis Slimming fue agredido en el escenario durante show en Arica",
-   "description": "El comediante Luis Slimming fue agredido por un sujeto durante una presentación en Arica. Según presentes, en medio del show —realizado en el Hotel Antay de dicha ciudad— un hombre subió al escenario y atacó al humorista, propinándole golpes de puño y patadas. Tras el incidente, ",
-   "url": "https://www.cooperativa.cl/noticias/magazine/humor/luis-slimming-fue-agredido-en-el-escenario-durante-show-en-arica/2026-11-12/213457.html",
-   "date": "2026-11-13T00:34:57+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "6a703392f6c8",
    "source": "The Guardian",
    "title": "Beau Lamarre-Condon bought sim card under pseudonym a month before alleged murders, trial hears",
@@ -192,21 +262,11 @@
    "type": "Prensa"
   },
   {
-   "id": "519598fa940f",
+   "id": "a829f82a4cb1",
    "source": "Radio Cooperativa",
-   "title": "Eduardo Vargas tras renovar con la U: Formar parte de los 100 años va a ser increíble",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El delantero Eduardo Vargas celebró la renovación de su contrato con Universidad de Chile y apuntó al trabajo para tener un centenario con éxitos para el club. \" Formar parte de los 100 años va a ser increíble . Voy a inten",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/eduardo-vargas-tras-renovar-con-la-u-formar-parte-de-los-100-anos-va-a/2026-11-12/212818.html",
-   "date": "2026-11-13T00:28:18+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "146df28744f2",
-   "source": "Radio Cooperativa",
-   "title": "La Roja de Nicolás Córdova quiere mantener el alza en su primer amistoso ante Colombia",
-   "description": "La selección chilena , dirigida por Nicolás Córdova , visita este viernes a Colombia en Cali , a partir de las 21:00 horas (00:00 GMT), en el primero de los dos amistosos pactados para la fecha FIFA de noviembre , con el objetivo de mantener el alza que mostró en el triunfo ante ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-de-nicolas-cordova-quiere-mantener-el-alza-en-su-primer-amistoso/2026-11-12/212628.html",
+   "title": "La Roja de Nicolás Córdova mide su nivel en el primer amistoso contra Colombia",
+   "description": "La selección chilena , dirigida por Nicolás Córdova , visita este viernes a Colombia en Cali , a partir de las 21:00 horas (00:00 GMT), en el primero de los dos amistosos pactados para la fecha FIFA de noviembre , con el objetivo de medir su nivel y mantener el alza que mostró en",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-de-nicolas-cordova-mide-su-nivel-en-el-primer-amistoso-contra/2026-11-12/212628.html",
    "date": "2026-11-13T00:26:28+00:00",
    "category": "América Latina",
    "type": "Prensa"
@@ -219,26 +279,6 @@
    "url": "https://www.france24.com/es/video/20261113-directo-a-guayaquil-y-el-inicio-de-la-campa%C3%B1a-electoral-para-las-seccionales-anticipadas",
    "date": "2026-11-13T00:23:35+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "3d62ccc8546c",
-   "source": "BBC Mundo",
-   "title": "Una falla en Microsoft deja fuera de servicio el correo electrónico de Outlook y otras plataformas durante horas",
-   "description": "La firma informó que registra fallas en sus servidores, luego de reportes de pérdida de conexión de servicios como Outlook, Microsoft 365 y Teams a nivel mundial.",
-   "url": "https://www.bbc.com/mundo/articles/cm20v6ed340wo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-13T00:21:14+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "bcbb49300284",
-   "source": "Radio Cooperativa",
-   "title": "Gustavo Alfaro confirmó que tenía fondos en el intervenido Ueno Bank de Paraguay",
-   "description": "El entrenador argentino Gustavo Alfaro , quien dirige a la selección de Paraguay, confirmó este jueves que t enía recursos en la entidad financiera Ueno Bank, intervenida la semana pasada por el Banco Central (BCP) por problemas de solvencia financiera. \"Obviamente que estamos at",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-paraguaya/gustavo-alfaro-confirmo-que-tenia-fondos-en-el-intervenido-ueno-bank-de/2026-11-12/211807.html",
-   "date": "2026-11-13T00:18:07+00:00",
-   "category": "Política monetaria",
    "type": "Prensa"
   },
   {
@@ -302,23 +342,13 @@
    "type": "Prensa"
   },
   {
-   "id": "c53ad61ba58c",
+   "id": "b1eb444145e9",
    "source": "Radio Cooperativa",
-   "title": "Así partió la alfombra roja de los Grammy Latinos en Las Vegas",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/grammy/asi-partio-la-alfombra-roja-de-los-grammy-latinos-en-las-vegas/2026-11-12/204334.html",
-   "date": "2026-11-12T23:43:34+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "98fa33ab5fa0",
-   "source": "Radio Cooperativa",
-   "title": "Los argumentos de la acusación constitucional al ministro Fernando Rabat",
-   "description": "A 15 días de haberla anunciado, la oposición ingresó a la Cámara Baja la acusación constitucional contra el ministro de Justicia, Fernando Rabat, por las polémicas rebajas de condena que concedió a pedófilos y criminales de lesa humanidad sin órdenes judiciales que lo obligaran. ",
-   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/los-argumentos-de-la-acusacion-constitucional-al-ministro-fernando-rabat/2026-11-12/202314.html",
-   "date": "2026-11-12T23:23:14+00:00",
-   "category": "Partidos políticos",
+   "title": "\"Gracias por tu famosa cazuela\": El cariñoso saludo de Iván Zamorano por los 90 años de su mamá",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes A través de redes sociales el exdelantero nacional Iván Zamorano dedicó un emotivo mensaje para su madre, Alicia Zamora, que este jueves cumplió 90 años de edad . \" Eres una mujer increíble, llena de garra, coraje y empuje ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/ivan-zamorano/gracias-por-tu-famosa-cazuela-el-carinoso-saludo-de-ivan-zamorano-por/2026-11-12/203209.html",
+   "date": "2026-11-12T23:32:09+00:00",
+   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -952,26 +982,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0e4f266b0c3d",
-   "source": "Al Jazeera",
-   "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
-   "description": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
-   "date": "2026-11-12T18:03:02+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "6d2e55469286",
-   "source": "Al Jazeera",
-   "title": "Suspect turns gun on himself after deadly shooting in Washington DC",
-   "description": "Police say the man suspected to have killed one person in a shooting in Washington DC appears to have shot himself.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss",
-   "date": "2026-11-12T18:02:32+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "d31df3f4672d",
    "source": "The Guardian",
    "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
@@ -1179,26 +1189,6 @@
    "url": "https://www.ciperchile.cl/2026/11/12/sin-importar-las-fechas-de-vencimiento-la-trama-que-facilito-desde-el-estado-que-las-afp-perdieran-us10-000-millones-de-sus-afiliados/?utm_source=rss&utm_medium=rss&utm_campaign=sin-importar-las-fechas-de-vencimiento-la-trama-que-facilito-desde-el-estado-que-las-afp-perdieran-us10-000-millones-de-sus-afiliados",
    "date": "2026-11-12T14:13:18+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "cfae9b0a20bf",
-   "source": "Deutsche Welle",
-   "title": "Dimite Jensen Huang y sacude al gigante de la IA Nvidia",
-   "description": "La directora financiera, Colette Kress, asume como consejera delegada interina mientras la compañía busca un sucesor permanente.",
-   "url": "https://www.dw.com/es/dimite-jensen-huang-y-sacude-al-gigante-de-la-ia-nvidia/a-79931741?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-12T14:04:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "e554f3f47894",
-   "source": "The Guardian",
-   "title": "What’s behind Australia’s surge in teen extremism?",
-   "description": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says Get our breaking news email , free app or daily news podcast In March, Guardian Australia revealed that most people who have been charged with the new federal crime of poss",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
-   "date": "2026-11-12T14:00:45+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1879,6 +1869,16 @@
    "url": "https://www.ciperchile.cl/2026/11/10/radar-10-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-10-11-26",
    "date": "2026-11-10T23:31:31+00:00",
    "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "681ea82b6a9b",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver el amistoso entre Colo Colo y Racing?",
+   "description": "Buscando mantener el ritmo en el receso por la fecha FIFA, el campeón Colo Colo enfrentará a Racing en un amistoso pactado para este viernes 13 de noviembre en el Estadio \"Ester Roa Rebolledo\" de Concepción. El partido está programado para las 19:00 horas (22:00 GMT) y será trans",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/cuando-y-donde-ver-el-amistoso-entre-colo-colo-y-racing/2026-11-10/190100.html",
+   "date": "2026-11-10T22:01:00+00:00",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
