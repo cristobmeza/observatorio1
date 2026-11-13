@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-13T03:47:36.982460+00:00",
+ "updated": "2026-11-13T04:52:32.604650+00:00",
  "items": [
+  {
+   "id": "3e518506355c",
+   "source": "The Guardian",
+   "title": "‘Looks like we’ll have to talk to people’: Australia sent back to time before email with major Microsoft outage",
+   "description": "Government services and schools impacted by Outlook and Teams issue as company says fix not ‘taking as expected’ Microsoft begins restoring services as global outage affects Outlook and Teams Australian schools, courts and government services have been hurled back in time to how ",
+   "url": "https://www.theguardian.com/technology/2026/nov/13/major-microsoft-outage-impacts-australian-government-services-and-schools",
+   "date": "2026-11-13T04:40:14+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "b7f940f5fca3",
+   "source": "The Guardian",
+   "title": "Microsoft struggles to fix huge outage affecting Outlook and Teams",
+   "description": "Company has ruled out a cyber attack but says fixes to help thousands of affected users have not been successful Microsoft outage – live updates Microsoft 365, Outlook, Teams and other apps were disrupted for thousands of users for more than nine hours on Thursday and Friday, wit",
+   "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+   "date": "2026-11-13T04:24:26+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a68deb358b9b",
+   "source": "The Guardian",
+   "title": "Minister’s office said contractor should handle CFMEU or lose work in Victoria, Big Build inquiry hears",
+   "description": "Royal commission also hears from construction company employee who says workers were ‘fearful’ of union Get our breaking news email , free app or daily news podcast A major contractor on a troubled Victorian rail project shut down by union officials was warned that the minister’s",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/13/big-build-royal-commission-vida-construction-workers-fearful-cfmeu-ntwnfb",
+   "date": "2026-11-13T04:18:06+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "f6fe3b86e9db",
+   "source": "BBC Mundo",
+   "title": "Latin Grammy 2026: estos son los ganadores de los premios más importantes de la música en español",
+   "description": "Rosalía se hizo con el premio al mejor álbum por LUX y a la mejor canción por \"La Perla\". La mejor grabación fue para Milo J. Y Daddy Yankee fue honrado como Persona del Año.",
+   "url": "https://www.bbc.com/mundo/articles/cv8e0lplek1ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T04:17:08+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "109913191f49",
+   "source": "Al Jazeera",
+   "title": "US envoys shuttle between Putin and Zelenskyy",
+   "description": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
+   "date": "2026-11-13T04:12:01+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "b41f6dbb7969",
+   "source": "BBC Mundo",
+   "title": "Investigación BBC: las brutales bandas de tráfico de drogas en Francia que reclutan adolescentes como asesinos",
+   "description": "La BBC se adentra en el peligroso submundo de Marsella, donde los jóvenes son reclutados por bandas donde son maltratados y explotados, y de las que no pueden salir.",
+   "url": "https://www.bbc.com/mundo/articles/ckly4yzeg598o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T04:06:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "d255488eb4db",
+   "source": "Deutsche Welle",
+   "title": "Interrupción mundial afecta aplicación de mensajería Outlook de Microsoft",
+   "description": "La empresa atribuyó la interrupción a una “carga elevada” en su infraestructura, la cual afectó a los usuarios en todo el continente americano.",
+   "url": "https://www.dw.com/es/interrupción-mundial-afecta-aplicación-de-mensajería-outlook-de-microsoft/a-79936409?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-13T03:56:00+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "16391ea260f8",
+   "source": "Radio Cooperativa",
+   "title": "Paro camionero: Fedefruta valoró acuerdo y destacó normalización de despachos en plena temporada de exportación",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/paro-camionero-fedefruta-valoro-acuerdo-y-destaco-normalizacion-de/2026-11-13/005109.html",
+   "date": "2026-11-13T03:51:09+00:00",
+   "category": "Comercio internacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "6a703392f6c8",
+   "source": "The Guardian",
+   "title": "‘If I wanted to plan a murder’: Beau Lamarre-Condon tells court what he would have done",
+   "description": "Former police officer tells court ‘it was never a plan to murder anybody’ as prosecution repeatedly suggests to him he planned to kill Jesse Baird Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court he never planned to murder a",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb",
+   "date": "2026-11-13T03:45:19+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "3d62ccc8546c",
    "source": "BBC Mundo",
@@ -45,7 +135,7 @@
    "id": "3366e962dfe2",
    "source": "Al Jazeera",
    "title": "Iran says it targeted US radar site in Bahrain",
-   "description": "IRGC claimed Bahrain radar strike was response to US attacks on Iranian telecom tower in southern Hormozgan province.",
+   "description": "IRGC says it hit radar in retaliation for an 'enemy' air attack on a telecom tower in Iran's Hormozgan province.",
    "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss",
    "date": "2026-11-13T03:17:27+00:00",
    "category": "Oriente Medio",
@@ -152,26 +242,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9cf015bfead6",
-   "source": "The Guardian",
-   "title": "Pat Cummins addresses ball-tampering claims in marathon press conference – as it happened",
-   "description": "This blog is now closed ‘Complete and utter nonsense’: Australia captain Pat Cummins hits back at Khawaja ‘sandpapergate’ claims Cummins says there’s a ‘proper way to do things’ Cummins says he believes there was a proper way to handle the sandpaper incident, pointing to the Cric",
-   "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
-   "date": "2026-11-13T02:08:37+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "e02fb1f82603",
-   "source": "The Guardian",
-   "title": "Aukus deal is ‘living a lie’: Australia will never get nuclear submarines from US and both sides know it, Bob Carr says",
-   "description": "Exclusive: Former Labor foreign affairs minister says $368bn deal has been reduced to a diplomatic joke Get our daily political email , free app or daily news podcast The former Labor foreign affairs minister Bob Carr says officials in Canberra and Washington acknowledge that the",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/13/bob-carr-aukus-deal-living-a-lie-australia-us",
-   "date": "2026-11-13T02:00:05+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "60010a0479af",
    "source": "Al Jazeera",
    "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
@@ -242,16 +312,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b7f940f5fca3",
-   "source": "The Guardian",
-   "title": "Microsoft begins restoring services as global outage affects Outlook and Teams",
-   "description": "Recovery process under way, company says, after nearly 130,000 users worldwide reported access issues Microsoft outage – live updates Microsoft 365, Outlook, Teams and other apps were disrupted for thousands of users for more than five hours on Thursday, with Microsoft saying it ",
-   "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-   "date": "2026-11-13T01:19:53+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "3348b62087bd",
    "source": "Radio Cooperativa",
    "title": "Pamela Díaz protagonizó tenso cruce con Javiera Díaz de Valdés en \"Vértigo Extremo\"",
@@ -309,16 +369,6 @@
    "url": "https://www.france24.com/es/video/20261113-ataque-israel%C3%AD-contra-hospital-nasser-en-gaza-deja-al-menos-seis-palestinos-muertos",
    "date": "2026-11-13T00:42:00+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "6a703392f6c8",
-   "source": "The Guardian",
-   "title": "Beau Lamarre-Condon bought sim card under pseudonym a month before alleged murders, trial hears",
-   "description": "Former police officer tells court he was attempting to compile statements about ‘bullying from a certain sergeant’ but was worried about speaking publicly Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court he obtained a sim ca",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb",
-   "date": "2026-11-13T00:34:23+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -852,16 +902,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4b7f3a310d77",
-   "source": "Al Jazeera",
-   "title": "Iranian men guilty of spying on British journalists",
-   "description": "Two Iranian men were convicted under Britain's National Security Act for spying on dissident journalists.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss",
-   "date": "2026-11-12T19:38:33+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "451e9e07c875",
    "source": "France 24",
    "title": "Microsoft sufre una caída masiva de sus servicios Outlook, Teams y 365: esto se sabe",
@@ -1049,16 +1089,6 @@
    "url": "https://www.france24.com/es/video/20261112-informe-desde-lima-per%C3%BA-celebra-al-papa-le%C3%B3n-xiv-entre-muestras-de-fe-y-emoci%C3%B3n",
    "date": "2026-11-12T17:15:05+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "60907f6227b9",
-   "source": "Deutsche Welle",
-   "title": "Ataques israelíes dejan al menos once muertos en distintos puntos de Gaza",
-   "description": "El bombardeo más letal afectó al hospital Naser, donde seis personas, entre ellas un niño y un médico, perdieron la vida. Israel afirmó que el objetivo era un líder de Hamás.",
-   "url": "https://www.dw.com/es/ataques-israelíes-dejan-al-menos-once-muertos-en-distintos-puntos-de-gaza/a-79934531?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-12T17:03:00+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1252,6 +1282,46 @@
    "type": "Prensa"
   },
   {
+   "id": "76c1fdef46f1",
+   "source": "Naciones Unidas",
+   "title": "COP31: las ciudades están en la primera línea del cambio climático",
+   "description": "Los activistas y países vulnerables exigieron una respuesta urgente e inmediata para proteger a las comunidades en primera línea frente a los crecientes desastres climáticos poniendo así presión a los líderes para que financien y adopten medidas, entre ellas, proteger la vivienda",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542169",
+   "date": "2026-11-12T12:00:00+00:00",
+   "category": "Sociedad",
+   "type": "Oficial"
+  },
+  {
+   "id": "cc1261255c48",
+   "source": "Naciones Unidas",
+   "title": "Gaza: la ONU denuncia los bloqueos mortales de Israel frente a las inclemencias del tiempo",
+   "description": "En Gaza, hasta la lluvia mata. El responsable humanitario de la ONU resume un invierno que ya se cobra vidas entre tiendas inundadas y bebés muertos de frío, mientras 150.000 tiendas y medio millón de mantas permanecen bloqueadas a las puertas del enclave. Tom Fletcher no pide pa",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542168",
+   "date": "2026-11-12T12:00:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Oficial"
+  },
+  {
+   "id": "c6a889820925",
+   "source": "Naciones Unidas",
+   "title": "Haití: más de mil asesinatos entre julio y septiembre",
+   "description": "En Haití 1167 personas fueron asesinadas y 459 resultaron heridas en el trimestre de julio a septiembre. Las pandillas son responsables del 45 % de estos hechos, mientras que alrededor del 5 % se atribuyó a grupos de autodefensa que atacaron a miembros de las pandillas. La otra m",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542167",
+   "date": "2026-11-12T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "dc1c812c0479",
+   "source": "Naciones Unidas",
+   "title": "COP31, plaguicidas, pena de muerte en California, Honduras, neumonía… las noticias del jueves",
+   "description": "Lanzan una plataforma para financiar la respuesta a desastres antes de que ocurran, con el objetivo de proteger a 75 millones de personas. Bangladesh e India prohíben el paraquat, un herbicida vinculado a uno de cada cinco suicidios por plaguicidas en el mundo. California conmuta",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542166",
+   "date": "2026-11-12T12:00:00+00:00",
+   "category": "China y Asia",
+   "type": "Oficial"
+  },
+  {
    "id": "cb8ebc40479f",
    "source": "BBC Mundo",
    "title": "4 claves del escándalo de los supuestos \"sexocontratos\" por el que se investiga al expresidente de Colombia Gustavo Petro",
@@ -1282,16 +1352,6 @@
    "type": "Prensa"
   },
   {
-   "id": "34f3b0e2e09b",
-   "source": "BBC Mundo",
-   "title": "Qué es el ejercicio incidental, la manera de mantenernos en forma y saludables sin intentarlo",
-   "description": "La actividad incidental puede reducir nuestro riesgo de padecer enfermedades cardiovasculares e incluso de morir. Puedes incorporar algunas formas sencillas de realizarla durante una reunión, en un vuelo o mientras lees este artículo.",
-   "url": "https://www.bbc.com/mundo/articles/cqj6l2w1je7po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-12T10:48:37+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "32cb1f3315b0",
    "source": "The Guardian",
    "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
@@ -1309,16 +1369,6 @@
    "url": "https://www.bbc.com/mundo/articles/cqdj1ww3pd4lo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-12T04:32:43+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "a2e510aec822",
-   "source": "BBC Mundo",
-   "title": "Por qué hundieron frente a la costa de Florida al mítico SS United States, el que fuera el transatlántico más rápido del mundo",
-   "description": "Activistas lucharon sin éxito para que el histórico transatlántico, que cruzó el océano Atlántico cientos de veces, fuera preservado y convertido en museo.",
-   "url": "https://www.bbc.com/mundo/articles/c5lykgdkdlxlo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-12T04:08:41+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -1482,16 +1532,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8395b08f5aaf",
-   "source": "Deutsche Welle",
-   "title": "Estudio asegura que un cuarto de los alemanes quiere una dictadura de derecha",
-   "description": "Los éxitos electorales de Alternativa para Alemania (AfD) parecen mostrar una tendencia clara: los prejuicios, resentimientos y extremismo de derecha van en aumento. ¿Qué significa esto para la democracia?",
-   "url": "https://www.dw.com/es/estudio-asegura-que-un-cuarto-de-los-alemanes-quiere-una-dictadura-de-derecha/a-79922826?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-11T17:31:00+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "d7c9b12f82d3",
    "source": "Deutsche Welle",
    "title": "Berlín reúne a disidentes para hallar respuestas ante las autocracias",
@@ -1499,6 +1539,16 @@
    "url": "https://www.dw.com/es/berlín-reúne-a-disidentes-para-hallar-respuestas-ante-las-autocracias/a-79916089?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-11T17:31:00+00:00",
    "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "8395b08f5aaf",
+   "source": "Deutsche Welle",
+   "title": "Estudio asegura que un cuarto de los alemanes quiere una dictadura de derecha",
+   "description": "Los éxitos electorales de Alternativa para Alemania (AfD) parecen mostrar una tendencia clara: los prejuicios, resentimientos y extremismo de derecha van en aumento. ¿Qué significa esto para la democracia?",
+   "url": "https://www.dw.com/es/estudio-asegura-que-un-cuarto-de-los-alemanes-quiere-una-dictadura-de-derecha/a-79922826?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-11T17:31:00+00:00",
+   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1919,16 +1969,6 @@
    "url": "https://www.ciperchile.cl/2026/11/10/aqui-tienes-la-parte-considerativa-y-resolutiva-la-huella-de-la-inteligencia-artificial-en-sentencias-del-poder-judicial/?utm_source=rss&utm_medium=rss&utm_campaign=aqui-tienes-la-parte-considerativa-y-resolutiva-la-huella-de-la-inteligencia-artificial-en-sentencias-del-poder-judicial",
    "date": "2026-11-10T19:34:45+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "a6b4314e9578",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver el primer amistoso de La Roja y Colombia en la fecha FIFA?",
-   "description": "La selección chilena enfrentará este viernes a Colombia en la ciudad de Cali, en el primero de los dos amistosos pactados para la fecha FIFA de noviembre, l a última del año 2026. El compromiso se disputará en el Estadio \"Pascual Guerrero\" de Cali, a partir de las 21:00 horas (00",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-primer-amistoso-de-la-roja-y-colombia-en-la-fecha/2026-11-10/162025.html",
-   "date": "2026-11-10T19:20:25+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -2560,46 +2600,6 @@
    "date": "2026-10-30T12:54:17+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "d93633cc86e0",
-   "source": "Naciones Unidas",
-   "title": "Gaza, Colombia, VIH, refugiados… Las noticias del viernes",
-   "description": "Gaza: la expansión de las posiciones israelíes aumenta el temor a una limpieza étnica. El Consejo de Seguridad prorroga un año más la misión de verificación de la ONU en Colombia. Barbados elimina la transmisión del VIH de madre a hijo. Ucrania, Siria, Líbano, Afganistán: ACNUR s",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542127",
-   "date": "2026-10-30T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "3079a5233b23",
-   "source": "Naciones Unidas",
-   "title": "Gaza: la expansión de las posiciones israelíes reaviva los temores de una \"limpieza étnica\"",
-   "description": "Israel pretende ampliar su despliegue militar al 70 % del territorio de Gaza, mientras empuja a los palestinos hacia zonas cada vez más pequeñas y ataca campamentos de desplazados, denuncia ONU Derechos Humanos.",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542126",
-   "date": "2026-10-30T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "5dd86bd75429",
-   "source": "Naciones Unidas",
-   "title": "La naturaleza está resurgiendo, pero la financiación para restaurarla debe cuadruplicarse",
-   "description": "No todo es destrucción. Unos 252 millones de hectáreas en 149 países —una superficie del tamaño de Kazajistán— están en restauración, y se han creado más de un millón de empleos verdes, pero la financiación anual debe cuadruplicarse, de 64.000 a 296.000 millones de dólares, para ",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542123",
-   "date": "2026-10-29T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "2a5f30b1dd02",
-   "source": "Naciones Unidas",
-   "title": "Trabajo de cuidados, seguridad marítima, restauración de la naturaleza, contaminación… Las noticias del jueves",
-   "description": "Crece la demanda de cuidados de larga duración en América, al tiempo que la población envejece. Las nuevas tecnologías plantean oportunidades y riesgos para la seguridad marítima, advierte la ONU. La naturaleza se recupera, pero la financiación para restaurarla debe cuadruplicars",
-   "url": "https://news.un.org/feed/view/es/story/2026/10/1542122",
-   "date": "2026-10-29T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
   },
   {
    "id": "aceaa3f9248a",
