@@ -1,14 +1,34 @@
 {
- "updated": "2026-11-13T00:53:57.322826+00:00",
+ "updated": "2026-11-13T02:00:00.859992+00:00",
  "items": [
   {
-   "id": "6a703392f6c8",
-   "source": "The Guardian",
-   "title": "Beau Lamarre-Condon bought sim card under pseudonym a month before alleged murders, trial hears",
-   "description": "Former police officer tells court he bought sim card under name ‘Bob Ballard’ because he planned to go to media about alleged bullying from sergeant Beau Lamarre-Condon has told a Sydney court he obtained a sim card under a pseudonym a month before allegedly murdering two men bec",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb",
-   "date": "2026-11-13T00:34:23+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "id": "60010a0479af",
+   "source": "Al Jazeera",
+   "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+   "description": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
+   "url": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+   "date": "2026-11-13T01:44:55+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "4d6425fd822e",
+   "source": "Al Jazeera",
+   "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+   "description": "Albania has faced criticism over low defence spending, as Rama is under pressure at home amid months of protests.",
+   "url": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
+   "date": "2026-11-13T01:43:17+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "62f5e416d3f3",
+   "source": "Radio Cooperativa",
+   "title": "Parte médico: Colo Colo detalló lesiones de Vidal y Correa",
+   "description": "Colo Colo enfrentará a Racing este viernes en Concepción, en un amistoso internacional aprovechando el receso por la fecha FIFA, y en la previa el cuadro albo publicó un parte médico detallando las lesiones de Arturo Vidal y Javier Correa, quienes se perderán el choque con la Aca",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/parte-medico-colo-colo-detallo-lesiones-de-vidal-y-correa/2026-11-12/224031.html",
+   "date": "2026-11-13T01:40:31+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -17,8 +37,158 @@
    "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja’s ‘sandpapergate’ claims",
    "description": "Cummins speaks about allegations in Usman Khawaja’s book about the 2018 ball-tampering incident ‘Complete and utter nonsense’: Australia captain Pat Cummins hits back at Khawaja ‘sandpapergate’ claims Cummins says there’s a ‘proper way to do things’ Cummins says he believes there",
    "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
-   "date": "2026-11-13T00:31:16+00:00",
+   "date": "2026-11-13T01:40:10+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "865267f51ed2",
+   "source": "Radio Cooperativa",
+   "title": "Presidente de Cruzados: El pasillo es algo de afuera, no veo que vaya a suceder",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/presidente-de-cruzados-el-pasillo-es-algo-de-afuera-no-veo-que-vaya-a/2026-11-12/223814.html",
+   "date": "2026-11-13T01:38:14+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "5206e815d404",
+   "source": "France 24",
+   "title": "España entra en campaña: ¿llega el final de la era Pedro Sánchez?",
+   "description": "La campaña para las elecciones del 29 de noviembre en España comienza este viernes 13 de noviembre con el derechista PP liderando las encuestas y una posible mayoría absoluta junto a al extrema de Vox. Pedro Sánchez, que adelantó los comicios tras perder en el Congreso dos decret",
+   "url": "https://www.france24.com/es/europa/20261113-espa%C3%B1a-entra-en-campa%C3%B1a-llega-el-final-de-la-era-pedro-s%C3%A1nchez",
+   "date": "2026-11-13T01:35:52+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "c41316c6152b",
+   "source": "Deutsche Welle",
+   "title": "Hutíes reivindican ataques contra el gigante petrolero Aramco en Arabia Saudita",
+   "description": "El grupo armado proiraní de Yemen dijo que atacó con “éxito” un oleoducto, una terminal petrolera y una instalación en Riad.",
+   "url": "https://www.dw.com/es/hutíes-reivindican-ataques-contra-el-gigante-petrolero-aramco-en-arabia-saudita/a-79935956?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-13T01:25:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b7f940f5fca3",
+   "source": "The Guardian",
+   "title": "Microsoft begins restoring services as global outage affects Outlook and Teams",
+   "description": "Recovery process under way, company says, after nearly 130,000 users worldwide reported access issues Microsoft outage – live updates Microsoft 365, Outlook, Teams and other apps were disrupted for thousands of users for more than five hours on Thursday, with Microsoft saying it ",
+   "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+   "date": "2026-11-13T01:19:53+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "3348b62087bd",
+   "source": "Radio Cooperativa",
+   "title": "Pamela Díaz protagonizó tenso cruce con Javiera Díaz de Valdés en \"Vértigo Extremo\"",
+   "description": "Pamela Díaz habría protagonizado un tenso intercambio con la actriz Javiera Díaz de Valdés durante las grabaciones de \"Vértigo Extremo\" (Canal 13). El episodio fue revelado por la periodista Fanny Mazuela en el programa \"Zona de Estrellas\", donde relató que la situación ocurrió e",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/pamela-diaz-protagonizo-tenso-cruce-con-javiera-diaz-de-valdes-en/2026-11-12/221552.html",
+   "date": "2026-11-13T01:15:52+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "0ec41205c5b4",
+   "source": "Radio Cooperativa",
+   "title": "Abogado del herido por choque de Leandro Hernández: No ha sido contactado por nadie de Colo Colo",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El estudio jurídico ILC Consultores Chile, representante de la persona herida por el choque que el futbolista Leandro Hernández protagonizó en estado de ebriedad , apuntó contra Colo Colo por su postura respecto al caso y e",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/abogado-del-herido-por-choque-de-leandro-hernandez-no-ha-sido/2026-11-12/220702.html",
+   "date": "2026-11-13T01:07:02+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "50381b6f0007",
+   "source": "Radio Cooperativa",
+   "title": "Ortiz y la continuidad de Vidal: No puedo proyectar el 2027 si mi situación no está resuelta",
+   "description": "Fernando Ortiz , técnico de Colo Colo, habló en la previa del amistoso contra Racing en Concepción y se refirió a la continuidad de Arturo Vidal e n el equipo y remarcó que no puede proyectar la temporada 2027, porque aún no ha resuelto su propia renovación en el equipo. \"Seguimo",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-la-continuidad-de-vidal-no-puedo-proyectar-el-2027-si-mi/2026-11-12/220223.html",
+   "date": "2026-11-13T01:02:23+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "0cc3ec9ec07d",
+   "source": "Radio Cooperativa",
+   "title": "Dirigente camionero: \"En Temuco no se levanta el paro\"",
+   "description": "Yuri Sobarzo, dirigente de los camioneros de Temuco y Cautín , se desmarcó del acuerdo anunciado esta tarde de jueves en La Moneda y declaró intención de seguir adelante con la protesta. \"En Temuco no se levanta el paro\" , dijo Sobarzo en la Ruta 5 Sur: \"Nosotros queremos una sol",
+   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/dirigente-camionero-en-temuco-no-se-levanta-el-paro/2026-11-12/220053.html",
+   "date": "2026-11-13T01:00:53+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "0d3c454c0be5",
+   "source": "Radio Cooperativa",
+   "title": "Gerente general renunció a ENAP tras periodo de utilidades récord que coincidió con el bencinazo",
+   "description": "El gerente general de la Empresa Nacional del Petróleo (ENAP), Julio Friedmann, renunció voluntariamente a su cargo este jueves, decisión que se comunicó justo cuando terminaba el paro de camioneros , y luego de un período en el que la compañía obtuvo ganancias históricas, una re",
+   "url": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/gerente-general-renuncio-a-enap-tras-periodo-de-utilidades-record-que/2026-11-12/215524.html",
+   "date": "2026-11-13T00:55:24+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "57bf3bc6c5c8",
+   "source": "France 24",
+   "title": "¿Cuál es el impacto de la renuncia de Huang a Nvidia en los mercados mundiales?",
+   "description": "Tras pasar 33 años a la cabeza de Nvidia, Jensen Huang renunció a su cargo tras el escándalo desatado inicialmente por su relación extramatrimonial con con Alice Huang, una empresaria de Shanghái señalada por Estados Unidos como una espía china. La empresa tecnológica ha sufrido ",
+   "url": "https://www.france24.com/es/video/20261113-cu%C3%A1l-es-el-impacto-de-la-renuncia-de-huang-a-nvidia-en-los-mercados-mundiales",
+   "date": "2026-11-13T00:48:18+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "54623075a335",
+   "source": "France 24",
+   "title": "“¡Ya no dio más!”: Chile y un precio histórico del combustible que parece extenderse en Latinoamérica",
+   "description": "Camiones, autobuses, grúas, taxis… parados en las principales autopistas de Chile por tres días, el tránsito limitado a un carril y kilométricas filas en protesta contra el aumento del precio del combustible. El país andino registra un récord histórico en el precio del diésel, al",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261113-ya-no-dio-m%C3%A1s-chile-y-un-precio-hist%C3%B3rico-del-combustible-que-parece-extenderse-en-latinoam%C3%A9rica",
+   "date": "2026-11-13T00:47:27+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "32c57e93a2f5",
+   "source": "France 24",
+   "title": "Ataque israelí contra hospital Nasser en Gaza deja al menos seis palestinos muertos",
+   "description": "El Hospital Nasser, el principal hospital del sur de Gaza, fue atacado otra vez por Israel en la madrugada de este jueves 12 de noviembre, en un bombardeo que mató a al menos a seis palestinos, entre ellos un cirujano y un menor de 13 años, según informó el Ministerio de Salud ga",
+   "url": "https://www.france24.com/es/video/20261113-ataque-israel%C3%AD-contra-hospital-nasser-en-gaza-deja-al-menos-seis-palestinos-muertos",
+   "date": "2026-11-13T00:42:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "7a1392185c1e",
+   "source": "Radio Cooperativa",
+   "title": "Luis Slimming fue agredido en el escenario durante show en Arica",
+   "description": "El comediante Luis Slimming fue agredido por un sujeto durante una presentación en Arica. Según presentes, en medio del show —realizado en el Hotel Antay de dicha ciudad— un hombre subió al escenario y atacó al humorista, propinándole golpes de puño y patadas. Tras el incidente, ",
+   "url": "https://www.cooperativa.cl/noticias/magazine/humor/luis-slimming-fue-agredido-en-el-escenario-durante-show-en-arica/2026-11-12/213457.html",
+   "date": "2026-11-13T00:34:57+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "6a703392f6c8",
+   "source": "The Guardian",
+   "title": "Beau Lamarre-Condon bought sim card under pseudonym a month before alleged murders, trial hears",
+   "description": "Former police officer tells court he was attempting to compile statements about ‘bullying from a certain sergeant’ but was worried about speaking publicly Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has told a Sydney court he obtained a sim ca",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/13/beau-lamarre-condon-trial-sim-card-pseudonym-ntwnfb",
+   "date": "2026-11-13T00:34:23+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "f18149a737b0",
+   "source": "Radio Cooperativa",
+   "title": "El campeón Colo Colo quiere mantener su buen ritmo en el amistoso ante Racing en Concepción",
+   "description": "Colo Colo, f lamante campeón de la Liga de Primera , afrontará este viernes su primer partido tras ganar el título, un amistoso internacional ante Racing de Avellaneda, desde las 19:00 horas (22:00 GMT) en el Estadio \"Ester Roa\" de Concepción, con el objetivo de mantener el rodaj",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/el-campeon-colo-colo-quiere-mantener-su-buen-ritmo-en-el-amistoso-ante/2026-11-12/213047.html",
+   "date": "2026-11-13T00:30:47+00:00",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -39,6 +209,16 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-de-nicolas-cordova-quiere-mantener-el-alza-en-su-primer-amistoso/2026-11-12/212628.html",
    "date": "2026-11-13T00:26:28+00:00",
    "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "d113a829b077",
+   "source": "France 24",
+   "title": "Directo a... Guayaquil y el inicio de la campaña electoral para las seccionales anticipadas",
+   "description": "Ecuador arranca la campaña electoral más corta de su historia. Los candidatos a las alcaldías y prefecturas tendrán 14 días para convencer a los votantes de las elecciones seccionales que tuvieron que ser adelantadas para el próximo 29 de noviembre por el inminente impacto que te",
+   "url": "https://www.france24.com/es/video/20261113-directo-a-guayaquil-y-el-inicio-de-la-campa%C3%B1a-electoral-para-las-seccionales-anticipadas",
+   "date": "2026-11-13T00:23:35+00:00",
+   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -92,16 +272,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f784ebd78339",
-   "source": "Radio Cooperativa",
-   "title": "La formación de La Roja para el amistoso ante Colombia en Cali",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-formacion-de-la-roja-para-el-amistoso-ante-colombia-en-cali/2026-11-12/210012.html",
-   "date": "2026-11-13T00:00:12+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "0957fb8d60a3",
    "source": "Al Jazeera",
    "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
@@ -109,6 +279,16 @@
    "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
    "date": "2026-11-12T23:52:38+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "9e4ffc6b01ea",
+   "source": "France 24",
+   "title": "Autoridades paraguayas concluyen primera etapa de devolución de ahorros de clientes de Ueno Bank",
+   "description": "Mientras avanza la investigación penal, el Banco Central del Paraguay (BCP) informó que completó el pago anticipado a todos los depositantes de Ueno Bank que estaban amparados por el primer tramo de la garantía estatal. En la primera etapa de devoluciones se han devuelto hasta 19",
+   "url": "https://www.france24.com/es/video/20261112-autoridades-paraguayas-concluyen-primera-etapa-de-devoluci%C3%B3n-de-ahorros-de-clientes-de-ueno-bank",
+   "date": "2026-11-12T23:51:30+00:00",
+   "category": "Política monetaria",
    "type": "Prensa"
   },
   {
@@ -122,42 +302,12 @@
    "type": "Prensa"
   },
   {
-   "id": "d71c5c361806",
-   "source": "Radio Cooperativa",
-   "title": "Córdova explicó ausencia de Carlos Palacios en La Roja: Se lo tiene que ganar en la cancha",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El entrenador de La Roja, Nicolás Córdova, entregó su mirada sobre Carlos Palacios y explicó su ausencia de la nómina para los amistosos ante Colombia , pese a haberse coronado campeón anual de Argentina con Boca Juniors. \"",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-explico-ausencia-de-carlos-palacios-en-la-roja-se-lo-tiene-que/2026-11-12/204647.html",
-   "date": "2026-11-12T23:46:47+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "af4dfd2c4408",
-   "source": "Radio Cooperativa",
-   "title": "Con dos figuras del campeón: Vidal y Bolados lideraron el equipo ideal de la fecha 27",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-dos-figuras-del-campeon-vidal-y-bolados-lideraron-el-equipo-ideal/2026-11-12/204457.html",
-   "date": "2026-11-12T23:44:57+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "c53ad61ba58c",
    "source": "Radio Cooperativa",
    "title": "Así partió la alfombra roja de los Grammy Latinos en Las Vegas",
    "description": "",
    "url": "https://www.cooperativa.cl/noticias/magazine/musica/grammy/asi-partio-la-alfombra-roja-de-los-grammy-latinos-en-las-vegas/2026-11-12/204334.html",
    "date": "2026-11-12T23:43:34+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "03ce2f8f47bd",
-   "source": "Radio Cooperativa",
-   "title": "Mauricio Flores se refirió a la situación de su hijo: \"Solamente los padres pueden empatizar\"",
-   "description": "Mauricio Flores regresó a la pantalla luego de ausentarse tras la detención de su hijo Danko, quien quedó en prisión preventiva a inicios de noviembre por tráfico de drogas . Durante la emisión de este juves del programa \"Todo va a estar bien\", de Vía X, el comediante regresó a l",
-   "url": "https://www.cooperativa.cl/noticias/magazine/television/mauricio-flores-se-refirio-a-la-situacion-de-su-hijo-solamente-los/2026-11-12/202952.html",
-   "date": "2026-11-12T23:29:52+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -192,13 +342,13 @@
    "type": "Prensa"
   },
   {
-   "id": "4cbde4a98be2",
-   "source": "Radio Cooperativa",
-   "title": "Nicolás Córdova: El plantel está tomando forma, es súper importante darle continuidad",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nicolas-cordova-el-plantel-esta-tomando-forma-es-super-importante/2026-11-12/201456.html",
-   "date": "2026-11-12T23:14:56+00:00",
-   "category": "",
+   "id": "b03b871d1993",
+   "source": "France 24",
+   "title": "Renuncia CEO de Nvidia tras escándalo por relación con presunta espía china",
+   "description": "El CEO de Nvidia, Jensen Huang, renunció a su cargo tras desatarse el escándalo por su relación extramarital con Alice Huang, quien es señalada por Estados Unidos de ser una espía china. El empresario aseguró que comparecerá ante el Congreso para dar explicaciones de lo ocurrido ",
+   "url": "https://www.france24.com/es/video/20261112-renuncia-ceo-de-nvidia-tras-esc%C3%A1ndalo-por-relaci%C3%B3n-con-presunta-esp%C3%ADa-china",
+   "date": "2026-11-12T23:11:29+00:00",
+   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -212,46 +362,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2b88449297d6",
-   "source": "Radio Cooperativa",
-   "title": "Universidad de Chile oficializó la renovación de Eduardo Vargas",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Universidad de Chile oficializó la renovación de Eduardo Vargas, delantero y referente del equipo, quien ha brillado con 17 goles en la temporada. \"Acuerdo sellado. Estamos felices de anunciar la renovación de Eduardo Varga",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/universidad-de-chile-oficializo-la-renovacion-de-eduardo-vargas/2026-11-12/200032.html",
-   "date": "2026-11-12T23:00:32+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "0ae7ed561815",
-   "source": "Radio Cooperativa",
-   "title": "Córdova y la visita a Colombia: Lo más importante es que los rendimientos sean elevados",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Nicolás Córdova, entrenador de la selección chilena, palpitó en conferencia de prensa el primero de sus dos amistosos ante Colombia , remarcando la importancia del rodaje para potenciar al equipo y los jugadores rumbo al in",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-la-visita-a-colombia-lo-mas-importante-es-que-los/2026-11-12/194741.html",
-   "date": "2026-11-12T22:47:41+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "b17c34733f6c",
-   "source": "Radio Cooperativa",
-   "title": "Felipe Faúndez y el duelo con Colombia: Estamos preparados para competir con cualquier selección",
-   "description": "Felipe Faúndez, defensa de La Roja, habló en la previa del amistoso contra Colombia en Cali y afirmó que el equipo dirigido por Nicolás Córdova está preparado \" para competir con cualquier selección\". \"Sabemos que la selección Colombia es potencia. Son jugadores súper veloces, ti",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/felipe-faundez-y-el-duelo-con-colombia-estamos-preparados-para-competir/2026-11-12/194728.html",
-   "date": "2026-11-12T22:47:28+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "d9a1fc57b92c",
-   "source": "Radio Cooperativa",
-   "title": "Después de más de una década, X permite subir más de cuatro fotos en una publicación",
-   "description": "La red social X actualizó este jueves su aplicación para permitir a los usuarios publicar hasta 20 fotografías o videos en una sola entrada, al dejar atrás el límite histórico de cuatro archivos multimedia vigente durante la última década. ​Con este movimiento, la plataforma -pro",
-   "url": "https://www.cooperativa.cl/noticias/tecnologia/redes-sociales/x/despues-de-mas-de-una-decada-x-permite-subir-mas-de-cuatro-fotos-en-una/2026-11-12/194720.html",
-   "date": "2026-11-12T22:47:20+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "6be27b506ca1",
    "source": "BBC Mundo",
    "title": "La nueva película que muestra cómo Sylvester Stallone pasó de vivir en la calle a convertirse en estrella de Hollywood gracias a su guion de \"Rocky\"",
@@ -259,16 +369,6 @@
    "url": "https://www.bbc.com/mundo/articles/cvkg5je34zy5o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-12T22:43:47+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "62dee88aa567",
-   "source": "Radio Cooperativa",
-   "title": "Gobierno logró desactivar el paro de los camioneros en su tercer día",
-   "description": "El Gobierno anunció este jueves un acuerdo con las confederaciones de transportistas Fuerza del Norte y Centro-Sur para poner fin a las movilizaciones de camioneros que comenzaron el martes a nivel nacional. El entendimiento contempla una rebaja de 142 pesos por litro en el diése",
-   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/gobierno-logro-desactivar-el-paro-de-los-camioneros-en-su-tercer-dia/2026-11-12/193106.html",
-   "date": "2026-11-12T22:31:06+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -314,7 +414,7 @@
   {
    "id": "0e041935ee49",
    "source": "BBC Mundo",
-   "title": "Cómo el visionario de la IA Jensen Huang cayó en desgracia por sus propias malas decisiones",
+   "title": "Cómo el visionario de la IA Jensen Huang cayó en desgracia por sus malas decisiones amorosas",
    "description": "Zoe Kleinman explica cómo el hombre que construyó Nvidia desde cero lo perdió todo en cuestión de días.",
    "url": "https://www.bbc.com/mundo/articles/crgqx8yqgevjo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-12T22:17:54+00:00",
@@ -379,16 +479,6 @@
    "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
    "date": "2026-11-12T22:00:15+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "b7f940f5fca3",
-   "source": "The Guardian",
-   "title": "Microsoft begins restoring services amid global outage affecting Outlook and Teams",
-   "description": "Streamlined recovery process under way, company says, after nearly 130,000 users worldwide reported access issues Microsoft outage – live updates Microsoft says a portion of servers are returning to service, and a streamlined recovery process is under way to end a global outage t",
-   "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-   "date": "2026-11-12T21:51:47+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -912,16 +1002,6 @@
    "type": "Prensa"
   },
   {
-   "id": "44c4b0886647",
-   "source": "Al Jazeera",
-   "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
-   "description": "Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss",
-   "date": "2026-11-12T17:25:58+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "c2b8810390c5",
    "source": "Ex-Ante",
    "title": "La historia de Cristián Sandoval, el dirigente más duro del paro de camioneros que desafía a los gremios tradicionales",
@@ -929,16 +1009,6 @@
    "url": "https://www.ex-ante.cl/nacional/sandoval-dirigente-duro-camioneros/",
    "date": "2026-11-12T17:25:26+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "e054eda72c16",
-   "source": "Al Jazeera",
-   "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
-   "description": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
-   "url": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
-   "date": "2026-11-12T17:18:13+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1082,16 +1152,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c1524b602594",
-   "source": "France 24",
-   "title": "La islas claman en la COP31 por su supervivencia; Venezuela llama a \"potenciar\" su sistema petrolero",
-   "description": "El aumento de las temperaturas del océano Pacífico emerge como una de las grandes preocupaciones de la cumbre climática en Turquía, con múltiples estados insulares abogando por una reducción urgente de las emisiones de gases de efecto invernadero. Entretanto, el Gobierno de Venez",
-   "url": "https://www.france24.com/es/medio-ambiente/20261112-la-islas-claman-en-la-cop31-por-su-supervivencia-venezuela-llama-a-potenciar-su-sistema-petrolero",
-   "date": "2026-11-12T15:24:03+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "fd82c2975601",
    "source": "BBC Mundo",
    "title": "Al menos 1 muerto y 4 heridos en un tiroteo en un gimnasio en Washington DC",
@@ -1112,16 +1172,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5321f0489f88",
-   "source": "France 24",
-   "title": "Jensen Huang renuncia como director de Nvidia tras su romance extramatrimonial con una posible espía",
-   "description": "",
-   "url": "https://f24.my/CHNx",
-   "date": "2026-11-12T14:16:31+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "82fc0f49b558",
    "source": "CIPER Chile",
    "title": "“Sin importar las fechas de vencimiento”: la trama que facilitó desde el Estado que las AFP perdieran US$10.000 millones de sus afiliados",
@@ -1129,16 +1179,6 @@
    "url": "https://www.ciperchile.cl/2026/11/12/sin-importar-las-fechas-de-vencimiento-la-trama-que-facilito-desde-el-estado-que-las-afp-perdieran-us10-000-millones-de-sus-afiliados/?utm_source=rss&utm_medium=rss&utm_campaign=sin-importar-las-fechas-de-vencimiento-la-trama-que-facilito-desde-el-estado-que-las-afp-perdieran-us10-000-millones-de-sus-afiliados",
    "date": "2026-11-12T14:13:18+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "d6c4e44f95da",
-   "source": "France 24",
-   "title": "Acorralado por el escándalo que puso en alerta a Washington, Jensen Huang renuncia como CEO de Nvidia",
-   "description": "Luego de que se conociera una relación extramatrimonial con una empresaria china sospechada de ser espía de Beijing, el gigante tecnológico Nvidia anunció la dimisión de Jensen Huang como director ejecutivo de la compañía. Su lugar será ocupado de forma interina por la actual dir",
-   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261112-acorralado-por-el-esc%C3%A1ndalo-que-puso-en-alerta-a-washington-jensen-huang-renuncia-a-nvidia",
-   "date": "2026-11-12T14:13:05+00:00",
-   "category": "Empresas y mercados",
    "type": "Prensa"
   },
   {
@@ -1162,62 +1202,12 @@
    "type": "Prensa"
   },
   {
-   "id": "adceb1167e1e",
-   "source": "Deutsche Welle",
-   "title": "Trump amenaza con duplicar aranceles a México si no frena a migrantes",
-   "description": "Donald Trump amenazó con duplicar de inmediato los aranceles a México si el Gobierno mexicano no detiene nuevas caravanas de migrantes que, según el presidente estadounidense, se dirigen hacia la frontera.",
-   "url": "https://www.dw.com/es/trump-amenaza-con-duplicar-aranceles-a-méxico-si-no-frena-a-migrantes/a-79931643?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-12T14:00:00+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "e54a025599b4",
    "source": "Ex-Ante",
    "title": "Un viaje por el Teleférico Bicentenario: La impresionante odisea por la ciudad",
    "description": "Sin duda será un hito para la ciudad. El teleférico Bicentenario -que le hace honor al nombre- es una experiencia de gran nivel tanto por…",
    "url": "https://www.ex-ante.cl/cronica/viaje-teleferico-bicentenario-impresionante/",
    "date": "2026-11-12T13:51:18+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "8a911e1504aa",
-   "source": "France 24",
-   "title": "Directo París y las nuevas revelaciones del tiroteo en Trappes",
-   "description": "Avanza la investigación del tiroteo de Trappes, en Francia. Las autoridades revelaron que en el domicilio del presunto autor se encontró una lista con nombres y números de teléfono de varias figuras de izquierda, entre ellas. diputados e incluso el alcalde de Roubaix. Cuando fue ",
-   "url": "https://www.france24.com/es/video/20261112-directo-par%C3%ADs-y-las-nuevas-revelaciones-del-tiroteo-en-trappes",
-   "date": "2026-11-12T13:43:56+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "e8f4e8a58d61",
-   "source": "France 24",
-   "title": "Le arrebataron a sus hijos en la dictadura de Pinochet: el emotivo reencuentro 40 años después",
-   "description": "Teresita Padilla volvió a abrazar a dos de los tres hijos que le fueron arrebatados cuando eran bebés durante la dictadura de Augusto Pinochet en Chile. Gracias a investigaciones y pruebas de ADN, la madre pudo reencontrarse con Tim Rolnick y Travis Murdoch, quienes crecieron en ",
-   "url": "https://www.france24.com/es/video/20261112-le-arrebataron-a-sus-hijos-en-la-dictadura-de-pinochet-el-emotivo-reencuentro-40-a%C3%B1os-despu%C3%A9s",
-   "date": "2026-11-12T13:42:07+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "c1278cf98c54",
-   "source": "France 24",
-   "title": "León XIV llega a \"su segundo hogar\": así será su agenda en Perú",
-   "description": "El papa León XIV inició su visita oficial a Perú, un país al que ha definido en varias ocasiones como su “segundo hogar” por los años que vivió y desarrolló su labor pastoral allí. En su primera jornada fue recibido por las autoridades peruanas y protagonizó emotivos encuentros c",
-   "url": "https://www.france24.com/es/video/20261112-le%C3%B3n-xiv-llega-a-su-segundo-hogar-as%C3%AD-ser%C3%A1-su-agenda-en-per%C3%BA",
-   "date": "2026-11-12T13:40:08+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "86ab6ba40b1e",
-   "source": "France 24",
-   "title": "Informe desde Antalya: financiación climática y electrificación, sigue el debate en la COP31",
-   "description": "La COP31 volvió a poner sobre la mesa una de las grandes preguntas de nuestro tiempo: la transición energética y el cambio climático. Mientras los países en desarrollo reclamaron más financiación para adaptarse a fenómenos cada vez más extremos, las naciones insulares del Pacífic",
-   "url": "https://www.france24.com/es/video/20261112-informe-desde-antalya-financiaci%C3%B3n-clim%C3%A1tica-y-electrificaci%C3%B3n-sigue-el-debate-en-la-cop31",
-   "date": "2026-11-12T13:34:42+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -1919,6 +1909,16 @@
    "url": "https://www.ciperchile.cl/2026/11/10/aqui-tienes-la-parte-considerativa-y-resolutiva-la-huella-de-la-inteligencia-artificial-en-sentencias-del-poder-judicial/?utm_source=rss&utm_medium=rss&utm_campaign=aqui-tienes-la-parte-considerativa-y-resolutiva-la-huella-de-la-inteligencia-artificial-en-sentencias-del-poder-judicial",
    "date": "2026-11-10T19:34:45+00:00",
    "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "a6b4314e9578",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver el primer amistoso de La Roja y Colombia en la fecha FIFA?",
+   "description": "La selección chilena enfrentará este viernes a Colombia en la ciudad de Cali, en el primero de los dos amistosos pactados para la fecha FIFA de noviembre, l a última del año 2026. El compromiso se disputará en el Estadio \"Pascual Guerrero\" de Cali, a partir de las 21:00 horas (00",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-primer-amistoso-de-la-roja-y-colombia-en-la-fecha/2026-11-10/162025.html",
+   "date": "2026-11-10T19:20:25+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
