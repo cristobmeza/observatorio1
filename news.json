@@ -1,6 +1,156 @@
 {
- "updated": "2026-11-13T18:43:53.108624+00:00",
+ "updated": "2026-11-13T19:48:57.524888+00:00",
  "items": [
+  {
+   "id": "38a0076fefa8",
+   "source": "BBC Mundo",
+   "title": "\"Esta es la ciudad del Papa, del Papa peruano\": la emotiva vuelta a casa de León XIV a Chiclayo en Perú",
+   "description": "La primera visita de León XIV a Chiclayo desde que fue obispo de la ciudad entre 2015 y 2023 se volvió un motivo de peregrinación y fiesta. BBC Mundo estuvo allí.",
+   "url": "https://www.bbc.com/mundo/articles/cr15e3p8yjeko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T19:47:03+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "6725013bc717",
+   "source": "Al Jazeera",
+   "title": "Migrants risk deadly route to Spain’s Canary Islands",
+   "description": "More than 7,400 migrants arrived in Spain’s Canary Islands during the first 10 days of November.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss",
+   "date": "2026-11-13T19:23:40+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "8054f112616f",
+   "source": "The Guardian",
+   "title": "Walliams allegations prompt calls for staggered age of consent at 16 and 17",
+   "description": "Barrister say law does not adequately recognise power imbalance between young people and much older adults Allegations against Russell Brand and, separately, David Walliams have led to calls for greater legal protection for 16- and 17-year-olds from being sexually exploited by ol",
+   "url": "https://www.theguardian.com/law/2026/nov/13/staggered-age-of-consent-16-17-law",
+   "date": "2026-11-13T19:23:07+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "140d89862bef",
+   "source": "Al Jazeera",
+   "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+   "description": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to the IRGC.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+   "date": "2026-11-13T19:23:05+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e77c4c1ba949",
+   "source": "Radio Cooperativa",
+   "title": "Revelan que Argentinos Juniors le adeuda siete meses de sueldo a Iván Morales",
+   "description": "Fue a comienzos de septiembre que Iván Morales arribó sorpresivamente a Independiente de Avellaneda en calidad de préstamo desde Argentinos Juniors, cuadro con el que tendría todo un drama. Es que en las últimas horas el periodista argentino Flavio Azzaro dio a conocer en el prog",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-argentina/revelan-que-argentinos-juniors-le-adeuda-siete-meses-de-sueldo-a-ivan/2026-11-13/160616.html",
+   "date": "2026-11-13T19:06:16+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "1062497ac9c5",
+   "source": "Radio Cooperativa",
+   "title": "Microsoft negó que caída se deba a incidente de ciberseguridad y anunció recuperación generalizada",
+   "description": "La tecnológica Microsoft atribuyó este viernes la caída global de sus servicios a un fallo durante una ampliación previa de la capacidad de su red, descartando así que estuviese relacionada con un problema de ciberseguridad, y anunció una recuperación generalizada. \"El incidente ",
+   "url": "https://www.cooperativa.cl/noticias/tecnologia/industria/microsoft-nego-que-caida-se-deba-a-incidente-de-ciberseguridad-y-anuncio/2026-11-13/155927.html",
+   "date": "2026-11-13T18:59:27+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "e38eb285ce69",
+   "source": "Al Jazeera",
+   "title": "How will the US deal with Nvidia scandal?",
+   "description": "Tech giant CEO resigned and will testify before Congress.",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
+   "date": "2026-11-13T18:57:43+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a1ff33a45426",
+   "source": "The Guardian",
+   "title": "Families clear homes of David Walliams books after sexual offence allegations",
+   "description": "Parents take action while independent bookshops say they had already stopped stocking his titles In Sarah’s house, David Walliams has been a bedtime staple for years. Her children, aged eight, six and four, have dressed up as his characters for World Book Day – they love the over",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations",
+   "date": "2026-11-13T18:55:08+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "ca83c0e66d9a",
+   "source": "Deutsche Welle",
+   "title": "Jensen Huang: presunto espionaje de una de sus amantes y otras relaciones que dejan a Nvidia sin su CEO estrella",
+   "description": "El hombre que convirtió a la empresa en el principal fabricante mundial de chips de IA, dimite por sus relaciones extramatrimoniales. ¿Cómo afectará su marcha a la empresa y a la carrera entre EE. UU. y China?",
+   "url": "https://www.dw.com/es/jensen-huang-presunto-espionaje-de-una-de-sus-amantes-y-otras-relaciones-que-dejan-a-nvidia-sin-su-ceo-estrella/a-79943979?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-13T18:54:00+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "edb5f6ffd55e",
+   "source": "The Guardian",
+   "title": "Police launch investigation into David Walliams over alleged serious sexual offences",
+   "description": "Met police say allegations are separate from those made by multiple women in Guardian and ITV investigation The Metropolitan police have launched a criminal investigation into David Walliams over alleged serious sexual offences. Walliams, 55, was accused in reports by ITV and the",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
+   "date": "2026-11-13T18:53:28+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a7a45e56e61c",
+   "source": "France 24",
+   "title": "\"El Departamento de Comercio es el que firma\": ¿caerá Howard Lutnick por el escándalo de Nvidia?",
+   "description": "La de Jensen Huang podría no ser la única cabeza que ruede, luego de que el director ejecutivo del gigante tecnológico renunciara a raíz de una aventura extramatrimonial con una supuesta espía china. La del secretario de Comercio ha sido puesta en la picota por su colega del Teso",
+   "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261113-el-departamento-de-comercio-es-el-que-firma-caer%C3%A1-howard-lutnick-por-el-esc%C3%A1ndalo-de-nvidia",
+   "date": "2026-11-13T18:47:31+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "27b25bb8f9e0",
+   "source": "France 24",
+   "title": "Tango queer en París: quién guía ya no depende del género",
+   "description": "En París, el tango se convierte en un espacio de libertad e inclusión para la comunidad LGBTQ+. El tango queer desafía los roles tradicionales de género: cualquiera puede guiar o acompañar. Alex Pacheco, profesor y fundador del proyecto \"Tango disidente\", explica en Escala en Par",
+   "url": "https://www.france24.com/es/programas/escala-en-par%C3%ADs/20261113-tango-queer-en-par%C3%ADs-qui%C3%A9n-gu%C3%ADa-ya-no-depende-del-g%C3%A9nero",
+   "date": "2026-11-13T18:46:05+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "35d629fa8051",
+   "source": "Al Jazeera",
+   "title": "At least 10 killed in Guinea in crackdown on gold mining",
+   "description": "Guinea banned artisanal gold mining in Siguiri on November 2 due to environmental degradation, causing mass exodus.",
+   "url": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
+   "date": "2026-11-13T18:44:45+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "dc2fc5f51980",
+   "source": "Radio Cooperativa",
+   "title": "Senapred alertó por calor extremo en siete regiones y riesgo de remociones en masa",
+   "description": "El Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred) emitió una advertencia preventiva para siete regiones del país ante los pronósticos de altas temperaturas extremas emitidos por la Dirección Meteorológica de Chile (DMC) , alertando sobre el riesgo de remoci",
+   "url": "https://www.cooperativa.cl/noticias/pais/tiempo/senapred-alerto-por-calor-extremo-en-siete-regiones-y-riesgo-de/2026-11-13/154154.html",
+   "date": "2026-11-13T18:41:54+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "2db2f62f0f05",
+   "source": "France 24",
+   "title": "¿Cómo busca México a sus personas desaparecidas? Claves del nuevo modelo",
+   "description": "🇲🇽 En un país con más de 130.000 denuncias por desaparición, Ciudad de México apuesta por un nuevo modelo que responde a las críticas: la demora en el inicio de las búsquedas, la burocracia para denunciar, la falta de empatía y el maltrato por parte de las autoridades.",
+   "url": "https://www.france24.com/es/video/20261113-c%C3%B3mo-busca-m%C3%A9xico-a-sus-personas-desaparecidas-claves-del-nuevo-modelo",
+   "date": "2026-11-13T18:30:03+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
   {
    "id": "7fecae510c00",
    "source": "Deutsche Welle",
@@ -9,6 +159,26 @@
    "url": "https://www.dw.com/es/afd-gana-fuerza-en-alemania-y-sus-vínculos-con-el-entorno-neonazi-plantean-interrogantes/a-79944191?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-13T18:29:00+00:00",
    "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "625ef198d30c",
+   "source": "Radio Cooperativa",
+   "title": "Francia prevé entre 50 y 60 manifestaciones en quinto sábado consecutivo de protestas",
+   "description": "Francia prevé entre 50 y 60 manifestaciones en todo el país en el quinto sábado consecutivo de protestas contra el encarecimiento del coste de la vida y en defensa de los servicios públicos, encabezadas en esta ocasión por los 'chalecos amarillos' y asociaciones estudiantiles , m",
+   "url": "https://www.cooperativa.cl/noticias/mundo/francia/francia-preve-entre-50-y-60-manifestaciones-en-quinto-sabado-consecutivo/2026-11-13/152805.html",
+   "date": "2026-11-13T18:28:05+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "296cbb7b1d5c",
+   "source": "Al Jazeera",
+   "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
+   "description": "Six-year-old burns victim Masa is one of the patients in Gaza whose recovery is under threat due to Israeli restrictions",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss",
+   "date": "2026-11-13T18:28:03+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -32,9 +202,19 @@
    "type": "Prensa"
   },
   {
+   "id": "7647e3946fa1",
+   "source": "Radio Cooperativa",
+   "title": "Villanueva contratacó ante desclasificaciones de Mouche: Cuenta por qué no jugabas cuando peleamos el descenso",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El exfutbolista argentino Pablo Mouche inició un duro cruce de declaraciones con Carlo Villanueva tras recordar un fuerte pleito entre ambos en 2019 , cuando eran compañeros en Colo Colo . El 16 de octubre de aquel año, por",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/villanueva-contrataco-ante-desclasificaciones-de-mouche-cuenta-por-que/2026-11-13/151617.html",
+   "date": "2026-11-13T18:16:17+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "467bac857849",
    "source": "The Guardian",
-   "title": "Labour chief whip takes tough approach in Vogue interview to keeping MPs in line",
+   "title": "Labour chief whip tells Vogue she takes tough approach to keeping MPs in line",
    "description": "Anneliese Midgley surprises colleagues after Burnham said whips’ office should not be ‘something to be feared’ If Andy Burnham has been accused of being a people pleaser by his critics, the same most certainly cannot be said of his chief whip. “I’m not going to take any shit and ",
    "url": "https://www.theguardian.com/politics/2026/nov/13/labour-chief-whip-tough-approach-vogue-interview-mps-in-line-anneliese-midgley",
    "date": "2026-11-13T18:16:15+00:00",
@@ -42,13 +222,13 @@
    "type": "Prensa"
   },
   {
-   "id": "edb5f6ffd55e",
-   "source": "The Guardian",
-   "title": "Police launch investigation into David Walliams over alleged serious sexual offences",
-   "description": "Met police say allegations are separate from those made by multiple women in Guardian and ITN investigation The Metropolitan police have launched a criminal investigation into David Walliams over alleged serious sexual offences. Walliams, 55, was accused in reports by ITV and the",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
-   "date": "2026-11-13T18:14:37+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "id": "1108f0ee292c",
+   "source": "Radio Cooperativa",
+   "title": "A tres años de operar y alcanzar 850 formalizaciones, equipo ECOH emprende \"nuevo modelo de trabajo\"",
+   "description": "A tres años de iniciar sus operaciones, el equipo ECOH de la Fiscalía ha logrado desarrollar 850 formalizaciones y registrar más de mil causas investigadas, y ahora pretende \"dar forma a un nuevo modelo de trabajo\" en conjunto con la Fiscalía Supraterritorial. De acuerdo con La T",
+   "url": "https://www.cooperativa.cl/noticias/pais/judicial/ministerio-publico/a-tres-anos-de-operar-y-alcanzar-850-formalizaciones-equipo-ecoh/2026-11-13/151613.html",
+   "date": "2026-11-13T18:16:13+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -72,16 +252,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2e15217bd2bb",
-   "source": "The Guardian",
-   "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
-   "description": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptions Microsoft outage – live updates Vital UK services have been hit by a global Microsoft outage that left hospital staff resorting to paper records and fuelled conc",
-   "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
-   "date": "2026-11-13T18:10:05+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "551fe2874056",
    "source": "Al Jazeera",
    "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
@@ -92,20 +262,10 @@
    "type": "Prensa"
   },
   {
-   "id": "ca83c0e66d9a",
-   "source": "Deutsche Welle",
-   "title": "Jensen Huang: presunto espionaje de una de sus amantes y otras relaciones que dejan a Nvidia sin su CEO estrella",
-   "description": "El hombre que convirtió a la empresa en el principal fabricante mundial de chips de IA, dimite por sus relaciones extramatrimoniales. ¿Afectará su marcha afectará a la empresa y a la carrera entre EE. UU. y China?",
-   "url": "https://www.dw.com/es/jensen-huang-presunto-espionaje-de-una-de-sus-amantes-y-otras-relaciones-que-dejan-a-nvidia-sin-su-ceo-estrella/a-79943979?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-13T18:07:00+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "f7e041f6fc50",
    "source": "Ex-Ante",
-   "title": "Paro de camioneros: Por qué esta vez Kast privilegió lo político y apoyó a Alvarado",
-   "description": "A diferencia de lo ocurrido en marzo, cuando prevaleció el criterio fiscal de Jorge Quiroz frente al alza de los combustibles, esta vez el Presidente…",
+   "title": "Paro de camioneros: Por qué esta vez Kast privilegió lo político en contraste con el “bencinazo”",
+   "description": "A diferencia de lo ocurrido en marzo, cuando prevaleció el criterio fiscal de Hacienda frente al alza de los combustibles, esta vez el Presidente Kast…",
    "url": "https://www.ex-ante.cl/politica/paro-camioneros-kast-alvarado/",
    "date": "2026-11-13T18:05:36+00:00",
    "category": "",
@@ -202,16 +362,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f72c20810bf5",
-   "source": "The Guardian",
-   "title": "No 10 considering expanding under-25s benefits overhaul to older age groups",
-   "description": "Exclusive: Plans to replace key disability benefits for young people with work and training could affect adults Downing Street is considering whether plans to replace key disability benefits with work and training for people under-25 should be expanded to older age groups, the Gu",
-   "url": "https://www.theguardian.com/society/2026/nov/13/no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups",
-   "date": "2026-11-13T17:43:26+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "ab7ccebd8712",
    "source": "Ex-Ante",
    "title": "Rebaja de penas: preso por estafa impugna nueva suspensión de beneficio anunciada por La Moneda",
@@ -272,16 +422,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e1eb8c959bc3",
-   "source": "Radio Cooperativa",
-   "title": "Así fue la agresión que sufrió Luis Slimming en Arica: Comediante se defendió del ataque",
-   "description": "La productora El Sentido del Humor dio a conocer el registro de la agresión que este jueves sufrió el comediante Luis Slimming durante un show en Arica. A través de su habitual programa, el espacio liderado por el mismo Slimming mostró las primeras imágenes del ataque. Allí se pu",
-   "url": "https://www.cooperativa.cl/noticias/magazine/humor/asi-fue-la-agresion-que-sufrio-luis-slimming-en-arica-comediante-se/2026-11-13/142355.html",
-   "date": "2026-11-13T17:23:55+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "3064106836a4",
    "source": "Ex-Ante",
    "title": "Jamie Dimon, el histórico CEO de JP Morgan y uno de los hombres más poderosos de Wall Street que se reunió con Kast",
@@ -289,16 +429,6 @@
    "url": "https://www.ex-ante.cl/negocios/poderoso-ceo-jp-morgan-que-estuvo-con-kast/",
    "date": "2026-11-13T17:21:28+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "287dfe282127",
-   "source": "Radio Cooperativa",
-   "title": "La Universidad de Chile le reclamó a Azul Azul por acuerdo con casa de apuestas: \"Va contra los valores\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La casa de estudios Universidad de Chile expresó su molestia ante el inminente contrato acordado por Azul Azul con una casa de apuestas para ser el nuevo auspiciador principal del equipo de fútbol profesional. La prorrector",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-universidad-de-chile-le-reclamo-a-azul-azul-por-acuerdo-con-casa-de/2026-11-13/141740.html",
-   "date": "2026-11-13T17:17:40+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -352,42 +482,12 @@
    "type": "Prensa"
   },
   {
-   "id": "2a25242c093e",
-   "source": "Radio Cooperativa",
-   "title": "My happy ending: Avril Lavigne anunció el nacimiento de su primera hija a sus 42 años",
-   "description": "A través de sus redes sociales la cantante Avril Lavigne anunció el nacimiento de su primera hija a sus 42 años. \"Nuestra 'maldita' mini princesa ya está aquí\" , escribió en Instagram, junto a tres fotografías conmemorativas del momento. En una de ellas aparece la pequeña mano de",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/my-happy-ending-avril-lavigne-anuncio-el-nacimiento-de-su-primera-hija/2026-11-13/140339.html",
-   "date": "2026-11-13T17:03:39+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "be86a20b61da",
    "source": "France 24",
    "title": "Directo París y las discusiones entre Lecornu y los sindicatos para aumentar los salarios",
    "description": "El primer ministro francés, Sébastien Lecornu, se reunió con los sindicatos tras el anuncio de un aumento del 1,6 % del salario mínimo. Los manifestantes exigen mejores condiciones salariales para sobrellevar los altos costos de vida y un incremento del 10 %. Tras el encuentro, a",
    "url": "https://www.france24.com/es/video/20261113-directo-par%C3%ADs-y-las-discusiones-entre-lecornu-y-los-sindicatos-para-aumentar-los-salarios",
    "date": "2026-11-13T17:03:32+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "edd9dd5d7930",
-   "source": "Radio Cooperativa",
-   "title": "Cooperativa Deportes: La previa del duelo que jugará la Roja ante Colombia",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/cooperativa-deportes/opinion/cooperativa-deportes-la-previa-del-duelo-que-jugara-la-roja-ante-colombia/2026-11-13/135312.html",
-   "date": "2026-11-13T16:53:12+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "7a56d0245d9a",
-   "source": "Radio Cooperativa",
-   "title": "Camioneros \"descolgados\" dejaron carreteras tras advertencia de autoridades",
-   "description": "Tras cuatro días de movilizaciones, los camioneros que mantuvieron el paro pese al acuerdo nacional con el Gobierno levantaron este viernes sus bloqueos en Santiago y La Araucanía , luego de que el Ejecutivo advirtiera que aplicaría la Ley de Seguridad del Estado en la capital y ",
-   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/camioneros-descolgados-dejaron-carreteras-tras-advertencia-de-autoridades/2026-11-13/135204.html",
-   "date": "2026-11-13T16:52:04+00:00",
    "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
@@ -399,16 +499,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
    "date": "2026-11-13T16:44:56+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "85edce7381aa",
-   "source": "Radio Cooperativa",
-   "title": "En Colo Colo adelantaron futuro de De Paul: \"Estará considerado para el año que viene\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Tras conquistar el título de la Liga de Primera a falta de tres fechas, desde Colo Colo abordaron la situación de Fernando de Paul , quien está próximo a terminar contrato y está bajo la mirada de San Luis de Quillota . Fer",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/en-colo-colo-adelantaron-futuro-de-de-paul-estara-considerado-para-el/2026-11-13/134124.html",
-   "date": "2026-11-13T16:41:24+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -484,7 +574,7 @@
   {
    "id": "5a89672307c5",
    "source": "BBC Mundo",
-   "title": "\"El viejo mapa político de EE.UU. es historia\": cómo Texas se convierte en el principal campo de batalla de las presidenciales de 2028 tras el \"tsunami azul\"",
+   "title": "Cómo Texas es desde ya el nuevo campo de batalla por la presidencia en EE.UU.",
    "description": "Los expertos en las matemáticas electorales ya adelantan que, si EE.UU. votara en dos años como lo hizo en los comicios de la semana pasada, los demócratas tendrían el camino hacia la Casa Blanca prácticamente despejado.",
    "url": "https://www.bbc.com/mundo/articles/ck4gnqw6jnnwo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-13T16:27:17+00:00",
@@ -554,8 +644,8 @@
   {
    "id": "ec904581374b",
    "source": "Al Jazeera",
-   "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
-   "description": "EU leaders believe a US-backed process will allow Moscow and Washington to decide the fate of a conflict.",
+   "title": "EU agrees on five countries to represent Europe in Ukraine peace talks",
+   "description": "European leaders believe a US-backed process will allow Moscow and Washington to decide the fate of the conflict.",
    "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
    "date": "2026-11-13T15:43:39+00:00",
    "category": "Estados Unidos y Canadá",
@@ -902,16 +992,6 @@
    "type": "Académica"
   },
   {
-   "id": "03d906de23ac",
-   "source": "Al Jazeera",
-   "title": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
-   "description": "Israel's move came after France banned a prominent Israeli settler from entering the country.",
-   "url": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
-   "date": "2026-11-13T12:57:08+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "176d54355941",
    "source": "BBC Mundo",
    "title": "Los restos del escritor Miguel Ángel Asturias regresan a Guatemala más de medio siglo después de su muerte",
@@ -919,36 +999,6 @@
    "url": "https://www.bbc.com/mundo/articles/ck1l04rpm9l5o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-13T12:51:27+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "ad6595ce0a06",
-   "source": "Al Jazeera",
-   "title": "You haven’t got mail: Global Microsoft outage disrupts services",
-   "description": "Not receiving your work emails? That’s because Microsoft has been hit by a global outage.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss",
-   "date": "2026-11-13T12:40:11+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "c786b6a2a1df",
-   "source": "Al Jazeera",
-   "title": "Mauricio Pochettino announced as new Manchester United manager",
-   "description": "Pochettino replaces Michael Carrick, who was sacked after United's disastrous start to the season.",
-   "url": "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss",
-   "date": "2026-11-13T12:39:34+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "47805ed4f6e9",
-   "source": "France 24",
-   "title": "En directo: Europa alerta de las \"trampas\" de Rusia, mientras Kiev y Moscú intercambian nuevos ataques",
-   "description": "La jefa de la diplomacia de la Unión Europea, Kaja Kallas, advirtió que Europa no debe caer en \"trampas\" rusas al sentarse a la mesa en las conversaciones para poner fin a la guerra en Ucrania. Bruselas y Kiev dan por hecha la presencia europea en la próxima ronda de negociacione",
-   "url": "https://www.france24.com/es/europa/20261113-en-directo-europa-alerta-de-las-trampas-de-rusia-de-cara-a-posibles-negociaciones-de-paz-en-ucrania",
-   "date": "2026-11-13T12:27:48+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -969,26 +1019,6 @@
    "url": "https://www.dw.com/es/la-unión-europea-celebra-su-primera-cumbre-sobre-inteligencia-artificial/a-79939634?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-13T12:13:00+00:00",
    "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
-   "id": "6b959f1dd3a3",
-   "source": "Al Jazeera",
-   "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
-   "description": "Finland says Ukraine struck a Russian warship near its coast as Kyiv and Moscow held US-brokered talks in Abu Dhabi.",
-   "url": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss",
-   "date": "2026-11-13T12:06:56+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "082d9f74e604",
-   "source": "Al Jazeera",
-   "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
-   "description": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
-   "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
-   "date": "2026-11-13T11:59:34+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1119,26 +1149,6 @@
    "url": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
    "date": "2026-11-13T06:00:11+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "b2f9b20bf560",
-   "source": "France 24",
-   "title": "Informe desde Antigua: vuelven a Guatemala restos del nobel de literatura Miguel Ángel Asturias",
-   "description": "Los restos del nobel de literatura Miguel Ángel Asturias vuelven a Guatemala tras 52 años. Las cenizas del escritor habían permanecido en Francia por solicitud de su familia debido a un exilio forzoso de más de 12 años durante el golpe de Estado de 1954 en el que perdió su nacion",
-   "url": "https://www.france24.com/es/video/20261113-informe-desde-antigua-vuelven-a-guatemala-restos-del-nobel-de-literatura-miguel-%C3%A1ngel-asturias",
-   "date": "2026-11-13T05:57:13+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "25dce1be3f7f",
-   "source": "France 24",
-   "title": "Decenas de miles de jóvenes se congregaron en el Estadio Nacional para ver al papa León XIV",
-   "description": "El papa León XIV lideró una misa masiva que reunió a más de 43.000 jóvenes en el Estadio Nacional de Lima, donde el pontífice se sintió conmovido por el cálido recibimiento de los jóvenes fieles. Nuestro corresponsal Francisco Zacarías nos contó cómo fue el ambiente de la vigilia",
-   "url": "https://www.france24.com/es/video/20261113-decenas-de-miles-de-j%C3%B3venes-se-congregaron-en-el-estadio-nacional-para-ver-al-papa-le%C3%B3n-xiv",
-   "date": "2026-11-13T05:56:26+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1359,16 +1369,6 @@
    "url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
    "date": "2026-11-12T19:15:30+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "70dfec0652cf",
-   "source": "BBC Mundo",
-   "title": "Trump amenaza a México con duplicar aranceles si no detiene las caravanas de migrantes con destino a la frontera",
-   "description": "Después de las elecciones de medio mandato en Estados Unidos, Donald Trump retomó su agenda migratoria y lanzó una advertencia a México.",
-   "url": "https://www.bbc.com/mundo/articles/cj62pglgdwreo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-12T19:10:59+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
