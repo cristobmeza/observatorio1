@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-14T11:30:12.226404+00:00",
+ "updated": "2026-11-14T12:39:03.420206+00:00",
  "items": [
+  {
+   "id": "266cd5396027",
+   "source": "Al Jazeera",
+   "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+   "description": "A nuclear treaty and the US's war on Iran are among priority topics for China, Russia and US leaders.",
+   "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
+   "date": "2026-11-14T12:14:14+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "2c6928387abc",
+   "source": "Radio Cooperativa",
+   "title": "\"¿Pa' qué fumas?\": Campaña contra la preocupante alza del consumo de tabaco en menores",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/salud/pa-que-fumas-campana-contra-la-preocupante-alza-del-consumo-de/2026-11-14/090939.html",
+   "date": "2026-11-14T12:09:39+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "09b689d5e77b",
+   "source": "BBC Mundo",
+   "title": "Los momentos de la historia que más alteraron la estatura de los humanos",
+   "description": "Hoy somos unos 10 cm más altos que hace 100 años, pero no siempre ha sido un camino ascendente.",
+   "url": "https://www.bbc.com/mundo/articles/cx4g1gnz1jmzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T12:08:23+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "8d7c53d48ba5",
+   "source": "The Guardian",
+   "title": "Interest rate rises likely in coming months, Bank of England economist says",
+   "description": "‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a",
+   "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+   "date": "2026-11-14T12:05:52+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "ad84bbad69ee",
+   "source": "The Guardian",
+   "title": "Microsoft says services fully restored after global outage hits governments",
+   "description": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the ",
+   "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+   "date": "2026-11-14T11:54:31+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d000b21182f5",
+   "source": "Al Jazeera",
+   "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+   "description": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
+   "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+   "date": "2026-11-14T11:43:06+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "50f1cd45478a",
+   "source": "Radio Cooperativa",
+   "title": "Senador Núñez: El Gobierno no cuenta con los recursos para financiar acuerdo con camioneros",
+   "description": "El senador comunista Daniel Núñez acusó que el Gobierno no tiene los recursos necesarios para financiar el acuerdo con los camioneros -que contempla una rebaja de 142 pesos del diésel y el congelamiento de su valor hasta el 31 de marzo de 2027-, por lo que pidió a Hacienda poster",
+   "url": "https://www.cooperativa.cl/noticias/pais/transportes/senador-nunez-el-gobierno-no-cuenta-con-los-recursos-para-financiar/2026-11-14/083158.html",
+   "date": "2026-11-14T11:31:58+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
   {
    "id": "c1bfcc085e66",
    "source": "Ex-Ante",
@@ -8,6 +78,16 @@
    "description": "La principal enseñanza que deja Paraguay, entonces, no es que Chile deba copiar nuevas reglas ni aumentar indiscriminadamente las exigencias regulatorias. La lección es más…",
    "url": "https://www.ex-ante.cl/opinion/lecciones-caso-ueno-bank-en-paraguay/",
    "date": "2026-11-14T11:27:53+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "2e99912bff4f",
+   "source": "Radio Cooperativa",
+   "title": "Climatólogo: Fenómeno del Niño nos acompañará al menos durante seis meses más",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/tiempo/climatologo-fenomeno-del-nino-nos-acompanara-al-menos-durante-seis/2026-11-14/082236.html",
+   "date": "2026-11-14T11:22:36+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -29,16 +109,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
    "date": "2026-11-14T11:11:03+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "ad84bbad69ee",
-   "source": "The Guardian",
-   "title": "Microsoft says services fully restored after global outage",
-   "description": "Tech company says services now restored to all customers and regions hit by one of worst IT failures in years Microsoft has said its service is fully restored after a massive outage that caused widespread disruption to governments, businesses and public services around the world ",
-   "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
-   "date": "2026-11-14T11:07:10+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -114,7 +184,7 @@
   {
    "id": "410f8b2bd575",
    "source": "BBC Mundo",
-   "title": "Qué se sabe sobre la suspensión de vuelos en EE. UU. más grande desde el 11S",
+   "title": "Qué se sabe sobre la suspensión de vuelos en EE.UU. más grande desde el 11S",
    "description": "Funcionarios estadounidenses señalan que la interrupción fue causada por la sobrecarga de equipos antiguos, y no por un ciberataque.",
    "url": "https://www.bbc.com/mundo/articles/c5n4e274kdlro?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-14T10:10:50+00:00",
@@ -129,16 +199,6 @@
    "url": "https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss",
    "date": "2026-11-14T10:03:12+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "9a58b67ed440",
-   "source": "The Guardian",
-   "title": "Guardian to follow lives of eight young people in their search for work",
-   "description": "How long will it take? What challenges will they face? Series to shine light on one of biggest crises facing UK ‘The social contract is broken’: young people on feeling shut out of careers Britain is at risk of creating a lost generation. Across the country, almost a million youn",
-   "url": "https://www.theguardian.com/business/2026/nov/14/guardian-young-people-search-for-work",
-   "date": "2026-11-14T10:00:42+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -392,26 +452,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d902f2db02e2",
-   "source": "Al Jazeera",
-   "title": "Goalkeeper Owono handed 12-match ban after De Miguel death",
-   "description": "Owono and De Miguel ⁠collided during a Spanish second-tier match between FC Andorra and ​Tenerife on November 2.",
-   "url": "https://www.aljazeera.com/sports/2026/11/14/jesus-de-miguel-death-goalkeeper-owono-12-match-ban-collision-tenerife-andorra?traffic_source=rss",
-   "date": "2026-11-14T05:59:49+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "62eee36234ae",
-   "source": "Al Jazeera",
-   "title": "Paranoid or practical? Britain’s ‘Be Ready’ citizen campaign",
-   "description": "People in England and Wales are rushing to buy tinned goods and wind-up radios - but what's it all for?",
-   "url": "https://www.aljazeera.com/features/2026/11/14/paranoid-or-practical-britains-be-ready-citizen?traffic_source=rss",
-   "date": "2026-11-14T05:51:42+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "0a15b722336e",
    "source": "The Guardian",
    "title": "University hounded out of Hungary by Orbán reaches out to new government",
@@ -592,26 +632,6 @@
    "type": "Prensa"
   },
   {
-   "id": "002ce2cdc95c",
-   "source": "Radio Cooperativa",
-   "title": "Vidal tras la caída de La Roja con Colombia: \"Agradecemos el esfuerzo, pero así no se puede\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Arturo Vidal, volante de Colo Colo e histórico bicampeón de América con La Roja, analizó en vivo la derrota de Chile ante Colombia en Cali y lamentó el rendimiento de la selección , señalando que aún no hay un estilo de jue",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-tras-la-caida-de-la-roja-con-colombia-agradecemos-el-esfuerzo/2026-11-13/232136.html",
-   "date": "2026-11-14T02:21:36+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "f9d3a35237ab",
-   "source": "Radio Cooperativa",
-   "title": "Protesta estudiantil terminó con incidentes en el centro de Santiago",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/protesta-estudiantil-termino-con-incidentes-en-el-centro-de-santiago/2026-11-13/231550.html",
-   "date": "2026-11-14T02:15:50+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "2ce58744a05c",
    "source": "France 24",
    "title": "EE.UU. reanuda los despegues en todo el país tras horas de interrupción",
@@ -709,16 +729,6 @@
    "url": "https://www.dw.com/es/microsoft-lamenta-profundamente-problemas-causados-por-caída-global/a-79946074?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-14T00:24:00+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "8486f4c36bd3",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver el segundo amistoso entre La Roja y Colombia?",
-   "description": "Después de la derrota por la mínima en Cali, La Roja recibirá a Colombia en el Estadio Nacional de Santiago este martes 17 de noviembre para cerrar su calendario internacional en la última fecha FIFA de 2026. El partido está programado para las 20:00 horas (23:00 GMT) y será tran",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-segundo-amistoso-entre-la-roja-y-colombia/2026-11-13/204647.html",
-   "date": "2026-11-13T23:46:47+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -1539,16 +1549,6 @@
    "url": "https://www.ciperchile.cl/2026/11/12/sin-importar-las-fechas-de-vencimiento-la-trama-que-facilito-desde-el-estado-que-las-afp-perdieran-us10-000-millones-de-sus-afiliados/?utm_source=rss&utm_medium=rss&utm_campaign=sin-importar-las-fechas-de-vencimiento-la-trama-que-facilito-desde-el-estado-que-las-afp-perdieran-us10-000-millones-de-sus-afiliados",
    "date": "2026-11-12T14:13:18+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "e120919bf13e",
-   "source": "BBC Mundo",
-   "title": "\"Me los quitaron porque yo estaba sola\": la mujer que se reencontró con sus hijos 40 años después de que le fueran arrebatados por la dictadura de Pinochet en Chile",
-   "description": "En 2020, tras hacerse un examen médico, Tim Roinick descubrió la historia de cómo había sido adoptado de forma irregular.",
-   "url": "https://www.bbc.com/mundo/articles/cwr7gr7l9zgvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-12T13:26:03+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
