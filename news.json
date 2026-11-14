@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-14T08:44:18.355823+00:00",
+ "updated": "2026-11-14T09:39:29.508655+00:00",
  "items": [
+  {
+   "id": "d65de7b0d860",
+   "source": "Deutsche Welle",
+   "title": "Sudán del Sur planea celebrar las primeras elecciones de su historia en febrero tras un nuevo retraso",
+   "description": "El país, que desde su independencia en 2011 no había celebrado todavía elecciones generales, aplaza 51 días los comicios, previstos inicialmente para el 22 de diciembre, hasta el 11 de febrero.",
+   "url": "https://www.dw.com/es/sudán-del-sur-planea-celebrar-las-primeras-elecciones-de-su-historia-en-febrero-tras-un-nuevo-retraso/a-79947309?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-14T09:09:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "f12e314580d3",
+   "source": "Al Jazeera",
+   "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
+   "description": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule.",
+   "url": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
+   "date": "2026-11-14T09:08:21+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "14c2e5a56aaf",
+   "source": "The Guardian",
+   "title": "Immersive show brings Kyffin Williams’ rugged Welsh landscapes to life",
+   "description": "Paintings by one of country’s most important artists have been animated and set to music at National Library of Wales The paintings of artists such as Vincent van Gogh, Paul Cézanne and David Hockney have been brought to life in all-singing, all-dancing immersive shows in recent ",
+   "url": "https://www.theguardian.com/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth",
+   "date": "2026-11-14T09:00:39+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "50c9aa401223",
+   "source": "Al Jazeera",
+   "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
+   "description": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
+   "date": "2026-11-14T08:39:07+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "81093d2df935",
+   "source": "Deutsche Welle",
+   "title": "Irán informa de tres petroleros incendiados por la explosión de minas marinas en el estrecho de Ormuz y renueva sus advertencias",
+   "description": "El mes pasado fue el que registró más indicentes en la navegación en la zona, una de las más importantes para el tráfico marítimo de hidrocarburos, desde que empezó el conflicto en febrero.",
+   "url": "https://www.dw.com/es/irán-informa-de-tres-petroleros-incendiados-por-la-explosión-de-minas-marinas-en-el-estrecho-de-ormuz-y-renueva-sus-advertencias/a-79946984?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-14T08:32:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "ae50b044c775",
    "source": "Al Jazeera",
@@ -204,8 +254,8 @@
   {
    "id": "1d7e4f14fea6",
    "source": "The Guardian",
-   "title": "UK tells blind Nigerian pensioner to go home to India",
-   "description": "Woman who has lived in UK for 26 years refused indefinite leave to remain under Home Office’s new settlement rules A blind Nigerian pensioner who has lived in the UK for 26 years has been told by the Home Office she can safely “go home” to India. Comfort*, 67, arrived in the UK i",
+   "title": "UK tells blind Nigerian pensioner to go to India for medical treatment",
+   "description": "Woman who has lived in UK for 26 years refused indefinite leave to remain under Home Office’s new settlement rules A blind Nigerian pensioner who has lived in the UK for 26 years has been told by the Home Office she can safely go to India, a country she has never visited, for med",
    "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
    "date": "2026-11-14T06:00:37+00:00",
    "category": "China y Asia",
@@ -284,7 +334,7 @@
   {
    "id": "c1f62824e31b",
    "source": "BBC Mundo",
-   "title": "Autorizan de nuevo el despegue de aviones en EE.UU. tras la falla que obligó a suspender durante horas los vuelos en todo el país",
+   "title": "Autorizan de nuevo el despegue de aviones en EE.UU. tras la falla que obligó a suspender durante horas miles de vuelos en todo el país",
    "description": "La FAA había ordenado este viernes suspender todos los despegues de vuelos en Estados Unidos, alegando \"circunstancias extraordinarias\" y motivos de seguridad.",
    "url": "https://www.bbc.com/mundo/articles/crgqx8jpw3jvo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-14T04:45:54+00:00",
@@ -484,7 +534,7 @@
   {
    "id": "afa6ae1acd6f",
    "source": "Al Jazeera",
-   "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
+   "title": "US loses measles-free status as two more deaths reported",
    "description": "More than 5,400 confirmed measles cases have been recorded in the US to date this year.",
    "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
    "date": "2026-11-14T02:34:50+00:00",
@@ -549,26 +599,6 @@
    "url": "https://www.bbc.com/mundo/articles/c804wpyd29wro?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-14T01:37:16+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "7d46ea070171",
-   "source": "Al Jazeera",
-   "title": "Tanker collision leaves riverboat passengers clinging to railings",
-   "description": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
-   "date": "2026-11-14T01:37:08+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "349fd23f3eac",
-   "source": "Al Jazeera",
-   "title": "Former FAA official says ‘nobody really knows what is going on’",
-   "description": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
-   "date": "2026-11-14T01:28:46+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -782,16 +812,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a9ad8758fce0",
-   "source": "The Guardian",
-   "title": "US Air Force responds to suspected drone activity at RAF Lakenheath",
-   "description": "No personnel, aircraft or infrastructure at Suffolk site affected, says US military The US Air Force has said it responded to “suspected unauthorised drone activity” on Friday night at an RAF airbase in the east of England. No personnel, aircraft or infrastructure were affected, ",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
-   "date": "2026-11-13T22:31:05+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "ddc35c43ece5",
    "source": "The Guardian",
    "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
@@ -902,16 +922,6 @@
    "type": "Prensa"
   },
   {
-   "id": "858290955fc8",
-   "source": "Deutsche Welle",
-   "title": "Líderes de la UE debaten en Dublín a quién enviar para las conversaciones de paz entre Ucrania y Rusia",
-   "description": "Ahora parece probable que Europa vaya a tener un sitio en la mesa de negociación tras los comentarios del enviado estadounidense que acaba de reunirse con Putin. Pero sigue sin estar claro quién ocupará ese asiento.",
-   "url": "https://www.dw.com/es/líderes-de-la-ue-debaten-en-dublín-a-quién-enviar-para-las-conversaciones-de-paz-entre-ucrania-y-rusia/a-79942235?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-13T20:36:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "7fecae510c00",
    "source": "Deutsche Welle",
    "title": "AfD gana fuerza en Alemania, y sus vínculos con el entorno neonazi plantean interrogantes",
@@ -922,13 +932,13 @@
    "type": "Prensa"
   },
   {
-   "id": "f09b08111ddf",
+   "id": "858290955fc8",
    "source": "Deutsche Welle",
-   "title": "¿Puede la UE dificultar el engaño a los consumidores en internet?",
-   "description": "La UE quiere poner freno a las \"trampas de suscripción\", a las tácticas de venta engañosas y a las funciones que hacen que los usuarios sigan desplazándose por la pantalla.",
-   "url": "https://www.dw.com/es/¿puede-la-ue-dificultar-el-engaño-a-los-consumidores-en-internet/a-79944812?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-13T20:31:00+00:00",
-   "category": "Europa",
+   "title": "Líderes de la UE debaten en Dublín a quién enviar para las conversaciones de paz entre Ucrania y Rusia",
+   "description": "Ahora parece probable que Europa vaya a tener un sitio en la mesa de negociación tras los comentarios del enviado estadounidense que acaba de reunirse con Putin. Pero sigue sin estar claro quién ocupará ese asiento.",
+   "url": "https://www.dw.com/es/líderes-de-la-ue-debaten-en-dublín-a-quién-enviar-para-las-conversaciones-de-paz-entre-ucrania-y-rusia/a-79942235?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-13T20:36:00+00:00",
+   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
