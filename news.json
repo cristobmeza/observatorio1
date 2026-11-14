@@ -1,14 +1,104 @@
 {
- "updated": "2026-11-14T01:56:25.023859+00:00",
+ "updated": "2026-11-14T02:44:03.446004+00:00",
  "items": [
+  {
+   "id": "002ce2cdc95c",
+   "source": "Radio Cooperativa",
+   "title": "Vidal tras la caída de La Roja con Colombia: \"Agradecemos el esfuerzo, pero así no se puede\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Arturo Vidal, volante de Colo Colo e histórico bicampeón de América con La Roja, analizó en vivo la derrota de La Roja ante Colombia en Cali y lamentó el rendimiento de la selección , señalando que aún no hay un estilo de j",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-tras-la-caida-de-la-roja-con-colombia-agradecemos-el-esfuerzo/2026-11-13/232136.html",
+   "date": "2026-11-14T02:21:36+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
   {
    "id": "c1f62824e31b",
    "source": "BBC Mundo",
-   "title": "La autoridad de aviación de EE.UU. ordena suspender los vuelos en todo el país \"por circunstancias extraordinarias\" relacionadas con las comunicaciones",
-   "description": "La FAA ordenó este viernes suspender hasta nuevo aviso todos los despegues de vuelos en Estados Unidos, alegando \"circunstancias extraordinarias\" y motivos de seguridad.",
+   "title": "Autorizan de nuevo el despegue de aviones en EE.UU. tras la falla que obligó a suspender durante horas los vuelos en todo el país",
+   "description": "La FAA ordenó este viernes suspender todos los despegues de vuelos en Estados Unidos, alegando \"circunstancias extraordinarias\" y motivos de seguridad.",
    "url": "https://www.bbc.com/mundo/articles/crgqx8jpw3jvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-14T01:46:18+00:00",
+   "date": "2026-11-14T02:17:20+00:00",
    "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "19b0e93cf9e3",
+   "source": "Radio Cooperativa",
+   "title": "La Roja tuvo otra actuación de bajo nivel y estiró su negativa racha ante Colombia",
+   "description": "La selección chilena arrancó con una derrota la fecha FIFA de noviembre tras caer por 1-0 ante Colombia en el Estadio \"Pascual Guerrero\" de Cali, estirando su sequía a 10 años sin vencer al cuadro \"cafetero\". Más información en instantes.",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-tuvo-otra-actuacion-de-bajo-nivel-y-estiro-su-negativa-racha/2026-11-13/231657.html",
+   "date": "2026-11-14T02:16:57+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "f9d3a35237ab",
+   "source": "Radio Cooperativa",
+   "title": "Protesta estudiantil terminó con incidentes en el centro de Santiago",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/protesta-estudiantil-termino-con-incidentes-en-el-centro-de-santiago/2026-11-13/231550.html",
+   "date": "2026-11-14T02:15:50+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9d2e3bd99d6e",
+   "source": "The Guardian",
+   "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
+   "description": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in US US flight outage – live updates Get our breaking news email , free app or daily news podcast Some US-bound flights from Sydney airport were grounded or delayed on Saturday after American",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
+   "date": "2026-11-14T02:15:04+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "613a7c113b65",
+   "source": "Radio Cooperativa",
+   "title": "Presidio perpetuo a hombre que atacó con cuchillo a su expareja, hijo y exsuegros en Temuco",
+   "description": "El Tribunal de Juicio Oral en lo Penal (TOP) de Temuco (Región de La Araucanía) dictó presidio perpetuo simple contra un hombre de 58 años por parricidio frustrado, dos homicidios simples frustrados, femicidio frustrado y desacato , todos en contexto de violencia intrafamiliar . ",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/violencia-intrafamiliar/presidio-perpetuo-a-hombre-que-ataco-con-cuchillo-a-su-expareja-hijo-y/2026-11-13/231239.html",
+   "date": "2026-11-14T02:12:39+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "536be951ce58",
+   "source": "Radio Cooperativa",
+   "title": "Los piratas van por un nuevo título: La oncena de Coquimbo para la final de la Copa de la Liga",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/coquimbo/los-piratas-van-por-un-nuevo-titulo-la-oncena-de-coquimbo-para-la-final/2026-11-13/230108.html",
+   "date": "2026-11-14T02:01:08+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "2ce58744a05c",
+   "source": "France 24",
+   "title": "EE.UU. reanuda los despegues en todo el país tras horas de interrupción",
+   "description": "",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261113-estados-unidos-ordena-la-suspensi%C3%B3n-de-despegues-en-todo-el-pa%C3%ADs-por-problemas-en-las-comunicaciones",
+   "date": "2026-11-14T02:00:45+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "178b5c6b055d",
+   "source": "Deutsche Welle",
+   "title": "Starship de SpaceX entra en órbita terrestre pero descarta captura del propulsor",
+   "description": "El cohete de 124 metros despegó desde Starbase, en el sur de Texas, para su decimoquinto vuelo de prueba.",
+   "url": "https://www.dw.com/es/starship-de-spacex-entra-en-órbita-terrestre-pero-descarta-captura-del-propulsor/a-79946216?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-14T01:57:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "0c227a94bdef",
+   "source": "Radio Cooperativa",
+   "title": "Arrancó la 45ª Filsa, con más de 300 actividades y énfasis en neurociencia",
+   "description": "La 45ª Feria Internacional del Libro de Santiago (Filsa) comenzó este viernes en el Centro Cultural Estación Mapocho , bajo el lema \"Conecta\" . Esta edición reúne a más de 100 expositores y contempla más de 300 actividades culturales durante 10 días . La programación incluye tall",
+   "url": "https://www.cooperativa.cl/noticias/cultura/literatura/ferias-del-libro/arranco-la-45-filsa-con-mas-de-300-actividades-y-enfasis-en/2026-11-13/223908.html",
+   "date": "2026-11-14T01:39:08+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -19,6 +109,16 @@
    "url": "https://www.bbc.com/mundo/articles/c804wpyd29wro?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-14T01:37:16+00:00",
    "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "7d46ea070171",
+   "source": "Al Jazeera",
+   "title": "Tanker collision leaves riverboat passengers clinging to railings",
+   "description": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+   "date": "2026-11-14T01:37:08+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -132,16 +232,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1356eddf634f",
-   "source": "Radio Cooperativa",
-   "title": "Quieren llevar el título a Rancagua: La formación de O'Higgins para la final de la Copa de la Liga",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/ohiggins/quieren-llevar-el-titulo-a-rancagua-la-formacion-de-o-higgins-para-la/2026-11-13/213459.html",
-   "date": "2026-11-14T00:34:59+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "2eba84804171",
    "source": "France 24",
    "title": "La revancha de Lula: el fallo que culmina el caso que lo llevó a la cárcel",
@@ -212,26 +302,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2693913556a9",
-   "source": "Radio Cooperativa",
-   "title": "Svitolina frenó a Sabalenka y avanzó a semifinales de las Finales de la WTA",
-   "description": "La ucraniana Elina Svitolina derrotó este viernes a la bielorrusa Aryna Sabalenka en la fase de grupos y se clasificó para las semifinales de las Finales de la WTA , que se disputan en Indian Wells (Estados Unidos). Svitolina, número 6 del mundo, venció por 3-6, 6-3 y 1-6 en casi",
-   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/wta/svitolina-freno-a-sabalenka-y-avanzo-a-semifinales-de-las-finales-de-la/2026-11-13/211628.html",
-   "date": "2026-11-14T00:16:28+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "d8ba6ba0eef3",
-   "source": "Radio Cooperativa",
-   "title": "Colo Colo venció a Racing y mantuvo el ritmo ganador de cara al clásico con la UC",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-vencio-a-racing-y-mantuvo-el-ritmo-ganador-de-cara-al-clasico/2026-11-13/211607.html",
-   "date": "2026-11-14T00:16:07+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "faa0a9fd1825",
    "source": "Al Jazeera",
    "title": "Afghanistan’s new road to China ends at a closed border",
@@ -239,16 +309,6 @@
    "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
    "date": "2026-11-14T00:06:43+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "f8e635cbbae3",
-   "source": "Radio Cooperativa",
-   "title": "\"MasterChef Chile\" dio el golpe en el rating y superó a \"Vértigo\" en el prime",
-   "description": "\"MasterChef Chile\" consiguió un importante hito en su competencia por el rating , luego de liderar por primera vez el horario prime desde su estreno y superar a \"Vértigo\", el estelar de Canal 13. El resultado se registró durante la noche de este jueves 12 de noviembre, cuando el ",
-   "url": "https://www.cooperativa.cl/noticias/magazine/television/masterchef-chile-dio-el-golpe-en-el-rating-y-supero-a-vertigo-en-el/2026-11-13/210152.html",
-   "date": "2026-11-14T00:01:52+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -262,6 +322,16 @@
    "type": "Prensa"
   },
   {
+   "id": "8486f4c36bd3",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver el segundo amistoso entre La Roja y Colombia?",
+   "description": "Después de la derrota por la mínima en Cali, La Roja recibirá a Colombia en el Estadio Nacional de Santiago este martes 17 de noviembre para cerrar su calendario internacional en la última fecha FIFA de 2026. El partido está programado para las 20:00 horas (23:00 GMT) y será tran",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-segundo-amistoso-entre-la-roja-y-colombia/2026-11-13/204647.html",
+   "date": "2026-11-13T23:46:47+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
    "id": "bf31b56e4992",
    "source": "Al Jazeera",
    "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
@@ -269,16 +339,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
    "date": "2026-11-13T23:45:22+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "ae2187092082",
-   "source": "Radio Cooperativa",
-   "title": "Colo Colo se estrenó como campeón con un triunfo en el amistoso ante Racing en Concepción",
-   "description": "Colo Colo tuvo este viernes su primer partido como campeón del fútbol chileno y celebró con una victoria por 2-1 ante Racing Club en el Estadio \"Ester Roa\" en Concepción, un amistoso internacional para mantener el rodaje del equipo durante el receso de la Liga de Primera por la f",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-se-estreno-como-campeon-con-un-triunfo-en-el-amistoso-ante/2026-11-13/204442.html",
-   "date": "2026-11-13T23:44:42+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -372,16 +432,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a11708d911dd",
-   "source": "Radio Cooperativa",
-   "title": "Festival gastronómico, nuevo hito en la revitalización del Mercado Central y el barrio Mapocho",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/magazine/panoramas/festival-gastronomico-nuevo-hito-en-la-revitalizacion-del-mercado/2026-11-13/200127.html",
-   "date": "2026-11-13T23:01:27+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "55babaae9af9",
    "source": "Ex-Ante",
    "title": "“El hijo del oligarca”: riqueza, crimen, corrupción y vista gorda en Londres",
@@ -452,20 +502,10 @@
    "type": "Prensa"
   },
   {
-   "id": "2ce58744a05c",
-   "source": "France 24",
-   "title": "Estados Unidos ordena la suspensión de despegues en todo el país por problemas en las comunicaciones",
-   "description": "",
-   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261113-estados-unidos-ordena-la-suspensi%C3%B3n-de-despegues-en-todo-el-pa%C3%ADs-por-problemas-en-las-comunicaciones",
-   "date": "2026-11-13T22:03:03+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "65aeff1dec95",
    "source": "Al Jazeera",
-   "title": "LIVE: FAA issues US ground stop, some international flights to depart",
-   "description": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
+   "title": "LIVE: FAA reopens airspace after ground stop blamed on ‘outdated equipment’",
+   "description": "US air regulators have reopened airspace hours after a ground stop halted flights nationwide.",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
    "date": "2026-11-13T22:02:07+00:00",
    "category": "Oriente Medio",
@@ -612,16 +652,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7fecae510c00",
-   "source": "Deutsche Welle",
-   "title": "AfD gana fuerza en Alemania, y sus vínculos con el entorno neonazi plantean interrogantes",
-   "description": "El partido Alternativa para Alemania (AfD) se ha convertido en un imán para la extrema derecha. Muchos de sus miembros y colaboradores tienen un pasado en organizaciones etnicistas o neonazis.",
-   "url": "https://www.dw.com/es/afd-gana-fuerza-en-alemania-y-sus-vínculos-con-el-entorno-neonazi-plantean-interrogantes/a-79944191?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-13T20:36:00+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "858290955fc8",
    "source": "Deutsche Welle",
    "title": "Líderes de la UE debaten en Dublín a quién enviar para las conversaciones de paz entre Ucrania y Rusia",
@@ -629,6 +659,16 @@
    "url": "https://www.dw.com/es/líderes-de-la-ue-debaten-en-dublín-a-quién-enviar-para-las-conversaciones-de-paz-entre-ucrania-y-rusia/a-79942235?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-13T20:36:00+00:00",
    "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "7fecae510c00",
+   "source": "Deutsche Welle",
+   "title": "AfD gana fuerza en Alemania, y sus vínculos con el entorno neonazi plantean interrogantes",
+   "description": "El partido Alternativa para Alemania (AfD) se ha convertido en un imán para la extrema derecha. Muchos de sus miembros y colaboradores tienen un pasado en organizaciones etnicistas o neonazis.",
+   "url": "https://www.dw.com/es/afd-gana-fuerza-en-alemania-y-sus-vínculos-con-el-entorno-neonazi-plantean-interrogantes/a-79944191?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-13T20:36:00+00:00",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -679,16 +719,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
    "date": "2026-11-13T20:16:13+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "974730e9ad79",
-   "source": "Radio Cooperativa",
-   "title": "Colo Colo venció a Racing en un amistoso internacional en Concepción",
-   "description": "Colo Colo, flamante campeón del fútbol chileno, enfrenta este viernes a Racing Club de Avellaneda , en un amistoso internacional en Concepción. Sigue en vivo el resultado en Cooperativa.cl. Colo Colo (CHI) 2-1 Racing (ARG). Finalizado . Estadio \"Ester Roa\", Concepción 1-0: 12' Ge",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-vencio-a-racing-en-un-amistoso-internacional-en-concepcion/2026-11-13/171611.html",
-   "date": "2026-11-13T20:16:11+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -992,16 +1022,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d0389fb58da1",
-   "source": "France 24",
-   "title": "\"Bienvenido a casa:\" emoción y alegría en el regreso del papa León XIV a Chiclayo",
-   "description": "🇻🇦🇵🇪 En una emotiva jornada marcada por el regreso del papa León XIV a Chiclayo, ciudad cuya diócesis lideró durante ocho años, cientos de miles de personas llegaron a la base aérea donde aterrizó el pontífice.",
-   "url": "https://www.france24.com/es/video/20261113-bienvenido-a-casa-emoci%C3%B3n-y-alegr%C3%ADa-en-el-regreso-del-papa-le%C3%B3n-xiv-a-chiclayo",
-   "date": "2026-11-13T17:35:38+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "17134aa449c5",
    "source": "BBC Mundo",
    "title": "Camaçari, la ciudad que se transformó con la mayor fábrica de autos chinos de América Latina",
@@ -1029,16 +1049,6 @@
    "url": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany",
    "date": "2026-11-13T17:14:56+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "5a80e160b7ac",
-   "source": "Al Jazeera",
-   "title": "The fight over Canadian steelworker jobs",
-   "description": "Stelco's US owner blames Trump's tariffs for layoffs, but its support for those same tariffs has raised questions.",
-   "url": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss",
-   "date": "2026-11-13T17:10:43+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1112,11 +1122,11 @@
    "type": "Prensa"
   },
   {
-   "id": "c6a7f0ad24c3",
+   "id": "bffdf51bae60",
    "source": "Radio Cooperativa",
-   "title": "[Radio en vivo🎙] La Roja cae en su amistoso frente a Colombia en Cali",
-   "description": "Este viernes, La Roja inicia su fecha FIFA con el primero de sus dos amistosos contra Colombia, arrancando como forastero en Cali. Colombia 1-0 Chile , Segundo tiempo. Estadio \"Pascual Guerrero\". Sigue el Marcador Virtual de Cooperativa.cl y escucha la transmisión de Cooperativa ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/radio-en-vivo-la-roja-cae-en-su-amistoso-frente-a-colombia-en-cali/2026-11-13/121322.html",
+   "title": "[Radio en vivo🎙] La Roja cayó en su amistoso frente a Colombia en Cali",
+   "description": "Este viernes, La Roja inicia su fecha FIFA con el primero de sus dos amistosos contra Colombia, arrancando como forastero en Cali. Colombia 1-0 Chile , Finalizado. Estadio \"Pascual Guerrero\". Sigue el Marcador Virtual de Cooperativa.cl y escucha la transmisión de Cooperativa Depo",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/radio-en-vivo-la-roja-cayo-en-su-amistoso-frente-a-colombia-en-cali/2026-11-13/121322.html",
    "date": "2026-11-13T15:13:22+00:00",
    "category": "América Latina",
    "type": "Prensa"
@@ -1192,16 +1202,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ef459765f039",
-   "source": "Deutsche Welle",
-   "title": "La Unión Europea celebra su primera cumbre sobre inteligencia artificial",
-   "description": "La primera cumbre dedicada exclusivamente a la inteligencia artificial (IA) tiene lugar en Dublín.",
-   "url": "https://www.dw.com/es/la-unión-europea-celebra-su-primera-cumbre-sobre-inteligencia-artificial/a-79939634?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-13T12:13:00+00:00",
-   "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
    "id": "be1db2980188",
    "source": "BBC Mundo",
    "title": "\"Nací en España y un día me miré al espejo y me di cuenta de que era china\"",
@@ -1229,16 +1229,6 @@
    "url": "https://www.bbc.com/mundo/articles/cmd71x5enpz7o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-13T10:55:37+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "4a9d70d6db94",
-   "source": "The Guardian",
-   "title": "Former NSW Liberal MP Rory Amon found guilty of raping 13-year-old boy",
-   "description": "The 37-year-old was convicted in the state’s supreme court months after a different jury failed to reach a verdict on the same charges Get our breaking news email , free app or daily news podcast A former NSW Liberal politician is facing the possibility of a significant jail term",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/13/former-nsw-liberal-mp-rory-amon-found-guilty-of-raping-13-year-old-boy",
-   "date": "2026-11-13T10:45:48+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
