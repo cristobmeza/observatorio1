@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-14T20:31:18.399879+00:00",
+ "updated": "2026-11-14T21:30:04.832829+00:00",
  "items": [
+  {
+   "id": "28287848ffdc",
+   "source": "Deutsche Welle",
+   "title": "Eisenkot: llamado de Netanyahu a negociar “sin condiciones” es “fanfarronada”",
+   "description": "El líder opositor, encargado por el presidente de Israel para formar Gobierno, retó al actual primer ministro a mostrar su voluntad de cambio. Netanyahu “es consciente de su derrota”, aseguró.",
+   "url": "https://www.dw.com/es/eisenkot-llamado-de-netanyahu-a-negociar-sin-condiciones-es-fanfarronada/a-79950135?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-14T20:59:00+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "9c8bd504b954",
+   "source": "France 24",
+   "title": "La inédita captura de Starship: el intento de regresar la nave de SpaceX a la Tierra",
+   "description": "La empresa SpaceX de Elon Musk intenta este sábado 14 de noviembre recuperar la segunda etapa de su megacohete Starship, una maniobra inédita, tras haber abortado la recuperación de la primera por un problema técnico.",
+   "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261114-la-in%C3%A9dita-captura-de-starship-el-intento-de-regresar-la-nave-de-spacex-a-la-tierra",
+   "date": "2026-11-14T20:32:54+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
   {
    "id": "9d4f5e13bb53",
    "source": "Ex-Ante",
@@ -8,6 +28,46 @@
    "description": "Gerald Martin, el hispanista británico que retrató con simpatía a García Márquez y su amistad con Fidel Casto escribió la biografía más dura contra Vargas…",
    "url": "https://www.ex-ante.cl/internacional/gerald-martin-biografia-vargas-llosa/",
    "date": "2026-11-14T20:29:46+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "7b3244f4b8cb",
+   "source": "Radio Cooperativa",
+   "title": "Indagan hallazgo de cuerpo en el Parque Municipal de Maipú",
+   "description": "La Policía de Investigaciones (PDI) inició este sábado una investigación tras el hallazgo de un cuerpo en el Parque Municipal de Maipú , en la Región Metropolitana, cuyas circunstancias todavía no han sido esclarecidas. El descubrimiento se registró durante la jornada en el recin",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/indagan-hallazgo-de-cuerpo-en-el-parque-municipal-de-maipu/2026-11-14/172934.html",
+   "date": "2026-11-14T20:29:34+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "96719bece1f0",
+   "source": "Al Jazeera",
+   "title": "India’s Assam state demolishes homes of 132 Muslim families",
+   "description": "Authorities in India’s Assam have demolished the homes of 132 Muslim families.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
+   "date": "2026-11-14T20:14:10+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "5cde2a69e721",
+   "source": "Radio Cooperativa",
+   "title": "Lichnovsky le respondió a Colo Colo con insultante sobrenombre",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El zaguero de Universidad de Chile Igor Lichnovsky llamó la atención en redes sociales con un inesperado insulto a Colo Colo, como respuesta a las deslenguadas celebraciones del \"Cacique\" contra el elenco azul tras ganar el",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/lichnovsky-le-respondio-a-colo-colo-con-insultante-sobrenombre/2026-11-14/170722.html",
+   "date": "2026-11-14T20:07:22+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "a6a487d4fb4e",
+   "source": "Radio Cooperativa",
+   "title": "Detuvieron a funcionario de Gendarmería por permitir salida irregular de reclusos nocturnos",
+   "description": "Un funcionario de Gendarmería fue detenido durante la madrugada de este sábado en Antofagasta, investigado por presuntamente permitir que personas condenadas a reclusión y arresto nocturno abandonaran el recinto penitenciario sin cumplir las medidas impuestas por la justicia. Seg",
+   "url": "https://www.cooperativa.cl/noticias/pais/judicial/detuvieron-a-funcionario-de-gendarmeria-por-permitir-salida-irregular-de/2026-11-14/165939.html",
+   "date": "2026-11-14T19:59:39+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -302,21 +362,11 @@
    "type": "Prensa"
   },
   {
-   "id": "817492f05524",
+   "id": "c59ab9505cd8",
    "source": "Radio Cooperativa",
-   "title": "Dominio continental: Colo Colo y la U destacan en el top 10 de Sudamérica según prestigioso estudio",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El último reporte elaborado por el Centro Internacional de Estudios del Deporte (CIES Football Observatory) situó a Colo Colo y a Universidad de Chile dentro de los 10 equipos más dominantes de Sudamérica. El estudio, desar",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/dominio-continental-colo-colo-y-la-u-destacan-en-el-top-10-de/2026-11-14/145503.html",
-   "date": "2026-11-14T17:55:03+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "cf6bf27769ea",
-   "source": "Radio Cooperativa",
-   "title": "Coquimbo Unido y O'Higgins definen al primer campeón de la Copa de la Liga",
+   "title": "[Radio en vivo🎙] Coquimbo y O'Higgins definen al primer campeón de la Copa de la Liga",
    "description": "Este sábado, la primera edición de la Copa de la Liga conocerá a su monarca con el duelo entre Coquimbo Unido y O'Higgins. Síguelo junto a Cooperativa: Coquimbo Unido vs. O'Higgins , 18:30 horas. Estadio Santa Laura. Sigue el Marcador Virtual de Cooperativa.cl y escucha la transm",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/coquimbo-unido-y-o-higgins-definen-al-primer-campeon-de-la-copa-de-la-liga/2026-11-14/145313.html",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/radio-en-vivo-coquimbo-y-o-higgins-definen-al-primer-campeon-de-la/2026-11-14/145313.html",
    "date": "2026-11-14T17:53:13+00:00",
    "category": "",
    "type": "Prensa"
@@ -329,16 +379,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
    "date": "2026-11-14T17:50:28+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "330dafad898a",
-   "source": "Radio Cooperativa",
-   "title": "EE.UU. prevé 5.000 vuelos cancelados este sábado antes de volver a la normalidad el domingo",
-   "description": "Las autoridades estadounidenses prevén hasta unas 5.000 cancelaciones de vuelos este sábado , tras el caos provocado por más de cuatro horas de suspensión de despegues la víspera, mientras confían restablecer la normalidad en los aeropuertos para este domingo. \"Prevemos que proba",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/ee-uu-preve-5-000-vuelos-cancelados-este-sabado-antes-de-volver-a-la/2026-11-14/144809.html",
-   "date": "2026-11-14T17:48:09+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -712,16 +752,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a73d90510a2b",
-   "source": "Radio Cooperativa",
-   "title": "EE.UU: Florida se prepara ante una nueva \"lluvia de iguanas\"",
-   "description": "La llegada este sábado de una ola de frío a Florida ha vuelto a activar un aviso ya habitual: la posibilidad de una \"lluvia de iguanas\", especialmente en el sur del estado, donde estos reptiles invasores pueden quedar aturdidos por las bajas temperaturas y caer de los árboles, au",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/sucesos/ee-uu-florida-se-prepara-ante-una-nueva-lluvia-de-iguanas/2026-11-14/104814.html",
-   "date": "2026-11-14T13:48:14+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "341700d6a7dc",
    "source": "Deutsche Welle",
    "title": "Italia multa a Meta con 887 millones de dólares por el acceso no autorizado a datos en dispositivos Android",
@@ -818,16 +848,6 @@
    "description": "Green turtles have been reclassified from endangered to ‘least concern’ in global conservation rankings.",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/green-turtles-move-from-endangered-to-least-concern-status?traffic_source=rss",
    "date": "2026-11-14T12:53:18+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "a0c9ab9d7332",
-   "source": "Al Jazeera",
-   "title": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF",
-   "description": "The SAF successes in Kordofan are seeing the battle against the RSF turn in favour of the Sudanese government.",
-   "url": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf?traffic_source=rss",
-   "date": "2026-11-14T12:49:17+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
@@ -1082,16 +1102,6 @@
    "type": "Prensa"
   },
   {
-   "id": "232baa19e55a",
-   "source": "Deutsche Welle",
-   "title": "EE.UU. afirma que suspensión de vuelos no se debió a un ataque terrorista sino a un fallo de telecomunicaciones",
-   "description": "La medida, que comenzó a afectar vuelos en México, Brasil y Canadá, se debió a \"una interrupción en las telecomunicaciones\", dijo el secretario de Seguridad Nacional, Markwayne Mullin.",
-   "url": "https://www.dw.com/es/ee-uu-afirma-que-suspensión-de-vuelos-no-se-debió-a-un-ataque-terrorista-sino-a-un-fallo-de-telecomunicaciones/a-79946087?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-14T00:31:00+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "a594495744a9",
    "source": "Ex-Ante",
    "title": "Acuerdo con los camioneros: los detalles inéditos de la tensa negociación de 10 horas en La Moneda",
@@ -1129,16 +1139,6 @@
    "url": "https://www.france24.com/es/video/20261113-c%C3%B3mo-influye-el-creador-de-contenido-jordi-wild-en-la-conversaci%C3%B3n-sobre-las-elecciones-espa%C3%B1olas",
    "date": "2026-11-13T23:31:10+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "61d4df906786",
-   "source": "France 24",
-   "title": "Microsoft avanza en la recuperación de sus sistemas tras caída mundial",
-   "description": "Microsoft comenzó a restablecer de forma gradual sus servicios tras una interrupción que afectó a usuarios y organizaciones en distintos países. Aunque la compañía informó avances en la recuperación, algunos clientes continuaban reportando incidencias y problemas de acceso.",
-   "url": "https://www.france24.com/es/video/20261113-microsoft-avanza-en-la-recuperaci%C3%B3n-de-sus-sistemas-tras-ca%C3%ADda-mundial",
-   "date": "2026-11-13T23:30:07+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
