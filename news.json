@@ -1,6 +1,126 @@
 {
- "updated": "2026-11-14T14:37:34.875044+00:00",
+ "updated": "2026-11-14T15:31:00.324276+00:00",
  "items": [
+  {
+   "id": "0b8ea857eea2",
+   "source": "BBC Mundo",
+   "title": "Me dijeron que mi bebé había fallecido... 42 años después me envió un correo electrónico",
+   "description": "Diane Sheehan tuvo a su primer hijo en 1976. Le dijeron que había muerto en el parto, pero no era cierto. Cuatro décadas después se enteró que estaba vivo.",
+   "url": "https://www.bbc.com/mundo/articles/cmlylypz9xldo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T15:24:42+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "b8adb7b769a2",
+   "source": "Radio Cooperativa",
+   "title": "Ojos que Sí Ven: Los desafíos del déficit habitacional en Chile",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/vivienda/ojos-que-si-ven-los-desafios-del-deficit-habitacional-en-chile/2026-11-14/121246.html",
+   "date": "2026-11-14T15:12:46+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "d807e9c3411c",
+   "source": "Al Jazeera",
+   "title": "Canada’s Stelco to recall 175 workers after government pressure",
+   "description": "Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.",
+   "url": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
+   "date": "2026-11-14T15:06:52+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "6cd55871788e",
+   "source": "Radio Cooperativa",
+   "title": "Ortiz y su renovación en Colo Colo: Depende cien por ciento de Mosa",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Tras la consagración en la Liga de Primera, Colo Colo ha estado con un ojo puesto sobre la continuidad del técnico Fernando Ortiz , quien se refirió a las negociaciones con Blanco y Negro. Finalizado el amistoso contra Raci",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-su-renovacion-en-colo-colo-depende-cien-por-ciento-de-mosa/2026-11-14/120106.html",
+   "date": "2026-11-14T15:01:06+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "d128e28f7fb4",
+   "source": "The Guardian",
+   "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
+   "description": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for Hamas A two-hour hearing in Spain’s high court Friday on the US extradition request of wealthy leftwing activist and philanthropist James “Fergie” Chambers turned out to be a study",
+   "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
+   "date": "2026-11-14T15:00:47+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "b8cbcf3a4904",
+   "source": "Radio Cooperativa",
+   "title": "SuperGeek en Cooperativa: La exclusiva edición especial de ROG ALLY X de ASUS",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/tecnologia/industria/informatica/supergeek-en-cooperativa-la-exclusiva-edicion-especial-de-rog-ally-x-de/2026-11-14/115834.html",
+   "date": "2026-11-14T14:58:34+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "f59765815dcf",
+   "source": "Río en Línea",
+   "title": "Cecosf de Collico recibirá inversión de $178 millones para mejorar su infraestructura",
+   "description": "El Centro Comunitario de Salud Familiar (Cecosf) de Collico contará con una serie de mejoras en su infraestructura, luego de que el Concejo Municipal de Valdivia aprobara, durante la sesión del pasado miércoles, la adjudicación de los trabajos de conservación exterior del estable",
+   "url": "https://www.rioenlinea.cl/cecosf-de-collico-recibira-inversion-de-178-millones-para-mejorar-su-infraestructura/",
+   "date": "2026-11-14T14:57:19+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "679ce52eabc1",
+   "source": "Al Jazeera",
+   "title": "Why US Democrats are expected to keep Schumer and Jeffries in power",
+   "description": "The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party.",
+   "url": "https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss",
+   "date": "2026-11-14T14:57:04+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b9d566277eea",
+   "source": "Ex-Ante",
+   "title": "Valparaíso vs. Xiamen: El choque entre China y Chile por la sede del Tratado de Alta Mar",
+   "description": "A días de la reunión entre Kast y Xi Jinping en Shenzhen, Beijing acusó a Chile y Bélgica de pactar a espaldas del resto la…",
+   "url": "https://www.ex-ante.cl/internacional/valparaiso-xiamen-choque-china-chile/",
+   "date": "2026-11-14T14:51:39+00:00",
+   "category": "Derecho internacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "35e7a1e05914",
+   "source": "Al Jazeera",
+   "title": "Empower conference: officials and youth discuss peace and security",
+   "description": "At the Empower Conference in Doha, officials gathered with youth to discuss initiatives for global peace and security.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/empower-conference-officials-and-youth-discuss-peace-and-security?traffic_source=rss",
+   "date": "2026-11-14T14:49:37+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "8d7c53d48ba5",
+   "source": "The Guardian",
+   "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
+   "description": "‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a",
+   "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+   "date": "2026-11-14T14:42:27+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "08d4d88281ad",
+   "source": "Deutsche Welle",
+   "title": "Se cierra la coalición de gobierno de izquierdas para Mecklemburgo-Pomerania Occidental",
+   "description": "Tras el ascenso de AfD en las elecciones regionales, la ministra presidenta Manuela Schwesig (SPD) tuvo que buscar un socio de coalición adicional. Ahora, la alianza tripartita es una realidad.",
+   "url": "https://www.dw.com/es/se-cierra-la-coalición-de-gobierno-de-izquierdas-para-mecklemburgo-pomerania-occidental/a-79948513?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-14T14:36:00+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
   {
    "id": "7ccf1e79b72e",
    "source": "Ex-Ante",
@@ -9,6 +129,46 @@
    "url": "https://www.ex-ante.cl/telon-de-fondo/pregunta-que-deja-huelga-camioneros/",
    "date": "2026-11-14T14:32:30+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "ad4dedaacbc9",
+   "source": "Radio Cooperativa",
+   "title": "Durante la coronación de la Virgen en Chiclayo, el papa lamentó \"la violencia que se generaliza\"",
+   "description": "El papa León XIV coronó este sábado a la Virgen de la Inmaculada en la catedral de la Chiclayo, la diócesis peruana de la que fue obispo durante ocho años, en tiempos en los que \"acechan las tinieblas\" y \"la violencia se generaliza\". En el segundo día de su visita a Chiclayo, el ",
+   "url": "https://www.cooperativa.cl/noticias/mundo/vaticano/papa-leon-xiv/durante-la-coronacion-de-la-virgen-en-chiclayo-el-papa-lamento-la/2026-11-14/113152.html",
+   "date": "2026-11-14T14:31:52+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "eb682758d8cd",
+   "source": "Radio Cooperativa",
+   "title": "Dos choques, cinco detenidos y cuatro carabineros heridos dejó persecución policial en Pudahuel",
+   "description": "Cinco sujetos fueron detenidos y cuatro carabineros resultaron heridos durante un procedimiento policial por un robo con intimidación en la comuna de Pudahuel, Región Metropolitana, que derivó en una persecución y dos accidentes de tránsito. El operativo comenzó en la intersecció",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/dos-choques-cinco-detenidos-y-cuatro-carabineros-heridos-dejo/2026-11-14/113141.html",
+   "date": "2026-11-14T14:31:41+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "4cb1d5acbc0b",
+   "source": "Al Jazeera",
+   "title": "When tech founders leave, what happens to their companies?",
+   "description": "Nvidia could lose 30 percent of its value following cofounder Jensen Huang's decision to step down, analysts warns.",
+   "url": "https://www.aljazeera.com/economy/2026/11/14/when-tech-founders-leave-what-happens-to-their-companies?traffic_source=rss",
+   "date": "2026-11-14T14:24:36+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "c8271fb0b82f",
+   "source": "Radio Cooperativa",
+   "title": "Medio estadio vacío: Baja asistencia marcó derrota de Argentina tras el adiós de Messi",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Argentina perdió 1-2 con Uruguay en su primer partido tras el retiro de Lionel Messi a nivel de selecciones, con la baja asistencia a La Bombonera como lo más comentado del encuentro . Ad portas del inicio del partido se es",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-argentina/medio-estadio-vacio-baja-asistencia-marco-derrota-de-argentina-tras-el/2026-11-14/112239.html",
+   "date": "2026-11-14T14:22:39+00:00",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -112,11 +272,11 @@
    "type": "Prensa"
   },
   {
-   "id": "e02a2a6756a4",
+   "id": "eaaacad1bff5",
    "source": "Radio Cooperativa",
-   "title": "Museo de Bellas Artes se llevó de vívidos colores durante celebración de Noche de Museos",
+   "title": "Museo de Bellas Artes se llenó de vívidos colores durante celebración de Noche de Museos",
    "description": "",
-   "url": "https://www.cooperativa.cl/noticias/cultura/museos/museo-de-bellas-artes-se-llevo-de-vividos-colores-durante-celebracion-de/2026-11-14/103306.html",
+   "url": "https://www.cooperativa.cl/noticias/cultura/museos/museo-de-bellas-artes-se-lleno-de-vividos-colores-durante-celebracion-de/2026-11-14/103306.html",
    "date": "2026-11-14T13:33:06+00:00",
    "category": "",
    "type": "Prensa"
@@ -222,16 +382,6 @@
    "type": "Prensa"
   },
   {
-   "id": "94a671a19d37",
-   "source": "Radio Cooperativa",
-   "title": "Vehículo impactó a personas que efectuaban obras en Ruta 5 Sur: dos muertos",
-   "description": "Un fatal accidente se produjo en la Ruta 5 Sur, a la altura de la comuna de San Bernardo, en el que una camioneta embistió a otra que se encontraba realizando trabajos de mantenimiento en la vía. Los hechos ocurrieron durante la noche en el kilómetro 24, en dirección hacia Santia",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/accidentes-de-transito/vehiculo-impacto-a-personas-que-efectuaban-obras-en-ruta-5-sur-dos/2026-11-14/095404.html",
-   "date": "2026-11-14T12:54:04+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "ab1802cbbb7e",
    "source": "Al Jazeera",
    "title": "Green turtles move from ‘endangered’ to ‘least concern’ status",
@@ -252,36 +402,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5dda63c2b610",
-   "source": "Radio Cooperativa",
-   "title": "Senador Sanhueza: Falta empatía en la oposición con las víctimas que vieron salir a sus abusadores",
-   "description": "El senador Gustavo Sanhueza (UDI) criticó en Cooperativa la acusación constitucional que presentó la oposición en contra del ministro de Justicia , Fernando Rabat , por la reducción de penas a condenados por abuso y violación de menores de edad, apuntando a que el sector busca tr",
-   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/senador-sanhueza-falta-empatia-en-la-oposicion-con-las-victimas-que/2026-11-14/094144.html",
-   "date": "2026-11-14T12:41:44+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "8d7c53d48ba5",
-   "source": "The Guardian",
-   "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
-   "description": "‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a",
-   "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
-   "date": "2026-11-14T12:33:58+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "a77e66815403",
-   "source": "Radio Cooperativa",
-   "title": "Aseguraron que Mauricio Pinilla fue internado de urgencia en una clínica de Santiago",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Un día después de entregar un duro testimonio sobre su depresión , el exdelantero Mauricio Pinilla fue ingresado de urgencia a una clínica del sector oriente de Santiago , de acuerdo con reportes de la prensa de espectáculo",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mauricio-pinilla/aseguraron-que-mauricio-pinilla-fue-internado-de-urgencia-en-una-clinica/2026-11-14/093132.html",
-   "date": "2026-11-14T12:31:32+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "67c8d094a9f3",
    "source": "Al Jazeera",
    "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
@@ -299,16 +419,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
    "date": "2026-11-14T12:14:14+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "2c6928387abc",
-   "source": "Radio Cooperativa",
-   "title": "\"¿Pa' qué fumas?\": Campaña contra la preocupante alza del consumo de tabaco en menores",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/salud/pa-que-fumas-campana-contra-la-preocupante-alza-del-consumo-de/2026-11-14/090939.html",
-   "date": "2026-11-14T12:09:39+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -339,16 +449,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
    "date": "2026-11-14T11:43:06+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "50f1cd45478a",
-   "source": "Radio Cooperativa",
-   "title": "Senador Núñez: El Gobierno no cuenta con los recursos para financiar acuerdo con camioneros",
-   "description": "El senador comunista Daniel Núñez acusó que el Gobierno no tiene los recursos necesarios para financiar el acuerdo con los camioneros -que contempla una rebaja de 142 pesos del diésel y el congelamiento de su valor hasta el 31 de marzo de 2027-, por lo que pidió a Hacienda poster",
-   "url": "https://www.cooperativa.cl/noticias/pais/transportes/senador-nunez-el-gobierno-no-cuenta-con-los-recursos-para-financiar/2026-11-14/083158.html",
-   "date": "2026-11-14T11:31:58+00:00",
-   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -549,46 +649,6 @@
    "url": "https://www.dw.com/es/la-casa-blanca-confirma-la-celebración-de-una-cumbre-inédita-entre-donald-trump-xi-jinping-y-vladimir-putin-la-semana-que-viene/a-79946919?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-14T07:50:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "896d91e20760",
-   "source": "Al Jazeera",
-   "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-   "description": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
-   "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
-   "date": "2026-11-14T07:46:36+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "71bc4268a034",
-   "source": "Al Jazeera",
-   "title": "Missing Australian teenager reunites with his mother",
-   "description": "A 17-year-old Australian teenager who went missing for six days has been reunited with his mother.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/missing-australian-teenager-reunites-with-his-mother?traffic_source=rss",
-   "date": "2026-11-14T07:44:46+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "f015c2076661",
-   "source": "Al Jazeera",
-   "title": "Reijnders’ hat-trick fires Dutch to 7-0 rout of Greece, Germany beat Serbia",
-   "description": "Netherlands' 7-0 annihilation of Greece means the Germans will likely need to win on Monday to reach the quarterfinals.",
-   "url": "https://www.aljazeera.com/sports/2026/11/14/reijnders-hattrick-netherlands-germany-uefa-nations-league-football?traffic_source=rss",
-   "date": "2026-11-14T07:19:20+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "14a515129aa0",
-   "source": "Al Jazeera",
-   "title": "Protesters heckle Hakeem Jeffries at Democratic conference",
-   "description": "US House Minority Leader Hakeem Jeffries faced repeated heckling at a Democratic conference in Denver.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/protesters-heckle-hakeem-jeffries-at-democratic-conference?traffic_source=rss",
-   "date": "2026-11-14T07:18:53+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -942,16 +1002,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2341100ee43d",
-   "source": "Radio Cooperativa",
-   "title": "Coquimbo Unido y O'Higgins buscan hacer historia y ser el campeón de la Copa de la Liga",
-   "description": "Coquimbo Unido y O'Higgins de Rancagua buscarán hacer historia este sábado, cuando se enfrenten desde las 18:30 horas (21:30 GMT) en Santa Laura, en la primera final de la Copa de la Liga de la ANFP. Piratas y celestes intentarán inaugurar el palmarés del nuevo torneo, que además",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/coquimbo-unido-y-o-higgins-buscan-hacer-historia-y-ser-el-campeon-de-la/2026-11-13/185824.html",
-   "date": "2026-11-13T21:58:24+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "5ca4dba4a819",
    "source": "Deutsche Welle",
    "title": "Miles de vuelos afectados en EE.UU. por fallo técnico en centros de control",
@@ -1009,16 +1059,6 @@
    "url": "https://www.france24.com/es/programas/en-contexto/20261113-ee-uu-vs-corea-del-norte-ciberataques-a-binance-reeditan-los-enfrentamientos-entre-viejos-rivales",
    "date": "2026-11-13T20:46:15+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "7a9976a69029",
-   "source": "Ex-Ante",
-   "title": "Resolución bancaria y seguro de depósitos: las lecciones urgentes tras el caso Ueno Bank",
-   "description": "Dotar al país de un marco moderno de resolución y prefondear la garantía de depósitos a plazo son tareas impostergables para blindar la estabilidad financiera…",
-   "url": "https://www.ex-ante.cl/afteroffice/resolucion-bancaria-y-depositos/",
-   "date": "2026-11-13T20:44:51+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1112,16 +1152,6 @@
    "type": "Prensa"
   },
   {
-   "id": "dbeadc058b48",
-   "source": "Río en Línea",
-   "title": "Camioneros ponen fin a movilización en Los Ríos tras acuerdo con el Gobierno",
-   "description": "Los transportistas de carga de la Región de Los Ríos dieron por finalizada su movilización, luego del acuerdo alcanzado entre el Gobierno y los gremios de camioneros a nivel nacional, en medio de las protestas por el sostenido aumento en el precio de los combustibles. El presiden",
-   "url": "https://www.rioenlinea.cl/camioneros-ponen-fin-a-movilizacion-en-los-rios-tras-acuerdo-con-el-gobierno/",
-   "date": "2026-11-13T18:04:06+00:00",
-   "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
    "id": "b7f940f5fca3",
    "source": "The Guardian",
    "title": "Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams",
@@ -1139,16 +1169,6 @@
    "url": "https://www.bbc.com/mundo/watch/c6eq4nwn4e44o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-13T17:29:41+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "45afc83bb128",
-   "source": "The Guardian",
-   "title": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
-   "description": "Mohammed Alfatih rearrested over alleged plot to target Israelis in Europe while detained for attack on bailiff A former Hamas bodyguard convicted of knife crime in the UK is wanted in Germany for allegedly plotting to murder Jewish people. Details of the alleged plot can now be ",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany",
-   "date": "2026-11-13T17:14:56+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1399,16 +1419,6 @@
    "url": "https://www.ciperchile.cl/2026/11/12/tras-adoptar-doctrina-de-que-las-decisiones-de-la-comision-de-rebaja-de-condenas-son-irrevocables-rabat-igual-rechazo-22-reducciones/?utm_source=rss&utm_medium=rss&utm_campaign=tras-adoptar-doctrina-de-que-las-decisiones-de-la-comision-de-rebaja-de-condenas-son-irrevocables-rabat-igual-rechazo-22-reducciones",
    "date": "2026-11-12T23:04:53+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "0e041935ee49",
-   "source": "BBC Mundo",
-   "title": "Cómo el visionario de la IA Jensen Huang cayó en desgracia por sus malas decisiones amorosas",
-   "description": "Zoe Kleinman explica cómo el hombre que construyó Nvidia desde cero lo perdió todo en cuestión de días.",
-   "url": "https://www.bbc.com/mundo/articles/crgqx8yqgevjo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-12T22:17:54+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
