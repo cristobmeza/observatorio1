@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-14T07:54:47.664877+00:00",
+ "updated": "2026-11-14T08:44:18.355823+00:00",
  "items": [
+  {
+   "id": "ae50b044c775",
+   "source": "Al Jazeera",
+   "title": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
+   "description": "Former opener Warner was banned for a year for his involvement in the 2018 'Sandpapergate' incident in South Africa.",
+   "url": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
+   "date": "2026-11-14T08:10:14+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f5dbddb288f3",
+   "source": "Al Jazeera",
+   "title": "Pacers hold off Knicks in NBA Cup thriller, Spurs rout Warriors",
+   "description": "The New York Knicks look unlikely to advance to the NBA Cup knockout rounds after falling to the Indiana Pacers.",
+   "url": "https://www.aljazeera.com/sports/2026/11/14/nba-cup-basketball-pacers-knicks-spurs-warriors?traffic_source=rss",
+   "date": "2026-11-14T08:01:23+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "a9698352c74a",
+   "source": "The Guardian",
+   "title": "Hundreds of children in England prescribed weight-loss jabs, figures show",
+   "description": "Exclusive: investigation finds prescriptions for children under 12, as experts stress need for specialist supervision and long-term monitoring Hundreds of children in England are receiving prescriptions for GLP-1 medications, including some younger than 12, the Guardian can revea",
+   "url": "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs",
+   "date": "2026-11-14T08:00:39+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "509b2366f55b",
+   "source": "The Guardian",
+   "title": "Tout offers £1m of U2 tickets on StubHub, raising questions about ‘bot’ clampdown",
+   "description": "Artists and industry figures call for culture secretary to ‘shut down the touts’ by outlawing resale for profit One tout is advertising £1m of tickets for U2’s long-awaited 2027 tour through StubHub, raising questions about the website’s condemnation of professional ticket trader",
+   "url": "https://www.theguardian.com/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale",
+   "date": "2026-11-14T08:00:39+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "b6c435da37de",
    "source": "Deutsche Welle",
@@ -194,7 +234,7 @@
   {
    "id": "5374153ac01e",
    "source": "Al Jazeera",
-   "title": "US lifts ground stop, but passengers face second day of flight disruption",
+   "title": "US air travel thrown into chaos after nationwide ground stop halts flights",
    "description": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
    "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
    "date": "2026-11-14T05:42:41+00:00",
@@ -602,26 +642,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2821e1b8808e",
-   "source": "Al Jazeera",
-   "title": "UK police open sex offence probe into comedian and author David Walliams",
-   "description": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
-   "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
-   "date": "2026-11-14T00:22:07+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "2647ad129cbe",
-   "source": "Al Jazeera",
-   "title": "Microsoft services begin recovering after global outage",
-   "description": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
-   "date": "2026-11-14T00:17:59+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "8486f4c36bd3",
    "source": "Radio Cooperativa",
    "title": "¿Cuándo y dónde ver el segundo amistoso entre La Roja y Colombia?",
@@ -802,16 +822,6 @@
    "type": "Prensa"
   },
   {
-   "id": "16f42a4a351e",
-   "source": "The Guardian",
-   "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
-   "description": "Exclusive: Report says restricting cars and freeing up pavement space could be a cheap way to bring shoppers back The long decline of the high street is a problem that has gripped British governments for years. But what if there was a solution no one had considered before – doing",
-   "url": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
-   "date": "2026-11-13T21:34:43+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "6d2f0549e48d",
    "source": "BBC Mundo",
    "title": "Cómo el escándalo sexual del gigante tecnológico Nvidia está salpicando a la Casa Blanca",
@@ -859,16 +869,6 @@
    "url": "https://www.dw.com/es/europa-nombra-a-su-equipo-para-conversaciones-de-paz-sobre-ucrania/a-79944989?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-13T20:58:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "e725d9554d93",
-   "source": "The Guardian",
-   "title": "Probation officers in England and Wales vote to strike over pay and workloads",
-   "description": "Move deals blow to government’s plans to release thousands of prisoners early to tackle prison overcrowding The government’s plans to release thousands of prisoners early were dealt a blow on Friday after probation officers across England and Wales voted to strike over pay and ex",
-   "url": "https://www.theguardian.com/society/2026/nov/13/probation-officers-in-england-and-wales-vote-for-strike-action-over-pay-and-workloads",
-   "date": "2026-11-13T20:51:01+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
