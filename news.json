@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-14T05:44:13.749126+00:00",
+ "updated": "2026-11-14T06:48:58.558111+00:00",
  "items": [
+  {
+   "id": "6b5f76981bd7",
+   "source": "Al Jazeera",
+   "title": "Philippine court orders arrest of jailed, US-wanted celebrity preacher",
+   "description": "Palace denies timing of warrant is linked to Trump’s visit to Manila next week.",
+   "url": "https://www.aljazeera.com/news/2026/11/14/philippine-court-orders-arrest-of-jailed-us-wanted-celebrity-preacher?traffic_source=rss",
+   "date": "2026-11-14T06:24:43+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "78dc4b774bd5",
+   "source": "The Guardian",
+   "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
+   "description": "Experts say disruption exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small busin",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+   "date": "2026-11-14T06:19:04+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "6f5ea994f882",
+   "source": "Al Jazeera",
+   "title": "Siege fuels disease fears in Yemen’s Taiz",
+   "description": "Health officials warn that falling numbers of recorded infections may conceal a worsening disease crisis in Taiz.",
+   "url": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz?traffic_source=rss",
+   "date": "2026-11-14T06:17:27+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "c376f1fe9bbe",
+   "source": "Al Jazeera",
+   "title": "Could one daily pill narrow the diabetes treatment gap in the Global South?",
+   "description": "Globally, one in nine people lives with diabetes, as blockbuster injectable drugs begin making way for tablets instead.",
+   "url": "https://www.aljazeera.com/news/2026/11/14/could-one-daily-pill-narrow-the-diabetes-treatment-gap-in-the-global-south?traffic_source=rss",
+   "date": "2026-11-14T06:14:09+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "1d7e4f14fea6",
+   "source": "The Guardian",
+   "title": "UK tells blind Nigerian pensioner to go home to India",
+   "description": "Woman who has lived in UK for 26 years refused indefinite leave to remain under Home Office’s new settlement rules A blind Nigerian pensioner who has lived in the UK for 26 years has been told by the Home Office she can safely “go home” to India. Comfort*, 67, arrived in the UK i",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
+   "date": "2026-11-14T06:00:37+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "d902f2db02e2",
+   "source": "Al Jazeera",
+   "title": "Goalkeeper Owono handed 12-match ban after De Miguel death",
+   "description": "Owono and De Miguel ⁠collided during a Spanish second-tier match between FC Andorra and ​Tenerife on November 2.",
+   "url": "https://www.aljazeera.com/sports/2026/11/14/jesus-de-miguel-death-goalkeeper-owono-12-match-ban-collision-tenerife-andorra?traffic_source=rss",
+   "date": "2026-11-14T05:59:49+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "62eee36234ae",
+   "source": "Al Jazeera",
+   "title": "Paranoid or practical? Britain’s ‘Be Ready’ citizen campaign",
+   "description": "People in England and Wales are rushing to buy tinned goods and wind-up radios - but what's it all for?",
+   "url": "https://www.aljazeera.com/features/2026/11/14/paranoid-or-practical-britains-be-ready-citizen?traffic_source=rss",
+   "date": "2026-11-14T05:51:42+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5374153ac01e",
+   "source": "Al Jazeera",
+   "title": "US lifts ground stop, but passengers face second day of flight disruption",
+   "description": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
+   "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
+   "date": "2026-11-14T05:42:41+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "0a15b722336e",
    "source": "The Guardian",
@@ -359,16 +439,6 @@
    "url": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb",
    "date": "2026-11-14T01:00:30+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "78dc4b774bd5",
-   "source": "The Guardian",
-   "title": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
-   "description": "Experts say outage exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small businesse",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
-   "date": "2026-11-14T00:52:48+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -762,16 +832,6 @@
    "type": "Prensa"
   },
   {
-   "id": "144027453a15",
-   "source": "Al Jazeera",
-   "title": "Qatar and Turkiye send message of deterrence with new defence pact",
-   "description": "Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
-   "date": "2026-11-13T20:48:02+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "a58e842ed47b",
    "source": "France 24",
    "title": "EE. UU. vs Corea del Norte: ciberataques a Binance reeditan los enfrentamientos entre viejos rivales",
@@ -822,16 +882,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7797407c6019",
-   "source": "Al Jazeera",
-   "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
-   "description": "Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss",
-   "date": "2026-11-13T20:32:42+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "f09b08111ddf",
    "source": "Deutsche Welle",
    "title": "¿Puede la UE dificultar el engaño a los consumidores en internet?",
@@ -839,46 +889,6 @@
    "url": "https://www.dw.com/es/¿puede-la-ue-dificultar-el-engaño-a-los-consumidores-en-internet/a-79944812?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-13T20:31:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "258f5ae727b7",
-   "source": "Al Jazeera",
-   "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
-   "description": "The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.",
-   "url": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
-   "date": "2026-11-13T20:28:20+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "1ae3b12e6277",
-   "source": "Al Jazeera",
-   "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
-   "description": "The criminal association charge over his alleged role in the collapse of the bank comes a week after his removal.",
-   "url": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
-   "date": "2026-11-13T20:18:09+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "072f548aee9e",
-   "source": "Al Jazeera",
-   "title": "Microsoft says services still returning amid widespread outage",
-   "description": "Governments, businesses, individuals were disrupted globally as server failures stretch into second day.",
-   "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
-   "date": "2026-11-13T20:16:13+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "9b2698c9d194",
-   "source": "Al Jazeera",
-   "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
-   "description": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever.",
-   "url": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission?traffic_source=rss",
-   "date": "2026-11-13T20:12:34+00:00",
-   "category": "África",
    "type": "Prensa"
   },
   {
@@ -959,16 +969,6 @@
    "url": "https://www.france24.com/es/programas/en-foco/20261113-karachi-sin-luz-protestas-en-la-megaciudad-que-asfixia-a-21-millones-de-personas",
    "date": "2026-11-13T18:56:51+00:00",
    "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "a1ff33a45426",
-   "source": "The Guardian",
-   "title": "Families clear homes of David Walliams books after sexual offence allegations",
-   "description": "Parents take action while several independent bookshops say they had already stopped stocking his titles In Sarah’s house, David Walliams has been a bedtime staple for years. Her children, aged eight, six and four, have dressed up as his characters for World Book Day – they love ",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations",
-   "date": "2026-11-13T18:55:08+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
