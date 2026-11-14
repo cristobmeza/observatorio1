@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-14T13:46:11.206269+00:00",
+ "updated": "2026-11-14T14:37:34.875044+00:00",
  "items": [
+  {
+   "id": "7ccf1e79b72e",
+   "source": "Ex-Ante",
+   "title": "[Telón de fondo] La pregunta que deja la huelga de los camioneros. Por Cristián Bofill",
+   "description": "“Esta vez el presidente Kast tenía al frente a la organización sindical más poderosa de Chile y aplicó una lógica opuesta a la del “bencinazo”.…",
+   "url": "https://www.ex-ante.cl/telon-de-fondo/pregunta-que-deja-huelga-camioneros/",
+   "date": "2026-11-14T14:32:30+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "fe0ce4dad17d",
+   "source": "France 24",
+   "title": "En directo: el papa León XIV continúa sus actividades en Chiclayo y Cajamarca en su cuarto día de visita a Perú",
+   "description": "Este sábado 14 de noviembre, el líder del Vaticano asistió a la coronación de la Virgen Inmaculada en la Catedral de Chiclayo. Se trata de la ciudad que marcó su vida religiosa y donde se desempeñó durante ocho años como obispo. Está programado que también se dirija a Santa Cruz,",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261114-en-directo-el-papa-le%C3%B3n-xiv-contin%C3%BAa-sus-actividades-en-chiclayo-y-cajamarca-en-su-cuarto-d%C3%ADa-de-visita-a-per%C3%BA",
+   "date": "2026-11-14T14:21:09+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "086eb7812270",
+   "source": "The Guardian",
+   "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
+   "description": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham King Asylum seekers accommodated at a controversial military base in East Sussex have been subjected to inadequate welfare checks, and torture survivors ma",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
+   "date": "2026-11-14T14:07:47+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "ba5389c03523",
+   "source": "Ex-Ante",
+   "title": "La nueva normalidad",
+   "description": "Alvarado tiene razón en que Chile necesita normalidad. Lo que no dijo es que la que añora no va a volver, y que la nueva…",
+   "url": "https://www.ex-ante.cl/opinion/la-nueva-normalidad-por-kenneth-bunker/",
+   "date": "2026-11-14T13:57:37+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9e50e286f5cf",
+   "source": "Al Jazeera",
+   "title": "Young musicians connect a community across the Line of Control",
+   "description": "Sharing Shina songs online, musicians in Kashmir, Ladakh and Gilgit-Baltistan renew ties across the divide.",
+   "url": "https://www.aljazeera.com/editorial/longform/2026/11/14/young-musicians-connect-a-community-across-the-line-of-control?traffic_source=rss",
+   "date": "2026-11-14T13:56:07+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "3ee5b27f0a63",
+   "source": "Radio Cooperativa",
+   "title": "\"De autogol en autogol…\": Carmen Tuitera repasó a Maripán tras de derrota de Chile",
+   "description": "La figura de redes sociales Carmen Castillo, conocida como Carmen Tuitera , no dejó pasar el autogol de Guillermo Maripán que significó la derrota de Chile ante Colombia en Cali y lo usó para recordar el conflicto judicial que mantiene con el seleccionado nacional. \"Maripan de au",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/de-autogol-en-autogol-carmen-tuitera-repaso-a-maripan-tras-de/2026-11-14/105051.html",
+   "date": "2026-11-14T13:50:51+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "af805b948337",
+   "source": "Radio Cooperativa",
+   "title": "Seis detenidos y 18 investigados por difundir imágenes de explotación sexual infantil en Italia",
+   "description": "La Policía italiana ha desarticulado una red de difusión de imágenes de explotación sexual infantil a través de la aplicación de mensajería Telegram en una operación que se ha saldado con seis detenidos y otras 18 personas investigadas , informó este sábado el cuerpo policial en ",
+   "url": "https://www.cooperativa.cl/noticias/mundo/italia/seis-detenidos-y-18-investigados-por-difundir-imagenes-de-explotacion/2026-11-14/105050.html",
+   "date": "2026-11-14T13:50:50+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "87a5594da942",
+   "source": "Radio Cooperativa",
+   "title": "Vidal pidió a Zampedri, Aránguiz y Vargas para La Roja: \"No importa la edad\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes En su nuevo rol como comentarista de la selección chilena, Arturo Vidal analizó el amistoso ante Colombia y candidateó a los experimentados Fernando Zampedri, Charles Aránguiz y Eduardo Vargas para vestir nuevamente La Roja",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-pidio-a-zampedri-aranguiz-y-vargas-para-la-roja-no-importa-la/2026-11-14/103818.html",
+   "date": "2026-11-14T13:38:18+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "338a8f98ceb3",
+   "source": "Radio Cooperativa",
+   "title": "Hungría: Hallaron 17,7 millones de euros ocultos en investigación contra exministro de Orbán",
+   "description": "Las autoridades de Hungría encontraron dinero en efectivo por valor de unos 17,7 millones de euros , escondido en distintos lugares del país, durante una investigación por supuesta corrupción contra un exministro del anterior primer ministro, el ultranacionalista Viktor Orbán. Se",
+   "url": "https://www.cooperativa.cl/noticias/mundo/europa/hungria/hungria-hallaron-17-7-millones-de-euros-ocultos-en-investigacion-contra/2026-11-14/103730.html",
+   "date": "2026-11-14T13:37:30+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
   {
    "id": "341700d6a7dc",
    "source": "Deutsche Welle",
@@ -22,6 +112,16 @@
    "type": "Prensa"
   },
   {
+   "id": "e02a2a6756a4",
+   "source": "Radio Cooperativa",
+   "title": "Museo de Bellas Artes se llevó de vívidos colores durante celebración de Noche de Museos",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/cultura/museos/museo-de-bellas-artes-se-llevo-de-vividos-colores-durante-celebracion-de/2026-11-14/103306.html",
+   "date": "2026-11-14T13:33:06+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "2b59ab9cea3d",
    "source": "Radio Cooperativa",
    "title": "Presidente Kast inició viaje a Asia: Su primera parada es Vietnam",
@@ -29,6 +129,16 @@
    "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/presidente-kast-inicio-viaje-a-asia-su-primera-parada-es-vietnam/2026-11-14/102943.html",
    "date": "2026-11-14T13:29:43+00:00",
    "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "b38e5ec9b32d",
+   "source": "Al Jazeera",
+   "title": "How does Iran view shift in US approach after JD Vance ordered away?",
+   "description": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
+   "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
+   "date": "2026-11-14T13:24:44+00:00",
+   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -252,16 +362,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2e99912bff4f",
-   "source": "Radio Cooperativa",
-   "title": "Climatólogo: Fenómeno del Niño nos acompañará al menos durante seis meses más",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/tiempo/climatologo-fenomeno-del-nino-nos-acompanara-al-menos-durante-seis/2026-11-14/082236.html",
-   "date": "2026-11-14T11:22:36+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "0a887f196dea",
    "source": "Al Jazeera",
    "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
@@ -302,16 +402,6 @@
    "type": "Prensa"
   },
   {
-   "id": "086eb7812270",
-   "source": "The Guardian",
-   "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
-   "description": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham King Asylum seekers accommodated at a controversial military base in East Sussex have been subjected to inadequate welfare checks, and torture survivors ma",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
-   "date": "2026-11-14T11:00:43+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "62bbaaf6c7b8",
    "source": "Al Jazeera",
    "title": "Ukraine, Russia race to build military satellite networks as war rages on",
@@ -319,16 +409,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
    "date": "2026-11-14T11:00:39+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "3327ccab368b",
-   "source": "Radio Cooperativa",
-   "title": "EE.UU. y China abordaron por videoconferencia rebajas arancelarias mutuas antes de la APEC",
-   "description": "China y Estados Unidos celebraron la primera reunión de su Consejo de Comercio bilateral, en la que abordaron la aplicación de una reducción recíproca de aranceles sobre productos valorados en unos 60 mil millones de dólares, a pocos días del encuentro previsto entre sus presiden",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/ee-uu-y-china-abordaron-por-videoconferencia-rebajas-arancelarias/2026-11-14/075549.html",
-   "date": "2026-11-14T10:55:49+00:00",
-   "category": "Comercio internacional",
    "type": "Prensa"
   },
   {
@@ -532,26 +612,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8e4517936b12",
-   "source": "Al Jazeera",
-   "title": "The ANC’s implosion was decades in the making",
-   "description": "Zuma squandered Mbeki’s gains, while Ramaphosa’s dithering turned the ANC’s promised renewal into a fight for survival.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/14/the-ancs-implosion-was-decades-in-the-making?traffic_source=rss",
-   "date": "2026-11-14T06:52:40+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "dbb12a386d23",
-   "source": "Al Jazeera",
-   "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
-   "description": "ASEAN summit comes as US president embarks on Asia trip that will see him meet China's Xi.",
-   "url": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
-   "date": "2026-11-14T06:48:14+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "78dc4b774bd5",
    "source": "The Guardian",
    "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
@@ -588,36 +648,6 @@
    "description": "La FAA había ordenado este viernes suspender todos los despegues de vuelos en Estados Unidos, alegando \"circunstancias extraordinarias\" y motivos de seguridad.",
    "url": "https://www.bbc.com/mundo/articles/crgqx8jpw3jvo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-14T04:45:54+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "71adbda89d11",
-   "source": "Radio Cooperativa",
-   "title": "Ecuador logró su primer triunfo con Marcelo Gallardo tras vencer a Costa Rica",
-   "description": "Ecuador venció por 2-0 a Costa Rica en su amistoso disputado en Quito, resultado que significó el primer triunfo de Marcelo Gallardo en la banca de la \"Tri\" y puso fin a la sequía de victorias con la que arrancó su ciclo como seleccionador. Pese a un arranque incómodo ante la pre",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-ecuatoriana/ecuador-logro-su-primer-triunfo-con-marcelo-gallardo-tras-vencer-a-costa/2026-11-14/010057.html",
-   "date": "2026-11-14T04:00:57+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "db96c60a4691",
-   "source": "Radio Cooperativa",
-   "title": "Gabriel Suazo: Más allá de las imprecisiones, jugamos al máximo hasta el final",
-   "description": "Gabriel Suazo , capitán de La Roja, lamentó la derrota ante Colombia en Cali , en el primero de los dos amistosos de la fecha FIFA, pero resaltó la entrega del plantel en el partido. \"Me quedo con la entrega de cada uno. Creo que esa es la base \", comentó el polifuncional capitán",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/gabriel-suazo-mas-alla-de-las-imprecisiones-jugamos-al-maximo-hasta-el/2026-11-14/005815.html",
-   "date": "2026-11-14T03:58:15+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "b4588c10f693",
-   "source": "Radio Cooperativa",
-   "title": "La Casa Blanca atribuyó caos aéreo en EE.UU. a un sistema obsoleto: \"Va a seguir fallando\"",
-   "description": "El Gobierno del presidente de EE.UU., Donald Trump , atribuyó este viernes a la obsolescencia de los sistemas de comunicaciones aérea el fallo que obligó a suspender durante cuatro horas los despegues en todo Estados Unidos y provocó miles de cancelaciones y retrasos . La avería ",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/la-casa-blanca-atribuyo-caos-aereo-en-ee-uu-a-un-sistema-obsoleto-va/2026-11-14/004126.html",
-   "date": "2026-11-14T03:41:26+00:00",
    "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
@@ -912,11 +942,11 @@
    "type": "Prensa"
   },
   {
-   "id": "06def59161b2",
+   "id": "2341100ee43d",
    "source": "Radio Cooperativa",
-   "title": "Coquimbo Unido y O'Higgins quieren hacer historia y quedare con el primer título de la Copa de la Liga",
+   "title": "Coquimbo Unido y O'Higgins buscan hacer historia y ser el campeón de la Copa de la Liga",
    "description": "Coquimbo Unido y O'Higgins de Rancagua buscarán hacer historia este sábado, cuando se enfrenten desde las 18:30 horas (21:30 GMT) en Santa Laura, en la primera final de la Copa de la Liga de la ANFP. Piratas y celestes intentarán inaugurar el palmarés del nuevo torneo, que además",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/coquimbo-unido-y-o-higgins-quieren-hacer-historia-y-quedare-con-el/2026-11-13/185824.html",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/coquimbo-unido-y-o-higgins-buscan-hacer-historia-y-ser-el-campeon-de-la/2026-11-13/185824.html",
    "date": "2026-11-13T21:58:24+00:00",
    "category": "",
    "type": "Prensa"
@@ -1022,16 +1052,6 @@
    "type": "Prensa"
   },
   {
-   "id": "15e35299dfd8",
-   "source": "Ex-Ante",
-   "title": "La Emperatriz, una de las más valiosas series de estos años, en su dramático final",
-   "description": "La producción alemana obliga a mirar y escarbar en la historia cercana, aquella que nos ilumina los caminos por donde hemos llegado hasta hoy. OJO:…",
-   "url": "https://www.ex-ante.cl/cine-y-series/la-emperatriz-mas-valiosas-series/",
-   "date": "2026-11-13T19:56:15+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "24d5472da115",
    "source": "The Guardian",
    "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
@@ -1089,26 +1109,6 @@
    "url": "https://www.dw.com/es/jensen-huang-presunto-espionaje-de-una-de-sus-amantes-y-otras-relaciones-que-dejan-a-nvidia-sin-su-ceo-estrella/a-79943979?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-13T18:54:00+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "89d434d85fba",
-   "source": "France 24",
-   "title": "Directo a... Washington y crecen las críticas al liderazgo de Schumer entre los demócratas",
-   "description": "Chuck Schumer, líder de los demócratas en el Senado desde 2017, anunció tras las elecciones de medio mandato su intención de continuar al frente del bloque. Sin embargo, su aspiración enfrenta cuestionamientos de sectores más progresistas del partido, incluidos algunos senadores ",
-   "url": "https://www.france24.com/es/video/20261113-directo-a-washington-y-crecen-las-cr%C3%ADticas-al-liderazgo-de-schumer-entre-los-dem%C3%B3cratas",
-   "date": "2026-11-13T18:51:55+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "f7e041f6fc50",
-   "source": "Ex-Ante",
-   "title": "Paro de camioneros: Por qué esta vez Kast privilegió lo político en contraste con el “bencinazo”",
-   "description": "A diferencia de lo ocurrido en marzo, cuando prevaleció el criterio fiscal de Hacienda frente al alza de los combustibles, esta vez el Presidente Kast…",
-   "url": "https://www.ex-ante.cl/politica/paro-camioneros-kast-alvarado/",
-   "date": "2026-11-13T18:05:36+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
