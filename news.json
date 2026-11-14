@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-14T15:31:00.324276+00:00",
+ "updated": "2026-11-14T16:31:39.929186+00:00",
  "items": [
+  {
+   "id": "b5c97cc657b8",
+   "source": "Al Jazeera",
+   "title": "Italy fines Meta $880m over photo privacy",
+   "description": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
+   "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
+   "date": "2026-11-14T16:16:15+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2d6b5706cca0",
+   "source": "Al Jazeera",
+   "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+   "description": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+   "date": "2026-11-14T16:13:43+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "aa6fdd374ecb",
+   "source": "Radio Cooperativa",
+   "title": "Córdova valoró duelo con Colombia pese a la derrota: La última vez que vinimos nos llevamos cuatro goles",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-valoro-duelo-con-colombia-pese-a-la-derrota-la-ultima-vez-que/2026-11-14/130924.html",
+   "date": "2026-11-14T16:09:24+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "13ca049a36ae",
+   "source": "The Guardian",
+   "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+   "description": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economy A head of steam is building up behind the Bank of England raising interest rates again. With the latest forecasts by the central bank showing inflation rising to 5% next spring, another ",
+   "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+   "date": "2026-11-14T16:00:48+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "8dc0c2ad9584",
+   "source": "Al Jazeera",
+   "title": "EU calls for immediate humanitarian access to Gaza",
+   "description": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
+   "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+   "date": "2026-11-14T15:57:22+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "06a0d372ea4c",
+   "source": "Radio Cooperativa",
+   "title": "Ministerio de Agricultura llamó a reforzar medidas de prevención de incendios forestales en Los Lagos",
+   "description": "El Ministerio de Agricultura hizo un llamado a reforzar las medidas de prevención de incendios forestales durante este fin de semana, luego que Senapred anunciara una Alerta Temprana Preventiva por altas temperaturas en la Región de Los Lagos. Las condiciones meteorológicas previ",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-los-lagos/ministerio-de-agricultura-llamo-a-reforzar-medidas-de-prevencion-de/2026-11-14/125631.html",
+   "date": "2026-11-14T15:56:31+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e1cf306bd2e5",
+   "source": "Radio Cooperativa",
+   "title": "Néstor Lorenzo, DT de Colombia: \"Chile tiene un equipo muy bien trabajado\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Néstor Lorenzo, director técnico de Colombia, dedicó algunos elogios para la selección chilena después de la victoria por la cuenta mínima sobre La Roja en el primero de los dos amistosos pactados para la presente fecha FIF",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nestor-lorenzo-dt-de-colombia-chile-tiene-un-equipo-muy-bien-trabajado/2026-11-14/125429.html",
+   "date": "2026-11-14T15:54:29+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "26849e077759",
+   "source": "France 24",
+   "title": "Zelenski denuncia presiones de EE. UU. para ceder el Donbass a cambio de entrar en la OTAN",
+   "description": "El presidente ucraniano, Volodímir Zelenski, aseguró que los negociadores estadounidenses propusieron explorar una retirada de las fuerzas de Kiev del Donbass a cambio de la adhesión del país a la OTAN, una posibilidad que calificó de extremadamente difícil y que sometería a refe",
+   "url": "https://www.france24.com/es/europa/20261114-zelenski-denuncia-presiones-de-ee-uu-para-ceder-el-donbass-a-cambio-de-entrar-en-la-otan",
+   "date": "2026-11-14T15:53:08+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "457b2b39de7f",
+   "source": "Radio Cooperativa",
+   "title": "Brasil sufrió la expulsión de Raphinha y perdió contra Japón sobre la hora",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/internacional/brasil-sufrio-la-expulsion-de-raphinha-y-perdio-contra-japon-sobre-la/2026-11-14/123829.html",
+   "date": "2026-11-14T15:38:29+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "3dac79c28f8b",
+   "source": "Al Jazeera",
+   "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+   "description": "Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+   "date": "2026-11-14T15:36:37+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "527adc35b72d",
+   "source": "The Guardian",
+   "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+   "description": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’ Andy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit. Outlining his ",
+   "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+   "date": "2026-11-14T15:34:54+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "0b8ea857eea2",
    "source": "BBC Mundo",
@@ -9,6 +119,36 @@
    "url": "https://www.bbc.com/mundo/articles/cmlylypz9xldo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-14T15:24:42+00:00",
    "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "dbd32874972b",
+   "source": "Radio Cooperativa",
+   "title": "Un funcionario de Gendarmería murió y otro quedó grave tras choque con minibús",
+   "description": "Un funcionario de Gendarmería falleció y otro resultó gravemente herido durante la madrugada de este sábado, luego de que un minibús impactara las motocicletas en las que se desplazaban por la comuna de Colina, Región Metropolitana. El accidente fue reportado cerca de las 04:45 h",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/un-funcionario-de-gendarmeria-murio-y-otro-quedo-grave-tras-choque-con/2026-11-14/122030.html",
+   "date": "2026-11-14T15:20:30+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "a9f447f13b5f",
+   "source": "Radio Cooperativa",
+   "title": "Senapred envió alerta SAE para evitar acercamiento al Río del Carmen por peligro de crecida",
+   "description": "El Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred) envió una alerta SAE preventiva para evitar acercarse al Río del Carmen en la comuna de Alto del Carmen (Región de Atacama), debido a su peligro de crecida. 🔴 #SENAPREDInforma ¡ATENCIÓN! Por alerta de crecid",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-atacama/senapred-envio-alerta-sae-para-evitar-acercamiento-al-rio-del-carmen-por/2026-11-14/121931.html",
+   "date": "2026-11-14T15:19:31+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "3ea32372d92b",
+   "source": "Al Jazeera",
+   "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
+   "description": "The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.",
+   "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss",
+   "date": "2026-11-14T15:14:54+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -102,10 +242,30 @@
    "type": "Prensa"
   },
   {
+   "id": "79d60dcabc8b",
+   "source": "Radio Cooperativa",
+   "title": "Marcador Virtual: Coquimbo Unido vs. O'Higgins",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/marcador-virtual-coquimbo-unido-vs-o-higgins/2026-11-14/114626.html",
+   "date": "2026-11-14T14:46:26+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "5f657f58b432",
+   "source": "Radio Cooperativa",
+   "title": "La Guardia Revolucionaria iraní aseguró haber derribado un dron MQ-1 de EE.UU.",
+   "description": "La Guardia Revolucionaria iraní anunció este sábado que ha derribado un dron estadounidense MQ-1 que entró en el espacio aéreo de la sureña isla de Qeshm, cerca del estrecho de Ormuz, en medio de una escalada de tensiones en la zona, donde ambos países han intercambiado ataques l",
+   "url": "https://www.cooperativa.cl/noticias/mundo/iran/la-guardia-revolucionaria-irani-aseguro-haber-derribado-un-dron-mq-1-de/2026-11-14/114401.html",
+   "date": "2026-11-14T14:44:01+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "8d7c53d48ba5",
    "source": "The Guardian",
    "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
-   "description": "‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a",
+   "description": "‘We have further to go,’ says Huw Pill after increase to 4% this month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a",
    "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
    "date": "2026-11-14T14:42:27+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -174,7 +334,7 @@
   {
    "id": "fe0ce4dad17d",
    "source": "France 24",
-   "title": "En directo: el papa León XIV continúa sus actividades en Chiclayo y Cajamarca en su cuarto día de visita a Perú",
+   "title": "En directo: el papa León XIV llega a Cajamarca en su cuarto día de visita a Perú",
    "description": "Este sábado 14 de noviembre, el líder del Vaticano asistió a la coronación de la Virgen Inmaculada en la Catedral de Chiclayo. Se trata de la ciudad que marcó su vida religiosa y donde se desempeñó durante ocho años como obispo. Está programado que también se dirija a Santa Cruz,",
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261114-en-directo-el-papa-le%C3%B3n-xiv-contin%C3%BAa-sus-actividades-en-chiclayo-y-cajamarca-en-su-cuarto-d%C3%ADa-de-visita-a-per%C3%BA",
    "date": "2026-11-14T14:21:09+00:00",
@@ -212,16 +372,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3ee5b27f0a63",
-   "source": "Radio Cooperativa",
-   "title": "\"De autogol en autogol…\": Carmen Tuitera repasó a Maripán tras de derrota de Chile",
-   "description": "La figura de redes sociales Carmen Castillo, conocida como Carmen Tuitera , no dejó pasar el autogol de Guillermo Maripán que significó la derrota de Chile ante Colombia en Cali y lo usó para recordar el conflicto judicial que mantiene con el seleccionado nacional. \"Maripan de au",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/de-autogol-en-autogol-carmen-tuitera-repaso-a-maripan-tras-de/2026-11-14/105051.html",
-   "date": "2026-11-14T13:50:51+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "af805b948337",
    "source": "Radio Cooperativa",
    "title": "Seis detenidos y 18 investigados por difundir imágenes de explotación sexual infantil en Italia",
@@ -229,26 +379,6 @@
    "url": "https://www.cooperativa.cl/noticias/mundo/italia/seis-detenidos-y-18-investigados-por-difundir-imagenes-de-explotacion/2026-11-14/105050.html",
    "date": "2026-11-14T13:50:50+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "87a5594da942",
-   "source": "Radio Cooperativa",
-   "title": "Vidal pidió a Zampedri, Aránguiz y Vargas para La Roja: \"No importa la edad\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes En su nuevo rol como comentarista de la selección chilena, Arturo Vidal analizó el amistoso ante Colombia y candidateó a los experimentados Fernando Zampedri, Charles Aránguiz y Eduardo Vargas para vestir nuevamente La Roja",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vidal-pidio-a-zampedri-aranguiz-y-vargas-para-la-roja-no-importa-la/2026-11-14/103818.html",
-   "date": "2026-11-14T13:38:18+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "338a8f98ceb3",
-   "source": "Radio Cooperativa",
-   "title": "Hungría: Hallaron 17,7 millones de euros ocultos en investigación contra exministro de Orbán",
-   "description": "Las autoridades de Hungría encontraron dinero en efectivo por valor de unos 17,7 millones de euros , escondido en distintos lugares del país, durante una investigación por supuesta corrupción contra un exministro del anterior primer ministro, el ultranacionalista Viktor Orbán. Se",
-   "url": "https://www.cooperativa.cl/noticias/mundo/europa/hungria/hungria-hallaron-17-7-millones-de-euros-ocultos-en-investigacion-contra/2026-11-14/103730.html",
-   "date": "2026-11-14T13:37:30+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -272,26 +402,6 @@
    "type": "Prensa"
   },
   {
-   "id": "eaaacad1bff5",
-   "source": "Radio Cooperativa",
-   "title": "Museo de Bellas Artes se llenó de vívidos colores durante celebración de Noche de Museos",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/cultura/museos/museo-de-bellas-artes-se-lleno-de-vividos-colores-durante-celebracion-de/2026-11-14/103306.html",
-   "date": "2026-11-14T13:33:06+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "2b59ab9cea3d",
-   "source": "Radio Cooperativa",
-   "title": "Presidente Kast inició viaje a Asia: Su primera parada es Vietnam",
-   "description": "El Presidente José Antonia Kast se encuentra rumbo a Asia, en una gira internacional que lo llevará por Vietnam, China y Japón. El Mandatario es acompañado por una amplia delegación que incluye a líderes empresariales como la presidenta de la Confederación de la Producción y del ",
-   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/presidente-kast-inicio-viaje-a-asia-su-primera-parada-es-vietnam/2026-11-14/102943.html",
-   "date": "2026-11-14T13:29:43+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "b38e5ec9b32d",
    "source": "Al Jazeera",
    "title": "How does Iran view shift in US approach after JD Vance ordered away?",
@@ -309,16 +419,6 @@
    "url": "https://www.bbc.com/mundo/articles/cm70244lv8e1o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-14T13:22:21+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "c385f888b791",
-   "source": "Radio Cooperativa",
-   "title": "Microsoft anunció el restablecimiento total de sus servicios tras la caída técnica",
-   "description": "La tecnológica Microsoft anunció este sábado la restauración completa de sus servicios a los clientes y regiones que todavía no lo habían recuperado, tras la caída técnica que sufrió desde el pasado jueves. \" Hemos completado nuestras actuaciones para resolver la causa del incide",
-   "url": "https://www.cooperativa.cl/noticias/tecnologia/industria/informatica/microsoft-anuncio-el-restablecimiento-total-de-sus-servicios-tras-la/2026-11-14/101442.html",
-   "date": "2026-11-14T13:14:42+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -432,16 +532,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ad84bbad69ee",
-   "source": "The Guardian",
-   "title": "Microsoft says services fully restored after global outage hits governments",
-   "description": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the ",
-   "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
-   "date": "2026-11-14T11:54:31+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "d000b21182f5",
    "source": "Al Jazeera",
    "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
@@ -489,16 +579,6 @@
    "url": "https://www.dw.com/es/estados-unidos-propuso-en-abu-dabi-que-ucrania-ceda-territorio-a-rusia-a-cambio-de-su-adhesión-a-la-otan/a-79947817?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-14T11:06:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "b2846e9a5464",
-   "source": "The Guardian",
-   "title": "Greenpeace boulders may delay building of £12bn windfarms in North Sea",
-   "description": "Activists dumped rocks off Norfolk coast on site of Burnham-backed project in protest against seabed trawling The giant offshore windfarms backed by Andy Burnham this week may face unexpected stumbling blocks after Greenpeace activists unwittingly dumped about 15 tonnes of boulde",
-   "url": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
-   "date": "2026-11-14T11:00:43+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -572,16 +652,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7febf1774f1a",
-   "source": "Al Jazeera",
-   "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
-   "description": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
-   "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
-   "date": "2026-11-14T09:19:43+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d65de7b0d860",
    "source": "Deutsche Welle",
    "title": "Sudán del Sur planea celebrar las primeras elecciones de su historia en febrero tras un nuevo retraso",
@@ -592,26 +662,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f12e314580d3",
-   "source": "Al Jazeera",
-   "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
-   "description": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule.",
-   "url": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
-   "date": "2026-11-14T09:08:21+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "50c9aa401223",
-   "source": "Al Jazeera",
-   "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
-   "description": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
-   "date": "2026-11-14T08:39:07+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "81093d2df935",
    "source": "Deutsche Welle",
    "title": "Irán informa de tres petroleros incendiados por la explosión de minas marinas en el estrecho de Ormuz y renueva sus advertencias",
@@ -619,26 +669,6 @@
    "url": "https://www.dw.com/es/irán-informa-de-tres-petroleros-incendiados-por-la-explosión-de-minas-marinas-en-el-estrecho-de-ormuz-y-renueva-sus-advertencias/a-79946984?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-14T08:32:00+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "ae50b044c775",
-   "source": "Al Jazeera",
-   "title": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
-   "description": "Former opener Warner was banned for a year for his involvement in the 2018 'Sandpapergate' incident in South Africa.",
-   "url": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
-   "date": "2026-11-14T08:10:14+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "f5dbddb288f3",
-   "source": "Al Jazeera",
-   "title": "Pacers hold off Knicks in NBA Cup thriller, Spurs rout Warriors",
-   "description": "The New York Knicks look unlikely to advance to the NBA Cup knockout rounds after falling to the Indiana Pacers.",
-   "url": "https://www.aljazeera.com/sports/2026/11/14/nba-cup-basketball-pacers-knicks-spurs-warriors?traffic_source=rss",
-   "date": "2026-11-14T08:01:23+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -668,6 +698,16 @@
    "description": "La entrada El proyecto sobre denuncias falsas y la cifra que nadie ha medido se publicó primero en CIPER Chile .",
    "url": "https://www.ciperchile.cl/2026/11/14/el-proyecto-sobre-denuncias-falsas-y-la-cifra-que-nadie-ha-medido/?utm_source=rss&utm_medium=rss&utm_campaign=el-proyecto-sobre-denuncias-falsas-y-la-cifra-que-nadie-ha-medido",
    "date": "2026-11-14T07:00:32+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "8815b9c48621",
+   "source": "CIPER Chile",
+   "title": "Seguimos llegando tarde: la epidemia silenciosa de la diabetes",
+   "description": "La entrada Seguimos llegando tarde: la epidemia silenciosa de la diabetes se publicó primero en CIPER Chile .",
+   "url": "https://www.ciperchile.cl/2026/11/14/seguimos-llegando-tarde-la-epidemia-silenciosa-de-la-diabetes/?utm_source=rss&utm_medium=rss&utm_campaign=seguimos-llegando-tarde-la-epidemia-silenciosa-de-la-diabetes",
+   "date": "2026-11-14T07:00:21+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -859,16 +899,6 @@
    "url": "https://www.dw.com/es/microsoft-lamenta-profundamente-problemas-causados-por-caída-global/a-79946074?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-14T00:24:00+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "8486f4c36bd3",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver el segundo amistoso entre La Roja y Colombia?",
-   "description": "Después de la derrota por la mínima en Cali, La Roja recibirá a Colombia en el Estadio Nacional de Santiago este martes 17 de noviembre para cerrar su calendario internacional en la última fecha FIFA de 2026. El partido está programado para las 20:00 horas (23:00 GMT) y será tran",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-segundo-amistoso-entre-la-roja-y-colombia/2026-11-13/204647.html",
-   "date": "2026-11-13T23:46:47+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -1129,16 +1159,6 @@
    "url": "https://f24.my/CHZU",
    "date": "2026-11-13T18:59:20+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "cd2f2dc9855f",
-   "source": "France 24",
-   "title": "Karachi sin luz: protestas en la megaciudad que asfixia a 21 millones de personas",
-   "description": "Los prolongados cortes de electricidad han desatado protestas y bloqueos de carreteras en Karachi, el principal centro económico de Pakistán. Con más de 21 millones de habitantes, la megaciudad acumula problemas cotidianos: contaminación, delincuencia y servicios públicos deficie",
-   "url": "https://www.france24.com/es/programas/en-foco/20261113-karachi-sin-luz-protestas-en-la-megaciudad-que-asfixia-a-21-millones-de-personas",
-   "date": "2026-11-13T18:56:51+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -2072,16 +2092,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8d321c924b96",
-   "source": "CIPER Chile",
-   "title": "Funcionarios de Sernapesca advierten que recortes de presupuesto podrían poner en riesgo su capacidad fiscalizadora",
-   "description": "La entrada Funcionarios de Sernapesca advierten que recortes de presupuesto podrían poner en riesgo su capacidad fiscalizadora se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/10/funcionarios-de-sernapesca-advierten-que-recortes-de-presupuesto-podrian-poner-en-riesgo-su-capacidad-fiscalizadora/?utm_source=rss&utm_medium=rss&utm_campaign=funcionarios-de-sernapesca-advierten-que-recortes-de-presupuesto-podrian-poner-en-riesgo-su-capacidad-fiscalizadora",
-   "date": "2026-11-10T17:57:51+00:00",
-   "category": "Finanzas públicas",
-   "type": "Prensa"
-  },
-  {
    "id": "c9317a6b7ee4",
    "source": "BBC Mundo",
    "title": "Mi hermano murió tras rechazar una transfusión por sus creencias; semanas después los Testigos de Jehová eliminaron esa prohibición",
@@ -2570,16 +2580,6 @@
    "date": "2026-10-10T07:49:45+00:00",
    "category": "",
    "type": "Oficial"
-  },
-  {
-   "id": "dbbc4dc71f68",
-   "source": "Radio Cooperativa",
-   "title": "Cartelera de conciertos 2026 en Chile",
-   "description": "CONCIERTOS 2026 EN CHILE CONCIERTOS NOVIEMBRE 2026 1 de noviembre - Iron Maiden - Estadio Nacional - Entradas 1 de noviembre - Alex Serra y Totidub - Club Chocolate - Entradas 1 de noviembre - Opeth - Santander Arena - Entradas 1 de noviembre - Nicole - Teatro Municipal Valparaís",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html",
-   "date": "2025-12-01T11:21:52+00:00",
-   "category": "",
-   "type": "Prensa"
   },
   {
    "id": "9745c15368a2",
