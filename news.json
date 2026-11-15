@@ -1,11 +1,71 @@
 {
- "updated": "2026-11-15T08:51:05.371107+00:00",
+ "updated": "2026-11-15T09:40:52.028890+00:00",
  "items": [
+  {
+   "id": "d3d10d909c42",
+   "source": "The Guardian",
+   "title": "Digital finance products used to abuse almost 20% of young women and girls, UK report finds",
+   "description": "Survey respondents describe current or former partners controlling bank accounts and taking out credit online without full consent Almost one in five young women and girls in the UK have experienced digital financial products being used as a tool of abuse by a current or former p",
+   "url": "https://www.theguardian.com/society/2026/nov/15/digital-finance-products-abuse-against-young-women-and-girls-report",
+   "date": "2026-11-15T09:22:39+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "f96cdc8fd81a",
+   "source": "The Guardian",
+   "title": "AI cheating scandal rattles South Korea as annual college exam looms",
+   "description": "Fears for national entrance exam next week, as top scorer on tax exam admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠pr",
+   "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+   "date": "2026-11-15T08:56:11+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "50a1383a10f9",
+   "source": "Al Jazeera",
+   "title": "India pulled 500m people out of poverty. Many of them still barely survive",
+   "description": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
+   "url": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
+   "date": "2026-11-15T08:49:47+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "cb5dabb30e06",
+   "source": "Deutsche Welle",
+   "title": "Irán reivindica haber atacado con drones a una base militar estadounidense en Baréin",
+   "description": "Teherán volvió a amenazar con ampliar el alcance geográfico de la guerra si Estados Unidos lanza nuevos ataques contra el país.",
+   "url": "https://www.dw.com/es/irán-reivindica-haber-atacado-con-drones-a-una-base-militar-estadounidense-en-baréin/a-79951394?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-15T08:41:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "bda34114cf6c",
+   "source": "Al Jazeera",
+   "title": "Thousands in Portugal protest against surging rental prices",
+   "description": "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
+   "date": "2026-11-15T08:40:37+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "7629afe7adc4",
+   "source": "Al Jazeera",
+   "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
+   "description": "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.",
+   "url": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss",
+   "date": "2026-11-15T08:29:18+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "2bf1e8140c7f",
    "source": "Al Jazeera",
    "title": "Jordan sentences three men to death by hanging after deadly church attack",
-   "description": "This is a breaking news story.",
+   "description": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
    "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
    "date": "2026-11-15T08:15:04+00:00",
    "category": "Oriente Medio",
@@ -584,30 +644,10 @@
   {
    "id": "999604162dc5",
    "source": "Al Jazeera",
-   "title": "Iran war live: Saudi-led coalition strikes down 3 drones",
-   "description": "Saudi-led coalition says it shot down three Houthi drones in as many hours; Iran says it targeted US base in Bahrain.",
+   "title": "Iran war live: Bahrain targeted as Gulf nations warned against US support",
+   "description": "Bahrain says it intercepted 'treacherous' Iranian attacks as tensions rise over heightened strikes in the Gulf.",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
    "date": "2026-11-15T00:00:08+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "4d0b23f58de8",
-   "source": "Al Jazeera",
-   "title": "Portugal immortalises Ronaldo with a new number 7",
-   "description": "Portugal’s national team has lined up in Cristiano Ronaldo's number 7 in its first match since he retired from the side.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss",
-   "date": "2026-11-14T23:55:18+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "23cf5157bf54",
-   "source": "Al Jazeera",
-   "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-   "description": "Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
-   "date": "2026-11-14T23:34:37+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
@@ -629,16 +669,6 @@
    "url": "https://www.rioenlinea.cl/valdivia-y-punta-arenas-estrechan-alianza-para-impulsar-la-industria-naval-y-el-empleo/",
    "date": "2026-11-14T23:31:39+00:00",
    "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
-   "id": "de806acd1600",
-   "source": "Al Jazeera",
-   "title": "Netanyahu says only a unity government can guarantee Israel’s security",
-   "description": "Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.",
-   "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
-   "date": "2026-11-14T23:01:30+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -689,16 +719,6 @@
    "url": "https://www.france24.com/es/medio-oriente/20261114-eisenkot-as%C3%AD-rebusca-el-opositor-de-netanhayu-la-opci%C3%B3n-menos-mala-para-formar-gobierno-en-israel",
    "date": "2026-11-14T22:24:01+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "2950a3ab1799",
-   "source": "Deutsche Welle",
-   "title": "EE.UU. registra diez muertes por sarampión y más de 5.400 casos en lo que va de 2026",
-   "description": "Las autoridades aseguran que en lo que va de año se han registrado 5.412 casos, más del doble que en 2025. La OPS quitará al país el estatus de libre de sarampión.",
-   "url": "https://www.dw.com/es/ee-uu-registra-diez-muertes-por-sarampión-y-más-de-5-400-casos-en-lo-que-va-de-2026/a-79950308?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-14T22:20:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -899,16 +919,6 @@
    "url": "https://www.france24.com/es/video/20261114-ee-uu-restablece-operaciones-a%C3%A9reas-pero-persisten-retrasos-y-cancelaciones",
    "date": "2026-11-14T17:14:44+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "286f945310a2",
-   "source": "The Guardian",
-   "title": "NHS England on track to miss key cancer treatment target by 10,000 patients",
-   "description": "Exclusive: 2,850 more patients a month would need to be treated within 62 days to meet March 2027 goal, as experts warn of failure of leadership Nearly 10,000 more cancer patients in England will not be treated on time because the government will fail to meet its targets, amid a ",
-   "url": "https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
-   "date": "2026-11-14T17:00:49+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1539,16 +1549,6 @@
    "url": "https://www.ciperchile.cl/2026/11/12/tras-adoptar-doctrina-de-que-las-decisiones-de-la-comision-de-rebaja-de-condenas-son-irrevocables-rabat-igual-rechazo-22-reducciones/?utm_source=rss&utm_medium=rss&utm_campaign=tras-adoptar-doctrina-de-que-las-decisiones-de-la-comision-de-rebaja-de-condenas-son-irrevocables-rabat-igual-rechazo-22-reducciones",
    "date": "2026-11-12T23:04:53+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "d4d9419c7830",
-   "source": "The Guardian",
-   "title": "China rules out hosting Cop33 climate summit in 2028",
-   "description": "Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis China has ruled out hosting the Cop33 UN climate summit in 2028 after months of deliberations, leaving the field open for other Asian countries to hold it, the Guardian understan",
-   "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
-   "date": "2026-11-12T22:00:15+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
