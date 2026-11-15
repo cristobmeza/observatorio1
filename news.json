@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-15T02:48:27.548533+00:00",
+ "updated": "2026-11-15T03:46:48.332429+00:00",
  "items": [
+  {
+   "id": "ad6414f85acf",
+   "source": "Radio Cooperativa",
+   "title": "Filsa inicia su versión 2026 con nutrida agenda familiar, K-pop y lanzamientos editoriales",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/cultura/literatura/ferias-del-libro/filsa-inicia-su-version-2026-con-nutrida-agenda-familiar-k-pop-y/2026-11-15/003102.html",
+   "date": "2026-11-15T03:31:02+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "5f0372caedb2",
+   "source": "Al Jazeera",
+   "title": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
+   "description": "Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
+   "date": "2026-11-15T03:30:29+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b97f39a43efd",
+   "source": "Al Jazeera",
+   "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+   "description": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
+   "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
+   "date": "2026-11-15T02:59:06+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "6a2ee120fc5b",
+   "source": "Radio Cooperativa",
+   "title": "¿Qué causó el destello en el cielo de Chile? Seremi explicó paso de un bólido y descartó riesgos",
+   "description": "El destello luminoso y posterior estruendo que sorprendió a la zona centro-sur de Chile correspondió a la desintegración de un bólido espacial al entrar en contacto con la atmósfera terrestre , según confirmaron las autoridades científicas tras los reportes registrados durante la",
+   "url": "https://www.cooperativa.cl/noticias/sociedad/astronomia/que-causo-el-destello-en-el-cielo-de-chile-seremi-explico-paso-de-un/2026-11-14/235838.html",
+   "date": "2026-11-15T02:58:38+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "6249f4bba34b",
    "source": "France 24",
@@ -262,16 +302,6 @@
    "type": "Prensa"
   },
   {
-   "id": "550e9f2c2240",
-   "source": "Radio Cooperativa",
-   "title": "Santiago Parade congregó a 80 mil personas en el centro de la capital",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/santiago-parade-congrego-a-80-mil-personas-en-el-centro-de-la-capital/2026-11-14/210555.html",
-   "date": "2026-11-15T00:05:55+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "46d71f7a2518",
    "source": "Radio Cooperativa",
    "title": "Coquimbo Unido alzó la Copa de la Liga con doblete de Luis Riveros ante O'Higgins",
@@ -282,20 +312,10 @@
    "type": "Prensa"
   },
   {
-   "id": "ae949a21e759",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] Cristiano fue homenajeado en el minuto 7 del partido de Portugal y Dinamarca",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Los aficionados de Portugal rindieron homenaje este sábado a Cristiano Ronaldo durante el minuto 7 del partido contra Dinamarca , el primero desde que se anunciara su retiro de la mayor figura en la historia del fútbol del ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/cristiano-ronaldo/video-cristiano-fue-homenajeado-en-el-minuto-7-del-partido-de-portugal/2026-11-14/210202.html",
-   "date": "2026-11-15T00:02:02+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "999604162dc5",
    "source": "Al Jazeera",
-   "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
-   "description": "Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.",
+   "title": "Iran war live: Saudi-led coalition strikes down 3 drones in as many hours",
+   "description": "Saudi-led coalition strikes down three Houthi drones in as many hours, as Bahrain issues potential danger alert.",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
    "date": "2026-11-15T00:00:08+00:00",
    "category": "Oriente Medio",
@@ -575,7 +595,7 @@
    "id": "4828c59ac4f5",
    "source": "Al Jazeera",
    "title": "More than 100,000 rally across France in new Yellow Vest protests",
-   "description": "Protesters chanted against declining affordability, the Macron government, police violence and poor school conditions.",
+   "description": "Protesters chant against declining affordability, the Macron government, police violence, and poor school conditions.",
    "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
    "date": "2026-11-14T19:46:24+00:00",
    "category": "Oriente Medio",
@@ -692,16 +712,6 @@
    "type": "Prensa"
   },
   {
-   "id": "117706b7902b",
-   "source": "Al Jazeera",
-   "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
-   "description": "Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.",
-   "url": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
-   "date": "2026-11-14T18:02:53+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "7735bad72872",
    "source": "The Guardian",
    "title": "Family of Watford woman set alight ‘desperate for answers’ after attack",
@@ -719,16 +729,6 @@
    "url": "https://www.ex-ante.cl/opinion/acuicultura-hacer-como-si-nada-ocurriese/",
    "date": "2026-11-14T17:59:05+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "48008014b7b1",
-   "source": "Al Jazeera",
-   "title": "Rising costs and arrests fuel protests in Central African Republic",
-   "description": "Hundreds take to the streets of Bangui to protest rising fuel prices and arrests in the Central African Republic.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
-   "date": "2026-11-14T17:50:28+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
