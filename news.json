@@ -1,14 +1,74 @@
 {
- "updated": "2026-11-15T10:38:28.175286+00:00",
+ "updated": "2026-11-15T11:33:34.055218+00:00",
  "items": [
   {
    "id": "0d2300e664fc",
    "source": "The Guardian",
    "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
-   "description": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet Here’s a recap of what the various sides have said this morning regarding the latest Iranian strikes targeting a US air base in Bahrain. Iran’s Revolutionary Guards: The US air defence radar sy",
+   "description": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet The US thinks Iran still has between 1,500-2,500 missiles in its arsenal despite the US-Israeli damage done this year to its production facilities, reports the Wall St Journal. That’s the “low ",
    "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-   "date": "2026-11-15T10:33:04+00:00",
+   "date": "2026-11-15T11:23:53+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a9d5a0295dc9",
+   "source": "The Guardian",
+   "title": "Protest in Prague over media freedom expected to be one of biggest in Czechia’s history",
+   "description": "Hundreds of thousands expected to rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs are expected to rally in Prague on Sunday to protest against what they say is a government attempt to stifle media freedom. The gathe",
+   "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+   "date": "2026-11-15T11:17:18+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "eb56c85c7cd9",
+   "source": "Deutsche Welle",
+   "title": "El Ejército yemení se retira de Bab al Mandeb para reforzar Adén ante el avance de la ofensiva hutí",
+   "description": "Los rebeldes hutíes amplían su control sobre el estrecho, una importante vía marítima que da acceso al Canal de Suez desde el Índico.",
+   "url": "https://www.dw.com/es/el-ejército-yemení-se-retira-de-bab-al-mandeb-para-reforzar-adén-ante-el-avance-de-la-ofensiva-hutí/a-79951870?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-15T11:15:00+00:00",
+   "category": "Conflictos armados y seguridad internacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "c2642759458e",
+   "source": "Al Jazeera",
+   "title": "Police confront protesters in clashes across France and Germany",
+   "description": "Tens of thousands took to the streets in cities across France and Germany over rising living costs.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
+   "date": "2026-11-15T11:04:10+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "3de2cc2d2b5b",
+   "source": "Al Jazeera",
+   "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+   "description": "Ukraine's NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.",
+   "url": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
+   "date": "2026-11-15T10:58:36+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "93d637da752b",
+   "source": "Al Jazeera",
+   "title": "India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression",
+   "description": "India beat Pakistan by one wicket in a thrilling comeback in the final but follow it up with unsporting behaviour.",
+   "url": "https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss",
+   "date": "2026-11-15T10:52:36+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "dd2481985bb4",
+   "source": "BBC Mundo",
+   "title": "La conmoción en Panamá tras el ataque con explosivos contra la casa de un periodista",
+   "description": "Rolando Rodríguez, el periodista cuya casa fue atacada, estaba investigando un presunto caso de corrupción en el país.",
+   "url": "https://www.bbc.com/mundo/articles/cj62pl46r351o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T10:40:24+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -432,16 +492,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b97f39a43efd",
-   "source": "Al Jazeera",
-   "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
-   "description": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
-   "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-   "date": "2026-11-15T02:59:06+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "6a2ee120fc5b",
    "source": "Radio Cooperativa",
    "title": "¿Qué causó el destello en el cielo de Chile? Seremi explicó paso de un bólido y descartó riesgos",
@@ -532,16 +582,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3adc19a5122a",
-   "source": "Al Jazeera",
-   "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-   "description": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
-   "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
-   "date": "2026-11-15T01:54:55+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "7354d7f7792e",
    "source": "The Guardian",
    "title": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
@@ -559,16 +599,6 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/coquimbo/diego-sanchez-dijeron-que-no-ibamos-a-celebrar-mas-y-aqui-estamos/2026-11-14/224823.html",
    "date": "2026-11-15T01:48:23+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a40028f51cff",
-   "source": "Al Jazeera",
-   "title": "Netanyahu sends plea to Eisenkot for unity government",
-   "description": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
-   "date": "2026-11-15T01:33:11+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -709,16 +739,6 @@
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261114-volver%C3%A9-le%C3%B3n-xiv-cumple-su-promesa-y-regresa-a-la-localidad-andina-que-visitaba-como-obispo-de-chiclayo",
    "date": "2026-11-14T22:54:34+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "cc7f12313d15",
-   "source": "Deutsche Welle",
-   "title": "Microsoft restablece sus servicios tras falla que afectó a millones de usuarios",
-   "description": "La compañía, que descartó actividad maliciosa tras lo sucedido, se disculpó con sus millones de clientes y prometió un informe acabado una vez que finalice una investigación.",
-   "url": "https://www.dw.com/es/microsoft-restablece-sus-servicios-tras-falla-que-afectó-a-millones-de-usuarios/a-79950318?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-14T22:54:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -1262,16 +1282,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c763066643ef",
-   "source": "The Guardian",
-   "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
-   "description": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security The EU’s foreign policy chief has warned against “walking into the traps that Russia is setting” as she said Moscow was trying to start a debate about European security",
-   "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
-   "date": "2026-11-13T20:38:25+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "7fecae510c00",
    "source": "Deutsche Welle",
    "title": "AfD gana fuerza en Alemania, y sus vínculos con el entorno neonazi plantean interrogantes",
@@ -1779,16 +1789,6 @@
    "url": "https://www.bbc.com/mundo/articles/cm75pk2zx53xo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-11T18:19:55+00:00",
    "category": "Conflictos armados y seguridad internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "64e50979f2e3",
-   "source": "BBC Mundo",
-   "title": "Quién es Wilson \"Lanmò San Jou\" Joseph, el poderoso líder pandillero de Haití cuya casa Bukele dice haber destruido",
-   "description": "Dirigente de 400 Mawozo, ha sido acusado formalmente por las autoridades estadounidenses de secuestro. Además, el FBI ofrece una recompensa de hasta US$1 millón por información que conduzca a su captura.",
-   "url": "https://www.bbc.com/mundo/articles/cmzx96kk0ly7o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-11T18:10:57+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
