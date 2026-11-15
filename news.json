@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-15T03:46:48.332429+00:00",
+ "updated": "2026-11-15T04:49:13.731370+00:00",
  "items": [
+  {
+   "id": "f1141f0bba4e",
+   "source": "Al Jazeera",
+   "title": "Zimbabwe’s HIV gains face a test among young people",
+   "description": "New prevention tools offer hope, but reaching young people remains a challenge.",
+   "url": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss",
+   "date": "2026-11-15T04:13:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "7f18bcda487f",
+   "source": "The Guardian",
+   "title": "World leaders head to Asia for back-to-back diplomatic summits",
+   "description": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings The global political centre of gravity will be firmly in Asia this week as world leaders fly in for back-to-back high-level summits against the backdrop of t",
+   "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+   "date": "2026-11-15T04:00:02+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "dec005c978ef",
+   "source": "Deutsche Welle",
+   "title": "Coalición saudí intercepta dos misiles balísticos disparados hacia Riad",
+   "description": "En las últimas semanas, los hutíes han lanzado ataques contra una serie de objetivos saudíes, varios en la capital.",
+   "url": "https://www.dw.com/es/coalición-saudí-intercepta-dos-misiles-balísticos-disparados-hacia-riad/a-79950583?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-15T04:00:00+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "ad4a0e0a1082",
+   "source": "The Guardian",
+   "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
+   "description": "Prime minister says he and Chris Bowen were having ‘light-hearted banter’ when they were caught discussing where they keep their phones Get our daily political email , free app or daily news podcast Anthony Albanese has apologised for a hot-mic gaffe at the UN climate talks in Tu",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk",
+   "date": "2026-11-15T03:49:21+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "ce7828feeb87",
+   "source": "Radio Cooperativa",
+   "title": "Por crecida: Senapred llamó a evitar acercarse a la ribera del Río Choapa en Salamanca",
+   "description": "Por alerta de crecida , el Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred) llamó la madrugada de este domingo a evitar acercarse a la ribera del Río Choapa , en el sector Chillepin , comuna de Salamanca , Región de Coquimbo . Para reforzar el alertamiento pr",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-coquimbo/por-crecida-senapred-llamo-a-evitar-acercarse-a-la-ribera-del-rio/2026-11-15/004640.html",
+   "date": "2026-11-15T03:46:40+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9c86f4c2b2ac",
+   "source": "Al Jazeera",
+   "title": "Monkey attacks woman inside residential complex in India",
+   "description": "A woman was attacked and repeatedly bitten by a monkey at a residential apartment complex in India’s Gujarat state.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss",
+   "date": "2026-11-15T03:39:39+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
   {
    "id": "ad6414f85acf",
    "source": "Radio Cooperativa",
@@ -269,16 +329,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
    "date": "2026-11-15T00:27:14+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "5ccae3586676",
-   "source": "Radio Cooperativa",
-   "title": "Palmarés: Coquimbo Unido conquistó la primera edición de la Copa de la Liga",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Coquimbo Unido conquistó la primera edición de la Copa de la Liga tras superar por 3-0 a O'Higgins en el Estadio Santa Laura de Santiago este sábado, resultado con el que inauguró el historial del certamen y aseguró el cupo",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/palmares-coquimbo-unido-conquisto-la-primera-edicion-de-la-copa-de-la/2026-11-14/211740.html",
-   "date": "2026-11-15T00:17:40+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -612,16 +662,6 @@
    "type": "Prensa"
   },
   {
-   "id": "51388b71ba42",
-   "source": "Al Jazeera",
-   "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
-   "description": "In Santa Cruz de Succhabamba, the pope told people not to respond to injustice with brutality.",
-   "url": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss",
-   "date": "2026-11-14T19:20:11+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "341f803efe17",
    "source": "France 24",
    "title": "Honduras borra grafitis de pandillas que delimitan zonas de influencia",
@@ -672,16 +712,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ecaf5f4337c4",
-   "source": "The Guardian",
-   "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
-   "description": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email , free app or daily news podcast The outspoken Liberal senator Andrew McLachlan has raised the alarm abo",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
-   "date": "2026-11-14T19:00:52+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "97277e1a0d09",
    "source": "Deutsche Welle",
    "title": "Nuevas protestas en Francia por el costo de la vida y los servicios públicos",
@@ -699,16 +729,6 @@
    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261114-ee-uu-excluye-a-nvidia-de-la-agenda-de-trump-y-xi-mientras-empleados-presionan-por-el-regreso-de-jensen-huang",
    "date": "2026-11-14T18:51:24+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "771087e95d54",
-   "source": "Al Jazeera",
-   "title": "US blames outdated technology for nationwide flight disruption",
-   "description": "US blames outdated technology for nationwide flight disruption",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
-   "date": "2026-11-14T18:32:40+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1059,16 +1079,6 @@
    "url": "https://www.dw.com/es/estados-unidos-propuso-en-abu-dabi-que-ucrania-ceda-territorio-a-rusia-a-cambio-de-su-adhesión-a-la-otan/a-79947817?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-14T11:06:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "d65de7b0d860",
-   "source": "Deutsche Welle",
-   "title": "Sudán del Sur planea celebrar las primeras elecciones de su historia en febrero tras un nuevo retraso",
-   "description": "El país, que desde su independencia en 2011 no había celebrado todavía elecciones generales, aplaza 51 días los comicios, previstos inicialmente para el 22 de diciembre, hasta el 11 de febrero.",
-   "url": "https://www.dw.com/es/sudán-del-sur-planea-celebrar-las-primeras-elecciones-de-su-historia-en-febrero-tras-un-nuevo-retraso/a-79947309?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-14T09:09:00+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1689,16 +1699,6 @@
    "url": "https://www.bbc.com/mundo/articles/c6x2enpm544zo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-12T11:19:20+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "32cb1f3315b0",
-   "source": "The Guardian",
-   "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
-   "description": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning. Espionage is supposed to be a secretive busines",
-   "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
-   "date": "2026-11-12T06:43:31+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
