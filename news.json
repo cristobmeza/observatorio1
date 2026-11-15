@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-15T05:46:51.563191+00:00",
+ "updated": "2026-11-15T06:53:26.910749+00:00",
  "items": [
+  {
+   "id": "e73631795577",
+   "source": "The Guardian",
+   "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+   "description": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine Australia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn tha",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+   "date": "2026-11-15T06:22:32+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "672206234e16",
+   "source": "Al Jazeera",
+   "title": "Secret votes and vetoes: How will the next UN chief be picked?",
+   "description": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
+   "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
+   "date": "2026-11-15T06:11:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "26aae39ab3a7",
+   "source": "The Guardian",
+   "title": "Gymshark in trademark battle that threatens future of small fitness business",
+   "description": "Exclusive: British sportswear firm is seeking to obtain rights to The Conditioning Club, which is also the name of a Gloucestershire gym Gymshark, the £1bn British sportswear firm started in a family garage , is locked in a trademark battle that threatens the future of a small fi",
+   "url": "https://www.theguardian.com/law/2026/nov/15/gymshark-trademark-battle-the-conditioning-club-gloucestershire",
+   "date": "2026-11-15T06:00:07+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "2f20504b1b9f",
+   "source": "The Guardian",
+   "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
+   "description": "International court of justice has never before found a state guilty of genocide, and ruling will have implications for case against Israel The world’s top court will deliver a judgment this week on whether Myanmar committed genocide against its Rohingya minority, in a landmark c",
+   "url": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
+   "date": "2026-11-15T06:00:05+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2cf8526d06a5",
+   "source": "The Guardian",
+   "title": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
+   "description": "Thames Water says detainees at proposed accommodation should expect to experience insect swarms and strong smells A Home Office plan to build asylum seeker detention facilities next to a sewage pump is facing objections after water company officials warned that detainees should e",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
+   "date": "2026-11-15T06:00:05+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "42fda7786f18",
+   "source": "Deutsche Welle",
+   "title": "Una jueza federal suspende cierre de parque vinculado a proyecto de golf de Donald Trump",
+   "description": "Un juez federal bloquea de nuevo el plan de remodelación de Trump para un campo de golf en la capital de Estados Unidos.",
+   "url": "https://www.dw.com/es/una-jueza-federal-suspende-cierre-de-parque-vinculado-a-proyecto-de-golf-de-donald-trump/a-79950890?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-15T05:55:00+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
   {
    "id": "8a526bb6b1aa",
    "source": "Deutsche Welle",
@@ -144,7 +204,7 @@
   {
    "id": "b97f39a43efd",
    "source": "Al Jazeera",
-   "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+   "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
    "description": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
    "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
    "date": "2026-11-15T02:59:06+00:00",
@@ -158,6 +218,26 @@
    "description": "El destello luminoso y posterior estruendo que sorprendió a la zona centro-sur de Chile correspondió a la desintegración de un bólido espacial al entrar en contacto con la atmósfera terrestre , según confirmaron las autoridades científicas tras los reportes registrados durante la",
    "url": "https://www.cooperativa.cl/noticias/sociedad/astronomia/que-causo-el-destello-en-el-cielo-de-chile-seremi-explico-paso-de-un/2026-11-14/235838.html",
    "date": "2026-11-15T02:58:38+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "895f6bffb668",
+   "source": "France 24",
+   "title": "Zelenski confirma que EE. UU. le propuso a Kiev ceder territorio a cambio de adhesión a la OTAN",
+   "description": "El presidente ucraniano Volodímir Zelenski reveló que negociadores de Estados Unidos plantearon por primera vez la posibilidad de que Ucrania se retire de parte del Donbás y ceda esos territorios a Rusia a cambio de una eventual adhesión a la OTAN. La aceptación de dicha oferta r",
+   "url": "https://www.france24.com/es/video/20261115-zelenski-confirma-que-ee-uu-le-propuso-a-kiev-ceder-territorio-a-cambio-de-adhesi%C3%B3n-a-la-otan",
+   "date": "2026-11-15T02:47:08+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "fea67b8c1ec8",
+   "source": "France 24",
+   "title": "Guatemala honra a Miguel Ángel Asturias con una ceremonia maya",
+   "description": "Las autoridades ancestrales de Guatemala y la Premio Nobel de la Paz, Rigoberta Menchú, participaron en una ceremonia maya en honor al escritor Miguel Ángel Asturias, una de las figuras más influyentes de la literatura latinoamericana y ganador del Premio Nobel de Literatura en 1",
+   "url": "https://www.france24.com/es/video/20261115-guatemala-honra-a-miguel-%C3%A1ngel-asturias-con-una-ceremonia-maya",
+   "date": "2026-11-15T02:45:48+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -682,16 +762,6 @@
    "type": "Prensa"
   },
   {
-   "id": "fee79821d1ae",
-   "source": "Al Jazeera",
-   "title": "Can being ‘non-Western’ cost you your home in Denmark?",
-   "description": "Denmark’s Supreme Court is set to rule on whether families can be forced from their homes under a law.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
-   "date": "2026-11-14T19:52:49+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "341f803efe17",
    "source": "France 24",
    "title": "Honduras borra grafitis de pandillas que delimitan zonas de influencia",
@@ -729,16 +799,6 @@
    "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
    "date": "2026-11-14T19:01:32+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "76136cc25374",
-   "source": "The Guardian",
-   "title": "Even Labor MPs are at a loss over the Victorian premier’s ‘tough love’ plan for youth offenders",
-   "description": "Parliamentarians across factional lines share concerns about policy that legal expert says ‘paints the imprisonment of children as therapeutic’ Get our daily political email , free app or daily news podcast Until December last year, Meena Singh was Victoria’s commissioner for Abo",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb",
-   "date": "2026-11-14T19:00:53+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -862,16 +922,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7ed1de0fae68",
-   "source": "Deutsche Welle",
-   "title": "EE.UU.: miles de pasajeros siguen afectados tras caos por suspensión de vuelos",
-   "description": "El secretario de Transportes, Sean Duffy, dijo que las operaciones recobran poco a poco su normalidad, aunque es esperable que esta jornada también haya problemas.",
-   "url": "https://www.dw.com/es/ee-uu-miles-de-pasajeros-siguen-afectados-tras-caos-por-suspensión-de-vuelos/a-79949266?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-14T16:57:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "7153374e6765",
    "source": "CIPER Chile",
    "title": "Lo que el presupuesto no dice en educación",
@@ -892,16 +942,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c334b8ae1c8d",
-   "source": "The Guardian",
-   "title": "Cold weather health alerts issued for parts of UK on Sunday night",
-   "description": "UKHSA warns of threat to vulnerable people from frosty conditions expected to last until Thursday More cold health alerts have been issued for parts of the UK on Sunday night and next week. The alerts were issued by the UK Health Security Agency (UKHSA) for the north-west, West M",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
-   "date": "2026-11-14T16:42:04+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "df9d617c4d84",
    "source": "France 24",
    "title": "Francia despliega 70.000 policías ante quinto sábado de protestas antigubernamentales",
@@ -919,16 +959,6 @@
    "url": "https://www.dw.com/es/premio-werner-holzer-de-periodismo-para-katja-gloger-y-jaafar-abdul-karim-de-deutsche-welle/a-79947781?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-14T16:24:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "13ca049a36ae",
-   "source": "The Guardian",
-   "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
-   "description": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economy A head of steam is building up behind the Bank of England raising interest rates again. With the latest forecasts by the central bank showing inflation rising to 5% next spring, another ",
-   "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
-   "date": "2026-11-14T16:00:48+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1139,26 +1169,6 @@
    "url": "https://www.bbc.com/mundo/articles/crn80jqyw993o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-14T03:06:55+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "be5b69c57d4e",
-   "source": "France 24",
-   "title": "Colombia: el Fondo Milagro y la reconstrucción del terremoto ponen presión a De la Espriella",
-   "description": "La gestión de los recursos para la reconstrucción tras el terremoto enfrenta nuevas críticas. Este viernes renunció el gerente del Fondo Milagro, entidad creada para administrar los recursos destinados a la emergencia, en medio de cuestionamientos por su gestión. La polémica se i",
-   "url": "https://www.france24.com/es/video/20261114-colombia-el-fondo-milagro-y-la-reconstrucci%C3%B3n-del-terremoto-ponen-presi%C3%B3n-a-de-la-espriella",
-   "date": "2026-11-14T02:51:17+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "b8e7b18de73b",
-   "source": "France 24",
-   "title": "Luis Quiñones: \"No se sabe si la falla en las comunicaciones en EE. UU. fue accidental o provocada\"",
-   "description": "Una falla en las comunicaciones de los centros de control aéreo obligó a la Administración Federal de Aviación (FAA) a suspender temporalmente despegues y aterrizajes en Estados Unidos. El problema afectó los sistemas utilizados para coordinar el tráfico aéreo, una herramienta es",
-   "url": "https://www.france24.com/es/video/20261114-luis-qui%C3%B1ones-no-se-sabe-si-la-falla-en-las-comunicaciones-de-ee-uu-fue-accidental-o-provocada",
-   "date": "2026-11-14T02:39:23+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -2480,16 +2490,6 @@
    "date": "2026-11-03T12:00:00+00:00",
    "category": "África",
    "type": "Oficial"
-  },
-  {
-   "id": "d24ccd75ac22",
-   "source": "The Guardian",
-   "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
-   "description": "Guardian and Mongabay reveal approaches to officials and MPs on behalf of Vantara zoo ahead of UK-chaired Cites meeting on endangered animal imports British government ministers were told not to engage formally with Vantara, the controversial mega-zoo run by the Indian billionair",
-   "url": "https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites",
-   "date": "2026-11-03T06:00:39+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
   },
   {
    "id": "c2b3519c2e63",
