@@ -1,14 +1,164 @@
 {
- "updated": "2026-11-14T23:29:36.970001+00:00",
+ "updated": "2026-11-15T00:47:30.271056+00:00",
  "items": [
   {
-   "id": "6cb5a22240cd",
+   "id": "f226a9d6141d",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] El tenso encontrón del \"Mono\" Sánchez con jugadores de O'Higgins tras el título de Coquimbo",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Una tarde consagratoria vivió Coquimbo Unido tras proclamarse flamante campeón de la Copa de la Liga, luego de brindar una exhibición de contundencia en el Estadio Santa Laura para vencer por 3-0 a O'Higgins de Rancagua baj",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/video-el-tenso-encontron-del-mono-sanchez-con-jugadores-de-o-higgins/2026-11-14/213429.html",
+   "date": "2026-11-15T00:34:29+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "132a91b0b2b3",
+   "source": "France 24",
+   "title": "Gaza: países árabes y la Unión Europea condenan ataques israelíes al hospital Nasser",
+   "description": "Los ataques israelíes en el Hospital Nasser provocaron una nueva ola de condenas internacionales. Países árabes y la Unión Europea expresaron su preocupación por el impacto de la ofensiva sobre la población civil y reiteraron sus llamados a respetar el derecho internacional human",
+   "url": "https://www.france24.com/es/video/20261115-gaza-pa%C3%ADses-%C3%A1rabes-y-la-uni%C3%B3n-europea-condenan-ataques-israel%C3%ADes-al-hospital-nasser",
+   "date": "2026-11-15T00:34:22+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5ccae3586676",
+   "source": "Radio Cooperativa",
+   "title": "Palmarés: Coquimbo Unido conquistó la primera edición de la Copa de la Liga",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Coquimbo Unido conquistó la primera edición de la Copa de la Liga tras superar por 3-0 a O'Higgins en el Estadio Santa Laura de Santiago este sábado, resultado con el que inauguró el historial del certamen y aseguró el cupo",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/palmares-coquimbo-unido-conquisto-la-primera-edicion-de-la-copa-de-la/2026-11-14/211740.html",
+   "date": "2026-11-15T00:17:40+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "b9cfd2796d74",
+   "source": "The Guardian",
+   "title": "UK government to consider changing age of consent after allegations against Russell Brand",
+   "description": "Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’ The government has said it will consider calls to change the age of consent after a woman waived her right to anonymity to publicly claim she was raped by Russell Brand as a",
+   "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+   "date": "2026-11-15T00:17:14+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "40317a522ee0",
+   "source": "Al Jazeera",
+   "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+   "description": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
+   "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+   "date": "2026-11-15T00:14:22+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "46d71f7a2518",
+   "source": "Radio Cooperativa",
+   "title": "Coquimbo Unido alzó la Copa de la Liga con doblete de Luis Riveros ante O'Higgins",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/coquimbo-unido-alzo-la-copa-de-la-liga-con-doblete-de-luis-riveros-ante/2026-11-14/210437.html",
+   "date": "2026-11-15T00:04:37+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "ae949a21e759",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] Cristiano fue homenajeado en el minuto 7 del partido de Portugal contra Dinamarca",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Los aficionados de Portugal rindieron homenaje este sábado a Cristiano Ronaldo durante el minuto 7 del partido contra Dinamarca , el primero desde que se anunciara su retiro de la mayor figura en la historia del fútbol del ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/cristiano-ronaldo/video-cristiano-fue-homenajeado-en-el-minuto-7-del-partido-de-portugal/2026-11-14/210202.html",
+   "date": "2026-11-15T00:02:02+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "999604162dc5",
+   "source": "Al Jazeera",
+   "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+   "description": "Israel has pledged to continue its 'offensive policy' on Gaza as fighting in Yemen grips the region.",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+   "date": "2026-11-15T00:00:08+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "4d0b23f58de8",
+   "source": "Al Jazeera",
+   "title": "Portugal immortalises Ronaldo with a new number 7",
+   "description": "Portugal’s national team has lined up in Cristiano Ronaldo's number 7 in its first match since he retired from the side.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss",
+   "date": "2026-11-14T23:55:18+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2755ff93f595",
+   "source": "Radio Cooperativa",
+   "title": "Nueva baja en defensa: Diego Ulloa fue liberado de La Roja tras sufrir una fractura costal",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Los problemas en la retaguardia continúan acumulándose para la selección chilena luego de la Roja confirmara este domingo que el defensor Diego Ulloa fue liberado de la convocatoria de La Roja tras confirmarse una lesión de",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nueva-baja-en-defensa-diego-ulloa-fue-liberado-de-la-roja-tras-sufrir/2026-11-14/204644.html",
+   "date": "2026-11-14T23:46:44+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "b562962e8144",
+   "source": "Radio Cooperativa",
+   "title": "Coquimbo Unido superó a O'Higgins y se consagró campeón de la Copa de la Liga",
+   "description": "Coquimbo Unido revalidó su exitoso presente y, tras la obtención de la Supercopa 2026 a inicios de año, este sábado venció por 3-0 a O'Higgins en el Estadio Santa Laura en la final de la Copa de la Liga, adjudicándose así la edición inaugural del certamen y asegurando el boleto d",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/coquimbo-unido-supero-a-o-higgins-y-se-consagro-campeon-de-la-copa-de-la/2026-11-14/203541.html",
+   "date": "2026-11-14T23:35:41+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "23cf5157bf54",
+   "source": "Al Jazeera",
+   "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+   "description": "Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+   "date": "2026-11-14T23:34:37+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "d0d6e054f336",
+   "source": "BBC Mundo",
+   "title": "SpaceX logra por primera vez atrapar la parte superior del cohete Starship en su regreso a la Tierra",
+   "description": "La nave fue capturada en el aire mediante unos enormes brazos mecánicos apodados \"palillos chinos\".",
+   "url": "https://www.bbc.com/mundo/articles/cq4gnx86l5m2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T23:32:38+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "2c4aeec152b3",
    "source": "Río en Línea",
-   "title": "Mercado Estación: Invertirán otros $280 millones para mejorar recinto que reúne a productores campesinos de Valdivia",
-   "description": "El espacio, que funciona desde septiembre de 2024, congrega cada fin de semana a cerca de 50 productores de distintas comunas. El municipio ya ha destinado $171 millones en mejoras de infraestructura y mantiene una nueva licitación pública para intervenir su bodega techada. La Mu",
-   "url": "https://www.rioenlinea.cl/mercado-estacion-invertiran-otros-280-millones-para-mejorar-recinto-que-reune-a-productores-campesinos-de-valdivia/",
-   "date": "2026-11-14T23:25:17+00:00",
+   "title": "Valdivia y Punta Arenas estrechan alianza para impulsar la industria naval y el empleo",
+   "description": "La alcaldesa de Valdivia, Carla Amtmann, desarrolló una agenda de actividades en Punta Arenas y Santiago para fortalecer la industria naval y posicionar a la capital regional como un polo estratégico de construcción de embarcaciones, generación de empleo y desarrollo tecnológico.",
+   "url": "https://www.rioenlinea.cl/valdivia-y-punta-arenas-estrechan-alianza-para-impulsar-la-industria-naval-y-el-empleo/",
+   "date": "2026-11-14T23:31:39+00:00",
    "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "b3039696ffb2",
+   "source": "Radio Cooperativa",
+   "title": "Hallan cuerpo en el Zanjón de la Aguada durante búsqueda de Benjamín Galdámez",
+   "description": "Equipos especializados de rescate y policiales hallaron este sábado el cadáver de un hombre en el cauce del Zanjón de la Aguada , en la comuna de Maipú , en medio de los operativos desplegados para dar con el paradero de Benjamín Galdámez, de 19 años, cuyo rastro se perdió el pas",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/hallan-cuerpo-en-el-zanjon-de-la-aguada-durante-busqueda-de-benjamin/2026-11-14/203047.html",
+   "date": "2026-11-14T23:30:47+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "57dc855741c1",
+   "source": "Radio Cooperativa",
+   "title": "En simultáneo por el Chile 2 y el descenso: ANFP programó la penúltima fecha del torneo",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes A la espera del regreso de la actividad oficial tras la fecha FIFA , la ANFP dio a conocer la programación de la fecha 29 de la Liga de Primera, penúltima jornada de la temporada que se disputará entre el sábado 28 y el dom",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/en-simultaneo-por-el-chile-2-y-el-descenso-anfp-programo-la-penultima/2026-11-14/202443.html",
+   "date": "2026-11-14T23:24:43+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -142,16 +292,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9b06f5f27162",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] Hinchas llevaron en andas a sobreviviente de Chapecoense en su último partido profesional",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Una de las despedidas más emotivas que recuerde el fútbol mundial se vivió en Brasil, luego de que el experimentado defensor Alan Ruschel, recordado sobreviviente de la tragedia aérea de Chapecoense en 2016, disputara su úl",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-brasilena/video-hinchas-llevaron-en-andas-a-sobreviviente-de-chapecoense-en-su/2026-11-14/190046.html",
-   "date": "2026-11-14T22:00:46+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "8cefc3c7d256",
    "source": "Al Jazeera",
    "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
@@ -159,16 +299,6 @@
    "url": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
    "date": "2026-11-14T22:00:45+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "2c8f47f9f862",
-   "source": "Radio Cooperativa",
-   "title": "\"Más dudas que certezas\": Prensa colombiana cuestionó a su selección tras vencer a La Roja",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Pese a quedarse con la victoria por la cuenta mínima , el triunfo por 1-0 de Colombia sobre la selección chilena en el Estadio \"Pascual Guerrero\", de Cali, dejó un amargo sabor de boca en la prensa local , donde los medios ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-colombiana/mas-dudas-que-certezas-prensa-colombiana-cuestiono-a-su-seleccion/2026-11-14/184633.html",
-   "date": "2026-11-14T21:46:33+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -192,13 +322,13 @@
    "type": "Prensa"
   },
   {
-   "id": "b6083c9a1397",
+   "id": "346505152043",
    "source": "Radio Cooperativa",
-   "title": "Taylor Fritz sufrió ante el verdugo de Tabilo y se coronó campeón en Estocolmo",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes En una final de alto impacto que se extendió por dos horas y quince minutos, el tenista estadounidense Taylor Fritz (10° del ranking ATP) se consagró campeón del ATP 250 de Estocolmo, tras derrotar con dramatismo al argenti",
-   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/torneos-atp/taylor-fritz-sufrio-ante-el-verdugo-de-tabilo-y-se-corono-campeon-en/2026-11-14/182635.html",
-   "date": "2026-11-14T21:26:35+00:00",
-   "category": "",
+   "title": "Díaz-Canel instó a \"reconvertir\" la industria azucarera de Cuba hacia la generación eléctrica",
+   "description": "El presidente de Cuba, Miguel Díaz-Canel , instó a \"reconvertir\" la deprimida industria azucarera de la isla para priorizar la generación eléctrica y los derivados de la caña en medio de la profunda crisis económica y energética que vive la isla. Durante un encuentro en el Palaci",
+   "url": "https://www.cooperativa.cl/noticias/mundo/cuba/diaz-canel-insto-a-reconvertir-la-industria-azucarera-de-cuba-hacia-la/2026-11-14/181524.html",
+   "date": "2026-11-14T21:15:24+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -219,16 +349,6 @@
    "url": "https://www.dw.com/es/eisenkot-llamado-de-netanyahu-a-negociar-sin-condiciones-es-fanfarronada/a-79950135?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-14T20:59:00+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "41db264e67db",
-   "source": "Radio Cooperativa",
-   "title": "Papa León XIV regresó a Chiclayo para coronar a la Virgen Inmaculada ante 15 mil fieles",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/mundo/peru/papa-leon-xiv-regreso-a-chiclayo-para-coronar-a-la-virgen-inmaculada/2026-11-14/173757.html",
-   "date": "2026-11-14T20:37:57+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -262,16 +382,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7b3244f4b8cb",
-   "source": "Radio Cooperativa",
-   "title": "Indagan hallazgo de cuerpo en el Parque Municipal de Maipú",
-   "description": "La Policía de Investigaciones (PDI) inició este sábado una investigación tras el hallazgo de un cuerpo en el Parque Municipal de Maipú , en la Región Metropolitana, cuyas circunstancias todavía no han sido esclarecidas. El descubrimiento se registró durante la jornada en el recin",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/indagan-hallazgo-de-cuerpo-en-el-parque-municipal-de-maipu/2026-11-14/172934.html",
-   "date": "2026-11-14T20:29:34+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "96719bece1f0",
    "source": "Al Jazeera",
    "title": "India’s Assam state demolishes homes of 132 Muslim families",
@@ -279,26 +389,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
    "date": "2026-11-14T20:14:10+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "5cde2a69e721",
-   "source": "Radio Cooperativa",
-   "title": "Lichnovsky le respondió a Colo Colo con insultante sobrenombre",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El zaguero de Universidad de Chile Igor Lichnovsky llamó la atención en redes sociales con un inesperado insulto a Colo Colo, como respuesta a las deslenguadas celebraciones del \"Cacique\" contra el elenco azul tras ganar el",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/lichnovsky-le-respondio-a-colo-colo-con-insultante-sobrenombre/2026-11-14/170722.html",
-   "date": "2026-11-14T20:07:22+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a6a487d4fb4e",
-   "source": "Radio Cooperativa",
-   "title": "Detuvieron a funcionario de Gendarmería por permitir salida irregular de reclusos nocturnos",
-   "description": "Un funcionario de Gendarmería fue detenido durante la madrugada de este sábado en Antofagasta, investigado por presuntamente permitir que personas condenadas a reclusión y arresto nocturno abandonaran el recinto penitenciario sin cumplir las medidas impuestas por la justicia. Seg",
-   "url": "https://www.cooperativa.cl/noticias/pais/judicial/detuvieron-a-funcionario-de-gendarmeria-por-permitir-salida-irregular-de/2026-11-14/165939.html",
-   "date": "2026-11-14T19:59:39+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -312,16 +402,6 @@
    "type": "Prensa"
   },
   {
-   "id": "dea728e6968b",
-   "source": "Radio Cooperativa",
-   "title": "Irán denunció que EE.UU. amenaza con matar de hambre a los iraníes mediante el bloqueo",
-   "description": "Irán denunció este sábado que Estados Unidos amenaza abiertamente con matar de hambre al pueblo iraní mediante el bloqueo económico impuesto al país, después de que el secretario de Estado estadounidense, Marco Rubio, afirmara que las sanciones están surtiendo efecto y advirtiera",
-   "url": "https://www.cooperativa.cl/noticias/mundo/iran/iran-denuncio-que-ee-uu-amenaza-con-matar-de-hambre-a-los-iranies/2026-11-14/165421.html",
-   "date": "2026-11-14T19:54:21+00:00",
-   "category": "Tributación",
-   "type": "Prensa"
-  },
-  {
    "id": "fee79821d1ae",
    "source": "Al Jazeera",
    "title": "Can being ‘non-Western’ cost you your home in Denmark?",
@@ -329,16 +409,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
    "date": "2026-11-14T19:52:49+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "a1f66b6a54e8",
-   "source": "Radio Cooperativa",
-   "title": "Aníbal Mosa: Pensé en irme, si no compraba más participación me iba",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Anibal Mosa, presidente y controlador de Blanco y Negro, reveló que estuvo cerca de dejar su espacio en Colo Colo , pues evaluó esa opción en caso de no poder obtener la participación mayoritaria en la sociedad anómina; hec",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/anibal-mosa-pense-en-irme-si-no-compraba-mas-participacion-me-iba/2026-11-14/165233.html",
-   "date": "2026-11-14T19:52:33+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -435,7 +505,7 @@
    "id": "ecaf5f4337c4",
    "source": "The Guardian",
    "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
-   "description": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email , free app or daily news podcast Outspoken Liberal senator Andrew McLachlan has raised the alarm about t",
+   "description": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email , free app or daily news podcast The outspoken Liberal senator Andrew McLachlan has raised the alarm abo",
    "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
    "date": "2026-11-14T19:00:52+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -502,11 +572,11 @@
    "type": "Prensa"
   },
   {
-   "id": "3430b92eb12d",
+   "id": "a9438a4ee47b",
    "source": "Radio Cooperativa",
-   "title": "[Radio en vivo🎙] Coquimbo vence a O'Higgins en la final de la Copa de la Liga",
-   "description": "Este sábado, la primera edición de la Copa de la Liga conocerá a su monarca con el duelo entre Coquimbo Unido y O'Higgins. Síguelo junto a Cooperativa: Coquimbo Unido 3-0 O'Higgins , Segundo tiempo. Estadio Santa Laura. Sigue el Marcador Virtual de Cooperativa.cl y escucha la tra",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/radio-en-vivo-coquimbo-vence-a-o-higgins-en-la-final-de-la-copa-de-la/2026-11-14/145313.html",
+   "title": "[Radio en vivo🎙] Coquimbo superó a O'Higgins en la final de la Copa de la Liga",
+   "description": "Este sábado, la primera edición de la Copa de la Liga conocerá a su monarca con el duelo entre Coquimbo Unido y O'Higgins. Síguelo junto a Cooperativa: Coquimbo Unido 3-0 O'Higgins , Finalizado. Estadio Santa Laura. Sigue el Marcador Virtual de Cooperativa.cl y escucha la transmi",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/radio-en-vivo-coquimbo-supero-a-o-higgins-en-la-final-de-la-copa-de/2026-11-14/145313.html",
    "date": "2026-11-14T17:53:13+00:00",
    "category": "",
    "type": "Prensa"
@@ -742,16 +812,6 @@
    "type": "Prensa"
   },
   {
-   "id": "527adc35b72d",
-   "source": "The Guardian",
-   "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-   "description": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’ Andy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit. Outlining his ",
-   "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-   "date": "2026-11-14T15:34:54+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "0b8ea857eea2",
    "source": "BBC Mundo",
    "title": "Me dijeron que mi bebé había fallecido... 42 años después me envió un correo electrónico",
@@ -759,26 +819,6 @@
    "url": "https://www.bbc.com/mundo/articles/cmlylypz9xldo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-14T15:24:42+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "3ea32372d92b",
-   "source": "Al Jazeera",
-   "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
-   "description": "The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.",
-   "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss",
-   "date": "2026-11-14T15:14:54+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "d807e9c3411c",
-   "source": "Al Jazeera",
-   "title": "Canada’s Stelco to recall 175 workers after government pressure",
-   "description": "Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.",
-   "url": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
-   "date": "2026-11-14T15:06:52+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -792,16 +832,6 @@
    "type": "Prensa"
   },
   {
-   "id": "679ce52eabc1",
-   "source": "Al Jazeera",
-   "title": "Why US Democrats are expected to keep Schumer and Jeffries in power",
-   "description": "The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party.",
-   "url": "https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss",
-   "date": "2026-11-14T14:57:04+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "b9d566277eea",
    "source": "Ex-Ante",
    "title": "Valparaíso vs. Xiamen: El choque entre China y Chile por la sede del Tratado de Alta Mar",
@@ -809,16 +839,6 @@
    "url": "https://www.ex-ante.cl/internacional/valparaiso-xiamen-choque-china-chile/",
    "date": "2026-11-14T14:51:39+00:00",
    "category": "Derecho internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "35e7a1e05914",
-   "source": "Al Jazeera",
-   "title": "Empower conference: officials and youth discuss peace and security",
-   "description": "At the Empower Conference in Doha, officials gathered with youth to discuss initiatives for global peace and security.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/empower-conference-officials-and-youth-discuss-peace-and-security?traffic_source=rss",
-   "date": "2026-11-14T14:49:37+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1129,16 +1149,6 @@
    "url": "https://www.france24.com/es/deportes/20261114-andreeva-arrolla-a-shnaider-por-6-2-y-6-1-y-avanza-a-las-semifinales-de-las-finales-de-la-wta",
    "date": "2026-11-14T00:38:06+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "2eba84804171",
-   "source": "France 24",
-   "title": "La revancha de Lula: el fallo que culmina el caso que lo llevó a la cárcel",
-   "description": "Después de su victoria en las urnas, Luiz Inácio Lula da Silva acaba de recibir la noticia que espera desde hace casi una década: la Justicia ordenó devolver a la constructora OAS los 2,4 millones de reales (425.426 de dólares) obtenidos con la subasta del tríplex de Guarujá, loc",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261114-la-revancha-de-lula-el-fallo-que-culmina-el-caso-que-lo-llev%C3%B3-a-la-c%C3%A1rcel",
-   "date": "2026-11-14T00:31:59+00:00",
-   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -1512,16 +1522,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7160e387bf5d",
-   "source": "Deutsche Welle",
-   "title": "La empresa automotriz Mercedes-Benz analiza el cierre de fábricas en Alemania",
-   "description": "La firma enfrenta una caída de sus beneficios por el desplome de sus ventas en el mercado chino y el alto costo de producción en el país europeo.",
-   "url": "https://www.dw.com/es/la-empresa-automotriz-mercedes-benz-analiza-el-cierre-de-fábricas-en-alemania/a-79935742?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-12T22:15:00+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "d4d9419c7830",
    "source": "The Guardian",
    "title": "China rules out hosting Cop33 climate summit in 2028",
@@ -1529,16 +1529,6 @@
    "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
    "date": "2026-11-12T22:00:15+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "959ca0d21d94",
-   "source": "Deutsche Welle",
-   "title": "La integración en Alemania progresa, pero los planes del Gobierno podrían frenarla",
-   "description": "22 millones de personas en Alemania tienen trasfondo migratorio. Un nuevo informe muestra avances en la integración. Sin embargo, los planes de ahorro del gobierno están generando una disputa política.",
-   "url": "https://www.dw.com/es/la-integración-en-alemania-progresa-pero-los-planes-del-gobierno-podrían-frenarla/a-79933070?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-12T20:40:00+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -1599,16 +1589,6 @@
    "url": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
    "date": "2026-11-12T18:00:50+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "179dbca68aab",
-   "source": "Deutsche Welle",
-   "title": "Pantuflas, té y no más de tres clics: así se prepara América Latina para los turistas chinos",
-   "description": "Un calentador de agua en la habitación puede valer más que la mejor cafetera. En la ITB Américas, expertos explican cómo conquistar a un viajero que no conoce Instagram ni TripAdvisor.",
-   "url": "https://www.dw.com/es/pantuflas-té-y-no-más-de-tres-clics-así-se-prepara-américa-latina-para-los-turistas-chinos/a-79934708?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-12T17:59:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -1709,16 +1689,6 @@
    "url": "https://www.bbc.com/mundo/articles/c6x2enpm544zo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-12T11:19:20+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "ad95f973c195",
-   "source": "Deutsche Welle",
-   "title": "Selección de fútbol de EE. UU.: ¿se va Pochettino y llega Guardiola?",
-   "description": "Pese a haber firmado reciente renovación, Mauricio Pochettino podría abandonar el combinado estadounidense para regresar a la Premier League. Guardiola podría aparecer como relevo.",
-   "url": "https://www.dw.com/es/selección-de-fútbol-de-ee-uu-¿se-va-pochettino-y-llega-guardiola/a-79928141?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-12T10:53:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -2309,16 +2279,6 @@
    "url": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
    "date": "2026-11-08T12:00:39+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "e8b19335fe02",
-   "source": "BBC Mundo",
-   "title": "Las águilas gigantes que cazaban niños y moldearon la evolución humana",
-   "description": "Tras el impacto del asteroide que acabó con los dinosaurios, las aves gigantes se convirtieron en superdepredadores durante decenas de millones de años, y los seres humanos figuraban entre sus presas.",
-   "url": "https://www.bbc.com/mundo/articles/cm62yxpxv5kqo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-08T10:56:09+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
