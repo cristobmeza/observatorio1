@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-15T07:59:30.641494+00:00",
+ "updated": "2026-11-15T08:51:05.371107+00:00",
  "items": [
+  {
+   "id": "2bf1e8140c7f",
+   "source": "Al Jazeera",
+   "title": "Jordan sentences three men to death by hanging after deadly church attack",
+   "description": "This is a breaking news story.",
+   "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
+   "date": "2026-11-15T08:15:04+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "538637137696",
+   "source": "Deutsche Welle",
+   "title": "Jordania condena a muerte a los autores del atentado contra una iglesia ortodoxa",
+   "description": "Un tribunal jordano decidió la pena máxima contra los tres hombres que el mes pasado mataron a nueve personas y dejaron decenas de heridos en un atentado contra una iglesia ortodoxa griega.",
+   "url": "https://www.dw.com/es/jordania-condena-a-muerte-a-los-autores-del-atentado-contra-una-iglesia-ortodoxa/a-79951383?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-15T08:11:00+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "418d58a22c4c",
+   "source": "Al Jazeera",
+   "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
+   "description": "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.",
+   "url": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
+   "date": "2026-11-15T08:07:08+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
   {
    "id": "eac6a34dcfef",
    "source": "Deutsche Welle",
@@ -642,16 +672,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1b47c7934eb7",
-   "source": "Al Jazeera",
-   "title": "Explosion near Syria’s capital kills father and child",
-   "description": "Syria’s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.",
-   "url": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
-   "date": "2026-11-14T22:43:12+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "98858a232bf7",
    "source": "Ex-Ante",
    "title": "Lynk & Co: la marca ligada a Volvo y Geely que aumentó 150% sus ventas en septiembre y busca expandirse por Chile",
@@ -659,16 +679,6 @@
    "url": "https://www.ex-ante.cl/negocios/lynk-co-marca-volvo-crecio-150-ventas/",
    "date": "2026-11-14T22:30:23+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "3de7eaa93619",
-   "source": "Al Jazeera",
-   "title": "Palestinian stories set for major presence at 2027 Oscars",
-   "description": "Al Jazeera spoke to the director and cast of Who Is Still Alive, Switzerland’s Oscar entry for Best International Film.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss",
-   "date": "2026-11-14T22:28:47+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -729,16 +739,6 @@
    "url": "https://www.cooperativa.cl/noticias/mundo/cuba/diaz-canel-insto-a-reconvertir-la-industria-azucarera-de-cuba-hacia-la/2026-11-14/181524.html",
    "date": "2026-11-14T21:15:24+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "28287848ffdc",
-   "source": "Deutsche Welle",
-   "title": "Eisenkot: llamado de Netanyahu a negociar “sin condiciones” es “fanfarronada”",
-   "description": "El líder opositor, encargado por el presidente de Israel para formar Gobierno, retó al actual primer ministro a mostrar su voluntad de cambio. Netanyahu “es consciente de su derrota”, aseguró.",
-   "url": "https://www.dw.com/es/eisenkot-llamado-de-netanyahu-a-negociar-sin-condiciones-es-fanfarronada/a-79950135?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-14T20:59:00+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
