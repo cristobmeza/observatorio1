@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-15T22:32:06.320957+00:00",
+ "updated": "2026-11-15T23:39:50.365661+00:00",
  "items": [
+  {
+   "id": "098f847b1572",
+   "source": "Ex-Ante",
+   "title": "Cadem: aprobación de Kast baja a 27% en semana marcada por el paro camionero (Lea aquí la encuesta)",
+   "description": "En este marco, al 16% le gusta el Presidente Kast y cree que ha hecho un buen gobierno, el 24% dice que le gusta, pero…",
+   "url": "https://www.ex-ante.cl/politica/cadem-kast-baja-aprobacion-27-camioneros/",
+   "date": "2026-11-15T23:32:23+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "88d19a598108",
+   "source": "The Guardian",
+   "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
+   "description": "Professor urges ministers to use awareness triggered by Russell Brand conviction to examine use of rape myths in trials The debate triggered by high-profile cases must “pull back the curtain” on the treatment of people making allegations of sexual offences in the criminal justice",
+   "url": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser",
+   "date": "2026-11-15T23:19:05+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "125ba30d8a4c",
+   "source": "Radio Cooperativa",
+   "title": "¡Habrá final!: Cobreloa y San Luis ganaron y definirán el título del Ascenso a partido único",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La Liga de Ascenso tendrá un episodio adicional en su desenlace para conocer al campeón de la categoría este 2026, ya que Cobreloa venció 3-0 a Deportes Puerto Montt y San Luis triunfó por 0-1 ante San Marcos de Arica , que",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/habra-final-cobreloa-y-san-luis-ganaron-y-definiran-el-titulo-del/2026-11-15/201153.html",
+   "date": "2026-11-15T23:11:53+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "33cca7fd3057",
+   "source": "Radio Cooperativa",
+   "title": "Rangers fue incapaz de lograr la hazaña y selló su descenso a Segunda",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Las lágrimas y la desazón se apoderaron del plantel de Rangers de Talca luego de sellarse su descenso a la Segunda División tras empatar sin goles en su visita a Deportes Santa Cruz en la última fecha de la Liga de Ascenso.",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/rangers-fue-incapaz-de-lograr-la-hazana-y-sello-su-descenso-a-segunda/2026-11-15/201053.html",
+   "date": "2026-11-15T23:10:53+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e490bed49bb4",
+   "source": "BBC Mundo",
+   "title": "\"Después de que me despojaran de la ciudadanía nicaragüense, España fue mi lugar de asilo y decidí bien\": el escritor Sergio Ramírez ingresa a la Real Academia Española",
+   "description": "Ramírez es autor de decenas de publicaciones entre novelas, cuentos, crónicas y ensayos y fue ganador del Premio Cervantes 2017.",
+   "url": "https://www.bbc.com/mundo/articles/cmx20d0y7j8jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T22:45:01+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "ded3b7524016",
+   "source": "Al Jazeera",
+   "title": "England stun Spain to end La Roja’s 43-game unbeaten run",
+   "description": "Spain suffer first defeat since March 2024 after losing 3-2 to England in Madrid despite grandstand finish.",
+   "url": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss",
+   "date": "2026-11-15T22:40:01+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f2c5be4af5c4",
+   "source": "Radio Cooperativa",
+   "title": "Francia venció a Turquía y ganó su grupo en la Liga de las Naciones",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/nations-league/francia-vencio-a-turquia-y-gano-su-grupo-en-la-liga-de-las-naciones/2026-11-15/193257.html",
+   "date": "2026-11-15T22:32:57+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "6a97d71299d8",
+   "source": "The Guardian",
+   "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+   "description": "Four countries call situation ‘entirely reversible’ in joint statement as flooding exacerbates humanitarian crisis Australia, Canada, the United Kingdom and Italy have urged Israel to allow critical humanitarian aid to enter Gaza, describing the situation on the ground as “dire”.",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
+   "date": "2026-11-15T22:28:02+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "901de22f5de2",
    "source": "The Guardian",
@@ -52,13 +132,13 @@
    "type": "Prensa"
   },
   {
-   "id": "6a97d71299d8",
-   "source": "The Guardian",
-   "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
-   "description": "Four countries call situation ‘entirely reversible’ in joint statement as flooding exacerbates humanitarian crisis Get our daily political email , free app or daily news podcast In a joint statement the foreign ministers of Australia, Canada, the United Kingdom and Italy have urg",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
-   "date": "2026-11-15T21:57:21+00:00",
-   "category": "Oriente Medio",
+   "id": "d41d843c7797",
+   "source": "Radio Cooperativa",
+   "title": "Fiscalía mexicana investiga a cantante de corridos tumbados tras frenar su show por apología del delito",
+   "description": "La Fiscalía General de la República (FGR) de México abrió este sábado una investigación, tras la detención por porte de armas del cantante de corridos tumbados Gabito Ballesteros en Querétaro , en el centro del país, después de que fuera suspendido su concierto por interpretar ca",
+   "url": "https://www.cooperativa.cl/noticias/mundo/mexico/narcos/fiscalia-mexicana-investiga-a-cantante-de-corridos-tumbados-tras-frenar/2026-11-15/185527.html",
+   "date": "2026-11-15T21:55:27+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -192,13 +272,13 @@
    "type": "Prensa"
   },
   {
-   "id": "8cb6b36b696d",
+   "id": "6e42be35606f",
    "source": "Radio Cooperativa",
-   "title": "Cercanos de Mauricio Pinilla actualizan su estado de salud tras ser internado de urgencia",
-   "description": "Mauricio Pinilla continúa internado en la Clínica Universidad de los Andes, luego de que el viernes 13 de noviembre fuera trasladado de urgencia a un centro asistencial, situación que generó preocupación tras su reciente aparición en \"Vértigo\" (Canal 13). En conversación con Las ",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/cercanos-de-mauricio-pinilla-actualizan-su-estado-de-salud-tras-ser/2026-11-15/174145.html",
-   "date": "2026-11-15T20:41:45+00:00",
-   "category": "Sociedad",
+   "title": "A prisión sujeto acusado de abusar de niña entre sus 6 y 9 años en Penco",
+   "description": "Un hombre fue detenido y posteriormente enviado a prisión preventiva por los presuntos delitos de violación y abusos sexuales reiterados contra una niña de seis años en la comuna de Penco (Región del Biobío). El imputado fue aprehendido por la Brigada Investigadora de Delitos Sex",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/delitos-sexuales/a-prision-sujeto-acusado-de-abusar-de-nina-entre-sus-6-y-9-anos-en-penco/2026-11-15/174627.html",
+   "date": "2026-11-15T20:46:27+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -209,6 +289,16 @@
    "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
    "date": "2026-11-15T20:37:43+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "045b9ede1b42",
+   "source": "Radio Cooperativa",
+   "title": "Adolescente de 15 años se encuentra en riesgo vital tras balacera en Osorno",
+   "description": "Un menor de 15 años se encuentra riesgo vital luego de una balacera que dejó a otras dos personas heridas en el campamento Juntos Podemos , de la comuna de Osorno, en la Región de Los Lagos. Según publicó T13 , el hecho ocurrió durante la noche del sábado y dejó tres víctimas: el",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-los-lagos/adolescente-de-15-anos-se-encuentra-en-riesgo-vital-tras-balacera-en/2026-11-15/173618.html",
+   "date": "2026-11-15T20:36:18+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -252,16 +342,6 @@
    "type": "Prensa"
   },
   {
-   "id": "71b591ef1a6a",
-   "source": "Radio Cooperativa",
-   "title": "Alexander Zverev dio un golpe de autoridad ante Jódar en su estreno en las Finales ATP",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El tenista alemán Alexander Zverev, actual número uno del planeta, comenzó con el pie derecho su participación en las Finales ATP de Turín 2026 , torneo que ya conquistó en 2018 y 2021, tras derrotar con autoridad al joven ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/finales-atp/alexander-zverev-dio-un-golpe-de-autoridad-ante-jodar-en-su-estreno-en/2026-11-15/171736.html",
-   "date": "2026-11-15T20:17:36+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "b8ab85f6a2cb",
    "source": "Al Jazeera",
    "title": "Jordan sentences three men to death over deadly church attack in Karak",
@@ -289,36 +369,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss",
    "date": "2026-11-15T20:07:06+00:00",
    "category": "África",
-   "type": "Prensa"
-  },
-  {
-   "id": "8ee19bd08a5a",
-   "source": "Radio Cooperativa",
-   "title": "Revivan el espectacular show de K/DA y True Damage en la final del mundial de LoL",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/magazine/tendencias/revivan-el-espectacular-show-de-k-da-y-true-damage-en-la-final-del/2026-11-15/170341.html",
-   "date": "2026-11-15T20:03:41+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "1103cf3f6418",
-   "source": "Radio Cooperativa",
-   "title": "Bombo Fica y su retiro de los festivales televisados: \"Tendría que ser muchísima plata para volver a Viña\"",
-   "description": "Bombo Fica se prepara para vivir una noche especial en el Festival del Huaso de Olmué 2027 , instancia que marcará su cuarta y última vez sobre el escenario de El Patagual, concretando así su retiro de los certámenes televisados tras cuatro décadas de trayectoria. En conversación",
-   "url": "https://www.cooperativa.cl/noticias/magazine/humor/bombo-fica-y-su-retiro-de-los-festivales-televisados-tendria-que-ser/2026-11-15/165528.html",
-   "date": "2026-11-15T19:55:28+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "88d19a598108",
-   "source": "The Guardian",
-   "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
-   "description": "Professor urges ministers to use awareness triggered by Russell Brand conviction to examine use of rape myths in trials The debate triggered by high-profile cases must “pull back the curtain” on the treatment of people making allegations of sexual offences in the criminal justice",
-   "url": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser",
-   "date": "2026-11-15T19:40:23+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -399,16 +449,6 @@
    "url": "https://www.france24.com/es/europa/20261115-estonia-cerrar%C3%A1-los-pasos-fronterizos-con-rusia-tras-un-intento-de-sabotaje-en-una-f%C3%A1brica-de-drones",
    "date": "2026-11-15T18:47:22+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "8aff83f89f3f",
-   "source": "Radio Cooperativa",
-   "title": "Chile buscará fortalecer alianzas con Asia sin descuidar a Trump",
-   "description": "Chile, México y Perú acuden a la próxima cumbre de líderes del Foro de Cooperación Económica Asia-Pacífico (APEC ) con el desafío principal de navegar las tensiones comerciales entre Estados Unidos y China , sin perder acceso a ninguno de los dos mercados. Las tres únicas economí",
-   "url": "https://www.cooperativa.cl/noticias/economia/foros-internacionales/apec/chile-buscara-fortalecer-alianzas-con-asia-sin-descuidar-a-trump/2026-11-15/154314.html",
-   "date": "2026-11-15T18:43:14+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -595,7 +635,7 @@
    "id": "98dbba29feb1",
    "source": "Radio Cooperativa",
    "title": "[ESTADISTICAS] La tabla de posiciones en la última fecha de la Liga de Ascenso 2026",
-   "description": "Tabla de posiciones - Liga de Ascenso 2026 Fecha 30 en desarrollo. Pos. Club PJ Pts. Dif. Zona 1 Cobreloa 30 57 +23 Ascenso 2 San Luis 30 55 +14 Semifinales liguilla 3 S. Wanderers 30 51 +16 Liguilla 4 D. Antofagasta 30 49 +25 Liguilla 5 Magallanes 30 47 +1 Liguilla 6 San Marcos ",
+   "description": "Tabla de posiciones - Liga de Ascenso 2026 Fecha 30 en desarrollo. Pos. Club PJ Pts. Dif. Zona 1 Cobreloa 30 57 +25 Ascenso 2 San Luis 30 57 +15 Semifinales liguilla 3 D. Antofagasta 30 51 +27 Liguilla 4 S. Wanderers 30 51 +16 Liguilla 5 Magallanes 30 46 +1 Liguilla 6 San Marcos ",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/estadisticas-la-tabla-de-posiciones-en-la-ultima-fecha-de-la-liga-de/2026-11-15/135823.html",
    "date": "2026-11-15T16:58:23+00:00",
    "category": "Economía nacional",
@@ -762,16 +802,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c180cab5c592",
-   "source": "Al Jazeera",
-   "title": "Record number of migrants arrive in Spain’s Canary Islands",
-   "description": "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.",
-   "url": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
-   "date": "2026-11-15T15:16:29+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "9ca5587e9567",
    "source": "BBC Mundo",
    "title": "El legado de Miguel Ángel Asturias, el \"olvidado\" Nobel de Literatura guatemalteco al que los escritores del boom latinoamericano le dieron la espalda",
@@ -789,16 +819,6 @@
    "url": "https://www.france24.com/es/francia/20261115-macron-busca-reforzar-influencia-franc%C3%B3fona-entre-tensiones-por-posible-reelecci%C3%B3n-de-secretaria-general-de-la-oif",
    "date": "2026-11-15T15:04:04+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "cf6c4c68cb94",
-   "source": "Radio Cooperativa",
-   "title": "[Radio en vivo🎙] Cobreloa vence Puerto Montt y se ilusiona con el ascenso",
-   "description": "Este domingo se cierra la fase regular de la Liga de Ascenso , con una gran jornada de partidos en simultáneo que definirá el título entre Cobreloa y San Luis, junto a la lucha por la permanencia entre Rangers, Deportes Santa Cruz y Unión San Felipe. - Sigue los duelos en Coopera",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/radio-en-vivo-cobreloa-vence-puerto-montt-y-se-ilusiona-con-el/2026-11-15/115011.html",
-   "date": "2026-11-15T14:50:11+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -929,16 +949,6 @@
    "url": "https://www.bbc.com/mundo/articles/c35yn4xdxz5eo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-15T12:04:15+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "3b0bb1520fc8",
-   "source": "Ex-Ante",
-   "title": "El Partido Socialista y la situación de Codelco",
-   "description": "El intento de politizar las investigaciones sobre la situación de Codelco solo refuerza los recelos acerca del peso de los intereses políticos en su administración.…",
-   "url": "https://www.ex-ante.cl/opinion/partido-socialista-y-la-situacion-codelco/",
-   "date": "2026-11-15T11:45:21+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -1429,16 +1439,6 @@
    "url": "https://www.ciperchile.cl/2026/11/13/nuevo-informe-sernageomin-insiste-en-que-proyecto-del-hermano-del-ministro-quiroz-no-permite-descartar-remociones-en-masa/?utm_source=rss&utm_medium=rss&utm_campaign=nuevo-informe-sernageomin-insiste-en-que-proyecto-del-hermano-del-ministro-quiroz-no-permite-descartar-remociones-en-masa",
    "date": "2026-11-13T16:29:32+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "5a89672307c5",
-   "source": "BBC Mundo",
-   "title": "Cómo Texas es desde ya el nuevo campo de batalla por la presidencia en EE.UU.",
-   "description": "Los expertos en las matemáticas electorales ya adelantan que, si EE.UU. votara en dos años como lo hizo en los comicios de la semana pasada, los demócratas tendrían el camino hacia la Casa Blanca prácticamente despejado.",
-   "url": "https://www.bbc.com/mundo/articles/ck4gnqw6jnnwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-13T16:27:17+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
