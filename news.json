@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-15T21:31:08.378302+00:00",
+ "updated": "2026-11-15T22:32:06.320957+00:00",
  "items": [
+  {
+   "id": "901de22f5de2",
+   "source": "The Guardian",
+   "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+   "description": "Authorities say Russian intelligence service ordered attack which Estonian PM links to Tallinn’s support for Ukraine Estonia will close all its border crossings with Russia from 1 December after a suspected sabotage attack on a drone maker in the Baltic state over the weekend, wh",
+   "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+   "date": "2026-11-15T22:17:09+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d3467e158b86",
+   "source": "Al Jazeera",
+   "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+   "description": "The countries accuse Israel of preventing tents and other supplies from entering Gaza, despite the humanitarian crisis.",
+   "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
+   "date": "2026-11-15T22:06:38+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "9c2f85c2d9c9",
+   "source": "Radio Cooperativa",
+   "title": "Colo Colo y Universidad Católica jugarán la final de la Liga Femenina",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Colo Colo y Universidad Católica jugarán una inédita final en la Liga Femenina luego de dejar en el camino en semifinales a Coquimbo Unido y a Universidad de Chile, respectivamente. En el Estadio Monumental, el cuadro albo ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/futbol-femenino/colo-colo-y-universidad-catolica-jugaran-la-final-de-la-liga-femenina/2026-11-15/190542.html",
+   "date": "2026-11-15T22:05:42+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "c8d945ba0051",
+   "source": "France 24",
+   "title": "Mano dura y un terremoto: los primeros 100 días de De la Espriella en Colombia",
+   "description": "Tres días después de asumir la Presidencia, el 7 de agosto de 2026, Abelardo de la Espriella enfrentó la prueba más dura de su Gobierno: un terremoto de magnitud 7,4 dejó más de 300 muertos, miles de heridos y daños millonarios. Para un 'outsider' que nunca había ocupado un cargo",
+   "url": "https://www.france24.com/es/video/20261115-mano-dura-y-un-terremoto-los-primeros-100-d%C3%ADas-de-de-la-espriella-en-colombia",
+   "date": "2026-11-15T22:03:27+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "dc7b141e4008",
+   "source": "The Guardian",
+   "title": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
+   "description": "Duke of Sussex meets wounded veterans in city and says country could one day host Invictus Games Prince Harry has told Ukrainian soldiers they are going to win the war with Russia, during a surprise visit to the country. The Duke of Sussex met wounded veterans and medics in the c",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
+   "date": "2026-11-15T22:00:24+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "6a97d71299d8",
+   "source": "The Guardian",
+   "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+   "description": "Four countries call situation ‘entirely reversible’ in joint statement as flooding exacerbates humanitarian crisis Get our daily political email , free app or daily news podcast In a joint statement the foreign ministers of Australia, Canada, the United Kingdom and Italy have urg",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
+   "date": "2026-11-15T21:57:21+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "0fe1b1659bf4",
+   "source": "Deutsche Welle",
+   "title": "Escritor nicaragüense Sergio Ramírez entra a la RAE y ocupa la silla de Vargas Llosa",
+   "description": "El autor, exiliado en España desde 2021, dedicó parte de su discurso a su antecesor, y lamentó que Nicaragua sea un país “sojuzgado por una tiranía estrambótica y cruel como pocas en la historia de América Latina”.",
+   "url": "https://www.dw.com/es/escritor-nicaragüense-sergio-ramírez-entra-a-la-rae-y-ocupa-la-silla-de-vargas-llosa/a-79953698?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-15T21:53:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "75dbe3cd15c7",
+   "source": "Río en Línea",
+   "title": "Colisión frontal mantiene interrumpido el tránsito en ruta Paillaco-Valdivia",
+   "description": "El tránsito se encuentra interrumpido en la Ruta T-206, que conecta Paillaco con Valdivia, debido a un accidente vehicular registrado a la altura del puente Santo Domingo. La emergencia corresponde a una colisión frontal ocurrida durante la tarde de este domingo entre dos vehícul",
+   "url": "https://www.rioenlinea.cl/colision-frontal-mantiene-interrumpido-el-transito-en-ruta-paillaco-valdivia/",
+   "date": "2026-11-15T21:51:23+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "cea5cd80a077",
+   "source": "Al Jazeera",
+   "title": "US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
+   "description": "Scott Bessent gives Nvidia's board 10 days to show the company's compliance with US export controls.",
+   "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss",
+   "date": "2026-11-15T21:47:47+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "967d3f058b3d",
+   "source": "Radio Cooperativa",
+   "title": "Nicolás Jarry, Tomás Barrios y Matías Soto ya tienen rivales para el Challenger de Montevido",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con tres raquetas nacionales en competencia, este lunes se dará inicio formal al cuadro principal del Challenger 75 de Montevideo, en Uruguay, certamen sobre polvo de ladrillo donde Nicolás Jarry (751° del ranking ATP), Tom",
+   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/nicolas-jarry/nicolas-jarry-tomas-barrios-y-matias-soto-ya-tienen-rivales-para-el/2026-11-15/182907.html",
+   "date": "2026-11-15T21:29:07+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "409d1d1761e5",
+   "source": "Al Jazeera",
+   "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+   "description": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+   "date": "2026-11-15T21:19:08+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "14b758020989",
    "source": "France 24",
@@ -19,6 +129,16 @@
    "url": "https://www.ex-ante.cl/opinion/sanchez-financiar-investigacion-desarrollo/",
    "date": "2026-11-15T21:16:50+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "28a1f69d102f",
+   "source": "Radio Cooperativa",
+   "title": "Rusia advierte sobre el riesgo de reanudar ensayos nucleares y amenaza con responder a EE.UU.",
+   "description": "El representante permanente de Rusia ante el Organismo Internacional de Energía Atómica (OIEA), Mijaíl Uliánov, advirtió este domingo contra la reanudación de las pruebas nucleares y amenazó con una respuesta \"adecuada\" de Moscú en tal caso. \"Es fundamental que estos países (que ",
+   "url": "https://www.cooperativa.cl/noticias/mundo/rusia/rusia-advierte-sobre-el-riesgo-de-reanudar-ensayos-nucleares-y-amenaza/2026-11-15/181357.html",
+   "date": "2026-11-15T21:13:57+00:00",
+   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -92,13 +212,13 @@
    "type": "Prensa"
   },
   {
-   "id": "bd3ce6930465",
+   "id": "9dbc0101174f",
    "source": "Radio Cooperativa",
-   "title": "\"Agarra tus cosas y lárgate\": Romario disparó contra Ancelotti tras derrota de Brasil",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El histórico exdelantero Romario arremetió con dureza contra el entrenador italiano Carlo Ancelotti y exigió su salida inmediata de la selección de Brasil, luego de la derrota por 3-2 sufrida este sábado en un amistoso fren",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-brasilena/agarra-tus-cosas-y-largate-romario-disparo-contra-ancelotti-tras/2026-11-15/173330.html",
-   "date": "2026-11-15T20:33:30+00:00",
-   "category": "Europa",
+   "title": "Aysén: Adolescente de 15 años murió tras lanzarse al mar desde un muelle junto a un amigo",
+   "description": "Un adolescente de 15 años falleció por inmersión este domingo en el sector de Ensenada Baja, en Puerto Chacabuco, Región de Aysén, luego de lanzarse al mar desde un muelle junto a un amigo , quien logró ser rescatado con vida. Según explicó el fiscal Alex Olivero , ambos menores ",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-aysen/aysen-adolescente-de-15-anos-murio-tras-lanzarse-al-mar-desde-un-muelle/2026-11-15/173124.html",
+   "date": "2026-11-15T20:31:24+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -192,26 +312,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1f4499018a94",
-   "source": "Radio Cooperativa",
-   "title": "Matthei por compromisos de Kast: \"Cuando prometes algo que no puedes cumplir, es un engaño\"",
-   "description": "La exacandidata presidencial y otrora alcaldesa de Providencia, Evelyn Matthei, acusó \"engaño\" en los compromisos de campaña del Presidente José Antonio Kast y calificó de \"absurda y poco inteligente\" la conducción del Gobierno por el escándalo de las rebajas de condena a pederas",
-   "url": "https://www.cooperativa.cl/noticias/pais/politica/udi/matthei-por-compromisos-de-kast-cuando-prometes-algo-que-no-puedes/2026-11-15/164918.html",
-   "date": "2026-11-15T19:49:18+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "9115ac89f6e0",
-   "source": "Radio Cooperativa",
-   "title": "La Roja retomó las prácticas en \"Juan Pinto Durán\" de cara al segundo duelo con Colombia",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-retomo-las-practicas-en-juan-pinto-duran-de-cara-al-segundo/2026-11-15/164715.html",
-   "date": "2026-11-15T19:47:15+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "88d19a598108",
    "source": "The Guardian",
    "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
@@ -272,16 +372,6 @@
    "type": "Prensa"
   },
   {
-   "id": "438076bff204",
-   "source": "Radio Cooperativa",
-   "title": "Worlds 2026: Los hitos que dejó la gran final del mundial de LoL",
-   "description": "La jornada más importante para los esports de \" League of Legends \" , mejor conocido como \"LoL\" , tuvo lugar este sábado en el gigantesco escenario del Barclays Center en Brooklyn, Nueva York , donde se dio inicio a una nueva dinastía luego de la dura caída de los campeones previ",
-   "url": "https://www.cooperativa.cl/noticias/magazine/tendencias/worlds-2026-los-hitos-que-dejo-la-gran-final-del-mundial-de-lol/2026-11-15/155637.html",
-   "date": "2026-11-15T18:56:37+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "4cb4d79f1300",
    "source": "The Guardian",
    "title": "Trident nuclear submarine concludes record underwater deployment",
@@ -339,16 +429,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
    "date": "2026-11-15T18:31:52+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "901de22f5de2",
-   "source": "The Guardian",
-   "title": "Estonia to close all border crossings with Russia after attack on drone maker",
-   "description": "Authorities say Russian intelligence service ordered attack Estonian PM links to Tallinn’s support for Ukraine Estonia will close all its border crossings with Russia from 1 December after a suspected sabotage attack on a drone maker in the Baltic state over the weekend, which au",
-   "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
-   "date": "2026-11-15T18:23:12+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -515,7 +595,7 @@
    "id": "98dbba29feb1",
    "source": "Radio Cooperativa",
    "title": "[ESTADISTICAS] La tabla de posiciones en la última fecha de la Liga de Ascenso 2026",
-   "description": "Tabla de posiciones - Liga de Ascenso 2026 Fecha 30 en desarrollo. Pos. Club PJ Pts. Dif. Zona 1 Cobreloa 30 55 +22 Ascenso 2 San Luis 30 55 +14 Semifinales liguilla 3 S. Wanderers 30 51 +16 Liguilla 4 D. Antofagasta 30 49 +25 Liguilla 5 Magallanes 30 47 +1 Liguilla 6 San Marcos ",
+   "description": "Tabla de posiciones - Liga de Ascenso 2026 Fecha 30 en desarrollo. Pos. Club PJ Pts. Dif. Zona 1 Cobreloa 30 57 +23 Ascenso 2 San Luis 30 55 +14 Semifinales liguilla 3 S. Wanderers 30 51 +16 Liguilla 4 D. Antofagasta 30 49 +25 Liguilla 5 Magallanes 30 47 +1 Liguilla 6 San Marcos ",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/estadisticas-la-tabla-de-posiciones-en-la-ultima-fecha-de-la-liga-de/2026-11-15/135823.html",
    "date": "2026-11-15T16:58:23+00:00",
    "category": "Economía nacional",
@@ -564,8 +644,8 @@
   {
    "id": "57ce249453c1",
    "source": "Al Jazeera",
-   "title": "Spain vs England live: UEFA Nations League",
-   "description": "Team news , score and live text commentary as England and Spain vie for top spot in final Nations League group game.",
+   "title": "Spain 2-3 England: UEFA Nations League as it happened",
+   "description": "Relive the live text commentary as England stun Spain to take top spot in final Nations League group game.",
    "url": "https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss",
    "date": "2026-11-15T16:45:00+00:00",
    "category": "Oriente Medio",
@@ -712,41 +792,11 @@
    "type": "Prensa"
   },
   {
-   "id": "0ec781af0a7f",
-   "source": "Al Jazeera",
-   "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
-   "description": "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
-   "date": "2026-11-15T15:01:54+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "b0cddb33d422",
-   "source": "Al Jazeera",
-   "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
-   "description": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
-   "date": "2026-11-15T14:55:40+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "24938364eb80",
-   "source": "Al Jazeera",
-   "title": "Fascism built the AI bubble. What will burst it?",
-   "description": "In the latest episode of Deja Vu, Naomi Klein and Astra Taylor examine the latest model of disaster capitalism.",
-   "url": "https://www.aljazeera.com/video/deja-vu-2/2026/11/15/fascism-built-the-ai-bubble-what-will-burst-it?traffic_source=rss",
-   "date": "2026-11-15T14:55:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "9d66ccd6196d",
+   "id": "cf6c4c68cb94",
    "source": "Radio Cooperativa",
-   "title": "[Radio en vivo🎙] Cobreloa define la Liga de Ascenso enfrentando a Puerto Montt>",
+   "title": "[Radio en vivo🎙] Cobreloa vence Puerto Montt y se ilusiona con el ascenso",
    "description": "Este domingo se cierra la fase regular de la Liga de Ascenso , con una gran jornada de partidos en simultáneo que definirá el título entre Cobreloa y San Luis, junto a la lucha por la permanencia entre Rangers, Deportes Santa Cruz y Unión San Felipe. - Sigue los duelos en Coopera",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/radio-en-vivo-cobreloa-define-la-liga-de-ascenso-enfrentando-a-puerto/2026-11-15/115011.html",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/radio-en-vivo-cobreloa-vence-puerto-montt-y-se-ilusiona-con-el/2026-11-15/115011.html",
    "date": "2026-11-15T14:50:11+00:00",
    "category": "Partidos políticos",
    "type": "Prensa"
@@ -799,16 +849,6 @@
    "url": "https://www.france24.com/es/video/20261115-tensiones-en-la-cumbre-de-la-francofon%C3%ADa-por-posible-reelecci%C3%B3n-de-la-secretaria-general",
    "date": "2026-11-15T14:03:07+00:00",
    "category": "África",
-   "type": "Prensa"
-  },
-  {
-   "id": "2af424777487",
-   "source": "Río en Línea",
-   "title": "Emiten aviso por posible formación de trombas marinas en zona costera de Los Ríos",
-   "description": "La Armada de Chile, emitió un aviso por la probabilidad de ocurrencia de nubes convectivas que podrían generar trombas marinas en el sector oceánico y costero comprendido entre la comuna de Arauco y la Región de Los Ríos. De acuerdo con el documento elaborado por el Centro Zonal ",
-   "url": "https://www.rioenlinea.cl/emiten-aviso-por-posible-formacion-de-trombas-marinas-en-zona-costera-de-los-rios/",
-   "date": "2026-11-15T14:00:48+00:00",
-   "category": "Regiones (Los Ríos)",
    "type": "Prensa"
   },
   {
@@ -1092,26 +1132,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7354d7f7792e",
-   "source": "The Guardian",
-   "title": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
-   "description": "Volatile weather predicted after storms on Saturday, with a man in his 20s struck by lightning while swimming on NSW Central Coast Get our breaking news email , free app or daily news podcast Dangerous and severe “supercell” thunderstorms with the potential for giant hail and des",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike",
-   "date": "2026-11-15T01:52:37+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "132a91b0b2b3",
-   "source": "France 24",
-   "title": "Gaza: países árabes y la Unión Europea condenan ataques israelíes al hospital Nasser",
-   "description": "Los ataques israelíes en el Hospital Nasser provocaron una nueva ola de condenas internacionales. Países árabes y la Unión Europea expresaron su preocupación por el impacto de la ofensiva sobre la población civil y reiteraron sus llamados a respetar el derecho internacional human",
-   "url": "https://www.france24.com/es/video/20261115-gaza-pa%C3%ADses-%C3%A1rabes-y-la-uni%C3%B3n-europea-condenan-ataques-israel%C3%ADes-al-hospital-nasser",
-   "date": "2026-11-15T00:34:22+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d0d6e054f336",
    "source": "BBC Mundo",
    "title": "SpaceX logra por primera vez atrapar la parte superior del cohete Starship en su regreso a la Tierra",
@@ -1289,16 +1309,6 @@
    "url": "https://www.ciperchile.cl/2026/11/14/seguimos-llegando-tarde-la-epidemia-silenciosa-de-la-diabetes/?utm_source=rss&utm_medium=rss&utm_campaign=seguimos-llegando-tarde-la-epidemia-silenciosa-de-la-diabetes",
    "date": "2026-11-14T07:00:21+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "0a15b722336e",
-   "source": "The Guardian",
-   "title": "University hounded out of Hungary by Orbán reaches out to new government",
-   "description": "Prospect of partial return to Budapest by Central European University suggests confidence in Hungary’s future A university that Viktor Orbán tried to chase out of Hungary is open to expanding its presence in Budapest, in a mark of confidence in the country’s democratic future. Ca",
-   "url": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
-   "date": "2026-11-14T05:00:35+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
