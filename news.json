@@ -1,10 +1,110 @@
 {
- "updated": "2026-11-15T00:47:30.271056+00:00",
+ "updated": "2026-11-15T01:58:30.516005+00:00",
  "items": [
+  {
+   "id": "7354d7f7792e",
+   "source": "The Guardian",
+   "title": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
+   "description": "Volatile weather predicted after storms on Saturday, with a man in his 20s struck by lightning while swimming on NSW Central Coast Get our breaking news email , free app or daily news podcast Dangerous and severe “supercell” thunderstorms with the potential for giant hail and des",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike",
+   "date": "2026-11-15T01:52:37+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "649bc52803af",
+   "source": "Radio Cooperativa",
+   "title": "Diego Sánchez: Dijeron que no íbamos a celebrar más y aquí estamos nuevamente",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Diego Sánchez , arquero y referente de Coquimbo Unido, exteriorizó su orgullo tras la obtención de la Copa de la Liga en el Estadio Santa Laura al mismo tiempo que deslizó un comentario recordando la corona conseguida en la",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/coquimbo/diego-sanchez-dijeron-que-no-ibamos-a-celebrar-mas-y-aqui-estamos/2026-11-14/224823.html",
+   "date": "2026-11-15T01:48:23+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "13726536d529",
+   "source": "Radio Cooperativa",
+   "title": "Hernán Caputto tras el título de Coquimbo: Era díficil igualar lo del año pasado",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Hernán Caputto , director técnico de Coquimbo Unido, festejó la conquista de la primera edición de la Copa de la Liga tras superar a O'Higgins en el Santa Laura y aplaudió la jerarquía de sus dirigidos junto con advertir qu",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/coquimbo/hernan-caputto-tras-el-titulo-de-coquimbo-era-dificil-igualar-lo-del/2026-11-14/223220.html",
+   "date": "2026-11-15T01:32:20+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "c1360db95150",
+   "source": "Radio Cooperativa",
+   "title": "Unión Europea condenó ataque de Israel al hospital en Gaza y exigió garantizar ayuda humanitaria",
+   "description": "La Unión Europea (UE) condenó este sábado el ataque por parte de Israel al hospital gazatí de Nasser que mató a siete personas , entre ellas un médico y un niño de trece años , y recriminó que un año después del alto al fuego todavía no hay \"condiciones de vida aceptables y digna",
+   "url": "https://www.cooperativa.cl/noticias/mundo/medio-oriente/conflicto-israel-palestina/union-europea-condeno-ataque-de-israel-al-hospital-en-gaza-y-exigio/2026-11-14/222716.html",
+   "date": "2026-11-15T01:27:16+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "3eaba2ada34b",
+   "source": "Al Jazeera",
+   "title": "SpaceX’s Starship nails a smooth return with historic catch",
+   "description": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+   "date": "2026-11-15T01:22:01+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "32fbfa3d95f9",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] ¿El blooper del año?: Arquero intentó sacar con la mano y metió un insólito autogol en Argentina",
+   "description": "Una de las jugadas más insólitas y bochornosas de la temporada en el fútbol sudamericano se registró en Argentina, luego de que el arquero de Comunicaciones, Ezequiel Bacher, protagonizara un blooper de antología al anotarse un increíble gol en contra con sus propias manos frente",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-argentina/video-el-blooper-del-ano-arquero-intento-sacar-con-la-mano-y-metio/2026-11-14/221531.html",
+   "date": "2026-11-15T01:15:31+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "632d431a1438",
+   "source": "Al Jazeera",
+   "title": "Israeli air strike kills senior Hamas commander in Gaza",
+   "description": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+   "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+   "date": "2026-11-15T01:00:42+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "d9c9c3364aa5",
+   "source": "Radio Cooperativa",
+   "title": "Regreso al profesionalismo: Lautaro de Buin venció a Malleco Unido y subió a Segunda División",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes En una electrizante definición disputada en el Estadio Municipal de Linares, Lautaro de Buin selló su ansiado retorno al profesionalismo tras derrotar por 1-0 a Malleco Unido, adjudicándose el segundo cupo de ascenso a la S",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/tercera-division/regreso-al-profesionalismo-lautaro-de-buin-vencio-a-malleco-unido-y/2026-11-14/215628.html",
+   "date": "2026-11-15T00:56:28+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "048944a3f014",
+   "source": "Deutsche Welle",
+   "title": "SpaceX logra la histórica captura de su nave espacial Starship",
+   "description": "Tras un descenso controlado, el vehículo espacial fue capturado por primera vez por los brazos de la torre de lanzamiento.",
+   "url": "https://www.dw.com/es/spacex-logra-la-histórica-captura-de-su-nave-espacial-starship/a-79950553?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-15T00:50:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "36187a354f5b",
+   "source": "Radio Cooperativa",
+   "title": "Murió Carlos Grollmus, una de las víctimas del atentado a su molino en Contulmo",
+   "description": "A los 83 años falleció Carlos Grollmus , una de las víctimas del ataque incendiario que destruyó el emblemático Molino Grollmus en agosto de 2022 en la comuna de Contulmo , Región del Biobío. El caso judicializó la participación de casi una veintena de personas y culminó con sent",
+   "url": "https://www.cooperativa.cl/noticias/pais/judicial/casos-emblematicos/murio-carlos-grollmus-una-de-las-victimas-del-atentado-a-su-molino-en/2026-11-14/213935.html",
+   "date": "2026-11-15T00:39:35+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "f226a9d6141d",
    "source": "Radio Cooperativa",
-   "title": "[VIDEO] El tenso encontrón del \"Mono\" Sánchez con jugadores de O'Higgins tras el título de Coquimbo",
+   "title": "[VIDEO] El tenso encontrón del \"Mono\" Sánchez con jugadores de O'Higgins tras título de Coquimbo",
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Una tarde consagratoria vivió Coquimbo Unido tras proclamarse flamante campeón de la Copa de la Liga, luego de brindar una exhibición de contundencia en el Estadio Santa Laura para vencer por 3-0 a O'Higgins de Rancagua baj",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/video-el-tenso-encontron-del-mono-sanchez-con-jugadores-de-o-higgins/2026-11-14/213429.html",
    "date": "2026-11-15T00:34:29+00:00",
@@ -18,6 +118,26 @@
    "description": "Los ataques israelíes en el Hospital Nasser provocaron una nueva ola de condenas internacionales. Países árabes y la Unión Europea expresaron su preocupación por el impacto de la ofensiva sobre la población civil y reiteraron sus llamados a respetar el derecho internacional human",
    "url": "https://www.france24.com/es/video/20261115-gaza-pa%C3%ADses-%C3%A1rabes-y-la-uni%C3%B3n-europea-condenan-ataques-israel%C3%ADes-al-hospital-nasser",
    "date": "2026-11-15T00:34:22+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5d93af893f0e",
+   "source": "Radio Cooperativa",
+   "title": "El festejo de Coquimbo Unido en el Santa Laura tras conquistar la Copa de la Liga",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/el-festejo-de-coquimbo-unido-en-el-santa-laura-tras-conquistar-la-copa/2026-11-14/212926.html",
+   "date": "2026-11-15T00:29:26+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "4e1bc8c76c37",
+   "source": "Al Jazeera",
+   "title": "Hundreds of men march in Switzerland to protest violence against women",
+   "description": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
+   "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+   "date": "2026-11-15T00:27:14+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
@@ -52,6 +172,16 @@
    "type": "Prensa"
   },
   {
+   "id": "550e9f2c2240",
+   "source": "Radio Cooperativa",
+   "title": "Santiago Parade congregó a 80 mil personas en el centro de la capital",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/santiago-parade-congrego-a-80-mil-personas-en-el-centro-de-la-capital/2026-11-14/210555.html",
+   "date": "2026-11-15T00:05:55+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "46d71f7a2518",
    "source": "Radio Cooperativa",
    "title": "Coquimbo Unido alzó la Copa de la Liga con doblete de Luis Riveros ante O'Higgins",
@@ -64,7 +194,7 @@
   {
    "id": "ae949a21e759",
    "source": "Radio Cooperativa",
-   "title": "[VIDEO] Cristiano fue homenajeado en el minuto 7 del partido de Portugal contra Dinamarca",
+   "title": "[VIDEO] Cristiano fue homenajeado en el minuto 7 del partido de Portugal y Dinamarca",
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Los aficionados de Portugal rindieron homenaje este sábado a Cristiano Ronaldo durante el minuto 7 del partido contra Dinamarca , el primero desde que se anunciara su retiro de la mayor figura en la historia del fútbol del ",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/cristiano-ronaldo/video-cristiano-fue-homenajeado-en-el-minuto-7-del-partido-de-portugal/2026-11-14/210202.html",
    "date": "2026-11-15T00:02:02+00:00",
@@ -75,7 +205,7 @@
    "id": "999604162dc5",
    "source": "Al Jazeera",
    "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
-   "description": "Israel has pledged to continue its 'offensive policy' on Gaza as fighting in Yemen grips the region.",
+   "description": "Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
    "date": "2026-11-15T00:00:08+00:00",
    "category": "Oriente Medio",
@@ -98,16 +228,6 @@
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Los problemas en la retaguardia continúan acumulándose para la selección chilena luego de la Roja confirmara este domingo que el defensor Diego Ulloa fue liberado de la convocatoria de La Roja tras confirmarse una lesión de",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nueva-baja-en-defensa-diego-ulloa-fue-liberado-de-la-roja-tras-sufrir/2026-11-14/204644.html",
    "date": "2026-11-14T23:46:44+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "b562962e8144",
-   "source": "Radio Cooperativa",
-   "title": "Coquimbo Unido superó a O'Higgins y se consagró campeón de la Copa de la Liga",
-   "description": "Coquimbo Unido revalidó su exitoso presente y, tras la obtención de la Supercopa 2026 a inicios de año, este sábado venció por 3-0 a O'Higgins en el Estadio Santa Laura en la final de la Copa de la Liga, adjudicándose así la edición inaugural del certamen y asegurando el boleto d",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/coquimbo-unido-supero-a-o-higgins-y-se-consagro-campeon-de-la-copa-de-la/2026-11-14/203541.html",
-   "date": "2026-11-14T23:35:41+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -152,26 +272,6 @@
    "type": "Prensa"
   },
   {
-   "id": "57dc855741c1",
-   "source": "Radio Cooperativa",
-   "title": "En simultáneo por el Chile 2 y el descenso: ANFP programó la penúltima fecha del torneo",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes A la espera del regreso de la actividad oficial tras la fecha FIFA , la ANFP dio a conocer la programación de la fecha 29 de la Liga de Primera, penúltima jornada de la temporada que se disputará entre el sábado 28 y el dom",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/en-simultaneo-por-el-chile-2-y-el-descenso-anfp-programo-la-penultima/2026-11-14/202443.html",
-   "date": "2026-11-14T23:24:43+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "f1fbf7180c1d",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] Luis Riveros comenzó a sellar la final de la Copa de la Liga a favor de Coquimbo",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Luego de un magistral contragolpe, Luis Riveros apareció para anotar su segundo gol personal y marcar el 3-0 de Coquimbo Unido ante O'Higgins en la final de la Copa de la Liga. Mira acá el gol Ver esta publicación en Instag",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/video-luis-riveros-comenzo-a-sellar-la-final-de-la-copa-de-la-liga-a/2026-11-14/200719.html",
-   "date": "2026-11-14T23:07:19+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "de806acd1600",
    "source": "Al Jazeera",
    "title": "Netanyahu says only a unity government can guarantee Israel’s security",
@@ -212,16 +312,6 @@
    "type": "Prensa"
   },
   {
-   "id": "81332c92eb54",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] Guido Vadalá aumentó para Coquimbo en la final de la Copa de la Liga",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Luego de un tiro de esquina conectado por Alejandro Camargo y de una contención a medias de Omar Carabalí, apareció Guido Vadalá para anotar el 2-0 de Coquimbo Unido ante O'Higgins en la final de la Copa de la Liga. Mira ac",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/video-guido-vadala-aumento-para-coquimbo-en-la-final-de-la-copa-de-la/2026-11-14/194836.html",
-   "date": "2026-11-14T22:48:36+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "1b47c7934eb7",
    "source": "Al Jazeera",
    "title": "Explosion near Syria’s capital kills father and child",
@@ -229,16 +319,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
    "date": "2026-11-14T22:43:12+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "9c6e90e71144",
-   "source": "Radio Cooperativa",
-   "title": "Fontaine calificó de \"balde de agua fría\" hallazgos de falsa producción en Codelco",
-   "description": "El presidente del directorio de Codelco , Bernardo Fontaine , catalogó este sábado como un \"balde de agua fría\" los episodios de falsa producción al interior de la cuprífera estatal durante el periodo 2024-2025 . A través de su cuenta en la red social X, la máxima autoridad de la",
-   "url": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/fontaine-califico-de-balde-de-agua-fria-hallazgos-de-falsa-produccion/2026-11-14/193215.html",
-   "date": "2026-11-14T22:32:15+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -279,16 +359,6 @@
    "url": "https://www.dw.com/es/ee-uu-registra-diez-muertes-por-sarampión-y-más-de-5-400-casos-en-lo-que-va-de-2026/a-79950308?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-14T22:20:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "b25bacab0181",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] Luis Riveros aprovechó una genialidad de Zavala y le dio la ventaja a Coquimbo Unido",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Luego de una gran jugada de Cristián Zavala por la banda diestra, apareció Luis Riveros en plena área para marcar el 1-0 de Coquimbo Unido ante O'Higgins en la final de la Copa de la Liga. Mira acá el tanto pirata Ver esta ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/video-luis-riveros-aprovecho-una-genialidad-de-zavala-y-le-dio-la/2026-11-14/191730.html",
-   "date": "2026-11-14T22:17:30+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -348,16 +418,6 @@
    "description": "El líder opositor, encargado por el presidente de Israel para formar Gobierno, retó al actual primer ministro a mostrar su voluntad de cambio. Netanyahu “es consciente de su derrota”, aseguró.",
    "url": "https://www.dw.com/es/eisenkot-llamado-de-netanyahu-a-negociar-sin-condiciones-es-fanfarronada/a-79950135?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-14T20:59:00+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "be783f115065",
-   "source": "Radio Cooperativa",
-   "title": "Cancillería encabezó primer Comité Conjunto Chile-Unión Europea",
-   "description": "El ministro subrogante de Relaciones Exteriores, Patricio Torres , encabezó junto al director para las Américas del Servicio Europeo de Acción Exterior, Pelayo Castro , el primer Comité Conjunto Chile-Unión Europea , establecido en virtud del Acuerdo Marco Avanzado (AMA). Cancill",
-   "url": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/union-europea/cancilleria-encabezo-primer-comite-conjunto-chile-union-europea/2026-11-14/173654.html",
-   "date": "2026-11-14T20:36:54+00:00",
    "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
@@ -572,16 +632,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a9438a4ee47b",
-   "source": "Radio Cooperativa",
-   "title": "[Radio en vivo🎙] Coquimbo superó a O'Higgins en la final de la Copa de la Liga",
-   "description": "Este sábado, la primera edición de la Copa de la Liga conocerá a su monarca con el duelo entre Coquimbo Unido y O'Higgins. Síguelo junto a Cooperativa: Coquimbo Unido 3-0 O'Higgins , Finalizado. Estadio Santa Laura. Sigue el Marcador Virtual de Cooperativa.cl y escucha la transmi",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-de-la-liga/radio-en-vivo-coquimbo-supero-a-o-higgins-en-la-final-de-la-copa-de/2026-11-14/145313.html",
-   "date": "2026-11-14T17:53:13+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "48008014b7b1",
    "source": "Al Jazeera",
    "title": "Rising costs and arrests fuel protests in Central African Republic",
@@ -762,16 +812,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2d6b5706cca0",
-   "source": "Al Jazeera",
-   "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
-   "description": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
-   "date": "2026-11-14T16:13:43+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "13ca049a36ae",
    "source": "The Guardian",
    "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
@@ -782,16 +822,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8dc0c2ad9584",
-   "source": "Al Jazeera",
-   "title": "EU calls for immediate humanitarian access to Gaza",
-   "description": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
-   "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
-   "date": "2026-11-14T15:57:22+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "26849e077759",
    "source": "France 24",
    "title": "Zelenski denuncia presiones de EE. UU. para ceder el Donbass a cambio de entrar en la OTAN",
@@ -799,16 +829,6 @@
    "url": "https://www.france24.com/es/europa/20261114-zelenski-denuncia-presiones-de-ee-uu-para-ceder-el-donbass-a-cambio-de-entrar-en-la-otan",
    "date": "2026-11-14T15:53:08+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "3dac79c28f8b",
-   "source": "Al Jazeera",
-   "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
-   "description": "Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
-   "date": "2026-11-14T15:36:37+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -864,7 +884,7 @@
   {
    "id": "fe0ce4dad17d",
    "source": "France 24",
-   "title": "En directo: el papa León XIV retorna a Chiclayo tras multitudinaria ceremonia en Santa Cruz de Succhubamba",
+   "title": "El papa León XIV retorna a Chiclayo tras multitudinaria ceremonia en Santa Cruz de Succhubamba",
    "description": "El líder del Vaticano ha sostenido este sábado 14 de noviembre actos religiosos tanto en Cajamarca, como en Chiclayo, en el norte de Perú, en su cuarto día de visita por el país donde terminará la gira que ya lo llevó a Uruguay y Argentina. En su primer acto multitudinario en Caj",
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261114-en-directo-el-papa-le%C3%B3n-xiv-contin%C3%BAa-sus-actividades-en-chiclayo-y-cajamarca-en-su-cuarto-d%C3%ADa-de-visita-a-per%C3%BA",
    "date": "2026-11-14T14:21:09+00:00",
@@ -1002,16 +1022,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b6c435da37de",
-   "source": "Deutsche Welle",
-   "title": "La Casa Blanca confirma la celebración de una cumbre inédita entre Donald Trump, Xi Jinping y Vladimir Putin la semana que viene",
-   "description": "Los presidentes de Estados Unidos, China y Rusia se reunirán al margen de la cumbre de la APEC en Shenzhen, que se celebra los días 18 y 19 de noviembre. Abordarán la guerra en Irán, pero no así el conflicto en Ucrania.",
-   "url": "https://www.dw.com/es/la-casa-blanca-confirma-la-celebración-de-una-cumbre-inédita-entre-donald-trump-xi-jinping-y-vladimir-putin-la-semana-que-viene/a-79946919?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-14T07:50:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "e1a5a0d58249",
    "source": "The Guardian",
    "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
@@ -1058,16 +1068,6 @@
    "description": "Prospect of partial return to Budapest by Central European University suggests confidence in Hungary’s future A university that Viktor Orbán tried to chase out of Hungary is open to expanding its presence in Budapest, in a mark of confidence in the country’s democratic future. Ca",
    "url": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
    "date": "2026-11-14T05:00:35+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "9d2e3bd99d6e",
-   "source": "The Guardian",
-   "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
-   "description": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in US US flight outage – live updates Get our breaking news email , free app or daily news podcast Some US-bound flights from Sydney airport were grounded or delayed on Saturday after American",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
-   "date": "2026-11-14T04:56:06+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
