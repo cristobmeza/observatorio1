@@ -1,14 +1,134 @@
 {
- "updated": "2026-11-15T15:33:07.429009+00:00",
+ "updated": "2026-11-15T16:34:58.832577+00:00",
  "items": [
+  {
+   "id": "585dd1c0c415",
+   "source": "Radio Cooperativa",
+   "title": "La Copa Libertadores le dio la bienvenida al clasificado Coquimbo Unido",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Coquimbo Unido sacó pasajes a la fase previa de la próxima Copa Libertadores tras coronarse flamante campeón de la Copa de la Liga , recibiendo el correspondiente saludo por parte del máximo torneo continental . \" ¡Bienveni",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/coquimbo/la-copa-libertadores-le-dio-la-bienvenida-al-clasificado-coquimbo-unido/2026-11-15/131815.html",
+   "date": "2026-11-15T16:18:15+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "19e0c49d9e4f",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] Para el olvido: Arquero de Wanderers falló en gol de Copiapó y se lesionó en el primer tiempo",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Santiago Wanderers se fue al descanso 0-1 abajo ante Deportes Copiapó por la última fecha de la Liga de Ascenso, con el arquero Bayron Martínez como desafortunado protagonista del primer tiempo . Al minuto 6 de partido los ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/video-para-el-olvido-arquero-de-wanderers-fallo-en-gol-de-copiapo-y/2026-11-15/130519.html",
+   "date": "2026-11-15T16:05:19+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
   {
    "id": "0d2300e664fc",
    "source": "The Guardian",
-   "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
+   "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
    "description": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning. Jordan, Egypt, Saudi Arab",
    "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-   "date": "2026-11-15T15:16:41+00:00",
+   "date": "2026-11-15T15:59:04+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "52ca44873833",
+   "source": "Deutsche Welle",
+   "title": "¿Podría la renta básica universal ser parte de la solución en una economía revolucionada por la IA?",
+   "description": "El terremoto económico causado por la inteligencia artificial ha llevado hasta a políticos conservadores a hablar de una renta básica universal. Pero los economistas no están convencidos y los activistas planteas dudas.",
+   "url": "https://www.dw.com/es/¿podría-la-renta-básica-universal-ser-parte-de-la-solución-en-una-economía-revolucionada-por-la-ia/a-79951515?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-15T15:57:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "666e95eeb289",
+   "source": "France 24",
+   "title": "En vivo: el papa es recibido en Cusco para encuentro con miles de fieles en su penúltimo día de gira por Perú",
+   "description": "",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-en-directo-el-papa-visita-cusco-y-la-amazon%C3%ADa-este-domingo-en-su-pen%C3%BAltimo-d%C3%ADa-en-per%C3%BA",
+   "date": "2026-11-15T15:53:12+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "39001dc3b4f8",
+   "source": "Ex-Ante",
+   "title": "Adiós a Castillo Hamburgo: cierra famosa hamburguesería en Ñuñoa y en su lugar abre una nueva fuente de soda",
+   "description": "La casona de Los Tres Antonios 397 -en un edificio de Luciano Kulczweski- albergó un local conocido por sus hamburguesas de gran tamaño, sus cervezas…",
+   "url": "https://www.ex-ante.cl/nacional/adios-castillo-hamburgo-predilecta/",
+   "date": "2026-11-15T15:46:44+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "269e87b3f50d",
+   "source": "Radio Cooperativa",
+   "title": "Congreso Futuro: 30 años de investigación del hantavirus en Chile",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/salud/congreso-futuro-30-anos-de-investigacion-del-hantavirus-en-chile/2026-11-15/124304.html",
+   "date": "2026-11-15T15:43:04+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "e1eeb6d8bc43",
+   "source": "Al Jazeera",
+   "title": "70 bodies recovered from Gaza rubble, thousands still missing",
+   "description": "70 bodies recovered from Gaza rubble, thousands still missing",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
+   "date": "2026-11-15T15:32:43+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "161b3fac6286",
+   "source": "Radio Cooperativa",
+   "title": "Bote con 15 ocupantes se hundió en Valparaíso: hacía pesca deportiva sin autorización",
+   "description": "Una embarcación con 15 ocupantes que realizaba pesca deportiva sin autorización se hundió esta mañana en la Caleta El Membrillo, en la comuna de Valparaíso. Los hechos ocurrieron a las 09:30 horas de este domingo, en medio del operativo de búsqueda del hombre que se encuentra des",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/bote-con-15-ocupantes-se-hundio-en-valparaiso-hacia-pesca-deportiva-sin/2026-11-15/122518.html",
+   "date": "2026-11-15T15:25:18+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "b38161af8e9c",
+   "source": "Al Jazeera",
+   "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+   "description": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
+   "url": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+   "date": "2026-11-15T15:21:21+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "4460cd6c54e4",
+   "source": "Al Jazeera",
+   "title": "20 years of Al Jazeera English: Our story is still being written",
+   "description": "As we celebrate our 20th anniversary, we remain committed to our values and the quality of our journalism.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/15/20-years-of-al-jazeera-english-our-story-is-still-being-written?traffic_source=rss",
+   "date": "2026-11-15T15:21:12+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "c180cab5c592",
+   "source": "Al Jazeera",
+   "title": "Record number of migrants arrive in Spain’s Canary Islands",
+   "description": "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.",
+   "url": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
+   "date": "2026-11-15T15:16:29+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "d481ca142cb0",
+   "source": "Radio Cooperativa",
+   "title": "Emoción a mil: Tenerife honró a Jesús de Miguel con un triunfo en su regreso a las canchas",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El Club Deportivo Tenerife vivió una emotiva jornada este domingo, con su primer partido tras el fallecimiento de Jesús de Miguel y un triunfo de 2-0 como local ante AD Ceuta por la fecha 14 del ascenso español. En la antes",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-espanola/emocion-a-mil-tenerife-honro-a-jesus-de-miguel-con-un-triunfo-en-su/2026-11-15/121555.html",
+   "date": "2026-11-15T15:15:55+00:00",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -19,6 +139,16 @@
    "url": "https://www.bbc.com/mundo/articles/cw5y18j047r4o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-15T15:13:10+00:00",
    "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "aeaf09d3e5e2",
+   "source": "Radio Cooperativa",
+   "title": "Parisi advirtió que en el PDG hay tendencia mayoritaria a apoyar la AC contra Rabat",
+   "description": "El excandidato presidencial y secretario general del Partido de la Gente (PDG), Franco Parisi , aseguró que existe una mayoría dentro de su colectividad que apunta a apoyar la acusación constitucional presentada por la oposición contra el ministro de Justicia y Derechos Humanos, ",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/parisi-advirtio-que-en-el-pdg-hay-tendencia-mayoritaria-a-apoyar-la-ac/2026-11-15/121022.html",
+   "date": "2026-11-15T15:10:22+00:00",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -114,7 +244,7 @@
   {
    "id": "2d71688f704b",
    "source": "Al Jazeera",
-   "title": "Twenty Years of Al Jazeera English: The Counternarrative",
+   "title": "20 Years of Al Jazeera English: The Counter Narrative",
    "description": "Two decades of AJE: Shaping media, amplifying unheard voices and driving global conversations.",
    "url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/15/twenty-years-of-al-jazeera-english-the?traffic_source=rss",
    "date": "2026-11-15T14:29:41+00:00",
@@ -202,16 +332,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a275d9096463",
-   "source": "Radio Cooperativa",
-   "title": "Niemann está a un paso de firmar con su nuevo circuito tras el fin de LIV Golf",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Tras la desaparición de la LIV Golf , el futuro del chileno Joaquín Niemann empezó a aclararse con la definición del circuito donde continuará su carrera. El chileno está a un paso de sellar su llegada al DP World Tour , ci",
-   "url": "https://www.cooperativa.cl/noticias/deportes/golf/joaquin-niemann/niemann-esta-a-un-paso-de-firmar-con-su-nuevo-circuito-tras-el-fin-de/2026-11-15/110705.html",
-   "date": "2026-11-15T14:07:05+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "cf97a3560cb5",
    "source": "France 24",
    "title": "Tensiones en la Cumbre de la Francofonía por posible reelección de la secretaria general",
@@ -279,16 +399,6 @@
    "url": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
    "date": "2026-11-15T13:54:05+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "ea5a69e158ac",
-   "source": "Radio Cooperativa",
-   "title": "Ataque armado en Cerro Navia dejó dos heridos, uno de ellos en riesgo vital",
-   "description": "Dos hombres resultaron heridos de bala , uno de ellos en riesgo vital, tras ser atacados por desconocidos durante la madrugada de este domingo en la comuna de Cerro Navia, Región Metropolitana. El ataque ocurrió pasada la medianoche en la intersección de Tomás Alba Edison con Mon",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/ataque-armado-en-cerro-navia-dejo-dos-heridos-uno-de-ellos-en-riesgo/2026-11-15/105130.html",
-   "date": "2026-11-15T13:51:30+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -382,52 +492,12 @@
    "type": "Prensa"
   },
   {
-   "id": "96cfe264d65d",
-   "source": "Radio Cooperativa",
-   "title": "Ucrania cifró en 1,6 millones las bajas rusas desde el inicio de la guerra",
-   "description": "El ministro de Exteriores ucraniano, Andrí Sibiga, afirmó este domingo que desde el inicio de la guerra de Ucrania con la invasión rusa en 2022, Rusia ha sufrido ya 1,6 millones de bajas entre soldados muertos y heridos. En una publicación en X , Sibiga ridiculizó al presidente r",
-   "url": "https://www.cooperativa.cl/noticias/mundo/europa/ucrania/ucrania-cifro-en-1-6-millones-las-bajas-rusas-desde-el-inicio-de-la-guerra/2026-11-15/102423.html",
-   "date": "2026-11-15T13:24:23+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "ae9cc21bfb0f",
-   "source": "Radio Cooperativa",
-   "title": "Incendio dejó un fallecido y tres viviendas consumidas en Maipú",
-   "description": "Un incendio estructural en la comuna de Maipú dejó a una persona fallecida y tres viviendas consumidas por las llamas de diverso tipo de consideración. De acuerdo a información policial, el hecho ocurrió durante la madrugada en el Pasaje Cruz del Sur, movilizando a un total de 17",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/incendios/incendio-dejo-un-fallecido-y-tres-viviendas-consumidas-en-maipu/2026-11-15/102316.html",
-   "date": "2026-11-15T13:23:16+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "5fe34e4a96fe",
-   "source": "Radio Cooperativa",
-   "title": "Los hutíes liberaron a 600 soldados del Ejército yemení",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/mundo/medio-oriente/yemen/los-huties-liberaron-a-600-soldados-del-ejercito-yemeni/2026-11-15/101458.html",
-   "date": "2026-11-15T13:14:58+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "238b9ab12c3f",
    "source": "BBC Mundo",
    "title": "La mujer que lleva años atrapada en una isla paradisíaca sin poder volver a casa por un problema con su visa",
    "description": "Ruchira Ranasingha, de 50 años, lleva varada en las Islas Cook desde 2023 y quiere regresar a Sri Lanka.",
    "url": "https://www.bbc.com/mundo/articles/crn4ed2ljg8no?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-15T13:13:11+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "666e95eeb289",
-   "source": "France 24",
-   "title": "En directo: el papa llega a Cusco para encuentro con miles de fieles antes de dirigirse a la Amazonía",
-   "description": "En una intensa jornada, León XIV llega a Cusco y Pucallpa, en la selva del Amazonas de la zona este de Perú, antes de volver a Lima en la noche de este domingo 15 de noviembre. Se trata del penúltimo día de su primera gira por el país y la región, que lo llevó también a Uruguay y",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-en-directo-el-papa-visita-cusco-y-la-amazon%C3%ADa-este-domingo-en-su-pen%C3%BAltimo-d%C3%ADa-en-per%C3%BA",
-   "date": "2026-11-15T13:07:51+00:00",
    "category": "América Latina",
    "type": "Prensa"
   },
@@ -595,7 +665,7 @@
    "id": "a9d5a0295dc9",
    "source": "The Guardian",
    "title": "Protest in Prague over media freedom expected to be one of biggest in Czechia’s history",
-   "description": "Hundreds of thousands expected to rally against plan to scrap licence fees and fund broadcasters from state budget Tens of thousands of Czechs are rallying in Prague to protest against what they say is a government attempt to stifle media freedom. The gathering on Sunday to save ",
+   "description": "Hundreds of thousands rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs are rallying in Prague to protest against what they say is a government attempt to stifle media freedom. The gathering on Sunday to save the mand",
    "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
    "date": "2026-11-15T11:17:18+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -612,36 +682,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c2642759458e",
-   "source": "Al Jazeera",
-   "title": "Police confront protesters in clashes across France and Germany",
-   "description": "Tens of thousands took to the streets in cities across France and Germany over rising living costs.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
-   "date": "2026-11-15T11:04:10+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "3de2cc2d2b5b",
-   "source": "Al Jazeera",
-   "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
-   "description": "Ukraine's NATO ambition has always been a red line for the Kremlin. Giving up territory has been a no-no for Ukraine.",
-   "url": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
-   "date": "2026-11-15T10:58:36+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "93d637da752b",
-   "source": "Al Jazeera",
-   "title": "India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression",
-   "description": "India beat Pakistan by one wicket in a thrilling comeback in the final but follow it up with unsporting behaviour.",
-   "url": "https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss",
-   "date": "2026-11-15T10:52:36+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "dd2481985bb4",
    "source": "BBC Mundo",
    "title": "La conmoción en Panamá tras el ataque con explosivos contra la casa de un periodista",
@@ -649,16 +689,6 @@
    "url": "https://www.bbc.com/mundo/articles/cj62pl46r351o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-15T10:40:24+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "414ab4832201",
-   "source": "Al Jazeera",
-   "title": "Spain football coach denies racism ahead of England match",
-   "description": "Spain's coach denied racism exists after England's manager said he would brief his players on anti-racism protocols.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/spain-football-coach-denies-racism-ahead-of-england-match?traffic_source=rss",
-   "date": "2026-11-15T10:28:28+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1062,16 +1092,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4e2dda164210",
-   "source": "France 24",
-   "title": "SpaceX intentará recuperar la nave Starship tras fallo técnico durante su vuelo de prueba número 15",
-   "description": "SpaceX intentará este 14 de noviembre recuperar por primera vez la segunda etapa de su megacohete Starship, luego de que un fallo técnico obligara a descartar la recuperación de su propulsor Super Heavy, que terminó explotando en el agua. Durante su decimoquinto vuelo de prueba, ",
-   "url": "https://www.france24.com/es/video/20261114-spacex-intentar%C3%A1-recuperar-la-nave-starship-tras-fallo-t%C3%A9cnico-durante-su-vuelo-de-prueba-n%C3%BAmero-15",
-   "date": "2026-11-14T17:17:29+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
    "id": "c1f62824e31b",
    "source": "BBC Mundo",
    "title": "Autorizan de nuevo el despegue de aviones en EE.UU. tras la falla que obligó a suspender durante horas miles de vuelos en todo el país",
@@ -1149,16 +1169,6 @@
    "url": "https://www.dw.com/es/se-cierra-la-coalición-de-gobierno-de-izquierda-para-mecklemburgo-pomerania-occidental/a-79948513?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-14T14:36:00+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "7ccf1e79b72e",
-   "source": "Ex-Ante",
-   "title": "[Telón de fondo] La pregunta que deja la huelga de los camioneros. Por Cristián Bofill",
-   "description": "“Esta vez el presidente Kast tenía al frente a la organización sindical más poderosa de Chile y aplicó una lógica opuesta a la del “bencinazo”.…",
-   "url": "https://www.ex-ante.cl/telon-de-fondo/pregunta-que-deja-huelga-camioneros/",
-   "date": "2026-11-14T14:32:30+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1629,16 +1639,6 @@
    "url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
    "date": "2026-11-12T19:15:30+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "33352c3f6df9",
-   "source": "Radio Cooperativa",
-   "title": "Así se transmitirá la fecha final de la Liga de Ascenso: Por TNT Sports y HBO",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La Liga de Ascenso entra en su recta definitiva con la última fecha a disputarse este domingo 15 de noviembre, jornada donde podría definirse al campeón que obtendrá el ascenso directo a la Primera División, se cerrarán los",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/asi-se-transmitira-la-fecha-final-de-la-liga-de-ascenso-por-tnt-sports/2026-11-12/145833.html",
-   "date": "2026-11-12T17:58:33+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
