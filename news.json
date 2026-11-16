@@ -1,6 +1,176 @@
 {
- "updated": "2026-11-16T18:48:50.483146+00:00",
+ "updated": "2026-11-16T19:51:14.937712+00:00",
  "items": [
+  {
+   "id": "42642c29d386",
+   "source": "Ex-Ante",
+   "title": "Crónica: la simbólica estatua de Plaza Baquedano que sigue vandalizada desde el estallido",
+   "description": "Durante décadas fue parte del paisaje de Plaza Italia, aunque pocos santiaguinos reparaban en ella. Hoy la estatua El Genio de la Libertad, pasa desapercibida:…",
+   "url": "https://www.ex-ante.cl/nacional/cronica-plaza-baquedano-vandalizada/",
+   "date": "2026-11-16T19:23:43+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "3eb06fec3fd0",
+   "source": "Al Jazeera",
+   "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+   "description": "Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+   "date": "2026-11-16T19:19:21+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "1dd6053ad525",
+   "source": "Al Jazeera",
+   "title": "Thousands report difficulties accessing accounts online at major US banks",
+   "description": "Customers report online access issues at major US banks, including Chase, Wells Fargo, and Bank of America.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
+   "date": "2026-11-16T19:18:10+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "4be5581df7de",
+   "source": "Radio Cooperativa",
+   "title": "Alcaraz se estrenó en las Finales ATP de Turín con sólido triunfo ante Tiafoe",
+   "description": "El español Carlos Alcaraz, tercero en el ranking mundial, se estrenó con un sólido triunfo en las Finales ATP de Turín, al batir al estadounidense Frances Tiafoe (8°). El español no tuvo dificultades para superar al estadounidense en la pista del Inalpi Arena de Turín, y se impus",
+   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/finales-atp/alcaraz-se-estreno-en-las-finales-atp-de-turin-con-solido-triunfo-ante/2026-11-16/161743.html",
+   "date": "2026-11-16T19:17:43+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "6951aa81f7bc",
+   "source": "The Guardian",
+   "title": "How Milburn won over Labour on tackling rising youth unemployment",
+   "description": "Labour grandee seems to have assuaged MPs’ nerves on need for welfare reform to tackle youth unemployment crisis In a boxing gym in Peterborough almost a year ago, Alan Milburn, freshly appointed to run a government review into the nearly 1 million young people out of work and ed",
+   "url": "https://www.theguardian.com/society/2026/nov/16/how-milburn-won-over-labour-tackling-rising-youth-unemployment",
+   "date": "2026-11-16T19:16:19+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "0947c2365223",
+   "source": "BBC Mundo",
+   "title": "Qué tan poderosas son las pandillas a las que se enfrenta Bukele en Haití",
+   "description": "El presidente de El Salvador ha enviado al menos 2.000 militares de fuerzas especiales al país caribeño.",
+   "url": "https://www.bbc.com/mundo/watch/cxj05r723gpjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T19:14:07+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "aa3c38a0c8c8",
+   "source": "Deutsche Welle",
+   "title": "Un dispensador de píldoras abortivas desafía las leyes de Polonia",
+   "description": "En Polonia, donde las leyes sobre el aborto son muy restrictivas, activistas han instalado un \"Abortomat\", un dispensador de píldoras abortivas para mujeres que desean interrumpir el embarazo.",
+   "url": "https://www.dw.com/es/un-dispensador-de-píldoras-abortivas-desafía-las-leyes-de-polonia/a-79963388?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-16T19:13:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "48d12bc97c32",
+   "source": "Al Jazeera",
+   "title": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
+   "description": "An Israeli government without PM Netanyahu may be close, but a government without his politics is far less certain.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss",
+   "date": "2026-11-16T19:09:09+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "0c61225f3219",
+   "source": "The Guardian",
+   "title": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
+   "description": "Accusations of incompetence follow retreat of Riyadh-backed forces in effort to relieve siege of Taiz and protect Aden Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic Bab al-Mandab strait an",
+   "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+   "date": "2026-11-16T19:04:07+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "754cfe3614ef",
+   "source": "Radio Cooperativa",
+   "title": "Comisión investigadora de AC contra Rabat quedó con mayoría opositora",
+   "description": "Tras el ingreso formal de la acusación constitucional contra el ministro de Justicia, Fernando Rabat , la Cámara de Diputadas y Diputados procedió este lunes al sorteo de la comisión revisora. La instancia quedó integrada por los diputados Carlos Chandía (RN), Lorena Pizarro (PC)",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/comision-investigadora-de-ac-contra-rabat-quedo-con-mayoria-opositora/2026-11-16/155940.html",
+   "date": "2026-11-16T18:59:40+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "75e686411847",
+   "source": "BBC Mundo",
+   "title": "\"Traigan a Jensen de vuelta\": la campaña de los millonarios tecnológicos a favor del regreso de Huang a Nvidia (y qué opina Trump)",
+   "description": "Varios líderes del sector tecnológico abogan por que la junta directiva del gigante de los chips de IA le devuelva el puesto a Jensen Huang.",
+   "url": "https://www.bbc.com/mundo/articles/cm4gnx691zp5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T18:57:49+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "c6ec1b7b6ff8",
+   "source": "The Guardian",
+   "title": "Man appears in court over deaths of two people in Leeds police pursuit crash",
+   "description": "Leigh Ross, 39, charged with causing death by dangerous driving of Cameron Bell, 22, and Jade Langton, 23 A man has appeared in court charged with causing the deaths of two people in a car crash in Leeds. Leigh Ross, 39, was charged in connection with an incident in which Cameron",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/16/man-charged-after-two-people-die-in-leeds-police-pursuit-crash",
+   "date": "2026-11-16T18:55:14+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "6464f5539acf",
+   "source": "France 24",
+   "title": "Gaza, sin tregua de Israel: nuevos ataques, restricciones a la ayuda y proliferación de enfermedades",
+   "description": "El Ministerio de Salud del enclave palestino reportó este lunes tres nuevas muertes por ataques israelíes, elevando a casi 1.650 el número de gazatíes asesinados desde que entró en vigor la aparente tregua en octubre de 2025. En paralelo, Australia, Canadá, Italia y Reino Unido r",
+   "url": "https://www.france24.com/es/medio-oriente/20261116-gaza-sin-tregua-de-israel-nuevos-ataques-restricciones-a-la-ayuda-y-proliferaci%C3%B3n-de-enfermedades",
+   "date": "2026-11-16T18:54:43+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2a7260cea0d6",
+   "source": "Radio Cooperativa",
+   "title": "Conaf lanza campaña \"Un alto al fuego\" ante riesgo de incendios forestales",
+   "description": "El Ministerio de Agricultura y la Corporación Nacional Forestal (Conaf) activaron este lunes la campaña preventiva \" Un alto al fuego \", con el objetivo de reforzar la preparación frente al inicio del periodo de mayor riesgo de incendios forestales en el país . El escenario meteo",
+   "url": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/incendios-forestales/conaf-lanza-campana-un-alto-al-fuego-ante-riesgo-de-incendios-forestales/2026-11-16/154846.html",
+   "date": "2026-11-16T18:48:46+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "8d9487c239f9",
+   "source": "The Guardian",
+   "title": "Devon police renewed shotgun licence of known abuser who later killed his wife",
+   "description": "Ex-marine John Perkins, who also killed himself, had been violent to Kathryn Perkins over 42-year marriage, Exeter inquests hear A “controlling and violent” former Royal Marine who shot his wife dead after she told him she was leaving was allowed to keep two licensed shotguns des",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/16/domestic-abuser-john-perkins-shotguns-kathryn-devon-police",
+   "date": "2026-11-16T18:46:53+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c3e207cc11f9",
+   "source": "Radio Cooperativa",
+   "title": "Mosa aclaró su frase sobre ser el dirigente más exitoso de Colo Colo",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Aníbal Mosa, presidente de Blanco y Negro , envió una carta al director de El Mercurio para aclarar sus declaraciones en una reciente entrevista, cuyo titular lo presentó como el dirigente más exitoso de la historia de Colo",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-aclaro-su-frase-sobre-ser-el-dirigente-mas-exitoso-de-colo-colo/2026-11-16/154202.html",
+   "date": "2026-11-16T18:42:02+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "eea2df2d4302",
+   "source": "Al Jazeera",
+   "title": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
+   "description": "He embraced his Muslim identity, put Gaza on the ballot and showed Democrats a different way forward.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
+   "date": "2026-11-16T18:38:16+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "18336bb0ff78",
    "source": "Radio Cooperativa",
@@ -12,10 +182,20 @@
    "type": "Prensa"
   },
   {
+   "id": "af32f93162b7",
+   "source": "Radio Cooperativa",
+   "title": "Córdova y el amistoso con Colombia: No le doy mucha importancia si es mi último partido o no",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Nicolás Córdova, entrenador de la selección chilena, habló en una extensa conferencia de prensa previa al amistoso con Colombia que cerrará el 2026 de La Roja y dio un repaso a su proceso, reiterando que su proyectó va más ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-el-amistoso-con-colombia-no-le-doy-mucha-importancia-si-es-mi/2026-11-16/153256.html",
+   "date": "2026-11-16T18:32:56+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
    "id": "41f693afe648",
    "source": "The Guardian",
    "title": "Woman accusing David Walliams of grooming her backs staggered age of consent call",
-   "description": "Comments come after Mia Latter, who alleged she was raped by Russell Brand, had said she wanted a change in law A woman who has accused David Walliams of grooming her has said she supports a staggered age of consent. Walliams, 55, has been accused by multiple women of using his p",
+   "description": "Comments come after Mia Latter, who alleged she was raped by Russell Brand, had said she wanted a change in law A woman who has accused David Walliams of grooming her has said she supports a staggered age of consent. Walliams, 55, has been accused of using his power and celebrity",
    "url": "https://www.theguardian.com/tv-and-radio/2026/nov/16/woman-accusing-david-walliams-grooming-backs-staggered-age-of-consent-call",
    "date": "2026-11-16T18:30:20+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -122,26 +302,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1ff47b2b75a9",
-   "source": "The Guardian",
-   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
-   "description": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timings: 3.30pm: A Home Office minister responds to an urgent question about planning p",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-   "date": "2026-11-16T18:02:54+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "963a28036060",
-   "source": "The Guardian",
-   "title": "Police ‘retreating from streets’ due to major funding crisis, chief constables say",
-   "description": "Forces across England and Wales struggle amid financial pressures described as worst for decades Police chiefs say officers are “retreating from the streets” amid the worst financial crisis in decades, which has left nine forces seeking exceptional financial support (EFS) from th",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/16/police-retreating-from-streets-major-funding-crisis-england-wales",
-   "date": "2026-11-16T18:00:50+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "1dfa2b3d2f55",
    "source": "Radio Cooperativa",
    "title": "Felipe Correa y el cambio de estadio para el duelo con Colombia: No es justo hablar de negligencia",
@@ -222,16 +382,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f0aa80c5fff9",
-   "source": "The Guardian",
-   "title": "‘Near-philistine’: fury greets Shakespeare Institute plan to leave Stratford-upon-Avon",
-   "description": "Renowned centre of Shakespeare studies, which is part of University of Birmingham, to move to its Edgbaston campus “Near-philistine”, “ignorant”, “unbelievably stupid”, “terrible”, “extraordinarily sad and shortsighted”, “an appalling act of cultural vandalism”, “a disaster” and ",
-   "url": "https://www.theguardian.com/education/2026/nov/16/near-philistine-fury-shakespeare-institute-plan-leave-stratford-upon-avon-edgbaston",
-   "date": "2026-11-16T17:45:02+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "3aa0693a675d",
    "source": "France 24",
    "title": "Rusia afirma haber interceptado más de 1.300 drones ucranianos",
@@ -239,16 +389,6 @@
    "url": "https://www.france24.com/es/video/20261116-rusia-afirma-haber-interceptado-m%C3%A1s-de-1-300-drones-ucranianos",
    "date": "2026-11-16T17:44:26+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "b8ec0304e7e5",
-   "source": "Radio Cooperativa",
-   "title": "Mamdani disuelve polémica unidad antidisturbios de la Policía de Nueva York",
-   "description": "El alcalde de Nueva York, Zohran Mamdani , anunció este lunes la disolución de la controvertida unidad antidisturbios del Departamento de Policía (NYPD) por el uso excesivo de la fuerza en las manifestaciones, cumpliendo así una de sus principales promesas de campaña. El Grupo de",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/nueva-york/mamdani-disuelve-polemica-unidad-antidisturbios-de-la-policia-de-nueva/2026-11-16/144113.html",
-   "date": "2026-11-16T17:41:13+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -262,16 +402,6 @@
    "type": "Prensa"
   },
   {
-   "id": "99e82a1a5d79",
-   "source": "Radio Cooperativa",
-   "title": "Amistoso de La Roja y Colombia se jugará en el Estadio Monumental",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El amistoso entre La Roja y Colombia, que se disputará este martes a las 20:00 horas (23:00 GMT), se jugará en el Estadio Monumental, luego de las gestiones que hizo la ANFP con Blanco y Negro , ante la imposibilidad de usa",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/amistoso-de-la-roja-y-colombia-se-jugara-en-el-estadio-monumental/2026-11-16/143332.html",
-   "date": "2026-11-16T17:33:32+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "c55a80a59255",
    "source": "Radio Cooperativa",
    "title": "Sin cambios: Kast mantiene defensa a Rabat mientras en la Cámara se disputan los votos para la AC",
@@ -282,19 +412,9 @@
    "type": "Prensa"
   },
   {
-   "id": "4f454c500218",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEOS] Golazo agónico: Así se vivió en Quillota la crucial victoria de San Luis ante San Marcos",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Quillota estalló en júbilo con el esforzado triunfo de San Luis por la cuenta mínima ante San Marcos de Arica en la última fecha del Ascenso, celebrando en masa la posibilidad de definir el título en partido único con Cobre",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/san-luis/videos-golazo-agonico-asi-se-vivio-en-quillota-la-crucial-victoria-de/2026-11-16/143203.html",
-   "date": "2026-11-16T17:32:03+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "7237458abadc",
    "source": "Al Jazeera",
-   "title": "Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role",
+   "title": "Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO",
    "description": "Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.",
    "url": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
    "date": "2026-11-16T17:24:26+00:00",
@@ -309,16 +429,6 @@
    "url": "https://www.dw.com/es/cinco-países-europeos-planean-crear-en-ruanda-un-primer-centro-de-retorno-para-solicitantes-de-asilo-que-hayan-sido-rechazados/a-79962686?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-16T17:23:00+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "ef5a01c29cc8",
-   "source": "Radio Cooperativa",
-   "title": "CChC redujo su proyección de inversión total en construcción para 2026",
-   "description": "La Cámara Chilena de la Construcción (CChC) estimó que la inversión total del sector crecerá un 0,8 por ciento real durante 2026 ; menor a la proyección anterior, que era de 3,5 puntos. El órgano explicó que las razones de la baja se dan por las caídas en infraestructura pública ",
-   "url": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/construccion/cchc-redujo-su-proyeccion-de-inversion-total-en-construccion-para-2026/2026-11-16/142124.html",
-   "date": "2026-11-16T17:21:24+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -339,16 +449,6 @@
    "url": "https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league?traffic_source=rss",
    "date": "2026-11-16T17:15:12+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "8f10665bac85",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] \"Nos mataron\": El descargo contra la dirigencia de Rangers en transmisión post descenso",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Rangers lamentó su descenso a la Liga de Segunda , la tercera categoría del fútbol chileno, y el descontento contra la dirigencia se hizo sentir en la transmisión de la emisora talquina Radio Futura en el partido ante Depor",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/rangers/video-nos-mataron-el-descargo-contra-la-dirigencia-de-rangers-en/2026-11-16/141050.html",
-   "date": "2026-11-16T17:10:50+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -382,11 +482,11 @@
    "type": "Prensa"
   },
   {
-   "id": "15ef291d2e95",
+   "id": "d0fe5f75b24f",
    "source": "Radio Cooperativa",
-   "title": "Nicolás Córdova anticipa en conferencia de prensa el segundo amistoso de La Roja ante Colombia",
+   "title": "La previa del segundo amistoso entre La Roja y Colombia para cerrar el 2026",
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La selección chilena de Nicolás Córdova alista los últimos detalles para cerrar el año con su segundo amistoso ante Colombia, este martes 17 de noviembre a las 20:00 horas.",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/nicolas-cordova-anticipa-en-conferencia-de-prensa-el-segundo-amistoso-de/2026-11-16/135815.html",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-previa-del-segundo-amistoso-entre-la-roja-y-colombia-para-cerrar-el-2026/2026-11-16/135815.html",
    "date": "2026-11-16T16:58:15+00:00",
    "category": "América Latina",
    "type": "Prensa"
@@ -812,26 +912,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e4fead7d18cd",
-   "source": "Al Jazeera",
-   "title": "Beyond the Horizon: Searching for Kenya’s elusive black leopard",
-   "description": "Maasai photographer Latei Moses searches Kenya for the rare wild cat, telling his own story through his lens.",
-   "url": "https://www.aljazeera.com/video/witness/2026/11/16/beyond-the-horizon-searching-for-kenyas-elusive-black-leopard?traffic_source=rss",
-   "date": "2026-11-16T13:30:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "a844051aa788",
-   "source": "Al Jazeera",
-   "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
-   "description": "EU foreign policy chief Kaja Kallas says Russian President Vladimir Putin is making maximalist demands.",
-   "url": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss",
-   "date": "2026-11-16T13:28:23+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "72b2849bc379",
    "source": "The Guardian",
    "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
@@ -849,16 +929,6 @@
    "url": "https://www.ciperchile.cl/2026/11/16/iverco-carretero-y-etesa-viejos-negocios-nuevos-contratos/?utm_source=rss&utm_medium=rss&utm_campaign=iverco-carretero-y-etesa-viejos-negocios-nuevos-contratos",
    "date": "2026-11-16T13:07:49+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "f90bfb22ed80",
-   "source": "Al Jazeera",
-   "title": "Massive boulder rolls down mountain and slams into car in China",
-   "description": "A huge boulder came crashing down a mountain slope onto a car stopped in traffic in Li County, Sichuan, China.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/massive-boulder-rolls-down-mountain-and-slams-into-car-in-china?traffic_source=rss",
-   "date": "2026-11-16T12:55:16+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -889,16 +959,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
    "date": "2026-11-16T12:45:09+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "d91431aa88c1",
-   "source": "Al Jazeera",
-   "title": "British farmers hope UK-EU deal with revive post-Brexit trade",
-   "description": "Al Jazeera’s Charlie Angela speaks to a farmer in Sussex, who hopes a proposed UK-EU deal will ease trade barriers.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/british-farmers-hope-uk-eu-deal-with-revive-post-brexit-trade?traffic_source=rss",
-   "date": "2026-11-16T12:38:20+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1222,26 +1282,6 @@
    "type": "Prensa"
   },
   {
-   "id": "bec4ad34af6b",
-   "source": "Deutsche Welle",
-   "title": "Estados Unidos advierte que retrasos aéreos pueden prolongarse",
-   "description": "Unos 20.000 vuelos han sido retrasados o cancelados desde el viernes y el retorno a la normalidad puede demorar, dijeron las autoridades.",
-   "url": "https://www.dw.com/es/estados-unidos-advierte-que-retrasos-aéreos-pueden-prolongarse/a-79953939?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-16T02:01:00+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "36c0fae40366",
-   "source": "France 24",
-   "title": "Papa León XIV denuncia el \"abandono\" a los pueblos indígenas en Amazonía peruana",
-   "description": "El papa León XIV llegó este 15 de noviembre a Pucallpa, en la Amazonía peruana, tras su paso por Cusco, en el quinto y penúltimo día de su visita apostólica a Perú. En la ciudad selvática se reunió con pueblos indígenas, condenó la explotación de la selva e instó a los católicos ",
-   "url": "https://www.france24.com/es/video/20261116-papa-le%C3%B3n-xiv-denuncia-el-abandono-a-los-pueblos-ind%C3%ADgenas-en-amazon%C3%ADa-peruana",
-   "date": "2026-11-16T01:42:24+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "f5a054de2d32",
    "source": "The Guardian",
    "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
@@ -1319,16 +1359,6 @@
    "url": "https://www.bbc.com/mundo/articles/cr930qe3pwx3o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-15T19:16:49+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "49de4892a7a5",
-   "source": "Ex-Ante",
-   "title": "Cuba sin agua: la crisis hídrica que remata a una economía en ruinas",
-   "description": "Casi 2,7 millones de cubanos no reciben agua en sus casas. Dos tercios de los cortes se explican por los apagones. La CEPAL proyecta que…",
-   "url": "https://www.ex-ante.cl/internacional/cuba-sin-agua-economia-en-ruinas/",
-   "date": "2026-11-15T18:48:47+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -1642,16 +1672,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6d2f0549e48d",
-   "source": "BBC Mundo",
-   "title": "Cómo el escándalo sexual del gigante tecnológico Nvidia está salpicando a la Casa Blanca",
-   "description": "Puede que la vida personal de Jensen Huang haya desencadenado la crisis, pero ahora las preguntas llegan hasta la propia Casa Blanca.",
-   "url": "https://www.bbc.com/mundo/articles/cve87dj13r0do?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-13T21:30:10+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "1ee214a2fd5b",
    "source": "CIPER Chile",
    "title": "Discusión del Presupuesto 2027: ¿y si no le alcanza la plata al Gobierno?",
@@ -1659,16 +1679,6 @@
    "url": "https://www.ciperchile.cl/2026/11/13/discusion-del-presupuesto-2027-y-si-no-le-alcanza-la-plata-al-gobierno/?utm_source=rss&utm_medium=rss&utm_campaign=discusion-del-presupuesto-2027-y-si-no-le-alcanza-la-plata-al-gobierno",
    "date": "2026-11-13T21:14:56+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "38a0076fefa8",
-   "source": "BBC Mundo",
-   "title": "\"Esta es la ciudad del Papa, del Papa peruano\": la emotiva vuelta a casa de León XIV a Chiclayo",
-   "description": "La primera visita de León XIV a Chiclayo desde que fue obispo de la ciudad entre 2015 y 2023 se volvió un motivo de peregrinación y fiesta. BBC Mundo estuvo allí.",
-   "url": "https://www.bbc.com/mundo/articles/cr15e3p8yjeko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-13T19:47:03+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -1690,16 +1700,6 @@
    "date": "2026-11-13T15:22:09+00:00",
    "category": "Elecciones",
    "type": "Oficial"
-  },
-  {
-   "id": "5a3e0384f833",
-   "source": "The Guardian",
-   "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
-   "description": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications to",
-   "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
-   "date": "2026-11-13T13:52:11+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
   },
   {
    "id": "3bc1c73f7aee",
