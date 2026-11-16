@@ -1,14 +1,134 @@
 {
- "updated": "2026-11-16T04:00:58.238499+00:00",
+ "updated": "2026-11-16T05:33:02.196350+00:00",
  "items": [
+  {
+   "id": "48b184c76eaf",
+   "source": "Deutsche Welle",
+   "title": "Australia: diputada que perdió sus piernas en ataque sale del hospital",
+   "description": "El 19 de octubre Helen Haines estaba de pie cerca de su coche en la localidad rural de Wangaratta cuando fue atropellada; estoy \"llena de gratitud\", dijo al salir del hospital.",
+   "url": "https://www.dw.com/es/australia-diputada-que-perdió-sus-piernas-en-ataque-sale-del-hospital/a-79954367?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-16T05:13:00+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "1c0668da7d2e",
+   "source": "The Guardian",
+   "title": "MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation",
+   "description": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanks Australians for charity donations Get our daily political email , free app or daily news podcast The independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was ",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+   "date": "2026-11-16T05:05:07+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "1199c40b402a",
+   "source": "The Guardian",
+   "title": "Ministers accused of ‘gambling with safety’ for not knowing cost of NHS maternity unit repairs",
+   "description": "NHS chiefs said last year that 43% of maternity and neonatal units in England do not meet safety standards Ministers have been accused of “gambling with the safety of mothers and babies” after admitting they do not know how much repairing decrepit maternity units would cost. NHS ",
+   "url": "https://www.theguardian.com/society/2026/nov/16/ministers-safety-not-know-cost-nhs-maternity-unit-repairs-england",
+   "date": "2026-11-16T05:00:34+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "86489c308e00",
+   "source": "The Guardian",
+   "title": "Will Spain’s snap election in November bring a far-right party into government?",
+   "description": "Country’s sixth general election in 11 years could lead to far-right role in government for first time since Franco’s death Spaniards head to the polls on 29 November to vote in the country’s sixth general election in 11 years. The snap election could end eight years of socialist",
+   "url": "https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government",
+   "date": "2026-11-16T05:00:33+00:00",
+   "category": "Socialismo y pensamiento económico",
+   "type": "Prensa"
+  },
+  {
+   "id": "5efd9f1d2ad7",
+   "source": "Al Jazeera",
+   "title": "Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’",
+   "description": "Iran-aligned Kataib Hezbollah says the group is subjected to 'blackmail' to force disarmament amid US pressure on Iraq.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss",
+   "date": "2026-11-16T04:53:42+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "7e2a77f9e84a",
+   "source": "Al Jazeera",
+   "title": "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
+   "description": "Chinese tech executive romantically linked to ex-Nvidia CEO Jensen Huang left in August 2025, Singapore-based firm says.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025?traffic_source=rss",
+   "date": "2026-11-16T04:46:49+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "deccc4056800",
+   "source": "The Guardian",
+   "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
+   "description": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with the US president, Do",
+   "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+   "date": "2026-11-16T04:39:20+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "95e4a8baf1f7",
+   "source": "Al Jazeera",
+   "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
+   "description": "Prabowo says his government has a 'zero-tolerance policy' for firms that contribute to blazes and pledges strict action.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss",
+   "date": "2026-11-16T04:11:53+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "8bc6384deb54",
+   "source": "The Guardian",
+   "title": "Coles investigates cyber-attack and apologises to customers",
+   "description": "Supermarket giant says no customer, team or supplier data compromised but recommends updating passwords as a precaution Get our breaking news email , free app or daily news podcast Australia’s second-largest retailer has been targeted in a cyber-attack, though it is still too ear",
+   "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
+   "date": "2026-11-16T04:04:37+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "4023a9d76580",
+   "source": "BBC Mundo",
+   "title": "Cómo el auge de la ultraderecha en Alemania está afectando a los migrantes latinoamericanos",
+   "description": "Varios migrantes latinoamericanos en Alemania le contaron a BBC Mundo cómo la discriminación y el temor al avance de la ultraderecha en el país están afectando sus vidas.",
+   "url": "https://www.bbc.com/mundo/articles/c95yn80g6l72o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T04:04:27+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
   {
    "id": "28e19df2e910",
    "source": "The Guardian",
    "title": "Tech failure forces hundreds of University of Melbourne students to abandon final exams mid-test",
-   "description": "Students left in limbo after digital platform fails during exams, with university saying ‘third-party technical partners’ likely to blame for issue Hundreds of students at the University of Melbourne were forced to abandon their final exams on Monday morning after many were unabl",
+   "description": "Students left in limbo after digital platform fails during exams, with university saying ‘third-party technical partners’ likely to blame for issue Get our breaking news email , free app or daily news podcast Hundreds of students at the University of Melbourne were forced to aban",
    "url": "https://www.theguardian.com/australia-news/2026/nov/16/university-of-melbourne-students-exams-cancelled-tech-issue",
    "date": "2026-11-16T03:54:54+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "29112b30471f",
+   "source": "Al Jazeera",
+   "title": "Pope Leo flies to mass in the Papacoptero",
+   "description": "Pope Leo was filmed flying in the cockpit of an army helicopter to celebrate mass",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-leo-flies-to-mass-in-the-papacoptero?traffic_source=rss",
+   "date": "2026-11-16T03:54:04+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "7dfbf2092d3c",
+   "source": "Al Jazeera",
+   "title": "Shophouse fire kills at least 11 in Phuket",
+   "description": "Fire engulfed buildings in Thailand’s popular tourist town of Patong, killing several people and injuring many others.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/shophouse-fire-kills-at-least-11-in-phuket?traffic_source=rss",
+   "date": "2026-11-16T03:51:43+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -32,22 +152,22 @@
    "type": "Prensa"
   },
   {
+   "id": "5822f585cde9",
+   "source": "Radio Cooperativa",
+   "title": "Gran marco familiar y apoyo internacional marcan las primeras tres jornadas de la Filsa 2026",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/cultura/literatura/ferias-del-libro/gran-marco-familiar-y-apoyo-internacional-marcan-las-primeras-tres/2026-11-16/003326.html",
+   "date": "2026-11-16T03:33:26+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "2b7bf3498666",
    "source": "The Guardian",
    "title": "Australia’s national medical research body advises conditional use of puberty blockers for transgender children",
    "description": "New National Health and Medical Research Council guidelines at odds with public hospital bans in Queensland and NT Get our breaking news email , free app or daily news podcast Australia’s largest medical research organisation has advised puberty blockers are appropriate for the g",
    "url": "https://www.theguardian.com/australia-news/2026/nov/16/australias-national-medical-research-body-advises-conditional-use-of-puberty-blockers-for-transgender-children",
    "date": "2026-11-16T03:15:43+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "1c0668da7d2e",
-   "source": "The Guardian",
-   "title": "MP Helen Haines’ first words since leaving hospital after alleged attack led to double amputation",
-   "description": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanked Australians for charity donations Get our breaking news email , free app or daily news podcast The independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was a",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
-   "date": "2026-11-16T03:10:22+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -362,16 +482,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8bc6384deb54",
-   "source": "The Guardian",
-   "title": "Coles investigates cyber-attack and apologises to customers",
-   "description": "Supermarket giant says no customer, team or supplier data compromised but recommends customers update passwords Get our breaking news email , free app or daily news podcast Australia’s second-largest retailer has been targeted in a cyber-attack, though it is still too early to te",
-   "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
-   "date": "2026-11-16T00:25:13+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "d3d10d909c42",
    "source": "The Guardian",
    "title": "Digital finance products used to abuse almost 20% of young women and girls, UK report finds",
@@ -499,16 +609,6 @@
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-muere-hist%C3%B3rico-narco-mexicano-miguel-%C3%A1ngel-f%C3%A9lix-gallardo-el-jefe-de-jefes",
    "date": "2026-11-15T22:37:28+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "f1492f3d8230",
-   "source": "Radio Cooperativa",
-   "title": "Encuentro comunitario de seguridad congregó a mil dirigentes en Puerto Montt",
-   "description": "Carabineros, el Gobierno Regional y la Municipalidad de Puerto Montt (Región de Los Lagos) encabezaron la inauguración de las Jornadas de Integración Comunitarias 2026, que contó con la participación de mil dirigentes de la comuna y se abordaron diversas materias orientadas a la ",
-   "url": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/encuentro-comunitario-de-seguridad-congrego-a-mil-dirigentes-en-puerto/2026-11-15/192014.html",
-   "date": "2026-11-15T22:20:14+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -692,16 +792,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1cc6243e00f7",
-   "source": "Al Jazeera",
-   "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
-   "description": "'If we don't stop this outbreak now, it would be the worst Ebola outbreak,' Africa ​CDC director says.",
-   "url": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss",
-   "date": "2026-11-15T20:07:06+00:00",
-   "category": "África",
-   "type": "Prensa"
-  },
-  {
    "id": "6ae1175637c1",
    "source": "Radio Cooperativa",
    "title": "Parlamentarias FA respaldaron a Ximena Ossandón tras ataques republicanos",
@@ -742,26 +832,6 @@
    "type": "Prensa"
   },
   {
-   "id": "bfc4a6dd23dc",
-   "source": "Al Jazeera",
-   "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
-   "description": "Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
-   "date": "2026-11-15T19:02:21+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "4cb4d79f1300",
-   "source": "The Guardian",
-   "title": "Trident nuclear submarine concludes record underwater deployment",
-   "description": "HMS Vengeance’s seven-month patrol prompts fears over slow pace of maintenance of ageing fleet and strain on crew A Trident nuclear submarine has concluded a record seven-month deployment, returning to the Faslane naval base in Scotland where its crew was greeted by the defence s",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
-   "date": "2026-11-15T18:50:33+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "49de4892a7a5",
    "source": "Ex-Ante",
    "title": "Cuba sin agua: la crisis hídrica que remata a una economía en ruinas",
@@ -779,16 +849,6 @@
    "url": "https://www.france24.com/es/europa/20261115-estonia-cerrar%C3%A1-los-pasos-fronterizos-con-rusia-tras-un-intento-de-sabotaje-en-una-f%C3%A1brica-de-drones",
    "date": "2026-11-15T18:47:22+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "c5eb5a73cf58",
-   "source": "Al Jazeera",
-   "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
-   "description": "British royal says he's 'taken a risk' in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.",
-   "url": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
-   "date": "2026-11-15T18:31:52+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -819,26 +879,6 @@
    "url": "https://www.dw.com/es/marina-francesa-intercepta-sumergible-con-toneladas-de-cocaína-en-el-atlántico/a-79953291?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-15T18:10:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "0f8c0562734c",
-   "source": "Al Jazeera",
-   "title": "Christian priest says US denied him a visa for being Palestinian",
-   "description": "A Christian priest from Bethlehem, the birthplace of Jesus, says the US denied him a visa because he is Palestinian.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/christian-priest-says-us-denied-him-a-visa-for-being-palestinian?traffic_source=rss",
-   "date": "2026-11-15T18:07:32+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "d18591285da4",
-   "source": "Al Jazeera",
-   "title": "Estonia to close border crossings with Russia after attack on drone maker",
-   "description": "Eight arrests made in connection with an attempted arson, which Tallinn says was ordered by Russian intelligence.",
-   "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
-   "date": "2026-11-15T18:07:02+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1142,16 +1182,6 @@
    "type": "Prensa"
   },
   {
-   "id": "538637137696",
-   "source": "Deutsche Welle",
-   "title": "Jordania condena a muerte a los autores del atentado contra una iglesia ortodoxa",
-   "description": "Un tribunal jordano decidió la pena máxima contra los tres hombres que el mes pasado mataron a nueve personas y dejaron decenas de heridos en un atentado contra una iglesia ortodoxa griega.",
-   "url": "https://www.dw.com/es/jordania-condena-a-muerte-a-los-autores-del-atentado-contra-una-iglesia-ortodoxa/a-79951383?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-15T08:11:00+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
    "id": "2f20504b1b9f",
    "source": "The Guardian",
    "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
@@ -1332,16 +1362,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e1a5a0d58249",
-   "source": "The Guardian",
-   "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
-   "description": "Eurotunnel owner Getlink wants to replicate ‘airport experience’ at Folkestone and Calais, without making people get out of cars Airport-style passport and fingerprinting controls are to be introduced at Eurotunnel in an attempt to prevent “short-term and long-term chaos” in Folk",
-   "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
-   "date": "2026-11-14T07:00:38+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "d546e674e405",
    "source": "CIPER Chile",
    "title": "El proyecto sobre denuncias falsas y la cifra que nadie ha medido",
@@ -1419,16 +1439,6 @@
    "url": "https://www.ciperchile.cl/2026/11/13/discusion-del-presupuesto-2027-y-si-no-le-alcanza-la-plata-al-gobierno/?utm_source=rss&utm_medium=rss&utm_campaign=discusion-del-presupuesto-2027-y-si-no-le-alcanza-la-plata-al-gobierno",
    "date": "2026-11-13T21:14:56+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "24d5472da115",
-   "source": "The Guardian",
-   "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
-   "description": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvi",
-   "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-   "date": "2026-11-13T19:51:28+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1640,16 +1650,6 @@
    "date": "2026-11-12T19:18:37+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "63ff4ad98adb",
-   "source": "BBC Mundo",
-   "title": "Jensen Huang renuncia como director ejecutivo de Nvidia tras conocerse su relación con una supuesta espía china",
-   "description": "El ejecutivo había admitido el domingo pasado haber sido \"infiel\" a su esposa y pidió disculpas por haber lastimado a su familia.",
-   "url": "https://www.bbc.com/mundo/articles/cq2d9pg47052o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-12T15:59:31+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
   },
   {
    "id": "82fc0f49b558",
