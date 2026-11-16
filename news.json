@@ -1,14 +1,294 @@
 {
- "updated": "2026-11-16T15:03:03.196051+00:00",
+ "updated": "2026-11-16T16:43:14.803615+00:00",
  "items": [
   {
-   "id": "19eb7f590da2",
+   "id": "1838304a3402",
+   "source": "Ex-Ante",
+   "title": "Los pasos de Mercado Pago para dar el salto al negocio de las tarjetas de crédito y disputar terreno a la banca tradicional",
+   "description": "La fintech ligada a Mercado Libre —que ya supera los 4,5 millones de tarjetas con operaciones en Chile—inició los trámites ante la Comisión para el…",
+   "url": "https://www.ex-ante.cl/negocios/mercado-pago-negocio-tarjetas-credito/",
+   "date": "2026-11-16T16:23:47+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e5c7e90c5e00",
+   "source": "The Guardian",
+   "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+   "description": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is ",
+   "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+   "date": "2026-11-16T16:21:40+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "210f550b67d7",
+   "source": "Radio Cooperativa",
+   "title": "Problemas para la Roja: Estadio Nacional fue descartado para amistoso con Colombia",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El Estadio Nacional fue descartado como escenario para el amistoso entre la selección chilena y Colombia , programado para este martes 17 de noviembre a las 20:00 horas, debido a que la cancha del recinto de Ñuñoa no reúne ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/problemas-para-la-roja-estadio-nacional-fue-descartado-para-amistoso/2026-11-16/131913.html",
+   "date": "2026-11-16T16:19:13+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "4427b4d7bbcb",
+   "source": "Radio Cooperativa",
+   "title": "Analista internacional: Xi Jinping podría ganar más en cita con Trump y Putin",
+   "description": "El profesor del Instituto de Estudios Internacionales de la Universidad de Chile Gilberto Aranda estimó que Xi Jinping podría ser el principal beneficiado del encuentro con Donald Trump y Vladimir Putin , previsto para este jueves en Shenzhen, al margen de la cumbre APEC. En conv",
+   "url": "https://www.cooperativa.cl/noticias/economia/foros-internacionales/apec/analista-internacional-xi-jinping-podria-ganar-mas-en-cita-con-trump-y/2026-11-16/131510.html",
+   "date": "2026-11-16T16:15:10+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "1ff47b2b75a9",
+   "source": "The Guardian",
+   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
+   "description": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timings: 3.30pm: A Home Office minister responds to an urgent question about planning p",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+   "date": "2026-11-16T16:11:32+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e5c71ff673cf",
+   "source": "France 24",
+   "title": "Informe desde Bruselas: UE aprueba nuevas sanciones contra personas y entidades rusas",
+   "description": "La Unión Europea aprobó nuevas sanciones para 113 individuos rusos, entre ellas entidades señaladas de difundir contenido propagandista y hackers. Los ministros de Exteriores de la UE buscarían seguir aumentando la lista de sancionados en cada reunión. Informa nuestra corresponsa",
+   "url": "https://www.france24.com/es/video/20261116-informe-desde-bruselas-ue-aprueba-nuevas-sanciones-contra-personas-y-entidades-rusas",
+   "date": "2026-11-16T16:11:13+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "1eef055b1c6a",
+   "source": "Radio Cooperativa",
+   "title": "Cooperativa Deportes: Terminó la fase regular del Ascenso y se avecina la fecha 28 de Primera",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/cooperativa-deportes/opinion/cooperativa-deportes-termino-la-fase-regular-del-ascenso-y-se-avecina/2026-11-16/130939.html",
+   "date": "2026-11-16T16:09:39+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "117851dfd331",
+   "source": "Radio Cooperativa",
+   "title": "Adolescente murió baleado tras discusión por posible atropello de un perro",
+   "description": "Un adolescente de 15 años falleció tras recibir un impacto de bala en la cabeza en la localidad de Queule, al sur de la Región de La Araucanía. Según los antecedentes preliminares, un hombre habría disparado contra el vehículo en el que viajaba la víctima tras una discusión por e",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-la-araucania/adolescente-murio-baleado-tras-discusion-por-posible-atropello-de-un/2026-11-16/130804.html",
+   "date": "2026-11-16T16:08:04+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "46aeb8fbf4c9",
+   "source": "Radio Cooperativa",
+   "title": "Expresidente Boric será papá nuevamente y prepara matrimonio para enero",
+   "description": "El expresidente Gabriel Boric será padre nuevamente y prepara su matrimonio con Paula Carrasco para el próximo año en el Estadio Palestino. Según publicó este lunes La Segunda , la ceremonia, que incluirá una misa al aire libre, se llevará a cabo el próximo 30 de enero. La pareja",
+   "url": "https://www.cooperativa.cl/noticias/pais/gabriel-boric/familia/expresidente-boric-sera-papa-nuevamente-y-prepara-matrimonio-para-enero/2026-11-16/130558.html",
+   "date": "2026-11-16T16:05:58+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "711cd38fbfd3",
+   "source": "France 24",
+   "title": "Rusia asegura que interceptó más de 1.300 drones ucranianos; cientos de ellos apuntaban a Moscú",
+   "description": "Las autoridades rusas aseguraron que interceptaron más de 1.300 drones ucranianos, cientos de ellos con objetivo a Moscú, durante la madrugada de este 16 de noviembre. Uno de los objetivos del ataque fue el puente que conecta a Rusia con Crimea, que tuvo que detener el tráfico po",
+   "url": "https://www.france24.com/es/video/20261116-rusia-asegura-que-intercept%C3%B3-m%C3%A1s-de-1-300-drones-ucranianos-cientos-de-ellos-apuntaban-a-mosc%C3%BA",
+   "date": "2026-11-16T16:02:07+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "0dcffd3af562",
+   "source": "France 24",
+   "title": "León XIV se despide de Perú con un llamado a la solidaridad y reivindica su vínculo con América Latina",
+   "description": "",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261116-le%C3%B3n-xiv-se-despide-de-per%C3%BA-con-un-llamado-a-la-solidaridad-y-reivindica-su-v%C3%ADnculo-con-am%C3%A9rica-latina",
+   "date": "2026-11-16T16:00:08+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "ec4483975826",
+   "source": "Radio Cooperativa",
+   "title": "Investigación reveló millonarios pagos de la AFA por yates de lujo",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La Asociación del Fútbol Argentino volvió a ser apuntada por presunta corrupción, esta vez debido a una investigación de prensa que reveló grandes pagos en concepto de yates de lujo en Europa y Florida . El diario Clarín in",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/internacional/investigacion-revelo-millonarios-pagos-de-la-afa-por-yates-de-lujo/2026-11-16/125942.html",
+   "date": "2026-11-16T15:59:42+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "6065328773ab",
+   "source": "Deutsche Welle",
+   "title": "La COP31 pedirá \"acelerar la eliminación\" de los combustibles fósiles",
+   "description": "La Cumbre del Clima que se celebra en Antalya, Turquía, pide, en su primer borrador final, una transición \"inmediata\" para el uso de los hidrocarburos en los sistemas energéticos.",
+   "url": "https://www.dw.com/es/la-cop31-pedirá-acelerar-la-eliminación-de-los-combustibles-fósiles/a-79960718?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-16T15:49:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "41808086f6f7",
+   "source": "BBC Mundo",
+   "title": "Ordenan repetir el juicio a Lindsay Clancy, la mujer acusada de matar a sus 3 hijos en EE.UU.",
+   "description": "El juez fijó el inicio del juicio para el 29 de marzo de 2027, mientras la fiscalía no precisó qué cargos enfrentará Clancy.",
+   "url": "https://www.bbc.com/mundo/articles/cwr7gv9xpzyyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T15:46:18+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "9f9b5d84b178",
+   "source": "BBC Mundo",
+   "title": "El actor británico Robert Pattinson será el nuevo James Bond",
+   "description": "El protagonista de \"Crepúsculo\" y \"The Batman\" releva a Daniel Craig y se convierte en el séptimo actor que da vida al agente 007.",
+   "url": "https://www.bbc.com/mundo/articles/c64gn38yj4ygo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T15:44:22+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "4963450e902d",
+   "source": "France 24",
+   "title": "Vivienda, estudios y salarios: la rabia joven que recorre Europa",
+   "description": "Las calles de Europa vuelven a llenarse de movilizaciones, con los jóvenes al frente. La falta de acceso a la vivienda, las dificultades en la educación y la pérdida de poder adquisitivo alimentan un descontento que crece en distintos países del continente. En Europa Hoy analizam",
+   "url": "https://www.france24.com/es/programas/europa-hoy/20261116-vivienda-estudios-y-salarios-la-rabia-joven-que-recorre-europa",
+   "date": "2026-11-16T15:41:18+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "65fb00db55b6",
+   "source": "Al Jazeera",
+   "title": "Oil tankers hit sea mines in the Strait of Hormuz",
+   "description": "Oil tankers hit sea mines in the Strait of Hormuz",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
+   "date": "2026-11-16T15:37:49+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "47df645e22db",
+   "source": "Radio Cooperativa",
+   "title": "Deportes La Serena lamentó el fallecimiento de Juan Carvajal, leyenda del club",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Deportes La Serena comunicó este lunes el fallecimiento de Juan Carvajal Mesa , histórico exfutbolista del conjunto \"granate\" que formó parte de dos de los planteles más recordados de la institución durante las décadas de 1",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/la-serena/deportes-la-serena-lamento-el-fallecimiento-de-juan-carvajal-leyenda/2026-11-16/123627.html",
+   "date": "2026-11-16T15:36:27+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "cbe8c6820550",
+   "source": "Deutsche Welle",
+   "title": "Pedro Sánchez y Lula da Silva conversan sobre \"la amenaza ultraderechista\" antes de las elecciones en España",
+   "description": "El presidente de Brasil se reunió en Madrid con el presidente del Gobierno de España menos de dos semanas antes de las elecciones generales en el país.",
+   "url": "https://www.dw.com/es/pedro-sánchez-y-lula-da-silva-conversan-sobre-la-amenaza-ultraderechista-antes-de-las-elecciones-en-españa/a-79961704?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-16T15:33:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "008806c1ff9e",
+   "source": "Al Jazeera",
+   "title": "Students protest as air pollution chokes New Delhi",
+   "description": "Students have taken to the streets to demand accountability from authorities over toxic air pollution in New Delhi.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/students-protest-as-air-pollution-chokes-new-delhi?traffic_source=rss",
+   "date": "2026-11-16T15:27:07+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "03ae659f59eb",
+   "source": "Al Jazeera",
+   "title": "At least 17 killed in two South Africa mass shootings",
+   "description": "Eight men killed in shooting near Pietermaritzburg while six men and three women shot dead near Pretoria.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss",
+   "date": "2026-11-16T15:26:39+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "3872611e812d",
+   "source": "France 24",
+   "title": "Dandora, el vertedero de Nairobi donde se sobrevive entre toneladas de plástico",
+   "description": "Cada día, unas 2.000 toneladas de residuos llegan al vertedero de Dandora, en Nairobi, la capital de Kenia. Allí, cientos de trabajadores buscan materiales reciclables entre montañas de basura, expuestos a condiciones que ponen en riesgo su salud. Pese a su esfuerzo, apenas se re",
+   "url": "https://www.france24.com/es/programas/reporteros/20261116-dandora-el-vertedero-de-nairobi-donde-se-sobrevive-entre-toneladas-de-pl%C3%A1stico",
+   "date": "2026-11-16T15:15:10+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "eca0d461281f",
+   "source": "Radio Cooperativa",
+   "title": "Robert Pattinson abre una nueva era y es confirmado como el próximo James Bond",
+   "description": "Tras años de especulaciones, rumores en la prensa y casting secretos, este lunes se dio a conocer que el actor Robert Pattinson será el encargado de interpretar a \"James Bond\" en las próximas películas de la saga. A través de redes sociales, los estudios Amazon MGM publicaron una",
+   "url": "https://www.cooperativa.cl/noticias/magazine/cine/robert-pattinson-abre-una-nueva-era-y-es-confirmado-como-el-proximo/2026-11-16/121411.html",
+   "date": "2026-11-16T15:14:11+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "8a354d623e1a",
+   "source": "Radio Cooperativa",
+   "title": "¿Una burla? Curicó Unido reaccionó con canción de Américo al descenso de Rangers",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Curicó Unido protagonizó una polémica en redes sociales luego de publicar un mensaje que fue interpretado como una burla hacia su clásico rival, Rangers de Talca, tras el histórico descenso del conjunto rojinegro a la Segun",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/una-burla-curico-unido-reacciono-con-cancion-de-americo-al-descenso-de/2026-11-16/121311.html",
+   "date": "2026-11-16T15:13:11+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "3e30597544f8",
    "source": "Río en Línea",
-   "title": "Adolescente baleado en la zona mandibular falleció en el Hospital de Valdivia",
-   "description": "Un adolescente de 15 años falleció durante la madrugada de este domingo en el Hospital Base de Valdivia, luego de recibir un impacto de bala durante un ataque contra el vehículo en el que viajaba junto a su padre y un grupo de amigos, en la localidad de Queule, comuna de Toltén. ",
-   "url": "https://www.rioenlinea.cl/adolescente-baleado-en-la-zona-mandibular-fallecio-en-el-hospital-de-valdivia/",
-   "date": "2026-11-16T14:53:45+00:00",
+   "title": "CUT Los Ríos exige disculpas públicas a Kunstmann tras polémico mensaje de “monos marcistas”",
+   "description": "La presidenta de la Central Unitaria de Trabajadoras y Trabajadores (CUT) Valdivia, Fabiola Leiva Trujillo, rechazó las expresiones utilizadas por el diputado Leandro Kunstmann (Partido Republicano) en redes sociales y exigió una disculpa pública a la ciudadanía de la Región de L",
+   "url": "https://www.rioenlinea.cl/cut-los-rios-exige-disculpas-publicas-a-kunstmann-tras-polemico-mensaje-de-monos-marcistas/",
+   "date": "2026-11-16T15:10:43+00:00",
    "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "2ad5c071f662",
+   "source": "The Guardian",
+   "title": "Two charged after man run over by van during flags incident in Birmingham",
+   "description": "Pair due to appear in court in December in relation to incident in May that left a man in his 30s with leg injuries Two men have been charged following an incident in Birmingham, where a man was run over by a van after flags were removed from lamp-posts. A man in his 30s was take",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/16/two-charged-man-run-over-by-van-midlands",
+   "date": "2026-11-16T15:01:35+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e7c126cb1fa1",
+   "source": "Radio Cooperativa",
+   "title": "Kast sobre sus antiguos calificativos a Ho Chi Minh: \"Quien habló en ese momento era el candidato\"",
+   "description": "Tras dejar una ofrenda floral en el mausoleo de Ho Chi Minh en Vietnam, el Presidente José Antonio Kast afirmó que sus antiguas críticas hacia el histórico líder de ese país se dieron en el contexto de una candidatura , mientras que hoy en día encabeza una visita de Estado. Al ci",
+   "url": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/vietnam/kast-sobre-sus-antiguos-calificativos-a-ho-chi-minh-quien-hablo-en-ese/2026-11-16/120113.html",
+   "date": "2026-11-16T15:01:13+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "8c8642db39ad",
+   "source": "Radio Cooperativa",
+   "title": "Anticipan inminente anuncio del regreso de Faith No More en Chile",
+   "description": "El regreso a los escenarios del grupo Faith No More ya es una realidad, al igual que el inminente anunció de su retorno a Chile. La semana pasada la banda publicó una foto de su formación para 2027 incluyendo a Trey Spruance , el guitarrista que participó de las grabaciones del i",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/anticipan-inminente-anuncio-del-regreso-de-faith-no-more-en-chile/2026-11-16/115905.html",
+   "date": "2026-11-16T14:59:05+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "4098469ce2cf",
+   "source": "Al Jazeera",
+   "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
+   "description": "Ukraine's military has been relying on the internet service since December 2024 to intercept Russian drones.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss",
+   "date": "2026-11-16T14:58:30+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -22,13 +302,13 @@
    "type": "Prensa"
   },
   {
-   "id": "1ff47b2b75a9",
-   "source": "The Guardian",
-   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
-   "description": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timings: 3.30pm: A Home Office minister responds to an urgent question about planning p",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-   "date": "2026-11-16T14:51:59+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "id": "3807ab0bbf1f",
+   "source": "Radio Cooperativa",
+   "title": "Solari por acuerdo con camioneros: \"La genialidad de Alvarado la pondría en duda\"",
+   "description": "El exministro Ricardo Solari cuestionó en El Primer Café los elogios al ministro del Interior, Claudio Alvarado, por el acuerdo que permitió desactivar el paro de camioneros , al sostener que el Gobierno contaba con antecedentes suficientes para anticipar el conflicto. El preside",
+   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/solari-por-acuerdo-con-camioneros-la-genialidad-de-alvarado-la-pondria/2026-11-16/114715.html",
+   "date": "2026-11-16T14:47:15+00:00",
+   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -64,7 +344,7 @@
   {
    "id": "bdc443b4347c",
    "source": "Al Jazeera",
-   "title": "Infantino made things worse at FIFA than Blatter , says Jurgen Klopp",
+   "title": "Infantino made things worse at FIFA than Blatter, says Jurgen Klopp",
    "description": "The Germany coach believes anyone who replaces the FIFA president should care deeply about the future of football.",
    "url": "https://www.aljazeera.com/sports/2026/11/16/infantino-made-things-worse-at-fifa-than-blatter-says-jurgen-klopp?traffic_source=rss",
    "date": "2026-11-16T14:36:23+00:00",
@@ -112,16 +392,6 @@
    "type": "Prensa"
   },
   {
-   "id": "077f936f2032",
-   "source": "Radio Cooperativa",
-   "title": "Encuentran sin vida a joven que desapareció tras ingresar al mar en Viña",
-   "description": "La Armada informó este lunes que, pasadas las 23:00 horas del domingo, fue encontrado el cadáver de un joven de 25 años que se encontraba desaparecido desde el sábado , tras haber ingresado al mar en el sector de Caleta Abarca , en la comuna de Viña . \"El cuerpo fue desplazado po",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/encuentran-sin-vida-a-joven-que-desaparecio-tras-ingresar-al-mar-en-vina/2026-11-16/112344.html",
-   "date": "2026-11-16T14:23:44+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "fad2176626d7",
    "source": "France 24",
    "title": "Paraguay: los videos falsos de violencia tras la detención de Santiago Peña",
@@ -152,16 +422,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b420e3f5b2f5",
-   "source": "Radio Cooperativa",
-   "title": "Peranic explotó contra dirigentes de San Marcos de Arica",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Nicolás Peranic, portero de San Luis de Quillota , lanzó duras críticas contra los dirigentes de San Marcos de Arica luego de la victoria por 1-0 de su equipo en el Estadio \"Carlos Dittborn \", resultado que permitió a los \"",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/peranic-exploto-contra-dirigentes-de-san-marcos-de-arica/2026-11-16/111817.html",
-   "date": "2026-11-16T14:18:17+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "4050f58614cb",
    "source": "Deutsche Welle",
    "title": "Alphonso Davies sufre nueva lesión y es baja indefinida en el Bayern Múnich",
@@ -182,16 +442,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c0207ad62f6d",
-   "source": "Radio Cooperativa",
-   "title": "Congresista demócrata que activó caso Epstein apuesta por juicio político a Trump",
-   "description": "El congresista demócrata Ro Khanna , uno de los legisladores que activó la investigación sobre el caso Epstein en el Legislativo en 2025, defiende que la mayoría demócrata que llegará al Capitolio en enero puede compaginar los esfuerzos por mejorar la vida de los estadounidenses ",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/congresista-democrata-que-activo-caso-epstein-apuesta-por-juicio/2026-11-16/110952.html",
-   "date": "2026-11-16T14:09:52+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "025777e30079",
    "source": "France 24",
    "title": "La guerra en Yemen se intensifica con avances hutíes mientras Irán ataca bases de EE. UU. en el Golfo",
@@ -199,26 +449,6 @@
    "url": "https://www.france24.com/es/medio-oriente/20261116-la-guerra-en-yemen-se-intensifica-con-avances-hut%C3%ADes-mientras-ir%C3%A1n-ataca-bases-de-ee-uu-en-el-golfo",
    "date": "2026-11-16T14:03:59+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "5d1f434856a3",
-   "source": "Radio Cooperativa",
-   "title": "Partido de Marine Le Pen: \"Ningún banco francés ha querido prestarnos\"",
-   "description": "El partido de la líder ultraderechista francesa Marine Le Pen acusó este lunes que los bancos franceses le están negando los créditos necesarios para financiar la campaña presidencial , que han debido obtener de entidades europeas. El responsable del programa económico de la Agru",
-   "url": "https://www.cooperativa.cl/noticias/mundo/francia/partido-de-marine-le-pen-ningun-banco-frances-ha-querido-prestarnos/2026-11-16/110315.html",
-   "date": "2026-11-16T14:03:15+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "72193242f6cf",
-   "source": "Radio Cooperativa",
-   "title": "RAYE y Rosalía encabezan nominaciones a los Grammy 2027",
-   "description": "Este lunes la Academia de Grabación dio a conocer a los artistas nominados a los premios Grammy 2027 , cuya entrega se realizará el próximo 7 de febrero . Con 11 nominaciones encabeza el listado RAYE , cantante británica que llega a los galardones con su aclamado disco \"This Musi",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/grammy/raye-y-rosalia-encabezan-nominaciones-a-los-grammy-2027/2026-11-16/110309.html",
-   "date": "2026-11-16T14:03:09+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -239,26 +469,6 @@
    "url": "https://www.theguardian.com/environment/2026/nov/16/mushroom-lovers-uk-told-to-avoid-grow-kits-invasive-species-golden-oyster",
    "date": "2026-11-16T14:00:19+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "629be58f15a3",
-   "source": "Radio Cooperativa",
-   "title": "Homenaje de Kast a Ho Chi Minh abre debate sobre coherencia y rol de Estado",
-   "description": "El exsubsecretario del Interior Rodrigo Ubilla reconoció en El Primer Café que existe una contradicción entre las críticas que José Antonio Kast formuló por el homenaje de Michelle Bachelet a Ho Chi Minh y la ofrenda floral que el propio Mandatario entregó durante su visita ofici",
-   "url": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/vietnam/homenaje-de-kast-a-ho-chi-minh-abre-debate-sobre-coherencia-y-rol-de-estado/2026-11-16/105214.html",
-   "date": "2026-11-16T13:52:14+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "384d2d3f5d80",
-   "source": "Radio Cooperativa",
-   "title": "Un nuevo hito para LeBron James: Ya es el tercer máximo asistidor de la NBA",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes LeBron James alcanzó un nuevo hito en su histórica carrera en la NBA al superar a Jason Kidd y convertirse en el tercer máximo asistidor de todos los tiempos, con 12.092 pases de anotación, durante la victoria por 131-124 d",
-   "url": "https://www.cooperativa.cl/noticias/deportes/baloncesto/nba/un-nuevo-hito-para-lebron-james-ya-es-el-tercer-maximo-asistidor-de-la/2026-11-16/104818.html",
-   "date": "2026-11-16T13:48:18+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -292,16 +502,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6b2aab67ef68",
-   "source": "Radio Cooperativa",
-   "title": "Antofagasta: Adulto mayor quedó grave tras ser atacado en la calle por tres perros",
-   "description": "Un hombre de 65 años se encuentra internado grave en el Hospital Regional de Antofagasta luego de haber sido atacado en la vía pública por tres perros de raza dogo argentino . El hecho ocurrió el domingo en la intersección de las calles Vicente Caballero y Baltazar Leighton, en e",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/ataques-de-perros/antofagasta-adulto-mayor-quedo-grave-tras-ser-atacado-en-la-calle-por/2026-11-16/103735.html",
-   "date": "2026-11-16T13:37:35+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "dea8fbfafb87",
    "source": "The Guardian",
    "title": "Under-threat lidos get lifeline as Andy Burnham sets up fund to rebuild pools",
@@ -309,26 +509,6 @@
    "url": "https://www.theguardian.com/lifeandstyle/2026/nov/16/lidos-lifeline-andy-burnham-fund-rebuild-outdoor-pools",
    "date": "2026-11-16T13:35:49+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "aa4ecaf20fac",
-   "source": "Radio Cooperativa",
-   "title": "Klopp pidió la salida de Infantino y aseguró que la FIFA está peor que con Blatter",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Jürgen Klopp, seleccionador de Alemania , lanzó duras críticas contra el presidente de la FIFA, Gianni Infantino , y aseguró que la gestión del dirigente suizo es incluso peor que la de su antecesor, Joseph Blatter, por lo ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/fifa/klopp-pidio-la-salida-de-infantino-y-aseguro-que-la-fifa-esta-peor-que/2026-11-16/103336.html",
-   "date": "2026-11-16T13:33:36+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "cbd09cb08df8",
-   "source": "Radio Cooperativa",
-   "title": "Kast en Vietnam: Venimos con la misión de buscar inversión y trabajo para los chilenos",
-   "description": "El Presidente José Antonio Kast abogó desde Hanói por reforzar el intercambio comercial entre Chile y Vietnam , donde este lunes inauguró un foro empresarial en el marco de una gira asiática que también le llevará a China y Japón. \"Como Gobierno, hemos venido con una misión clara",
-   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-en-vietnam-venimos-con-la-mision-de-buscar-inversion-y-trabajo/2026-11-16/103021.html",
-   "date": "2026-11-16T13:30:21+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -362,16 +542,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6b5cb61d85e6",
-   "source": "France 24",
-   "title": "En directo: 600 drones ucranianos apuntan a Moscú; Kiev ataca el puente de Crimea interrumpe el tráfico",
-   "description": "Las defensas antiaéreas rusas interceptaron 600 drones ucranianos que se dirigían hacia la región de Moscú durante la noche y hasta la mañana del lunes, informó el alcalde de Moscú, Serguéi Sobianin. Ucrania también atacó el puente que une Rusia con Crimea a través del estrecho d",
-   "url": "https://www.france24.com/es/europa/20261116-en-directo-600-drones-ucranianos-apuntan-a-mosc%C3%BA-kiev-ataca-el-puente-de-crimea-interrumpe-el-tr%C3%A1fico-1",
-   "date": "2026-11-16T13:22:24+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "72b2849bc379",
    "source": "The Guardian",
    "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
@@ -379,26 +549,6 @@
    "url": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
    "date": "2026-11-16T13:16:36+00:00",
    "category": "África",
-   "type": "Prensa"
-  },
-  {
-   "id": "4ed5153c914d",
-   "source": "Radio Cooperativa",
-   "title": "El goleador histórico Romelu Lukaku se retiró de la selección de Bélgica",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Romelu Lukaku, delantero de Fenerbahce y máximo goleador histórico de Bélgica , anunció este lunes su retiro de la selección nacional a los 33 años, poniendo fin a una trayectoria de 16 temporadas en las que disputó 135 par",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/internacional/el-goleador-historico-romelu-lukaku-se-retiro-de-la-seleccion-de/2026-11-16/101624.html",
-   "date": "2026-11-16T13:16:24+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "ba7aa05d84f8",
-   "source": "The Guardian",
-   "title": "Ministry of Justice investigating Russell Brand message from prison claiming he is not guilty",
-   "description": "PM’s spokesperson calls message, read out by convicted rapist’s wife on their YouTube channel, ‘clearly appalling’ The Ministry of Justice has launched an investigation into whether Russell Brand has broken prison rules after the jailed comedian shared a message claiming he is no",
-   "url": "https://www.theguardian.com/news/2026/nov/16/ministry-of-justice-investigating-russell-brand-message",
-   "date": "2026-11-16T13:14:58+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -432,16 +582,6 @@
    "type": "Académica"
   },
   {
-   "id": "a77319f143c1",
-   "source": "Radio Cooperativa",
-   "title": "Príncipe Harry en visita sorpresa a Ucrania: \"Van a ganar la guerra\"",
-   "description": "El príncipe Harry, hijo menor del rey británico Carlos III , se reunió con excombatientes y personal médico durante una visita sorpresa a Ucrania, en la que presagió su triunfo ante la invasión rusa. El duque de Sussex, de 42 años, llegó el fin de semana a Leópolis , en el oeste ",
-   "url": "https://www.cooperativa.cl/noticias/mundo/europa/ucrania/principe-harry-en-visita-sorpresa-a-ucrania-van-a-ganar-la-guerra/2026-11-16/095133.html",
-   "date": "2026-11-16T12:51:33+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "671aa1ba8c3e",
    "source": "BBC Mundo",
    "title": "Tengo una deformidad física congénita que escondí de mis padres y compañeros de escuela por el dolor emocional que me causaba",
@@ -449,16 +589,6 @@
    "url": "https://www.bbc.com/mundo/articles/cr15e9qjnxdgo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-16T12:49:59+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "ba17f58db82f",
-   "source": "Radio Cooperativa",
-   "title": "Jensen Huang analiza volver como consejero delegado de Nvidia",
-   "description": "Jensen Huang analiza con sus aliados su posible regreso como consejero delegado de la tecnológica de software estadounidense Nvidia, después de que dimitiera la semana pasada al verse involucrado en una relación con una presunta espía china , informa este lunes el periódico britá",
-   "url": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/jensen-huang-analiza-volver-como-consejero-delegado-de-nvidia/2026-11-16/094625.html",
-   "date": "2026-11-16T12:46:25+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -554,7 +684,7 @@
   {
    "id": "8c9a2e375735",
    "source": "The Guardian",
-   "title": "‘When the sun came out it felt like it opened a scar’ – This is climate breakdown",
+   "title": "‘I saw a picture of a two-year-old girl buried in mud. I knew we had to do something’ – This is climate breakdown",
    "description": "When the floods hit Pakistan he went out to help. Then the water reached his own family. This is Imran Lodhi’s story Location: Dera Ghazi Khan, Pakistan Disaster: Pakistan intense monsoon rainfall Imran Lodhi is a university lecturer with a doctorate in climate change and sustain",
    "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/16/when-the-sun-came-out-it-felt-like-it-opened-a-scar-this-is-climate-breakdown",
    "date": "2026-11-16T12:00:59+00:00",
@@ -724,8 +854,8 @@
   {
    "id": "4727a3ecc751",
    "source": "Al Jazeera",
-   "title": "Jordan bans Telegram over national security concerns",
-   "description": "The measure comes amid a security crackdown after last month's deadly attack on a Greek Orthodox church.",
+   "title": "Jordan and Iraq block Telegram over national security concerns",
+   "description": "Jordan says wants to stop 'attempts to ‌spread extremism' as Iraq says ⁠app failed to 'address non-compliant ⁠content'.",
    "url": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
    "date": "2026-11-16T10:12:28+00:00",
    "category": "Oriente Medio",
@@ -752,16 +882,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b9636ece21ac",
-   "source": "Al Jazeera",
-   "title": "Sadiq Khan: Global North must take responsibility for climate change",
-   "description": "At COP31, Sadiq Khan urges wealthy nations to support the Global South, which bears the brunt of climate change.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/sadiq-khan-global-north-must-take-responsibility-for-climate-change?traffic_source=rss",
-   "date": "2026-11-16T09:52:11+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "3329d24472db",
    "source": "The Guardian",
    "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
@@ -769,16 +889,6 @@
    "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
    "date": "2026-11-16T09:40:29+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "b28542ea463c",
-   "source": "Al Jazeera",
-   "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
-   "description": "Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
-   "date": "2026-11-16T09:31:36+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -792,16 +902,6 @@
    "type": "Prensa"
   },
   {
-   "id": "939a65f7bdbc",
-   "source": "Al Jazeera",
-   "title": "Ronaldinho comes out retirement for 45 mins in Italy’s third division",
-   "description": "Football legend Ronaldinho came out of retirement to play 45 minutes of a match in Italy’s third division.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
-   "date": "2026-11-16T08:54:58+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "28ccfadf6560",
    "source": "The Guardian",
    "title": "NSW halts new law to crack down on underquoting by real estate agents at 11th hour",
@@ -809,16 +909,6 @@
    "url": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-halts-new-law-to-crack-down-on-underquoting-by-real-estate-agents-at-11th-hour",
    "date": "2026-11-16T08:53:22+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "7d381f1ff055",
-   "source": "Al Jazeera",
-   "title": "Kachin: where Myanmar’s rare earth minerals are in tight grip",
-   "description": "In Myanmar’s northern state of Kachin lies millions of dollars worth of rare earth minerals.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss",
-   "date": "2026-11-16T08:49:51+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1162,16 +1252,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b3c255daaad9",
-   "source": "France 24",
-   "title": "Un terremoto, incógnitas sobre las ayudas y una ola terrorista: los 100 días de gobierno de De la Espriella",
-   "description": "Abelardo de la Espriella cumple este domingo 15 de noviembre 100 días al mando de Colombia en medio de un clima de violencia por otra ola de atentados, una lenta reconstrucción tras el terremoto de agosto y señalamientos sobre la gestión de ayudas millonarias para las víctimas de",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-un-terremoto-inc%C3%B3gnitas-sobre-las-ayudas-y-una-ola-terrorista-los-100-d%C3%ADas-de-gobierno-de-de-la-espriella",
-   "date": "2026-11-15T19:11:02+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "49de4892a7a5",
    "source": "Ex-Ante",
    "title": "Cuba sin agua: la crisis hídrica que remata a una economía en ruinas",
@@ -1179,16 +1259,6 @@
    "url": "https://www.ex-ante.cl/internacional/cuba-sin-agua-economia-en-ruinas/",
    "date": "2026-11-15T18:48:47+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "16e6b2ad4746",
-   "source": "France 24",
-   "title": "Estonia cerrará los pasos fronterizos con Rusia tras un intento de “sabotaje” en una fábrica de drones",
-   "description": "Estonia cerrará todos sus pasos fronterizos con Rusia a partir del próximo 1 de diciembre, indicó este domingo 15 de noviembre su ministro de Asuntos Exteriores. El anuncio llega tras un presunto acto de sabotaje contra una empresa de defensa estonia, del cual Tallin responsabili",
-   "url": "https://www.france24.com/es/europa/20261115-estonia-cerrar%C3%A1-los-pasos-fronterizos-con-rusia-tras-un-intento-de-sabotaje-en-una-f%C3%A1brica-de-drones",
-   "date": "2026-11-15T18:47:22+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -1222,26 +1292,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cfabf50b4a42",
-   "source": "France 24",
-   "title": "Informe desde Lima: León XIV resalta la importancia de las tradiciones religiosas populares",
-   "description": "El papa León XIV entregó la Rosa de Oro a la Virgen Reina de Belén en su visita al Parque Arqueológico de Sacsayhuamán, donde resaltó la importancia de las tradiciones religiosas populares como símbolo de unidad. Informa nuestro corresponsal Francisco Zacarías.",
-   "url": "https://www.france24.com/es/video/20261115-informe-desde-lima-le%C3%B3n-xiv-resalta-la-importancia-de-las-tradiciones-religiosas-populares",
-   "date": "2026-11-15T17:54:51+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "87b113667e1b",
-   "source": "France 24",
-   "title": "Véronique Lecaros: \"La Iglesia católica se ha dado cuenta de la importancia de las tradiciones\"",
-   "description": "En su visita a Cusco, el papa León XIV fue recibido por cientos de fieles en el Parque Arqueológico de Sacsayhuamán, ubicada en la parte alta del Cusco, sobre los 3.700 metros de altura sobre el nivel del mar, donde resaltó la importancia de las tradiciones de los pueblos. Para n",
-   "url": "https://www.france24.com/es/video/20261115-v%C3%A9ronique-lecaros-la-iglesia-cat%C3%B3lica-se-ha-dado-cuenta-de-la-importancia-de-las-tradiciones",
-   "date": "2026-11-15T17:49:55+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "424379558dd0",
    "source": "BBC Mundo",
    "title": "Cómo el \"terror rojo\" borró de la historia a Paul Robeson, la \"persona negra más famosa de EE.UU.\"",
@@ -1249,16 +1299,6 @@
    "url": "https://www.bbc.com/mundo/articles/cj7d00x7522o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-15T17:42:06+00:00",
    "category": "Conflictos armados y seguridad internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "4cafe81df571",
-   "source": "France 24",
-   "title": "Tensiones en la Cumbre de la Francofonía por posible reelección de la secretaria general",
-   "description": "🇫🇷 Emmanuel Macron llegó a la cumbre de la Organización Internacional de la Francofonía (OIF), donde las tensiones vinculadas al conflicto en el este de la República Democrática del Congo han marcado el evento.",
-   "url": "https://www.france24.com/es/video/20261115-tensiones-en-la-cumbre-de-la-francofon%C3%ADa-por-posible-reeleccio%CC%81n-de-la-secretaria-general",
-   "date": "2026-11-15T17:31:42+00:00",
-   "category": "África",
    "type": "Prensa"
   },
   {
@@ -1332,16 +1372,6 @@
    "type": "Prensa"
   },
   {
-   "id": "74d80ec48537",
-   "source": "Deutsche Welle",
-   "title": "Un superpetrolero se hunde tras explotarle una mina marina en Ormuz, según informa Irán",
-   "description": "Un segundo buque sufrió también una explosión. En los últimos días, Teherán ha informado de diversos casos similares y sigue advirtiendo contra los intentos de pasar el estrecho.",
-   "url": "https://www.dw.com/es/un-superpetrolero-se-hunde-tras-explotarle-una-mina-marina-en-ormuz-según-informa-irán/a-79952681?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-15T14:28:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "818c6443ee4c",
    "source": "Ex-Ante",
    "title": "Criteria: aprobación de Kast se sitúa por primera vez bajo el 20% y desacuerdo con que siga Rabat sube al 79% (Lea aquí la encuesta)",
@@ -1382,16 +1412,6 @@
    "type": "Prensa"
   },
   {
-   "id": "190ebdb678a6",
-   "source": "Ex-Ante",
-   "title": "La carrera de Amazon, Microsoft y Google por instalar data centers en Chile (y sus pros para ser un hub digital regional)",
-   "description": "La puesta en marcha de la región de Amazon Web Services (AWS), que contempla una inversión superior a US$4.000 millones, se suma a los proyectos…",
-   "url": "https://www.ex-ante.cl/negocios/amazon-pone-marcha-data-center-chile/",
-   "date": "2026-11-15T12:40:48+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "13ce0e7e0a68",
    "source": "Deutsche Welle",
    "title": "Una manifestación del movimiento 'Gen Z regelt' en Berlín se salda con 22 detenidos y tres policías heridos",
@@ -1409,16 +1429,6 @@
    "url": "https://www.bbc.com/mundo/articles/c35yn4xdxz5eo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-15T12:04:15+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "eb56c85c7cd9",
-   "source": "Deutsche Welle",
-   "title": "El Ejército yemení se retira de Bab al Mandeb para reforzar Adén ante el avance de la ofensiva hutí",
-   "description": "Los rebeldes hutíes amplían su control sobre el estrecho, una importante vía marítima que da acceso al Canal de Suez desde el Índico.",
-   "url": "https://www.dw.com/es/el-ejército-yemení-se-retira-de-bab-al-mandeb-para-reforzar-adén-ante-el-avance-de-la-ofensiva-hutí/a-79951870?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-15T11:15:00+00:00",
-   "category": "Conflictos armados y seguridad internacional",
    "type": "Prensa"
   },
   {
@@ -1472,16 +1482,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c1f62824e31b",
-   "source": "BBC Mundo",
-   "title": "Autorizan de nuevo el despegue de aviones en EE.UU. tras la falla que obligó a suspender durante horas miles de vuelos en todo el país",
-   "description": "La FAA había ordenado este viernes suspender todos los despegues de vuelos en Estados Unidos, alegando \"circunstancias extraordinarias\" y motivos de seguridad.",
-   "url": "https://www.bbc.com/mundo/articles/crgqx8jpw3jvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-14T16:59:22+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "7153374e6765",
    "source": "CIPER Chile",
    "title": "Lo que el proyecto de presupuesto 2027 no dice en educación",
@@ -1520,6 +1520,16 @@
    "date": "2026-11-14T15:24:42+00:00",
    "category": "América Latina",
    "type": "Prensa"
+  },
+  {
+   "id": "3b468ed6c0a2",
+   "source": "Estudios Públicos (CEP)",
+   "title": "Modernización del Estado: mucho gabinete, poco municipio",
+   "description": "La Tercera The post Modernización del Estado: mucho gabinete, poco municipio appeared first on CEP Chile .",
+   "url": "https://www.cepchile.cl/modernizacion-del-estado-mucho-gabinete-poco-municipio/",
+   "date": "2026-11-14T15:01:21+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Académica"
   },
   {
    "id": "5d1a0d013b72",
@@ -1589,16 +1599,6 @@
    "url": "https://www.bbc.com/mundo/articles/crn80jqyw993o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-14T03:06:55+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "74974f4984e1",
-   "source": "BBC Mundo",
-   "title": "\"Milagro en el Misisipi\": rescatan a todos los pasajeros de un crucero que volcó en Nueva Orleans tras ser embestido por un buque cisterna",
-   "description": "Más de 120 personas se encontraban en el barco turístico en el momento de la colisión.",
-   "url": "https://www.bbc.com/mundo/articles/c804wpyd29wro?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-14T01:37:16+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -2242,6 +2242,16 @@
    "type": "Oficial"
   },
   {
+   "id": "6e0c03a5cd9e",
+   "source": "Radio Cooperativa",
+   "title": "Hites lanza su Tarjeta Visa con beneficios en salud y descuentos, y la posibilidad de costo cero en administración",
+   "description": "Empresas Hites concretó el lanzamiento masivo de su Tarjeta Hites Visa , nueva tarjeta de crédito abierta que llega con la posibilidad de tener costo de administración $0 y acceso a beneficios en salud, farmacias, entretención y compras a través del programa Hites Pro . Desde hoy",
+   "url": "https://www.cooperativa.cl/noticias/corporativo/noticias/marcas-negocios/hites-lanza-su-tarjeta-visa-con-beneficios-en-salud-y-descuentos-y-la/2026-11-10/114706.html",
+   "date": "2026-11-10T14:47:06+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
    "id": "6742dfef36ae",
    "source": "Naciones Unidas",
    "title": "COP31: la transición energética toma el protagonismo más allá de los combustibles fósiles",
@@ -2340,16 +2350,6 @@
    "date": "2026-11-09T00:00:00+00:00",
    "category": "Comercio internacional",
    "type": "Oficial"
-  },
-  {
-   "id": "0646ae9b0c0a",
-   "source": "The Guardian",
-   "title": "Collision of two trains in Egypt kills at least seven",
-   "description": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ayyat d",
-   "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
-   "date": "2026-11-08T17:51:17+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
   },
   {
    "id": "b792693cd71e",
@@ -2468,16 +2468,6 @@
    "description": "La Tercera The post Sobrecautela appeared first on CEP Chile .",
    "url": "https://www.cepchile.cl/sobrecautela/",
    "date": "2026-11-04T14:37:33+00:00",
-   "category": "Políticas públicas",
-   "type": "Académica"
-  },
-  {
-   "id": "5031b03fd74c",
-   "source": "Estudios Públicos (CEP)",
-   "title": "Naturaleza protegida, futuro compartido: el aporte privado a la conservación en Chile",
-   "description": "Nota de prensa The post Naturaleza protegida, futuro compartido: el aporte privado a la conservación en Chile appeared first on CEP Chile .",
-   "url": "https://www.cepchile.cl/naturaleza-protegida-futuro-compartido-el-aporte-privado-a-la-conservacion-en-chile/",
-   "date": "2026-11-04T13:43:00+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
   },
