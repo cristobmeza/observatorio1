@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-16T02:49:21.811186+00:00",
+ "updated": "2026-11-16T04:00:58.238499+00:00",
  "items": [
+  {
+   "id": "28e19df2e910",
+   "source": "The Guardian",
+   "title": "Tech failure forces hundreds of University of Melbourne students to abandon final exams mid-test",
+   "description": "Students left in limbo after digital platform fails during exams, with university saying ‘third-party technical partners’ likely to blame for issue Hundreds of students at the University of Melbourne were forced to abandon their final exams on Monday morning after many were unabl",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/16/university-of-melbourne-students-exams-cancelled-tech-issue",
+   "date": "2026-11-16T03:54:54+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "8b259adba5d8",
+   "source": "Deutsche Welle",
+   "title": "Hutíes reivindican ataques contra Riad y posiciones saudíes en Yemen",
+   "description": "Los rebeldes dijeron que lanzaron misiles contra el aeropuerto Rey Khalid y el centro financiero de Riad.",
+   "url": "https://www.dw.com/es/hutíes-reivindican-ataques-contra-riad-y-posiciones-saudíes-en-yemen/a-79954134?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-16T03:41:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "fed6771b6cca",
+   "source": "Radio Cooperativa",
+   "title": "Jiménez y su balance tras liderar la CPC: \"afinidad promercado\" con el Gobierno y foco en inversión",
+   "description": "Tras finalizar sus dos años al mando de la Confederación de la Producción y del Comercio (CPC) , Susana Jiménez afirmó tener mayor afinidad con la actual administración de Gobierno debido a su enfoque \"promercado\" y destacó los consensos alcanzados para destrabar proyectos de inv",
+   "url": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/jimenez-y-su-balance-tras-liderar-la-cpc-afinidad-promercado-con-el/2026-11-16/004054.html",
+   "date": "2026-11-16T03:40:54+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "2b7bf3498666",
+   "source": "The Guardian",
+   "title": "Australia’s national medical research body advises conditional use of puberty blockers for transgender children",
+   "description": "New National Health and Medical Research Council guidelines at odds with public hospital bans in Queensland and NT Get our breaking news email , free app or daily news podcast Australia’s largest medical research organisation has advised puberty blockers are appropriate for the g",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/16/australias-national-medical-research-body-advises-conditional-use-of-puberty-blockers-for-transgender-children",
+   "date": "2026-11-16T03:15:43+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "1c0668da7d2e",
+   "source": "The Guardian",
+   "title": "MP Helen Haines’ first words since leaving hospital after alleged attack led to double amputation",
+   "description": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanked Australians for charity donations Get our breaking news email , free app or daily news podcast The independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was a",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+   "date": "2026-11-16T03:10:22+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "3a9d06aa6d1d",
+   "source": "The Guardian",
+   "title": "Senior Hells Angels bikie charged with threatening to kill investigative reporter Nick McKenzie",
+   "description": "Victoria police allege man, suspected of being a chapter president of the gang, sent ‘threats and harassing text messages’ to Nine journalist Get our breaking news email , free app or daily news podcast A senior Hells Angel has been charged with threatening to kill Nine’s investi",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/16/hells-angels-bikie-charged-threats-to-kill-journalist-nick-mckenzie-ntwnfb",
+   "date": "2026-11-16T03:01:43+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "fff9f0811426",
+   "source": "Radio Cooperativa",
+   "title": "Cadem: Aprobación de Kast cayó al 27% y paro camionero tuvo alto respaldo ciudadano",
+   "description": "La aprobación a la gestión del Presidente José Antonio Kast retrocedió dos puntos y llegó al 27% , mientras que la desaprobación trepó al 69%, según los resultados de la última encuesta Plaza Pública Cadem. La baja en las cifras de La Moneda coincidió con un 79% de respaldo ciuda",
+   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/cadem-aprobacion-de-kast-cayo-al-27-y-paro-camionero-tuvo-alto/2026-11-15/235927.html",
+   "date": "2026-11-16T02:59:27+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "bcfcd65f04c7",
+   "source": "Al Jazeera",
+   "title": "ASEAN, China fall short of agreeing on South China Sea code",
+   "description": "Southeast Asian leaders also denounce violence in Myanmar and extend ban on country's leader attending bloc's summits.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss",
+   "date": "2026-11-16T02:46:35+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
   {
    "id": "555d5df7a58f",
    "source": "Radio Cooperativa",
@@ -19,16 +99,6 @@
    "url": "https://www.france24.com/es/programas/cultura/20261116-palacio-la-serie-de-netflix-que-explora-una-de-las-heridas-abiertas-de-colombia",
    "date": "2026-11-16T02:33:53+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "1c0668da7d2e",
-   "source": "The Guardian",
-   "title": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
-   "description": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanked Australians for donations Independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was allegedly attacked by a man outside her electorate office in regional Vict",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
-   "date": "2026-11-16T02:26:24+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -294,21 +364,11 @@
   {
    "id": "8bc6384deb54",
    "source": "The Guardian",
-   "title": "Coles investigating ‘cybersecurity incident’ and apologises to customers",
-   "description": "Supermarket giant says no customer, team or supplier data breached in cyber-attack but recommends customers update passwords Get our breaking news email , free app or daily news podcast Australia’s second-largest retailer has been targeted in a cyber-attack, though it is still to",
+   "title": "Coles investigates cyber-attack and apologises to customers",
+   "description": "Supermarket giant says no customer, team or supplier data compromised but recommends customers update passwords Get our breaking news email , free app or daily news podcast Australia’s second-largest retailer has been targeted in a cyber-attack, though it is still too early to te",
    "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
    "date": "2026-11-16T00:25:13+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "943c322edd49",
-   "source": "Radio Cooperativa",
-   "title": "Humberto Suazo anticipó la definición con Cobreloa: \"Tenemos nuestras armas\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Luego de la agónica victoria conseguida por San Luis en su visita a San Marcos de Arica en la última fecha de la Liga de Ascenso, el adiestrador quillotano Humberto Suazo proyectó el duelo único que definirá al campeón de l",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/humberto-suazo/humberto-suazo-anticipo-la-definicion-con-cobreloa-tenemos-nuestras/2026-11-15/211559.html",
-   "date": "2026-11-16T00:15:59+00:00",
-   "category": "Economía nacional",
    "type": "Prensa"
   },
   {
@@ -382,16 +442,6 @@
    "type": "Prensa"
   },
   {
-   "id": "41444ac7c5b9",
-   "source": "Radio Cooperativa",
-   "title": "Brote de ébola en la RD del Congo suma más de 5.500 muertos",
-   "description": "El brote de ébola declarado hace seis meses en la República Democrática del Congo (RDC) continúa expandiéndose y ya suma más de 11.200 casos y 5.500 muertes , impulsado por el conflicto armado y las dificultades para acceder a las comunidades más aisladas, advirtió este domingo l",
-   "url": "https://www.cooperativa.cl/noticias/mundo/africa/r-d-congo/brote-de-ebola-en-la-rd-del-congo-suma-mas-de-5-500-muertos/2026-11-15/203917.html",
-   "date": "2026-11-15T23:39:17+00:00",
-   "category": "África",
-   "type": "Prensa"
-  },
-  {
    "id": "098f847b1572",
    "source": "Ex-Ante",
    "title": "Cadem: aprobación de Kast baja a 27% en semana marcada por el paro camionero (Lea aquí la encuesta)",
@@ -422,6 +472,16 @@
    "type": "Prensa"
   },
   {
+   "id": "ee3ebd41337f",
+   "source": "France 24",
+   "title": "Inglaterra sacude a España en la Liga de Naciones",
+   "description": "Inglaterra bajó de la nube a la campeona mundial España, a la que derrotó 3-2 este domingo en Madrid y le cortó una racha de 44 partidos sin perder, en un duelo entre dos naciones clasificadas para cuartos de la Liga de Naciones, de los que quedó fuera Italia, goleada 4-1 por Bél",
+   "url": "https://www.france24.com/es/deportes/20261115-inglaterra-sacude-a-espa%C3%B1a-en-la-liga-de-naciones",
+   "date": "2026-11-15T22:41:37+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
    "id": "ded3b7524016",
    "source": "Al Jazeera",
    "title": "England stun Spain to end La Roja’s 43-game unbeaten run",
@@ -439,16 +499,6 @@
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-muere-hist%C3%B3rico-narco-mexicano-miguel-%C3%A1ngel-f%C3%A9lix-gallardo-el-jefe-de-jefes",
    "date": "2026-11-15T22:37:28+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "6a97d71299d8",
-   "source": "The Guardian",
-   "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
-   "description": "Four countries call situation ‘entirely reversible’ in joint statement as flooding exacerbates humanitarian crisis Australia, Canada, the United Kingdom and Italy have urged Israel to allow critical humanitarian aid to enter Gaza, describing the situation on the ground as “dire”.",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
-   "date": "2026-11-15T22:28:02+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -832,16 +882,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9b8cf70b0409",
-   "source": "Al Jazeera",
-   "title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
-   "description": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
-   "date": "2026-11-15T17:39:23+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "4cafe81df571",
    "source": "France 24",
    "title": "Tensiones en la Cumbre de la Francofonía por posible reelección de la secretaria general",
@@ -1002,26 +1042,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cf97a3560cb5",
-   "source": "France 24",
-   "title": "Tensiones en la Cumbre de la Francofonía por posible reelección de la secretaria general",
-   "description": "La unidad de los países francófonos parece estar en juego en la Cumbre de la Francofonía que se desarrolla en Camboya. Con la posible reelección de la ruandesa Louise Mushikiwabo como secretaria general de la organización sobre la mesa, la República Democrática del Congo acusa a ",
-   "url": "https://www.france24.com/es/video/20261115-tensiones-en-la-cumbre-de-la-francofon%C3%ADa-por-posible-reelecci%C3%B3n-de-la-secretaria-general",
-   "date": "2026-11-15T14:03:07+00:00",
-   "category": "África",
-   "type": "Prensa"
-  },
-  {
-   "id": "83821d9a6f2e",
-   "source": "The Guardian",
-   "title": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
-   "description": "Defence briefing released under freedom of information laws shows ADF beholden to US directives when in training Get our breaking news email , free app or daily news podcast Aukus is effectively forcing the Australian navy to comply with a US ban on transgender people in the mili",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb",
-   "date": "2026-11-15T14:00:19+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "238b9ab12c3f",
    "source": "BBC Mundo",
    "title": "La mujer que lleva años atrapada en una isla paradisíaca sin poder volver a casa por un problema con su visa",
@@ -1129,26 +1149,6 @@
    "url": "https://www.dw.com/es/jordania-condena-a-muerte-a-los-autores-del-atentado-contra-una-iglesia-ortodoxa/a-79951383?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-15T08:11:00+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "eac6a34dcfef",
-   "source": "Deutsche Welle",
-   "title": "China cierra acuerdos con países vecinos: ¿expande su presencia militar en el sudeste asiático?",
-   "description": "Durante años, Pekín ha fortalecido sus relaciones económicas con distintos países del sudeste de Asia. La aparición de nuevas instalaciones militares en Laos y Camboya despierta ahora preocupación en la región.",
-   "url": "https://www.dw.com/es/china-cierra-acuerdos-con-países-vecinos-¿expande-su-presencia-militar-en-el-sudeste-asiático/a-79950247?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-15T07:43:00+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "e73631795577",
-   "source": "The Guardian",
-   "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-   "description": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine Australia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn tha",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
-   "date": "2026-11-15T06:22:32+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
