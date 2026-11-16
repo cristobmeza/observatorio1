@@ -1,6 +1,176 @@
 {
- "updated": "2026-11-16T05:33:02.196350+00:00",
+ "updated": "2026-11-16T08:26:57.645394+00:00",
  "items": [
+  {
+   "id": "b3cb1552e1f5",
+   "source": "Al Jazeera",
+   "title": "Ecuador’s president denies existence of US military base",
+   "description": "Daniel Noboa says US personnel in the country for 'temporary activities'.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
+   "date": "2026-11-16T08:14:48+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "f16aa6a774e1",
+   "source": "Al Jazeera",
+   "title": "Why is China resisting a nuclear treaty with the US and Russia?",
+   "description": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss",
+   "date": "2026-11-16T07:54:09+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "cc5e8322e1c6",
+   "source": "The Guardian",
+   "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
+   "description": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain’s young people is politicians’ fault. To fix it, we need a generational response Andy Burnham has pled",
+   "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+   "date": "2026-11-16T07:43:22+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e204bc2b29fb",
+   "source": "Al Jazeera",
+   "title": "At least 11 killed in blaze on Thailand’s Phuket island",
+   "description": "Authorities are investigating the cause of the fire, which also injured 16, but have ruled out arson.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
+   "date": "2026-11-16T07:42:48+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5852c29cc013",
+   "source": "Al Jazeera",
+   "title": "Russia’s Andreeva defeats Ukraine’s Svitolina 7-5, 6-3 to win WTA Finals",
+   "description": "Mirra Andreeva won the final in straight sets to end her first Grand Slam-winning year as world number two.",
+   "url": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals?traffic_source=rss",
+   "date": "2026-11-16T07:13:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e37561b56664",
+   "source": "Al Jazeera",
+   "title": "The Red Sea cannot be secured without restoring the Yemeni state",
+   "description": "Deployment of naval forces to the region cannot restore maritime security. Reinstating the Yemeni government can.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/16/the-red-sea-cannot-be-secured-without-restoring-the-yemeni-state?traffic_source=rss",
+   "date": "2026-11-16T07:06:23+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "4edf72567afb",
+   "source": "The Guardian",
+   "title": "‘It’s like the 16th-century version of doomscrolling’: the Book of Miracles may fetch £1m at auction",
+   "description": "Exclusive: Public institutions get first chance to bid for rare ‘wonderbook’ of apocalyptic visions and extreme weather In one illustration, five suns blaze down on Leipzig in 1551. In another, blood rain falls on Rome in 1456. In a third scene, dated 1552, monstrous hailstones b",
+   "url": "https://www.theguardian.com/books/2026/nov/16/book-of-miracles-apocalyptic-weather-visions-auction",
+   "date": "2026-11-16T07:00:38+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "82ad0771f8f7",
+   "source": "The Guardian",
+   "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+   "description": "Prime minister is to meet European leaders at summit this week and secure agreements that ‘could raise GDP by 0.4%’ Andy Burnham will say on Monday that Brexit “has not worked” and that he will sign a new deal with the EU. It is the latest in a string of comments by the prime min",
+   "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
+   "date": "2026-11-16T07:00:38+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e1ceadad1c5f",
+   "source": "The Guardian",
+   "title": "Ma Wee Tin O’Shortbreid: a journey in search of the real Highlands",
+   "description": "Ma Wee Tin o’ Shortbreid began as a cautionary note: don’t make the Highlands look like a shortbread tin. Then Dougie Wallace shot a Chinese tourist beneath a wee umbrella, and the warning became the title Growing up in Scotland, our family was one of many who kept their photogra",
+   "url": "https://www.theguardian.com/artanddesign/2026/nov/16/dougie-wallace-ma-wee-tin-oshortbreid-highlands-tourism-scotland",
+   "date": "2026-11-16T07:00:37+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "267ebc5ec0a1",
+   "source": "The Guardian",
+   "title": "UK blood services issue urgent appeal for donations as winter approaches",
+   "description": "Supplies are low and reserves of certain types are half of what the UK needs, officials say UK blood services have issued an urgent appeal for 150,000 donations to help the NHS cope with the increase in demand that occurs during the winter. Supplies of blood have run particularly",
+   "url": "https://www.theguardian.com/society/2026/nov/16/uk-blood-services-urgent-appeal-donations-winter",
+   "date": "2026-11-16T07:00:36+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e56ecddfe208",
+   "source": "Al Jazeera",
+   "title": "How Russia is preparing Iran for the next escalation",
+   "description": "Russian space intelligence sharing can help Tehran get ready for an imminent US assault.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation?traffic_source=rss",
+   "date": "2026-11-16T06:57:31+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "4633aebd7a9e",
+   "source": "The Guardian",
+   "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
+   "description": "In today’s newsletter: From situationship to a possible makeup, a look at the evolving relationship, and the bloc’s big feelings about the future Good morning. Ahead of the hotly anticipated UK-EU summit this Friday, Andy Burnham is expected to make the reset of our relationship ",
+   "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
+   "date": "2026-11-16T06:46:27+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "0eba580f7bc0",
+   "source": "The Guardian",
+   "title": "UK exposed to polycrisis of threats amid government ‘complacency’",
+   "description": "Lords report calls for urgent new approach to resilience planning in face of cyber-attacks, sabotage and climate crisis Ministers are complacent in the face of fast-changing and increasingly interconnected threats to the UK, and must act quickly to increase national resilience to",
+   "url": "https://www.theguardian.com/society/2026/nov/16/uk-exposed-to-polycrisis-of-threats-amid-government-complacency",
+   "date": "2026-11-16T06:30:35+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "7275bfbf8c7e",
+   "source": "The Guardian",
+   "title": "Home Office accused of trying to cancel online talk by Andreas Malm",
+   "description": "Hackney mayor decries ‘assault’ on free speech over event featuring academic who is banned from entering UK Shabana Mahmood has been accused of an “assault” on free speech over claims her officials tried to cancel an online talk by the climate academic Andreas Malm days after he ",
+   "url": "https://www.theguardian.com/politics/2026/nov/16/home-office-andreas-malm-climate-academic-online-talk",
+   "date": "2026-11-16T06:00:37+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "787722ce78ca",
+   "source": "Al Jazeera",
+   "title": "US and rivals spar over next UN boss as race lurches towards deadline",
+   "description": "Costa Rica's Rebeca Grynspan is the current frontrunner, polls suggest, but the US and Russia could veto her bid.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss",
+   "date": "2026-11-16T05:57:54+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "1c8d37338116",
+   "source": "Deutsche Welle",
+   "title": "Once muertos en un incendio en isla turística en Tailandia",
+   "description": "El siniestro también dejó 16 personas afectadas por inhalación de humo y lesiones, que fueron trasladadas a un hospital.",
+   "url": "https://www.dw.com/es/once-muertos-en-un-incendio-en-isla-turística-en-tailandia/a-79954395?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-16T05:46:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "59b13819eaab",
+   "source": "Al Jazeera",
+   "title": "Widow of Haiti’s slain leader Moise to contest presidential vote",
+   "description": "Martine Moise is one of ​33 registered candidates running in Haiti's first presidential election in a decade.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote?traffic_source=rss",
+   "date": "2026-11-16T05:38:52+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
   {
    "id": "48b184c76eaf",
    "source": "Deutsche Welle",
@@ -19,26 +189,6 @@
    "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
    "date": "2026-11-16T05:05:07+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "1199c40b402a",
-   "source": "The Guardian",
-   "title": "Ministers accused of ‘gambling with safety’ for not knowing cost of NHS maternity unit repairs",
-   "description": "NHS chiefs said last year that 43% of maternity and neonatal units in England do not meet safety standards Ministers have been accused of “gambling with the safety of mothers and babies” after admitting they do not know how much repairing decrepit maternity units would cost. NHS ",
-   "url": "https://www.theguardian.com/society/2026/nov/16/ministers-safety-not-know-cost-nhs-maternity-unit-repairs-england",
-   "date": "2026-11-16T05:00:34+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "86489c308e00",
-   "source": "The Guardian",
-   "title": "Will Spain’s snap election in November bring a far-right party into government?",
-   "description": "Country’s sixth general election in 11 years could lead to far-right role in government for first time since Franco’s death Spaniards head to the polls on 29 November to vote in the country’s sixth general election in 11 years. The snap election could end eight years of socialist",
-   "url": "https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government",
-   "date": "2026-11-16T05:00:33+00:00",
-   "category": "Socialismo y pensamiento económico",
    "type": "Prensa"
   },
   {
@@ -164,8 +314,8 @@
   {
    "id": "2b7bf3498666",
    "source": "The Guardian",
-   "title": "Australia’s national medical research body advises conditional use of puberty blockers for transgender children",
-   "description": "New National Health and Medical Research Council guidelines at odds with public hospital bans in Queensland and NT Get our breaking news email , free app or daily news podcast Australia’s largest medical research organisation has advised puberty blockers are appropriate for the g",
+   "title": "Queensland and NT to stick with puberty blocker bans for transgender children against NHMRC advice",
+   "description": "Queensland health minister Tim Nicholls says position on treatment ban in public hospitals ‘remains unchanged’ despite new guidelines Get our breaking news email , free app or daily news podcast The federal health minister, Mark Butler, says he’s confident Queensland and Northern",
    "url": "https://www.theguardian.com/australia-news/2026/nov/16/australias-national-medical-research-body-advises-conditional-use-of-puberty-blockers-for-transgender-children",
    "date": "2026-11-16T03:15:43+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -355,7 +505,7 @@
    "id": "f5a054de2d32",
    "source": "The Guardian",
    "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
-   "description": "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025 Get our breaking news email , free app or daily news podcast Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and",
+   "description": "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025 Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang Business live – latest updates Megaspeed International, the company linked to the downfall of the Nvidia chi",
    "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
    "date": "2026-11-16T01:17:04+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -375,7 +525,7 @@
    "id": "6c5d352d81e7",
    "source": "The Guardian",
    "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
-   "description": "Pontiff delivers forceful speech on final day in Peru as he travels from high in the Andes into the Amazon Pope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by Indigenous peoples to stop their lands from being ravage",
+   "description": "Pontiff delivers forceful speech in Peru as he travels from high in the Andes into the Amazon Pope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by Indigenous peoples to stop their lands from being ravaged by logging ",
    "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
    "date": "2026-11-16T01:13:44+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -482,26 +632,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d3d10d909c42",
-   "source": "The Guardian",
-   "title": "Digital finance products used to abuse almost 20% of young women and girls, UK report finds",
-   "description": "Survey respondents describe current or former partners controlling bank accounts and taking out credit online without full consent Almost one in five young women and girls in the UK have experienced digital financial products being used as a tool of abuse by a current or former p",
-   "url": "https://www.theguardian.com/society/2026/nov/15/digital-finance-products-abuse-against-young-women-and-girls-report",
-   "date": "2026-11-16T00:08:23+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "cc5e8322e1c6",
-   "source": "The Guardian",
-   "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
-   "description": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain’s young people is politicians’ fault. To fix it, we need a generational response Andy Burnham has pled",
-   "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
-   "date": "2026-11-16T00:06:13+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "5ad19e597ba8",
    "source": "Al Jazeera",
    "title": "Zambia’s copper boom attracts billions in investment, but who benefits?",
@@ -522,20 +652,10 @@
    "type": "Prensa"
   },
   {
-   "id": "01946d721f53",
-   "source": "The Guardian",
-   "title": "‘Loaded with potential’: stage version of TV smash It’s a Sin has the dancefloor at its heart",
-   "description": "Exclusive: Trailer released for Rambert’s version of Russell T Davies’s show about friendship amid the 80s Aids crisis and the ‘extraordinary freedom’ of clubbing Russell T Davies’s award-winning series It’s a Sin, about young gay friends living through the Aids crisis in 1980s L",
-   "url": "https://www.theguardian.com/stage/2026/nov/16/stage-version-tv-series-its-a-sin-trailer",
-   "date": "2026-11-16T00:01:27+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "aa2caff27a16",
    "source": "Al Jazeera",
-   "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
-   "description": "The USS Theodore Roosevelt has arrived in the Middle East, while Iran warned it would not simply wait for an attack.",
+   "title": "Iran war live: Tensions rise as USS Theodore Roosevelt warship arrives",
+   "description": "USS Theodore Roosevelt aircraft carrier sails into the region as IRGC says naval mines hit more tankers in Hormuz.",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
    "date": "2026-11-16T00:00:00+00:00",
    "category": "Oriente Medio",
@@ -559,16 +679,6 @@
    "url": "https://www.ex-ante.cl/politica/cadem-kast-baja-aprobacion-27-camioneros/",
    "date": "2026-11-15T23:32:23+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "88d19a598108",
-   "source": "The Guardian",
-   "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
-   "description": "Professor urges ministers to use awareness triggered by Russell Brand conviction to examine use of rape myths in trials The debate triggered by high-profile cases must “pull back the curtain” on the treatment of people making allegations of sexual offences in the criminal justice",
-   "url": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser",
-   "date": "2026-11-15T23:19:05+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -622,16 +732,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d3467e158b86",
-   "source": "Al Jazeera",
-   "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-   "description": "The countries accuse Israel of preventing tents and other supplies from entering Gaza, despite the humanitarian crisis.",
-   "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
-   "date": "2026-11-15T22:06:38+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "c8d945ba0051",
    "source": "France 24",
    "title": "Mano dura y un terremoto: los primeros 100 días de De la Espriella en Colombia",
@@ -669,26 +769,6 @@
    "url": "https://www.dw.com/es/escritor-nicaragüense-sergio-ramírez-entra-a-la-rae-y-ocupa-la-silla-de-vargas-llosa/a-79953698?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-15T21:53:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "cea5cd80a077",
-   "source": "Al Jazeera",
-   "title": "US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
-   "description": "Scott Bessent gives Nvidia's board 10 days to show the company's compliance with US export controls.",
-   "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss",
-   "date": "2026-11-15T21:47:47+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "409d1d1761e5",
-   "source": "Al Jazeera",
-   "title": "Yemen’s Houthis unilaterally release 600 war detainees",
-   "description": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
-   "date": "2026-11-15T21:19:08+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -732,46 +812,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4f0a47c46721",
-   "source": "Al Jazeera",
-   "title": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
-   "description": "The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.",
-   "url": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
-   "date": "2026-11-15T20:54:13+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "a802e8a4a36c",
-   "source": "Al Jazeera",
-   "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
-   "description": "For the first time in more than three years, Gaza’s swimming federation has held a competition.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
-   "date": "2026-11-15T20:50:15+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "eb480ffeac45",
-   "source": "Al Jazeera",
-   "title": "Who can force Israel to implement Gaza ceasefire deal?",
-   "description": "Storms batter Palestinian territory as Israel restricts entry of aid.",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
-   "date": "2026-11-15T20:37:43+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "7523468393d9",
-   "source": "Al Jazeera",
-   "title": "Estonia to close border crossings with Russia after alleged arson attack",
-   "description": "Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
-   "date": "2026-11-15T20:31:18+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "b2d2e07b879c",
    "source": "Deutsche Welle",
    "title": "Rebeldes hutíes se encuentran a solo 60 kilómetros de la capital provisional de Yemen",
@@ -779,16 +819,6 @@
    "url": "https://www.dw.com/es/rebeldes-hutíes-se-encuentran-a-solo-60-kilómetros-de-la-capital-provisional-de-yemen/a-79953488?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-15T20:31:00+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "b8ab85f6a2cb",
-   "source": "Al Jazeera",
-   "title": "Jordan sentences three men to death over deadly church attack in Karak",
-   "description": "Jordan sentences three men to death over deadly church attack in Karak",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
-   "date": "2026-11-15T20:12:38+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -849,16 +879,6 @@
    "url": "https://www.france24.com/es/europa/20261115-estonia-cerrar%C3%A1-los-pasos-fronterizos-con-rusia-tras-un-intento-de-sabotaje-en-una-f%C3%A1brica-de-drones",
    "date": "2026-11-15T18:47:22+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "a9d5a0295dc9",
-   "source": "The Guardian",
-   "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
-   "description": "Estimated 350,000 people rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs have rallied in Prague to protest against a perceived government attempt to stifle media freedom. The gathering on Sunday to save the mandator",
-   "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
-   "date": "2026-11-15T18:20:36+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1172,16 +1192,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cb5dabb30e06",
-   "source": "Deutsche Welle",
-   "title": "Irán reivindica haber atacado con drones a una base militar estadounidense en Baréin",
-   "description": "Teherán volvió a amenazar con ampliar el alcance geográfico de la guerra si Estados Unidos lanza nuevos ataques contra el país.",
-   "url": "https://www.dw.com/es/irán-reivindica-haber-atacado-con-drones-a-una-base-militar-estadounidense-en-baréin/a-79951394?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-15T08:41:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "2f20504b1b9f",
    "source": "The Guardian",
    "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
@@ -1299,16 +1309,6 @@
    "url": "https://www.bbc.com/mundo/articles/cmlylypz9xldo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-14T15:24:42+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "d128e28f7fb4",
-   "source": "The Guardian",
-   "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
-   "description": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for Hamas A two-hour hearing in Spain’s high court Friday on the US extradition request of wealthy leftwing activist and philanthropist James “Fergie” Chambers turned out to be a study",
-   "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
-   "date": "2026-11-14T15:00:47+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
