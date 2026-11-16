@@ -1,14 +1,254 @@
 {
- "updated": "2026-11-16T20:44:54.605198+00:00",
+ "updated": "2026-11-16T21:42:55.770664+00:00",
  "items": [
+  {
+   "id": "6a3ff6997dd3",
+   "source": "Ex-Ante",
+   "title": "Las lecciones del caso Ueno Bank para Chile",
+   "description": "Las crisis económicas son dolorosas, más aún las crisis bancarias. Lo que está viviendo Paraguay hoy nos retrotrae a lo que vivió Chile hace más…",
+   "url": "https://www.ex-ante.cl/opinion/lecciones-caso-ueno-bank-para-chile/",
+   "date": "2026-11-16T21:37:04+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "86de0078f2a0",
+   "source": "BBC Mundo",
+   "title": "5 países de la Unión Europea anuncian la creación de un centro de deportación de migrantes en Ruanda",
+   "description": "Alemania, Dinamarca, Austria, Grecia y Países Bajos anunciaron la creación de un \"centro de retorno\" para los solicitantes de asilo cuyas peticiones hayan sido denegadas.",
+   "url": "https://www.bbc.com/mundo/articles/cmlywv925gzlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T21:35:10+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "079e26b9eb03",
+   "source": "BBC Mundo",
+   "title": "\"Un extraño fue enterrado en la tumba que yo tenía reservada para estar cerca de mis padres\"",
+   "description": "Marie Lane dice que \"ya no siente lo mismo\" por la tumba que había reservado y pagado, tras descubrir que un desconocido fue enterrado allí por error y posteriormente exhumado.",
+   "url": "https://www.bbc.com/mundo/articles/crwy492xjlg3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T21:18:44+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "90d55f339747",
+   "source": "Al Jazeera",
+   "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
+   "description": "New York City Mayor Zohran Mamdani says he is disbanding the NYPD’s Strategic Response Group or SRG.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
+   "date": "2026-11-16T21:16:02+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "c0d29ad8ae03",
+   "source": "France 24",
+   "title": "Con la venia de Su Majestad: Robert Pattinson es el nuevo James Bond",
+   "description": "\"Bienvenido al Servicio Secreto de Su Majestad\". Con estas palabras, el rey Carlos III y su esposa Camila celebraron la elección del actor británico Robert Pattinson para interpretar al emblemático espía James Bond. La decisión es un pase de testigo de manos de otro inglés, Danie",
+   "url": "https://www.france24.com/es/cultura/20261116-con-la-venia-de-su-majestad-robert-pattinson-es-el-nuevo-james-bond",
+   "date": "2026-11-16T21:15:28+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "7ed3c03efe15",
+   "source": "Radio Cooperativa",
+   "title": "Ocho niños resultaron lesionados tras choque de furgón escolar con bus en Estación Central",
+   "description": "Ocho menores de edad resultaron lesionados este lunes tras la colisión del furgón de transporte escolar en el que viajaban contra un bus interurbano en la capitalina comuna de Estación Central. Según los antecedentes preliminares, el hecho -registrado en la intersección de las ca",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/accidentes-de-transito/ocho-ninos-resultaron-lesionados-tras-choque-de-furgon-escolar-con-bus/2026-11-16/181323.html",
+   "date": "2026-11-16T21:13:23+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "6d687984ba8e",
+   "source": "The Guardian",
+   "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+   "description": "The US president oscillates between strike threats on Iran and insisting the war ‘militarily is effectively over’ A third US aircraft carrier has arrived in the Middle East, US Central Command said in a social media post on Monday, making a dramatic show of military might as Dona",
+   "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+   "date": "2026-11-16T21:13:02+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "04c545c8f3d4",
+   "source": "France 24",
+   "title": "Corea del Sur toma medidas para evitar fraudes en examen de ingreso a la universidad",
+   "description": "Corea del Sur blinda el examen de ingreso a la universidad. Tras la confesión de un estudiante que había conseguido una puntuación casi excelente confesara que había utilizado lentes con inteligencia artificial, el Gobierno prepara medidas para evitar y sancionar duramente a quie",
+   "url": "https://www.france24.com/es/video/20261116-corea-del-sur-toma-medidas-para-evitar-fraudes-en-examen-de-ingreso-a-la-universidad",
+   "date": "2026-11-16T21:09:59+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "2d31b9d6f56b",
+   "source": "Al Jazeera",
+   "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
+   "description": "'Preliminary monitoring' shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
+   "date": "2026-11-16T21:06:19+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "4f3674366281",
+   "source": "Al Jazeera",
+   "title": "Manchester United’s Endless Loop",
+   "description": "Thirteen years, eight permanent managers, almost £100 million spent on sacking and hiring — and still no hiring",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss",
+   "date": "2026-11-16T21:00:22+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "3329d24472db",
+   "source": "The Guardian",
+   "title": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
+   "description": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China’s efforts to dominate Get our daily political email , free app or daily news podcast Anthony Albanese will attempt to walk a tightrope in his relation",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+   "date": "2026-11-16T21:00:21+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "5c62043629ee",
+   "source": "Radio Cooperativa",
+   "title": "La Roja convocó al sub 20 Thomas Coulombe para enfrentar a Colombia",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes A través del sitio web de la ANFP, la selección chilena anunció la convocatoria del zaguero Thomas Coulombe para el segundo y último amistoso ante Colombia , que cerrará el año futbolístico de La Roja. Nicolás Córdova llamó",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-convoco-al-sub-20-thomas-coulombe-para-enfrentar-a-colombia/2026-11-16/175841.html",
+   "date": "2026-11-16T20:58:41+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "68192d115d82",
+   "source": "Ex-Ante",
+   "title": "Texto de Acusación Constitucional contra Rabat incluye citas académicas de Luis Silva como fundamento",
+   "description": "Los tres capítulos de la Acusación Constitucional (AC) contra el ministro Rabat transparentaron los argumentos con que la oposición buscará destituirlo, en medio de la…",
+   "url": "https://www.ex-ante.cl/politica/la-acusacion-constitucional-contra-rabat/",
+   "date": "2026-11-16T20:58:39+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "9494a9ea711e",
+   "source": "France 24",
+   "title": "Encuentro Trump-Xi-Putin: la errónea comparación con la conferencia de Yalta",
+   "description": "China confirmó que el presidente Xi Jinping se reunirá con sus homólogos Donald Trump y Vladimir Putin el próximo 19 de noviembre, en la que hablarán temas como la paz y la cooperación internacional, con un importante énfasis en la guerra en Ucrania. El encuentro ha sido comparad",
+   "url": "https://www.france24.com/es/video/20261116-encuentro-trump-xi-putin-la-err%C3%B3nea-comparaci%C3%B3n-con-la-conferencia-de-yalta",
+   "date": "2026-11-16T20:56:23+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "6de0f0499d64",
+   "source": "France 24",
+   "title": "Tropas de Bukele llegan a Haití: ya son cinco fuerzas contra las pandillas",
+   "description": "Cerca de 2.000 soldados de El Salvador llegaron a Haití. Primero, según Nayib Bukele, para una operación de rescate de cuatro de sus militares, pero luego con la instalación de una base operativa. Con ellos, suman cinco fuerzas -entre nacionales y extranjeras- activas luchando co",
+   "url": "https://www.france24.com/es/programas/en-contexto/20261116-tropas-de-bukele-llegan-a-hait%C3%AD-ya-son-cinco-fuerzas-contra-las-pandillas",
+   "date": "2026-11-16T20:51:37+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "23161b040c44",
    "source": "Deutsche Welle",
    "title": "Putin reclama una OTAN como la de 1997: estas son sus exigencias a Europa",
    "description": "Al parecer, el Kremlin exige la retirada de la OTAN de gran parte de Europa del Este. ¿Qué supondría esto para la seguridad de millones de europeos y qué hay detrás del plan ruso?",
    "url": "https://www.dw.com/es/putin-reclama-una-otan-como-la-de-1997-estas-son-sus-exigencias-a-europa/a-79963685?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-16T20:29:00+00:00",
+   "date": "2026-11-16T20:49:00+00:00",
    "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "aeac60c803ff",
+   "source": "Deutsche Welle",
+   "title": "Una foto incómoda para Pekín: Xi, Trump y Putin en una cumbre tripartita",
+   "description": "China se ve obligada a ser cautelosa al acoger una reunión entre Xi, Putin y Trump. Si bien la imagen pública seguramente favorecerá a Rusia, Pekín podría arriesgar su reputación internacional, según analistas.",
+   "url": "https://www.dw.com/es/una-foto-incómoda-para-pekín-xi-trump-y-putin-en-una-cumbre-tripartita/a-79961431?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-16T20:49:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "50a5aae9d57c",
+   "source": "Deutsche Welle",
+   "title": "Tanto Donald Trump como Vladimir Putin abren la puerta a reunirse con Kim Jong-un en China",
+   "description": "Los presidentes de Estados Unidos y de Rusia se ha mostrado dispuestos, paralelamente, a la posibilidad de reunirse con el líder norcoreano en la ciudad china de Shenzhen.",
+   "url": "https://www.dw.com/es/tanto-donald-trump-como-vladimir-putin-abren-la-puerta-a-reunirse-con-kim-jong-un-en-china/a-79963821?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-16T20:48:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "a5d23c1a4427",
+   "source": "Ex-Ante",
+   "title": "Juan Ignacio Piña, el abogado que defendió a Tohá, asume defensa de Rabat en la acusación constitucional",
+   "description": "El ministro de Justicia y Derechos Humanos, Fernando Rabat, informó este lunes que encomendó su defensa ante la acusación constitucional al abogado Juan Ignacio Piña,…",
+   "url": "https://www.ex-ante.cl/politica/pina-abogado-defendera-rabat-ac/",
+   "date": "2026-11-16T20:45:17+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "369bc6267ada",
+   "source": "Deutsche Welle",
+   "title": "El polémico plan de Alemania para deportar migrantes a Ruanda",
+   "description": "Alemania y otros cuatro países de la Unión Europea buscan alcanzar un acuerdo con Ruanda. Su objetivo es deportar allí a solicitantes de asilo obligados a abandonar el territorio europeo.",
+   "url": "https://www.dw.com/es/el-polémico-plan-de-alemania-para-deportar-migrantes-a-ruanda/a-79963725?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-16T20:43:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "888f5b6b11e9",
+   "source": "Al Jazeera",
+   "title": "Photos: California residents gather to watch massive El Nino-fuelled waves",
+   "description": "National Weather Service warns that waves of more than 10 metres high could impact some parts of US's California coast.",
+   "url": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
+   "date": "2026-11-16T20:42:18+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "cc7f11e396d1",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] Hinchas vandalizaron el complejo de Rangers tras su descenso",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Los hinchas de Rangers de Talca recurrieron a la violencia tras el descenso del equipo a Segunda División Profesional el domingo recién pasado, vandalizando el complejo deportivo del club . Un grupo de sujetos llegó hasta l",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/rangers/video-hinchas-vandalizaron-el-complejo-de-rangers-tras-su-descenso/2026-11-16/173840.html",
+   "date": "2026-11-16T20:38:40+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "a51032110c52",
+   "source": "Radio Cooperativa",
+   "title": "La programación de los cuartos de final en la Liguilla del Ascenso",
+   "description": "La ANFP dio a conocer este lunes la programación de los duelos de ida y vuelta de cuartos de final de la Liguilla del Ascenso , que entregarán el segundo boleto a Primera División. En esta fase sólo compiten seis equipos, ya que hay un equipo clasificado directo a semifinales: El",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/la-programacion-de-los-cuartos-de-final-en-la-liguilla-del-ascenso/2026-11-16/173737.html",
+   "date": "2026-11-16T20:37:37+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "8692f3b8c838",
+   "source": "Al Jazeera",
+   "title": "London Palestine Film Festival returns for 27th year",
+   "description": "Since 1999, the London Palestine Film Festival has brought Palestinian stories to the big screen.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
+   "date": "2026-11-16T20:36:25+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5a96bff519cd",
+   "source": "Radio Cooperativa",
+   "title": "León XIV cerró su multitudinaria gira latinoamericana, de marcado carácter social",
+   "description": "En su primera gira por Latinoamérica , que concluye este lunes, León XIV ha congregado multitudes: más de 13 millones de personas salieron a las calles en Uruguay , Argentina y Perú para acudir a los actos de un papa que ha pedido luchar contra las desigualdades, sin ideologías y",
+   "url": "https://www.cooperativa.cl/noticias/mundo/vaticano/papa-leon-xiv/leon-xiv-cerro-su-multitudinaria-gira-latinoamericana-de-marcado/2026-11-16/172532.html",
+   "date": "2026-11-16T20:25:32+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -282,16 +522,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c3e207cc11f9",
-   "source": "Radio Cooperativa",
-   "title": "Mosa aclaró su frase sobre ser el dirigente más exitoso de Colo Colo",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Aníbal Mosa, presidente de Blanco y Negro , envió una carta al director de El Mercurio para aclarar sus declaraciones en una reciente entrevista, cuyo titular lo presentó como el dirigente más exitoso de la historia de Colo",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-aclaro-su-frase-sobre-ser-el-dirigente-mas-exitoso-de-colo-colo/2026-11-16/154202.html",
-   "date": "2026-11-16T18:42:02+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "eea2df2d4302",
    "source": "Al Jazeera",
    "title": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
@@ -299,26 +529,6 @@
    "url": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
    "date": "2026-11-16T18:38:16+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "18336bb0ff78",
-   "source": "Radio Cooperativa",
-   "title": "Firma con sello canino: \"Dejando Huellas\" tiene su día en la Filsa 2026",
-   "description": "\"Dejando Huellas, Historias de binomios K9\" , de la paraguaya radicada en Chile Pabla Thomen , es un libro que recorre la relación entre guías y los perros que se les asignan en diversas instituciones del Estado, principalmente para tareas de seguridad. En ese marco, la publicaci",
-   "url": "https://www.cooperativa.cl/noticias/cultura/literatura/ferias-del-libro/firma-con-sello-canino-dejando-huellas-tiene-su-dia-en-la-filsa-2026/2026-11-16/153748.html",
-   "date": "2026-11-16T18:37:48+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "af32f93162b7",
-   "source": "Radio Cooperativa",
-   "title": "Córdova y el amistoso con Colombia: No le doy mucha importancia si es mi último partido o no",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Nicolás Córdova, entrenador de la selección chilena, habló en una extensa conferencia de prensa previa al amistoso con Colombia que cerrará el 2026 de La Roja y dio un repaso a su proceso, reiterando que su proyectó va más ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-y-el-amistoso-con-colombia-no-le-doy-mucha-importancia-si-es-mi/2026-11-16/153256.html",
-   "date": "2026-11-16T18:32:56+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -339,26 +549,6 @@
    "url": "https://www.france24.com/es/video/20261116-directo-par%C3%ADs-y-la-falta-de-acuerdo-sobre-un-nuevo-presidente-en-la-cumbre-de-la-francofon%C3%ADa",
    "date": "2026-11-16T18:27:15+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "e721a7b1b487",
-   "source": "Radio Cooperativa",
-   "title": "Azul Azul definió a Eduardo Alamos como nuevo presidente de su directorio",
-   "description": "Azul Azul definió este lunes al presidente del directorio en esta era de transición y el elegido es Eduardo Alamos, ingeniero comercial de 43 años y quien tiene un pasado en Universidad de Chile. Según információn de Cooperativa Deportes, Alamos estuvo en Azul Azul en la época do",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/azul-azul-definio-a-eduardo-alamos-como-nuevo-presidente-de-su-directorio/2026-11-16/151818.html",
-   "date": "2026-11-16T18:18:18+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "3ab2986d0699",
-   "source": "Radio Cooperativa",
-   "title": "IND responsabilizó a concierto de BTS y multará a productora por estado del Nacional",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El Instituto Nacional de Deportes (IND) anunció multas contra la productora DG Medios por incumplir las condiciones establecidas para la restitución de la cancha del Estadio Naciona l, cuyo deterioro obligó a descartar el r",
-   "url": "https://www.cooperativa.cl/noticias/deportes/ind-responsabilizo-a-concierto-de-bts-y-multara-a-productora-por-estado/2026-11-16/151744.html",
-   "date": "2026-11-16T18:17:44+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -422,16 +612,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f71901c87488",
-   "source": "Radio Cooperativa",
-   "title": "Proyecto que rebaja el precio de los combustibles avanzó en la Comisión de Hacienda",
-   "description": "La Comisión de Hacienda de la Cámara de Diputadas y Diputados aprobó y despachó a la Sala el proyecto de ley que establece una rebaja inmediata en los precios de las bencinas y el petróleo diésel . La medida también instaura un congelamiento de tarifas para contener la presión in",
-   "url": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/proyecto-que-rebaja-el-precio-de-los-combustibles-avanzo-en-la-comision/2026-11-16/145302.html",
-   "date": "2026-11-16T17:53:02+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "295402bbd02a",
    "source": "Al Jazeera",
    "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
@@ -469,6 +649,16 @@
    "url": "https://www.france24.com/es/video/20261116-rusia-afirma-haber-interceptado-m%C3%A1s-de-1-300-drones-ucranianos",
    "date": "2026-11-16T17:44:26+00:00",
    "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "096b6e88ee7c",
+   "source": "Radio Cooperativa",
+   "title": "Dr. Simi lanza colección Simi Pop en apoyo de niños y adolescentes con cáncer",
+   "description": "Farmacias del Dr. Simi presentó Simi Pop , su nuevo coleccionable, cuyas ventas permitirán reunir fondos en apoyo de niños, niñas y adolescentes con cáncer. La propuesta busca transformar la popularidad del personaje en una ayuda concreta para estos pacientes. El lanzamiento se r",
+   "url": "https://www.cooperativa.cl/noticias/corporativo/noticias/marcas-negocios/dr-simi-lanza-coleccion-simi-pop-en-apoyo-de-ninos-y-adolescentes-con/2026-11-16/144112.html",
+   "date": "2026-11-16T17:41:12+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -529,16 +719,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-denies-responsibility-for-faa-nationwide-ground-stop?traffic_source=rss",
    "date": "2026-11-16T17:08:10+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "aeac60c803ff",
-   "source": "Deutsche Welle",
-   "title": "Una foto incómoda para Pekín: Xi, Trump y Putin en una cumbre tripartita",
-   "description": "China se ve obligada a ser cautelosa al acoger una reunión entre Xi, Putin y Trump. Si bien la imagen pública seguramente favorecerá a Rusia, Pekín podría arriesgar su reputación internacional, según analistas.",
-   "url": "https://www.dw.com/es/una-foto-incómoda-para-pekín-xi-trump-y-putin-en-una-cumbre-tripartita/a-79961431?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-16T17:04:00+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -752,16 +932,6 @@
    "type": "Prensa"
   },
   {
-   "id": "65fb00db55b6",
-   "source": "Al Jazeera",
-   "title": "Oil tankers hit sea mines in the Strait of Hormuz",
-   "description": "Oil tankers hit sea mines in the Strait of Hormuz",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
-   "date": "2026-11-16T15:37:49+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "cbe8c6820550",
    "source": "Deutsche Welle",
    "title": "Pedro Sánchez y Lula da Silva conversan sobre \"la amenaza ultraderechista\" antes de las elecciones en España",
@@ -769,26 +939,6 @@
    "url": "https://www.dw.com/es/pedro-sánchez-y-lula-da-silva-conversan-sobre-la-amenaza-ultraderechista-antes-de-las-elecciones-en-españa/a-79961704?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-16T15:33:00+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "008806c1ff9e",
-   "source": "Al Jazeera",
-   "title": "Students protest as air pollution chokes New Delhi",
-   "description": "Students have taken to the streets to demand accountability from authorities over toxic air pollution in New Delhi.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/students-protest-as-air-pollution-chokes-new-delhi?traffic_source=rss",
-   "date": "2026-11-16T15:27:07+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "03ae659f59eb",
-   "source": "Al Jazeera",
-   "title": "At least 17 killed in two South Africa mass shootings",
-   "description": "Eight men killed in shooting near Pietermaritzburg while six men and three women shot dead near Pretoria.",
-   "url": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss",
-   "date": "2026-11-16T15:26:39+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -809,16 +959,6 @@
    "url": "https://www.rioenlinea.cl/cut-los-rios-exige-disculpas-publicas-a-kunstmann-tras-polemico-mensaje-de-monos-marcistas/",
    "date": "2026-11-16T15:10:43+00:00",
    "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
-   "id": "4098469ce2cf",
-   "source": "Al Jazeera",
-   "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
-   "description": "Ukraine's military has been relying on the internet service since December 2024 to intercept Russian drones.",
-   "url": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss",
-   "date": "2026-11-16T14:58:30+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -849,16 +989,6 @@
    "url": "https://www.dw.com/es/la-selección-alemana-se-despide-de-adidas-luego-de-70-años/a-79961204?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-16T14:40:00+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "bdc443b4347c",
-   "source": "Al Jazeera",
-   "title": "Infantino made things worse at FIFA than Blatter, says Jurgen Klopp",
-   "description": "The Germany coach believes anyone who replaces the FIFA president should care deeply about the future of football.",
-   "url": "https://www.aljazeera.com/sports/2026/11/16/infantino-made-things-worse-at-fifa-than-blatter-says-jurgen-klopp?traffic_source=rss",
-   "date": "2026-11-16T14:36:23+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -902,16 +1032,6 @@
    "type": "Prensa"
   },
   {
-   "id": "025777e30079",
-   "source": "France 24",
-   "title": "La guerra en Yemen se intensifica con avances hutíes mientras Irán ataca bases de EE. UU. en el Golfo",
-   "description": "La guerra en Yemen volvió a escalar en las últimas horas, con un retroceso de las fuerzas respaldadas por Arabia Saudita en las inmediaciones del estrecho de Bab el Mandeb, mientras se registraron nuevos ataques iraníes contra instalaciones militares estadounidenses en Baréin.",
-   "url": "https://www.france24.com/es/medio-oriente/20261116-la-guerra-en-yemen-se-intensifica-con-avances-hut%C3%ADes-mientras-ir%C3%A1n-ataca-bases-de-ee-uu-en-el-golfo",
-   "date": "2026-11-16T14:03:59+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "f62ca97a6bd4",
    "source": "The Guardian",
    "title": "Proposed NSW laws to allow coalmine to increase production pose ‘serious corruption risk’",
@@ -919,16 +1039,6 @@
    "url": "https://www.theguardian.com/australia-news/2026/nov/17/proposed-nsw-laws-to-allow-coalmine-to-increase-production-pose-serious-corruption-risk",
    "date": "2026-11-16T14:00:21+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "6a59d53e4305",
-   "source": "France 24",
-   "title": "Monarquías del Golfo \"se preparan para el escrutinio de la corrupción de Trump\": 'Washington Post'",
-   "description": "En 'Revista de Prensa' analizamos cómo los aliados de Donald Trump en Medio Oriente se preparan para una avalancha de investigaciones sobre supuesta corrupción del presidente de Estados Unidos. Transacciones inmobiliarias, inversiones financieras, así como regalos de lujo podrían",
-   "url": "https://www.france24.com/es/programas/revista-de-prensa/20261116-monarqu%C3%ADas-del-golfo-se-preparan-para-el-escrutinio-de-la-corrupci%C3%B3n-de-trump-washington-post",
-   "date": "2026-11-16T13:44:11+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -979,16 +1089,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
    "date": "2026-11-16T12:45:09+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "08ec5d065e96",
-   "source": "France 24",
-   "title": "En directo: 600 drones ucranianos apuntan a Moscú; Kiev ataca el puente de Crimea e interrumpe el tráfico",
-   "description": "Las defensas antiaéreas rusas interceptaron 600 drones ucranianos que se dirigían hacia la región de Moscú durante la noche y hasta la mañana del lunes, informó el alcalde de Moscú, Serguéi Sobianin. Ucrania también atacó el puente que une Rusia con Crimea a través del estrecho d",
-   "url": "https://www.france24.com/es/europa/20261116-en-directo-600-drones-ucranianos-apuntan-a-mosc%C3%BA-kiev-ataca-el-puente-de-crimea-interrumpe-el-tr%C3%A1fico",
-   "date": "2026-11-16T12:25:21+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1152,16 +1252,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3329d24472db",
-   "source": "The Guardian",
-   "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
-   "description": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China efforts to dominate Get our daily political email , free app or daily news podcast Anthony Albanese will attempt to walk a tightrope in his relationsh",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-   "date": "2026-11-16T09:40:29+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "fde5be3d779c",
    "source": "The Guardian",
    "title": "Delaware hit by rare November tornado",
@@ -1232,16 +1322,6 @@
    "type": "Prensa"
   },
   {
-   "id": "48b184c76eaf",
-   "source": "Deutsche Welle",
-   "title": "Australia: diputada que perdió sus piernas en ataque sale del hospital",
-   "description": "El 19 de octubre Helen Haines estaba de pie cerca de su coche en la localidad rural de Wangaratta cuando fue atropellada; estoy \"llena de gratitud\", dijo al salir del hospital.",
-   "url": "https://www.dw.com/es/australia-diputada-que-perdió-sus-piernas-en-ataque-sale-del-hospital/a-79954367?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-16T05:13:00+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "deccc4056800",
    "source": "The Guardian",
    "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
@@ -1259,26 +1339,6 @@
    "url": "https://www.bbc.com/mundo/articles/c95yn80g6l72o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-16T04:04:27+00:00",
    "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "8b259adba5d8",
-   "source": "Deutsche Welle",
-   "title": "Hutíes reivindican ataques contra Riad y posiciones saudíes en Yemen",
-   "description": "Los rebeldes dijeron que lanzaron misiles contra el aeropuerto Rey Khalid y el centro financiero de Riad.",
-   "url": "https://www.dw.com/es/hutíes-reivindican-ataques-contra-riad-y-posiciones-saudíes-en-yemen/a-79954134?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-16T03:41:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "c5713fd0b728",
-   "source": "France 24",
-   "title": "'Palacio': la serie de Netflix que explora una de las heridas abiertas de Colombia",
-   "description": "En esta crónica hablamos del estreno de 'Palacio', una miniserie que cuenta el doloroso capítulo de la toma y retoma del Palacio de Justicia de Colombia, así como las preguntas que quedan 41 años después. Analizamos también los resultados de los Latin Grammy 2026, cuya gran ganad",
-   "url": "https://www.france24.com/es/programas/cultura/20261116-palacio-la-serie-de-netflix-que-explora-una-de-las-heridas-abiertas-de-colombia",
-   "date": "2026-11-16T02:33:53+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -1302,16 +1362,6 @@
    "type": "Prensa"
   },
   {
-   "id": "098f847b1572",
-   "source": "Ex-Ante",
-   "title": "Cadem: aprobación de Kast baja a 27% en semana marcada por el paro camionero (Lea aquí la encuesta)",
-   "description": "En este marco, al 16% le gusta el Presidente Kast y cree que ha hecho un buen gobierno, el 24% dice que le gusta, pero…",
-   "url": "https://www.ex-ante.cl/politica/cadem-kast-baja-aprobacion-27-camioneros/",
-   "date": "2026-11-15T23:32:23+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "e490bed49bb4",
    "source": "BBC Mundo",
    "title": "\"Después de que me despojaran de la ciudadanía nicaragüense, España fue mi lugar de asilo y decidí bien\": el escritor Sergio Ramírez ingresa a la Real Academia Española",
@@ -1329,26 +1379,6 @@
    "url": "https://www.dw.com/es/escritor-nicaragüense-sergio-ramírez-entra-a-la-rae-y-ocupa-la-silla-de-vargas-llosa/a-79953698?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-15T21:53:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "45a07f936673",
-   "source": "Ex-Ante",
-   "title": "Financiar la investigación y el desarrollo",
-   "description": "Desde las universidades hemos reiterado que se requiere de un plan de financiamiento basado en la confianza y en la evaluación de resultados en un…",
-   "url": "https://www.ex-ante.cl/opinion/sanchez-financiar-investigacion-desarrollo/",
-   "date": "2026-11-15T21:16:50+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "53d7637133f0",
-   "source": "Ex-Ante",
-   "title": "Vicepresidenta del BID por eventos climáticos en Chile: “Los efectos sobre la actividad pueden prolongarse durante años”",
-   "description": "La vicepresidenta de Sectores y Conocimiento del Banco Interamericano de Desarrollo (BID), Ana María Ibáñez, abordó los resultados de un nuevo estudio sobre el impacto…",
-   "url": "https://www.ex-ante.cl/entrevista/bid-impacto-eventos-extremos-clima-chile/",
-   "date": "2026-11-15T20:59:01+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1512,16 +1542,6 @@
    "type": "Prensa"
   },
   {
-   "id": "934744ed9166",
-   "source": "BBC Mundo",
-   "title": "Asere, corillo o chuchaqui: las palabras latinoamericanas que incorpora la nueva edición del Diccionario de la lengua española",
-   "description": "Al diccionario se incorporaron 1.490 gentilicios y 1.570 voces de uso exclusivo en los distintos países hispanohablantes.",
-   "url": "https://www.bbc.com/mundo/articles/crpdwq559d4qo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-14T17:30:28+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "7153374e6765",
    "source": "CIPER Chile",
    "title": "Lo que el proyecto de presupuesto 2027 no dice en educación",
@@ -1612,16 +1632,6 @@
    "type": "Prensa"
   },
   {
-   "id": "60dd59a24852",
-   "source": "The Guardian",
-   "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
-   "description": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitimisation” against the country’s Arab citizens, after the car",
-   "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
-   "date": "2026-11-14T11:11:03+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d546e674e405",
    "source": "CIPER Chile",
    "title": "El proyecto sobre denuncias falsas y la cifra que nadie ha medido",
@@ -1639,16 +1649,6 @@
    "url": "https://www.ciperchile.cl/2026/11/14/seguimos-llegando-tarde-la-epidemia-silenciosa-de-la-diabetes/?utm_source=rss&utm_medium=rss&utm_campaign=seguimos-llegando-tarde-la-epidemia-silenciosa-de-la-diabetes",
    "date": "2026-11-14T07:00:21+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "4aa844b2ff1a",
-   "source": "BBC Mundo",
-   "title": "Un inflexible Putin eleva sus exigencias para alcanzar la paz con Ucrania",
-   "description": "En Moscú se considera una victoria que la seguridad europea figure ahora en las conversaciones, señala Steve Rosenberg, editor de asuntos de Rusia de la BBC.",
-   "url": "https://www.bbc.com/mundo/articles/crn80jqyw993o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-14T03:06:55+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
