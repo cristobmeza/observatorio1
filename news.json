@@ -1,11 +1,201 @@
 {
- "updated": "2026-11-17T07:04:03.341312+00:00",
+ "updated": "2026-11-17T08:53:33.748912+00:00",
  "items": [
+  {
+   "id": "fb59d7af1466",
+   "source": "Al Jazeera",
+   "title": "Irish ‌‌‌‌boxer Lee Reeves, 31, dies three months after sustaining injuries",
+   "description": "Lee Reeves died in Limerick three months after sustaining serious injuries in his bout against Gary Cully in Dublin.",
+   "url": "https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss",
+   "date": "2026-11-17T08:41:21+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "28ee36fb3e41",
+   "source": "The Guardian",
+   "title": "Communications watchdog leadership reversed findings of draft report into ABC Four Corners program, FoI documents reveal",
+   "description": "Documents show draft Acma reports backed reporting of Gold Walkley award-winning journalist Mark Willacy about Australian War Memorial Sign up for Guardian Australia’s free weekly media newsletter here An investigation by staff of the Australian Media and Communications Authority",
+   "url": "https://www.theguardian.com/media/2026/nov/17/communications-watchdog-leadership-reversed-findings-of-draft-report-into-abc-four-corners-program-foi-documents-ntwnfb",
+   "date": "2026-11-17T08:33:52+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "bda0b57dd920",
+   "source": "Al Jazeera",
+   "title": "Vance calls out ‘neoconservatives’ over Iran war",
+   "description": "US Vice President JD Vance told Fox News that ‘neoconservatives’ want the Iran war to become a forever war.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss",
+   "date": "2026-11-17T08:25:25+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b81d01e1b67f",
+   "source": "Al Jazeera",
+   "title": "South Korea cheating scandal: Are AI smart glasses a threat to exams?",
+   "description": "A student with near-perfect scores on two tests has confessed to using artificial intelligence.",
+   "url": "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams?traffic_source=rss",
+   "date": "2026-11-17T08:15:32+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b744acdb7dec",
+   "source": "Al Jazeera",
+   "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
+   "description": "Moscow-installed governor says traffic suspended after second attack on bridge in two days.",
+   "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
+   "date": "2026-11-17T08:12:06+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f218e7e6a84b",
+   "source": "Al Jazeera",
+   "title": "AI models abandon climate facts to please users, UNESCO report finds",
+   "description": "AI models abandon climate facts to agree with users in eight out of 10 tests.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds?traffic_source=rss",
+   "date": "2026-11-17T08:10:26+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "086c5a24abbf",
+   "source": "France 24",
+   "title": "En directo: nueva jornada de movilización y huelga en el sector público en Francia",
+   "description": "Los sindicatos franceses convocaron este martes a los 5,8 millones de empleados públicos a una nueva jornada de huelga y manifestaciones, tras considerar insuficientes las conversaciones con el Gobierno sobre aumentos salariales frente al alto costo de vida. Las autoridades prevé",
+   "url": "https://www.france24.com/es/francia/20261117-en-directo-nueva-jornada-de-movilizaci%C3%B3n-y-huelga-en-el-sector-p%C3%BAblico-en-francia",
+   "date": "2026-11-17T08:06:17+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "8e485b37d088",
+   "source": "The Guardian",
+   "title": "UK unemployment unexpectedly eases to 4.6%, as government prepares to release Milburn report",
+   "description": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work Milburn urges Burnham to spend billions on young people Who are the Neets? UK youth job crisis in five charts Business live – latest updates The UK unemployment rate has unexpected",
+   "url": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
+   "date": "2026-11-17T08:05:09+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "9bd494569be5",
+   "source": "Al Jazeera",
+   "title": "Andy Burnham says Brexit is what the UK’s ‘enemies’ wanted",
+   "description": "UK Prime Minister Andy Burnham slammed Brexit in a speech at the Lord Mayor’s Banquet.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/andy-burnham-says-brexit-is-what-the-uks-enemies-wanted?traffic_source=rss",
+   "date": "2026-11-17T08:04:35+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "0981629ceca4",
+   "source": "The Guardian",
+   "title": "Waitrose to expand digital broadcasting after festive ad launch wins 2m views",
+   "description": "Chief executive of supermarket says it is considering new projects after success of Dish podcast and YouTube channel Waitrose is to expand its digital broadcasting portfolio after this year’s Christmas ad launch with Keira Knightley attracted more that 2 million viewers. “There a",
+   "url": "https://www.theguardian.com/business/2026/nov/17/waitrose-christmas-ad-launch-keira-knightley",
+   "date": "2026-11-17T08:00:07+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e906e22a1de5",
+   "source": "The Guardian",
+   "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+   "description": "Photos of bridge, built after 2014 annexation and viewed by Ukraine as illegal, suggest massive steel arch has fallen into water Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Ukrainian officials say is ",
+   "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+   "date": "2026-11-17T07:42:26+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "7dfabc16ada5",
+   "source": "Al Jazeera",
+   "title": "How women scavenge scraps from lithium to earn a living in Nigeria",
+   "description": "Dozens of women sift through the waste left behind by lithium miners in Nigeria, digging for traces of ore to resell.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/how-women-scavenge-scraps-from-lithium-to-earn-a-living-in-nigeria?traffic_source=rss",
+   "date": "2026-11-17T07:36:21+00:00",
+   "category": "África",
+   "type": "Prensa"
+  },
+  {
+   "id": "4a18119f45ac",
+   "source": "Al Jazeera",
+   "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
+   "description": "The IRGC says the attack is part of efforts to counter 'hostile activities of US forces in the region'.",
+   "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
+   "date": "2026-11-17T07:35:54+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "005c2de7b36c",
+   "source": "France 24",
+   "title": "Japón denuncia una incursión de dos aeronaves presuntamente rusas en su espacio aéreo",
+   "description": "Tokio desplegó aviones de combate tras detectar dos aeronaves presuntamente rusas sobre sus aguas territoriales y presentó una enérgica protesta ante Moscú. El incidente ocurrió este martes, cuando Taiwán y Corea del Sur también reportaron actividad aérea militar rusa en sus prox",
+   "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261117-jap%C3%B3n-denuncia-una-incursi%C3%B3n-de-dos-aeronaves-presuntamente-rusas-en-su-espacio-a%C3%A9reo",
+   "date": "2026-11-17T07:30:10+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "372ec82cc251",
+   "source": "The Guardian",
+   "title": "India has been named a ‘destination of the year’ for 2027 – here are insiders’ tips on travelling beyond the tropes",
+   "description": "As tourism booms, three experienced female travellers give their take on how to make the most of travelling here The 13th-century Persian scholar Zakariyya al-Qazwini never travelled to India. But he catalogued it in his famous work The Wonders of Creation and Rarities of Existen",
+   "url": "https://www.theguardian.com/world/2026/nov/16/is-is-india-travel-boom-travel-and-leisure-women",
+   "date": "2026-11-17T07:30:06+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "228508783069",
+   "source": "Al Jazeera",
+   "title": "Portugal coach Jorge Jesus responds to criticism from Ronaldo’s mother",
+   "description": "Ronaldo's mother said she was glad to see Jesus suffer his first defeat after he had 'deceived' her son.",
+   "url": "https://www.aljazeera.com/sports/2026/11/17/cristiano-ronaldo-mother-portugal-coach-jorge-jesus?traffic_source=rss",
+   "date": "2026-11-17T07:21:25+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2906501ea5f3",
+   "source": "Al Jazeera",
+   "title": "The new French malaise",
+   "description": "The ongoing student protests in France are a symptom of a much larger crisis affecting French society.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/17/the-new-french-malaise?traffic_source=rss",
+   "date": "2026-11-17T07:03:12+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "436f738d8062",
+   "source": "The Guardian",
+   "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
+   "description": "New tech wealth, amassed with remarkable speed, is now washing up on British shores Sporting hoodies and white trainers rather than the gilets of London’s banker and lawyer class, tech bros can struggle to be taken seriously by the capital’s luxury property agents. “We worked wit",
+   "url": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
+   "date": "2026-11-17T07:00:07+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d456313f8a50",
+   "source": "Al Jazeera",
+   "title": "Will Netanyahu lose this time?",
+   "description": "The Israeli prime minister has manoeuvred out of tough situations to retain power. But he may find it hard this time.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/17/will-netanyahu-finally-lose?traffic_source=rss",
+   "date": "2026-11-17T06:53:23+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "3b8716e3d7b2",
    "source": "The Guardian",
    "title": "‘Disgusted by it’: body of Melbourne Cup race horse found dumped in Sydney skip bin",
-   "description": "So You Are placed eighth in race just two weeks ago and was put down after a severe bout of colic The body of a horse that placed eighth in the Melbourne Cup two weeks ago and recently fell ill has been found dumped in skip bin in Sydney. The horse So You Are, a five year old Gel",
+   "description": "So You Are placed eighth in race just two weeks ago and was put down after a severe bout of colic Get our daily political email , free app or daily news podcast The body of a horse that placed eighth in Australia’s Melbourne Cup two weeks ago and recently fell ill has been found ",
    "url": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb",
    "date": "2026-11-17T06:39:24+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -104,8 +294,8 @@
   {
    "id": "4db6c9203e3c",
    "source": "France 24",
-   "title": "En directo: ataques rusos alcanzan dos puentes de Kiev e interrumpen el suministro de agua y calefacción",
-   "description": "Ataques rusos alcanzaron dos importantes puentes de Kiev y dejaron sin agua ni calefacción a algunos barrios de la capital ucraniana, informó su alcalde. Por su parte, las autoridades rusas reportaron un nuevo ataque contra el puente de Crimea y el derribo de 321 drones que se ap",
+   "title": "En directo | Ucrania: ataques rusos provocan apagones en ocho regiones y obligan a cerrar dos puentes de Kiev",
+   "description": "Ataques rusos contra la infraestructura energética ucraniana provocaron apagones en ocho regiones y dañaron dos importantes puentes de Kiev, que fueron cerrados al tránsito, según las autoridades ucranianas. Algunos barrios de la capital también quedaron sin agua ni calefacción. ",
    "url": "https://www.france24.com/es/europa/20261117-en-directo-ataques-rusos-alcanzan-dos-puentes-de-kiev-e-interrumpen-el-suministro-de-agua-y-calefacci%C3%B3n",
    "date": "2026-11-17T05:42:38+00:00",
    "category": "Rusia y espacio postsoviético",
@@ -139,16 +329,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/the-red-crabs-of-christmas-island?traffic_source=rss",
    "date": "2026-11-17T05:08:08+00:00",
    "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "ca37f54c13e1",
-   "source": "The Guardian",
-   "title": "Russia, Saudi Arabia and Australia named as biggest CO2 exporters in history",
-   "description": "Analysis of fossil fuel exports since 1850 differs from most assessments – which look at countries where CO 2 is released Russia, Saudi Arabia and Australia are the three biggest exporters of carbon dioxide in history, according to analysis of fossil fuels since 1850. Russia tops",
-   "url": "https://www.theguardian.com/environment/2026/nov/17/russia-saudi-arabia-and-australia-named-as-biggest-co2-exporters-in-history",
-   "date": "2026-11-17T05:00:06+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -532,16 +712,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0fcf4410b078",
-   "source": "Al Jazeera",
-   "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
-   "description": "Iran-aligned Houthi fighters kept up their push in southern Yemen as JD Vance ruled out a US 'forever war' in Iran.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
-   "date": "2026-11-16T23:57:49+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "58ae1c369663",
    "source": "Radio Cooperativa",
    "title": "La Roja tuvo su último entrenamiento antes de la revancha amistosa contra Colombia",
@@ -589,26 +759,6 @@
    "url": "https://www.france24.com/es/video/20261116-cu%C3%A1l-es-el-balance-de-la-gira-del-papa-le%C3%B3n-xiv-por-per%C3%BA-uruguay-y-argentina",
    "date": "2026-11-16T23:48:23+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "0aeb126cab7d",
-   "source": "Al Jazeera",
-   "title": "Paraguay ex-president moved to military jail amid special treatment reports",
-   "description": "Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.",
-   "url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
-   "date": "2026-11-16T23:44:32+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "413187b6bde6",
-   "source": "Al Jazeera",
-   "title": "Trump departs for ASEAN on summit with Xi and Putin",
-   "description": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
-   "date": "2026-11-16T23:42:03+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -692,26 +842,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3ef2c13c7121",
-   "source": "Al Jazeera",
-   "title": "EU agrees to resurrect cooperation deal with Syria",
-   "description": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
-   "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
-   "date": "2026-11-16T23:00:36+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "a85547bc50c1",
-   "source": "Al Jazeera",
-   "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
-   "description": "Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.",
-   "url": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
-   "date": "2026-11-16T22:40:07+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "73bae7b21188",
    "source": "The Guardian",
    "title": "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people",
@@ -729,16 +859,6 @@
    "url": "https://www.bbc.com/mundo/articles/cwe9k0d7x9z0o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-16T22:16:38+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "db489f639bcf",
-   "source": "Al Jazeera",
-   "title": "Germany thrash Netherlands to book Nations League quarterfinal spot",
-   "description": "Jurgen Klopp's side outclasses the Dutch 5-0 in Berlin to secure top spot in UEFA Nations League Group A2.",
-   "url": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
-   "date": "2026-11-16T22:04:31+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -772,16 +892,6 @@
    "type": "Prensa"
   },
   {
-   "id": "abe4749df0aa",
-   "source": "Al Jazeera",
-   "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
-   "description": "Attorney General Rob Bonta says Hugging Face attack was 'entirely predictable' result of emphasis on rapid growth.",
-   "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
-   "date": "2026-11-16T21:35:51+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "86de0078f2a0",
    "source": "BBC Mundo",
    "title": "5 países de la Unión Europea anuncian la creación de un centro de deportación de migrantes en Ruanda",
@@ -799,16 +909,6 @@
    "url": "https://www.bbc.com/mundo/articles/crwy492xjlg3o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-16T21:18:44+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "90d55f339747",
-   "source": "Al Jazeera",
-   "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
-   "description": "New York City Mayor Zohran Mamdani says he is disbanding the NYPD’s Strategic Response Group or SRG.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
-   "date": "2026-11-16T21:16:02+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -839,26 +939,6 @@
    "url": "https://www.france24.com/es/video/20261116-corea-del-sur-toma-medidas-para-evitar-fraudes-en-examen-de-ingreso-a-la-universidad",
    "date": "2026-11-16T21:09:59+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "2d31b9d6f56b",
-   "source": "Al Jazeera",
-   "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
-   "description": "'Preliminary monitoring' shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers.",
-   "url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
-   "date": "2026-11-16T21:06:19+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "4f3674366281",
-   "source": "Al Jazeera",
-   "title": "Manchester United’s Endless Loop",
-   "description": "Thirteen years, eight permanent managers, almost £100 million spent on sacking and hiring — and still no hiring",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss",
-   "date": "2026-11-16T21:00:22+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -942,16 +1022,6 @@
    "type": "Prensa"
   },
   {
-   "id": "888f5b6b11e9",
-   "source": "Al Jazeera",
-   "title": "Photos: California residents gather to watch massive El Nino-fuelled waves",
-   "description": "National Weather Service warns that waves of more than 10 metres high could impact some parts of US's California coast.",
-   "url": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
-   "date": "2026-11-16T20:42:18+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "abeeb4405f4c",
    "source": "France 24",
    "title": "Lula y su espaldarazo a Pedro Sánchez: \"Es la persona indicada para defender la democracia en Europa\"",
@@ -959,36 +1029,6 @@
    "url": "https://www.france24.com/es/europa/20261116-elecciones-en-espa%C3%B1a-lula-defiende-que-s%C3%A1nchez-es-la-persona-indicada-para-defender-la-democracia-en-europa",
    "date": "2026-11-16T20:10:48+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "e7a5490a16c1",
-   "source": "The Guardian",
-   "title": "Refused UK asylum seekers to lose five-day grace period and face immediate removal",
-   "description": "Home Office plans will cause unnecessary distress and anxiety, say refugee charities Asylum seekers who have exhausted the formal appeals process will be stripped of a five-day grace period and become eligible for immediate removal under Home Office plans condemned as “distressin",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/16/failed-uk-asylum-seekers-to-lose-five-day-grace-period-and-face-immediate-removal",
-   "date": "2026-11-16T20:06:24+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "c3a814c6f713",
-   "source": "The Guardian",
-   "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
-   "description": "DHSC to extend US tech firm’s contract for two more years to allow time to line up British companies to replace it Ministers will end the NHS’s contract with the controversial tech firm Palantir – but not until 2029, to allow time to line up British companies to replace it. The D",
-   "url": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
-   "date": "2026-11-16T19:59:31+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "7715cb00bd89",
-   "source": "The Guardian",
-   "title": "Leave.EU and Vote Leave veterans launch rival campaigns to defend Brexit",
-   "description": "Andy Wigmore says there will be no animosity this time between his Enough Official group and Michael Gove-backed Stay Out movement The Brexit wars were a bitter period in political history, fraught with tension and badmouthing – and that was just between the different leave campa",
-   "url": "https://www.theguardian.com/politics/2026/nov/16/people-behind-vote-leave-eu-launch-new-incarnations-brexit",
-   "date": "2026-11-16T19:38:45+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1039,26 +1079,6 @@
    "url": "https://www.bbc.com/mundo/articles/cm4gnx691zp5o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-16T18:57:49+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "6464f5539acf",
-   "source": "France 24",
-   "title": "Gaza, sin tregua de Israel: nuevos ataques, restricciones a la ayuda y proliferación de enfermedades",
-   "description": "El Ministerio de Salud del enclave palestino reportó este lunes tres nuevas muertes por ataques israelíes, elevando a casi 1.650 el número de gazatíes asesinados desde que entró en vigor la aparente tregua en octubre de 2025. En paralelo, Australia, Canadá, Italia y Reino Unido r",
-   "url": "https://www.france24.com/es/medio-oriente/20261116-gaza-sin-tregua-de-israel-nuevos-ataques-restricciones-a-la-ayuda-y-proliferaci%C3%B3n-de-enfermedades",
-   "date": "2026-11-16T18:54:43+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "d5472acf9c96",
-   "source": "France 24",
-   "title": "Directo París y la falta de acuerdo sobre un nuevo presidente en la Cumbre de la Francofonía",
-   "description": "La Organización Internacional de la Francofonía terminó su cumbre en la capital de Camboya, pero la elección de un secretario general tuvo que ser aplazada porque no hubo consenso entre los representantes de los países. Las tensiones se centran en el rechazo de varias naciones a ",
-   "url": "https://www.france24.com/es/video/20261116-directo-par%C3%ADs-y-la-falta-de-acuerdo-sobre-un-nuevo-presidente-en-la-cumbre-de-la-francofon%C3%ADa",
-   "date": "2026-11-16T18:27:15+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1442,16 +1462,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4edf72567afb",
-   "source": "The Guardian",
-   "title": "‘It’s like the 16th-century version of doomscrolling’: the Book of Miracles may fetch £1m at auction",
-   "description": "Exclusive: Public institutions get first chance to bid for rare ‘wonderbook’ of apocalyptic visions and extreme weather In one illustration, five suns blaze down on Leipzig in 1551. In another, blood rain falls on Rome in 1456. In a third scene, dated 1552, monstrous hailstones b",
-   "url": "https://www.theguardian.com/books/2026/nov/16/book-of-miracles-apocalyptic-weather-visions-auction",
-   "date": "2026-11-16T07:00:38+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "deccc4056800",
    "source": "The Guardian",
    "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
@@ -1504,7 +1514,7 @@
   {
    "id": "74969950b944",
    "source": "BBC Mundo",
-   "title": "Zelensky pide a EE.UU. y Elon Musk reestablecer el acceso total de Ucrania a Starlink para frenar los ataques rusos",
+   "title": "Zelensky pide a EE.UU. y Elon Musk restablecer el acceso total de Ucrania a Starlink para frenar los ataques rusos",
    "description": "El presidente ucraniano afirma que las restricciones siguen vigentes y dificultan las operaciones defensivas de su ejército.",
    "url": "https://www.bbc.com/mundo/articles/cr930qe3pwx3o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-15T19:16:49+00:00",
@@ -2410,16 +2420,6 @@
    "date": "2026-11-08T12:46:25+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "a99c5b98005c",
-   "source": "The Guardian",
-   "title": "Environmentalists criticise choice of Earthshot prize venue owned by fossil fuel firm",
-   "description": "Mumbai facility is part of Reliance Industries, owner of world’s biggest oil refinery and funder of controversial mega-zoo The Prince of Wales’s Earthshot prize will host its forthcoming annual awards ceremony at a venue owned by the billionaire Ambani family conglomerate, drawin",
-   "url": "https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai",
-   "date": "2026-11-08T06:00:33+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
   },
   {
    "id": "a42d28575973",
