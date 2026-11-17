@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T22:48:36.631647+00:00",
+ "updated": "2026-11-17T23:44:43.055932+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -163,7 +163,7 @@
   },
   "Revista de Ciencia Política (UC)": {
    "ok": false,
-   "err": "HTTP Error 404: Not Found"
+   "err": "HTTP Error 403: Forbidden"
   },
   "Chatham House": {
    "ok": false,
