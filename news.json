@@ -1,6 +1,326 @@
 {
- "updated": "2026-11-17T12:55:14.706445+00:00",
+ "updated": "2026-11-17T14:11:49.795868+00:00",
  "items": [
+  {
+   "id": "09bc78b72d12",
+   "source": "The Guardian",
+   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
+   "description": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she ",
+   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+   "date": "2026-11-17T14:02:17+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "0957bcb43953",
+   "source": "The Guardian",
+   "title": "Paul Kelly pleads for Albanese to ‘show some backbone’ over AI as creatives campaign for copyright protections",
+   "description": "Music legend is joined by Jimmy Barnes and Peter Garrett in backing Not AI’s To Take campaign ahead of Aria awards Get our breaking news email , free app or daily news podcast Australia’s creative community has launched a major campaign pleading with the Albanese government not t",
+   "url": "https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign",
+   "date": "2026-11-17T14:00:15+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "cb61d0aee538",
+   "source": "The Guardian",
+   "title": "Chris Minns’ backflips are adding up. Is he ‘clearing the runway’ or panicking?",
+   "description": "From train timetables to coffee cups and property underquoting, the NSW premier is making policy reversals well ahead of the March election Get our daily political email , free app or daily news podcast If recent coverage is to be believed, the New South Wales premier, Chris Minn",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/18/chris-minns-labor-backflips-are-adding-up-is-he-clearing-the-runway-or-panicking-nsw-state-election",
+   "date": "2026-11-17T14:00:14+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "75f39a3bf625",
+   "source": "The Guardian",
+   "title": "Australia’s gender pay gap falls below 20% for first time",
+   "description": "Men still dominate top-paid positions but businesses’ ‘deliberate’ decisions have narrowed gap, workplace gender equality agency report finds Get our breaking news email , free app or daily news podcast Australian women earn 80c for every $1 men earn, on average, after Australia’",
+   "url": "https://www.theguardian.com/world/2026/nov/18/australia-gender-pay-gap-falls-below-20-percent-for-first-time",
+   "date": "2026-11-17T14:00:13+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "b3ca497aed73",
+   "source": "France 24",
+   "title": "¿Qué busca Nayib Bukele en Haití?",
+   "description": "Con 2.000 soldados salvadoreños desplegados en Haití, Nayib Bukele intenta proyectarse como líder regional y símbolo de seguridad. La misión del contingente militar de El Salvador en la isla es rescatar a los técnicos aparentemente secuestrados por pandillas, pero a medida que pa",
+   "url": "https://www.france24.com/es/programas/aqu%C3%AD-am%C3%A9rica/20261117-qu%C3%A9-busca-nayib-bukele-en-hait%C3%AD",
+   "date": "2026-11-17T13:59:17+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "bd2326b8e35e",
+   "source": "France 24",
+   "title": "Guerra híbrida: Estonia blinda su frontera, ¿una respuesta eficaz a la amenaza rusa?",
+   "description": "El domingo, Estonia anunció el cierre de su frontera con Rusia, tras acusar al país en guerra con Ucrania de haber orquestado un intento de sabotaje contra una fábrica de drones. Sin embargo, en la era digital, los agentes rusos pueden ignorar las fronteras para librar su guerra ",
+   "url": "https://www.france24.com/es/europa/20261117-guerra-h%C3%ADbrida-estonia-blinda-su-frontera-una-respuesta-eficaz-a-la-amenaza-rusa",
+   "date": "2026-11-17T13:57:49+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "a20cfc2d6bec",
+   "source": "Radio Cooperativa",
+   "title": "Jorge Sampaoli hizo doble guiño a Chile: Recordó a La Roja y a la U",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes A la espera de un nuevo desafío profesional tras su salida de Talleres de Córdoba en agosto pasado, el extécnico de Universidad de Chile y de la selección chilena, Jorge Sampaoli, participó en una distendida dinámica de pre",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/jorge-sampaoli/jorge-sampaoli-hizo-doble-guino-a-chile-recordo-a-la-roja-y-a-la-u/2026-11-17/105639.html",
+   "date": "2026-11-17T13:56:39+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "ee7ae30bd153",
+   "source": "France 24",
+   "title": "Caída de Jensen Huang: ¿quién gana la guerra de chips?",
+   "description": "La renuncia de Jensen Huang como CEO de Nvidia, tras revelarse su relación con una mujer acusada de espiar para China, reaviva la disputa entre Estados Unidos y China por los microchips más avanzados, clave para la inteligencia artificial. Washington restringe su exportación y Be",
+   "url": "https://www.france24.com/es/programas/el-debate/20261117-ca%C3%ADda-de-jensen-huang-qui%C3%A9n-gana-la-guerra-de-chips",
+   "date": "2026-11-17T13:53:59+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "b2128a5bfb1e",
+   "source": "The Guardian",
+   "title": "‘Half measures will not do’: Milburn calls for wholesale reform as he publishes major youth unemployment report – live",
+   "description": "‘We are failing as a nation to gift young people, the next generation, the opportunities they need to succeed,’ Alan Milburn says Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report? This chart, from the Milburn report, shows what is likely t",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+   "date": "2026-11-17T13:49:24+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "5bd0b9125c62",
+   "source": "Ex-Ante",
+   "title": "Las claves del rápido avance de Perú para superar a Chile como la cuarta economía de Sudamérica en 2027",
+   "description": "Las proyecciones del Fondo Monetario Internacional (FMI) apuntan a que Perú podría superar a Chile en tamaño económico en 2027 y convertirse en la cuarta…",
+   "url": "https://www.ex-ante.cl/negocios/peru-amenaza-superar-pib-chile-2027/",
+   "date": "2026-11-17T13:47:29+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "6d51ec35782c",
+   "source": "Radio Cooperativa",
+   "title": "Exsubsecretaria de Ciencia cuestiona acuerdo del Gobierno con OpenAI",
+   "description": "El acuerdo entre Chile y la gigante tecnológica OpenAI ya levanta sospechas entre diferentes actores del sistema científico nacional, así como en autoridades del pasado gobierno, como Carolina Gainza , otrora subsecretaria de Ciencia. A través de sus redes sociales, la exautorida",
+   "url": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/exsubsecretaria-de-ciencia-cuestiona-acuerdo-del-gobierno-con-openai/2026-11-17/104636.html",
+   "date": "2026-11-17T13:46:36+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "8e485b37d088",
+   "source": "The Guardian",
+   "title": "UK unemployment unexpectedly eases to 4.6% as government releases Milburn report",
+   "description": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work Milburn urges Burnham to spend billions on young people Who are the Neets? UK youth job crisis in five charts Business live – latest updates The UK unemployment rate has unexpected",
+   "url": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
+   "date": "2026-11-17T13:44:09+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a47621149f49",
+   "source": "Radio Cooperativa",
+   "title": "Nuevo tropiezo: Nicolás Jarry no pudo con Pucinelli y se despidió en su debut en Montevideo",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Un amargo estreno en suelo uruguayo vivió el tenista chileno Nicolás Jarry (751° del ranking ATP), luego de quedar eliminado en la primera ronda del Challenger 75 de Montevideo tras inclinarse por un doble 4-6 ante el brasi",
+   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/nicolas-jarry/nuevo-tropiezo-nicolas-jarry-no-pudo-con-pucinelli-y-se-despidio-en-su/2026-11-17/103823.html",
+   "date": "2026-11-17T13:38:23+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e1322fe9033f",
+   "source": "Al Jazeera",
+   "title": "Rep. Thomas Massie Forces a New Fight for Epstein Survivors",
+   "description": "Kentucky Republican Rep. Thomas Massie is pushing for justice for victims of the Epstein files.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/rep-thomas-massie-forces-a-new-fight-for-epstein-survivors?traffic_source=rss",
+   "date": "2026-11-17T13:37:51+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ca1084d69f40",
+   "source": "The Guardian",
+   "title": "Deutsche Bank dismissed warnings about dealings with risky clients, reports claim",
+   "description": "International investigation using trove of leaked internal data allegedly shows German bank overlooked compliance concerns to safeguard profits Deutsche Bank reportedly dismissed warnings about its dealings with risky clients, including high-profile Russian oligarchs, to protect ",
+   "url": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim",
+   "date": "2026-11-17T13:35:39+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "dc802ee97d88",
+   "source": "Radio Cooperativa",
+   "title": "\"La ideología a un lado\": Romero defendió el pragmatismo de Kast en su gira por Asia",
+   "description": "El diputado Agustín Romero (Partido Republicano) defendió en El Primer Café de Cooperativa el pragmatismo del Presidente José Antonio Kast durante su gira por Asia y sostuvo que su responsabilidad es atraer inversiones y abrir mercados, aunque ello implique relegar sus posiciones",
+   "url": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/china/la-ideologia-a-un-lado-romero-defendio-el-pragmatismo-de-kast-en-su/2026-11-17/103536.html",
+   "date": "2026-11-17T13:35:36+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "8f969aa38746",
+   "source": "Radio Cooperativa",
+   "title": "Myriam Hernández anuncia shows navideños en el Teatro Nescafé de las Artes",
+   "description": "La cantante Myriam Hernández anunció que realizará un par de conciertos navideños en el Teatro Nescafé de las Artes . \"Este año quiero vivir la Navidad con ustedes. Los invito a Nuestra Navidad, un show especial para compartir en familia la magia de estas fechas\", señaló en sus r",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/myriam-hernandez-anuncia-shows-navidenos-en-el-teatro-nescafe-de-las/2026-11-17/103457.html",
+   "date": "2026-11-17T13:34:57+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "4f532a59b7b3",
+   "source": "CIPER Chile",
+   "title": "Las millonarias adendas con Etesa que beneficiaron a Iverco, Neminca y Carretero",
+   "description": "La entrada Las millonarias adendas con Etesa que beneficiaron a Iverco, Neminca y Carretero se publicó primero en CIPER Chile .",
+   "url": "https://www.ciperchile.cl/2026/11/17/las-millonarias-adendas-con-etesa-que-beneficiaron-a-iverco-neminca-y-carretero/?utm_source=rss&utm_medium=rss&utm_campaign=las-millonarias-adendas-con-etesa-que-beneficiaron-a-iverco-neminca-y-carretero",
+   "date": "2026-11-17T13:34:46+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "ea3f67db8432",
+   "source": "Al Jazeera",
+   "title": "‘Unprecedented’ Ukraine attack on Crimean bridge",
+   "description": "Ukraine has struck the Kerch Bridge linking Russia to Russian-annexed Crimea for a second day.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss",
+   "date": "2026-11-17T13:29:27+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e906e22a1de5",
+   "source": "The Guardian",
+   "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+   "description": "Zelenskyy praises ‘unprecedented attack’ but Kremlin claims bridge will be restored and will be ‘better than ever’ Europe live – follow latest Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Volodymyr Zel",
+   "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+   "date": "2026-11-17T13:25:02+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "d8a37f8c9606",
+   "source": "Radio Cooperativa",
+   "title": "Ingreso real per cápita cayó 3,5% en Chile durante el segundo trimestre",
+   "description": "El ingreso real por habitante en Chile sufrió en el segundo trimestre de 2026 un descenso de 3,5 por ciento , el mayor de los 20 países de la OCDE para los que hay datos . La Organización para Cooperación y el Desarrollo Económico (OCDE) publicó el lunes los datos agregados y apu",
+   "url": "https://www.cooperativa.cl/noticias/economia/consumidores/ingreso-real-per-capita-cayo-3-5-en-chile-durante-el-segundo-trimestre/2026-11-17/101858.html",
+   "date": "2026-11-17T13:18:58+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "0775eaf8a4d7",
+   "source": "Al Jazeera",
+   "title": "At the origin of France’s education protests, students refuse to give up",
+   "description": "Blockades continue at some schools in the Parisian suburbs as students and teachers say little has improved.",
+   "url": "https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss",
+   "date": "2026-11-17T13:14:25+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "10db9ad0f734",
+   "source": "Al Jazeera",
+   "title": "Infantino’s FIFA challenger Diallo claims to have support beyond Europe",
+   "description": "French football chief Philippe Diallo says he has received 'spontaneous signs of strong support' against Infantino.",
+   "url": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss",
+   "date": "2026-11-17T13:09:31+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "9daf669eb554",
+   "source": "Ex-Ante",
+   "title": "Kast y Xi Jinping acuerdan profundizar relaciones comerciales en medio de tensión Beijing-Washington",
+   "description": "Por poco más de 40 minutos se extendió la reunión que sostuvo este martes el Presidente Kast con su par chino Xi Jinping. Durante el…",
+   "url": "https://www.ex-ante.cl/politica/kast-profundizar-comercio-china-xi-jinping/",
+   "date": "2026-11-17T13:08:27+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "a8f8340d5b8b",
+   "source": "Radio Cooperativa",
+   "title": "Lincolao firmó acuerdo con CEO de OpenAI para incorporar IA a los servicios del Estado",
+   "description": "El Gobierno firmó un memorándum de entendimiento con la empresa OpenAI para que el Estado de Chile adopte el uso de inteligencia artificial (IA) de manera segura y responsable, a fin de mejorar los servicios que entrega a las personas. De acuerdo con La Tercera, el memorándum -su",
+   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/lincolao-firmo-acuerdo-con-ceo-de-openai-para-incorporar-ia-a-los/2026-11-17/100722.html",
+   "date": "2026-11-17T13:07:22+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "ab50cca34980",
+   "source": "Radio Cooperativa",
+   "title": "Ariel Leporati en el arribo de La Roja sub 17 al Mundial: Estamos con mucha ilusión",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con la concentración al máximo y el optimismo a flor de piel, la selección chilena sub 17 completó su arribo a Catar, sede de la Copa del Mundo de la categoría, instalándose de lleno en tierra mundialista de cara a su esper",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mundial-sub-17/ariel-leporati-en-el-arribo-de-la-roja-sub-17-al-mundial-estamos-con/2026-11-17/100545.html",
+   "date": "2026-11-17T13:05:45+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "7c67780d48cb",
+   "source": "Al Jazeera",
+   "title": "Why do governments switch off the internet?",
+   "description": "The internet went dark somewhere every day in 2025. AJLabs explains why authorities switch it off.",
+   "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/17/why-do-governments-switch-off-the-internet?traffic_source=rss",
+   "date": "2026-11-17T13:03:39+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2121509461ff",
+   "source": "The Guardian",
+   "title": "Santander allows staff to count holidays and sick leave as days worked in office",
+   "description": "News of Spanish-owned lender’s policy emerges as other banks are toughening their stance on working from home Business live – latest updates Staff at the high street bank Santander have been permitted to log holiday and sick leave as days worked in the office, helping them to mee",
+   "url": "https://www.theguardian.com/business/2026/nov/17/santander-staff-holidays-sick-leave-days-in-office",
+   "date": "2026-11-17T13:01:08+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "67e97e4d23c4",
+   "source": "France 24",
+   "title": "Xi Jinping se reúne con Sheinbaum, Fujimori y Kast antes de la cumbre de APEC",
+   "description": "El presidente chino Xi Jinping recibió este martes en Shenzhen a Claudia Sheinbaum, Keiko Fujimori y José Antonio Kast, a un día de la reunión de líderes de APEC. Sheinbaum manifestó su intención de reforzar el comercio pese a la suba de aranceles mexicanos a productos chinos, mi",
+   "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261117-xi-jinping-se-re%C3%BAne-con-sheinbaum-fujimori-y-kast-antes-de-la-cumbre-de-apec",
+   "date": "2026-11-17T12:57:33+00:00",
+   "category": "Comercio internacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "7748a89ce4dd",
+   "source": "Al Jazeera",
+   "title": "Usman Nurmagomedov released from UAE prison after hotel brawl arrest",
+   "description": "Russian MMA fighter and seven associates still face deportation after a hotel fight with other MMA fighters.",
+   "url": "https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss",
+   "date": "2026-11-17T12:55:07+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e340cc056793",
+   "source": "Al Jazeera",
+   "title": "Brazil defeat Singapore 7-0 as Vinicius scores first-half hat-trick",
+   "description": "Brazil's star forward scored a 12-minute hat-trick in the record world champions' thumping of the hosts in a friendly.",
+   "url": "https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick?traffic_source=rss",
+   "date": "2026-11-17T12:54:04+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "fe265f21a37c",
+   "source": "Al Jazeera",
+   "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
+   "description": "Energy facilities, industrial units, ports and bridges, schools, hospitals and apartment buildings have already been hit",
+   "url": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
+   "date": "2026-11-17T12:50:12+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "c854bffa5bbf",
    "source": "Radio Cooperativa",
@@ -42,16 +362,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b2128a5bfb1e",
-   "source": "The Guardian",
-   "title": "‘Half measures will not do’: Milburn calls for wholesale reform as he publishes major youth unemployment report – live",
-   "description": "‘We are failing as a nation to gift young people, the next generation, the opportunities they need to succeed,’ Alan Milburn says Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report? This chart, from the Milburn report, shows what is likely t",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-   "date": "2026-11-17T12:32:32+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "c11da5c2f87c",
    "source": "The Guardian",
    "title": "Serbia’s Student List candidates sworn in as MPs after election triumph",
@@ -89,16 +399,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
    "date": "2026-11-17T12:18:08+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "09bc78b72d12",
-   "source": "The Guardian",
-   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-   "description": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she ",
-   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-   "date": "2026-11-17T12:11:29+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -184,7 +484,7 @@
   {
    "id": "99d6dedb33ef",
    "source": "Al Jazeera",
-   "title": "Rebecca Grynspan could be the UN’s first woman boss, if she can sway Trump",
+   "title": "Rebeca Grynspan could be the UN’s first woman boss, if she can sway Trump",
    "description": "Swaying the US could test Grynspan but she likes taking risks - and wants UN to take more, she tells Al Jazeera.",
    "url": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
    "date": "2026-11-17T11:49:39+00:00",
@@ -292,26 +592,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2fb41d0a0d40",
-   "source": "The Guardian",
-   "title": "UK music industry hits record high of £8.4bn – but are working musicians being left behind?",
-   "description": "Major tours by the likes of Oasis helped make 2025 a lucrative year, with music export revenue reaching £4.8bn Major tours by Oasis, Robbie Williams and Dua Lipa, as well as hit albums by the likes of Olivia Dean, have helped to push the UK music industry to record revenues. But ",
-   "url": "https://www.theguardian.com/music/2026/nov/17/uk-music-industry-hits-record-high-of-84bn-this-is-music-report",
-   "date": "2026-11-17T11:12:54+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "1149d1cada72",
-   "source": "Radio Cooperativa",
-   "title": "Dominga López llega a Puerto Rico para la final de Miss Universo: Fechas de la competencia",
-   "description": "La modelo Dominga López ya se encuentra instalada en Puerto Rico a la espera de la final del concurso de belleza Miss Universo . La representante de Chile publicó en sus redes sociales una serie de registros de sus primeras actividades en la isla, que en los próximos días alberga",
-   "url": "https://www.cooperativa.cl/noticias/magazine/tendencias/dominga-lopez-llega-a-puerto-rico-para-la-final-de-miss-universo-fechas/2026-11-17/080653.html",
-   "date": "2026-11-17T11:06:53+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "091152a21241",
    "source": "Al Jazeera",
    "title": "Bangladesh police clash with garment workers amid protests over wages",
@@ -319,16 +599,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
    "date": "2026-11-17T11:06:12+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "da899589c1a5",
-   "source": "Radio Cooperativa",
-   "title": "Hombre murió baleado mientras llegaba a visitar a un familiar en Recoleta",
-   "description": "Un hombre chileno de 36 años murió tras ser atacado a disparos en el frontis de un domicilio de la comuna de Recoleta, en momentos en que llegaba a visitar a un familiar la tarde del lunes. El crimen ocurrió en calle Héroe José Argomedo , donde un sujeto desconocido descendió de ",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/homicidios/hombre-murio-baleado-mientras-llegaba-a-visitar-a-un-familiar-en-recoleta/2026-11-17/080535.html",
-   "date": "2026-11-17T11:05:35+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -372,16 +642,6 @@
    "type": "Prensa"
   },
   {
-   "id": "570164139a5c",
-   "source": "Radio Cooperativa",
-   "title": "Kast se reunió con Xi Jinping a un día del inicio de la APEC",
-   "description": "El Presidente José Antonio Kast se reunió este martes en Shenzhen con Xi Jinping , en vísperas de la cumbre de líderes del Foro de Cooperación Económica Asia-Pacífico (APEC) , que se celebrará mañana y el jueves en esta ciudad del sur de China. La cita entre ambos -primera desde ",
-   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-se-reunio-con-xi-jinping-a-un-dia-del-inicio-de-la-apec/2026-11-17/074245.html",
-   "date": "2026-11-17T10:42:45+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "e0432b13318b",
    "source": "Al Jazeera",
    "title": "Fomula One champion Fernando Alonso to race at Dakar Rally 2027",
@@ -389,26 +649,6 @@
    "url": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
    "date": "2026-11-17T10:42:42+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "c374a04d9221",
-   "source": "The Guardian",
-   "title": "Former WH Smith chain TG Jones put up for sale after closing 130 stores",
-   "description": "Modella Capital plans auction of high street retailer, which employs about 3,500 people, next year Business live – latest updates The owner of TG Jones is exploring a potential sale less than 18 months after completing a deal to buy the high street chain formerly known as WH Smit",
-   "url": "https://www.theguardian.com/business/2026/nov/17/wh-smith-tg-jones-sale-stores-modella-capita",
-   "date": "2026-11-17T10:33:01+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "e906e22a1de5",
-   "source": "The Guardian",
-   "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-   "description": "Zelenskyy praises ‘unprecedented attack’ but Kremlin claims bridge will be restored and will be ‘better than ever’ Europe live – follow latest Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Volodymyr Zel",
-   "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
-   "date": "2026-11-17T10:30:22+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -482,26 +722,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4bf70a2e5942",
-   "source": "Al Jazeera",
-   "title": "Journalist who exposed alleged drug links shot dead in Costa Rica",
-   "description": "Costa Rican journalist Camilo Rodriguez has been shot dead near the capital San Jose.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/journalist-who-exposed-alleged-drug-links-shot-dead-in-costa-rica?traffic_source=rss",
-   "date": "2026-11-17T09:18:37+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "e24c0dcf5f3c",
-   "source": "Al Jazeera",
-   "title": "Kim Jong Un tours North Korea ski resort with daughter Ju Ae",
-   "description": "Kim Jong Un toured a ski resort under development in a tourist district in Samjiyon with his daughter Ju Ae.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/kim-jong-un-tours-north-korea-ski-resort-with-daughter-ju-ae?traffic_source=rss",
-   "date": "2026-11-17T09:12:38+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "6bff009872bd",
    "source": "The Guardian",
    "title": "‘Line their own coffers’: independent MPs lambast Labor’s last-minute changes to election funding laws",
@@ -512,66 +732,6 @@
    "type": "Prensa"
   },
   {
-   "id": "fb59d7af1466",
-   "source": "Al Jazeera",
-   "title": "Irish ‌‌‌‌boxer Lee Reeves, 31, dies three months after sustaining injuries",
-   "description": "Lee Reeves died in Limerick three months after sustaining serious injuries in his bout against Gary Cully in Dublin.",
-   "url": "https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss",
-   "date": "2026-11-17T08:41:21+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "28ee36fb3e41",
-   "source": "The Guardian",
-   "title": "Communications watchdog leadership reversed findings of draft report into ABC Four Corners program, FoI documents reveal",
-   "description": "Documents show draft Acma reports backed reporting of Gold Walkley award-winning journalist Mark Willacy about Australian War Memorial Sign up for Guardian Australia’s free weekly media newsletter here An investigation by staff of the Australian Media and Communications Authority",
-   "url": "https://www.theguardian.com/media/2026/nov/17/communications-watchdog-leadership-reversed-findings-of-draft-report-into-abc-four-corners-program-foi-documents-ntwnfb",
-   "date": "2026-11-17T08:33:52+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "bda0b57dd920",
-   "source": "Al Jazeera",
-   "title": "Vance calls out ‘neoconservatives’ over Iran war",
-   "description": "US Vice President JD Vance told Fox News that ‘neoconservatives’ want the Iran war to become a forever war.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss",
-   "date": "2026-11-17T08:25:25+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "b81d01e1b67f",
-   "source": "Al Jazeera",
-   "title": "South Korea cheating scandal: Are AI smart glasses a threat to exams?",
-   "description": "A student with near-perfect scores on two tests has confessed to using artificial intelligence.",
-   "url": "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams?traffic_source=rss",
-   "date": "2026-11-17T08:15:32+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "b744acdb7dec",
-   "source": "Al Jazeera",
-   "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-   "description": "Moscow-installed governor says traffic suspended after second attack on bridge in two days.",
-   "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
-   "date": "2026-11-17T08:12:06+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "f218e7e6a84b",
-   "source": "Al Jazeera",
-   "title": "AI models abandon climate facts to please users, UNESCO report finds",
-   "description": "AI models abandon climate facts to agree with users in eight out of 10 tests.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds?traffic_source=rss",
-   "date": "2026-11-17T08:10:26+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "086c5a24abbf",
    "source": "France 24",
    "title": "En directo: nueva jornada de movilización y huelga en el sector público en Francia",
@@ -579,16 +739,6 @@
    "url": "https://www.france24.com/es/francia/20261117-en-directo-nueva-jornada-de-movilizaci%C3%B3n-y-huelga-en-el-sector-p%C3%BAblico-en-francia",
    "date": "2026-11-17T08:06:17+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "9bd494569be5",
-   "source": "Al Jazeera",
-   "title": "Andy Burnham says Brexit is what the UK’s ‘enemies’ wanted",
-   "description": "UK Prime Minister Andy Burnham slammed Brexit in a speech at the Lord Mayor’s Banquet.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/andy-burnham-says-brexit-is-what-the-uks-enemies-wanted?traffic_source=rss",
-   "date": "2026-11-17T08:04:35+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -609,26 +759,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/16/is-is-india-travel-boom-travel-and-leisure-women",
    "date": "2026-11-17T07:30:06+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "3b8716e3d7b2",
-   "source": "The Guardian",
-   "title": "‘Disgusted by it’: body of Melbourne Cup race horse found dumped in Sydney skip bin",
-   "description": "So You Are placed eighth in race just two weeks ago and was put down after a severe bout of colic Get our daily political email , free app or daily news podcast The body of a horse that placed eighth in Australia’s Melbourne Cup two weeks ago and recently fell ill has been found ",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb",
-   "date": "2026-11-17T06:39:24+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "123bdaaf55be",
-   "source": "The Guardian",
-   "title": "Woman whose baby died after free birth didn’t know she was pregnant with twins, NSW inquest hears",
-   "description": "Inquest continues into deaths of four babies born in free births or home births in northern rivers Get our breaking news email , free app or daily news podcast A northern rivers mother whose baby died after a free birth did not know she was having twins until she was in labour af",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/17/nsw-inquest-free-birth-keeper-baby-death-ntwnfb",
-   "date": "2026-11-17T06:33:13+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -704,7 +834,7 @@
   {
    "id": "3376ab3c5acc",
    "source": "BBC Mundo",
-   "title": "Cómo lo megamillonarios en Rusia se preparan para un futuro sin Putin",
+   "title": "Cómo los megamillonarios en Rusia se preparan para un futuro sin Putin",
    "description": "Algunos magnates rusos añoran el regreso al sistema oligárquico de los años noventa, cuando los empresarios disfrutaban del poder. ¿Hay alguna posibilidad de que sea realidad?",
    "url": "https://www.bbc.com/mundo/articles/c91430j35n5ro?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-17T02:46:30+00:00",
@@ -789,16 +919,6 @@
    "url": "https://www.france24.com/es/video/20261117-informe-desde-lima-multitudinaria-misa-de-le%C3%B3n-xiv-marca-su-despedida-de-per%C3%BA",
    "date": "2026-11-17T01:42:58+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "d80950a98e96",
-   "source": "Radio Cooperativa",
-   "title": "Suprema revisará recursos de nulidad de 14 condenados por el caso Grollmus",
-   "description": "La Corte Suprema puso en tabla la revisión de los recursos de nulidad presentados por la Defensoría Penal Pública (DPP ) en favor de 14 de los 18 condenados por el atentado al Molino Grollmus , ocurrido en agosto de 2022 en Contulmo. La defensa cuestiona el uso de testimonios de ",
-   "url": "https://www.cooperativa.cl/noticias/pais/judicial/casos-emblematicos/suprema-revisara-recursos-de-nulidad-de-14-condenados-por-el-caso-grollmus/2026-11-16/223352.html",
-   "date": "2026-11-17T01:33:52+00:00",
-   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -902,26 +1022,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b995d182d945",
-   "source": "France 24",
-   "title": "Macron defiende que ha hecho \"todo lo posible\" por Francia a pesar de algunos \"errores\"",
-   "description": "Emmanuel Macron publicó este lunes 16 de noviembre un mensaje reflexionando sobre el décimo aniversario de su primer anuncio como candidato a presidente. \"Hice lo mejor que pude\", afirmó, aunque admitió haber cometido errores en ocasiones, seis meses antes de finalizar su segundo",
-   "url": "https://www.france24.com/es/francia/20261116-macron-defiende-que-ha-hecho-todo-lo-posible-por-francia-a-pesar-de-algunos-errores",
-   "date": "2026-11-16T23:38:19+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "e28dd0fd3623",
-   "source": "Radio Cooperativa",
-   "title": "La Roja quiere tomarse revancha ante Colombia y cerrar el año con un triunfo en Santiago",
-   "description": "La selección chilena enfrentará a Colombia este martes a las 20:00 horas (23:00 GMT) en el Estadio Monumental, con la misión de tomarse revancha por la derrota sufrida en Cali y cerrar con una victoria el año 2026. Este partido originalmente se debía jugar en el Estadio Nacional,",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-quiere-tomarse-revancha-ante-colombia-y-cerrar-el-ano-con-un/2026-11-16/202909.html",
-   "date": "2026-11-16T23:29:09+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "d50243522594",
    "source": "CIPER Chile",
    "title": "Caso Sartor: cuentas de Clark registran pagos por más de $2 mil millones de sociedades ligadas a Victoriano Cerda y Patricio Kiblisky",
@@ -1002,16 +1102,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c0d29ad8ae03",
-   "source": "France 24",
-   "title": "Con la venia de Su Majestad: Robert Pattinson es el nuevo James Bond",
-   "description": "\"Bienvenido al Servicio Secreto de Su Majestad\". Con estas palabras, el rey Carlos III y su esposa Camila celebraron la elección del actor británico Robert Pattinson para interpretar al emblemático espía James Bond. La decisión es un pase de testigo de manos de otro inglés, Danie",
-   "url": "https://www.france24.com/es/cultura/20261116-con-la-venia-de-su-majestad-robert-pattinson-es-el-nuevo-james-bond",
-   "date": "2026-11-16T21:15:28+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "6d687984ba8e",
    "source": "The Guardian",
    "title": "Third US aircraft carrier brings thousands more troops to Middle East",
@@ -1022,16 +1112,6 @@
    "type": "Prensa"
   },
   {
-   "id": "04c545c8f3d4",
-   "source": "France 24",
-   "title": "Corea del Sur toma medidas para evitar fraudes en examen de ingreso a la universidad",
-   "description": "Corea del Sur blinda el examen de ingreso a la universidad. Tras la confesión de un estudiante que había conseguido una puntuación casi excelente confesara que había utilizado lentes con inteligencia artificial, el Gobierno prepara medidas para evitar y sancionar duramente a quie",
-   "url": "https://www.france24.com/es/video/20261116-corea-del-sur-toma-medidas-para-evitar-fraudes-en-examen-de-ingreso-a-la-universidad",
-   "date": "2026-11-16T21:09:59+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "68192d115d82",
    "source": "Ex-Ante",
    "title": "Texto de Acusación Constitucional contra Rabat incluye citas académicas de Luis Silva como fundamento",
@@ -1039,16 +1119,6 @@
    "url": "https://www.ex-ante.cl/politica/la-acusacion-constitucional-contra-rabat/",
    "date": "2026-11-16T20:58:39+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "9494a9ea711e",
-   "source": "France 24",
-   "title": "Encuentro Trump-Xi-Putin: la errónea comparación con la conferencia de Yalta",
-   "description": "China confirmó que el presidente Xi Jinping se reunirá con sus homólogos Donald Trump y Vladimir Putin el próximo 19 de noviembre, en la que hablarán temas como la paz y la cooperación internacional, con un importante énfasis en la guerra en Ucrania. El encuentro ha sido comparad",
-   "url": "https://www.france24.com/es/video/20261116-encuentro-trump-xi-putin-la-err%C3%B3nea-comparaci%C3%B3n-con-la-conferencia-de-yalta",
-   "date": "2026-11-16T20:56:23+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1089,16 +1159,6 @@
    "url": "https://www.ex-ante.cl/politica/pina-abogado-defendera-rabat-ac/",
    "date": "2026-11-16T20:45:17+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "a51032110c52",
-   "source": "Radio Cooperativa",
-   "title": "La programación de los cuartos de final en la Liguilla del Ascenso",
-   "description": "La ANFP dio a conocer este lunes la programación de los duelos de ida y vuelta de cuartos de final de la Liguilla del Ascenso , que entregarán el segundo boleto a Primera División. En esta fase sólo compiten seis equipos, ya que hay un equipo clasificado directo a semifinales: El",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/la-programacion-de-los-cuartos-de-final-en-la-liguilla-del-ascenso/2026-11-16/173737.html",
-   "date": "2026-11-16T20:37:37+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1159,26 +1219,6 @@
    "url": "https://www.ex-ante.cl/internacional/flores-de-kast-para-ho-chi-minh/",
    "date": "2026-11-16T17:45:15+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "a79047889483",
-   "source": "Ex-Ante",
-   "title": "Cómo Kast puede remontar en las encuestas en medio de compleja situación económica y el caso Rabat",
-   "description": "Desde Vietnam, el Presidente Kast asumió la responsabilidad por su caída, pero la atribuyó a factores externos. Juan Pablo Lavín (Panel Ciudadano-UDD) y Paola Assael…",
-   "url": "https://www.ex-ante.cl/politica/como-kast-remontar-encuestas-crisis/",
-   "date": "2026-11-16T17:37:32+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "125e419125fa",
-   "source": "Ex-Ante",
-   "title": "Rebaja de penas: Defensoría Pública desafía nuevo criterio de Rabat y busca liberar a condenado por violencia intrafamiliar",
-   "description": "La Defensoría Penal Pública presentó un recurso de amparo en favor de un condenado por violencia intrafamiliar a quien el ministro Rabat no ha reducido…",
-   "url": "https://www.ex-ante.cl/nacional/defensoria-desafia-nuevo-criterio-de-rabat/",
-   "date": "2026-11-16T16:47:36+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -1299,16 +1339,6 @@
    "url": "https://www.bbc.com/mundo/articles/cr15e9qjnxdgo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-16T12:49:59+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "9a5e301b8fea",
-   "source": "The Guardian",
-   "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
-   "description": "Traffic temporarily restricted on key connection after bridge targeted during overnight drone barrage by Ukraine Ukraine has hit the Kerch bridge connecting occupied Crimea with Russia, in a symbolic blow that temporarily paralysed road traffic and left thousands of drivers stran",
-   "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
-   "date": "2026-11-16T12:45:09+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1862,16 +1892,6 @@
    "type": "Oficial"
   },
   {
-   "id": "7aace6423f40",
-   "source": "CIPER Chile",
-   "title": "Gobierno y camioneros acuerdan fin del paro con rebaja de $142 en el diésel; 41 mil niños esperan cupo en programas de protección, y la mitad de los vertederos del país no tiene autorización sanitaria",
-   "description": "La entrada Gobierno y camioneros acuerdan fin del paro con rebaja de $142 en el diésel; 41 mil niños esperan cupo en programas de protección, y la mitad de los vertederos del país no tiene autorización sanitaria se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/12/gobierno-y-camioneros-acuerdan-fin-del-paro-con-rebaja-de-142-en-el-diesel-41-mil-ninos-esperan-cupo-en-programas-de-proteccion-y-la-mitad-de-los-vertederos-del-pais-no-tiene-autorizacion-sanitaria/?utm_source=rss&utm_medium=rss&utm_campaign=gobierno-y-camioneros-acuerdan-fin-del-paro-con-rebaja-de-142-en-el-diesel-41-mil-ninos-esperan-cupo-en-programas-de-proteccion-y-la-mitad-de-los-vertederos-del-pais-no-tiene-autorizacion-sanitaria",
-   "date": "2026-11-12T23:21:20+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "97e62064d3eb",
    "source": "Servicio Electoral",
    "title": "Servel fue parte de la Cuenta Pública de la Defensoría de la Niñez",
@@ -2392,16 +2412,6 @@
    "type": "Oficial"
   },
   {
-   "id": "3907db38e945",
-   "source": "Radio Cooperativa",
-   "title": "El campeón estrena el título: La programación de la fecha 28 de la Liga de Primera",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La ANFP dio a conocer la programación de la fecha 28 de la Liga de Primera, que se disputará entre el 20 y 22 de noviembre, y que tendrá como duelo estelar el clásico entre Colo Colo, campeón, y Universidad Católica en el E",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/el-campeon-estrena-el-titulo-la-programacion-de-la-fecha-28-de-la-liga/2026-11-08/214949.html",
-   "date": "2026-11-09T00:49:49+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "4896b0a3b140",
    "source": "Organización Mundial del Comercio",
    "title": "Alemania dona EUR 500.000 para reforzar la capacidad comercial de las economías en desarrollo",
@@ -2600,16 +2610,6 @@
    "date": "2026-10-10T07:49:45+00:00",
    "category": "",
    "type": "Oficial"
-  },
-  {
-   "id": "dbbc4dc71f68",
-   "source": "Radio Cooperativa",
-   "title": "Cartelera de conciertos 2026 en Chile",
-   "description": "CONCIERTOS 2026 EN CHILE CONCIERTOS NOVIEMBRE 2026 1 de noviembre - Iron Maiden - Estadio Nacional - Entradas 1 de noviembre - Alex Serra y Totidub - Club Chocolate - Entradas 1 de noviembre - Opeth - Santander Arena - Entradas 1 de noviembre - Nicole - Teatro Municipal Valparaís",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html",
-   "date": "2025-12-01T11:21:52+00:00",
-   "category": "",
-   "type": "Prensa"
   },
   {
    "id": "9745c15368a2",
