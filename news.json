@@ -1,14 +1,204 @@
 {
- "updated": "2026-11-17T11:45:51.755877+00:00",
+ "updated": "2026-11-17T12:55:14.706445+00:00",
  "items": [
+  {
+   "id": "c854bffa5bbf",
+   "source": "Radio Cooperativa",
+   "title": "Brasil arrolló con siete goles a Singapur en duelo amistoso con triplete de Vinicius",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-brasilena/brasil-arrollo-con-siete-goles-a-singapur-en-duelo-amistoso-con-triplete/2026-11-17/094315.html",
+   "date": "2026-11-17T12:43:15+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "26d135e9fcfc",
+   "source": "Al Jazeera",
+   "title": "How is US Senate majority leader chosen?",
+   "description": "Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.",
+   "url": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
+   "date": "2026-11-17T12:38:39+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f9f8e90d3274",
+   "source": "Radio Cooperativa",
+   "title": "Murió John Christ, histórico guitarrista de Danzig",
+   "description": "A los 61 años, y \"en paz\", falleció el guitarrista estadounidense John Christ , parte de la formación más clásica de Danzig, la banda que creó Glenn Danzig tras salir de Misfits y que se posicionó como un referente del metal a principios de los años '90. Christ se sumó en 1987 a ",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/metal/murio-john-christ-historico-guitarrista-de-danzig/2026-11-17/093558.html",
+   "date": "2026-11-17T12:35:58+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e618a7ae45af",
+   "source": "Al Jazeera",
+   "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+   "description": "Trump says Washington doesn't need a deal with Tehran, while Iran rejects 'no war, no peace'. Is the war at an impasse?",
+   "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
+   "date": "2026-11-17T12:33:51+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
   {
    "id": "b2128a5bfb1e",
    "source": "The Guardian",
-   "title": "Major youth unemployment report calls for changes to tax, welfare and apprenticeships – UK politics live",
-   "description": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take years Milburn urges Burnham to spend billions on ‘new deal’ for young people This chart, from the Milburn report, shows what is likely to happen to the Neet rate, with or",
+   "title": "‘Half measures will not do’: Milburn calls for wholesale reform as he publishes major youth unemployment report – live",
+   "description": "‘We are failing as a nation to gift young people, the next generation, the opportunities they need to succeed,’ Alan Milburn says Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report? This chart, from the Milburn report, shows what is likely t",
    "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-   "date": "2026-11-17T11:38:57+00:00",
+   "date": "2026-11-17T12:32:32+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c11da5c2f87c",
+   "source": "The Guardian",
+   "title": "Serbia’s Student List candidates sworn in as MPs after election triumph",
+   "description": "Inaugural parliamentary session comes as ousted populist Aleksandar Vučić threatens mass protests of his own Candidates for Serbia’s Student List, the grassroots movement of political outsiders that pulled off a spectacular victory in last month’s elections over the party of the ",
+   "url": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
+   "date": "2026-11-17T12:31:56+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "b86f753dfbad",
+   "source": "Deutsche Welle",
+   "title": "Profecía de Jürgen Klopp se vuelve viral tras rodillo 5-0 a Países Bajos",
+   "description": "Minutos antes del partido contra Países Bajos, el entrenador alemán vaticinó justo un resultado por el que pocos habrían apostado.",
+   "url": "https://www.dw.com/es/profecía-de-jürgen-klopp-se-vuelve-viral-tras-rodillo-5-0-a-países-bajos/a-79970408?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-17T12:29:00+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "f8c83d4d745d",
+   "source": "Al Jazeera",
+   "title": "Trump addresses Quad leaders at first summit since 2024",
+   "description": "US President Donald Trump spoke to leaders of the Quad security bloc at their first summit since 2024.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss",
+   "date": "2026-11-17T12:25:33+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "864be846304e",
+   "source": "The Guardian",
+   "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+   "description": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’ UK politics live – latest updates Ed Miliband has announced the first set of sanctions against Israeli companies planning to build illegal settlements ",
+   "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+   "date": "2026-11-17T12:18:08+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "09bc78b72d12",
+   "source": "The Guardian",
+   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
+   "description": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she ",
+   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+   "date": "2026-11-17T12:11:29+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "fb5b7fedf0da",
+   "source": "Al Jazeera",
+   "title": "Mozambique’s opposition leader stands trial over deadly 2024 protests",
+   "description": "Venancio Mondlane faces five charges, the most serious being instigating 'terrorism'.",
+   "url": "https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests?traffic_source=rss",
+   "date": "2026-11-17T12:10:53+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "99306057a6a6",
+   "source": "Deutsche Welle",
+   "title": "Ucrania golpea el puente de Crimea en segundo ataque masivo en 24 horas",
+   "description": "El ejército ucraniano golpeó de nuevo anoche el puente de Crimea, que une la anexionada península con la Rusia continental, en el segundo ataque masivo de drones contra territorio ruso en las últimas 24 horas.",
+   "url": "https://www.dw.com/es/ucrania-golpea-el-puente-de-crimea-en-segundo-ataque-masivo-en-24-horas/a-79965643?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-17T12:10:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "a4653cd545ff",
+   "source": "Radio Cooperativa",
+   "title": "Alessandri: El \"crecimiento mágico\" se está moviendo al segundo semestre de 2027, y no sé si la paciencia aguanta",
+   "description": "El presidente de la Cámara Baja, Jorge Alessandri (UDI), advirtió en Cooperativa que es posible que la ciudadanía pierda la paciencia aguardando la llegada del \"crecimiento mágico\" prometido por el Gobierno , ya que -en sus palabras- se postergó hasta la segunda mitad del próximo",
+   "url": "https://www.cooperativa.cl/noticias/economia/crecimiento/chile/alessandri-el-crecimiento-magico-se-esta-moviendo-al-segundo-semestre/2026-11-17/090259.html",
+   "date": "2026-11-17T12:02:59+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "e1327d34c23d",
+   "source": "Al Jazeera",
+   "title": "India vs Pakistan live: SAFF Championship final",
+   "description": "Follow updates from the match, including the build-up, analysis and text commentary.",
+   "url": "https://www.aljazeera.com/sports/liveblog/2026/11/17/india-vs-pakistan-live-saff-championship-final?traffic_source=rss",
+   "date": "2026-11-17T12:00:00+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "affbaf7d34ff",
+   "source": "BBC Mundo",
+   "title": "\"Vi decenas de cadáveres para reconocer a mi hermano de 14 años tras los terremotos de Venezuela y aún no sé si está enterrado o desaparecido\"",
+   "description": "Lorena Laya encontró un cuerpo bajo los escombros que se parecía a su hermano Diego tras los sismos de La Guaira. Cuando lo examinaron las autoridades, reportaron resultados contradictorios sobre la identidad del cadáver.",
+   "url": "https://www.bbc.com/mundo/articles/cwm25nnnp5yxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T11:59:29+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "80d61620b4e8",
+   "source": "Radio Cooperativa",
+   "title": "Tonka Tomicic respondió al documental del Caso Relojes: \"Como siempre dije la verdad\"",
+   "description": "La animadora Tonka Tomicic respondió al estreno de \"Alta Gama: El caso relojes\" , el nuevo documental de Cristóbal Valenzuela Berríos para Netflix que reconstruye la historia de este mediático caso policial en el que se vio involucrada. A través de un comentario en nuestra cuenta",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/tonka-tomicic-respondio-al-documental-del-caso-relojes-como-siempre/2026-11-17/085637.html",
+   "date": "2026-11-17T11:56:37+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "5d34846e229b",
+   "source": "The Guardian",
+   "title": "Voldemort, Gotham City and the Greens: Victorian election gets a jolt of life as leaders face off in sole debate",
+   "description": "Ben Carroll, Jess Wilson, Ellen Sandell and Warren Pickering grilled by undecided voters – and each other – as state prepares to head to the polls For a brief moment on Tuesday night, the Victorian election looked like it might actually get interesting. Two weeks into the offical",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/17/voldemort-gotham-city-greens-liberal-labor-one-nation-victorian-election-leaders-debate-ntwnfb",
+   "date": "2026-11-17T11:55:28+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c2c77631a815",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] Euforia en Creamfields: Arturo Vidal fue ovacionado por el público y cumplió con el \"al seco\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Aprovechando los días libres tras consagrarse campeón del fútbol chileno con Colo Colo, el experimentado volante Arturo Vidal se robó todas las miradas este fin de semana al asistir como invitado estrella a una nueva edició",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/arturo-vidal/video-euforia-en-creamfields-arturo-vidal-fue-ovacionado-por-el/2026-11-17/085438.html",
+   "date": "2026-11-17T11:54:38+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "99d6dedb33ef",
+   "source": "Al Jazeera",
+   "title": "Rebecca Grynspan could be the UN’s first woman boss, if she can sway Trump",
+   "description": "Swaying the US could test Grynspan but she likes taking risks - and wants UN to take more, she tells Al Jazeera.",
+   "url": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
+   "date": "2026-11-17T11:49:39+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "e8c849098711",
+   "source": "Deutsche Welle",
+   "title": "EE. UU. investiga a Megaspeed por venta a China de chips restringidos",
+   "description": "EE. UU. confirma investigación contra Megaspeed por presunto desvío de chips avanzados de Nvidia a China, en un caso que agrava las tensiones con Pekín y también con Singapur.",
+   "url": "https://www.dw.com/es/ee-uu-investiga-a-megaspeed-por-venta-a-china-de-chips-restringidos/a-79967654?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-17T11:42:00+00:00",
+   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -29,6 +219,16 @@
    "url": "https://www.bbc.com/mundo/articles/c5zjrdmvj240o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-17T11:31:43+00:00",
    "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "fc47d595bbd1",
+   "source": "Radio Cooperativa",
+   "title": "Aclamada película española \"La bola negra\" llega a Chile para el FICVIÑA 2026",
+   "description": "La elogiada película española \"La bola negra\" tendrá su debut en Chile en el marco de la próxima edición del Festival Internacional de Cine de Viña del Mar (FICVIÑA). El largometraje es dirigido por Javier Calvo y Javier Ambrossi, dupla conocida como Los Javis que ganó el premio ",
+   "url": "https://www.cooperativa.cl/noticias/magazine/cine/aclamada-pelicula-espanola-la-bola-negra-llega-a-chile-para-el-ficvina/2026-11-17/083135.html",
+   "date": "2026-11-17T11:31:35+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -79,16 +279,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/17/is-pakistan-about-to-carve-out-new-provinces-inside-the-controversial-plan?traffic_source=rss",
    "date": "2026-11-17T11:17:07+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "09bc78b72d12",
-   "source": "The Guardian",
-   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-   "description": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she ",
-   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-   "date": "2026-11-17T11:15:00+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -162,13 +352,13 @@
    "type": "Prensa"
   },
   {
-   "id": "b651f98e6d73",
+   "id": "a15b110edc9d",
    "source": "France 24",
-   "title": "Una filtración masiva revela operaciones de riesgo de Deutsche Bank con Epstein y Rusia",
-   "description": "Una investigación periodística basada en millones de documentos filtrados reveló este martes cómo Deutsche Bank priorizó sus intereses comerciales frente a las alertas internas en operaciones de riesgo con Jeffrey Epstein o los oligarcas rusos, entre otros.",
-   "url": "https://www.france24.com/es/minuto-a-minuto/20261117-una-filtraci%C3%B3n-masiva-revela-operaciones-de-riesgo-de-deutsche-bank-con-epstein-y-rusia",
+   "title": "Filtración expone operaciones de riesgo de Deutsche Bank con Epstein y oligarcas rusos",
+   "description": "Una investigación de más de 200 periodistas, basada en millones de documentos filtrados, señala que Deutsche Bank priorizó sus intereses comerciales frente a alertas sobre operaciones con clientes de riesgo, entre ellos Jeffrey Epstein y oligarcas rusos. La entidad sostiene que l",
+   "url": "https://www.france24.com/es/europa/20261117-filtraci%C3%B3n-expone-operaciones-de-riesgo-de-deutsche-bank-con-epstein-y-oligarcas-rusos",
    "date": "2026-11-17T10:51:28+00:00",
-   "category": "Rusia y espacio postsoviético",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -179,16 +369,6 @@
    "url": "https://www.bbc.com/mundo/articles/cqevrg8yr429o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-17T10:47:26+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "864be846304e",
-   "source": "The Guardian",
-   "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
-   "description": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’ UK politics live – latest updates Ed Miliband has announced the first set of sanctions against Israeli companies planning to build illegal settlements ",
-   "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
-   "date": "2026-11-17T10:47:18+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -412,26 +592,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7dfabc16ada5",
-   "source": "Al Jazeera",
-   "title": "How women scavenge scraps from lithium to earn a living in Nigeria",
-   "description": "Dozens of women sift through the waste left behind by lithium miners in Nigeria, digging for traces of ore to resell.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/how-women-scavenge-scraps-from-lithium-to-earn-a-living-in-nigeria?traffic_source=rss",
-   "date": "2026-11-17T07:36:21+00:00",
-   "category": "África",
-   "type": "Prensa"
-  },
-  {
-   "id": "4a18119f45ac",
-   "source": "Al Jazeera",
-   "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
-   "description": "The IRGC says the attack is part of efforts to counter 'hostile activities of US forces in the region'.",
-   "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
-   "date": "2026-11-17T07:35:54+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "005c2de7b36c",
    "source": "France 24",
    "title": "Japón denuncia una incursión de dos aeronaves presuntamente rusas en su espacio aéreo",
@@ -452,36 +612,6 @@
    "type": "Prensa"
   },
   {
-   "id": "228508783069",
-   "source": "Al Jazeera",
-   "title": "Portugal coach Jorge Jesus responds to criticism from Ronaldo’s mother",
-   "description": "Ronaldo's mother said she was glad to see Jesus suffer his first defeat after he had 'deceived' her son.",
-   "url": "https://www.aljazeera.com/sports/2026/11/17/cristiano-ronaldo-mother-portugal-coach-jorge-jesus?traffic_source=rss",
-   "date": "2026-11-17T07:21:25+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "2906501ea5f3",
-   "source": "Al Jazeera",
-   "title": "The new French malaise",
-   "description": "The ongoing student protests in France are a symptom of a much larger crisis affecting French society.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/17/the-new-french-malaise?traffic_source=rss",
-   "date": "2026-11-17T07:03:12+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "d456313f8a50",
-   "source": "Al Jazeera",
-   "title": "Will Netanyahu lose this time?",
-   "description": "The Israeli prime minister has manoeuvred out of tough situations to retain power. But he may find it hard this time.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/17/will-netanyahu-finally-lose?traffic_source=rss",
-   "date": "2026-11-17T06:53:23+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "3b8716e3d7b2",
    "source": "The Guardian",
    "title": "‘Disgusted by it’: body of Melbourne Cup race horse found dumped in Sydney skip bin",
@@ -499,26 +629,6 @@
    "url": "https://www.theguardian.com/australia-news/2026/nov/17/nsw-inquest-free-birth-keeper-baby-death-ntwnfb",
    "date": "2026-11-17T06:33:13+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "d443a4f4e5a7",
-   "source": "The Guardian",
-   "title": "David Jones: what went wrong and what happens next? Five takeaways from first creditors meeting",
-   "description": "Upmarket retailer, which recorded a net loss of $228m last financial year, has total debt over $400m including $11m owed to staff Get our breaking news email , free app or daily news podcast Upmarket retailer David Jones owed hundreds of millions of dollars when it collapsed into",
-   "url": "https://www.theguardian.com/business/2026/nov/17/david-jones-creditors-meeting-debt-administrators",
-   "date": "2026-11-17T06:26:08+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "54b2f004b6b0",
-   "source": "Al Jazeera",
-   "title": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
-   "description": "As Eisenkot’s bloc moves to form a government and courts the ultra-Orthodox, Gaza genocide and settler pogroms continue.",
-   "url": "https://www.aljazeera.com/news/2026/11/17/palestine-weekly-israels-political-reshuffle-as-the-occupation-grinds-on?traffic_source=rss",
-   "date": "2026-11-17T06:06:58+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -572,26 +682,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c11da5c2f87c",
-   "source": "The Guardian",
-   "title": "Serbia’s Student List candidates sworn in as MPs after election triumph",
-   "description": "Inaugural parliamentary session comes as ousted populist Aleksandar Vučić threatens mass protests of his own Candidates for Serbia’s Student List, the grassroots movement of political outsiders that pulled off a spectacular victory in last month’s elections over the party of the ",
-   "url": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
-   "date": "2026-11-17T05:00:05+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "6f6f504c1431",
-   "source": "Radio Cooperativa",
-   "title": "Kast llegó a China para APEC y reunión con Xi",
-   "description": "El Presidente José Antonio Kast llegó a Shenzhen , China , para participar en la cumbre de líderes de APEC 2026 , en el marco de su gira oficial por Asia, que comenzó en Vietnam . El Mandatario fue recibido con una ceremonia oficial junto a autoridades del Gobierno chino. Su agen",
-   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-llego-a-china-para-apec-y-reunion-con-xi/2026-11-17/001046.html",
-   "date": "2026-11-17T03:10:46+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "db06ed61b197",
    "source": "France 24",
    "title": "EE. UU. endurece el cerco tecnológico a China y vigila exportaciones de chips a cinco países",
@@ -629,16 +719,6 @@
    "url": "https://www.france24.com/es/francia/20261117-impuestos-vivienda-salario-m%C3%ADnimo-los-candidatos-presidenciales-de-francia-debaten-sus-propuestas",
    "date": "2026-11-17T02:35:48+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "856c4260badf",
-   "source": "Radio Cooperativa",
-   "title": "Antofagasta: Carabineros incautó casi media tonelada de droga tras 50 kilómetros de persecución",
-   "description": "Un operativo de Carabineros permitió incautar 460 kilos de droga en el interior de la Región de Antofagasta , tras una persecución de aproximadamente 50 kilómetros a más de 4.000 metros de altura . El procedimiento se inició luego de detectar una camioneta que ingresó desde Boliv",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/drogas/antofagasta-carabineros-incauto-casi-media-tonelada-de-droga-tras-50/2026-11-16/231904.html",
-   "date": "2026-11-17T02:19:04+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -722,26 +802,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ab756bd8e2c5",
-   "source": "Radio Cooperativa",
-   "title": "Congreso despachó el tiempo récord ley para rebajar precios de combustibles",
-   "description": "El Senado despachó y dejó listo para su trámite de promulgación el proyecto que busca estabilizar los precios de los combustibles , luego del acuerdo del Gobierno con los camioneros para desactivar el paro de la semana pasada , por lo que se espera que la rebaja comience a regir ",
-   "url": "https://www.cooperativa.cl/noticias/pais/consumidores/combustibles/congreso-despacho-el-tiempo-record-ley-para-rebajar-precios-de/2026-11-16/222912.html",
-   "date": "2026-11-17T01:29:12+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "60b2ff74b4b6",
-   "source": "Radio Cooperativa",
-   "title": "\"Me sentí muy violentada\": Denise Rosenthal recordó desagradable episodio con un actor en una teleserie",
-   "description": "Denise Rosenthal sorprendió al recordar una desagradable experiencia que vivió durante sus primeros años como actriz, cuando un compañero de elenco la increpó durante la grabación de una teleserie. La artista relató el episodio en el podcast \"2 Completos y 1 Wantán\", donde recono",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/me-senti-muy-violentada-denise-rosenthal-recordo-desagradable/2026-11-16/221956.html",
-   "date": "2026-11-17T01:19:56+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "350a8c783774",
    "source": "Deutsche Welle",
    "title": "Rusia y Ucrania intercambian ataques nocturnos con drones",
@@ -779,26 +839,6 @@
    "url": "https://www.ciperchile.cl/2026/11/16/radar-16-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-16-11-26",
    "date": "2026-11-17T00:58:34+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "cb813df3e409",
-   "source": "Radio Cooperativa",
-   "title": "Cuentas de Clark registran millonarios pagos de sociedades ligadas a Cerda y Kiblisky",
-   "description": "Los informes que presentó la defensa de Michael Clark , para intentar rebajar la medida cautelar de prisión preventiva por el Caso Sartor, revelaron operaciones financieras del empresario, cuando aún era presidente de Azul Azul, vinculadas con sociedades cuyos dueños están ligado",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/cuentas-de-clark-registran-millonarios-pagos-de-sociedades-ligadas-a/2026-11-16/215545.html",
-   "date": "2026-11-17T00:55:45+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "7e026079919e",
-   "source": "Radio Cooperativa",
-   "title": "Primeras damas de Chile y Vietnam cumplieron agenda cultural en Hanói",
-   "description": "La primera dama , María Pía Adriasola, desarrolló este lunes una agenda paralela de carácter cultural en Hanói junto a su homóloga de Vietnam , Madam Ngo Phuong Ly , en el marco de la primera parada de la gira por Asia liderada por el PresidenteJosé Antonio Kast . Durante la visi",
-   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/primeras-damas-de-chile-y-vietnam-cumplieron-agenda-cultural-en-hanoi/2026-11-16/213646.html",
-   "date": "2026-11-17T00:36:46+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -1052,16 +1092,6 @@
    "type": "Prensa"
   },
   {
-   "id": "369bc6267ada",
-   "source": "Deutsche Welle",
-   "title": "El polémico plan de Alemania para deportar migrantes a Ruanda",
-   "description": "Alemania y otros cuatro países de la Unión Europea buscan alcanzar un acuerdo con Ruanda. Su objetivo es deportar allí a solicitantes de asilo obligados a abandonar el territorio europeo.",
-   "url": "https://www.dw.com/es/el-polémico-plan-de-alemania-para-deportar-migrantes-a-ruanda/a-79963725?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-16T20:43:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "a51032110c52",
    "source": "Radio Cooperativa",
    "title": "La programación de los cuartos de final en la Liguilla del Ascenso",
@@ -1089,16 +1119,6 @@
    "url": "https://www.bbc.com/mundo/watch/cxj05r723gpjo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-16T19:14:07+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "aa3c38a0c8c8",
-   "source": "Deutsche Welle",
-   "title": "Un dispensador de píldoras abortivas desafía las leyes de Polonia",
-   "description": "En Polonia, donde las leyes sobre el aborto son muy restrictivas, activistas han instalado un \"Abortomat\", un dispensador de píldoras abortivas para mujeres que desean interrumpir el embarazo.",
-   "url": "https://www.dw.com/es/un-dispensador-de-píldoras-abortivas-desafía-las-leyes-de-polonia/a-79963388?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-16T19:13:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -1539,16 +1559,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
    "date": "2026-11-15T18:03:56+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "424379558dd0",
-   "source": "BBC Mundo",
-   "title": "Cómo el \"terror rojo\" borró de la historia a Paul Robeson, la \"persona negra más famosa de EE.UU.\"",
-   "description": "Superestrella del teatro y el cine, talentoso jugador de fútbol americano y creador de éxitos musicales. Pero el fervor anticomunista de la Guerra Fría, le asestó un fuerte golpe.",
-   "url": "https://www.bbc.com/mundo/articles/cj7d00x7522o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-15T17:42:06+00:00",
-   "category": "Conflictos armados y seguridad internacional",
    "type": "Prensa"
   },
   {
