@@ -1,24 +1,234 @@
 {
- "updated": "2026-11-16T23:38:17.934987+00:00",
+ "updated": "2026-11-17T00:51:35.373580+00:00",
  "items": [
+  {
+   "id": "cd2b133ec825",
+   "source": "Al Jazeera",
+   "title": "UK seeks closer ties with EU after Brexit fail",
+   "description": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
+   "url": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
+   "date": "2026-11-17T00:30:21+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "c35014a8239f",
    "source": "The Guardian",
-   "title": "Labor to announce policy backflip and allow more backpackers to stay in Australia",
-   "description": "Number of people allowed to stay for third year on holiday maker visa expected to be increased from 5,000 to 25,000 under revised plan Get our breaking news email , free app or daily news podcast The federal government is backpedaling on its plan to cut backpacker numbers followi",
+   "title": "Labor policy backflip will allow more backpackers to work in regional Australia",
+   "description": "Number of people allowed to stay for third year on holidaymaker visa to be increased from 5,000 to 25,000 under revised plan Get our breaking news email , free app or daily news podcast The federal government has backpedaled on its plan to cut backpacker numbers, arguing the chan",
    "url": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
-   "date": "2026-11-16T23:21:46+00:00",
+   "date": "2026-11-17T00:27:29+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "f62ca97a6bd4",
+   "source": "The Guardian",
+   "title": "Proposed NSW laws to allow coalmine to increase production pose ‘serious corruption risk’",
+   "description": "Bill to authorise expansion at Mount Pleasant coalmine, subject to a landmark high court decision, will be debated this week Get our daily political email , free app or daily news podcast A New South Wales government bill to increase coal production at a Hunter Valley coalmine cr",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/17/proposed-nsw-laws-to-allow-coalmine-to-increase-production-pose-serious-corruption-risk",
+   "date": "2026-11-17T00:22:13+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "884e72d40aef",
+   "source": "Al Jazeera",
+   "title": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+   "description": "The country's unresolved Oromia-Somali border dispute fuels renewed violence, displacing thousands.",
+   "url": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
+   "date": "2026-11-17T00:21:19+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a184b1bd9f93",
+   "source": "Radio Cooperativa",
+   "title": "PDI halló restos de al menos dos personas en inmueble ligado al crimen organizado",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/homicidios/pdi-hallo-restos-de-al-menos-dos-personas-en-inmueble-ligado-al-crimen/2026-11-16/211035.html",
+   "date": "2026-11-17T00:10:35+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "b34eb8ee2bfc",
+   "source": "France 24",
+   "title": "La UEFA elige a su candidato para la FIFA: ¿quién es y qué opciones tiene de destronar a Infantino?",
+   "description": "La UEFA anunció su apoyo a Philippe Diallo, presidente de la Federación Francesa de Fútbol (FFF), como candidato a la presidencia de la FIFA para las elecciones de marzo próximo. Con este hombre de 63 años y larga trayectoria de administrador en el fútbol, los europeos formalizan",
+   "url": "https://www.france24.com/es/deportes/20261117-la-uefa-elige-a-su-candidato-para-la-fifa-qui%C3%A9n-es-y-qu%C3%A9-opciones-tiene-de-destronar-a-infantino",
+   "date": "2026-11-17T00:07:41+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "8a610535e9b0",
+   "source": "Radio Cooperativa",
+   "title": "Colo Colo afina detalles para renovar a Alvaro Madrid",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/colo-colo-afina-detalles-para-renovar-a-alvaro-madrid/2026-11-16/210119.html",
+   "date": "2026-11-17T00:01:19+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "69634bc51228",
+   "source": "France 24",
+   "title": "Francia: el actor Gérard Depardieu acepta condena por agresión sexual y retira su apelación",
+   "description": "l actor francés Gérard Depardieu anunció este lunes que retira la apelación contra su condena por agresión sexual a dos mujeres durante el rodaje de una película. Con esta decisión, acepta la sentencia de 18 meses de prisión suspendida y ofreció disculpas públicas, reconociendo s",
+   "url": "https://www.france24.com/es/video/20261116-francia-el-actor-g%C3%A9rard-depardieu-acepta-condena-por-agresi%C3%B3n-sexual-y-retira-su-apelaci%C3%B3n",
+   "date": "2026-11-16T23:58:29+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "0fcf4410b078",
+   "source": "Al Jazeera",
+   "title": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
+   "description": "Iran-aligned Houthi fighters kept up their push in southern Yemen as oil tankers hit sea mines in the Strait of Hormuz.",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+   "date": "2026-11-16T23:57:49+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5a9030952d38",
+   "source": "France 24",
+   "title": "Paraguay: ordenan el traslado de Santiago Peña a una cárcel militar tras crisis de Ueno Bank",
+   "description": "El expresidente de Paraguay, Santiago Peña, será trasladado a la prisión militar de Viñas Cué, en Asunción, por orden judicial, en medio de la crisis por el caso Ueno Bank y en la celebración de su cumpleaños 48. Mientras avanzan las investigaciones sobre la crisis, el ahora pres",
+   "url": "https://www.france24.com/es/video/20261116-paraguay-ordenan-el-traslado-de-santiago-pe%C3%B1a-a-una-c%C3%A1rcel-militar-tras-crisis-de-ueno-bank",
+   "date": "2026-11-16T23:54:34+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "33e84bee9625",
+   "source": "France 24",
+   "title": "Informe desde Bruselas: cinco países europeos planean crear centro de deportación en Ruanda",
+   "description": "Cinco países de la Unión Europea, Alemania, Austria, Dinamarca, Grecia y Países Bajos, anunciaron un acuerdo con Ruanda para crear un centro de retorno destinado a migrantes cuyas solicitudes de asilo hayan sido rechazadas. La iniciativa, que podría entrar en funcionamiento en 20",
+   "url": "https://www.france24.com/es/video/20261116-informe-desde-bruselas-cinco-pa%C3%ADses-europeos-planean-crear-centro-de-deportaci%C3%B3n-en-ruanda",
+   "date": "2026-11-16T23:51:01+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "5a9d898c139d",
+   "source": "France 24",
+   "title": "Informe desde Estambul: los temas que marcan el borrador del documento final de la COP31",
+   "description": "El primer borrador del acuerdo de la COP31, que se celebra en Antalya (Turquía), anticipa negociaciones complejas sobre dos de los temas más sensibles de la agenda climática: el futuro de los combustibles fósiles y la financiación para los países en desarrollo. La cumbre busca al",
+   "url": "https://www.france24.com/es/video/20261116-informe-desde-estambul-los-temas-que-marcan-el-borrador-del-documento-final-de-la-cop31",
+   "date": "2026-11-16T23:49:55+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "301cbb116493",
+   "source": "France 24",
+   "title": "¿Cuál es el balance de la gira del Papa León XIV por Perú, Uruguay y Argentina?",
+   "description": "El papa León XIV concluyó su primera gira por América Latina con una visita a Perú, Uruguay y Argentina, marcada por multitudinarias celebraciones, encuentros con autoridades y mensajes centrados en la unidad, la justicia social y la cercanía con los más vulnerables. Fortunato Ma",
+   "url": "https://www.france24.com/es/video/20261116-cu%C3%A1l-es-el-balance-de-la-gira-del-papa-le%C3%B3n-xiv-por-per%C3%BA-uruguay-y-argentina",
+   "date": "2026-11-16T23:48:23+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "0aeb126cab7d",
+   "source": "Al Jazeera",
+   "title": "Paraguay ex-president moved to military jail amid special treatment reports",
+   "description": "Santiago Pena has been accused of corruption following the collapse of Ueno Bank earlier this month.",
+   "url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+   "date": "2026-11-16T23:44:32+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "413187b6bde6",
+   "source": "Al Jazeera",
+   "title": "Trump departs for ASEAN on summit with Xi and Putin",
+   "description": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+   "date": "2026-11-16T23:42:03+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "b995d182d945",
+   "source": "France 24",
+   "title": "Macron defiende que ha hecho \"todo lo posible\" por Francia a pesar de algunos \"errores\"",
+   "description": "Emmanuel Macron publicó este lunes 16 de noviembre un mensaje reflexionando sobre el décimo aniversario de su primer anuncio como candidato a presidente. \"Hice lo mejor que pude\", afirmó, aunque admitió haber cometido errores en ocasiones, seis meses antes de finalizar su segundo",
+   "url": "https://www.france24.com/es/francia/20261116-macron-defiende-que-ha-hecho-todo-lo-posible-por-francia-a-pesar-de-algunos-errores",
+   "date": "2026-11-16T23:38:19+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "80e7e0c780f1",
+   "source": "Radio Cooperativa",
+   "title": "La formación de La Roja para despedir el 2026 ante Colombia",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-formacion-de-la-roja-para-despedir-el-2026-ante-colombia/2026-11-16/203559.html",
+   "date": "2026-11-16T23:35:59+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "24512e0409ba",
+   "source": "Radio Cooperativa",
+   "title": "Luto en Argentina: Futbolista de 17 años murió tras recibir golpe en un partido",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Nuevamente el fútbol lamentó el fallecimiento de un jugador a raíz de una acción de juego, pues el argentino Abel Núñez, de 17 años y del club Ezeiza , perdió la vida tras varios días internado por un golpe. El jugador sufr",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/internacional/luto-en-argentina-futbolista-de-17-anos-murio-tras-recibir-golpe-en-un/2026-11-16/203334.html",
+   "date": "2026-11-16T23:33:34+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "e28dd0fd3623",
+   "source": "Radio Cooperativa",
+   "title": "La Roja quiere tomarse revancha ante Colombia y cerrar el año con un triunfo en Santiago",
+   "description": "La selección chilena enfrentará a Colombia este martes a las 20:00 horas (23:00 GMT) en el Estadio Monumental, con la misión de tomarse revancha por la derrota sufrida en Cali y cerrar con una victoria el año 2026. Este partido originalmente se debía jugar en el Estadio Nacional,",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-quiere-tomarse-revancha-ante-colombia-y-cerrar-el-ano-con-un/2026-11-16/202909.html",
+   "date": "2026-11-16T23:29:09+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "c3cac4cd2c2e",
+   "source": "Radio Cooperativa",
+   "title": "Dueño de U. San Felipe estalló: Si no fuera por mí este club habría desaparecido",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El argentino Raúl Delgado, dueño de Unión San Felipe, lanzó duros dardos ante las críticas de los hinchas por las malas campañas del equipo en las últimas temporadas, estando constantemente al borde del descenso a la Liga d",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/san-felipe/dueno-de-u-san-felipe-estallo-si-no-fuera-por-mi-este-club-habria/2026-11-16/202223.html",
+   "date": "2026-11-16T23:22:23+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "a46c6cf195d8",
+   "source": "Radio Cooperativa",
+   "title": "¿No hay matrimonio? Las pistas sobre el supuesto quiebre entre Camila Andrade y Jorge Yunge",
+   "description": "Una serie de señales en redes sociales y comentarios en programas de espectáculos instalaron dudas sobre la relación entre Camila Andrade y el empresario Jorge Yunge , quienes hace algunos meses anunciaron que llegarían juntos al altar. Los antecedentes fueron abordados en \"Zona ",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/no-hay-matrimonio-las-pistas-sobre-el-supuesto-quiebre-entre-camila/2026-11-16/201742.html",
+   "date": "2026-11-16T23:17:42+00:00",
+   "category": "Empresas y mercados",
    "type": "Prensa"
   },
   {
    "id": "5fdd3f4b15d7",
    "source": "The Guardian",
-   "title": "Police raid fails to locate three stolen Melbourne Cup trophies worth $1m each",
+   "title": "Police searching for three stolen Melbourne Cup trophies worth $1m each",
    "description": "Officers searched a Mount Waverley home in Melbourne after trophies belonging to winning horse Makybe Diva were stolen from Flemington racecourse Get our breaking news email , free app or daily news podcast A police raid has failed to locate three Melbourne Cup trophies belonging",
    "url": "https://www.theguardian.com/sport/2026/nov/17/makybe-diva-melbourne-cup-trophies-stolen-flemington-raid-mount-waverley-ntwnfb",
    "date": "2026-11-16T23:15:07+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c48d9528eda2",
+   "source": "Radio Cooperativa",
+   "title": "Exministro Mena y baja en el diésel: \"Nos falta mucho para dejar de subsidiar la contaminación\"",
+   "description": "El exministro del Medio Ambiente Marcelo Mena afirmó este lunes que la política de subsidios fiscales acordada tras el paro camionero genera una distorsión ambiental y distributiva en Chile , advirtiendo que en Chile \" nos falta muchopara dejar de subsidiar la contaminación \". En",
+   "url": "https://www.cooperativa.cl/noticias/pais/transportes/exministro-mena-y-baja-en-el-diesel-nos-falta-mucho-para-dejar-de/2026-11-16/201007.html",
+   "date": "2026-11-16T23:10:07+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -49,6 +259,16 @@
    "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
    "date": "2026-11-16T23:00:36+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "15f1eab27b8d",
+   "source": "Radio Cooperativa",
+   "title": "Cathy Barriga no seguirá en arresto domiciliario: Corte rebajó su medida cautelar",
+   "description": "La Corte de Apelaciones de Santiago revocó el arresto domiciliario nocturno de la exalcaldesa de Maipú, Cathy Barriga , tras acoger un recurso de apelación presentado por su defensa. Según informó Emol , el tribunal de alzada reemplazó la medida cautelar que mantenía Barriga por ",
+   "url": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/cathy-barriga-no-seguira-en-arresto-domiciliario-corte-rebajo-su-medida/2026-11-16/194945.html",
+   "date": "2026-11-16T22:49:45+00:00",
+   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -88,16 +308,6 @@
    "description": "",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/nuevo-presidente-de-azul-azul-y-la-renovacion-de-aranguiz-es-un-idolo/2026-11-16/193332.html",
    "date": "2026-11-16T22:33:32+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "8fd1ee69556d",
-   "source": "Radio Cooperativa",
-   "title": "Díaz y el nuevo rol que tendrá en la gerencia técnica de la U: Espero que armemos un gran 2027",
-   "description": "Marcelo Díaz, volante de Universidad de Chile, manifesto su felicidad por nuevo rol que tendrá en 2027, como integrante de la gerencia técnica, una noticia que reveló este lunes el flamante presidente de Azul Azul, Eduardo Alamos, y afirmó que espera tener un gran año con el club",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/diaz-y-el-nuevo-rol-que-tendra-en-la-gerencia-tecnica-de-la-u-espero/2026-11-16/193133.html",
-   "date": "2026-11-16T22:31:33+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -142,16 +352,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4df22ded3008",
-   "source": "Radio Cooperativa",
-   "title": "Eduardo Alamos, nuevo presidente de Azul Azul: Nos interesa la transparencia, que se note la diferencia",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El presidente de Azul Azul, Eduardo Alamos, abordó en extenso la llegada del nuevo directorio este lunes tras la destitución de la antigua mesa liderada por Cecilia Pérez, con una mirada de renovación durante la transición ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/eduardo-alamos-nuevo-presidente-de-azul-azul-nos-interesa-la/2026-11-16/190818.html",
-   "date": "2026-11-16T22:08:18+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "2ca15d12954d",
    "source": "Radio Cooperativa",
    "title": "Nvidia: Premio Nacional de Ciencias Aplicadas apunta a maniobra para frenar acceso chino a chips de IA",
@@ -169,16 +369,6 @@
    "url": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
    "date": "2026-11-16T22:04:31+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "d53c2ee9c800",
-   "source": "Radio Cooperativa",
-   "title": "La Alemania de Klopp despertó y avanzó en Nations League tras aplastar a Países Bajos",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/nations-league/la-alemania-de-klopp-desperto-y-avanzo-en-nations-league-tras-aplastar-a/2026-11-16/190111.html",
-   "date": "2026-11-16T22:01:11+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -202,16 +392,6 @@
    "type": "Prensa"
   },
   {
-   "id": "87ce29c480ca",
-   "source": "Radio Cooperativa",
-   "title": "Marcelo Díaz se sumará a la gerencia técnica de la U en 2027",
-   "description": "Eduardo Alamos, nuevo presidente del directorio de Azul Azul, informó que Marcelo Díaz , quien se retirará del fútbol a final de temporada, se integrará a la gerencia técnica de Universidad de Chile en 2027. \"Tengo una gran noticia que comunicarles. Marcelo Díaz se suma a la gere",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/marcelo-diaz-se-sumara-a-la-gerencia-tecnica-de-la-u-en-2027/2026-11-16/184444.html",
-   "date": "2026-11-16T21:44:44+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "6a3ff6997dd3",
    "source": "Ex-Ante",
    "title": "Las lecciones del caso Ueno Bank para Chile",
@@ -219,16 +399,6 @@
    "url": "https://www.ex-ante.cl/opinion/lecciones-caso-ueno-bank-para-chile/",
    "date": "2026-11-16T21:37:04+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "83869a76bf74",
-   "source": "Radio Cooperativa",
-   "title": "Experto: La minería impulsará la economía chilena el próximo año",
-   "description": "Gustavo Lagos , académico de Ingeniería de Minería de la Universidad Católica y cofundador del Centro de Estudios del Cobre y la Minería (Cesco), conversó con Cooperativa sobre el estado de la industria en el país y refutó los dichos del ministro de Hacienda, Jorge Quiroz , que c",
-   "url": "https://www.cooperativa.cl/noticias/economia/materias-primas/cobre/experto-la-mineria-impulsara-la-economia-chilena-el-proximo-ano/2026-11-16/183602.html",
-   "date": "2026-11-16T21:36:02+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -282,16 +452,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7ed3c03efe15",
-   "source": "Radio Cooperativa",
-   "title": "Ocho niños resultaron lesionados tras choque de furgón escolar con bus en Estación Central",
-   "description": "Ocho menores de edad resultaron lesionados este lunes tras la colisión del furgón de transporte escolar en el que viajaban contra un bus interurbano en la capitalina comuna de Estación Central. Según los antecedentes preliminares, el hecho -registrado en la intersección de las ca",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/accidentes-de-transito/ocho-ninos-resultaron-lesionados-tras-choque-de-furgon-escolar-con-bus/2026-11-16/181323.html",
-   "date": "2026-11-16T21:13:23+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "6d687984ba8e",
    "source": "The Guardian",
    "title": "Third US aircraft carrier brings thousands more troops to Middle East",
@@ -319,16 +479,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
    "date": "2026-11-16T21:06:19+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "781b9be0eaf5",
-   "source": "Radio Cooperativa",
-   "title": "País Minero: Premio Nacional llamó a agregar valor al cobre y fortalecer cooperación para el litio",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/mineria/pais-minero-premio-nacional-llamo-a-agregar-valor-al-cobre-y-fortalecer/2026-11-16/180529.html",
-   "date": "2026-11-16T21:05:29+00:00",
-   "category": "Economía nacional",
    "type": "Prensa"
   },
   {
@@ -439,16 +589,6 @@
    "url": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
    "date": "2026-11-16T20:42:18+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "bc26173aae73",
-   "source": "Radio Cooperativa",
-   "title": "Con chaleco antibalas y casco: Santiago Peña ingresó esposado a la cárcel en Paraguay",
-   "description": "El expresidente de Paraguay Santiago Peña ingresó este lunes esposado , con chaleco antibalas y en medio de un estricto operativo de seguridad en la cárcel militar de Viñas Cué, para continuar con la prisión preventiva que cumple tras la intervención por problemas de solvencia fi",
-   "url": "https://www.cooperativa.cl/noticias/mundo/paraguay/con-chaleco-antibalas-y-casco-santiago-pena-ingreso-esposado-a-la/2026-11-16/173646.html",
-   "date": "2026-11-16T20:36:46+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -732,16 +872,6 @@
    "type": "Prensa"
   },
   {
-   "id": "295402bbd02a",
-   "source": "Al Jazeera",
-   "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
-   "description": "Occupied West Bank land defender is set to remain in detention until at least February 26 next year.",
-   "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
-   "date": "2026-11-16T17:49:16+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "2f306382765d",
    "source": "Deutsche Welle",
    "title": "Deportaciones a Ruanda: el plan que impulsan cinco países europeos",
@@ -772,16 +902,6 @@
    "type": "Prensa"
   },
   {
-   "id": "096b6e88ee7c",
-   "source": "Radio Cooperativa",
-   "title": "Dr. Simi lanza colección Simi Pop en apoyo de niños y adolescentes con cáncer",
-   "description": "Farmacias del Dr. Simi presentó Simi Pop , su nuevo coleccionable, cuyas ventas permitirán reunir fondos en apoyo de niños, niñas y adolescentes con cáncer. La propuesta busca transformar la popularidad del personaje en una ayuda concreta para estos pacientes. El lanzamiento se r",
-   "url": "https://www.cooperativa.cl/noticias/corporativo/noticias/marcas-negocios/dr-simi-lanza-coleccion-simi-pop-en-apoyo-de-ninos-y-adolescentes-con/2026-11-16/144112.html",
-   "date": "2026-11-16T17:41:12+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "a79047889483",
    "source": "Ex-Ante",
    "title": "Cómo Kast puede remontar en las encuestas en medio de compleja situación económica y el caso Rabat",
@@ -792,16 +912,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7237458abadc",
-   "source": "Al Jazeera",
-   "title": "Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO",
-   "description": "Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.",
-   "url": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
-   "date": "2026-11-16T17:24:26+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "363107f94174",
    "source": "Deutsche Welle",
    "title": "Cinco países europeos planean crear en Ruanda un primer \"centro de retorno\" para solicitantes de asilo que hayan sido rechazados",
@@ -809,46 +919,6 @@
    "url": "https://www.dw.com/es/cinco-países-europeos-planean-crear-en-ruanda-un-primer-centro-de-retorno-para-solicitantes-de-asilo-que-hayan-sido-rechazados/a-79962686?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-16T17:23:00+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "391dcb72af17",
-   "source": "Al Jazeera",
-   "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
-   "description": "US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group.",
-   "url": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
-   "date": "2026-11-16T17:18:14+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "7a75580e472e",
-   "source": "Al Jazeera",
-   "title": "Germany 5-0 Netherlands – UEFA Nations League as it happened",
-   "description": "Live text commentary stream as Germany thrash the Netherlands in Nations League's final Group A2 football match.",
-   "url": "https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league?traffic_source=rss",
-   "date": "2026-11-16T17:15:12+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "1012d0820380",
-   "source": "Al Jazeera",
-   "title": "Trump denies responsibility for FAA nationwide ground stop",
-   "description": "Trump denies responsibility for FAA nationwide ground stop",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-denies-responsibility-for-faa-nationwide-ground-stop?traffic_source=rss",
-   "date": "2026-11-16T17:08:10+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "bbd7806289e2",
-   "source": "The Guardian",
-   "title": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
-   "description": "Many countries surprised to see first version delivered with more than four days of negotiation remaining A draft text of a possible final outcome from the Cop31 UN climate summit is an attempt to “draw out parties” on their areas of agreement and disagreement, Australia’s presid",
-   "url": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
-   "date": "2026-11-16T16:54:42+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -922,26 +992,6 @@
    "type": "Prensa"
   },
   {
-   "id": "711cd38fbfd3",
-   "source": "France 24",
-   "title": "Rusia asegura que interceptó más de 1.300 drones ucranianos; cientos de ellos apuntaban a Moscú",
-   "description": "Las autoridades rusas aseguraron que interceptaron más de 1.300 drones ucranianos, cientos de ellos con objetivo a Moscú, durante la madrugada de este 16 de noviembre. Uno de los objetivos del ataque fue el puente que conecta a Rusia con Crimea, que tuvo que detener el tráfico po",
-   "url": "https://www.france24.com/es/video/20261116-rusia-asegura-que-intercept%C3%B3-m%C3%A1s-de-1-300-drones-ucranianos-cientos-de-ellos-apuntaban-a-mosc%C3%BA",
-   "date": "2026-11-16T16:02:07+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "0dcffd3af562",
-   "source": "France 24",
-   "title": "León XIV se despide de Perú con un llamado a la solidaridad y reivindica su vínculo con América Latina",
-   "description": "",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261116-le%C3%B3n-xiv-se-despide-de-per%C3%BA-con-un-llamado-a-la-solidaridad-y-reivindica-su-v%C3%ADnculo-con-am%C3%A9rica-latina",
-   "date": "2026-11-16T16:00:08+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "6065328773ab",
    "source": "Deutsche Welle",
    "title": "La COP31 pedirá \"acelerar la eliminación\" de los combustibles fósiles",
@@ -972,16 +1022,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4963450e902d",
-   "source": "France 24",
-   "title": "Vivienda, estudios y salarios: la rabia joven que recorre Europa",
-   "description": "Las calles de Europa vuelven a llenarse de movilizaciones, con los jóvenes al frente. La falta de acceso a la vivienda, las dificultades en la educación y la pérdida de poder adquisitivo alimentan un descontento que crece en distintos países del continente. En Europa Hoy analizam",
-   "url": "https://www.france24.com/es/programas/europa-hoy/20261116-vivienda-estudios-y-salarios-la-rabia-joven-que-recorre-europa",
-   "date": "2026-11-16T15:41:18+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "cbe8c6820550",
    "source": "Deutsche Welle",
    "title": "Pedro Sánchez y Lula da Silva conversan sobre \"la amenaza ultraderechista\" antes de las elecciones en España",
@@ -989,16 +1029,6 @@
    "url": "https://www.dw.com/es/pedro-sánchez-y-lula-da-silva-conversan-sobre-la-amenaza-ultraderechista-antes-de-las-elecciones-en-españa/a-79961704?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-16T15:33:00+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "3872611e812d",
-   "source": "France 24",
-   "title": "Dandora, el vertedero de Nairobi donde se sobrevive entre toneladas de plástico",
-   "description": "Cada día, unas 2.000 toneladas de residuos llegan al vertedero de Dandora, en Nairobi, la capital de Kenia. Allí, cientos de trabajadores buscan materiales reciclables entre montañas de basura, expuestos a condiciones que ponen en riesgo su salud. Pese a su esfuerzo, apenas se re",
-   "url": "https://www.france24.com/es/programas/reporteros/20261116-dandora-el-vertedero-de-nairobi-donde-se-sobrevive-entre-toneladas-de-pl%C3%A1stico",
-   "date": "2026-11-16T15:15:10+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -1039,26 +1069,6 @@
    "url": "https://www.dw.com/es/la-selección-alemana-se-despide-de-adidas-luego-de-70-años/a-79961204?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-16T14:40:00+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "3f403e8362c0",
-   "source": "France 24",
-   "title": "Lula y Sheinbaum frente a la ola de derecha en América Latina: ¿cuánto resisten?",
-   "description": "Mientras la derecha y la ultraderecha ganan terreno en América Latina, Brasil y México mantienen a la izquierda en el centro del mapa político regional. Lula da Silva y Claudia Sheinbaum se consolidan como sus principales referentes en dos países que, juntos, suman cerca de 350 m",
-   "url": "https://www.france24.com/es/programas/en-primera-plana/20261116-lula-y-sheinbaum-frente-a-la-ola-de-derecha-en-am%C3%A9rica-latina-cu%C3%A1nto-resisten",
-   "date": "2026-11-16T14:31:38+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "fad2176626d7",
-   "source": "France 24",
-   "title": "Paraguay: los videos falsos de violencia tras la detención de Santiago Peña",
-   "description": "Videos de supuestos disturbios e imágenes de saqueos inundaron las redes sociales en Paraguay, entre contenidos falsos, imágenes manipuladas y publicaciones fuera de contexto. Ocurrió en plena crisis financiera y política por el colapso de Ueno Bank, que terminó con la destitució",
-   "url": "https://www.france24.com/es/programas/des-informando/20261116-paraguay-los-videos-falsos-de-violencia-tras-la-detenci%C3%B3n-de-santiago-pe%C3%B1a",
-   "date": "2026-11-16T14:22:38+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1572,16 +1582,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e1e554f36e79",
-   "source": "Deutsche Welle",
-   "title": "Premio Werner Holzer de Periodismo para Katja Gloger y Jaafar Abdul Karim, de Deutsche Welle",
-   "description": "La veterana corresponsal en Rusia y el periodista de DW recibieron el prestigioso premio durante una ceremonia en Frankfurt. La presidenta del Bundestag, Julia Klöckner, agradeció a los dos su valentía.",
-   "url": "https://www.dw.com/es/premio-werner-holzer-de-periodismo-para-katja-gloger-y-jaafar-abdul-karim-de-deutsche-welle/a-79947781?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-14T16:24:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "0b8ea857eea2",
    "source": "BBC Mundo",
    "title": "Me dijeron que mi bebé había fallecido... 42 años después me envió un correo electrónico",
@@ -1600,16 +1600,6 @@
    "date": "2026-11-14T15:01:21+00:00",
    "category": "Gobierno y administración pública",
    "type": "Académica"
-  },
-  {
-   "id": "5d1a0d013b72",
-   "source": "Deutsche Welle",
-   "title": "Se cierra la coalición de gobierno de izquierda para Mecklemburgo-Pomerania Occidental",
-   "description": "Tras el ascenso de AfD en las elecciones regionales, la ministra presidenta Manuela Schwesig (SPD) tuvo que buscar un socio de coalición adicional. Ahora, la alianza tripartita es una realidad.",
-   "url": "https://www.dw.com/es/se-cierra-la-coalición-de-gobierno-de-izquierda-para-mecklemburgo-pomerania-occidental/a-79948513?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-14T14:36:00+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
   },
   {
    "id": "d12040516f3d",
