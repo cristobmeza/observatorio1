@@ -1,34 +1,154 @@
 {
- "updated": "2026-11-17T09:56:34.379599+00:00",
+ "updated": "2026-11-17T10:57:42.536735+00:00",
  "items": [
+  {
+   "id": "09bc78b72d12",
+   "source": "The Guardian",
+   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
+   "description": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she ",
+   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+   "date": "2026-11-17T10:48:53+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "d44a8b5490b6",
+   "source": "BBC Mundo",
+   "title": "La otra realidad que oculta la ciudad \"paraíso de la IA\" en la que China recibe a los líderes mundiales",
+   "description": "Shenzhen se ha convertido en un símbolo de futuro para China. Pero no todos sus residentes lo ven como un lugar en donde pueden lograr sus sueños.",
+   "url": "https://www.bbc.com/mundo/articles/cqevrg8yr429o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T10:47:26+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "864be846304e",
+   "source": "The Guardian",
+   "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+   "description": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’ Ed Miliband has announced the first set of sanctions against Israeli companies planning to build illegal settlements in the West Bank, after he pledged",
+   "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+   "date": "2026-11-17T10:47:18+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "b2128a5bfb1e",
    "source": "The Guardian",
-   "title": "Youth unemployment plan could cut welfare bill before election but overall savings will take years, Milburn says – UK politics live",
-   "description": "Long-awaited report on Neets will be published this morning as author acknowledges there will be initial costs Milburn urges Burnham to spend billions on ‘new deal’ for young people Alan Milburn told Sky News this morning that Labour MPs have so far welcomed his proposals. When K",
+   "title": "Milburn calls for welfare state ‘revolution’ as landmark youth unemployment report to be published – UK politics live",
+   "description": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take years Milburn urges Burnham to spend billions on ‘new deal’ for young people This is what the opposition parties have been saying about the Alan Milburn proposals. The fu",
    "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-   "date": "2026-11-17T09:47:50+00:00",
+   "date": "2026-11-17T10:47:12+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e0432b13318b",
+   "source": "Al Jazeera",
+   "title": "Fomula One champion Fernando Alonso to race at Dakar Rally 2027",
+   "description": "Fernando Alonso will make his return to the Dakar Rally 2027 in Morocco with the Leob and Aston Martin team.",
+   "url": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
+   "date": "2026-11-17T10:42:42+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "c374a04d9221",
+   "source": "The Guardian",
+   "title": "Former WH Smith chain TG Jones put up for sale after closing 130 stores",
+   "description": "Modella Capital plans auction of high street retailer, which employs about 3,500 people, next year Business live – latest updates The owner of TG Jones is exploring a potential sale less than 18 months after completing a deal to buy the high street chain formerly known as WH Smit",
+   "url": "https://www.theguardian.com/business/2026/nov/17/wh-smith-tg-jones-sale-stores-modella-capita",
+   "date": "2026-11-17T10:33:01+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e906e22a1de5",
+   "source": "The Guardian",
+   "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+   "description": "Zelenskyy praises ‘unprecedented attack’ but Kremlin claims bridge will be restored and will be ‘better than ever’ Europe live – follow latest Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Volodymyr Zel",
+   "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+   "date": "2026-11-17T10:30:22+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "88c64437dcc1",
+   "source": "Al Jazeera",
+   "title": "Why are five EU countries reviving plans to deport migrants to Rwanda?",
+   "description": "Rwanda again proposed as a 'return hub' for deported migrants, but critics warn of potential human rights abuses.",
+   "url": "https://www.aljazeera.com/news/2026/11/17/why-are-five-eu-countries-reviving-plans-to-deport-migrants-to-rwanda?traffic_source=rss",
+   "date": "2026-11-17T10:22:52+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "04e8710935dc",
+   "source": "The Guardian",
+   "title": "‘Master manipulator’ police officer should not be released early from UK prison, says ex-partner",
+   "description": "Catherine Dobson calls for exception to England and Wales early release scheme for police who abuse position of trust ‘He’s a master manipulator’: one woman’s fight against her abuser’s early release | Podcast A woman who was coercively controlled by her “master manipulator” part",
+   "url": "https://www.theguardian.com/society/2026/nov/17/police-officer-early-release-catherine-dobson-michael-harvey",
+   "date": "2026-11-17T10:15:43+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "3a428029d654",
+   "source": "Al Jazeera",
+   "title": "US President Trump arrives in Manila ahead of ASEAN summit",
+   "description": "US President Donald Trump has landed in Manila ahead of a special ASEAN-US meeting.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
+   "date": "2026-11-17T10:13:12+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "315c76f12e53",
+   "source": "France 24",
+   "title": "Todo lo que hay que saber sobre las elecciones en España: partidos, fechas, sistema y coyuntura",
+   "description": "España se apresta a celebrar este 29 de noviembre sus terceras elecciones generales desde que Pedro Sánchez está al frente del Gobierno, un proceso precipitado por el rechazo del Congreso de los Diputados a los reales decretos leyes firmados por el ejecutivo para aliviar la crisi",
+   "url": "https://www.france24.com/es/europa/20261117-todo-lo-que-hay-que-saber-sobre-las-elecciones-en-espa%C3%B1a-partidos-fechas-sistema-y-coyuntura",
+   "date": "2026-11-17T10:06:24+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "1a3943968106",
+   "source": "Al Jazeera",
+   "title": "Afghanistan women defy Taliban ban to pursue their ambitions in secret",
+   "description": "Afghan women risk their lives to pursue their dreams, despite strict Taliban restrictions.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/afghanistan-women-defy-taliban-ban-to-pursue-their-ambitions-in-secret?traffic_source=rss",
+   "date": "2026-11-17T09:53:31+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2f4cd8c2659d",
+   "source": "The Guardian",
+   "title": "Expert behind NHS children’s gender services review says she cannot back conversion practices ban",
+   "description": "Hilary Cass says draft bill is having ‘chilling effect’ on healthcare professionals and could pose a risk to parents The expert behind a major review into children’s gender services has said she can no longer support proposed legislation to ban conversion practices related to sex",
+   "url": "https://www.theguardian.com/politics/2026/nov/17/expert-nhs-gender-review-cannot-back-conversion-practices-ban",
+   "date": "2026-11-17T09:51:03+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "0f9b59e72dfd",
+   "source": "Al Jazeera",
+   "title": "Powering towns on pig manure: How Denmark has transformed energy generation",
+   "description": "Pigs are big business in Denmark. Now their waste is being turned into biogas, which powers the national grid.",
+   "url": "https://www.aljazeera.com/economy/2026/11/17/powering-towns-on-pig-manure-how-denmark-has-transformed-energy-generation?traffic_source=rss",
+   "date": "2026-11-17T09:51:02+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
    "id": "9aed82d8334e",
    "source": "Deutsche Welle",
    "title": "Irán asegura haber atacado con drones un radar de EE. UU. en Baréin",
-   "description": "Irán aseguró haber atacado con drones un radar operado por Estados Unidos en una base aérea de Baréin, en represalia por presuntas incursiones de drones estadounidenses en su espacio aéreo.",
+   "description": "Irán aseguró haber atacado con drones un radar operado por Estados Unidos en la base aérea Sheij Isa, en Baréin, en represalia por presuntas incursiones de drones estadounidenses en su espacio aéreo.",
    "url": "https://www.dw.com/es/irán-asegura-haber-atacado-con-drones-un-radar-de-ee-uu-en-baréin/a-79965531?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-17T09:45:00+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "09bc78b72d12",
-   "source": "The Guardian",
-   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-   "description": "Kyiv and Moscow dispute scale of damage which means travel out of the peninsula is now only via a land corridor vulnerable to Ukrainian drone attack Ukraine critically damages Kerch bridge Finland’s highly influential president Alexander Stubb has arrived in Berlin this morning f",
-   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-   "date": "2026-11-17T09:39:58+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -65,19 +185,9 @@
    "id": "2b0907fcde4a",
    "source": "The Guardian",
    "title": "Tobacco group Imperial Brands to axe up to 4,600 jobs as it uses more AI",
-   "description": "Owner of JPS cigarettes, Golden Virginia tobacco, Blu vapes and Rizla has launched huge cost-cutting drive Business live – latest updates Imperial Brands, the owner of Davidoff cigarettes and Blu vapes, is slashing up to 4,600 jobs in a huge cost-cutting drive, as it uses more AI",
+   "description": "Owner of JPS cigarettes, Golden Virginia tobacco, Blu vapes and Rizla has launched huge cost-cutting drive Business live – latest updates Imperial Brands, the owner of Davidoff cigarettes and Blu vapes, is cutting up to 4,600 jobs in a huge cost-saving drive as it uses more AI an",
    "url": "https://www.theguardian.com/business/2026/nov/17/uk-tobacco-imperial-brands-cut-jobs-cigarettes-ai",
    "date": "2026-11-17T09:01:25+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "48509b51b774",
-   "source": "The Guardian",
-   "title": "Actors in UK to get more rights over their ‘digital replicas’ in deal on AI protections",
-   "description": "Agreement secured by Equity union gives actors rights over payment and consent when digital replicas are used Actors in the UK are to be given more rights over their “digital replicas” as part of a new agreement on AI protections with TV and film producers, secured after a growin",
-   "url": "https://www.theguardian.com/technology/2026/nov/17/actors-uk-rights-digital-replicas-ai-protections",
-   "date": "2026-11-17T09:00:08+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -162,16 +272,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8e485b37d088",
-   "source": "The Guardian",
-   "title": "UK unemployment unexpectedly eases to 4.6%, as government prepares to release Milburn report",
-   "description": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work Milburn urges Burnham to spend billions on young people Who are the Neets? UK youth job crisis in five charts Business live – latest updates The UK unemployment rate has unexpected",
-   "url": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
-   "date": "2026-11-17T08:05:09+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "9bd494569be5",
    "source": "Al Jazeera",
    "title": "Andy Burnham says Brexit is what the UK’s ‘enemies’ wanted",
@@ -179,26 +279,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/andy-burnham-says-brexit-is-what-the-uks-enemies-wanted?traffic_source=rss",
    "date": "2026-11-17T08:04:35+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "0981629ceca4",
-   "source": "The Guardian",
-   "title": "Waitrose to expand digital broadcasting after festive ad launch wins 2m views",
-   "description": "Chief executive of supermarket says it is considering new projects after success of Dish podcast and YouTube channel Waitrose is to expand its digital broadcasting portfolio after this year’s Christmas ad launch with Keira Knightley attracted more that 2 million viewers. “There a",
-   "url": "https://www.theguardian.com/business/2026/nov/17/waitrose-christmas-ad-launch-keira-knightley",
-   "date": "2026-11-17T08:00:07+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "e906e22a1de5",
-   "source": "The Guardian",
-   "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-   "description": "Photos of bridge, built after 2014 annexation and viewed by Ukraine as illegal, suggest massive steel arch has fallen into water Europe live – follow latest Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what",
-   "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
-   "date": "2026-11-17T07:42:26+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -235,7 +315,7 @@
    "id": "372ec82cc251",
    "source": "The Guardian",
    "title": "India has been named a ‘destination of the year’ for 2027 – here are insiders’ tips on travelling beyond the tropes",
-   "description": "As tourism booms, three experienced female travellers give their take on how to make the most of travelling here The 13th-century Persian scholar Zakariyya al-Qazwini never travelled to India. But he catalogued it in his famous work The Wonders of Creation and Rarities of Existen",
+   "description": "As tourism booms, three experienced female travellers give their take on how to make the most of travelling here • Don’t get This is India delivered to your inbox? Sign up here The 13th-century Persian scholar Zakariyya al-Qazwini never travelled to India. But he catalogued it in",
    "url": "https://www.theguardian.com/world/2026/nov/16/is-is-india-travel-boom-travel-and-leisure-women",
    "date": "2026-11-17T07:30:06+00:00",
    "category": "China y Asia",
@@ -324,8 +404,8 @@
   {
    "id": "7462d8252603",
    "source": "France 24",
-   "title": "Macron visita Malasia en busca de una mayor cooperación en defensa y tierras raras",
-   "description": "El presidente francés, Emmanuel Macron, se reunirá este martes en Kuala Lumpur con el primer ministro de Malasia, Anwar Ibrahim, para abordar el fortalecimiento de la cooperación en defensa, comercio, energía y minerales críticos. La visita de dos días de Macron, la primera desde",
+   "title": "Tierras raras y defensa: Macron sella una \"asociación estratégica\" con Malasia",
+   "description": "Durante su visita a Malasia, Emmanuel Macron celebró este martes, junto al primer ministro malasio, Anwar Ibrahim, la cooperación entre ambos países en materia de tierras raras. Los dos dirigentes también anunciaron acuerdos en ámbitos como la defensa y la lucha contra las amenaz",
    "url": "https://www.france24.com/es/francia/20261117-macron-visita-malasia-en-busca-de-una-mayor-cooperaci%C3%B3n-en-defensa-y-tierras-raras",
    "date": "2026-11-17T06:02:22+00:00",
    "category": "Gobierno y administración pública",
@@ -364,8 +444,8 @@
   {
    "id": "4db6c9203e3c",
    "source": "France 24",
-   "title": "En directo | Ucrania: ataques rusos provocan apagones en ocho regiones y obligan a cerrar dos puentes de Kiev",
-   "description": "Ataques rusos contra la infraestructura energética ucraniana provocaron apagones en ocho regiones y dañaron dos importantes puentes de Kiev, que fueron cerrados al tránsito, según las autoridades ucranianas. Algunos barrios de la capital también quedaron sin agua ni calefacción. ",
+   "title": "En directo: el puente de Crimea sufre graves daños tras una operación reivindicada por Zelenski",
+   "description": "El puente de Crimea sufrió graves daños tras una operación con drones y misiles reivindicada este martes por Volodímir Zelenski como respuesta a los ataques rusos contra la infraestructura ucraniana. Las autoridades rusas reportaron dos muertos y anunciaron una investigación por ",
    "url": "https://www.france24.com/es/europa/20261117-en-directo-ataques-rusos-alcanzan-dos-puentes-de-kiev-e-interrumpen-el-suministro-de-agua-y-calefacci%C3%B3n",
    "date": "2026-11-17T05:42:38+00:00",
    "category": "Rusia y espacio postsoviético",
@@ -414,7 +494,7 @@
   {
    "id": "c11da5c2f87c",
    "source": "The Guardian",
-   "title": "Serbia’s Student List candidates to be sworn in as MPs after election triumph",
+   "title": "Serbia’s Student List candidates sworn in as MPs after election triumph",
    "description": "Inaugural parliamentary session comes as ousted populist Aleksandar Vučić threatens mass protests of his own Candidates for Serbia’s Student List, the grassroots movement of political outsiders that pulled off a spectacular victory in last month’s elections over the party of the ",
    "url": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
    "date": "2026-11-17T05:00:05+00:00",
@@ -428,16 +508,6 @@
    "description": "Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others.",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
    "date": "2026-11-17T04:00:08+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "720bf214973f",
-   "source": "Al Jazeera",
-   "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
-   "description": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
-   "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
-   "date": "2026-11-17T03:12:54+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
@@ -469,16 +539,6 @@
    "url": "https://www.dw.com/es/japón-denuncia-que-dos-aviones-rusos-violaron-su-espacio-aéreo-y-protesta-ante-moscú/a-79964544?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-17T02:53:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "fb6ed334144d",
-   "source": "Al Jazeera",
-   "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
-   "description": "The Trump administration introduces export licence requirements for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
-   "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
-   "date": "2026-11-17T02:52:56+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -582,16 +642,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1054e83db36b",
-   "source": "Al Jazeera",
-   "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
-   "description": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
-   "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
-   "date": "2026-11-17T01:38:13+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d80950a98e96",
    "source": "Radio Cooperativa",
    "title": "Suprema revisará recursos de nulidad de 14 condenados por el caso Grollmus",
@@ -619,26 +669,6 @@
    "url": "https://www.cooperativa.cl/noticias/magazine/personajes/me-senti-muy-violentada-denise-rosenthal-recordo-desagradable/2026-11-16/221956.html",
    "date": "2026-11-17T01:19:56+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "0d3d1c860ff5",
-   "source": "Al Jazeera",
-   "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
-   "description": "Three children and a woman were injured in the attack outside a central Dublin school in 2023.",
-   "url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
-   "date": "2026-11-17T01:19:56+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "d416ed0f9d70",
-   "source": "Al Jazeera",
-   "title": "EU countries announce migrant deportation centre in Rwanda",
-   "description": "Germany, Austria, the Netherlands, Denmark and Greece have announced that Rwanda will be used as a deportation centre.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
-   "date": "2026-11-17T01:12:28+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -799,26 +829,6 @@
    "url": "https://www.france24.com/es/francia/20261116-macron-defiende-que-ha-hecho-todo-lo-posible-por-francia-a-pesar-de-algunos-errores",
    "date": "2026-11-16T23:38:19+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "80e7e0c780f1",
-   "source": "Radio Cooperativa",
-   "title": "La formación de La Roja para despedir el 2026 ante Colombia",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-formacion-de-la-roja-para-despedir-el-2026-ante-colombia/2026-11-16/203559.html",
-   "date": "2026-11-16T23:35:59+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "24512e0409ba",
-   "source": "Radio Cooperativa",
-   "title": "Luto en Argentina: Futbolista de 17 años murió tras recibir golpe en un partido",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Nuevamente el fútbol lamentó el fallecimiento de un jugador a raíz de una acción de juego, pues el argentino Abel Núñez, de 17 años y del club Ezeiza , perdió la vida tras varios días internado por un golpe. El jugador sufr",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/internacional/luto-en-argentina-futbolista-de-17-anos-murio-tras-recibir-golpe-en-un/2026-11-16/203334.html",
-   "date": "2026-11-16T23:33:34+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -1032,13 +1042,13 @@
    "type": "Prensa"
   },
   {
-   "id": "abeeb4405f4c",
-   "source": "France 24",
-   "title": "Lula y su espaldarazo a Pedro Sánchez: \"Es la persona indicada para defender la democracia en Europa\"",
-   "description": "El presidente de Brasil, Luiz Inácio Lula da Silva, afirmó este lunes 16 de noviembre que el jefe del Ejecutivo español, el socialista Pedro Sánchez, es \"la persona indicada para seguir defendiendo la democracia en Europa\" y señaló que es \"muy importante\" que gane las elecciones ",
-   "url": "https://www.france24.com/es/europa/20261116-elecciones-en-espa%C3%B1a-lula-defiende-que-s%C3%A1nchez-es-la-persona-indicada-para-defender-la-democracia-en-europa",
-   "date": "2026-11-16T20:10:48+00:00",
-   "category": "Elecciones",
+   "id": "a51032110c52",
+   "source": "Radio Cooperativa",
+   "title": "La programación de los cuartos de final en la Liguilla del Ascenso",
+   "description": "La ANFP dio a conocer este lunes la programación de los duelos de ida y vuelta de cuartos de final de la Liguilla del Ascenso , que entregarán el segundo boleto a Primera División. En esta fase sólo compiten seis equipos, ya que hay un equipo clasificado directo a semifinales: El",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/la-programacion-de-los-cuartos-de-final-en-la-liguilla-del-ascenso/2026-11-16/173737.html",
+   "date": "2026-11-16T20:37:37+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -1542,16 +1552,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0d2300e664fc",
-   "source": "The Guardian",
-   "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
-   "description": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning. Jordan, Egypt, Saudi Arab",
-   "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-   "date": "2026-11-15T15:59:04+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "52ca44873833",
    "source": "Deutsche Welle",
    "title": "¿Podría la renta básica universal ser parte de la solución en una economía revolucionada por la IA?",
@@ -1628,16 +1628,6 @@
    "description": "Larry Diamond, un reconocido experto internacional, dice en una entrevista que varios hechos recientes podrían indicar un cambio de patrón a favor de la democracia en el mundo.",
    "url": "https://www.bbc.com/mundo/articles/cmy493l9xx1zo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-15T04:57:14+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "d0d6e054f336",
-   "source": "BBC Mundo",
-   "title": "SpaceX logra por primera vez atrapar la parte superior del cohete Starship en su regreso a la Tierra",
-   "description": "La nave fue capturada en el aire mediante unos enormes brazos mecánicos apodados \"palillos chinos\".",
-   "url": "https://www.bbc.com/mundo/articles/cq4gnx86l5m2o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-14T23:32:38+00:00",
    "category": "América Latina",
    "type": "Prensa"
   },
@@ -2390,6 +2380,16 @@
    "date": "2026-11-09T12:00:00+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Oficial"
+  },
+  {
+   "id": "3907db38e945",
+   "source": "Radio Cooperativa",
+   "title": "El campeón estrena el título: La programación de la fecha 28 de la Liga de Primera",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La ANFP dio a conocer la programación de la fecha 28 de la Liga de Primera, que se disputará entre el 20 y 22 de noviembre, y que tendrá como duelo estelar el clásico entre Colo Colo, campeón, y Universidad Católica en el E",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/el-campeon-estrena-el-titulo-la-programacion-de-la-fecha-28-de-la-liga/2026-11-08/214949.html",
+   "date": "2026-11-09T00:49:49+00:00",
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "4896b0a3b140",

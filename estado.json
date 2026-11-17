@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T09:56:34.379599+00:00",
+ "updated": "2026-11-17T10:57:42.536735+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -69,7 +69,7 @@
   },
   "Agencia EFE": {
    "ok": false,
-   "err": "HTTP Error 403: Forbidden"
+   "err": "HTTP Error 500: Internal Server Error"
   },
   "Biblioteca del Congreso Nacional": {
    "ok": false,
@@ -163,7 +163,7 @@
   },
   "Revista de Ciencia Política (UC)": {
    "ok": false,
-   "err": "HTTP Error 404: Not Found"
+   "err": "HTTP Error 403: Forbidden"
   },
   "Chatham House": {
    "ok": false,
