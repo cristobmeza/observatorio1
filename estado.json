@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T03:48:28.282618+00:00",
+ "updated": "2026-11-17T04:53:48.362557+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -69,7 +69,7 @@
   },
   "Agencia EFE": {
    "ok": false,
-   "err": "HTTP Error 500: Internal Server Error"
+   "err": "HTTP Error 403: Forbidden"
   },
   "Biblioteca del Congreso Nacional": {
    "ok": false,
@@ -94,7 +94,7 @@
   },
   "Banco Central de Chile": {
    "ok": false,
-   "err": "mismatched tag: line 7, column 9"
+   "err": "HTTP Error 404: "
   },
   "Instituto Nacional de Estadísticas": {
    "ok": false,
