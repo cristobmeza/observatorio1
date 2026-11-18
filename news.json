@@ -1,14 +1,174 @@
 {
- "updated": "2026-11-18T08:57:01.522690+00:00",
+ "updated": "2026-11-18T09:55:55.118197+00:00",
  "items": [
+  {
+   "id": "c5a4a7de4e79",
+   "source": "Al Jazeera",
+   "title": "What do Deutsche Bank leaks reveal about Trump, Epstein and Russia?",
+   "description": "Deutsche Bank leaks expose ties to Trump, Epstein, and global elites amid scrutiny over past financial misconduct.",
+   "url": "https://www.aljazeera.com/news/2026/11/18/what-do-deutsche-bank-leaks-reveal-about-trump-epstein-and-russia?traffic_source=rss",
+   "date": "2026-11-18T09:42:26+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "f18c5cc111ba",
+   "source": "Deutsche Welle",
+   "title": "\"Firmes como una roca\": los lazos entre China y Rusia según Xi y Putin",
+   "description": "Antes de su cumbre conjunta con el presidente estadounidense Donald Trump, el líder chino Xi Jinping y el presidente ruso Vladímir Putin se muestran unidos al margen de la cumbre APEC.",
+   "url": "https://www.dw.com/es/firmes-como-una-roca-los-lazos-entre-china-y-rusia-según-xi-y-putin/a-79977080?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-18T09:40:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
   {
    "id": "a0f476298362",
    "source": "The Guardian",
-   "title": "Apec summit live: Xi and Putin start talks as Trump arrives in China",
+   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech",
    "description": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Put",
    "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T08:48:31+00:00",
+   "date": "2026-11-18T09:39:05+00:00",
    "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "ab4225ac3a66",
+   "source": "Al Jazeera",
+   "title": "Why Democrat Mary Peltola’s US Senate win in Alaska matters",
+   "description": "Peltola’s Alaska win gives Democrats 56 Senate seats and a buffer in Republican states ahead of the 2028 elections.",
+   "url": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss",
+   "date": "2026-11-18T09:38:50+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "8c20492ec7bf",
+   "source": "The Guardian",
+   "title": "Shabana Mahmood pledges to tackle ‘corrosive and growing perception of two-tier policing’ – UK politics live",
+   "description": "Home secretary to give speech to National Police Chiefs’ Council addressing concerns that officers treats groups differently Energy bills across Great Britain are predicted to reach £2,166 a year for the typical household from January as the impact of the Middle East conflict pil",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "date": "2026-11-18T09:34:59+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "505f6f07f801",
+   "source": "Al Jazeera",
+   "title": "Piecemeal wars: A new kind of world war is already under way",
+   "description": "Separate regional conflicts are increasingly linked by the interests of rival powers.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/18/piecemeal-wars-a-new-kind-of-world-war-is-already-under-way?traffic_source=rss",
+   "date": "2026-11-18T09:31:18+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "647280280ddb",
+   "source": "Al Jazeera",
+   "title": "As Trump arrives in China, low expectations for breakthroughs in rivalry",
+   "description": "Analysts expect few concrete outcomes from talks between the leaders on the sidelines of the APEC summit.",
+   "url": "https://www.aljazeera.com/economy/2026/11/18/as-trump-arrives-in-china-low-expectations-for-breakthroughs-in-rivalry?traffic_source=rss",
+   "date": "2026-11-18T09:30:01+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "1d6c91e0dff0",
+   "source": "Al Jazeera",
+   "title": "Photos: Thousands march in Haiti in support of Salvadoran troops",
+   "description": "Haitians take to the streets to praise El Salvador’s Nayib Bukele and his soldiers for fighting gangs in their country.",
+   "url": "https://www.aljazeera.com/gallery/2026/11/18/photos-thousands-march-in-haiti-in-support-of-salvadoran-troops?traffic_source=rss",
+   "date": "2026-11-18T09:23:38+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "28d48a063862",
+   "source": "Deutsche Welle",
+   "title": "Mary Peltola hace historia como la primera indígena de Alaska que llega al Senado de Estados Unidos",
+   "description": "La demócrata Peltola representó al estado en la Cámara de Representantes hasta 2025, convirtiéndose en la primera persona indígena nativa de Alaska elegida para el Congreso. Ahora, será la primera en el Senado.",
+   "url": "https://www.dw.com/es/mary-peltola-hace-historia-como-la-primera-indígena-de-alaska-que-llega-al-senado-de-estados-unidos/a-79976994?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-18T09:22:00+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "46427bd5655e",
+   "source": "Al Jazeera",
+   "title": "Sandpapergate: Cricket Australia to open forum for players, rules out probe",
+   "description": "Cricket Australia says it will establish a forum, likely led by a former judge, but there will be no new sanctions.",
+   "url": "https://www.aljazeera.com/sports/2026/11/18/sandpapergate-cricket-australia-to-open-forum-for-players-rules-out-probe?traffic_source=rss",
+   "date": "2026-11-18T09:18:37+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "c0a84c887f95",
+   "source": "Al Jazeera",
+   "title": "India-UK ties outride Modi’s ‘decolonisation’ rhetoric",
+   "description": "Prince William's visit highlights growing partnership between New Delhi and London, despite their colonial history.",
+   "url": "https://www.aljazeera.com/news/2026/11/18/india-uk-ties-outride-modis-decolonisation-rhetoric?traffic_source=rss",
+   "date": "2026-11-18T09:13:12+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "b18b869cbc0f",
+   "source": "The Guardian",
+   "title": "Shabana Mahmood to set out plans to tackle ‘corrosive’ perception of two-tier policing",
+   "description": "Home secretary to tell police chiefs ‘misguided attempts at course correction’ can lead to ‘differential treatment’ UK politics live – latest updates Shabana Mahmood will set out plans to tackle the “corrosive and growing perception” of two-tier policing in a speech to police chi",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/18/shabana-mahmood-two-tier-policing",
+   "date": "2026-11-18T09:10:43+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d970d0e3a3db",
+   "source": "Al Jazeera",
+   "title": "Myanmar-linked arsenic pollution prompts clean water scramble in Thailand",
+   "description": "Thai authorities race to provide safe water to villagers after arsenic from Myanmar mines contaminates Mekong River.",
+   "url": "https://www.aljazeera.com/news/2026/11/18/arsenic-pollution-linked-to-myanmar-mining-prompts-water-alert-in-thailand?traffic_source=rss",
+   "date": "2026-11-18T09:10:21+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ed4ba4d18d3e",
+   "source": "Al Jazeera",
+   "title": "Paris Hilton and AOC speak against AI-generated deepfakes",
+   "description": "US Congresswoman AOC and TV personality Paris Hilton spoke against AI-generated deepfakes that target women and girls.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/paris-hilton-and-aoc-speak-against-ai-generated-deepfakes?traffic_source=rss",
+   "date": "2026-11-18T09:03:05+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "6027f7e7adb6",
+   "source": "Al Jazeera",
+   "title": "Venezuelan boxer Linares arrested in US and faces deportation, ICE confirms",
+   "description": "The 41-year-old was detained on Sunday by US immigration authorities at El Paso International Airport in Texas.",
+   "url": "https://www.aljazeera.com/sports/2026/11/18/venezuelan-boxer-linares-detained-in-us-and-faces-deportation-ice-confirms?traffic_source=rss",
+   "date": "2026-11-18T08:57:14+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "c94c78628895",
+   "source": "Al Jazeera",
+   "title": "‘We want to go back’: Rohingya refugees pin hopes on ICJ genocide verdict",
+   "description": "After almost a decade in exile, they're hoping the ICJ rules in their favour. But will that help them get back home?",
+   "url": "https://www.aljazeera.com/features/2026/11/18/we-want-to-go-back-rohingya-refugees-pin-hopes-on-icj-genocide-verdict?traffic_source=rss",
+   "date": "2026-11-18T08:55:40+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "77d776ff3c11",
+   "source": "Al Jazeera",
+   "title": "Haitians rally in celebration of El Salvador’s anti-gang troop deployment",
+   "description": "Hundreds of Haitians have taken to the streets, celebrating El Salvador’s anti-gang military troops.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/haitians-rally-in-celebration-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+   "date": "2026-11-18T08:53:15+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -24,8 +184,8 @@
   {
    "id": "f0abc904a6c9",
    "source": "The Guardian",
-   "title": "David Lammy urges Andy Burnham to campaign on rejoining EU at next election",
-   "description": "Former foreign secretary’s intervention comes as prime minister prepares for major UK-EU summit in Brussels David Lammy has urged Andy Burnham to campaign on a promise to rejoin the EU at the next election. The former foreign secretary, who also served as deputy prime minister un",
+   "title": "David Lammy urges Andy Burnham to fight next election on rejoining EU",
+   "description": "Former foreign secretary’s intervention comes as prime minister prepares for major UK-EU summit in Brussels UK politics live – latest updates David Lammy has urged Andy Burnham to campaign on a promise to rejoin the EU at the next election. The former foreign secretary, who also ",
    "url": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit",
    "date": "2026-11-18T08:42:41+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -132,16 +292,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f4e643dadb27",
-   "source": "The Guardian",
-   "title": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
-   "description": "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16s Countries around the world are considering social media bans for children, but whether this would work in practice has been hotly debated. Now researchers are seeking answers t",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
-   "date": "2026-11-18T07:00:36+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "2d2c2daa303a",
    "source": "The Guardian",
    "title": "Bikie ‘not surprised’ if he used fake $20,000 souvlaki invoice to pocket thousands on Big Build site, inquiry hears",
@@ -169,16 +319,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
    "date": "2026-11-18T06:19:17+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "fd5a0cb31248",
-   "source": "The Guardian",
-   "title": "‘Deeply concerning’: NHS in England reports more than 3,000 incidents of staff snooping on patients’ records",
-   "description": "Campaign groups and regulators say data breaches are distressing for patients and families and erode trust in the health service The NHS in England has recorded more than 3,000 incidents of staff inappropriately snooping on patients’ medical records in the last five years. Patien",
-   "url": "https://www.theguardian.com/society/2026/nov/18/nhs-england-staff-snooping-patients-records",
-   "date": "2026-11-18T06:00:34+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -272,16 +412,6 @@
    "type": "Prensa"
   },
   {
-   "id": "55875ea69379",
-   "source": "Al Jazeera",
-   "title": "Australia issues sanctions targeting Israeli settlers",
-   "description": "Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss",
-   "date": "2026-11-18T04:12:03+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d86b4fb6bbd2",
    "source": "Deutsche Welle",
    "title": "China y EE.UU. se acusan mutuamente en México por reponsabilidad en crisis de fentanilo",
@@ -302,16 +432,6 @@
    "type": "Prensa"
   },
   {
-   "id": "fad8c64cbd7f",
-   "source": "Al Jazeera",
-   "title": "Rubio rules out cyberattacks or links between tech outages",
-   "description": "US Secretary of State Marco Rubio said there is no evidence linking technical outages to each other or to cyberattacks.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss",
-   "date": "2026-11-18T04:01:16+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "8e1b92117bc6",
    "source": "Radio Cooperativa",
    "title": "Uruguay cerró su 2026 con una goleada a República Dominicana",
@@ -329,16 +449,6 @@
    "url": "https://www.theguardian.com/law/2026/nov/18/australias-strict-surrogacy-laws-could-be-relaxed-under-proposed-changes",
    "date": "2026-11-18T03:28:59+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "60911e6ed6e1",
-   "source": "Al Jazeera",
-   "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
-   "description": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
-   "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
-   "date": "2026-11-18T03:28:41+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -392,16 +502,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ecd14cca8511",
-   "source": "Al Jazeera",
-   "title": "Nvidia dismisses calls to reinstate Jensen Huang amid blockbuster earnings",
-   "description": "Nvidia board chair says chip giant 'does not intend' to reinstate Huang as it projects revenues of $130bn in Q4.",
-   "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
-   "date": "2026-11-18T03:00:22+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "4542e623bbae",
    "source": "France 24",
    "title": "¿Qué hay detrás de las recientes interrupciones informáticas en Estados Unidos?",
@@ -442,16 +542,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2eeedc21345e",
-   "source": "Al Jazeera",
-   "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
-   "description": "Illegal activities in the Amazon pose grave risks to uncontacted Indigenous groups like Brazil’s Awa,.",
-   "url": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
-   "date": "2026-11-18T02:36:09+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "9b5288cf6216",
    "source": "France 24",
    "title": "Revés para Netanyahu: el Parlamento de Israel elige a un aliado de Eisenkot como presidente",
@@ -459,16 +549,6 @@
    "url": "https://www.france24.com/es/video/20261118-rev%C3%A9s-para-netanyahu-el-parlamento-de-israel-elige-a-un-aliado-de-eisenkot-como-presidente",
    "date": "2026-11-18T02:35:04+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "f6837f54a0c7",
-   "source": "Al Jazeera",
-   "title": "Hungary on the hunt for a football hero",
-   "description": "Northern Ireland has secured a Nations League promotion, drawing with Hungary 1-1.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
-   "date": "2026-11-18T02:32:57+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -522,16 +602,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3c45e4627ab3",
-   "source": "Al Jazeera",
-   "title": "ICE agents shove and pepper-spray pregnant woman",
-   "description": "An American woman was shoved to the ground and pepper-sprayed by ICE agents despite telling them she was pregnant.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
-   "date": "2026-11-18T02:17:12+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d6b5600d6967",
    "source": "France 24",
    "title": "Nvidia duplicó sus ingresos y ganancias, superando las expectativas del mercado",
@@ -582,46 +652,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5db3531d62bf",
-   "source": "Al Jazeera",
-   "title": "What is Trump hoping to achieve at APEC meeting in China?",
-   "description": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
-   "url": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
-   "date": "2026-11-18T01:33:05+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "f92cd98f7203",
-   "source": "Al Jazeera",
-   "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
-   "description": "Daithi O'Corrain, 48, has been charged with damaging a US military C-130 aircraft while it was parked overnight.",
-   "url": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss",
-   "date": "2026-11-18T01:32:52+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "6e060af8eb4c",
-   "source": "Al Jazeera",
-   "title": "Man charged over ‘brutal attack’ on Somali-American in Minnesota",
-   "description": "Rideshare driver Mohamed Yusuf is in a critical condition after he was allegedly assaulted by a passenger.",
-   "url": "https://www.aljazeera.com/news/2026/11/18/man-charged-over-brutal-attack-on-somali-american-in-minnesota?traffic_source=rss",
-   "date": "2026-11-18T01:31:53+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "54c95d6e05b8",
-   "source": "Al Jazeera",
-   "title": "Protests as Jason Arday’s accuser speaks at Oxford University",
-   "description": "Hundreds protested outside Oxford University as Nathan Cofnas, who accused Jason Arday of plagiarism, spoke at an event.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/protests-as-jason-ardays-accuser-speaks-at-oxford-university?traffic_source=rss",
-   "date": "2026-11-18T01:28:53+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "0ee3e893b99a",
    "source": "Radio Cooperativa",
    "title": "¿A Viña 2027? La Ley sorprendió con enigmático mensaje que apunta a un posible regreso",
@@ -629,16 +659,6 @@
    "url": "https://www.cooperativa.cl/noticias/magazine/festival-de-vina/a-vina-2027-la-ley-sorprendio-con-enigmatico-mensaje-que-apunta-a-un/2026-11-17/222712.html",
    "date": "2026-11-18T01:27:12+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "1846b0100166",
-   "source": "Al Jazeera",
-   "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-   "description": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
-   "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
-   "date": "2026-11-18T01:07:01+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1072,26 +1092,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8970c0d21af8",
-   "source": "Deutsche Welle",
-   "title": "Oleada de ciberataques afecta a multitud de grandes empresas e instituciones de todo el mundo",
-   "description": "Cae la red interna de comunicaciones de la agencia de seguridad estadounidense NSA, según informa la CNN, aunque el organismo descarta haber sido víctima de un ataque informático.",
-   "url": "https://www.dw.com/es/oleada-de-ciberataques-afecta-a-multitud-de-grandes-empresas-e-instituciones-de-todo-el-mundo/a-79975221?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-17T19:53:00+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "32631574e0d5",
-   "source": "Deutsche Welle",
-   "title": "Etiopía se acerca a otra guerra mientras crece la tensión regional",
-   "description": "A medida que las tropas etíopes empujan a las Fuerzas de Tigré hacia la frontera con Eritrea, crecen los temores de una nueva guerra regional. Las relaciones entre Etiopía y Sudán también se han deteriorado aún más.",
-   "url": "https://www.dw.com/es/etiopía-se-acerca-a-otra-guerra-mientras-crece-la-tensión-regional/a-79974721?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-17T19:50:00+00:00",
-   "category": "África",
-   "type": "Prensa"
-  },
-  {
    "id": "07a8b50eb82c",
    "source": "BBC Mundo",
    "title": "Qué se sabe del caso de Camilo Rodríguez, el primer periodista asesinado en Costa Rica en 25 años",
@@ -1330,46 +1330,6 @@
    "date": "2026-11-17T12:29:00+00:00",
    "category": "Partidos políticos",
    "type": "Prensa"
-  },
-  {
-   "id": "3989e9eeefdd",
-   "source": "Naciones Unidas",
-   "title": "Bolivia, Estados Unidos y México pierden su estatus de países libres del sarampión",
-   "description": "La agencia de la ONU para la salud en las Américas alerta de que la transmisión endémica se ha restablecido en los tres países, en un año que multiplica por cuatro los casos en las Américas: 58.213 contagios y 82 muertes. El descenso de las tasas de vacunación ha propiciado el re",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542184",
-   "date": "2026-11-17T12:00:00+00:00",
-   "category": "América Latina",
-   "type": "Oficial"
-  },
-  {
-   "id": "5a333fcf87a4",
-   "source": "Naciones Unidas",
-   "title": "COP31: La protección de los océanos llega a la mesa de negociaciones",
-   "description": "Desde identificar la vida marina en una simple taza de agua marina hasta recurrir a los conocimientos indígenas para prevenir incendios forestales, científicos y comunidades indígenas mostraron el martes en la COP31 propuestas para proteger la naturaleza, pero la falta de financi",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542183",
-   "date": "2026-11-17T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "765c33ff5826",
-   "source": "Naciones Unidas",
-   "title": "Gaza, el fracaso de la comunidad internacional",
-   "description": "Las primeras lluvias del invierno han devastado decenas de miles de refugios improvisados, mientras 1,4 millones de personas están pasando hambre y más de 100.000 tiendas de campaña están bloqueadas fuera de la Franja. Israel, la potencia ocupante, solo mantiene abierto en este m",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542182",
-   "date": "2026-11-17T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "fa2de407111c",
-   "source": "Naciones Unidas",
-   "title": "Hambre en Gaza, COP31, obesidad y químicos de la discordia... las noticias del martes",
-   "description": "Casi 1,5 millones de palestinos padece hambre aguda, mientras Israel mantiene los obstáculos al paso de la ayuda humanitaria. La inversión climática en América Latina debe ser vista como una inversión, no como un gasto. España lidera un llamado mundial contra la obesidad. Un info",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542181",
-   "date": "2026-11-17T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
   },
   {
    "id": "affbaf7d34ff",
@@ -1692,46 +1652,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3f3149bb9402",
-   "source": "Naciones Unidas",
-   "title": "La IA responde con la ciencia a la primera pregunta sobre el cambio climático, a la segunda… ya es otro tema",
-   "description": "Entre la ciencia y la complacencia, los grandes modelos de lenguaje eligen la primera cuando se les pregunta y la segunda en cuanto el usuario objeta o niega la evidencia.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542179",
-   "date": "2026-11-16T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "ce3260c28665",
-   "source": "Naciones Unidas",
-   "title": "COP31 bloqueada, IA climática, cáncer de cérvix y refugiados… las noticias del martes",
-   "description": "La cumbre del clima entra en su semana final con las negociaciones atascadas y los ministros en camino. UNESCO alerta de que los chatbots ceden ante la presión del usuario y abandonan ciencia cuando se les pregunta por el cambio climático. Un estudio con más de 44.000 mujeres lat",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542178",
-   "date": "2026-11-16T12:00:00+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Oficial"
-  },
-  {
-   "id": "03499effcf87",
-   "source": "Naciones Unidas",
-   "title": "La COP31 entra en su semana decisiva: las negociaciones siguen bloqueadas mientras se alarga la sombra de la IA",
-   "description": "Las nuevas iniciativas internacionales sobre inteligencia artificial e industrialización verde pusieron de manifiesto el papel creciente de la tecnología en la cuestión climática, al tiempo que las conversaciones diplomáticas siguen bloqueadas en materia de financiación, combusti",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542176",
-   "date": "2026-11-16T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "f8d234d346a4",
-   "source": "Naciones Unidas",
-   "title": "En la Cumbre de los países del sudeste asiático, Guterres pide más representación internacional para esa región",
-   "description": "La petición llega en un momento de tensión para la asociación, que cumple 15 años. Guterres describió un entorno de «vientos contrarios»: conflictos, cambio climático, crisis del costo de vida, aranceles y costos de la energía, y necesidades humanitarias crecientes.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542175",
-   "date": "2026-11-16T12:00:00+00:00",
-   "category": "Comercio internacional",
-   "type": "Oficial"
-  },
-  {
    "id": "2c5bd941e120",
    "source": "BBC Mundo",
    "title": "Jojo, el gorila que lleva 11 años solo tras la muerte de su familia y para el que los científicos buscan compañía",
@@ -1972,36 +1892,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e93da3e83c4b",
-   "source": "Naciones Unidas",
-   "title": "COP31: Sin dinero suficiente, crecen las voces para que paguen más los que más contaminan",
-   "description": "Entre peticiones emotivas de justicia climática y negociaciones de alto nivel sobre miles de millones de dólares, el dinero dominó las discusiones de la COP31 el viernes. El Secretario General advirtió de que incluso si se triplican los recursos para que los países vulnerables pu",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542174",
-   "date": "2026-11-13T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "af491484dbdb",
-   "source": "Naciones Unidas",
-   "title": "El impacto devastador de la última tormenta en Gaza se podría haber evitado",
-   "description": "Se trata de decisiones políticas israelíes que podían haber salvado la vida de niños y adultos. La obligación de Israel, como potencia ocupante, es la de garantizar las necesidades básicas de la población de Gaza, incluidos los suministros esenciales para la supervivencia. Las ag",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542173",
-   "date": "2026-11-13T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "92ebf5391b73",
-   "source": "Naciones Unidas",
-   "title": "COP31, ébola, robots asesinos, Gaza… las noticias del viernes",
-   "description": "El Secretario General de la ONU despide su última cumbre del clima en Antalya advirtiendo de que el sobrecalentamiento de 1,5 grados ya es inevitable. El Congo suma 5400 muertos por ébola a los seis meses del brote. La ONU pide un tratado que prohíba las armas autónomas: \"Una máq",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542172",
-   "date": "2026-11-13T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
    "id": "be1db2980188",
    "source": "BBC Mundo",
    "title": "\"Nací en España y un día me miré al espejo y me di cuenta de que era china\"",
@@ -2062,46 +1952,6 @@
    "type": "Prensa"
   },
   {
-   "id": "76c1fdef46f1",
-   "source": "Naciones Unidas",
-   "title": "COP31: las ciudades están en la primera línea del cambio climático",
-   "description": "Los activistas y países vulnerables exigieron una respuesta urgente e inmediata para proteger a las comunidades en primera línea frente a los crecientes desastres climáticos poniendo así presión a los líderes para que financien y adopten medidas, entre ellas, proteger la vivienda",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542169",
-   "date": "2026-11-12T12:00:00+00:00",
-   "category": "Sociedad",
-   "type": "Oficial"
-  },
-  {
-   "id": "cc1261255c48",
-   "source": "Naciones Unidas",
-   "title": "Gaza: la ONU denuncia los bloqueos mortales de Israel frente a las inclemencias del tiempo",
-   "description": "En Gaza, hasta la lluvia mata. El responsable humanitario de la ONU resume un invierno que ya se cobra vidas entre tiendas inundadas y bebés muertos de frío, mientras 150.000 tiendas y medio millón de mantas permanecen bloqueadas a las puertas del enclave. Tom Fletcher no pide pa",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542168",
-   "date": "2026-11-12T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "c6a889820925",
-   "source": "Naciones Unidas",
-   "title": "Haití: más de mil asesinatos entre julio y septiembre",
-   "description": "En Haití 1167 personas fueron asesinadas y 459 resultaron heridas en el trimestre de julio a septiembre. Las pandillas son responsables del 45 % de estos hechos, mientras que alrededor del 5 % se atribuyó a grupos de autodefensa que atacaron a miembros de las pandillas. La otra m",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542167",
-   "date": "2026-11-12T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "dc1c812c0479",
-   "source": "Naciones Unidas",
-   "title": "COP31, plaguicidas, pena de muerte en California, Honduras, neumonía… las noticias del jueves",
-   "description": "Lanzan una plataforma para financiar la respuesta a desastres antes de que ocurran, con el objetivo de proteger a 75 millones de personas. Bangladesh e India prohíben el paraquat, un herbicida vinculado a uno de cada cinco suicidios por plaguicidas en el mundo. California conmuta",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542166",
-   "date": "2026-11-12T12:00:00+00:00",
-   "category": "China y Asia",
-   "type": "Oficial"
-  },
-  {
    "id": "cb8ebc40479f",
    "source": "BBC Mundo",
    "title": "4 claves del escándalo de los supuestos \"sexocontratos\" por el que se investiga al expresidente de Colombia Gustavo Petro",
@@ -2129,36 +1979,6 @@
    "url": "https://www.servel.cl/Ch/app/servel-antofagasta-culmino-la-primera-escuela-de-formacion-civica-y-ciudadana-para-jovenes-en-proceso-de-reinsercion-social/sin-categoria/",
    "date": "2026-11-11T14:04:48+00:00",
    "category": "Elecciones",
-   "type": "Oficial"
-  },
-  {
-   "id": "f00cd98dba05",
-   "source": "Naciones Unidas",
-   "title": "Guterres: Es el momento de la verdad: o actuamos o nos asamos",
-   "description": "\"Los combustibles fósiles deben seguir el camino de los dinosaurios (la extinción). (Pero) los dinosaurios no tenían un lobby. Los combustibles fósiles, sí\", advierte el titular de la ONU. Además, contrasta los 95.000 millones que ganaron las nueve mayores petroleras en un trimes",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542164",
-   "date": "2026-11-11T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "8468dcc3302b",
-   "source": "Naciones Unidas",
-   "title": "COP31, sequía en Centroamérica, Gaza, ébola… las noticias del miércoles",
-   "description": "En la COP31, el Secretario General advierte de que \"los combustibles fósiles deben seguir el camino de los dinosaurios\", la extinción. En nuestro podcast \"Sin la ONU\", viajamos al Corredor Seco de Centroamérica para conocer cómo la sequía está cambiando la vida de los agricultore",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542163",
-   "date": "2026-11-11T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "a300ecc8e0b5",
-   "source": "Naciones Unidas",
-   "title": "El Corredor Seco: “Cuando no hay agua, ahí termina toda la inteligencia”",
-   "description": "Con El Niño fortaleciéndose, la sequía vuelve a amenazar el Corredor Seco de Centroamérica. Anastacio y Marta lideran iniciativas que ayudan a sus comunidades a afrontar la sequía y evitar que más familias tengan que marcharse.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542151",
-   "date": "2026-11-11T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Oficial"
   },
   {
@@ -2372,26 +2192,6 @@
    "type": "Oficial"
   },
   {
-   "id": "6742dfef36ae",
-   "source": "Naciones Unidas",
-   "title": "COP31: la transición energética toma el protagonismo más allá de los combustibles fósiles",
-   "description": "La transición energética global tomó el protagonismo en el segundo día de la COP31, donde los países exploraron cómo alejarse de los combustibles fósiles, acelerar la energía limpia y superar las barreras financieras y de infraestructura que se interponen en el camino.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542160",
-   "date": "2026-11-10T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "a3e59fd711ae",
-   "source": "Naciones Unidas",
-   "title": "Desigualdad en la COP31, Sudán, ébola y Estados Unidos: las noticias del martes",
-   "description": "Unos 1500 millones de mujeres y niñas viven ya en zonas de alto riesgo climático, y la crisis podría empujar a 141 millones más a la pobreza extrema. En Sudán, UNICEF alerta de que 825.000 niños sufrirán desnutrición aguda debido a los ataques con drones a las centrales eléctrica",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542159",
-   "date": "2026-11-10T12:00:00+00:00",
-   "category": "África",
-   "type": "Oficial"
-  },
-  {
    "id": "c421a2beba26",
    "source": "The Guardian",
    "title": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile",
@@ -2432,36 +2232,6 @@
    "type": "Académica"
   },
   {
-   "id": "225470f14465",
-   "source": "Naciones Unidas",
-   "title": "La COP31 abre en Antalya: ¿pueden por fin las promesas climáticas dar resultados?",
-   "description": "Casi 200 países han llegado a la costa mediterránea de Turquía para una cumbre climática con una ambición diferente: menos declaraciones y más decisiones. Con un poderoso fenómeno de El Niño que amenaza con empeorar los eventos meteorológicos extremos, los negociadores se enfrent",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542157",
-   "date": "2026-11-09T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "2816d1297bcf",
-   "source": "Naciones Unidas",
-   "title": "COP31, Ucrania, Gaza, Papa y sarampión… las noticias del lunes",
-   "description": "La COP31 arranca en Antalya con una advertencia: El Niño podría costar 11 billones de dólares a la economía mundial, mientras la financiación climática sigue sin llegar a los más vulnerables. En Ucrania, los ataques rusos a la energía dejan a cientos de miles de personas sin luz ",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542155",
-   "date": "2026-11-09T12:00:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Oficial"
-  },
-  {
-   "id": "35dcb8b65809",
-   "source": "Naciones Unidas",
-   "title": "Las temperaturas extremas \"excepcionales\" continuarán el año que viene",
-   "description": "Los últimos 12 años han sido los más cálidos registrados y la temperatura media global entre enero y septiembre de 2026 fue de 1,47 °C por encima de la era preindustrial. Un fenómeno de el Niño que será el más fuerte registrado en diciembre seguirá desatando eventos extremos hast",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542152",
-   "date": "2026-11-09T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
    "id": "4896b0a3b140",
    "source": "Organización Mundial del Comercio",
    "title": "Alemania dona EUR 500.000 para reforzar la capacidad comercial de las economías en desarrollo",
@@ -2482,46 +2252,6 @@
    "type": "Académica"
   },
   {
-   "id": "a42d28575973",
-   "source": "Naciones Unidas",
-   "title": "La joven ingeniera nuclear que salió de la periferia de Brasil para conquistar el mundo",
-   "description": "Pero para llegar a trabajar en el Organismo Internacional de la Energía Atómica tuvo que superar el racismo, la discriminación social y jornadas de más de 12 horas para estudiar Ingeniería. \"Nuestros héroes están en la vida cotidiana. Solo hay que reconocer a esas personas que co",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542146",
-   "date": "2026-11-07T12:00:00+00:00",
-   "category": "América Latina",
-   "type": "Oficial"
-  },
-  {
-   "id": "6dc6acddc05b",
-   "source": "Naciones Unidas",
-   "title": "Frente a la desinformación, hay que reconquistar la confianza en la ciencia",
-   "description": "La agencia de la salud lanza el movimiento \"Juntos por la ciencia y la salud\", después de que la encuesta global más amplia hasta la fecha, con 140.000 personas en 140 países, revele que, aunque más del 70 % sigue creyendo en la ciencia, la confianza ha caído desde 2018, sobre to",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542150",
-   "date": "2026-11-06T12:00:00+00:00",
-   "category": "Sociedad",
-   "type": "Oficial"
-  },
-  {
-   "id": "95c92900955e",
-   "source": "Naciones Unidas",
-   "title": "COP31, Sudán, Ucrania y precios de los alimentos… las noticias del viernes",
-   "description": "La Conferencia sobre el Clima, la COP31, arranca la próxima semana en Turquía con una advertencia: las ciudades necesitan 4,5 billones de dólares al año para adaptarse al clima, pero solo reciben una quinta parte. Baja el precio de los alimentos, pero el azúcar se dispara, mientr",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542149",
-   "date": "2026-11-06T12:00:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Oficial"
-  },
-  {
-   "id": "9bc66d26a1fc",
-   "source": "Naciones Unidas",
-   "title": "En el Ártico y a la deriva, una expedición científica lanza un llamado a los líderes mundiales: Escuchen a la ciencia",
-   "description": "Atrapados voluntariamente en el hielo del Ártico, un grupo de científicos observa cómo se transforma una de las regiones más frágiles del planeta. Mientras el hielo retrocede y los petroleros ganan terreno, sus hallazgos llegan hasta el Secretario General de la ONU, en una conver",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542147",
-   "date": "2026-11-06T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
    "id": "8f8e87bc024c",
    "source": "Organización Mundial del Comercio",
    "title": "La UE inicia una investigación en materia de salvaguardias sobre determinados productos químicos de resina de PET",
@@ -2529,26 +2259,6 @@
    "url": "https://www.wto.org/spanish/news_s/news26_s/safe_eec_06nov26_542_s.htm",
    "date": "2026-11-06T00:00:00+00:00",
    "category": "Comercio internacional",
-   "type": "Oficial"
-  },
-  {
-   "id": "88677ad93ff3",
-   "source": "Naciones Unidas",
-   "title": "Agua, Cumbre Iberoamericana y violencia sexual en el Reino Unido: las noticias del jueves",
-   "description": "Los ataques contra los sistemas de agua en las guerras se han triplicado en cinco años y dejan a millones de personas sin acceso a agua potable, según UNICEF. La Cumbre Iberoamericana arranca en Madrid con la recomendación de la CEPAL a América Latina de integrarse mejor para no ",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542145",
-   "date": "2026-11-05T12:00:00+00:00",
-   "category": "Conflictos armados y seguridad internacional",
-   "type": "Oficial"
-  },
-  {
-   "id": "562c1bffd28c",
-   "source": "Naciones Unidas",
-   "title": "COP31: ¿Qué está en juego este año en la cumbre climática de la ONU?",
-   "description": "Las energías renovables avanzan a un ritmo sin precedentes, pero gran parte del mundo sigue sin tener los recursos necesarios para aprovecharlas. La financiación y el cumplimiento de los compromisos climáticos estarán en el centro de una cumbre que deberá demostrar que los acuerd",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542143",
-   "date": "2026-11-05T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Oficial"
   },
   {
@@ -2580,16 +2290,6 @@
    "date": "2026-11-04T14:37:33+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "5b013aac22e2",
-   "source": "Naciones Unidas",
-   "title": "Un 25% de los adolescentes no hace suficiente ejercicio",
-   "description": "Uno de cada cuatro adolescentes, unos 240 millones, no realiza 60 minutos de actividad física ningún día de la semana, y las niñas se quedan más atrás: el 28 % no tiene ningún día activo, frente al 22 % de los niños. Durante 15 años, el mundo no ha logrado casi ningún avance. La ",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542142",
-   "date": "2026-11-04T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
   },
   {
    "id": "8ddb87e218b9",
