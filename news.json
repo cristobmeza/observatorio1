@@ -1,24 +1,114 @@
 {
- "updated": "2026-11-18T04:55:07.501693+00:00",
+ "updated": "2026-11-18T05:57:20.979774+00:00",
  "items": [
   {
-   "id": "707de22e52a2",
+   "id": "a0f476298362",
    "source": "The Guardian",
-   "title": "Wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
-   "description": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise Wages grew at their fastest pace since late 2023 over the three months to September, buoyed by this year’s boost to minimum pay rates for millions of lower paid wor",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
-   "date": "2026-11-18T04:33:40+00:00",
+   "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+   "description": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Put",
+   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "date": "2026-11-18T05:26:06+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "c60b22054633",
+   "source": "Al Jazeera",
+   "title": "Rafael Grossi wants to be UN chief. Will Trump’s support nuke his chances?",
+   "description": "Nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
+   "url": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
+   "date": "2026-11-18T05:24:02+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "4a1a6398a766",
+   "source": "Al Jazeera",
+   "title": "FIFA election: Who are Infantino’s challengers, and will he be re-elected?",
+   "description": "A look at FIFA's presidential election process, the challengers and key dates, as Gianni Infantino seeks a fourth term.",
+   "url": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss",
+   "date": "2026-11-18T05:16:25+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "60f0ec52eeab",
+   "source": "Al Jazeera",
+   "title": "Rare video of Brazilian Amazon tribe",
+   "description": "A new video has emerged showing members of the isolated Awa tribe who live in the remote part of Brazil’s Amazon forest.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rare-video-of-brazilian-amazon-tribe?traffic_source=rss",
+   "date": "2026-11-18T05:14:07+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f34b7aefca12",
+   "source": "The Guardian",
+   "title": "‘Devastating consequences’: One Nation plan to slash Australia’s refugee program denounced",
+   "description": "Amid widespread condemnation of the proposal, Pauline Hanson also wants to scrap existing parent and aged parent visa program Get our daily political email , free app or daily news podcast One Nation has vowed to cut Australia’s refugee intake by 90% and scrap the permanent paren",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
+   "date": "2026-11-18T05:11:31+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
-   "id": "a0f476298362",
+   "id": "166059529e4a",
    "source": "The Guardian",
-   "title": "Apec summit live: Xi and Putin give opening speeches as world leaders gather in China",
-   "description": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds What is Apec you ask? Well, the Asia-Pacific Economic Coop",
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T04:26:43+00:00",
-   "category": "China y Asia",
+   "title": "‘Human’ wins Cambridge dictionary’s word of the year",
+   "description": "Meaning and use of word has become more important in age of AI chatbot, says dictionary In a world where the line between people and machines is more blurred than ever, Cambridge dictionary has sided with natural intelligence for its word of the year: human. Breakthroughs in arti",
+   "url": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
+   "date": "2026-11-18T05:00:34+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "8dbb4b1d48ae",
+   "source": "The Guardian",
+   "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+   "description": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian government of Abdel Fatah al",
+   "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+   "date": "2026-11-18T05:00:32+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a5fce95a1169",
+   "source": "The Guardian",
+   "title": "Drinking beer and spirits raises risk of acute kidney damage, study suggests",
+   "description": "Research also shows consuming wine could cut risk, reopening debate on whether beverage has health benefits Drinking beer and spirits increases the risk of serious kidney damage, whereas consuming wine offers protection against it, a study suggests . People who drink nine units o",
+   "url": "https://www.theguardian.com/society/2026/nov/18/drinking-beer-spirits-raises-risk-acute-kidney-damage-wine-protects-study",
+   "date": "2026-11-18T05:00:31+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "6b6b834a01e1",
+   "source": "Al Jazeera",
+   "title": "Waymo suspends driverless freeway rides across US after California ban",
+   "description": "California authorities have declared self-driving cars an 'imminent hazard to public safety' after traffic incidents.",
+   "url": "https://www.aljazeera.com/news/2026/11/18/waymo-suspends-driverless-freeway-rides-across-us-after-california-ban?traffic_source=rss",
+   "date": "2026-11-18T04:58:02+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2d2c2daa303a",
+   "source": "The Guardian",
+   "title": "Bikie ‘not surprised’ if he used fake $20,000 souvlaki invoice to pocket thousands on Big Build site, inquiry hears",
+   "description": "Royal commission sees text message where Bandidos member Joel Leavitt says ‘just make up a quote that hits 20K’ while working on site for CFMEU Get our breaking news email , free app or daily news podcast A Bandidos gang member says it is possible he used a fake $20,000 invoice f",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
+   "date": "2026-11-18T04:42:07+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "707de22e52a2",
+   "source": "The Guardian",
+   "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
+   "description": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise Get our daily political email , free app or daily news podcast Wages grew at their fastest pace since late 2023 over the three months to September, buoyed up by thi",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
+   "date": "2026-11-18T04:33:40+00:00",
+   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -79,16 +169,6 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-uruguaya/uruguay-cerro-su-2026-con-una-goleada-a-republica-dominicana/2026-11-18/004259.html",
    "date": "2026-11-18T03:42:59+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "2d2c2daa303a",
-   "source": "The Guardian",
-   "title": "‘Everyone likes money’: Bandidos member can’t remember why he was paid $165,000, Big Build inquiry hears",
-   "description": "Commissioner says inference could be made that bikie Joel Leavitt was ‘standing over’ union-aligned labour hire firm for the payment A Bandidos gang member says he couldn’t remember a lucrative invoice because it brought up bad memories of having been told there was a contract ou",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
-   "date": "2026-11-18T03:35:43+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -275,7 +355,7 @@
    "id": "e631cdd96807",
    "source": "The Guardian",
    "title": "The ‘moon landing’ of gaming: Australians, some of the first to play GTA VI, prepare to descend on Vice City",
-   "description": "After a 13 year wait for the latest Grand Theft Auto instalment, Thursday’s launch is shaping up to be ‘the biggest gaming event that’s ever been’ Gamers across Australia are preparing for the once-in-a-generation release of Grand Theft Auto VI, a day acolytes of the franchise sa",
+   "description": "After a 13-year wait for the latest Grand Theft Auto instalment, Thursday’s launch is shaping up to be ‘the biggest gaming event that’s ever been’ Gamers across Australia are preparing for the once-in-a-generation release of Grand Theft Auto VI, a day acolytes of the franchise sa",
    "url": "https://www.theguardian.com/australia-news/2026/nov/18/gta-6-biggest-gaming-event-australians-prepare-for-global-release",
    "date": "2026-11-18T02:24:02+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -482,16 +562,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f34b7aefca12",
-   "source": "The Guardian",
-   "title": "One Nation says it would cut Australia’s refugee intake by 90% under ‘tough stance’",
-   "description": "Pauline Hanson opens new war of words on immigration as Penny Wong accuses populist party of ‘dividing Australians’ Get our daily political email , free app or daily news podcast One Nation has vowed to cut Australia’s refugee intake by 90% and scrap the permanent parent visa pro",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
-   "date": "2026-11-18T00:53:51+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "55924dfe59fc",
    "source": "France 24",
    "title": "Diallo desafía a Infantino y confirma su candidatura a la presidencia de la FIFA",
@@ -652,20 +722,10 @@
    "type": "Prensa"
   },
   {
-   "id": "7d63a86ca774",
-   "source": "The Guardian",
-   "title": "Ofqual urges ‘life-altering’ penalties for students who use tech to cheat",
-   "description": "England’s exam regulator says those caught using AI or smart glasses face disqualification from GCSEs and A-levels Students in England could suffer “life-altering” penalties if they are caught relying on AI or smart glasses to cheat, England’s qualifications regulator has said. T",
-   "url": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
-   "date": "2026-11-18T00:01:25+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "40cdd354116f",
    "source": "Al Jazeera",
    "title": "Iran war live: Bahrain, Kuwait intercept attacks, Manama blames Iran",
-   "description": "Bahrain slams 'criminal' Iranian attacks as Tehran claims it struck US base in Kuwait.",
+   "description": "Bahrain slams 'criminal' Iranian attacks as Tehran says it targeted a US base in Kuwait.",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
    "date": "2026-11-18T00:00:27+00:00",
    "category": "Oriente Medio",
@@ -742,16 +802,6 @@
    "type": "Prensa"
   },
   {
-   "id": "fa832661855c",
-   "source": "Al Jazeera",
-   "title": "Top spy agency suffers network outage, the latest US technical failure",
-   "description": "A series of unfortunate events has plagued the US. Al Jazeera’s Emma Withrow breaks down what we know.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
-   "date": "2026-11-17T23:19:12+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "afbe7621206c",
    "source": "Río en Línea",
    "title": "Contraloría advierte que seis funcionarios municipales de Valdivia registran condenas penales",
@@ -759,16 +809,6 @@
    "url": "https://www.rioenlinea.cl/contraloria-advierte-que-seis-funcionarios-municipales-de-valdivia-registran-condenas-penales/",
    "date": "2026-11-17T23:14:33+00:00",
    "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
-   "id": "e3c99898f990",
-   "source": "Al Jazeera",
-   "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
-   "description": "El Salvador's security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
-   "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
-   "date": "2026-11-17T23:09:00+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -788,16 +828,6 @@
    "description": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six months The new post-Brexit UK-EU youth mobility scheme may not come fully into force until 2030. It will be a disappointment to any under-30s in the UK an",
    "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
    "date": "2026-11-17T22:55:06+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "16a886be5f0e",
-   "source": "The Guardian",
-   "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
-   "description": "Students oppose appearance of self-described ‘race realist’ who made plagiarism claims against Jason Arday Hundreds of protesters filled the cobbled streets around Oriel College, Oxford, to voice their opposition to an appearance by Nathan Cofnas, the self-described “race realist",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
-   "date": "2026-11-17T22:50:16+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -832,16 +862,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cf0bc4df2d00",
-   "source": "Al Jazeera",
-   "title": "Russian military plane crash in Siberia kills 19",
-   "description": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
-   "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
-   "date": "2026-11-17T22:21:16+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "bb0c2f413520",
    "source": "Ex-Ante",
    "title": "Efecto John Malkovich en Rapa Nui: Las reservas aéreas se disparan más de 500% tras el éxito de la película Wild Horse Nine",
@@ -849,16 +869,6 @@
    "url": "https://www.ex-ante.cl/negocios/boom-reservas-rapa-nui-pelicula-malkovich/",
    "date": "2026-11-17T22:20:55+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "0beb1ac4b474",
-   "source": "Al Jazeera",
-   "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
-   "description": "US President Donald Trump has been trying to fire Cook since August 2025.",
-   "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
-   "date": "2026-11-17T22:01:27+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1320,6 +1330,46 @@
    "date": "2026-11-17T12:29:00+00:00",
    "category": "Partidos políticos",
    "type": "Prensa"
+  },
+  {
+   "id": "3989e9eeefdd",
+   "source": "Naciones Unidas",
+   "title": "Bolivia, Estados Unidos y México pierden su estatus de países libres del sarampión",
+   "description": "La agencia de la ONU para la salud en las Américas alerta de que la transmisión endémica se ha restablecido en los tres países, en un año que multiplica por cuatro los casos en las Américas: 58.213 contagios y 82 muertes. El descenso de las tasas de vacunación ha propiciado el re",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542184",
+   "date": "2026-11-17T12:00:00+00:00",
+   "category": "América Latina",
+   "type": "Oficial"
+  },
+  {
+   "id": "5a333fcf87a4",
+   "source": "Naciones Unidas",
+   "title": "COP31: La protección de los océanos llega a la mesa de negociaciones",
+   "description": "Desde identificar la vida marina en una simple taza de agua marina hasta recurrir a los conocimientos indígenas para prevenir incendios forestales, científicos y comunidades indígenas mostraron el martes en la COP31 propuestas para proteger la naturaleza, pero la falta de financi",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542183",
+   "date": "2026-11-17T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "765c33ff5826",
+   "source": "Naciones Unidas",
+   "title": "Gaza, el fracaso de la comunidad internacional",
+   "description": "Las primeras lluvias del invierno han devastado decenas de miles de refugios improvisados, mientras 1,4 millones de personas están pasando hambre y más de 100.000 tiendas de campaña están bloqueadas fuera de la Franja. Israel, la potencia ocupante, solo mantiene abierto en este m",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542182",
+   "date": "2026-11-17T12:00:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Oficial"
+  },
+  {
+   "id": "fa2de407111c",
+   "source": "Naciones Unidas",
+   "title": "Hambre en Gaza, COP31, obesidad y químicos de la discordia... las noticias del martes",
+   "description": "Casi 1,5 millones de palestinos padece hambre aguda, mientras Israel mantiene los obstáculos al paso de la ayuda humanitaria. La inversión climática en América Latina debe ser vista como una inversión, no como un gasto. España lidera un llamado mundial contra la obesidad. Un info",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542181",
+   "date": "2026-11-17T12:00:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Oficial"
   },
   {
    "id": "affbaf7d34ff",
@@ -2312,16 +2362,6 @@
    "type": "Oficial"
   },
   {
-   "id": "e75d13298224",
-   "source": "The Guardian",
-   "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-   "description": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory. The seven-time Formula One world",
-   "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
-   "date": "2026-11-10T15:39:26+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "6742dfef36ae",
    "source": "Naciones Unidas",
    "title": "COP31: la transición energética toma el protagonismo más allá de los combustibles fósiles",
@@ -2542,26 +2582,6 @@
    "type": "Oficial"
   },
   {
-   "id": "9d8701d1c4e7",
-   "source": "Naciones Unidas",
-   "title": "Clima y salud, clima y adaptación, el precio del petróleo… las noticias del miércoles",
-   "description": "El mundo \"no está preparado\" para adaptarse al cambio climático: los países en desarrollo necesitarán 305.000 millones de dólares anuales para 2035, pero la financiación pública internacional solo alcanzó entre 28.200 y 31.700 millones en 2024. La OMS advierte de que seis medidas",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542141",
-   "date": "2026-11-04T12:00:00+00:00",
-   "category": "Sociedad",
-   "type": "Oficial"
-  },
-  {
-   "id": "39aef2178c95",
-   "source": "Naciones Unidas",
-   "title": "El mundo no está preparado para la adaptación climática: la financiación se queda muy corta",
-   "description": "Los países en desarrollo necesitarán unos 305.000 millones de dólares anuales para 2035 para adaptarse al cambio climático, pero la financiación pública internacional solo alcanzó entre 28.200 y 31.700 millones en 2024 y, aunque se triplique, cubrirá como máximo el 29 % de las ne",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542139",
-   "date": "2026-11-04T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
    "id": "8ddb87e218b9",
    "source": "Organización Mundial del Comercio",
    "title": "Los Miembros examinan los progresos realizados en la resolución de las preocupaciones comerciales relacionadas con las MSF en la OMC",
@@ -2569,26 +2589,6 @@
    "url": "https://www.wto.org/spanish/news_s/news26_s/sps_04nov26_548_s.htm",
    "date": "2026-11-04T00:00:00+00:00",
    "category": "Comercio internacional",
-   "type": "Oficial"
-  },
-  {
-   "id": "5de736b036ba",
-   "source": "Naciones Unidas",
-   "title": "La igualdad de género beneficia a las empresas: ¿por qué algunas dan marcha atrás?",
-   "description": "La igualdad de género y la diversidad no son solo cuestiones sociales: también constituyen un activo económico para las empresas. Si bien las mujeres acceden cada vez más a puestos de alta responsabilidad, este progreso sigue siendo frágil y requiere nuevos compromisos para no pe",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542138",
-   "date": "2026-11-03T12:00:00+00:00",
-   "category": "Empresas y mercados",
-   "type": "Oficial"
-  },
-  {
-   "id": "5172b354ae74",
-   "source": "Naciones Unidas",
-   "title": "Ébola, brecha de género, brecha digital… las noticias del martes",
-   "description": "Con más de 10.000 casos confirmados y las 5000 muertes, la respuesta al brote de ébola en la República Democrática del Congo sigue yendo por detrás de la transmisión. Las mujeres solo ocupan el 30 % de los puestos directivos en el mundo. El 76 % de la población mundial usa intern",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542136",
-   "date": "2026-11-03T12:00:00+00:00",
-   "category": "África",
    "type": "Oficial"
   },
   {
