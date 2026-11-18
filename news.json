@@ -1,6 +1,216 @@
 {
- "updated": "2026-11-18T17:54:22.792181+00:00",
+ "updated": "2026-11-18T18:48:25.830696+00:00",
  "items": [
+  {
+   "id": "32e946d53bb6",
+   "source": "Río en Línea",
+   "title": "Presupuesto 2027: UACh alerta por pérdida de $1.800 millones y recorte superior al 80% en fondo científico",
+   "description": "La Universidad Austral de Chile (UACh) advirtió que el proyecto de Ley de Presupuesto 2027 podría generar una disminución de $1.840 millones en sus ingresos, situación que también tendría consecuencias en la investigación científica, con una caída proyectada de 81,2% en los recur",
+   "url": "https://www.rioenlinea.cl/presupuesto-2027-uach-alerta-por-perdida-de-1-800-millones-y-recorte-superior-al-80-en-fondo-cientifico/",
+   "date": "2026-11-18T18:44:04+00:00",
+   "category": "Finanzas públicas",
+   "type": "Prensa"
+  },
+  {
+   "id": "8fae95498605",
+   "source": "Deutsche Welle",
+   "title": "Deutsche Bank: millones de documentos revelan prácticas dudosas",
+   "description": "El mayor banco de Alemania tiene también un pasado oscuro que ahora vuelve a perseguirlo. Según un informe periodístico, una filtración de datos revela numerosas prácticas comerciales cuestionables de la entidad.",
+   "url": "https://www.dw.com/es/deutsche-bank-millones-de-documentos-revelan-prácticas-dudosas/a-79985529?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-18T18:36:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "322b14950940",
+   "source": "The Guardian",
+   "title": "Ex-Tory defectors barred from shaping Reform UK’s immigration policy, says Yusuf",
+   "description": "Comments by Reform’s home affairs spokesperson raise questions about unity at the top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in effect the majority ",
+   "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
+   "date": "2026-11-18T18:26:17+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "8b4a2a326bde",
+   "source": "The Guardian",
+   "title": "The Leave campaign has been resurrected, so how does Burnham respond?",
+   "description": "No 10 is confident the PM can make the case for closer EU ties, while others worry about leaving the campaign solely in his hands The launch of a pro-Brexit campaign was one of the few genuine surprises this week in Westminster, even if the arguments were straight out of a famili",
+   "url": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
+   "date": "2026-11-18T18:23:25+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a1871c4bc848",
+   "source": "Deutsche Welle",
+   "title": "Diallo contra Infantino: batalla por el control del fútbol mundial",
+   "description": "El presidente de la federación francesa y candidato de la UEFA, Philippe Diallo, desafía al presidente de la FIFA, Gianni Infantino. Sus posibilidades son escasas, pero la justicia y la política podrían estar de su lado.",
+   "url": "https://www.dw.com/es/diallo-contra-infantino-batalla-por-el-control-del-fútbol-mundial/a-79985014?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-18T18:23:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "794cf53a0636",
+   "source": "Radio Cooperativa",
+   "title": "Qué buscan Xi, Putin y Trump en su primera cumbre trilateral",
+   "description": "Xi Jinping, Vladímir Putin y Donald Trump se reunirán este jueves 19 de noviembre en Shenzhen , al margen de la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Será el primer encuentro trilateral entre los presidentes de China, Rusia y Estados Unidos, que aún no ha",
+   "url": "https://www.cooperativa.cl/noticias/mundo/china/relaciones-exteriores/que-buscan-xi-putin-y-trump-en-su-primera-cumbre-trilateral/2026-11-18/152052.html",
+   "date": "2026-11-18T18:20:52+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "400f2cbf9b4c",
+   "source": "Radio Cooperativa",
+   "title": "Gobierno aseguró que la economía chilena mostrará \"su mejor rostro\" en 2027",
+   "description": "Una semana después de que el ministro de Hacienda, Jorge Quiroz , reconociera -por primera vez- que Chile atraviesa una \"recesión técnica\" , el subsecretario y vocero de Gobierno, Gonzalo Arenas , aseguró este miércoles que la economía local mostrará \"su mejor rostro\" durante 202",
+   "url": "https://www.cooperativa.cl/noticias/economia/crecimiento/chile/gobierno-aseguro-que-la-economia-chilena-mostrara-su-mejor-rostro-en/2026-11-18/151814.html",
+   "date": "2026-11-18T18:18:14+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "b91c61198261",
+   "source": "Deutsche Welle",
+   "title": "¿Renunciaría Ucrania al Donbás a cambio de ingresar en la OTAN?",
+   "description": "EE. UU. quiere saber si Ucrania estaría dispuesta a retirarse de la parte de Donetsk que Rusia no ocupa a cambio de ingresar en la OTAN. Expertos consultados por DW explican por qué esta propuesta es peligrosa.",
+   "url": "https://www.dw.com/es/¿renunciaría-ucrania-al-donbás-a-cambio-de-ingresar-en-la-otan/a-79984054?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-18T18:16:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "2506d62b0dfa",
+   "source": "Al Jazeera",
+   "title": "Israeli forces launch new military operation in central Gaza",
+   "description": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
+   "date": "2026-11-18T18:12:42+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2fb6b3a0a2e5",
+   "source": "Al Jazeera",
+   "title": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
+   "description": "Trump told Philippine President Marcos he knew his parents 'very well'.",
+   "url": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
+   "date": "2026-11-18T18:09:57+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "3c5bb96a1ea5",
+   "source": "Radio Cooperativa",
+   "title": "Trump y Putin dejan abierta la puerta a reunirse con Kim en China",
+   "description": "El presidente de Estados Unidos, Donald Trump , se mostró dispuesto a reunirse con el líder norcoreano, Kim Jong-un , durante su visita a Shenzhen para la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). El Kremlin también dejó abierta la posibilidad de una cita ent",
+   "url": "https://www.cooperativa.cl/noticias/economia/foros-internacionales/apec/trump-y-putin-dejan-abierta-la-puerta-a-reunirse-con-kim-en-china/2026-11-18/150651.html",
+   "date": "2026-11-18T18:06:51+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "270dac2bbbf0",
+   "source": "Radio Cooperativa",
+   "title": "El escenario de los candidatos a un día de las elecciones de la ANFP",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/anfp/el-escenario-de-los-candidatos-a-un-dia-de-las-elecciones-de-la-anfp/2026-11-18/145832.html",
+   "date": "2026-11-18T17:58:32+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "32c503f0da6d",
+   "source": "The Guardian",
+   "title": "Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft?",
+   "description": "Leaked text of 72-paragraph second draft shows agreement has largely been reached before expected signoff on Friday The UK-EU “relationship reset” agreement, which began in earnest under Keir Starmer, is expected to be signed off by Andy Burnham in Brussels on Friday. A leaked te",
+   "url": "https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer",
+   "date": "2026-11-18T17:56:39+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "848cd4e823eb",
+   "source": "The Guardian",
+   "title": "Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s",
+   "description": "Scientists tell Commons exposure to colibactin in early life is potential driver of early-onset colorectal cancer Exposure to a bacterial toxin in early life has emerged as a leading suspect in the rise of bowel cancer among those under 50, MPs have heard. Cases of early-onset bo",
+   "url": "https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s",
+   "date": "2026-11-18T17:55:14+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "7e85046a3f75",
+   "source": "The Guardian",
+   "title": "Alexander Zverev notified of abuse lawsuit by ex-partner during ATP Finals",
+   "description": "Men’s world No 1 allegedly violated terms of settlement Lawyers say Zverev will ‘defend himself against lawsuit’ Alexander Zverev was officially notified of a lawsuit filed by his former partner during the middle of the season-ending ATP Finals on Wednesday. The latest legal case",
+   "url": "https://www.theguardian.com/sport/2026/nov/18/alexander-zverev-abuse-lawsuit-atp-finals-finals-brenda-patea",
+   "date": "2026-11-18T17:52:39+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "155f47d7b68d",
+   "source": "Al Jazeera",
+   "title": "Far-right influencer Jake Lang kicked out of Dearborn council meeting",
+   "description": "Far-right influencer Jake Lang was removed from a Dearborn City Council meeting after disrupting proceedings.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/far-right-influencer-jake-lang-kicked-out-of-dearborn-council-meeting?traffic_source=rss",
+   "date": "2026-11-18T17:50:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a0f476298362",
+   "source": "The Guardian",
+   "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+   "description": "This blog is now closed, you can read more on this story here Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin,",
+   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "date": "2026-11-18T17:48:24+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "f1366ea262e0",
+   "source": "Radio Cooperativa",
+   "title": "Xi y Putin apuestan por un nuevo \"orden multipolar\" antes de la cumbre histórica con Trump",
+   "description": "Los presidentes de China y Rusia, Xi Jinping y Vladímir Putin , abogaron este miércoles por un \"orden multipolar más justo\" en el que sus países \"asuman los deberes que corresponden a las superpotencias\", en vísperas de la primera cumbre a tres que celebrarán con el estadounidens",
+   "url": "https://www.cooperativa.cl/noticias/economia/foros-internacionales/apec/xi-y-putin-apuestan-por-un-nuevo-orden-multipolar-antes-de-la-cumbre/2026-11-18/144656.html",
+   "date": "2026-11-18T17:46:56+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "fe8e1186cb4f",
+   "source": "Radio Cooperativa",
+   "title": "Exactor de BKN fue captado como carterista en Milán: Terminó enojado e insultando en italiano",
+   "description": "Un exactor de la recordada serie \"BKN\" fue captado \"trabajando\" como carterista en el metro de Milán , tres años después haber sido sorprendido en la misma labor en otro país. Se trata de Luis Baeza Cáceres , un exactor que interpretó a \"Albertito\" en el programa de televisión y ",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/exactor-de-bkn-fue-captado-como-carterista-en-milan-termino-enojado-e/2026-11-18/144615.html",
+   "date": "2026-11-18T17:46:15+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "592014310f56",
+   "source": "Al Jazeera",
+   "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
+   "description": "Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue.",
+   "url": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
+   "date": "2026-11-18T17:45:09+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2997053d96ff",
+   "source": "The Guardian",
+   "title": "Traces of filler found in heart and brain of woman who died after cosmetic procedure, UK inquest hears",
+   "description": "Jury told Jordan Parke injected seven times amount of filler he was taught to use during Alice Webb’s ‘Brazilian butt lift’ A man known as the “Lip King” who carried out a “Brazilian butt lift” (BBL) on a woman who later died injected her with seven times the amount of filler tha",
+   "url": "https://www.theguardian.com/society/2026/nov/18/traces-of-filler-found-in-heart-and-brain-of-woman-who-died-after-cosmetic-procedure-uk-inquest-hears",
+   "date": "2026-11-18T17:42:22+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "859bcf1bc87b",
    "source": "Radio Cooperativa",
@@ -9,16 +219,6 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/cooperativa-deportes/opinion/el-editorial-de-tono-prieto-que-se-apueste-por-la-continuidad-de/2026-11-18/143900.html",
    "date": "2026-11-18T17:39:00+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "848cd4e823eb",
-   "source": "The Guardian",
-   "title": "Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s",
-   "description": "Scientists tell Commons committee that exposure to colibactin in early life is a potential driver of early onset colorectal cancer Exposure to a bacterial toxin in early life has emerged as a leading suspect in the rise of bowel cancer among those under 50, MPs have heard. Cases ",
-   "url": "https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s",
-   "date": "2026-11-18T17:38:30+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -82,16 +282,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8b4a2a326bde",
-   "source": "The Guardian",
-   "title": "New pro-Brexit campaign took Westminster by surprise, but it is relying on the same old playbook",
-   "description": "No 10 is confident Burnham can make the case for closer EU ties, with polling showing support from 71% of voters The launch of a pro-Brexit campaign was one of the few genuine surprises this week in Westminster, even if the arguments were the most familiar playbook. The video lau",
-   "url": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
-   "date": "2026-11-18T17:27:12+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "e15079bc0d4d",
    "source": "Radio Cooperativa",
    "title": "Marcha \"contra los recortes\" unió a la CUT, estudiantes y gremios de salud en la Alameda",
@@ -132,26 +322,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cad82a2cca8c",
-   "source": "Radio Cooperativa",
-   "title": "Amaia Montero y críticas a su voz: \"Sufro por mí y por mis compañeros\"",
-   "description": "El retorno de Amaia Montero a La Oreja de Van Gogh , tras casi dos décadas fuera de la banda -que siguió con otra vocalista entre 2007 y 2024- ha estado marcado por duras críticas a su capacidad vocal, tanto de fans como de críticos musicales. \"Con más pena que gloria\", \"caótica,",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/pop-en-espanol/amaia-montero-y-criticas-a-su-voz-sufro-por-mi-y-por-mis-companeros/2026-11-18/135916.html",
-   "date": "2026-11-18T16:59:16+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a0f476298362",
-   "source": "The Guardian",
-   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-   "description": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Put",
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T16:58:02+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "73839386f57f",
    "source": "The Guardian",
    "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
@@ -169,16 +339,6 @@
    "url": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/agricultura/campos-descarto-disculparse-por-su-comer-fruta-como-locos-pese-a/2026-11-18/135146.html",
    "date": "2026-11-18T16:51:46+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "e071cba26888",
-   "source": "Radio Cooperativa",
-   "title": "Jorge Yunge quiere un miniestadio y que sindicatos tengan voto en la Federación",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes A menos de 24 horas de una jornada decisiva para el balompié nacional, el candidato a la presidencia de la Asociación Nacional de Fútbol Profesional (ANFP), Jorge Yunge, dio a conocer oficialmente los ejes de su programa de",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/anfp/jorge-yunge-quiere-un-miniestadio-y-que-sindicatos-tengan-voto-en-la/2026-11-18/135005.html",
-   "date": "2026-11-18T16:50:05+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -202,16 +362,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6b9553ab9d7e",
-   "source": "The Guardian",
-   "title": "Boy, three, dies after ‘medical emergency’ at Greater Manchester nursery",
-   "description": "Police are investigating death of child three days after emergency services were called to Cosy Toes nursery in Middleton A three-year-old boy has died after a “medical emergency” at a nursery in Greater Manchester. Emergency services were called to Cosy Toes nursery in Middleton",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/18/boy-three-dies-medical-emergency-cosy-toes-nursery-middleton-greater-manchester",
-   "date": "2026-11-18T16:46:04+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "e1897a0fa50f",
    "source": "Al Jazeera",
    "title": "World Bank official says Lebanon reconstruction making slow progress",
@@ -232,16 +382,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f02bdbe00896",
-   "source": "Radio Cooperativa",
-   "title": "Cooperativa Deportes: Los ecos del empate entre Chile y Colombia",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/cooperativa-deportes/opinion/cooperativa-deportes-los-ecos-del-empate-entre-chile-y-colombia/2026-11-18/133645.html",
-   "date": "2026-11-18T16:36:45+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "0e6afa2eb4be",
    "source": "Ex-Ante",
    "title": "La urbanización de la Luna",
@@ -259,16 +399,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
    "date": "2026-11-18T16:28:54+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "84aaf28fdeab",
-   "source": "Radio Cooperativa",
-   "title": "Magallanes pide que Kast y Cancillería velen por que Argentina respete la ruta comercial a Malvinas",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/argentina/magallanes-pide-que-kast-y-cancilleria-velen-por-que-argentina-respete/2026-11-18/132850.html",
-   "date": "2026-11-18T16:28:50+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -295,7 +425,7 @@
    "id": "2f10913655e9",
    "source": "The Guardian",
    "title": "Labour faces double blow over UK fossil fuel projects",
-   "description": "Large North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site The energy secretary has been dealt a double blow after two UK companies signalled plans to pull their investment from large fossil fuel projects amid disagreem",
+   "description": "Large North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site Nils Pratley: with more gas storage at risk. What’s the government plan for secure supplies? The energy secretary has been dealt a double blow after two UK comp",
    "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
    "date": "2026-11-18T16:19:41+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -309,26 +439,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
    "date": "2026-11-18T16:16:48+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "c982c8e32623",
-   "source": "Radio Cooperativa",
-   "title": "Manchester United analiza acciones legales por la partida del \"Kid Messi\" a Real Madrid",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Manchester United estudia emprender acciones legales por la salida de JJ Gabriel, joven promesa de 16 años conocida como el \"Kid Messi\", quien confirmó su despedida del conjunto inglés y tiene encaminada su incorporación a ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/manchester-united/manchester-united-analiza-acciones-legales-por-la-partida-del-kid/2026-11-18/131344.html",
-   "date": "2026-11-18T16:13:44+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "7b2b7eea8b07",
-   "source": "Río en Línea",
-   "title": "Alcalde de Río Bueno anuncia su renuncia desde la cárcel en medio de investigación por corrupción",
-   "description": "La decisión de Luis Reyes (UDI) fue comunicada ante el Concejo Municipal por su hija, Natalia Reyes Torres, quien expuso la carta en la que el jefe comunal solicita formalmente dejar el cargo. Actualmente, permanece en prisión preventiva mientras es investigado por presuntos deli",
-   "url": "https://www.rioenlinea.cl/alcalde-de-rio-bueno-anuncia-su-renuncia-desde-la-carcel-en-medio-de-investigacion-por-corrupcion/",
-   "date": "2026-11-18T16:12:14+00:00",
-   "category": "Regiones (Los Ríos)",
    "type": "Prensa"
   },
   {
@@ -359,16 +469,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda?traffic_source=rss",
    "date": "2026-11-18T16:05:37+00:00",
    "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "1087ff7c9a6c",
-   "source": "Radio Cooperativa",
-   "title": "Denise Rosenthal manda duros mensajes a Camilo Zicavo en sus nuevas canciones",
-   "description": "La cantante Denise Rosenthal estrenó dos nuevas canciones en las que repasa su extinto matrimonio con Camilo Zicavo y envía duros mensajes al músico. El primero de los temas fue titulado \"Equilibrar la balanza\" , un frenético rap en el que Rosenthal destruye a una expareja. \"Tu c",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/denise-rosenthal-manda-duros-mensajes-a-camilo-zicavo-en-sus-nuevas/2026-11-18/125842.html",
-   "date": "2026-11-18T15:58:42+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -432,16 +532,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9bf41f30890e",
-   "source": "The Guardian",
-   "title": "Cancer patients at NHS trust harmed by years of unnecessary chemotherapy, report finds",
-   "description": "Trust apologises after findings on treatment of 20 brain tumour patients under oncologist who retired in 2023 Cancer patients were severely harmed after being given years of unnecessary chemotherapy treatment by an NHS trust, a report has found. Some people were misdiagnosed and ",
-   "url": "https://www.theguardian.com/society/2026/nov/18/cancer-patients-nhs-trust-unnecessary-chemotherapy-coventry",
-   "date": "2026-11-18T15:35:05+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "11f7b1d7c35f",
    "source": "CIPER Chile",
    "title": "Postergar la meta de eficiencia de los autos nuevos: un costo que pagarían las familias",
@@ -459,16 +549,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
    "date": "2026-11-18T15:32:01+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "f0abc904a6c9",
-   "source": "The Guardian",
-   "title": "Burnham should fight next election on promise to rejoin EU, says Peter Kyle",
-   "description": "Exclusive: Former business secretary calls for Labour manifesto commitment with referendum on final decision Andy Burnham should fight the next election on a promise to rejoin the EU, the former business secretary Peter Kyle has said, with voters given a referendum on the outcome",
-   "url": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit",
-   "date": "2026-11-18T15:18:34+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -529,16 +609,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it?traffic_source=rss",
    "date": "2026-11-18T15:00:34+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "9d572a328809",
-   "source": "The Guardian",
-   "title": "Spanish court investigates Julio Iglesias over sexual abuse claims",
-   "description": "Case involving allegations from two women employed at singer’s properties in Caribbean had been shelved A Spanish court is investigating the singer Julio Iglesias over complaints that he sexually abused and physically assaulted two female employees who worked at his properties in",
-   "url": "https://www.theguardian.com/world/2026/nov/18/spanish-court-investigates-julio-iglesias-two-women-allegations",
-   "date": "2026-11-18T14:55:32+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -762,16 +832,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3a328568a680",
-   "source": "Al Jazeera",
-   "title": "How the US House of Representatives chooses its leaders: A visual guide",
-   "description": "After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.",
-   "url": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
-   "date": "2026-11-18T13:24:22+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "4b6e9710810f",
    "source": "BBC Mundo",
    "title": "El inusual encuentro con los awá, un grupo de indígenas aislados en Brasil (y por qué genera preocupación)",
@@ -792,16 +852,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6adb61ac9eb7",
-   "source": "Al Jazeera",
-   "title": "GTA 6: Everything you need to know about the highly anticipated game",
-   "description": "Economists predict GTA 6 could cost US up to $1bn in lost productivity, with the game set for release at midnight.",
-   "url": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
-   "date": "2026-11-18T13:02:33+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "eb038c7c0248",
    "source": "Ex-Ante",
    "title": "¿Usted aprueba o desaprueba la forma en que el presidente Kast está conduciendo su gobierno?",
@@ -812,16 +862,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9ab78b843f24",
-   "source": "Al Jazeera",
-   "title": "How data centres are turning AI-generated heat into energy",
-   "description": "How data centres are turning AI-generated heat into energy",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss",
-   "date": "2026-11-18T12:41:02+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "525cc327ff93",
    "source": "Deutsche Welle",
    "title": "Pese a goleada, Alemania sale del Top 10 de selecciones de fútbol",
@@ -829,16 +869,6 @@
    "url": "https://www.dw.com/es/pese-a-goleada-alemania-sale-del-top-10-de-selecciones-de-fútbol/a-79981114?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-18T12:34:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "e0e19762582a",
-   "source": "Al Jazeera",
-   "title": "Ukraine mourns mother, athlete and drone operator killed in Russian strike",
-   "description": "Rayana joined Ukraine’s army in 2024 to protect her son from Russia’s invasion. She was killed in Russian air strike.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss",
-   "date": "2026-11-18T12:27:40+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -944,7 +974,7 @@
   {
    "id": "d35e8c7d2591",
    "source": "The Guardian",
-   "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
+   "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
    "description": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay , if the court rules on ",
    "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
    "date": "2026-11-18T09:58:28+00:00",
@@ -1039,16 +1069,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
    "date": "2026-11-18T05:00:32+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "5686598f849b",
-   "source": "Deutsche Welle",
-   "title": "Xi fustiga \"proteccionismo\" y defiende apertura comercial y estabilidad durante cumbre de APEC",
-   "description": "\"No puede haber prosperidad sin seguridad, ni seguridad sin estabilidad\", dijo el mandatario chino ante empresarios reunidos en Shenzhen.",
-   "url": "https://www.dw.com/es/xi-fustiga-proteccionismo-y-defiende-apertura-comercial-y-estabilidad-durante-cumbre-de-apec/a-79976175?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-18T04:13:00+00:00",
-   "category": "Empresas y mercados",
    "type": "Prensa"
   },
   {
