@@ -1,12 +1,122 @@
 {
- "updated": "2026-11-18T20:48:20.101119+00:00",
+ "updated": "2026-11-18T21:47:03.267378+00:00",
  "items": [
   {
-   "id": "eac55579082d",
+   "id": "1a52a613d804",
+   "source": "The Guardian",
+   "title": "Member of anti-migrant group found guilty of Staffordshire murder",
+   "description": "Raise the Colours activist Billy Allison, 36, killed man in ‘completely unprovoked and unjustified’ attack, say police A member of anti-migrant group Raise the Colours has been found guilty of murdering a man in a “completely unprovoked and unjustified” attack. Billy Allison, 36,",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/18/member-anti-migrant-group-guilty-murder-raise-colours-billy-allison",
+   "date": "2026-11-18T21:27:54+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "c7c9552d50ec",
+   "source": "Al Jazeera",
+   "title": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
+   "description": "Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.",
+   "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
+   "date": "2026-11-18T21:24:19+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "4c0eb978871a",
+   "source": "France 24",
+   "title": "Trump, Xi y Putin: a qué apunta cada uno en su histórica cumbre en China",
+   "description": "Frenar la venta de armas a Taiwán, recuperarse de una contundente derrota electoral o proyectar una imagen de igualdad de oportunidades con las dos superpotencias mundiales: Xi Jinping, Donald Trump y Vladimir Putin abordan su reunión trilateral en Shenzhen con objetivos y agenda",
+   "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261118-trump-xi-y-putin-a-qu%C3%A9-apunta-cada-uno-en-su-hist%C3%B3rica-cumbre-en-china",
+   "date": "2026-11-18T21:14:41+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "210598f44394",
+   "source": "Al Jazeera",
+   "title": "Floodwaters submerge cars and parking lots in Florida town",
+   "description": "Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
+   "date": "2026-11-18T21:08:04+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "496940726baa",
+   "source": "Al Jazeera",
+   "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+   "description": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
+   "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+   "date": "2026-11-18T21:01:05+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "571748cd0cc2",
+   "source": "Ex-Ante",
+   "title": "El futuro del trabajo también depende de nosotros",
+   "description": "Con la Inteligencia Artificial (IA) tenemos una enorme capacidad a nuestra disposición, pero no necesariamente una dirección ya formada. En el trabajo podemos llenarnos de…",
+   "url": "https://www.ex-ante.cl/afteroffice/futuro-trabajo-depende-de-nosotros/",
+   "date": "2026-11-18T20:59:54+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "090f7f6db2a3",
+   "source": "Deutsche Welle",
+   "title": "Trump, Xi y Putin: en busca de una solución para Irán y Ucrania",
+   "description": "Un encuentro histórico, una \"Yalta 2.0\", el inicio de un \"nuevo orden mundial\". Ante la cumbre entre Xi, Trump y Putin en Shenzhen, abundan los superlativos. ¿Hay demasiadas expectativas?",
+   "url": "https://www.dw.com/es/trump-xi-y-putin-en-busca-de-una-solución-para-irán-y-ucrania/a-79983531?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-18T20:57:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "b91c61198261",
+   "source": "Deutsche Welle",
+   "title": "¿Renunciaría Ucrania al Donbás a cambio de ingresar en la OTAN?",
+   "description": "EE. UU. quiere saber si Ucrania estaría dispuesta a retirarse de la parte de Donetsk que Rusia no ocupa a cambio de ingresar en la OTAN. Expertos consultados por DW explican por qué esta propuesta es peligrosa.",
+   "url": "https://www.dw.com/es/¿renunciaría-ucrania-al-donbás-a-cambio-de-ingresar-en-la-otan/a-79984054?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-18T20:56:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "b3c3146629c1",
+   "source": "Radio Cooperativa",
+   "title": "Fue demolido el \"Refugio del mal\" en Independencia, vinculado a asesinatos y a narcotráfico",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/fue-demolido-el-refugio-del-mal-en-independencia-vinculado-a/2026-11-18/175501.html",
+   "date": "2026-11-18T20:55:01+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e03b4605ce59",
+   "source": "Radio Cooperativa",
+   "title": "Independencia exigió planificación para evitar caos vial en final del Ascenso",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Agustín Iglesias , alcalde de Independencia, exigió a la Delegación Presidencial, la ANFP y las dirigencias de San Luis y Cobreloa una planificación ante el partido único de defenición en la Liga de Ascenso que se disputará",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/independencia-exigio-planificacion-para-evitar-caos-vial-en-final-del/2026-11-18/175009.html",
+   "date": "2026-11-18T20:50:09+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "f32c28f1a909",
+   "source": "Deutsche Welle",
+   "title": "Violencia sexual a menores: de la confianza a la extorsión en línea",
+   "description": "Las redes sociales son, a menudo, el escenario principal de la violencia sexual contra los jóvenes. Y, con frecuencia, los padres no son conscientes de los peligros que acechan a sus hijos.",
+   "url": "https://www.dw.com/es/violencia-sexual-a-menores-de-la-confianza-a-la-extorsión-en-línea/a-79986100?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-18T20:49:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "891f40e26bc8",
    "source": "Ex-Ante",
    "title": "El fenómeno GTA VI: el descomunal regreso del videojuego que recaudó US$ 1.000 millones en preventas",
    "description": "El lanzamiento de GTA VI ya es un fenómeno que trasciende a la industria de los videojuegos. Según The Washington Post, hay quienes están pidiendo…",
-   "url": "https://www.ex-ante.cl/negocios/millonario-negocio-videojuego-gta-vi/",
+   "url": "https://www.ex-ante.cl/negocios/gta-recaudo-us1-000-millones/",
    "date": "2026-11-18T20:41:25+00:00",
    "category": "Estados Unidos y Canadá",
    "type": "Prensa"
@@ -84,8 +194,8 @@
   {
    "id": "10772fcf843c",
    "source": "The Guardian",
-   "title": "Hegseth boasts of Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
-   "description": "The US defense secretary called the former president’s capture the ‘most sophisticated military operation’ in Latin American history Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’",
+   "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+   "description": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during w",
    "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
    "date": "2026-11-18T20:24:19+00:00",
    "category": "América Latina",
@@ -432,16 +542,6 @@
    "type": "Prensa"
   },
   {
-   "id": "fda08368d9d3",
-   "source": "Radio Cooperativa",
-   "title": "La Ley prepara su regreso con integrantes históricos: Viña 2027 será su primera parada",
-   "description": "Tras varios rumores, La Ley alista su regreso a la Quinta Vergara para el Festival de Viña del Mar 2027. Según informó La Tercera , el esperado reencuentro de la banda tendrá lugar en el certamen de la Ciudad Jardín. En tanto, la alineación del grupo incluirá a sus integrantes hi",
-   "url": "https://www.cooperativa.cl/noticias/magazine/festival-de-vina/la-ley-prepara-su-regreso-con-integrantes-historicos-vina-2027-sera-su/2026-11-18/155017.html",
-   "date": "2026-11-18T18:50:17+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "c18f2785ff16",
    "source": "Radio Cooperativa",
    "title": "La U evalúa escenarios para ser local ante problemas en el Nacional",
@@ -459,16 +559,6 @@
    "url": "https://www.rioenlinea.cl/presupuesto-2027-uach-alerta-por-perdida-de-1-800-millones-y-recorte-superior-al-80-en-fondo-cientifico/",
    "date": "2026-11-18T18:44:04+00:00",
    "category": "Finanzas públicas",
-   "type": "Prensa"
-  },
-  {
-   "id": "4a2526847f93",
-   "source": "The Guardian",
-   "title": "Burnham considering cuts to national insurance to create more youth jobs",
-   "description": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s Who are the Neets? UK youth job crisis in five charts UK firms: what is stopping you hiring young people? Andy Burnham has said he would consider cuts to national insur",
-   "url": "https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report",
-   "date": "2026-11-18T18:43:37+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -539,26 +629,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
    "date": "2026-11-18T18:22:26+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "91781f4fa2e6",
-   "source": "Radio Cooperativa",
-   "title": "Arenas sobre sus dichos contra el PDG: \"No tengo nada más que agregar\"",
-   "description": "El vocero de Gobierno, Gonzalo Arenas , evitó responder este miércoles si se retracta de sus críticas al Partido de la Gente (PDG) . Consultado al respecto, el subsecretario de la Segegob se remitió a las disculpas que ofreció el martes . \"Yo ya di mi declaración el día de ayer y",
-   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/arenas-sobre-sus-dichos-contra-el-pdg-no-tengo-nada-mas-que-agregar/2026-11-18/151820.html",
-   "date": "2026-11-18T18:18:20+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "b91c61198261",
-   "source": "Deutsche Welle",
-   "title": "¿Renunciaría Ucrania al Donbás a cambio de ingresar en la OTAN?",
-   "description": "EE. UU. quiere saber si Ucrania estaría dispuesta a retirarse de la parte de Donetsk que Rusia no ocupa a cambio de ingresar en la OTAN. Expertos consultados por DW explican por qué esta propuesta es peligrosa.",
-   "url": "https://www.dw.com/es/¿renunciaría-ucrania-al-donbás-a-cambio-de-ingresar-en-la-otan/a-79984054?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-18T18:16:00+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -782,16 +852,6 @@
    "type": "Prensa"
   },
   {
-   "id": "090f7f6db2a3",
-   "source": "Deutsche Welle",
-   "title": "Trump, Xi y Putin: en busca de una solución para Irán y Ucrania",
-   "description": "Un encuentro histórico, una \"Yalta 2.0\", el inicio de un \"nuevo orden mundial\". Ante la cumbre entre Xi, Trump y Putin en Shenzhen, abundan los superlativos. ¿Hay demasiadas expectativas?",
-   "url": "https://www.dw.com/es/trump-xi-y-putin-en-busca-de-una-solución-para-irán-y-ucrania/a-79983531?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-18T16:09:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "418dbb401bb7",
    "source": "Al Jazeera",
    "title": "Five EU nations to deport migrants to Rwanda",
@@ -802,26 +862,6 @@
    "type": "Prensa"
   },
   {
-   "id": "32ef3a4c759a",
-   "source": "Al Jazeera",
-   "title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
-   "description": "Cal-Maine reports avian influenza at Florida site, with 2.7 percent of its total flock affected.",
-   "url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak?traffic_source=rss",
-   "date": "2026-11-18T15:57:35+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "3b976e1086e0",
-   "source": "Al Jazeera",
-   "title": "Pax Silica is the new face of US imperialism in the Philippines",
-   "description": "Behind promises of jobs and investment lie threats to ancestral lands, water security and national sovereignty.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/18/pax-silica-is-the-new-face-of-us-imperialism-in-the-philippines?traffic_source=rss",
-   "date": "2026-11-18T15:57:20+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "be49b8df84db",
    "source": "Deutsche Welle",
    "title": "Advierten de nueva vulnerabilidad global: esta vez es Java",
@@ -829,16 +869,6 @@
    "url": "https://www.dw.com/es/advierten-de-nueva-vulnerabilidad-global-esta-vez-es-java/a-79983803?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-18T15:56:00+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "2582be1143c2",
-   "source": "Al Jazeera",
-   "title": "Never played, already gone. JJ Gabriel leaves Man United",
-   "description": "Teenage football star JJ Gabriel has made a cinematic farewell to Manchester United fans.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/never-played-already-gone-jj-gabriel-leaves-man-united?traffic_source=rss",
-   "date": "2026-11-18T15:50:43+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1009,16 +1039,6 @@
    "url": "https://www.france24.com/es/programas/deportes/20261118-ueno-bank-arrastra-al-f%C3%BAtbol-paraguayo-jugadores-clubes-y-conmebol",
    "date": "2026-11-18T13:46:07+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "d769287350d1",
-   "source": "France 24",
-   "title": "Cumbre APEC: Trump es recibido por Xi Jinping y estrecha la mano con Putin",
-   "description": "En un gesto inédito, el presidente chino Xi Jinping recibió en la pista del aeropuerto de Shenzhen a su homólogo estadounidense Donald Trump, en su llegada a China para participar de la cumbre de la APEC. Trump también tuvo un primer saludo con el mandatario ruso Vladímir Putin, ",
-   "url": "https://www.france24.com/es/cumbre-apec-trump-es-recibido-por-xi-jinping-y-estrecha-la-mano-con-putin",
-   "date": "2026-11-18T13:43:41+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -1259,16 +1279,6 @@
    "url": "https://www.bbc.com/mundo/articles/c6y498pd1q54o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-18T00:55:45+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "b2491488cd37",
-   "source": "Ex-Ante",
-   "title": "Lo que hay tras la petición de renuncia del PS a Quiroz y el rol protagónico de la dupla Manouchehri-Cicardini",
-   "description": "El comité central, máximo organismo del PS, mandató una declaración que exige la salida del ministro de Hacienda, situando al partido en la vereda del…",
-   "url": "https://www.ex-ante.cl/politica/ps-renuncia-quiroz-manouchehri-cicardini/",
-   "date": "2026-11-18T00:38:11+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
