@@ -1,21 +1,81 @@
 {
- "updated": "2026-11-18T05:57:20.979774+00:00",
+ "updated": "2026-11-18T07:06:03.136685+00:00",
  "items": [
+  {
+   "id": "2d2c2daa303a",
+   "source": "The Guardian",
+   "title": "Bikie ‘not surprised’ if he used fake $20,000 souvlaki invoice to pocket thousands on Big Build site, inquiry hears",
+   "description": "Royal commission sees text message where Bandidos member Joel Leavitt says ‘just make up a quote that hits 20K’ while working on site for CFMEU Get our breaking news email , free app or daily news podcast A Bandidos gang member says it is possible he used a fake $20,000 invoice f",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
+   "date": "2026-11-18T06:48:28+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "a0f476298362",
    "source": "The Guardian",
    "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
    "description": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Put",
    "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T05:26:06+00:00",
+   "date": "2026-11-18T06:43:12+00:00",
    "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "8355e33d259c",
+   "source": "Al Jazeera",
+   "title": "Africa’s economic future cannot depend on Washington",
+   "description": "Trump's move to exclude South Africa and Rwanda from AGOA shows why Africa must accelerate its own economic integration.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss",
+   "date": "2026-11-18T06:22:59+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "41af03d81a20",
+   "source": "Al Jazeera",
+   "title": "How the Houthis fund war effort and tighten grip on Yemen",
+   "description": "The Houthis’ expanding war economy fuels military recruitment while poverty deepens and public services deteriorate.",
+   "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
+   "date": "2026-11-18T06:19:17+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "fd5a0cb31248",
+   "source": "The Guardian",
+   "title": "‘Deeply concerning’: NHS in England reports more than 3,000 incidents of staff snooping on patients’ records",
+   "description": "Campaign groups and regulators say data breaches are distressing for patients and families and erode trust in the health service The NHS in England has recorded more than 3,000 incidents of staff inappropriately snooping on patients’ medical records in the last five years. Patien",
+   "url": "https://www.theguardian.com/society/2026/nov/18/nhs-england-staff-snooping-patients-records",
+   "date": "2026-11-18T06:00:34+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "b8f6d01c54e2",
+   "source": "The Guardian",
+   "title": "How to deal with a class difference in friendships? Make fun of your privileged friends",
+   "description": "Lasting cross-class friendships involve routinely ‘taking the piss’ out of the more privileged party, research by the LSE shows Routinely “taking the piss” out of more privileged friends is one of the main ways people cope with a class difference in their friendships, research ha",
+   "url": "https://www.theguardian.com/inequality/2026/nov/18/class-difference-friendships-research-lse",
+   "date": "2026-11-18T06:00:32+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "00874b761836",
+   "source": "Al Jazeera",
+   "title": "What’s in the air you breathe? How to stay safe during smog season",
+   "description": "India and Pakistan had 42 of the world’s 50 most polluted cities in 2025. Millions now face another toxic winter.",
+   "url": "https://www.aljazeera.com/news/2026/11/18/whats-in-the-air-you-breathe-how-to-stay-safe-during-smog-season-2?traffic_source=rss",
+   "date": "2026-11-18T05:55:08+00:00",
+   "category": "China y Asia",
    "type": "Prensa"
   },
   {
    "id": "c60b22054633",
    "source": "Al Jazeera",
    "title": "Rafael Grossi wants to be UN chief. Will Trump’s support nuke his chances?",
-   "description": "Nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
+   "description": "The nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
    "url": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
    "date": "2026-11-18T05:24:02+00:00",
    "category": "Estados Unidos y Canadá",
@@ -89,16 +149,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/18/waymo-suspends-driverless-freeway-rides-across-us-after-california-ban?traffic_source=rss",
    "date": "2026-11-18T04:58:02+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "2d2c2daa303a",
-   "source": "The Guardian",
-   "title": "Bikie ‘not surprised’ if he used fake $20,000 souvlaki invoice to pocket thousands on Big Build site, inquiry hears",
-   "description": "Royal commission sees text message where Bandidos member Joel Leavitt says ‘just make up a quote that hits 20K’ while working on site for CFMEU Get our breaking news email , free app or daily news podcast A Bandidos gang member says it is possible he used a fake $20,000 invoice f",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
-   "date": "2026-11-18T04:42:07+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -244,7 +294,7 @@
   {
    "id": "ecd14cca8511",
    "source": "Al Jazeera",
-   "title": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
+   "title": "Nvidia dismisses calls to reinstate Jensen Huang amid blockbuster earnings",
    "description": "Nvidia board chair says chip giant 'does not intend' to reinstate Huang as it projects revenues of $130bn in Q4.",
    "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
    "date": "2026-11-18T03:00:22+00:00",
@@ -404,7 +454,7 @@
   {
    "id": "3f44f6a0a478",
    "source": "The Guardian",
-   "title": "Sleeve checks and no smartglasses: South Korea races to protect all-important university exams against AI",
+   "title": "South Korea’s high-stakes university exams upended by AI cheating scandal",
    "description": "South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams The integrity of South Korea’s career-defining university entrance exam has been thrown into doubt after the top scorer in a ",
    "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
    "date": "2026-11-18T02:03:27+00:00",
@@ -692,26 +742,6 @@
    "type": "Prensa"
   },
   {
-   "id": "fdc4383c6fc9",
-   "source": "The Guardian",
-   "title": "Shabana Mahmood to launch fast-track training to improve police leadership",
-   "description": "After damning report into standards at the top of forces in England and Wales, 200 people a year with superintendent potential to be recruited Hundreds of people will be trained to boost “frankly inadequate” leadership of law enforcement, the home secretary is to say. Shabana Mah",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/18/shabana-mahmood-fast-track-training-police-leadership",
-   "date": "2026-11-18T00:01:26+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "4aebd532a48e",
-   "source": "The Guardian",
-   "title": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
-   "description": "Analysts say mooted move to let more petrol and diesel vehicles be sold would wreck plan to reach net zero by 2050 Weakening the UK’s electric car sales rules would probably cause the government to miss legally binding climate targets, according to advisers tracking Britain’s pro",
-   "url": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
-   "date": "2026-11-18T00:01:26+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "9a4cd5c37dfd",
    "source": "The Guardian",
    "title": "Brexit work travel rules need urgent improvement, say UK business leaders",
@@ -719,16 +749,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/18/brexit-work-travel-rules-urgent-improvement-cbi",
    "date": "2026-11-18T00:01:25+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "40cdd354116f",
-   "source": "Al Jazeera",
-   "title": "Iran war live: Bahrain, Kuwait intercept attacks, Manama blames Iran",
-   "description": "Bahrain slams 'criminal' Iranian attacks as Tehran says it targeted a US base in Kuwait.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
-   "date": "2026-11-18T00:00:27+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -742,16 +762,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e774846fdf1b",
-   "source": "Al Jazeera",
-   "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
-   "description": "Kuwait's military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.",
-   "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
-   "date": "2026-11-17T23:38:38+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "c5254ab63ae6",
    "source": "CIPER Chile",
    "title": "Comisión investigadora de gestión de Steinert enviará antecedentes a la fiscalía; CGR detecta a 315 funcionarios públicos con condenas vigentes, y piden explicaciones a ministra Lincolao por acuerdo con OpenAI",
@@ -759,16 +769,6 @@
    "url": "https://www.ciperchile.cl/2026/11/17/radar-17-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-17-11-26",
    "date": "2026-11-17T23:34:35+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "3fe07bb07981",
-   "source": "Al Jazeera",
-   "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
-   "description": "Eisenkot’s bloc has pledged to undo some of Netanyahu’s most contentious domestic policies following Kahana’s election.",
-   "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
-   "date": "2026-11-17T23:28:54+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
