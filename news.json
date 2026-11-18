@@ -1,24 +1,134 @@
 {
- "updated": "2026-11-18T10:57:27.547310+00:00",
+ "updated": "2026-11-18T11:56:08.995365+00:00",
  "items": [
+  {
+   "id": "e81694e9c025",
+   "source": "BBC Mundo",
+   "title": "No podíamos pagar una casa para nuestra familia, así que compramos una con desconocidos",
+   "description": "Hay personas y familias en Canadá que no pueden permitirse adquirir una vivienda por sus precios elevados y buscan cómo asociarse a otros que estén en su misma situación.",
+   "url": "https://www.bbc.com/mundo/articles/cmzx95xnwdd6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T11:50:32+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "057418a7f058",
+   "source": "Radio Cooperativa",
+   "title": "Harry Styles, Billie Eilish y Cher encabezan el Festival Glastonbury 2027",
+   "description": "Harry Styles debutará en el festival de música de Glastonbury como uno de los cabezas de cartel en 2027, junto a Sam Fender, Billie Eilish y Cher como las otras estrellas. Tras una pausa en 2026 a fin de que el terreno pueda regenerarse, este famoso festival al aire libre regresa",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/harry-styles-billie-eilish-y-cher-encabezan-el-festival-glastonbury-2027/2026-11-18/084446.html",
+   "date": "2026-11-18T11:44:46+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "8c20492ec7bf",
+   "source": "The Guardian",
+   "title": "‘Many’ Tory votes would switch to Labour if it committed to rejoining EU, claims Lammy – UK politics live",
+   "description": "Former foreign secretary has urged Andy Burnham to make rejoining a manifesto commitment Lammy urges Burnham to fight next election on rejoining EU In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programm",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "date": "2026-11-18T11:39:53+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "a0f476298362",
    "source": "The Guardian",
    "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech",
    "description": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Put",
    "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T10:38:51+00:00",
+   "date": "2026-11-18T11:39:42+00:00",
    "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
-   "id": "8c20492ec7bf",
+   "id": "f784fc765526",
+   "source": "BBC Mundo",
+   "title": "Encuentran una falla crítica en Java, el tercer lenguaje de programación más utilizado en el mundo del que dependen el 90% de las grandes compañías",
+   "description": "La misma empresa tecnológica emergente que descubrió una vulnerabilidad en PHP utilizó inteligencia artificial para descubrir un fallo crítico de software en uno de los lenguajes de programación más populares del mundo.",
+   "url": "https://www.bbc.com/mundo/articles/cwvg2enzxdm9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T11:28:37+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "dc6a5cd31cde",
+   "source": "BBC Mundo",
+   "title": "El disco de oro con mensajes para los extraterrestres que transporta la sonda Voyager 1 (y cómo podrán descifrarlo)",
+   "description": "Las sondas Voyager 1 y Voyager 2 fueron lanzadas al espacio con discos de oro que contienen mensajes para civilizaciones extraterrestres.",
+   "url": "https://www.bbc.com/mundo/articles/ck1l0v4yy6p0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T11:27:58+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "0eb0e8f267bf",
+   "source": "BBC Mundo",
+   "title": "El gran hito del Voyager, el objeto fabricado por la humanidad que más lejos llega en el espacio al viajar un día luz",
+   "description": "Casi 50 años después de su lanzamiento, una de las sondas gemelas de la misión Voyager alcanzó una distancia de un día luz con respecto a nosotros y sigue enviando valiosos datos.",
+   "url": "https://www.bbc.com/mundo/articles/cmgrewv5zxqro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T11:24:51+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "759dca7406f1",
+   "source": "Radio Cooperativa",
+   "title": "Isco sobre el Betis de Pellegrini: \"Es el más completo desde que estoy aquí\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El capitán de Real Betis, Isco Alarcón, manifestó este miércoles en vísperas del derbi del sábado ante Sevilla en el Estadio \"Ramón Sánchez Pizjuán\" que, \"en cuanto a jugadores\", es el equipo \"más completo\" desde que llegó ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-espanola/isco-sobre-el-betis-de-pellegrini-es-el-mas-completo-desde-que-estoy/2026-11-18/082437.html",
+   "date": "2026-11-18T11:24:37+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "aa696f8e6395",
+   "source": "Radio Cooperativa",
+   "title": "Carabinero de franco repelió a disparos intento de encerrona en Puente Alto",
+   "description": "Un carabinero de franco repelió a disparos un intento de encerrona contra una conductora la noche del martes, en la comuna de Puente Alto. El hecho ocurrió cerca de las 23:00 horas, en Gabriela Oriente con Diego Portales , mientras la víctima se encontraba estacionada frente a va",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/robo-de-vehiculos/carabinero-de-franco-repelio-a-disparos-intento-de-encerrona-en-puente/2026-11-18/081532.html",
+   "date": "2026-11-18T11:15:32+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "be227cc3ec6c",
+   "source": "Radio Cooperativa",
+   "title": "APEC: Kast vio exposición de Xi en primera fila y le dio enérgico apretón de manos",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/economia/foros-internacionales/apec/apec-kast-vio-exposicion-de-xi-en-primera-fila-y-le-dio-energico/2026-11-18/081201.html",
+   "date": "2026-11-18T11:12:01+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9a376fc68f54",
    "source": "The Guardian",
-   "title": "Shabana Mahmood pledges to tackle ‘corrosive and growing perception of two-tier policing’ – UK politics live",
-   "description": "Home secretary to give speech to National Police Chiefs’ Council addressing concerns that officers treats groups differently The Conservatives and Reform UK do not seem very impressed by Shabana Mahmood’s proposal to meet their concerns about two-tier policing. This is from Nick ",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-   "date": "2026-11-18T10:38:47+00:00",
+   "title": "Yvette Cooper announces new health support for most vulnerable people in England",
+   "description": "Health secretary says 500,000 will benefit initially from ‘downpayment’ on PM’s national care service pledge UK politics live – latest updates Half a million of the most vulnerable people in England will get proactive help with their health needs from new teams that will act as a",
+   "url": "https://www.theguardian.com/society/2026/nov/18/yvette-cooper-health-support-vulnerable-people-england",
+   "date": "2026-11-18T11:08:32+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d2b2eddb65a5",
+   "source": "Radio Cooperativa",
+   "title": "Hombre murió tras ser atacado a disparos en San Ramón",
+   "description": "Un hombre murió tras ser baleado en plena vía pública la madrugada de este miércoles, en la población La Bandera de la comuna de San Ramón. Según antecedentes preliminares, mientras la víctima estaba dentro de un vehículo estacionado en calle San Francisco , desconocidos lo ataca",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/homicidios/hombre-murio-tras-ser-atacado-a-disparos-en-san-ramon/2026-11-18/080040.html",
+   "date": "2026-11-18T11:00:40+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "92bd2e7dbaf4",
+   "source": "Radio Cooperativa",
+   "title": "Cortesía por cortesía: Xi Jinping recibió a Trump al pie de su avión",
+   "description": "En un gesto protocolar más cálido de lo habitual , el presidente Xi Jinping recibió este miércoles a Donald Trump a los pies de la escalera del Air Force One a su llegada a la ciudad china de Shenzhen , y después lo abrazó. Xi esperó a los pies de la escalinata del avión que traí",
+   "url": "https://www.cooperativa.cl/noticias/mundo/china/cortesia-por-cortesia-xi-jinping-recibio-a-trump-al-pie-de-su-avion/2026-11-18/074402.html",
+   "date": "2026-11-18T10:44:02+00:00",
+   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -84,7 +194,7 @@
   {
    "id": "d35e8c7d2591",
    "source": "The Guardian",
-   "title": "Fears grow over US sanctions on ICJ judges ahead of Myanmar genocide ruling",
+   "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
    "description": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay , if the court rules on ",
    "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
    "date": "2026-11-18T09:58:28+00:00",
@@ -312,16 +422,6 @@
    "type": "Prensa"
   },
   {
-   "id": "15d13696004c",
-   "source": "The Guardian",
-   "title": "Body found in Derry bog decapitated more than 2,000 years ago, coroner finds",
-   "description": "Inquest-style inquiry concludes iron age remains are of 15- to 22-year-old female who may have been ritually sacrificed A coroner’s investigation into Northern Ireland ’s most venerable cold case has concluded that the victim was decapitated more than 2,000 years ago. The inquest",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/18/ballymacombs-more-woman-derry-bog-decapitated-2000-years-ago",
-   "date": "2026-11-18T08:00:36+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "b44cf363822a",
    "source": "The Guardian",
    "title": "‘I didn’t notice his body being purple’: Byron Bay doula left newborn to inflate a jumping castle, court hears",
@@ -522,26 +622,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2bf00048c101",
-   "source": "Radio Cooperativa",
-   "title": "Loyola defendió a Córdova: \"Estamos muy agradecidos del trabajo que hizo con nosotros\"",
-   "description": "Felipe Loyola , polifuncional volante de La Roja, defendió el trabajo de Nicolás Córdova tras el empate sin goles en el amistoso ante Colombia , y afirmó que el equipo nacional tuvo grandes mejorías gracias al entrenador. \"Estamos muy agradecidos del trabajo que hizo Nico con nos",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/loyola-defendio-a-cordova-estamos-muy-agradecidos-del-trabajo-que-hizo/2026-11-18/000631.html",
-   "date": "2026-11-18T03:06:31+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "3311a2264d09",
-   "source": "Radio Cooperativa",
-   "title": "Córdova valoró su proceso: Lo positivo fue atreverse a hacer un recambio",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-valoro-su-proceso-lo-positivo-fue-atreverse-a-hacer-un-recambio/2026-11-18/000257.html",
-   "date": "2026-11-18T03:02:57+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "4542e623bbae",
    "source": "France 24",
    "title": "¿Qué hay detrás de las recientes interrupciones informáticas en Estados Unidos?",
@@ -559,26 +639,6 @@
    "url": "https://www.france24.com/es/video/20261118-una-filtraci%C3%B3n-masiva-de-documentos-vuelve-a-vincular-a-deutsche-bank-con-jeffrey-epstein",
    "date": "2026-11-18T02:38:16+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "fc6256325e8f",
-   "source": "Radio Cooperativa",
-   "title": "Ortiz y su continuidad en Colo Colo: En estos días nos pondremos de acuerdo en los detalles que faltan",
-   "description": "Fernando Ortiz, técnico de Colo Colo, volvió a hablar sobre su renovación y afirmó que solo quedan detalles que debe tratar con el presidente de Blanco y Negro, Aníbal Mosa , para sellar su continuidad en el club. \"Estamos hablando con Aníbal, y hemos dicho los dos que vamos por ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-y-su-continuidad-en-colo-colo-en-estos-dias-nos-pondremos-de/2026-11-17/233807.html",
-   "date": "2026-11-18T02:38:07+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a47a4e6961c5",
-   "source": "Radio Cooperativa",
-   "title": "Córdova: Me encantaría que pudiese venir Pellegrini y coronar su carrera llevándonos a un Mundial",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Nicolás Córdova, entrenador de la selección chilena adulta de fútbol, hizo un recuento del 2026 tras cerrar el año con un empate frente a Colombia y apuntó su futuro en la banca de La Roja, y señaló que la posta debería tom",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cordova-me-encantaria-que-pudiese-venir-pellegrini-y-coronar-su-carrera/2026-11-17/233637.html",
-   "date": "2026-11-18T02:36:37+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -602,16 +662,6 @@
    "type": "Prensa"
   },
   {
-   "id": "632c9069a12e",
-   "source": "Radio Cooperativa",
-   "title": "Vicente Pizarro y la opción de Pellegrini en La Roja: \"Es un referente a nivel país\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Tras la igualdad sin goles frente a Colombia en el Estadio Monumental, el volante nacional Vicente Pizarro repasó el presente de La Roja en su último compromiso de 2026 y abordó la opción de la llegada de Manuel Pellegrini ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/vicente-pizarro-y-la-opcion-de-pellegrini-en-la-roja-es-un-referente-a/2026-11-17/232710.html",
-   "date": "2026-11-18T02:27:10+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "69e83476e8fa",
    "source": "France 24",
    "title": "Cisjordania: mujer palestina de 72 años muere en ataque de colonos israelíes",
@@ -629,16 +679,6 @@
    "url": "https://www.france24.com/es/video/20261118-informe-desde-shenzhen-la-apec-arranca-con-la-mirada-puesta-en-trump-xi-y-putin",
    "date": "2026-11-18T02:20:59+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "68d18ac128de",
-   "source": "Radio Cooperativa",
-   "title": "Argentina rechaza la visita de la princesa británica Ana a las islas Malvinas",
-   "description": "El Gobierno de Argentina expresó este martes su rechazo a la visita de la princesa Ana, de la Casa Real británica, a las islas Malvinas, bajo administración del Reino Unido y cuya soberanía reclama el país suramericano. \"El Gobierno argentino rechaza el despliegue de actividades ",
-   "url": "https://www.cooperativa.cl/noticias/mundo/argentina/argentina-rechaza-la-visita-de-la-princesa-britanica-ana-a-las-islas/2026-11-17/232017.html",
-   "date": "2026-11-18T02:20:17+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -662,26 +702,6 @@
    "type": "Prensa"
   },
   {
-   "id": "bc9ba5b8eb83",
-   "source": "Radio Cooperativa",
-   "title": "\"Only Murders in the Building\" se traslada a Londres: cuándo se estrena la sexta temporada",
-   "description": "La exitosa serie de comedia y misterio \"Only Murders in the Building\" reveló un adelanto de su sexta temporada , que llevará a sus protagonistas fuera de Nueva York para enfrentar un nuevo caso, esta vez en Londres. Este martes, Hulu dio a conocer el tráiler y el póster oficial d",
-   "url": "https://www.cooperativa.cl/noticias/magazine/streaming/only-murders-in-the-building-se-traslada-a-londres-cuando-se-estrena/2026-11-17/225851.html",
-   "date": "2026-11-18T01:58:51+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "cb45205635a0",
-   "source": "Radio Cooperativa",
-   "title": "Milad defendió la gestión de Córdova en La Roja: Le dio oportunidad a los jóvenes",
-   "description": "Pablo Milad , presidente de la ANFP, atendió a los medios tras el empate de La Roja ante Colombia en el Monumental y respaldó el interinato de Nicolás Córdova al mismo tiempo que descartó liderar la búsqueda del próximo seleccionador. \" Córdova le dio la oportunidad a jóvenes que",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/milad-defendio-la-gestion-de-cordova-en-la-roja-le-dio-oportunidad-a/2026-11-17/225829.html",
-   "date": "2026-11-18T01:58:29+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "048b8794a775",
    "source": "Deutsche Welle",
    "title": "El cacique brasileño Raoni Metuktire recibe alta médica tras cinco días hospitalizado",
@@ -689,16 +709,6 @@
    "url": "https://www.dw.com/es/el-cacique-brasileño-raoni-metuktire-recibe-alta-médica-tras-cinco-días-hospitalizado/a-79975904?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-18T01:46:00+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "0ee3e893b99a",
-   "source": "Radio Cooperativa",
-   "title": "¿A Viña 2027? La Ley sorprendió con enigmático mensaje que apunta a un posible regreso",
-   "description": "La banda La Ley generó expectación entre sus seguidores l uego de compartir un enegmático posteo, que despertó rumores sobre un eventual regreso a los escenarios y una posible presentación en el Festival de Viña del Mar 2027. A través de redes sociales, el grupo publicó una anima",
-   "url": "https://www.cooperativa.cl/noticias/magazine/festival-de-vina/a-vina-2027-la-ley-sorprendio-con-enigmatico-mensaje-que-apunta-a-un/2026-11-17/222712.html",
-   "date": "2026-11-18T01:27:12+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -759,6 +769,16 @@
    "url": "https://www.france24.com/es/video/20261118-informe-desde-par%C3%ADs-qu%C3%A9-motiva-a-los-empleados-p%C3%BAblicos-a-protestar-en-francia",
    "date": "2026-11-18T00:46:14+00:00",
    "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "382d5460540e",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo volverá a jugar la selección chilena?",
+   "description": "La selección chilena , tras los dos amistosos con Colombia en noviembre, cerró su 2026 y volverá a la acción en la próxima fecha FIFA, que será en marzo del próximo año. De acuerdo al calendario de la FIFA, la ventana de partidos internacionales, reservado para todas las confered",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-volvera-a-jugar-la-seleccion-chilena/2026-11-17/214427.html",
+   "date": "2026-11-18T00:44:27+00:00",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -829,16 +849,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/18/brexit-work-travel-rules-urgent-improvement-cbi",
    "date": "2026-11-18T00:01:25+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "dc6a5cd31cde",
-   "source": "BBC Mundo",
-   "title": "El disco de oro con mensajes para los extraterrestres que transporta la sonda Voyager 1 (y cómo podrán descifrarlo)",
-   "description": "Las sondas Voyager 1 y Voyager 2 fueron lanzadas al espacio con discos de oro que contienen mensajes para civilizaciones extraterrestres.",
-   "url": "https://www.bbc.com/mundo/articles/ck1l0v4yy6p0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T23:39:46+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -919,6 +929,16 @@
    "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
    "date": "2026-11-17T22:30:17+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "afbd14d665df",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver el debut de La Roja en el Mundial Sub 17 en Catar?",
+   "description": "La selección chilena sub 17 dará inicio a su periplo por el Mundial de la categoría este sábado 21 de noviembre ante su símil de Argelia en el Aspire Dome de Rayán, en Catar, por la primera fecha del Grupo J. El partido está programado para las 12:30 horas (15:30 GMT) y será tran",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mundial-sub-17/cuando-y-donde-ver-el-debut-de-la-roja-en-el-mundial-sub-17-en-catar/2026-11-17/192528.html",
+   "date": "2026-11-17T22:25:28+00:00",
+   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -1219,16 +1239,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
    "date": "2026-11-17T17:30:40+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "0eb0e8f267bf",
-   "source": "BBC Mundo",
-   "title": "El gran hito del Voyager, el objeto fabricado por la humanidad que más lejos llega en el espacio al viajar un día luz",
-   "description": "Casi 50 años después de su lanzamiento, una de las sondas gemelas de la misión Voyager está a punto de alcanzar una distancia de un día luz con respecto a nosotros y sigue enviando valiosos datos.",
-   "url": "https://www.bbc.com/mundo/articles/cmgrewv5zxqro?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T17:21:46+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -1562,16 +1572,6 @@
    "type": "Prensa"
   },
   {
-   "id": "90e5103b5bd3",
-   "source": "Radio Cooperativa",
-   "title": "[Radio en vivo🎙] Las reacciones tras el empate de La Roja y Colombia en el Monumental",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La selección chilena de Nicolás Córdova culmina su 2026 con su segundo amistoso ante Colombia, este martes 17 de noviembre. Síguelo en Cooperativa.cl: Chile 0-0 Colombia , Finalizado. Estadio Monumental. Sigue el Marcador V",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/radio-en-vivo-las-reacciones-tras-el-empate-de-la-roja-y-colombia-en/2026-11-16/135815.html",
-   "date": "2026-11-16T16:58:15+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "6065328773ab",
    "source": "Deutsche Welle",
    "title": "La COP31 pedirá \"acelerar la eliminación\" de los combustibles fósiles",
@@ -1678,16 +1678,6 @@
    "description": "Charlie Clarke, de 23 años, afirma que los efectos físicos y emocionales del pectus excavatum han sido \"inimaginables\".",
    "url": "https://www.bbc.com/mundo/articles/cr15e9qjnxdgo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-16T12:49:59+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "45179a8c8eb9",
-   "source": "BBC Mundo",
-   "title": "3 poco conocidas disputas limítrofes dentro de países de América Latina (y por qué algunas se han recrudecido)",
-   "description": "En Argentina, México y Bolivia se dan algunas de las disputas entre regiones donde todavía no están resueltos los límites internos.",
-   "url": "https://www.bbc.com/mundo/articles/cx7vpv49en34o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T12:04:57+00:00",
    "category": "América Latina",
    "type": "Prensa"
   },
@@ -2102,16 +2092,6 @@
    "type": "Oficial"
   },
   {
-   "id": "cb8ebc40479f",
-   "source": "BBC Mundo",
-   "title": "4 claves del escándalo de los supuestos \"sexocontratos\" por el que se investiga al expresidente de Colombia Gustavo Petro",
-   "description": "Una mujer acusa al expresidente de haberle conseguido contratos con el estado a cambio de favores sexuales.",
-   "url": "https://www.bbc.com/mundo/articles/cr3wg62qwjz9o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-12T11:59:08+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "184f1aab7a26",
    "source": "Estudios Públicos (CEP)",
    "title": "Lanzamiento de libro: Hacia una biblioteca de libertad.",
@@ -2462,6 +2442,16 @@
    "type": "Oficial"
   },
   {
+   "id": "3907db38e945",
+   "source": "Radio Cooperativa",
+   "title": "El campeón estrena el título: La programación de la fecha 28 de la Liga de Primera",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La ANFP dio a conocer la programación de la fecha 28 de la Liga de Primera, que se disputará entre el 20 y 22 de noviembre, y que tendrá como duelo estelar el clásico entre Colo Colo, campeón, y Universidad Católica en el E",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/el-campeon-estrena-el-titulo-la-programacion-de-la-fecha-28-de-la-liga/2026-11-08/214949.html",
+   "date": "2026-11-09T00:49:49+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "4896b0a3b140",
    "source": "Organización Mundial del Comercio",
    "title": "Alemania dona EUR 500.000 para reforzar la capacidad comercial de las economías en desarrollo",
@@ -2602,16 +2592,6 @@
    "type": "Oficial"
   },
   {
-   "id": "34769db6c7d8",
-   "source": "Organización Mundial del Comercio",
-   "title": "La UE inicia una investigación en materia de salvaguardias relativa a determinados vehículos híbridos nuevos",
-   "description": "El 30 de octubre de 2026, la Unión Europea notificó al Comité de Salvaguardias de la OMC que ese mismo día (30 de octubre de 2026) había iniciado una investigación en materia de salvaguardias relativa a las importaciones de determinados vehículos híbridos nuevos.",
-   "url": "https://www.wto.org/spanish/news_s/news26_s/safe_eec_02nov26_536_s.htm",
-   "date": "2026-11-02T00:00:00+00:00",
-   "category": "Comercio internacional",
-   "type": "Oficial"
-  },
-  {
    "id": "aceaa3f9248a",
    "source": "Organización Mundial de la Salud",
    "title": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
@@ -2620,6 +2600,16 @@
    "date": "2026-10-10T07:49:45+00:00",
    "category": "",
    "type": "Oficial"
+  },
+  {
+   "id": "dbbc4dc71f68",
+   "source": "Radio Cooperativa",
+   "title": "Cartelera de conciertos 2026 en Chile",
+   "description": "CONCIERTOS 2026 EN CHILE CONCIERTOS NOVIEMBRE 2026 1 de noviembre - Iron Maiden - Estadio Nacional - Entradas 1 de noviembre - Alex Serra y Totidub - Club Chocolate - Entradas 1 de noviembre - Opeth - Santander Arena - Entradas 1 de noviembre - Nicole - Teatro Municipal Valparaís",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html",
+   "date": "2025-12-01T11:21:52+00:00",
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "9745c15368a2",
