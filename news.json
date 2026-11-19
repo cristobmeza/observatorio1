@@ -1,6 +1,126 @@
 {
- "updated": "2026-11-19T19:58:33.512715+00:00",
+ "updated": "2026-11-19T20:50:55.517792+00:00",
  "items": [
+  {
+   "id": "962ce1390b93",
+   "source": "Radio Cooperativa",
+   "title": "La Unión de Federaciones Árabes apoyó a Infantino para otro mandato al frente de la FIFA",
+   "description": "La Unión de Federaciones Árabes (UAFA) anunció este jueves su apoyo a la candidatura del actual presidente de la FIFA, Gianni Infantino, para un nuevo mandato al frente del organismo rector del fútbol mundial durante el periodo 2027-2031. En un comunicado, la UAFA, compuesta por ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/la-union-de-federaciones-arabes-apoyo-a-infantino-para-otro-mandato-al/2026-11-19/174043.html",
+   "date": "2026-11-19T20:40:43+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "cafe0c524a75",
+   "source": "BBC Mundo",
+   "title": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba \"la burbuja\" de la IA y la posibilidad de que estalle",
+   "description": "La empresa quedó situada entre las 10 empresas estadounidenses más valoradas en el mercado bursátil, pero su futuro es incierto.",
+   "url": "https://www.bbc.com/mundo/articles/cqm2ln990v10o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T20:34:12+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "2ed4f5bfbadb",
+   "source": "Radio Cooperativa",
+   "title": "Unión Española contra la Corporación: El Santa Laura se llamará Estadio Universidad SEK",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Unión Española SADP respondió duramente a la Corporación Club Deportivo y Social Unión Española, a la que responsabilizó por la crisis que atraviesa la institución , y anunció que el Estadio Santa Laura pasará a denominarse",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-contra-la-corporacion-el-santa-laura-se-llamara-estadio/2026-11-19/172941.html",
+   "date": "2026-11-19T20:29:41+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "0529d306d1df",
+   "source": "Radio Cooperativa",
+   "title": "Inician certificación de talleres que reciclan neumáticos usados",
+   "description": "El ministro (s) del Medio Ambiente, José Ignacio Vial, participó en la instalación del primer \"Sello Chile Rueda Circular\" en un taller automotriz de Santiago, que certifica que dicha empresa cumple con la normativa sobre la disposición de neumáticos fuera de uso. Según la inicia",
+   "url": "https://www.cooperativa.cl/noticias/pais/medioambiente/inician-certificacion-de-talleres-que-reciclan-neumaticos-usados/2026-11-19/172827.html",
+   "date": "2026-11-19T20:28:27+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "fe999ae8bf44",
+   "source": "Radio Cooperativa",
+   "title": "Tormenta del Pacífico azota California con alertas de lluvias torrenciales e inundaciones",
+   "description": "Un potente sistema de tormentas procedente del Pacífico azota California con lluvias intensas, fuertes vientos y nevadas en las zonas montañosas , mientras el Servicio Meteorológico Nacional (NWS) mantiene avisos de inundaciones repentinas y riesgo de corrientes de lodo y escombr",
+   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/tormenta-del-pacifico-azota-california-con-alertas-de-lluvias/2026-11-19/172804.html",
+   "date": "2026-11-19T20:28:04+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "564ebb2064f7",
+   "source": "Al Jazeera",
+   "title": "What does the Myanmar genocide ruling mean for the Rohingya?",
+   "description": "Rohingya refugees in Bangladesh cheered an International Court of Justice finding that Myanmar committed genocide.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/what-does-the-myanmar-genocide-ruling-mean-for-the-rohingya?traffic_source=rss",
+   "date": "2026-11-19T20:26:09+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "30ef8c3a6b1a",
+   "source": "France 24",
+   "title": "Cumbre entre Trump, Putin y Xi: ¿los líderes se reparten el mundo?",
+   "description": "En nuestra sección 'En Contexto' profundizamos en el encuentro entre Xi Jinping, Donald Trump y Vladimir Putin en China. Mientras se reeditan las hipótesis de un nuevo reparto del mundo en esferas de influencia, políticos y analistas cuestionan la equiparación entre los líderes. ",
+   "url": "https://www.france24.com/es/programas/en-contexto/20261119-cumbre-entre-trump-putin-y-xi-los-l%C3%ADderes-se-reparten-el-mundo",
+   "date": "2026-11-19T20:25:51+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "7190acd6e5d2",
+   "source": "France 24",
+   "title": "Fallo histórico de la CIJ: Myanmar cometió genocidio contra los rohingyas",
+   "description": "La Corte Internacional de Justicia (CIJ) emitió un fallo histórico al concluir que Myanmar cometió genocidio contra la minoría musulmana rohinyá durante la campaña militar de 2016 y 2017 en el estado de Rakhine. La decisión responde a una demanda presentada por Gambia, cuyo gobie",
+   "url": "https://www.france24.com/es/video/20261119-fallo-hist%C3%B3rico-de-la-cij-myanmar-cometi%C3%B3-genocidio-contra-los-rohingyas",
+   "date": "2026-11-19T20:16:13+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "9afd2885c235",
+   "source": "Radio Cooperativa",
+   "title": "Golpe a San Luis: Juárez recibió duro castigo antes de la final del Ascenso",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes San Luis de Quillota recibió un duro golpe de cara a la final de la Liga de Ascenso ante Cobreloa , luego de que el Tribunal Autónomo de Disciplina de la ANFP sancionó con tres partidos de suspensión al futbolista argentino",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/golpe-a-san-luis-juarez-recibio-duro-castigo-antes-de-la-final-del/2026-11-19/170855.html",
+   "date": "2026-11-19T20:08:55+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "014f6871e94e",
+   "source": "Radio Cooperativa",
+   "title": "U. de Chile celebró 184 años y apuntó a recortes presupuestarios",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/educacion/universidades/u-de-chile-celebro-184-anos-y-apunto-a-recortes-presupuestarios/2026-11-19/170846.html",
+   "date": "2026-11-19T20:08:46+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9020dfe5ee45",
+   "source": "The Guardian",
+   "title": "Grand Theft Auto fans skip work and pull all-nighters to play new instalment",
+   "description": "Hotly anticipated Bonnie and Clyde-inspired adventure GTA VI has gamers glued to their screens around the world Grand Theft Auto fans around the world pulled all-nighters, skipped work and school, and attended overnight launch parties to vicariously embark on police chases and co",
+   "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
+   "date": "2026-11-19T20:07:23+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "aa0b916fb90b",
+   "source": "Radio Cooperativa",
+   "title": "\"EtMday\": el hub europeo conecta a startups chilenas con fondos globales",
+   "description": "En el marco de una nueva versión del Encuentro Internacional de Innovación, Emprendimiento e Inversión \"Emprende tu Mente\" (EtMday) realizado en Santiago, delegaciones internacionales y ecosistemas de emprendimiento consolidaron un puente estratégico de conexión tecnológica entre",
+   "url": "https://www.cooperativa.cl/noticias/economia/pymes/etmday-el-hub-europeo-conecta-a-startups-chilenas-con-fondos-globales/2026-11-19/170244.html",
+   "date": "2026-11-19T20:02:44+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "88eb3f86adaf",
    "source": "Río en Línea",
@@ -9,6 +129,16 @@
    "url": "https://www.rioenlinea.cl/condenan-a-18-anos-de-carcel-al-autor-del-homicidio-de-ariel-millar-en-valdivia/",
    "date": "2026-11-19T19:57:03+00:00",
    "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "7b238e870a1e",
+   "source": "Al Jazeera",
+   "title": "‘On the same page’: Hegseth hails US ties with Colombia’s de la Espriella",
+   "description": "The US defence secretary praised security cooperation with Colombia as country joins Americas Counter Cartel Coalition.",
+   "url": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
+   "date": "2026-11-19T19:53:24+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -22,6 +152,16 @@
    "type": "Prensa"
   },
   {
+   "id": "ef22b1de8ec7",
+   "source": "Radio Cooperativa",
+   "title": "Funcionarios a contrata se tomaron la Municipalidad de Quilpué en rechazo a modificación presupuestaria",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/funcionarios-a-contrata-se-tomaron-la-municipalidad-de-quilpue-en/2026-11-19/165047.html",
+   "date": "2026-11-19T19:50:47+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "8ca47f55e62c",
    "source": "Radio Cooperativa",
    "title": "De la Espriella enfrenta masiva protesta contra su política económica en Colombia",
@@ -29,6 +169,16 @@
    "url": "https://www.cooperativa.cl/noticias/mundo/colombia/de-la-espriella-enfrenta-masiva-protesta-contra-su-politica-economica-en/2026-11-19/164450.html",
    "date": "2026-11-19T19:44:50+00:00",
    "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "9ac87738f60e",
+   "source": "The Guardian",
+   "title": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
+   "description": "The former Liberal MP had fought a long battle against glioblastoma, an aggressive form of brain cancer Get our daily political email , free app or daily news podcast Former Liberal MP Sharman Stone has died via voluntary assisted dying after spending much of her political career",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
+   "date": "2026-11-19T19:44:24+00:00",
+   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -42,11 +192,21 @@
    "type": "Prensa"
   },
   {
-   "id": "c20b7d95378a",
+   "id": "e6efe93c94af",
    "source": "Radio Cooperativa",
-   "title": "Disney descongeló el tráiler de la \"La Era de Hielo 6\"",
+   "title": "Sumario por hurto y ley Karin: Lincolao explicó despidos previos a renuncia de subsecretaria Rossi",
+   "description": "La ministra de Ciencia, Tecnología e Innovación, Ximena Lincolao , explicó este jueves los motivos detrás de los sumarios y despidos previos ocurridos al interior de la cartera, que marcaron la renuncia de la subsecretaria Carolina Rossi . Las salidas se ejecutaron de manera sorp",
+   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/sumario-por-hurto-y-ley-karin-lincolao-explico-despidos-previos-a/2026-11-19/163849.html",
+   "date": "2026-11-19T19:38:49+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "00a391367591",
+   "source": "Radio Cooperativa",
+   "title": "Disney descongeló el tráiler de \"La Era de Hielo 6\" al ritmo de Backstreet Boys",
    "description": "La manada más extraña de la animación está de regreso en la gran pantalla con su sexta película, \"La Era de Hielo: Mundo de Lava\" (\"Ice Age: Boiling Point\") , la primera entrega de la disparatada franquicia completamente el paraguas de Disney . Al ritmo de \"Everybody (Backstreet'",
-   "url": "https://www.cooperativa.cl/noticias/magazine/cine/animacion/disney-descongelo-el-trailer-de-la-la-era-de-hielo-6/2026-11-19/163612.html",
+   "url": "https://www.cooperativa.cl/noticias/magazine/cine/animacion/disney-descongelo-el-trailer-de-la-era-de-hielo-6-al-ritmo-de/2026-11-19/163612.html",
    "date": "2026-11-19T19:36:12+00:00",
    "category": "",
    "type": "Prensa"
@@ -75,7 +235,7 @@
    "id": "e678d09e40a3",
    "source": "The Guardian",
    "title": "‘Welsh can tell any story’: Cymraeg dub of Star Wars premieres in Cardiff",
-   "description": "Actors Mark Lewis Jones and Osian Morgan, who voiced characters in the dub of the 1977 film, took to the red carpet It has been a memorable few days for Wales. At the weekend, the nation’s rugby team secured a historic win against New Zealand – their first victory over the All Bl",
+   "description": "Actors Mark Lewis Jones and Osian Morgan, who voiced characters in dub of 1977 film, among guests on red carpet It has been a memorable few days for Wales. At the weekend, the men’s rugby team secured a historic win against New Zealand – their first victory over the All Blacks in",
    "url": "https://www.theguardian.com/film/2026/nov/19/welsh-cymraeg-dub-star-wars-cardiff",
    "date": "2026-11-19T19:33:00+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -84,8 +244,8 @@
   {
    "id": "fc6770cee0b8",
    "source": "The Guardian",
-   "title": "Prison authorities consider whether Russell Brand YouTube message breached rules on victim distress",
-   "description": "Ministry of Justice weighs video read out by Brand’s wife as Burnham urges YouTube to remove it The prison authorities are weighing up whether Russell Brand harassed his victims by issuing comments through his wife insisting he was not guilty of rape and sexual assault. As Andy B",
+   "title": "Prison authorities consider whether Russell Brand harassed victims with YouTube message",
+   "description": "Ministry of Justice weighs up comments issued through rapist’s wife as PM asks: ‘Why are we having to hear from him?’ The prison authorities are weighing up whether Russell Brand harassed his victims by issuing comments through his wife insisting he was not guilty of rape and sex",
    "url": "https://www.theguardian.com/news/2026/nov/19/prison-authorities-consider-russell-brand-youtube-message-rules-victim-distress",
    "date": "2026-11-19T19:30:14+00:00",
    "category": "Gobierno y administración pública",
@@ -152,6 +312,16 @@
    "type": "Prensa"
   },
   {
+   "id": "576d371aee18",
+   "source": "Radio Cooperativa",
+   "title": "Muere a los 66 años Larry Poindexter, actor que apareció en \"Friends\"",
+   "description": "El actor estadounidense Larry Poindexter falleció a los 66 años , luego de sufrir un atropello en Los Ángeles, Estados Unidos. La noticia fue confirmada por el portal Deadline , que detalló que el accidente ocurrió el viernes 13 de noviembre, cuando el intérprete cruzaba una call",
+   "url": "https://www.cooperativa.cl/noticias/magazine/television/muere-a-los-66-anos-larry-poindexter-actor-que-aparecio-en-friends/2026-11-19/161621.html",
+   "date": "2026-11-19T19:16:21+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
    "id": "354a8b16a993",
    "source": "Al Jazeera",
    "title": "Man protests on roof of Spanish embassy over Fergie Chambers extradition",
@@ -162,11 +332,11 @@
    "type": "Prensa"
   },
   {
-   "id": "9f909dfb176a",
+   "id": "6c21150435f9",
    "source": "Deutsche Welle",
-   "title": "La foto de Shenzhen: Xi junta a Trump y Putin en cita histórica",
+   "title": "La foto de Shenzhen: Xi junta a Trump y Putin en una cita histórica",
    "description": "Los presidentes de China, EE. UU. y Rusia celebraron una cumbre sin precedentes. Trump afirmó que estaban \"haciendo historia\", Xi calificó las conversaciones de \"fructíferas\" y Putin, de \"abiertas y francas\".",
-   "url": "https://www.dw.com/es/la-foto-de-shenzhen-xi-junta-a-trump-y-putin-en-cita-histórica/a-79997135?maca=spa-rss-sp-all-1122-xml-mrss",
+   "url": "https://www.dw.com/es/la-foto-de-shenzhen-xi-junta-a-trump-y-putin-en-una-cita-histórica/a-79997135?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-19T19:09:00+00:00",
    "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
@@ -209,16 +379,6 @@
    "url": "https://www.bbc.com/mundo/articles/c6n4em0gj88mo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T19:00:58+00:00",
    "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "813d0496702a",
-   "source": "Radio Cooperativa",
-   "title": "Argentina debutó en el Mundial Sub 17 en Catar con derrota ante Australia",
-   "description": "La selección de Argentina se estrenó con una derrota en el Mundial Sub 17 en Catar , tras perder este jueves por 0-2 ante Australia en el Aspire Dome de Rayán, en el marco de la primera fecha del Grupo C. El partido tuvo una insólita polémica, ya que durante un saque de meta, el ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mundial-sub-17/argentina-debuto-en-el-mundial-sub-17-en-catar-con-derrota-ante-australia/2026-11-19/155857.html",
-   "date": "2026-11-19T18:58:57+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -272,16 +432,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4168d5105c73",
-   "source": "Radio Cooperativa",
-   "title": "Kaiser respalda a diputados del PNL ante posible acusación contra Chomali",
-   "description": "El presidente del Partido Nacional Libertario (PNL), Johannes Kaiser , comprometió este jueves el respaldo de su partido a las decisiones que adopten sus diputados, luego de que Hans Marowski planteara la posibilidad de acusar constitucionalmente a la ministra de Salud, May Choma",
-   "url": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/kaiser-respalda-a-diputados-del-pnl-ante-posible-acusacion-contra-chomali/2026-11-19/154453.html",
-   "date": "2026-11-19T18:44:53+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "89484881931f",
    "source": "BBC Mundo",
    "title": "\"Nunca he usado Ozempic. Nunca me he sometido a ninguna cirugía facial\": la actriz Florence Pugh critica las especulaciones sobre su cuerpo",
@@ -289,16 +439,6 @@
    "url": "https://www.bbc.com/mundo/articles/crd61505g31po?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T18:40:35+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "a88cd91e861a",
-   "source": "Radio Cooperativa",
-   "title": "Fernando Zuqui se perfila como titular en Universidad Católica para enfrentar a Colo Colo",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Universidad Católica continúa afinando detalles para el duelo de este fin de semana ante Colo Colo, compromiso en el que la principal novedad en la zona media es el retorno de Fernando Zuqui, quien se perfila como titular e",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/fernando-zuqui-se-perfila-como-titular-en-universidad-catolica-para/2026-11-19/153054.html",
-   "date": "2026-11-19T18:30:54+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -312,70 +452,20 @@
    "type": "Prensa"
   },
   {
-   "id": "d25444d43ccb",
-   "source": "Radio Cooperativa",
-   "title": "SMA formuló cargos graves contra Codelco Ministro Hales por emisiones",
-   "description": "La Superintendencia del Medio Ambiente (SMA) dictó este jueves dos resoluciones relacionadas con la operación de Codelco Ministro Hales , en Calama, Región de Antofagasta. Una corresponde a la formulación de dos cargos graves por incumplimientos en el control de emisiones de mate",
-   "url": "https://www.cooperativa.cl/noticias/pais/medioambiente/contaminacion/sma-formulo-cargos-graves-contra-codelco-ministro-hales-por-emisiones/2026-11-19/152420.html",
-   "date": "2026-11-19T18:24:20+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "26f37bb80855",
-   "source": "Radio Cooperativa",
-   "title": "Anthropic debuta con alza de 34% en Wall Street y supera récord de SpaceX",
-   "description": "Las acciones de Anthropic , la empresa que desarrolló el asistente de inteligencia artificial Claude , comenzaron a cotizar este jueves en la bolsa Nasdaq de Nueva York a 111,50 dólares por título , un 34% por encima de los 83 dólares que la compañía había fijado para su salida a",
-   "url": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/anthropic-debuta-con-alza-de-34-en-wall-street-y-supera-record-de-spacex/2026-11-19/152348.html",
-   "date": "2026-11-19T18:23:48+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "7d4d97f2124d",
-   "source": "Radio Cooperativa",
-   "title": "\"No quería aceptarlo\": Mon Laferte revela que llevaba meses con dificultades para cantar",
-   "description": "La cantante Mon Laferte compartió una sentida reflexió n sobre su polémico paso por los Latin Grammy. En la ceremonia, celebrada el pasado 12 de noviembre, la artista presentó su single \"Femme Fatale\", calificando su interpretación como \"una de las peores de su vida\". \"Sí, canté ",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/no-queria-aceptarlo-mon-laferte-revela-que-llevaba-meses-con/2026-11-19/152316.html",
-   "date": "2026-11-19T18:23:16+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "c368091c8f95",
-   "source": "The Guardian",
-   "title": "Call for police to investigate Scottish hospital after 19 deaths due to surgery",
-   "description": "Surgeon at Aberdeen Royal Infirmary says he repeatedly voiced concerns and that patients may have died unnecessarily A senior surgeon has called for a criminal investigation into a Scottish hospital after it emerged that at least 19 patients had died from avoidable complications ",
-   "url": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
-   "date": "2026-11-19T18:21:59+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "3b7c8dcf0eec",
-   "source": "Radio Cooperativa",
-   "title": "ANFP avizora eventual Superclásico en final de Copa Chile",
-   "description": "Pablo Milad, presidente de la ANFP, afirmó que están viendo la posibilidad que la temporada del fútbol nacional termine entre el 13 y el 19 de diciembre , con la final de la Copa Chile, y abordó la opción que la definición sea entre Colo Colo y Universidad de Chile, señalando que",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/anfp/anfp-avizora-eventual-superclasico-en-final-de-copa-chile/2026-11-19/152121.html",
-   "date": "2026-11-19T18:21:21+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "7070c0805709",
-   "source": "Radio Cooperativa",
-   "title": "Cerca de mil ciclistas de 12 países darán vida al Giro del Lago en Puerto Varas",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Puerto Varas volverá a ser el epicentro del ciclismo nacional e internacional este domingo 22 de noviembre , cuando cerca de mil deportistas provenientes de 12 países participen en la novena edición del Giro del Lago by Orb",
-   "url": "https://www.cooperativa.cl/noticias/deportes/ciclismo/chilenos/cerca-de-mil-ciclistas-de-12-paises-daran-vida-al-giro-del-lago-en/2026-11-19/151708.html",
-   "date": "2026-11-19T18:17:08+00:00",
+   "id": "823524d90825",
+   "source": "France 24",
+   "title": "Comienza la carrera por la FIFA: Infantino contra Diallo y Tashima",
+   "description": "La carrera por la presidencia de la FIFA comenzó oficialmente. El presidente del organismo mundial del fútbol, Gianni Infantino, se enfrentará a dos rivales que buscan poner fin a sus once años al frente de la federación internacional. El francés Philippe Diallo y el japonés Kozo",
+   "url": "https://www.france24.com/es/video/20261119-comienza-la-carrera-por-la-fifa-infantino-contra-diallo-y-tashima",
+   "date": "2026-11-19T18:18:37+00:00",
    "category": "",
    "type": "Prensa"
   },
   {
    "id": "268a4b2dea6e",
    "source": "Al Jazeera",
-   "title": "Iraq reaches compromise with Kataib Hezbollah over armed group stronghold",
-   "description": "The compromise reached will station forces that include brigades from the Popular Mobilisation Forces.",
+   "title": "Iraq reaches compromise with Kataib Hezbollah over armed group’s stronghold",
+   "description": "The compromise reached will unite forces that include brigades from the Popular Mobilisation Forces.",
    "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
    "date": "2026-11-19T18:16:09+00:00",
    "category": "Oriente Medio",
@@ -389,6 +479,16 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
    "date": "2026-11-19T18:13:52+00:00",
    "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "3d9d271a3d01",
+   "source": "France 24",
+   "title": "Se acabó la espera: así vivieron los jugadores el estreno mundial de GTA VI",
+   "description": "El juego más esperado de la década. Trece años después de su quinta edición, GTA VI está disponible desde este 19 de noviembre a nivel mundial. En Australia y Nueva Zelanda jugaron primero. Unas horas más tarde, les tocó el turno a los jugadores indios. Es un juego violento, proh",
+   "url": "https://www.france24.com/es/video/20261119-se-acab%C3%B3-la-espera-as%C3%AD-vivieron-los-jugadores-el-estreno-mundial-de-gta-vi",
+   "date": "2026-11-19T18:06:27+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -429,26 +529,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
    "date": "2026-11-19T17:50:21+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "3a0e392ca3f0",
-   "source": "Radio Cooperativa",
-   "title": "Sala Cuna Universal: Marín defiende financiamiento con cargo al Seguro de Cesantía",
-   "description": "La ministra de la Mujer y la Equidad de Género, Judith Marín , calificó este jueves de \"del todo responsable\" la propuesta de financiamiento de la Sala Cuna Universal , que destina al nuevo beneficio parte de la cotización que hoy pagan los empleadores al Seguro de Cesantía. Lueg",
-   "url": "https://www.cooperativa.cl/noticias/pais/trabajo/proyectos/sala-cuna-universal-marin-defiende-financiamiento-con-cargo-al-seguro/2026-11-19/145007.html",
-   "date": "2026-11-19T17:50:07+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "fcdf40267103",
-   "source": "Radio Cooperativa",
-   "title": "Se salva \"Yo elijo mi PC\" tras acuerdo transversal en el Senado",
-   "description": "Un acuerdo transversal alcanzado este jueves entre el Gobierno, el oficialismo y la oposición permitirá dar continuidad a las Becas de Acceso a Tecnología, Información y Comunicación (TIC) de Junaeb -incluido \"Yo elijo mi PC\" -, luego de que el Ejecutivo comprometiera la incorpor",
-   "url": "https://www.cooperativa.cl/noticias/economia/presupuesto/se-salva-yo-elijo-mi-pc-tras-acuerdo-transversal-en-el-senado/2026-11-19/144603.html",
-   "date": "2026-11-19T17:46:03+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -892,16 +972,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a2d8de3316fe",
-   "source": "France 24",
-   "title": "Soldados de Bukele en Haití: ¿ayuda o intervención?",
-   "description": "Unos 2.000 soldados salvadoreños llevan casi un mes desplegados en Haití. Llegaron para rescatar a cuatro militares capturados por pandilleros y han ampliado sus operaciones. ¿Son un respaldo decisivo contra las pandillas o abren interrogantes sobre los límites, la transparencia ",
-   "url": "https://www.france24.com/es/programas/el-debate/20261119-soldados-de-bukele-en-hait%C3%AD-ayuda-o-intervenci%C3%B3n",
-   "date": "2026-11-19T13:53:16+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "9d04da33deee",
    "source": "The Guardian",
    "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
@@ -909,26 +979,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
    "date": "2026-11-19T13:52:10+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "c1814135ce28",
-   "source": "Al Jazeera",
-   "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
-   "description": "Advocates raised concerns about consumer privacy and data-sharing, involving a firm with ties to Israel's military.",
-   "url": "https://www.aljazeera.com/features/2026/11/19/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal?traffic_source=rss",
-   "date": "2026-11-19T13:49:49+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "7dc0043f01f9",
-   "source": "Al Jazeera",
-   "title": "FIFA Under-17 World Cup 2026 gets under way in Qatar despite USA withdrawal",
-   "description": "The 25-day tournament will feature 48 teams, with Dominican Republic replacing USA as FIFA plays down security concerns.",
-   "url": "https://www.aljazeera.com/sports/2026/11/19/fifa-under-17-world-cup-2026-gets-under-way-in-qatar-despite-usa-withdrawal?traffic_source=rss",
-   "date": "2026-11-19T13:47:50+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1062,16 +1112,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8424b41f0be7",
-   "source": "France 24",
-   "title": "Culmina inédita reunión entre Xi, Trump y Putin en la cumbre de la APEC",
-   "description": "El presidente chino, Xi Jinping, y sus homólogos estadounidense, Donald Trump, y ruso, Vladimir Putin, se reunieron este 19 de noviembre en Shenzhen en un encuentro inédito, en el marco de la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Una hora y 20 minutos des",
-   "url": "https://www.france24.com/es/video/20261119-culmina-in%C3%A9dita-reuni%C3%B3n-entre-xi-trump-y-putin-en-la-cumbre-de-la-apec",
-   "date": "2026-11-19T12:04:51+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "bc0396d8e5fa",
    "source": "BBC Mundo",
    "title": "Por qué la niebla está abandonando un excepcional bosque en Costa Rica y cambiando su ecosistema",
@@ -1079,16 +1119,6 @@
    "url": "https://www.bbc.com/mundo/articles/cqde1n5843yxo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T12:00:14+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "b01e562e8587",
-   "source": "France 24",
-   "title": "Myanmar cometió genocidio contra los rohingyas, sentencia la Corte Internacional de Justicia",
-   "description": "",
-   "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261119-myanmar-cometi%C3%B3-genocidio-contra-los-rohingyas-sentencia-la-corte-internacional-de-justicia",
-   "date": "2026-11-19T11:57:14+00:00",
-   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -1188,16 +1218,6 @@
    "description": "Awami League party called for ⁠nationwide protest on Thursday after the government rejected Hasina’s request for passport Parts of Bangladesh were shut down Thursday as protests by supporters of former prime minister Sheikh Hasina sparked clashes, bomb blasts and arson attacks, w",
    "url": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return",
    "date": "2026-11-19T06:58:33+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "24054b22b413",
-   "source": "The Guardian",
-   "title": "Tammy Shipley was supposed to be monitored in prison. Instead she died after drinking 20L of water",
-   "description": "If the Aboriginal woman had been checked at regular intervals as required, her ‘excess consumption of water’ would have been prevented, inquest finds • Warning: This article contains images of and references to Indigenous Australians who have died Get our breaking news email , fr",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/19/tammy-shipley-was-supposed-to-be-monitored-in-prison-instead-she-died-after-drinking-20l-of-water-ntwnfb",
-   "date": "2026-11-19T06:20:46+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -1809,16 +1829,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/16/is-is-india-travel-boom-travel-and-leisure-women",
    "date": "2026-11-17T07:30:06+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "3376ab3c5acc",
-   "source": "BBC Mundo",
-   "title": "Cómo los megamillonarios en Rusia se preparan para un futuro sin Putin",
-   "description": "Algunos magnates rusos añoran el regreso al sistema oligárquico de los años noventa, cuando los empresarios disfrutaban del poder. ¿Hay alguna posibilidad de que sea realidad?",
-   "url": "https://www.bbc.com/mundo/articles/c91430j35n5ro?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T02:46:30+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
