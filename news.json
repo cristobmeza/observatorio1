@@ -1,6 +1,276 @@
 {
- "updated": "2026-11-19T16:59:22.386303+00:00",
+ "updated": "2026-11-19T17:54:54.259265+00:00",
  "items": [
+  {
+   "id": "f323bdb26443",
+   "source": "Radio Cooperativa",
+   "title": "La U superó a Colo Colo y lideró ranking en Sudamérica",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Un reciente informe publicado por el Observatorio de Fútbol CIES (CIES Football Observatory) junto a SkillCorner reveló cuáles son los equipos con los estilos de juego más intensos sin posesión en Sudamérica durante la temp",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-u-supero-a-colo-colo-y-lidero-ranking-en-sudamerica/2026-11-19/144503.html",
+   "date": "2026-11-19T17:45:03+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "40342b36796e",
+   "source": "Ex-Ante",
+   "title": "La operación que le salió mal al doctor Juan Luis Castro. Por Beatriz Veneta",
+   "description": "El delito en carpeta, falsificación de instrumento público, se paga con 3 años y un día a 10 años de cárcel. Si pasa eso -no…",
+   "url": "https://www.ex-ante.cl/opinion/castro-firmas-falsas-senado-beatriz-veneta/",
+   "date": "2026-11-19T17:38:59+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "98379d95a299",
+   "source": "The Guardian",
+   "title": "Jimmy Dimly is back and we should treasure him while we can | John Crace",
+   "description": "Old-school Tory with a heart wants to make London fun again – just don’t mention Brexit Tories select James Cleverly as candidate for London mayor Sooner or later, Sadiq Khan’s luck was bound to run out. Or was it? When he first stood for London mayor in 2016, the Tory candidate ",
+   "url": "https://www.theguardian.com/politics/2026/nov/19/james-cleverly-london-mayor-john-crace-sketch",
+   "date": "2026-11-19T17:38:48+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "7fe7a3795714",
+   "source": "France 24",
+   "title": "¿Quién paga la factura del cambio climático?: la eterna disputa de las COP",
+   "description": "Los países que más han contaminado desde la Revolución Industrial tienen la mayor responsabilidad en la crisis climática, pero presionan para que China también pague. Además, la financiación climática se destina sobre todo a mitigación y no a adaptación, y la mayoría llega en for",
+   "url": "https://www.france24.com/es/programas/medio-ambiente/20261119-qui%C3%A9n-paga-la-factura-del-cambio-clim%C3%A1tico-la-eterna-disputa-de-las-cop",
+   "date": "2026-11-19T17:38:44+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "f4874c100bea",
+   "source": "The Guardian",
+   "title": "Ukraine allies warn ‘Yalta format’ will not bring about peace – Europe live",
+   "description": "Berlin meeting of the ‘coalition of the willing’ comes after Trump declared Putin a ‘friend’ during trilateral meeting with Xi in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolut",
+   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "date": "2026-11-19T17:38:35+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "a80adc5d1c20",
+   "source": "Ex-Ante",
+   "title": "Rol de Castro en el caso de las presuntas firmas falsificadas en el Senado desata guerra entre el PS y el PPD",
+   "description": "El retiro no autorizado de los permisos constitucionales de dos senadores mediante documentos eventualmente falsificados, junto con abrir una investigación de oficio en Fiscalía, reavivó…",
+   "url": "https://www.ex-ante.cl/politica/castro-ps-ppd-firmas-falsas-en-el-senado/",
+   "date": "2026-11-19T17:35:31+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "2546e6eaece6",
+   "source": "France 24",
+   "title": "Inédita reunión entre Xi, Trump y Putin: declaración conjunta de paz y críticas a la CPI",
+   "description": "Al margen de la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC), Donald Trump, Vladimir Putin y Xi Jinping se reunieron en Shenzhen, en un encuentro histórico entre mandatarios de Estados Unidos, Rusia y China. Los tres compartieron críticas a la Corte Penal Interna",
+   "url": "https://www.france24.com/es/video/20261119-in%C3%A9dita-reuni%C3%B3n-entre-xi-trump-y-putin-declaraci%C3%B3n-conjunta-de-paz-y-cr%C3%ADticas-a-la-cpi",
+   "date": "2026-11-19T17:35:28+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "33148c6e0c2c",
+   "source": "France 24",
+   "title": "Directo París y los reclamos en la marcha nacional de los jubilados en Francia",
+   "description": "Este 19 de noviembre, los jubilados se movilizan en Francia de cara a la aprobación del presupuesto de la nación. El Gobierno de Emmanuel Macron quiere quitarles una ventaja fiscal del 10% y tratando de indexar las jubilaciones en un índice más bajo a la inflación. Informe de nue",
+   "url": "https://www.france24.com/es/video/20261119-directo-par%C3%ADs-y-los-reclamos-en-la-marcha-nacional-de-los-jubilados-en-francia",
+   "date": "2026-11-19T17:34:07+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "e4eac6fa65c0",
+   "source": "Radio Cooperativa",
+   "title": "La U saludó a la Casa de Estudios por sus 184 años de historia: \"A seguir construyendo futuro\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El club Universidad de Chile dedicó un especial saludo a la Casa de Estudios Universidad de Chile, que este jueves 19 de noviembre celebró su aniversario 184 , destacando la importancia de la histórica institución académica",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/la-u-saludo-a-la-casa-de-estudios-por-sus-184-anos-de-historia-a/2026-11-19/142935.html",
+   "date": "2026-11-19T17:29:35+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "3f727df31e38",
+   "source": "France 24",
+   "title": "Brasil: Tras varios accidentes mortales, los aficionados de ala delta suspenden sus actividades",
+   "description": "En Río de Janeiro, el ala delta se había convertido en una actividad muy popular, especialmente entre los turistas. Pero, tras un nuevo accidente mortal a principios de noviembre de 2026, los operadores que organizan estos vuelos anunciaron la suspensión de sus actividades y su i",
+   "url": "https://www.france24.com/es/video/20261119-brasil-tras-varios-accidentes-mortales-los-aficionados-de-ala-delta-suspenden-sus-actividades",
+   "date": "2026-11-19T17:29:35+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "7d74cc7e8833",
+   "source": "The Guardian",
+   "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
+   "description": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced. Khan (who may or may not s",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "date": "2026-11-19T17:29:33+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "e752377ba7f9",
+   "source": "Deutsche Welle",
+   "title": "La gran paradoja de Trump: aislar a Irán sin China ni Rusia",
+   "description": "Mientras Trump busca intensificar la presión económica sobre Irán, China sigue siendo su mayor comprador de petróleo y Rusia, un socio clave. Pero ambas potencias sopesan su apoyo a Teherán y sus intereses con EE. UU.",
+   "url": "https://www.dw.com/es/la-gran-paradoja-de-trump-aislar-a-irán-sin-china-ni-rusia/a-79995601?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-19T17:26:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "66a50abdb531",
+   "source": "The Guardian",
+   "title": "Is Europe now in the shadow of a Trump, Putin and Xi alliance? – podcast",
+   "description": "Andy Burnham is meeting western leaders in Berlin and Brussels this week, to discuss Ukraine and closer ties to the EU. Meanwhile, Donald Trump, Vladimir Putin and Xi Jinping have met at the Apec summit in China. Is this the start of a global shift of power away from Europe, or w",
+   "url": "https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast",
+   "date": "2026-11-19T17:23:36+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "61b7d768cd0f",
+   "source": "The Guardian",
+   "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+   "description": "UK believed to have made concessions on youth mobility scheme as negotiations on wider agreement continue British and EU negotiators have provisionally agreed to allow 100,000 young EU citizens to come to the UK every year under a new mobility scheme, as negotiations on the UK-EU",
+   "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+   "date": "2026-11-19T17:19:17+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "1b89bbf830e2",
+   "source": "Ex-Ante",
+   "title": "Gendarmes corruptos, “soldados” adolescentes y el Tren de Aragua en la banca: lo que revela el informe de la Fiscalía",
+   "description": "Una mayor presencia de “soldados” adolescentes en bandas de crimen organizado desde la pandemia; operaciones en las cárceles facilitadas por gendarmes corruptos; la penetración del…",
+   "url": "https://www.ex-ante.cl/nacional/fiscalia-gendarmes-corruptos-tren-aragua/",
+   "date": "2026-11-19T17:18:15+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "b236fb36e626",
+   "source": "Radio Cooperativa",
+   "title": "En medio de conflicto con Lincolao, renunció la subsecretaria de Ciencias",
+   "description": "La subsecretaria de Ciencia , Tecnología , Conocimiento e Innovación , Carolina Rossi Pantoja , dejó este jueves su cargo en medio de la polémica que enfrentó con la titular de la cartera, Ximena Lincolao . Según informó la Dirección de Prensa de la Presidencia, el Presidente Jos",
+   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/en-medio-de-conflicto-con-lincolao-renuncio-la-subsecretaria-de-ciencias/2026-11-19/141726.html",
+   "date": "2026-11-19T17:17:26+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "8e43b252307e",
+   "source": "Al Jazeera",
+   "title": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
+   "description": "A week after a fizzled impeachment bid, analysts say Hegseth continues to face backlash for his leadership at Pentagon.",
+   "url": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope?traffic_source=rss",
+   "date": "2026-11-19T17:15:30+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f5dad350cd8a",
+   "source": "The Guardian",
+   "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
+   "description": "Hailed as ‘a rare moment of justice’, judges’ decision sets out a roadmap for assessing the question of intent The international court of justice (ICJ) verdict making Myanmar the first country in history to be found guilty of committing genocide does not just deliver justice for ",
+   "url": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
+   "date": "2026-11-19T17:14:55+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "823f42be415e",
+   "source": "The Guardian",
+   "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+   "description": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’ China, Russia and the US say they have agreed a peace statement after an unprecedented trilateral summit, but the declaration made no mention of the wars i",
+   "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+   "date": "2026-11-19T17:13:23+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "295d20919081",
+   "source": "The Guardian",
+   "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
+   "description": "US president appeared to doze off while Chinese leader made speech, but White House insisted he was awake Donald Trump was, again, accused of falling asleep during a televised event, this time during the speech of the Chinese president, Xi Jinping, at the Asia-Pacific Economic Co",
+   "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china",
+   "date": "2026-11-19T17:12:11+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "6171ae45f798",
+   "source": "Radio Cooperativa",
+   "title": "Clemente Huerta confirmó su salto a la USF Pro 2000 para 2027 con la IndyCar como gran meta",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El piloto nacional Clemente Huerta cerró una intensa temporada en la Fórmula 4 de Estados Unidos, certamen en el que volvió a finalizar en el cuarto lugar del ranking —tal como en 2025— y acumuló un total de 12 podios consi",
+   "url": "https://www.cooperativa.cl/noticias/deportes/automovilismo/pilotos/clemente-huerta-confirmo-su-salto-a-la-usf-pro-2000-para-2027-con-la/2026-11-19/141207.html",
+   "date": "2026-11-19T17:12:07+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "efcbc284c3ef",
+   "source": "The Guardian",
+   "title": "UN warns against misuse of security laws as UK weighs Palestine Action ban",
+   "description": "Human rights committee publishes guidance on freedom of association, which criticises vague laws targeting ‘extremism’ The UN human rights committee has warned against the misuse of counter-terrorism and national security legislation as the UK’s highest court considers the lawful",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/19/un-warns-misuse-security-laws-uk-palestine-action-ban",
+   "date": "2026-11-19T17:11:11+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "523d8a206bbc",
+   "source": "Al Jazeera",
+   "title": "Trump and Putin ‘hijacked’ China summit",
+   "description": "Trump and Putin’s statements during trilateral talks distracted from the planned agenda, Einar Tangen says.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
+   "date": "2026-11-19T17:02:22+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "f77876b90c76",
+   "source": "Radio Cooperativa",
+   "title": "Romance, fantasía y manga, las preferencias juveniles en la Filsa 2026",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/cultura/literatura/ferias-del-libro/romance-fantasia-y-manga-las-preferencias-juveniles-en-la-filsa-2026/2026-11-19/140219.html",
+   "date": "2026-11-19T17:02:19+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "8ab87e73c407",
+   "source": "The Guardian",
+   "title": "Cap all political donations, not only those from overseas, Burnham told",
+   "description": "Experts say ‘insanely complex’ £100,000 limit proposed for overseas donors should be replaced by universal cap Andy Burnham is facing calls to commit to a cap on all political donations when the elections bill is in the House of Lords, instead of the “insanely complex” £100,000 l",
+   "url": "https://www.theguardian.com/politics/2026/nov/19/andy-burnham-political-donations-cap-overseas-donors-elections",
+   "date": "2026-11-19T17:01:40+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "031bb6460517",
+   "source": "Al Jazeera",
+   "title": "Yemen’s besieged city of Taiz faces a deepening water crisis",
+   "description": "Fuel shortages and the loss of access to wells have left residents dependent on unsafe water.",
+   "url": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis?traffic_source=rss",
+   "date": "2026-11-19T16:59:38+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2a988f62f9ed",
+   "source": "Al Jazeera",
+   "title": "Anthropic starts trading in the US after blockbuster IPO",
+   "description": "Anthropic’s IPO surpasses SpaceX, marking the largest initial public offering in US history at $81bn",
+   "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo?traffic_source=rss",
+   "date": "2026-11-19T16:57:26+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "031844c9bc6d",
    "source": "France 24",
@@ -12,23 +282,13 @@
    "type": "Prensa"
   },
   {
-   "id": "7d74cc7e8833",
-   "source": "The Guardian",
-   "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
-   "description": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced. Khan (who may or may not s",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T16:53:35+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "f4874c100bea",
-   "source": "The Guardian",
-   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-   "description": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or Europe whatsoever. T",
-   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T16:50:26+00:00",
-   "category": "Rusia y espacio postsoviético",
+   "id": "d3c196c179dc",
+   "source": "Radio Cooperativa",
+   "title": "Kast blindó a Quiroz y Campos: \"Algunos se concentran en detalles; nosotros, en lo grande\"",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-blindo-a-quiroz-y-campos-algunos-se-concentran-en-detalles/2026-11-19/134907.html",
+   "date": "2026-11-19T16:49:07+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -132,6 +392,16 @@
    "type": "Prensa"
   },
   {
+   "id": "7c07f33841d8",
+   "source": "Radio Cooperativa",
+   "title": "Quedan dos meses para que los deudores CAE se pongan al día, recordó la Tesorería",
+   "description": "Con 4.625 convenios suscritos y una recaudación inicial de 947 millones de pesos en su primer mes , la Tesorería General de la República (TGR) y la Comisión Ingresa presentaron este jueves el primer balance de las facilidades extraordinarias de la Ley de Reconstrucción Nacional p",
+   "url": "https://www.cooperativa.cl/noticias/pais/educacion/beneficios/quedan-dos-meses-para-que-los-deudores-cae-se-pongan-al-dia-recordo-la/2026-11-19/131210.html",
+   "date": "2026-11-19T16:12:10+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "9bef71307f08",
    "source": "Río en Línea",
    "title": "Condenan a dos internos por homicidio cometido en la cárcel de Valdivia",
@@ -142,44 +412,14 @@
    "type": "Prensa"
   },
   {
-   "id": "6ad2deb5728b",
-   "source": "The Guardian",
-   "title": "Four UK men convicted of sexual assault and rape of drugged woman at invitation of husband",
-   "description": "Former Tory councillor advertised then wife on swinging websites and drugged and bound her for sex • Spiked nightcaps and invitations to strangers: how Philip Young sexually abused his wife for 15 years Four men have been convicted of sexually assaulting and raping a woman at the",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
-   "date": "2026-11-19T16:08:06+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "af7c2aca2401",
-   "source": "Radio Cooperativa",
-   "title": "Juan Tagle será vicepresidente: Esta es la mesa de Jorge Uauy",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El fútbol chileno ya definió a su nueva conducción tras las elecciones que eligieron al sucesor de Pablo Milad en la testera de la ANFP. Jorge Uauy arrasó en primera vuelta y asumirá como el nuevo presidente respaldado por ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/anfp/juan-tagle-sera-vicepresidente-esta-es-la-mesa-de-jorge-uauy/2026-11-19/130239.html",
-   "date": "2026-11-19T16:02:39+00:00",
+   "id": "c076a40a20fc",
+   "source": "Servicio Electoral",
+   "title": "Servel y la Biblioteca del Congreso Nacional suscribieron convenio de colaboración para fortalecer el acceso a la información democrática e histórica electoral",
+   "description": "El Servicio Electoral de Chile y la Biblioteca del Congreso Nacional, suscribieron un convenio de colaboración que establece un marco de cooperación institucional para el intercambio y uso de información democrática e histórica electoral. El instrumento fue firmado por la Preside",
+   "url": "https://www.servel.cl/Ch/app/servel-y-la-biblioteca-del-congreso-nacional-suscribieron-convenio-de-colaboracion-para-fortalecer-el-acceso-a-la-informacion-democratica-e-historica-electoral/sin-categoria/",
+   "date": "2026-11-19T16:01:42+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "31a6137ae87a",
-   "source": "The Guardian",
-   "title": "Spiked nightcaps and invitations to strangers: how Philip Young sexually abused his wife for 15 years",
-   "description": "Joanne Young, who has waived anonymity, was subjected to years of drugging and rape by former Swindon councillor, who invited other men to assault her When Philip Young served as a Conservative party councillor for Swindon council, his contemporaries viewed him as a perfectly nor",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/19/philip-young-sexual-abuse-spiked-nightcaps-strangers-joanne-young",
-   "date": "2026-11-19T16:00:06+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "5dde8cf10cc9",
-   "source": "Radio Cooperativa",
-   "title": "Así se transmitirá la Liguilla del Ascenso este fin de semana",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La Liguilla de Ascenso 2026 comenzará este viernes 20 de noviembre con los partidos de ida de la primera ronda , en un fin de semana que también tendrá la definición del título de Primera B entre Cobreloa y San Luis de Quil",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/asi-se-transmitira-la-liguilla-del-ascenso-este-fin-de-semana/2026-11-19/125920.html",
-   "date": "2026-11-19T15:59:20+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
+   "type": "Oficial"
   },
   {
    "id": "150c4c27a36e",
@@ -199,66 +439,6 @@
    "url": "https://www.cooperativa.cl/noticias/magazine/television/el-show-tiene-un-limite-roberto-cox-encaro-a-sergio-rojas-en-pleno/2026-11-19/125211.html",
    "date": "2026-11-19T15:52:11+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "823f42be415e",
-   "source": "The Guardian",
-   "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-   "description": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’ China, Russia and the US say they have agreed a peace statement after an unprecedented trilateral summit, but the declaration made no mention of the wars i",
-   "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
-   "date": "2026-11-19T15:50:03+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "437a2bba1169",
-   "source": "The Guardian",
-   "title": "‘Pot luck service’: Royal Mail on course to miss delivery targets for fourth year in a row",
-   "description": "Citizens Advice criticises company for failing to meet Ofcom requirements while reporting increased revenue Royal Mail has been accused of offering a “pot luck service” to consumers as it looks likely to miss first-class delivery targets for the fourth consecutive year. The posta",
-   "url": "https://www.theguardian.com/business/2026/nov/19/royal-mail-to-miss-delivery-targets-fourth-year-in-row",
-   "date": "2026-11-19T15:42:33+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "7863925085af",
-   "source": "Radio Cooperativa",
-   "title": "Guardiola rechazó millonarias ofertas de Arabia Saudita",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Josep Guardiola, extécnico de Manchester City, rechazó las ofertas recibidas desde Arabia Saudita y decidió prolongar su descanso del fútbol profesional , según confirmó su representante, Josep Maria Orobitg , quien también",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-saudi/guardiola-rechazo-millonarias-ofertas-de-arabia-saudita/2026-11-19/124213.html",
-   "date": "2026-11-19T15:42:13+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "e58dbed4f23c",
-   "source": "Radio Cooperativa",
-   "title": "ANFP definió a Jorge Uauy como sucesor de Pablo Milad",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Jorge Uauy fue electo como nuevo presidente de la Asociación Nacional de Fútbol Profesional luego de vencer en primera vuelta a su rival en las elecciones de la corporación, Jorge Yungue. El presidente de Palestino sumó 27 ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/anfp/anfp-definio-a-jorge-uauy-como-sucesor-de-pablo-milad/2026-11-19/124156.html",
-   "date": "2026-11-19T15:41:56+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "526acbc949a0",
-   "source": "Radio Cooperativa",
-   "title": "Sujeto confesó haber asesinado a puñaladas a su madre en San Bernardo",
-   "description": "Carabineros detuvo al autor confeso de un delito de parricidio , quien asegura haber dado muerte a su madre en su propio domicilio , ubicado en la comuna de San Bernardo. Personal policial acudió a la vivienda de la víctima -una adulta mayor- después de que su hija denunciara que",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/homicidios/sujeto-confeso-haber-asesinado-a-punaladas-a-su-madre-en-san-bernardo/2026-11-19/124028.html",
-   "date": "2026-11-19T15:40:28+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "56292b8bd054",
-   "source": "Radio Cooperativa",
-   "title": "Gobierno volvió a defender el acuerdo con OpenAI: \"El miedo no nos puede paralizar\"",
-   "description": "El Gobierno volvió a defender este jueves el bullado memorándum de entendimiento firmado entre el Ministerio de Ciencia y la firma internacional OpenAI , descartando los reparos levantados desde el Congreso sobre un eventual acceso a datos personales de la ciudadanía y llamando a",
-   "url": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/gobierno-volvio-a-defender-el-acuerdo-con-openai-el-miedo-no-nos-puede/2026-11-19/123943.html",
-   "date": "2026-11-19T15:39:43+00:00",
-   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -299,16 +479,6 @@
    "url": "https://www.ex-ante.cl/internacional/fin-mision-chile-del-embajador-chino/",
    "date": "2026-11-19T15:23:29+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "61b7d768cd0f",
-   "source": "The Guardian",
-   "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-   "description": "Andy Burnham due in Brussels on Friday but sticking points on food rules and tuition fees remain unresolved The UK-EU reset talks will go “down to the wire” as the British government battles to have a say in shaping future European food and farming rules. With less than 24 hours ",
-   "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-   "date": "2026-11-19T15:18:12+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -822,16 +992,6 @@
    "type": "Prensa"
   },
   {
-   "id": "dc0ca8284585",
-   "source": "Radio Cooperativa",
-   "title": "Jorge Uauy es el nuevo presidente de la ANFP",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/anfp/jorge-uauy-es-el-nuevo-presidente-de-la-anfp/2026-11-19/083434.html",
-   "date": "2026-11-19T11:34:34+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "f15b89f07bcd",
    "source": "The Guardian",
    "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
@@ -849,16 +1009,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability?traffic_source=rss",
    "date": "2026-11-19T11:22:43+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "d73d43b24b04",
-   "source": "Al Jazeera",
-   "title": "Will laser weapons change warfare?",
-   "description": "The use of lasers is increasing in warfare — which countries are deploying them and how?",
-   "url": "https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss",
-   "date": "2026-11-19T11:20:00+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -882,16 +1032,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d712ee5fe4f1",
-   "source": "Al Jazeera",
-   "title": "Denmark parliament approves security deal with Greenland and US",
-   "description": "All 109 Danish lawmakers present approved the deal, easing tensions over Trump's desire to annex the Arctic island.",
-   "url": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
-   "date": "2026-11-19T11:09:00+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "8dcf7086dfb8",
    "source": "The Guardian",
    "title": "Race to replant five South African baobabs after export blocked",
@@ -912,26 +1052,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4f7a1d18581f",
-   "source": "Al Jazeera",
-   "title": "FIFA confirms Diallo, Tashima as Infantino’s challengers at 2027 election",
-   "description": "French football chief Philippe Diallo and Japan's Kozo Tashima will be the only candidates to run for FIFA presidency.",
-   "url": "https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss",
-   "date": "2026-11-19T10:42:53+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "ba1b3658cff5",
-   "source": "Al Jazeera",
-   "title": "UN’s top court finds Myanmar guilty of genocide against Rohingya",
-   "description": "The ruling marks the first time a state has been found responsible for genocide by the International Court of Justice.",
-   "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
-   "date": "2026-11-19T10:31:36+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "36113d1ed857",
    "source": "Deutsche Welle",
    "title": "Concluye la cumbre entre Xi, Trump y Putin: \"Así funciona el mundo\"",
@@ -949,16 +1069,6 @@
    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261119-trump-xi-y-putin-concluyen-una-cumbre-in%C3%A9dita-centrada-en-ucrania-y-el-control-nuclear",
    "date": "2026-11-19T10:08:01+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "d352708cb283",
-   "source": "The Guardian",
-   "title": "Crimea bridge has been attacked again, says Russian-installed governor",
-   "description": "Assessment of damage under way, days after two attacks that destroyed road section of key bridge across Kerch strait linking annexed peninsula to Russia Apec summit – latest updates The remaining Kerch rail bridge connecting Crimea to Russia was attacked overnight, leading to a h",
-   "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
-   "date": "2026-11-19T10:03:42+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1032,16 +1142,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e16e9f7a83b7",
-   "source": "France 24",
-   "title": "En la COP31, los ministros intentan desbloquear las negociaciones para adoptar un texto final",
-   "description": "Los ministros reunidos en la COP31 en Antalya, Turquía, intentaron desbloquear las negociaciones el miércoles 18 de noviembre por la noche, ante las diferencias sobre el abandono de los combustibles fósiles, el financiamiento climático y la ciencia. Se espera un nuevo borrador de",
-   "url": "https://www.france24.com/es/medio-oriente/20261119-en-la-cop31-los-ministros-intentan-desbloquear-las-negociaciones-para-adoptar-un-texto-final",
-   "date": "2026-11-19T05:44:02+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "fb976990e0ed",
    "source": "Deutsche Welle",
    "title": "La crisis en Medio Oriente amenaza la seguridad energética mundial, advierte la AIE",
@@ -1049,16 +1149,6 @@
    "url": "https://www.dw.com/es/la-crisis-en-medio-oriente-amenaza-la-seguridad-energética-mundial-advierte-la-aie/a-79986931?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-19T05:43:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "323b3e033cab",
-   "source": "France 24",
-   "title": "Anthropic apunta a un récord bursátil con su salida a Wall Street",
-   "description": "La compañía de inteligencia artificial prevé captar unos USD 79.400 millones con la venta inicial de sus acciones, fijadas en 83 dólares cada una. La cifra superaría los USD 75.000 millones recaudados por SpaceX en junio y podría aumentar con las operaciones bancarias posteriores",
-   "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261119-anthropic-apunta-a-un-r%C3%A9cord-burs%C3%A1til-con-su-salida-a-wall-street",
-   "date": "2026-11-19T05:21:46+00:00",
-   "category": "Empresas y mercados",
    "type": "Prensa"
   },
   {
@@ -1092,21 +1182,21 @@
    "type": "Prensa"
   },
   {
-   "id": "a0a86a7e150c",
-   "source": "France 24",
-   "title": "Julio Iglesias será investigado por presuntas agresiones sexuales y físicas a dos mujeres",
-   "description": "El juez Antonio Piña aceptó la querella presentada por los abogados de dos mujeres que aseguran haber sido víctimas de delitos sexuales y agresiones físicas por parte del cantante Julio Iglesias. Los maltratos habrían ocurrido en 2021 en las casas del artista en Bahamas y Repúbli",
-   "url": "https://www.france24.com/es/cultura/20261119-julio-iglesias-ser%C3%A1-investigado-por-presuntas-agresiones-sexuales-y-f%C3%ADsicas-a-dos-mujeres",
-   "date": "2026-11-19T03:24:30+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "f9e584d46390",
    "source": "Organización Mundial del Comercio",
    "title": "Se abre el plazo de inscripción para el Programa Ejecutivo OMPI-OMC sobre Cuestiones de Propiedad Intelectual",
    "description": "La secretaría de la Organización Mundial de la Propiedad Intelectual (OMPI) y la Secretaría de la Organización Mundial del Comercio (OMC) ya han abierto el plazo de inscripción para el Programa Ejecutivo OMPI-OMC sobre Cuestiones de Propiedad Intelectual para Altos Funcionarios G",
    "url": "https://www.wto.org/spanish/news_s/news26_s/trip_19nov26_557_s.htm",
+   "date": "2026-11-19T00:00:00+00:00",
+   "category": "Comercio internacional",
+   "type": "Oficial"
+  },
+  {
+   "id": "97813938cbdd",
+   "source": "Organización Mundial del Comercio",
+   "title": "El evento anual de la OMC dedicado a los estudiantes se centra en los fundamentos del comercio",
+   "description": "El 18 de noviembre más de 200 estudiantes se unieron a formuladores de políticas, directivos y líderes de opinión en la OMC para debatir sobre los fundamentos del comercio con ocasión del evento anual de la OMC sobre el comercio dedicado exclusivamente a estudiantes y titulado \"W",
+   "url": "https://www.wto.org/spanish/news_s/news26_s/stud_19nov26_558_s.htm",
    "date": "2026-11-19T00:00:00+00:00",
    "category": "Comercio internacional",
    "type": "Oficial"
@@ -1202,16 +1292,6 @@
    "type": "Prensa"
   },
   {
-   "id": "891f40e26bc8",
-   "source": "Ex-Ante",
-   "title": "El fenómeno GTA VI: el descomunal regreso del videojuego que recaudó US$ 1.000 millones en preventas",
-   "description": "El lanzamiento de GTA VI ya es un fenómeno que trasciende a la industria de los videojuegos. Según The Washington Post, hay quienes están pidiendo…",
-   "url": "https://www.ex-ante.cl/negocios/gta-recaudo-us1-000-millones/",
-   "date": "2026-11-18T20:41:25+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "10772fcf843c",
    "source": "The Guardian",
    "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
@@ -1219,16 +1299,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
    "date": "2026-11-18T20:24:19+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "69be450ab3f2",
-   "source": "Ex-Ante",
-   "title": "Más que un cambio de gabinete",
-   "description": "Un eventual cambio de gabinete puede ofrecer una oportunidad para revisar la conducción política. Pero el desafío no consiste únicamente en reemplazar rostros, sino también…",
-   "url": "https://www.ex-ante.cl/opinion/mas-que-un-cambio-de-gabinete/",
-   "date": "2026-11-18T19:58:37+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -1249,16 +1319,6 @@
    "url": "https://www.bbc.com/mundo/articles/cq98x39klx03o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-18T19:31:04+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "b8056e385bb6",
-   "source": "Ex-Ante",
-   "title": "Cómo llegó Boric al organismo que promueve gravar a los súper ricos, la bandera que dejó caer en su gobierno",
-   "description": "Invitado por los economistas Jayati Ghosh y Joseph Stiglitz, con quien forjó lazos cuando estaba en La Moneda, Boric llevará al debate internacional del impuesto…",
-   "url": "https://www.ex-ante.cl/politica/boric-como-llego-impuesto-super-ricos/",
-   "date": "2026-11-18T19:30:42+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -1542,16 +1602,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3f44f6a0a478",
-   "source": "The Guardian",
-   "title": "South Korea’s high-stakes university exams upended by AI cheating scandal",
-   "description": "South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams The integrity of South Korea’s career-defining university entrance exam has been thrown into doubt after the top scorer in a ",
-   "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
-   "date": "2026-11-18T02:03:27+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "d77a8a8a1032",
    "source": "BBC Mundo",
    "title": "Cómo fue el sofisticado ataque con el que Ucrania destruyó parte del preciado puente de Crimea de Putin (y qué consecuencias tendrá)",
@@ -1589,16 +1639,6 @@
    "url": "https://www.ciperchile.cl/2026/11/17/ottone-el-segundo-piso-y-los-contrastes-con-el-gobierno-de-kast/?utm_source=rss&utm_medium=rss&utm_campaign=ottone-el-segundo-piso-y-los-contrastes-con-el-gobierno-de-kast",
    "date": "2026-11-17T23:25:23+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "db56923bac86",
-   "source": "The Guardian",
-   "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
-   "description": "Knesset’s appointment of Matan Kahana marks step towards reversing policies of outgoing government The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the prime minister, Benjamin Netanyahu. The",
-   "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
-   "date": "2026-11-17T22:30:17+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -2200,16 +2240,6 @@
    "date": "2026-11-11T20:31:24+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "5f2961bfec5a",
-   "source": "Servicio Electoral",
-   "title": "Servel Antofagasta culminó la primera Escuela de Formación Cívica y Ciudadana para jóvenes en proceso de reinserción social",
-   "description": "Con una ceremonia de graduación realizada el pasado 29 de octubre, el Servicio Electoral de Chile, a través de su Dirección Regional de Antofagasta, finalizó la primera versión de la “Escuela de Formación Cívica y Ciudadana”, iniciativa desarrollada en alianza con el Servicio Nac",
-   "url": "https://www.servel.cl/Ch/app/servel-antofagasta-culmino-la-primera-escuela-de-formacion-civica-y-ciudadana-para-jovenes-en-proceso-de-reinsercion-social/sin-categoria/",
-   "date": "2026-11-11T14:04:48+00:00",
-   "category": "Elecciones",
-   "type": "Oficial"
   },
   {
    "id": "f00cd98dba05",
