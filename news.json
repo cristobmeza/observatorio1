@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-19T06:01:11.046162+00:00",
+ "updated": "2026-11-19T07:11:59.269200+00:00",
  "items": [
+  {
+   "id": "f6cdc8f498db",
+   "source": "Al Jazeera",
+   "title": "‘It’s my friend’: Moment Trump greets Putin at China summit",
+   "description": "‘It’s my friend’: Moment Trump greets Putin at China summit",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/its-my-friend-moment-trump-greets-putin-at-china-summit?traffic_source=rss",
+   "date": "2026-11-19T06:44:59+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "c3dc5f745574",
+   "source": "France 24",
+   "title": "🔴 En directo: Trump y Xi dialogan en China antes de una inédita cumbre trilateral con Putin",
+   "description": "",
+   "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261118-en-directo-trump-es-recibido-por-xi-jinping-y-estrecha-la-mano-a-putin-en-su-llegada-a-la-cumbre-apec",
+   "date": "2026-11-19T06:21:39+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "24054b22b413",
+   "source": "The Guardian",
+   "title": "Tammy Shipley was supposed to be monitored in prison. Instead she died after drinking 20L of water",
+   "description": "If the Aboriginal woman had been checked at regular intervals as required, her ‘excess consumption of water’ would have been prevented, inquest finds • Warning: This article contains images of and references to Indigenous Australians who have died Get our breaking news email , fr",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/19/tammy-shipley-was-supposed-to-be-monitored-in-prison-instead-she-died-after-drinking-20l-of-water-ntwnfb",
+   "date": "2026-11-19T06:20:46+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a524fed59ce2",
+   "source": "The Guardian",
+   "title": "Mother whose twin baby died was determined to have home birth despite advice of experts, NSW inquest hears",
+   "description": "Inquest into deaths of four babies in northern NSW between 2022 and 2024 told mother refused to give birth in hospital after hearing others’ traumatic stories Get our breaking news email , free app or daily news podcast Baby B’s mother was so determined to have a home birth she i",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/19/mother-whose-twin-baby-died-was-determined-to-have-home-birth-despite-expert-advice-nsw-inquest-hears-ntwnfb",
+   "date": "2026-11-19T06:17:12+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d4de6ad6ae4d",
+   "source": "Al Jazeera",
+   "title": "Could Trump, Putin and Xi end the nuclear age?",
+   "description": "Their meeting could revive the dream of nuclear disarmament that Reagan and Gorbachev nearly realised 40 years ago.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/19/could-trump-putin-and-xi-end-the-nuclear-age?traffic_source=rss",
+   "date": "2026-11-19T06:15:55+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "2557fa7edff7",
+   "source": "Deutsche Welle",
+   "title": "Casi 50.000 evacuados en al estado de Odisha por la llegada del potente ciclón Akvan en India programada para el viernes",
+   "description": "Las autoridades del gobierno han habilitado más de 400 refugios para albergar a las personas evacuadas.",
+   "url": "https://www.dw.com/es/casi-50-000-evacuados-en-al-estado-de-odisha-por-la-llegada-del-potente-ciclón-akvan-en-india-programada-para-el-viernes/a-79987150?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-19T06:15:00+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "df3f0c5803c0",
+   "source": "Al Jazeera",
+   "title": "Grand Theft Auto VI launches to rave reviews after 13-year wait",
+   "description": "Critics hail GTA 6 as a 'masterpiece', 'spectacular', and an 'astonishing American epic'.",
+   "url": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait?traffic_source=rss",
+   "date": "2026-11-19T06:08:47+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f9524ec13474",
+   "source": "Al Jazeera",
+   "title": "The Xi-Putin-Trump summit will not be a ‘new Yalta’",
+   "description": "The three leaders have divergent geopolitical goals and visions for the world order.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
+   "date": "2026-11-19T06:07:05+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "ad7e4909d412",
+   "source": "Al Jazeera",
+   "title": "Ecuadorian footballer gets eight-year ban for throwing rock at referee",
+   "description": "Jhon Perlaza threw a stone that struck an assistant referee, who later required surgery, during a third-tier match.",
+   "url": "https://www.aljazeera.com/sports/2026/11/19/ecuadorian-footballer-gets-eight-year-ban-for-throwing-rock-at-referee?traffic_source=rss",
+   "date": "2026-11-19T06:06:23+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "b2991930dfcb",
+   "source": "The Guardian",
+   "title": "Car use in London forecast to rise by 10% in next decade",
+   "description": "Modelling in draft of 10-year London plan threatens Sadiq Khan’s promises on improving air quality Car use in London will rise by 10% over the next decade with cycling and walking falling as a proportion of trips, according to an official forecast by the city’s mayoralty, putting",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
+   "date": "2026-11-19T06:00:20+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "b8f0dfd29b76",
+   "source": "The Guardian",
+   "title": "Tulip Siddiq says she is considering legal action against former Bangladesh leader",
+   "description": "Former minister, who was sentenced to prison in Bangladesh in her absence, says she was victim of ‘malicious prosecution’ The former minister Tulip Siddiq has said she is considering taking legal action against the former interim leader of Bangladesh over corruption allegations m",
+   "url": "https://www.theguardian.com/world/2026/nov/19/tulip-siddiq-says-she-is-considering-legal-action-against-former-bangladesh-leader",
+   "date": "2026-11-19T06:00:18+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "e16e9f7a83b7",
    "source": "France 24",
@@ -132,16 +242,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c3dc5f745574",
-   "source": "France 24",
-   "title": "Trump se reúne con Putin antes de la trilateral con Xi Jinping",
-   "description": "",
-   "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261118-en-directo-trump-es-recibido-por-xi-jinping-y-estrecha-la-mano-a-putin-en-su-llegada-a-la-cumbre-apec",
-   "date": "2026-11-19T04:42:45+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "299d4c5592fe",
    "source": "Río en Línea",
    "title": "Biología Marina UACh a partir de 2027 también se impartirá en Puerto Montt",
@@ -232,19 +332,9 @@
    "type": "Prensa"
   },
   {
-   "id": "62be673efb7d",
-   "source": "The Guardian",
-   "title": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high",
-   "description": "Jobless rate rises from 4.7% to 4.9% in October, Bureau of Statistics figures reveal Get our daily political email , free app or daily news podcast Australia may already have “one foot in recession” after unemployment surged to 4.9% in October, from 4.7%, in a shock increase that",
-   "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
-   "date": "2026-11-19T03:32:42+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "3a896e2abac9",
    "source": "Al Jazeera",
-   "title": "APEC Live: Trump, Xi and Putin to meet at historic trilateral China summit",
+   "title": "APEC Live: Ukraine, Iran, AI on table for historic Trump-Xi-Putin meeting",
    "description": "The leaders of the US, China and Russia are due to hold highly anticipated talks in Shenzhen.",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
    "date": "2026-11-19T03:30:26+00:00",
@@ -259,16 +349,6 @@
    "url": "https://www.france24.com/es/cultura/20261119-julio-iglesias-ser%C3%A1-investigado-por-presuntas-agresiones-sexuales-y-f%C3%ADsicas-a-dos-mujeres",
    "date": "2026-11-19T03:24:30+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "bd5b5001bd5c",
-   "source": "The Guardian",
-   "title": "Beau Lamarre-Condon’s ‘wounded pride’ after breakup with Jesse Baird led to ‘darker plan for revenge’, crown alleges",
-   "description": "Prosecutor argues ‘stalking and break-in’ was ‘astonishing conduct for a serving police officer’ Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon’s “wounded pride” after his breakup with Jesse Baird drove him to a “far darker plan for revenge”, a c",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb",
-   "date": "2026-11-19T03:10:20+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -532,16 +612,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5ab2452a519f",
-   "source": "Al Jazeera",
-   "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
-   "description": "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.",
-   "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
-   "date": "2026-11-19T00:11:40+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "8b3159891cc9",
    "source": "The Guardian",
    "title": "Mike Lynch’s superyacht had unidentified vulnerability to high winds, report finds",
@@ -549,16 +619,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report",
    "date": "2026-11-19T00:01:11+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "c04d8b6b1459",
-   "source": "Al Jazeera",
-   "title": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh",
-   "description": "Trump claims Iran is seeking to develop biological weapons, as the Saudi-led coalition combats Houthi missiles.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
-   "date": "2026-11-19T00:01:02+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -579,16 +639,6 @@
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261118-se-cierra-el-c%C3%ADrculo-del-tutelaje-hegseth-firma-un-acuerdo-de-cooperaci%C3%B3n-militar-con-venezuela",
    "date": "2026-11-18T23:53:38+00:00",
    "category": "Conflictos armados y seguridad internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "fcc3f6dd3d02",
-   "source": "Al Jazeera",
-   "title": "Israel uses Gaza swimming video to minimise winter hardships",
-   "description": "Israel shared an Al Jazeera video of Palestinians swimming, to suggest winter storms in Gaza can’t be that bad.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
-   "date": "2026-11-18T23:53:21+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -619,26 +669,6 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/mosa-abordo-posible-fichaje-de-alexis-sanchez-en-colo-colo-quiero-ser/2026-11-18/204044.html",
    "date": "2026-11-18T23:40:44+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a047cbe15f4e",
-   "source": "Al Jazeera",
-   "title": "Migrant boat capsizes off Senegal, leaving at least one dead",
-   "description": "Incident comes days after another boat capsized in Senegalese waters, and Spain declared a migration emergency.",
-   "url": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss",
-   "date": "2026-11-18T23:36:23+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "7a33a3635bcd",
-   "source": "Al Jazeera",
-   "title": "NASA’s Voyager 1 hits record one light-day distance, 50 years after launch",
-   "description": "Voyager 1 reaches one light-day from Earth, marking a historic milestone nearly 50 years after its 1977 launch.",
-   "url": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss",
-   "date": "2026-11-18T23:35:12+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -832,16 +862,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1a52a613d804",
-   "source": "The Guardian",
-   "title": "Member of anti-migrant group found guilty of Staffordshire murder",
-   "description": "Raise the Colours activist Billy Allison, 36, killed man in ‘completely unprovoked and unjustified’ attack, say police A member of anti-migrant group Raise the Colours has been found guilty of murdering a man in a “completely unprovoked and unjustified” attack. Billy Allison, 36,",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/18/member-anti-migrant-group-guilty-murder-raise-colours-billy-allison",
-   "date": "2026-11-18T21:27:54+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "4c0eb978871a",
    "source": "France 24",
    "title": "Trump, Xi y Putin: a qué apunta cada uno en su histórica cumbre en China",
@@ -909,26 +929,6 @@
    "url": "https://www.ex-ante.cl/negocios/gta-recaudo-us1-000-millones/",
    "date": "2026-11-18T20:41:25+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "0877fbd48d66",
-   "source": "Deutsche Welle",
-   "title": "Alemania alerta del deterioro de la libertad religiosa en el mundo",
-   "description": "Hostigamiento, persecución y vigilancia. En muchas partes del mundo, las personas creyentes sufren presiones por su fe. El informe formula críticas sorprendentemente contundentes contra Nicaragua.",
-   "url": "https://www.dw.com/es/alemania-alerta-del-deterioro-de-la-libertad-religiosa-en-el-mundo/a-79986129?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-18T20:35:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "84871f66a483",
-   "source": "The Guardian",
-   "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
-   "description": "High court judge issues order against Raise the Colours over flags on council-owned street furniture The campaign group Raise the Colours has been temporarily banned from placing union jacks on lamp-posts and roundabouts in Birmingham after a legal challenge by the local council.",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
-   "date": "2026-11-18T20:32:58+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1099,16 +1099,6 @@
    "url": "https://www.france24.com/es/video/20261118-dem%C3%B3cratas-suman-una-victoria-en-alaska-con-la-elecci%C3%B3n-de-la-primera-senadora-ind%C3%ADgena-del-estado",
    "date": "2026-11-18T18:27:21+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "b047e0a3fade",
-   "source": "France 24",
-   "title": "Sarampión se expande en América: EE. UU., Bolivia y México pierden certificación",
-   "description": "Estados Unidos, Bolivia y México perdieron la certificación como países libres de sarampión tras una ola de contagios, mientras que Guatemala se prepara para afrontar la misma situación, informó la Organización Panamericana de la Salud (OPS). El organismo pidió a los países que p",
-   "url": "https://www.france24.com/es/video/20261118-sarampi%C3%B3n-se-expande-en-am%C3%A9rica-ee-uu-bolivia-y-m%C3%A9xico-pierden-certificaci%C3%B3n",
-   "date": "2026-11-18T18:26:32+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
