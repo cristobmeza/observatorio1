@@ -1,6 +1,146 @@
 {
- "updated": "2026-11-19T07:11:59.269200+00:00",
+ "updated": "2026-11-19T08:56:31.554081+00:00",
  "items": [
+  {
+   "id": "b6419d6cbe48",
+   "source": "Deutsche Welle",
+   "title": "Xi, Trump y Putin se reúnen por separado antes de trilateral en APEC",
+   "description": "El presidente estadounidense, Donald Trump, y sus homólogos chino y ruso, Xi Jinping y Vladimir Putin, se prepararon así para la cumbre entre los tres mandatarios, que ya arrancó en la ciudad china de Shenzhen.",
+   "url": "https://www.dw.com/es/xi-trump-y-putin-se-reúnen-por-separado-antes-de-trilateral-en-apec/a-79987827?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-19T08:42:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "c3dc5f745574",
+   "source": "France 24",
+   "title": "🔴 En directo: comienza en Shenzhen, China, la histórica cumbre trilateral entre Trump, Xi y Putin",
+   "description": "",
+   "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261118-en-directo-trump-es-recibido-por-xi-jinping-y-estrecha-la-mano-a-putin-en-su-llegada-a-la-cumbre-apec",
+   "date": "2026-11-19T08:38:30+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "ade3623dcc69",
+   "source": "Al Jazeera",
+   "title": "Trump meets Putin and Xi as trilateral US, Russia, China talks begin",
+   "description": "US president calls both Putin and Xi a 'friend' in separate meetings at APEC, ahead of rare three-way talks.",
+   "url": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
+   "date": "2026-11-19T08:32:10+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "a35a305dffaf",
+   "source": "Al Jazeera",
+   "title": "Is Trump helping rehabilitate Putin on the world stage?",
+   "description": "Is Trump helping rehabilitate Putin on the world stage?",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-trump-helping-rehabilitate-putin-on-the-world-stage?traffic_source=rss",
+   "date": "2026-11-19T08:31:14+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "3a8a6f932873",
+   "source": "The Guardian",
+   "title": "‘We don’t produce Neets’: the London school recognised at World’s Best School awards",
+   "description": "Swiss Cottage school for children with complex needs is place where ‘every child feels they belong’, education secretary says For Maria, the hardest part of having a child with complex needs has been the grief: mourning the life she had imagined for her son, for her family – and ",
+   "url": "https://www.theguardian.com/education/2026/nov/19/london-swiss-cottage-school-worlds-best-school-awards",
+   "date": "2026-11-19T08:28:22+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "49e296e2caf6",
+   "source": "Al Jazeera",
+   "title": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
+   "description": "Material damage was reported after ​debris fell following the latest Houthi strikes launched towards Saudi Arabia.",
+   "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
+   "date": "2026-11-19T08:19:17+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a56501f1fe09",
+   "source": "The Guardian",
+   "title": "EDF snaps up 1.3m more customers after Utilita takeover",
+   "description": "Britain’s fourth-largest energy supplier brings account base up to 6m after purchase of pay-as-you-go supplier EDF Energy will grow its share of the UK’s household energy market to more than 6m customer accounts after snapping up the pay-as-you-go supplier Utilita. Great Britain’",
+   "url": "https://www.theguardian.com/business/2026/nov/19/edf-takeover-utilita-energy-suppliers-energy-bills",
+   "date": "2026-11-19T08:00:21+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "0c220f1208ce",
+   "source": "Al Jazeera",
+   "title": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
+   "description": "Hegseth's new military deal with Venezuela raises questions about US influence, regional security and Maduro's removal.",
+   "url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
+   "date": "2026-11-19T07:52:30+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "20f179f14b81",
+   "source": "Al Jazeera",
+   "title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
+   "description": "Israeli soldiers describe the psychological toll of the genocide in Gaza, yet many express no remorse.",
+   "url": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss",
+   "date": "2026-11-19T07:51:03+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "fbc76ad3fe9d",
+   "source": "Al Jazeera",
+   "title": "Charting the world’s biggest IPOs as Anthropic overtakes SpaceX",
+   "description": "The AI company behind Claude raised $81.3bn in the largest initial public offering ever, at a $1.5 trillion valuation.",
+   "url": "https://www.aljazeera.com/news/2026/11/19/charting-the-worlds-biggest-ipos-as-anthropic-overtakes-spacex?traffic_source=rss",
+   "date": "2026-11-19T07:36:08+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "99d6959eda73",
+   "source": "France 24",
+   "title": "La crisis en Medio Oriente supone la \"mayor amenaza\" para la seguridad energética de la historia, advierte la AIE",
+   "description": "La Agencia Internacional de la Energía (AIE) advirtió este jueves que la crisis en Medio Oriente representa la “mayor amenaza” para la seguridad energética de la historia. El bloqueo iraní del estrecho de Ormuz sigue alterando el suministro de petróleo, mientras los consumidores ",
+   "url": "https://www.france24.com/es/medio-oriente/20261119-la-crisis-en-medio-oriente-supone-la-mayor-amenaza-para-la-seguridad-energ%C3%A9tica-de-la-historia-advierte-la-aie",
+   "date": "2026-11-19T07:32:25+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "324344d45f90",
+   "source": "Al Jazeera",
+   "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
+   "description": "The US blockade of Iranian ports has a crippling effect on the economy, but Tehran insists its economy can survive.",
+   "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
+   "date": "2026-11-19T07:08:57+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "cefa7e4f06ed",
+   "source": "Al Jazeera",
+   "title": "Netanyahu’s last stand and the dangerous politics of survival",
+   "description": "Facing political oblivion, Netanyahu is playing a high-stakes game that could push Israel towards violence and chaos.",
+   "url": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss",
+   "date": "2026-11-19T06:58:44+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "524e19ecb588",
+   "source": "The Guardian",
+   "title": "Violent protests and killings in Bangladesh ahead of exiled Sheikh Hasina’s planned return",
+   "description": "Awami League party called for ⁠nationwide protest on Thursday after the government rejected Hasina’s request for passport Parts of Bangladesh were shut down Thursday as protests by supporters of former prime minister Sheikh Hasina sparked clashes, bomb blasts and arson attacks, w",
+   "url": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return",
+   "date": "2026-11-19T06:58:33+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "f6cdc8f498db",
    "source": "Al Jazeera",
@@ -8,16 +148,6 @@
    "description": "‘It’s my friend’: Moment Trump greets Putin at China summit",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/its-my-friend-moment-trump-greets-putin-at-china-summit?traffic_source=rss",
    "date": "2026-11-19T06:44:59+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "c3dc5f745574",
-   "source": "France 24",
-   "title": "🔴 En directo: Trump y Xi dialogan en China antes de una inédita cumbre trilateral con Putin",
-   "description": "",
-   "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261118-en-directo-trump-es-recibido-por-xi-jinping-y-estrecha-la-mano-a-putin-en-su-llegada-a-la-cumbre-apec",
-   "date": "2026-11-19T06:21:39+00:00",
    "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
@@ -169,16 +299,6 @@
    "url": "https://www.theguardian.com/environment/2026/nov/19/phil-bar-tailed-godwit-bird-tracked-round-trip-siberia",
    "date": "2026-11-19T05:01:17+00:00",
    "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "5c62a1c7c9eb",
-   "source": "The Guardian",
-   "title": "Weight-loss drugs used in nearly one in 10 homes in Great Britain, study finds",
-   "description": "About 2.6m adults are taking the drugs, fuelled by the regulator’s approval of the pill versions and a rise in male users At least one person is taking weight-loss drugs in 8.5% of households in Great Britain, according to research, meaning there are more homes with GLP-1 users t",
-   "url": "https://www.theguardian.com/science/2026/nov/19/weight-loss-drugs-nearly-one-in-10-homes-great-britain-study-finds",
-   "date": "2026-11-19T05:00:19+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -334,8 +454,8 @@
   {
    "id": "3a896e2abac9",
    "source": "Al Jazeera",
-   "title": "APEC Live: Ukraine, Iran, AI on table for historic Trump-Xi-Putin meeting",
-   "description": "The leaders of the US, China and Russia are due to hold highly anticipated talks in Shenzhen.",
+   "title": "APEC Live: ‘Groundbreaking’ Trump-Xi-Putin meeting starts",
+   "description": "The unprecedented summit follows Trump's bilateral meetings with China's Xi and Russia's Putin.",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
    "date": "2026-11-19T03:30:26+00:00",
    "category": "Rusia y espacio postsoviético",
@@ -442,16 +562,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1e3ff1b85e61",
-   "source": "Al Jazeera",
-   "title": "Hegseth unveils new US-Venezuela military deal",
-   "description": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
-   "date": "2026-11-19T01:48:46+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "c0e06d5bb943",
    "source": "France 24",
    "title": "Venezuela firma acuerdos de cooperación militar con EE. UU. 10 meses después de la captura de Maduro",
@@ -472,16 +582,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8cc00476e665",
-   "source": "Al Jazeera",
-   "title": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
-   "description": "A new report alleges that injuries on Epstein's body were overlooked by medical examiners during his 2019 autopsy.",
-   "url": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
-   "date": "2026-11-19T01:17:08+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "e14edac6ae92",
    "source": "Radio Cooperativa",
    "title": "O'Higgins clasificó a semifinales del Huasileirao tras remontar ante Colchagua",
@@ -489,16 +589,6 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/ohiggins/o-higgins-clasifico-a-semifinales-del-huasileirao-tras-remontar-ante/2026-11-18/221553.html",
    "date": "2026-11-19T01:15:53+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "5b86fb02b9d6",
-   "source": "Al Jazeera",
-   "title": "Settler rams into Palestinians at multiple locations in central Israel",
-   "description": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
-   "date": "2026-11-19T01:13:45+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -512,16 +602,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0733428c873b",
-   "source": "Al Jazeera",
-   "title": "German FA backs France’s Diallo for FIFA presidency",
-   "description": "Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support.",
-   "url": "https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss",
-   "date": "2026-11-19T00:44:50+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "0e9e44571ba3",
    "source": "Radio Cooperativa",
    "title": "Arrau lideró fiscalizaciones en Maipú: Cinco detenidos y un casino desbaratado",
@@ -529,26 +609,6 @@
    "url": "https://www.cooperativa.cl/noticias/pais/policial/arrau-lidero-fiscalizaciones-en-maipu-cinco-detenidos-y-un-casino/2026-11-18/214013.html",
    "date": "2026-11-19T00:40:13+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "4c89991f4966",
-   "source": "Al Jazeera",
-   "title": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
-   "description": "Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay.",
-   "url": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss",
-   "date": "2026-11-19T00:40:01+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "3bbc38bde420",
-   "source": "Al Jazeera",
-   "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
-   "description": "Mohamud’s reforms promise stronger government, but regional resistance and violence threaten the fragile deal of 2012.",
-   "url": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss",
-   "date": "2026-11-19T00:37:03+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -579,26 +639,6 @@
    "url": "https://www.dw.com/es/declaran-culpable-en-ee-uu-a-un-pastor-por-conspirar-para-matar-al-presidente-de-haití-jovenel-moïse/a-79986484?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-19T00:22:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "3c614a7708e2",
-   "source": "Al Jazeera",
-   "title": "Anthropic raises $81.3bn in biggest IPO of all time",
-   "description": "AI giant prices shares at $83 in blockbuster market debut.",
-   "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
-   "date": "2026-11-19T00:20:03+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "e9c6c7ddfb16",
-   "source": "Al Jazeera",
-   "title": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence",
-   "description": "Pennsylvania records eighth measles death of 2026, a day after the US formally loses its 26-year elimination status.",
-   "url": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss",
-   "date": "2026-11-19T00:14:40+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -812,16 +852,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3ab2eb668945",
-   "source": "The Guardian",
-   "title": "Leaseholders in England and Wales to have ground rent capped in 2028",
-   "description": "Housing minister hails ‘historic moment’ as he publishes bill to eventually ban almost all new leasehold properties Leaseholders in England and Wales will have their ground rent capped in 2028, the housing minister has said as he publishes a bill that will eventually ban virtuall",
-   "url": "https://www.theguardian.com/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
-   "date": "2026-11-18T22:30:09+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "96f15d359727",
    "source": "Radio Cooperativa",
    "title": "Argentina: asesino de tres mujeres en crimen de odio fue condenado a prisión perpetua",
@@ -888,16 +918,6 @@
    "description": "Un encuentro histórico, una \"Yalta 2.0\", el inicio de un \"nuevo orden mundial\". Ante la cumbre entre Xi, Trump y Putin en Shenzhen, abundan los superlativos. ¿Hay demasiadas expectativas?",
    "url": "https://www.dw.com/es/trump-xi-y-putin-en-busca-de-una-solución-para-irán-y-ucrania/a-79983531?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-18T20:57:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "b91c61198261",
-   "source": "Deutsche Welle",
-   "title": "¿Renunciaría Ucrania al Donbás a cambio de ingresar en la OTAN?",
-   "description": "EE. UU. quiere saber si Ucrania estaría dispuesta a retirarse de la parte de Donetsk que Rusia no ocupa a cambio de ingresar en la OTAN. Expertos consultados por DW explican por qué esta propuesta es peligrosa.",
-   "url": "https://www.dw.com/es/¿renunciaría-ucrania-al-donbás-a-cambio-de-ingresar-en-la-otan/a-79984054?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-18T20:56:00+00:00",
    "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
@@ -1062,16 +1082,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1d0a300e4abf",
-   "source": "France 24",
-   "title": "\"Me tomaré cuatro días libres\": furor por el videojuego Grand Theft Auto, que regresa tras 13 años",
-   "description": "Grand Theft Auto VI estará disponible en todo el mundo el jueves a la medianoche para consolas PlayStation 5 y Xbox Series, trece años después de su versión anterior y luego de dos aplazamientos y varias filtraciones. El videojuego más caro jamás desarrollado va camino a batir ré",
-   "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261118-me-tomar%C3%A9-cuatro-d%C3%ADas-libres-furor-por-el-videojuego-grand-theft-auto-que-regresa-tras-13-a%C3%B1os",
-   "date": "2026-11-18T19:00:21+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "8fae95498605",
    "source": "Deutsche Welle",
    "title": "Deutsche Bank: millones de documentos revelan prácticas dudosas",
@@ -1079,26 +1089,6 @@
    "url": "https://www.dw.com/es/deutsche-bank-millones-de-documentos-revelan-prácticas-dudosas/a-79985529?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-18T18:36:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "224224916715",
-   "source": "France 24",
-   "title": "Directo Latam y El Salvador se suma a la lucha contra las bandas criminales en Haití",
-   "description": "La violencia ejercida por las pandillas desde el magnicidio de Jovenel Moïse se ha apoderado de Haití. La nación más pobre y violenta de América Latina y El Caribe. Según Naciones Unidas, en los primeros 10 meses del 2026, 4.595 personas han sido víctimas de la violencia, un esce",
-   "url": "https://www.france24.com/es/video/20261118-directo-latam-y-el-salvador-se-suma-a-la-lucha-contra-las-bandas-criminales-en-hait%C3%AD",
-   "date": "2026-11-18T18:27:59+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "fe11a56b0dd7",
-   "source": "France 24",
-   "title": "Demócratas suman una victoria en Alaska con la elección de la primera senadora indígena del estado",
-   "description": "La demócrata Mary Peltola se convirtió en la primera mujer indígena de Alaska elegida para el Senado de Estados Unidos. Peltola derrotó al senador republicano Dan Sullivan, que aspiraba a un tercer mandato no consecutivo. El resultado supone un nuevo revés político para el presid",
-   "url": "https://www.france24.com/es/video/20261118-dem%C3%B3cratas-suman-una-victoria-en-alaska-con-la-elecci%C3%B3n-de-la-primera-senadora-ind%C3%ADgena-del-estado",
-   "date": "2026-11-18T18:27:21+00:00",
-   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -2449,16 +2439,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
    "date": "2026-11-10T10:57:51+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "6f75c33e9c2a",
-   "source": "The Guardian",
-   "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
-   "description": "From the assassinations of her husband and mother-in-law to press stonewalling under Modi, Belonging offers an insider’s account of India’s political evolution • Don’t get This is India delivered to your inbox? Sign up here Few love stories have been as closely entwined with a na",
-   "url": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
-   "date": "2026-11-10T07:30:31+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
