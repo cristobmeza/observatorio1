@@ -1,14 +1,64 @@
 {
- "updated": "2026-11-19T11:55:22.754870+00:00",
+ "updated": "2026-11-19T13:01:54.934901+00:00",
  "items": [
   {
-   "id": "f15b89f07bcd",
+   "id": "4255d73ad69b",
    "source": "The Guardian",
-   "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
-   "description": "Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speech Get our breaking news email , free app or daily news podcast Former New South Wales opposition leader, Mark Speakman, will not contest his seat at the March state elec",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-   "date": "2026-11-19T11:23:41+00:00",
+   "title": "AI demand will push up interest rates around the world, IMF head warns",
+   "description": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the Internatio",
+   "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+   "date": "2026-11-19T12:51:16+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "f4874c100bea",
+   "source": "The Guardian",
+   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
+   "description": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or Europe whatsoever. T",
+   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "date": "2026-11-19T12:49:25+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "c3bafbda7d34",
+   "source": "Radio Cooperativa",
+   "title": "Leicester City rompió con auspiciador que contrató a actriz porno rusa",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Leicester City , campeón de la Premier en 2016 y que hoy juega en la League One (tercera división inglesa), rompió con su principal patrocinador, la casa de apuestas en línea BC Game , tras el escándalo desatado por el nomb",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-inglesa/leicester-city-rompio-con-auspiciador-que-contrato-a-actriz-porno-rusa/2026-11-19/094634.html",
+   "date": "2026-11-19T12:46:34+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "c374a04d9221",
+   "source": "The Guardian",
+   "title": "Former WH Smith chain TG Jones put up for sale after closing 150 stores",
+   "description": "Modella Capital plans auction of high street retailer, which employs about 3,500 people, next year The owner of TG Jones is exploring a potential sale less than 18 months after completing a deal to buy the high street chain formerly known as WH Smith. Modella Capital, which also ",
+   "url": "https://www.theguardian.com/business/2026/nov/17/wh-smith-tg-jones-sale-stores-modella-capita",
+   "date": "2026-11-19T12:45:07+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "3c2c977ff790",
+   "source": "Radio Cooperativa",
+   "title": "Elon Musk puso las manos sobre Skydance: CEO confirma inversión del magnate",
+   "description": "El presidente y consejero delegado del gigante audiovisual Skydance , David Ellison, confirmó que el magnate Elon Musk invirtió en esa empresa surgida de la reciente fusión entre Paramount y Warner Bros. Discovery, y considera que es un honor. \"Contar con su voto de confianza y t",
+   "url": "https://www.cooperativa.cl/noticias/magazine/cine/elon-musk-puso-las-manos-sobre-skydance-ceo-confirma-inversion-del/2026-11-19/094232.html",
+   "date": "2026-11-19T12:42:32+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "bcea7298e9dc",
+   "source": "Deutsche Welle",
+   "title": "CIJ declara a Birmania culpable de genocidio contra los rohinyás",
+   "description": "La Corte Internacional de Justicia (CIJ) ordenó a Birmania (Myanmar) investigar a los responsables del genocidio contra la minoría musulmana rohinyá, indemnizar a las víctimas y facilitar el regreso de los desplazados.",
+   "url": "https://www.dw.com/es/cij-declara-a-birmania-culpable-de-genocidio-contra-los-rohinyás/a-79990666?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-19T12:42:00+00:00",
+   "category": "Derecho internacional",
    "type": "Prensa"
   },
   {
@@ -17,8 +67,278 @@
    "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
    "description": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu The Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow line” boundary since a fragile ceasefire",
    "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
-   "date": "2026-11-19T11:23:11+00:00",
+   "date": "2026-11-19T12:40:46+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "87b80ceb9b68",
+   "source": "The Guardian",
+   "title": "Car rams into Palestinian residents four times in Israeli city, injuring eight",
+   "description": "Arab MPs accuse Israeli politicians of fuelling hostility as footage shows driver accelerating towards pedestrians at several locations in Kafr Qasim Eight people were injured on Wednesday evening when a driver struck Palestinian residents at four separate locations in Kafr Qasim",
+   "url": "https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim",
+   "date": "2026-11-19T12:36:37+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e3907baa8830",
+   "source": "BBC Mundo",
+   "title": "La ONU declara culpable de genocidio contra los rohingyas a Myanmar, el primer Estado condenado por este crimen",
+   "description": "El histórico veredicto se alcanzó tras nueve votos a favor y seis en contra.",
+   "url": "https://www.bbc.com/mundo/articles/cm782edd78ewo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T12:34:51+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d0525042df23",
+   "source": "The Guardian",
+   "title": "Danish MPs approve Greenland security pact with US",
+   "description": "Danish foreign minister says deal ‘removes all uncertainty’ over territory but warns trust in US needs rebuilding Europe live – latest updates The Danish parliament has unanimously approved a new Arctic security pact between Greenland, Denmark and the US in what it is hoped will ",
+   "url": "https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us",
+   "date": "2026-11-19T12:33:52+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "5697f0a21908",
+   "source": "CIPER Chile",
+   "title": "Paro de camioneros: el método sí importa",
+   "description": "La entrada Paro de camioneros: el método sí importa se publicó primero en CIPER Chile .",
+   "url": "https://www.ciperchile.cl/2026/11/19/paro-de-camioneros-el-metodo-si-importa/?utm_source=rss&utm_medium=rss&utm_campaign=paro-de-camioneros-el-metodo-si-importa",
+   "date": "2026-11-19T12:32:40+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "2ae9b0818022",
+   "source": "Estudios Públicos (CEP)",
+   "title": "Un Estado que se reforma por partes",
+   "description": "La Tercera The post Un Estado que se reforma por partes appeared first on CEP Chile .",
+   "url": "https://www.cepchile.cl/un-estado-que-se-reforma-por-partes/",
+   "date": "2026-11-19T12:31:15+00:00",
+   "category": "Políticas públicas",
+   "type": "Académica"
+  },
+  {
+   "id": "f4560fbb1ae3",
+   "source": "Al Jazeera",
+   "title": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
+   "description": "The blaze broke out during heightened violence before ousted Prime Minister Sheikh Hasina's planned return.",
+   "url": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss",
+   "date": "2026-11-19T12:21:33+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "7be19dee19d5",
+   "source": "Al Jazeera",
+   "title": "ICJ rules Myanmar committed genocide against the Rohingya",
+   "description": "The ICJ has ruled that Myanmar committed genocide against the Rohingya in northern Rakhine State.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss",
+   "date": "2026-11-19T12:20:19+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "dd5058c978e6",
+   "source": "BBC Mundo",
+   "title": "China, Rusia y EE.UU. \"deben dar ejemplo\" y \"mantener la paz\": lo que Trump, Putin y Xi dijeron en su histórica cumbre",
+   "description": "Donald Trump, Xi Jinping y Vladimir Putin celebraron en Shenzhen la primera reunión trilateral entre EE.UU., China y Rusia.",
+   "url": "https://www.bbc.com/mundo/articles/cw1md5mzjj4vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T12:19:31+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "a9091d9c4366",
+   "source": "Radio Cooperativa",
+   "title": "Yasmani Acosta cambió sus planes de retiro y apunta a despedirse en los Sudamericanos del Biobío 2030",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El luchador chileno Yasmani Acosta realizó un emotivo anuncio a través de su cuenta de Instagram respecto al futuro de su trayectoria deportiva , revelando que la elección de la Región del Biobío como sede de los Juegos Sur",
+   "url": "https://www.cooperativa.cl/noticias/deportes/polideportivo/lucha/yasmani-acosta-cambio-sus-planes-de-retiro-y-apunta-a-despedirse-en-los/2026-11-19/091903.html",
+   "date": "2026-11-19T12:19:03+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "6b0149b04f5f",
+   "source": "BBC Mundo",
+   "title": "\"Se están quedando encerradas en sus casas sin un futuro\": el drama de las personas con discapacidad afectadas por las políticas de Milei en Argentina",
+   "description": "Familiares de personas con discapacidad han denunciado que la red de cuidados —terapeutas, hogares de cuidado y transportistas— ha colapsado. Ahora una ley intenta cambiarlo.",
+   "url": "https://www.bbc.com/mundo/articles/c617k978p47ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T12:18:50+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "1f7a5c304156",
+   "source": "The Guardian",
+   "title": "Lack of early border controls made UK ‘extremely vulnerable’ to Covid, inquiry finds",
+   "description": "Latest report also says test and trace failures allowed virus to spread quickly and unchecked UK politics live – latest updates The lack of international border controls at the start of the Covid-19 pandemic left the UK in an “extremely vulnerable position”, an inquiry has conclu",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/19/covid-inquiry-uk-report-lack-of-early-border-controls-virus-spread",
+   "date": "2026-11-19T12:13:45+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "6b7590070ede",
+   "source": "Al Jazeera",
+   "title": "What is a ‘nuclear briefcase’, spotted at the APEC summit?",
+   "description": "Vladimir Putin's special briefcase - thought to carry access to nuclear weapons - made a rare appearance in Shenzhen.",
+   "url": "https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit?traffic_source=rss",
+   "date": "2026-11-19T12:11:42+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "9d04da33deee",
+   "source": "The Guardian",
+   "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+   "description": "Judgment finds ‘intent to destroy a substantial part of the Rohingya population’ after case seen as critical test for dealing with most serious of state crimes Myanmar committed genocide against its Rohingya minority in its 2016-17 military campaign, the world’s highest court has",
+   "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+   "date": "2026-11-19T12:05:42+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "8424b41f0be7",
+   "source": "France 24",
+   "title": "Culmina inédita reunión entre Xi, Trump y Putin en la cumbre de la APEC",
+   "description": "El presidente chino, Xi Jinping, y sus homólogos estadounidense, Donald Trump, y ruso, Vladimir Putin, se reunieron este 19 de noviembre en Shenzhen en un encuentro inédito, en el marco de la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Una hora y 20 minutos des",
+   "url": "https://www.france24.com/es/video/20261119-culmina-in%C3%A9dita-reuni%C3%B3n-entre-xi-trump-y-putin-en-la-cumbre-de-la-apec",
+   "date": "2026-11-19T12:04:51+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "7d74cc7e8833",
+   "source": "The Guardian",
+   "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
+   "description": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because ‘double amputees run marathons’ These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this be",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "date": "2026-11-19T12:03:57+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "bc0396d8e5fa",
+   "source": "BBC Mundo",
+   "title": "Por qué la niebla está abandonando un excepcional bosque en Costa Rica y cambiando su ecosistema",
+   "description": "El Bosque Nuboso de Monteverde, en Costa Rica, está perdiendo su niebla por el cambio climático, lo que pone en peligros numerosas especies endémicas.",
+   "url": "https://www.bbc.com/mundo/articles/cqde1n5843yxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T12:00:14+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "ef436dacfab1",
+   "source": "Al Jazeera",
+   "title": "Argentina mourns teen footballer Nunez who died after on-pitch collision",
+   "description": "Abel Nunez, 16, died after suffering a severe blow to the head during a youth football match for his club, Ezeiza.",
+   "url": "https://www.aljazeera.com/sports/2026/11/19/argentina-mourns-teen-footballer-nunez-who-died-after-on-pitch-collision?traffic_source=rss",
+   "date": "2026-11-19T11:57:34+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "b01e562e8587",
+   "source": "France 24",
+   "title": "Myanmar cometió genocidio contra los rohingyas, sentencia la Corte Internacional de Justicia",
+   "description": "",
+   "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261119-myanmar-cometi%C3%B3-genocidio-contra-los-rohingyas-sentencia-la-corte-internacional-de-justicia",
+   "date": "2026-11-19T11:57:14+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "bb125b33b0ea",
+   "source": "Radio Cooperativa",
+   "title": "Sánchez: \"Cuando la gran mayoría está sufriendo porque no hay empleo, uno debe ordenar sus prioridades\"",
+   "description": "El diputado republicano Luis Sánchez defendió en Cooperativa el homenaje que el Presidente José Antonio Kast realizó al histórico líder vietnamita, Ho Chi Minh , durante su visita en Hanoi esta semana, considerándolo un gesto necesario para atraer inversión desde ese país . \"Lo q",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/sanchez-cuando-la-gran-mayoria-esta-sufriendo-porque-no-hay-empleo/2026-11-19/085430.html",
+   "date": "2026-11-19T11:54:30+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "aa6576938519",
+   "source": "The Guardian",
+   "title": "Tories select James Cleverly as candidate for London mayor",
+   "description": "Former home secretary wins 86% support in a membership vote to stand in May 2028 James Cleverly has been chosen by the Conservatives as their candidate in the next London mayoral election, with the former cabinet minister saying he would stand up to “anti-London” Andy Burnham. Cl",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/19/tories-select-james-cleverly-candidate-london-mayor",
+   "date": "2026-11-19T11:53:11+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "3a70bbb83909",
+   "source": "Deutsche Welle",
+   "title": "Xi, Trump y Putin adoptan \"Declaración de Paz\" sobre reforma de la ONU, desarme nuclear y petróleo",
+   "description": "En la cumbre sin precedentes de sus líderes, China, EE.UU. y Rusia adoptaron una declaración sobre riesgos nucleares, reforma de la ONU y petróleo, informaron el Kremlin y medios de comunicación estatales chinos.",
+   "url": "https://www.dw.com/es/xi-trump-y-putin-adoptan-declaración-de-paz-sobre-reforma-de-la-onu-desarme-nuclear-y-petróleo/a-79990663?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-19T11:52:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "345ed43a6137",
+   "source": "Radio Cooperativa",
+   "title": "\"Ninis\": uno de cada cinco jóvenes en el mundo ni estudia ni trabaja",
+   "description": "Uno de cada cinco jóvenes en todo el mundo no tiene empleo, ni cursa estudios o recibe algún tipo de formación , según el informe del Fondo de Población de Naciones Unidas (UNFPA), que aclara que no se debe culpar a los propios jóvenes de esta situación ya que la causa está en la",
+   "url": "https://www.cooperativa.cl/noticias/sociedad/desarrollo-humano/ninis-uno-de-cada-cinco-jovenes-en-el-mundo-ni-estudia-ni-trabaja/2026-11-19/085047.html",
+   "date": "2026-11-19T11:50:47+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "0ec6963c1046",
+   "source": "Radio Cooperativa",
+   "title": "\"Fuck Kast\": Hayley Williams mandó mensaje al presidente durante su concierto en Chile",
+   "description": "La cantante estadounidense Hayley Williams envió un duro mensaje contra el presidente José Antonio Kast durante el concierto que ofreció este miércoles en Santiago. La voz de Paramore llegó a Chile con la gira de promoción de su tercer disco solista \"Ego Death at a Bachelorette P",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/fuck-kast-hayley-williams-mando-mensaje-al-presidente-durante-su/2026-11-19/084803.html",
+   "date": "2026-11-19T11:48:03+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "7155f9276f89",
+   "source": "Radio Cooperativa",
+   "title": "Confirmado: Diallo y Tashima desafiarán a Infantino por la presidencia de la FIFA",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El francés Philippe Diallo y el japonés Kohzo Tashima lucharán junto al suizo Gianni Infantino, actual mandatario, por la presidencia de la FIFA , según las candidaturas recibidas en la secretaría general del máximo organis",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/fifa/confirmado-diallo-y-tashima-desafiaran-a-infantino-por-la-presidencia/2026-11-19/084229.html",
+   "date": "2026-11-19T11:42:29+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "d2c1ab75fc6f",
+   "source": "Al Jazeera",
+   "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+   "description": "Trump threatens to 'wipe out' Iran in case of attack as Tehran's capabilities remain unclear.",
+   "url": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss",
+   "date": "2026-11-19T11:38:39+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "b64454aefab2",
+   "source": "Radio Cooperativa",
+   "title": "Fiscalía investiga falsificación de firma de senadora que está con Kast en Asia",
+   "description": "La Fiscalía Regional de Valparaíso abrió una investigación de oficio para esclarecer una eventual falsificación de la firma de la senadora Ximena Órdenes (independiente-Partido Por la Democracia). La controversia estalló el martes por la tarde, tras aparecer en la Cámara Alta el ",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/senado/fiscalia-investiga-falsificacion-de-firma-de-senadora-que-esta-con-kast/2026-11-19/083545.html",
+   "date": "2026-11-19T11:35:45+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "f15b89f07bcd",
+   "source": "The Guardian",
+   "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
+   "description": "Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speech Get our breaking news email , free app or daily news podcast Former New South Wales opposition leader, Mark Speakman, will not contest his seat at the March state elec",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+   "date": "2026-11-19T11:23:41+00:00",
+   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -52,16 +372,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7d74cc7e8833",
-   "source": "The Guardian",
-   "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
-   "description": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because ‘double amputees run marathons’ These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this be",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T11:17:43+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "1dad1a1b07f4",
    "source": "Radio Cooperativa",
    "title": "Carabineros detuvo a cuatro personas por tráfico de drogas en San Bernardo",
@@ -72,20 +382,10 @@
    "type": "Prensa"
   },
   {
-   "id": "dd5058c978e6",
-   "source": "BBC Mundo",
-   "title": "\"Tenemos una responsabilidad compartida\": lo que pasó y se dijo en la histórica cumbre entre Trump, Putin y Xi en China",
-   "description": "Donald Trump, Xi Jinping y Vladimir Putin celebraron en Shenzhen la primera reunión trilateral entre EE.UU., China y Rusia.",
-   "url": "https://www.bbc.com/mundo/articles/cw1md5mzjj4vo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T11:13:49+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "44772daf3a01",
    "source": "The Guardian",
    "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
-   "description": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systematic betrayal of Kardell Lomas before her death recognised Guardian Australia journalists have won two Walkley awards, one for a story about the systemic betrayal of a woman who was killed by her partner,",
+   "description": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systemic betrayal of Kardell Lomas before her death recognised Guardian Australia journalists have won two Walkley awards, one for a story about the systemic betrayal of a woman who was killed by her partner, a",
    "url": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
    "date": "2026-11-19T11:13:32+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -99,16 +399,6 @@
    "url": "https://www.dw.com/es/suspendida-por-dopaje-con-epo-campeona-mundial-de-maratón-peres-jepchirchir/a-79989137?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-19T11:12:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "f4874c100bea",
-   "source": "The Guardian",
-   "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
-   "description": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us from such friends’ For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or Europe what",
-   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T11:09:58+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -132,16 +422,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9d04da33deee",
-   "source": "The Guardian",
-   "title": "Myanmar committed acts of genocide against Rohingya minority, world’s top court rules",
-   "description": "Judgment ends seven-year legal battle and is seen as critical test for dealing with most serious of all state crimes Myanmar committed acts of genocide against its Rohingya minority during “clearance operations” nearly a decade ago, the world’s highest court has ruled. The judgme",
-   "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
-   "date": "2026-11-19T11:08:44+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "d8b02c5f8911",
    "source": "Radio Cooperativa",
    "title": "Ñuñoa: Detienen a sujetos que intentaron robar una casa y huir por los techos",
@@ -159,16 +439,6 @@
    "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
    "date": "2026-11-19T11:03:24+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "c8a7f3bf9b56",
-   "source": "Radio Cooperativa",
-   "title": "Parlamento danés aprobó tratado de seguridad con EE.UU. sobre Groenlandia",
-   "description": "El Folketing (Parlamento danés) aprobó el acuerdo de seguridad firmado en septiembre pasado entre Dinamarca, el territorio autónomo de Groenlandia y Estados Unido s, por 109 votos a favor y ninguno en contra. El pacto, que ya había sido visado hace dos semanas por el Inatsisartut",
-   "url": "https://www.cooperativa.cl/noticias/mundo/europa/dinamarca/parlamento-danes-aprobo-tratado-de-seguridad-con-ee-uu-sobre-groenlandia/2026-11-19/075607.html",
-   "date": "2026-11-19T10:56:07+00:00",
-   "category": "Derecho internacional",
    "type": "Prensa"
   },
   {
@@ -192,16 +462,6 @@
    "type": "Prensa"
   },
   {
-   "id": "482e7608df6f",
-   "source": "Radio Cooperativa",
-   "title": "Justicia anuló sentencia de 15 años contra exprimer ministro surcoreano",
-   "description": "El Tribunal Supremo de Corea del Sur anuló la condena a 15 años de prisión contra el exprimer ministro Han Duck-soo , sentenciado por su participación en la fallida imposición de la ley marcial en diciembre de 2024 , y devolvió el caso a un tribunal inferior. La máxima instancia ",
-   "url": "https://www.cooperativa.cl/noticias/mundo/peninsula-de-corea/corea-del-sur/justicia-anulo-sentencia-de-15-anos-contra-exprimer-ministro-surcoreano/2026-11-19/074330.html",
-   "date": "2026-11-19T10:43:30+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
    "id": "4f7a1d18581f",
    "source": "Al Jazeera",
    "title": "FIFA confirms Diallo, Tashima as Infantino’s challengers at 2027 election",
@@ -214,7 +474,7 @@
   {
    "id": "ba1b3658cff5",
    "source": "Al Jazeera",
-   "title": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya",
+   "title": "UN top court finds Myanmar guilty of genocide against Rohingya",
    "description": "In case filed at the ICJ in 2019, The Gambia accused Myanmar of breaching the 1948 Genocide Convention.",
    "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
    "date": "2026-11-19T10:31:36+00:00",
@@ -229,26 +489,6 @@
    "url": "https://www.dw.com/es/concluye-la-cumbre-entre-xi-trump-y-putin-así-funciona-el-mundo/a-79988164?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-19T10:20:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "8f116cfefd26",
-   "source": "Radio Cooperativa",
-   "title": "Xi abogó ante Trump y Putin por eliminar y prohibir las armas nucleares",
-   "description": "Xi Jinping abogó este jueves ante Donald Trump y Vladímir Putin por la completa eliminación y prohibición de las armas nucleares , que describió como \"una espada de Damocles \" que pende sobre la humanidad. Durante su esperada reunión tripartita en la ciudad de Shenzhen , Xi urgió",
-   "url": "https://www.cooperativa.cl/noticias/mundo/china/xi-abogo-ante-trump-y-putin-por-eliminar-y-prohibir-las-armas-nucleares/2026-11-19/071639.html",
-   "date": "2026-11-19T10:16:39+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "1ae1bcf9100b",
-   "source": "The Guardian",
-   "title": "New law ‘may be needed’ after Google rejects call to remove Russell Brand’s YouTube prison message",
-   "description": "Ex-minister Jess Phillips admits government does not have power to compel platforms to remove distressing content UK politics live – latest updates A new online safety act is likely to be needed to tackle convicted criminals such as Russell Brand using social media platforms to b",
-   "url": "https://www.theguardian.com/news/2026/nov/19/google-youtube-russell-brand-youtube-prison-message-jess-phillips-new-law",
-   "date": "2026-11-19T10:12:54+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -309,26 +549,6 @@
    "url": "https://www.dw.com/es/francia-no-espera-nada-de-la-cumbre-entre-trump-putin-y-xi/a-79988836?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-19T09:48:00+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "a56501f1fe09",
-   "source": "The Guardian",
-   "title": "EDF snaps up 1.3m more customers after Utilita takeover",
-   "description": "Great Britain’s fourth-largest energy supplier brings account base up to 6m after purchase of pay-as-you-go supplier EDF Energy will grow its share of the UK’s household energy market to more than 6m customer accounts after snapping up the pay-as-you-go supplier Utilita. Great Br",
-   "url": "https://www.theguardian.com/business/2026/nov/19/edf-takeover-utilita-energy-suppliers-energy-bills",
-   "date": "2026-11-19T09:44:32+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "feafd76d135d",
-   "source": "The Guardian",
-   "title": "BAE to slash 1,000 jobs across head office and air business to streamline orders",
-   "description": "Job cuts to exclude shop floor, aircraft maintenance and trainees but move prompts calls for more orders to support British defence giant BAE Systems has announced plans to cut more than 1,000 jobs from its workforce, triggering calls for ministers to place extra orders with Brit",
-   "url": "https://www.theguardian.com/business/2026/nov/19/bae-to-slash-1000-jobs-across-head-office-and-air-business-to-streamline-orders",
-   "date": "2026-11-19T09:19:05+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -522,46 +742,6 @@
    "type": "Prensa"
   },
   {
-   "id": "df3f0c5803c0",
-   "source": "Al Jazeera",
-   "title": "Grand Theft Auto VI launches to rave reviews after 13-year wait",
-   "description": "Critics hail GTA 6 as a 'masterpiece', 'spectacular', and an 'astonishing American epic'.",
-   "url": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait?traffic_source=rss",
-   "date": "2026-11-19T06:08:47+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "f9524ec13474",
-   "source": "Al Jazeera",
-   "title": "The Xi-Putin-Trump summit will not be a ‘new Yalta’",
-   "description": "The three leaders have divergent geopolitical goals and visions for the world order.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
-   "date": "2026-11-19T06:07:05+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "ad7e4909d412",
-   "source": "Al Jazeera",
-   "title": "Ecuadorian footballer gets eight-year ban for throwing rock at referee",
-   "description": "Jhon Perlaza threw a stone that struck an assistant referee, who later required surgery, during a third-tier match.",
-   "url": "https://www.aljazeera.com/sports/2026/11/19/ecuadorian-footballer-gets-eight-year-ban-for-throwing-rock-at-referee?traffic_source=rss",
-   "date": "2026-11-19T06:06:23+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "b2991930dfcb",
-   "source": "The Guardian",
-   "title": "Car use in London forecast to rise by 10% in next decade",
-   "description": "Modelling in draft of 10-year London plan threatens Sadiq Khan’s promises on improving air quality Car use in London will rise by 10% over the next decade with cycling and walking falling as a proportion of trips, according to an official forecast by the city’s mayoralty, putting",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
-   "date": "2026-11-19T06:00:20+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "e16e9f7a83b7",
    "source": "France 24",
    "title": "En la COP31, los ministros intentan desbloquear las negociaciones para adoptar un texto final",
@@ -602,16 +782,6 @@
    "type": "Prensa"
   },
   {
-   "id": "dcb2ecd0d655",
-   "source": "Al Jazeera",
-   "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
-   "description": "World court to issue key verdict in its first genocide ruling in more than a decade.",
-   "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
-   "date": "2026-11-19T05:13:13+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d9de3e200f98",
    "source": "The Guardian",
    "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
@@ -622,16 +792,6 @@
    "type": "Prensa"
   },
   {
-   "id": "827c736e6f79",
-   "source": "Al Jazeera",
-   "title": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
-   "description": "European leaders set to meet in Berlin as Kyiv faces a 25 billion-euro ($27.4bn) financing gap next year.",
-   "url": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
-   "date": "2026-11-19T04:58:36+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "299d4c5592fe",
    "source": "Río en Línea",
    "title": "Biología Marina UACh a partir de 2027 también se impartirá en Puerto Montt",
@@ -639,16 +799,6 @@
    "url": "https://www.rioenlinea.cl/biologia-marina-uach-a-partir-de-2027-tambien-se-impartira-en-puerto-montt/",
    "date": "2026-11-19T04:39:56+00:00",
    "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
-   "id": "fda94d68d0f9",
-   "source": "Radio Cooperativa",
-   "title": "Kast en cumbre APEC: Entendemos la región como una familia de naciones libres y soberanas",
-   "description": "En su alocución en la Cumbre de Líderes APEC , el Presidente José Antonio Kast destacó la importancia de la reunión trilateral que sostendrán durante esta misma jornada los mandatarios de Rusia, Estados Unidos y China. En una participación que se extendió por más de cinco minutos",
-   "url": "https://www.cooperativa.cl/noticias/economia/foros-internacionales/apec/kast-en-cumbre-apec-entendemos-la-region-como-una-familia-de-naciones/2026-11-19/013419.html",
-   "date": "2026-11-19T04:34:19+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -722,16 +872,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3b068120926d",
-   "source": "Radio Cooperativa",
-   "title": "Arranca en Shenzhen el plenario de la cumbre de líderes de la APEC, con Xi, Trump y Putin",
-   "description": "El plenario de la cumbre de líderes del Foro de Cooperación Económica Asia-Pacífico (APEC) arrancó hoy en la megalópolis china de Shenzhen con la presencia de los gobernantes de una veintena de economías de la región, entre ellos los de Estadis Unidos, Donald Trump, y Rusia, Vlad",
-   "url": "https://www.cooperativa.cl/noticias/economia/foros-internacionales/apec/arranca-en-shenzhen-el-plenario-de-la-cumbre-de-lideres-de-la-apec-con/2026-11-18/233550.html",
-   "date": "2026-11-19T02:35:50+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "f14c922449a1",
    "source": "France 24",
    "title": "Informe desde Shenzhen: inicia cumbre de la APEC con expectativas por reunión Trump-Xi-Putin",
@@ -759,36 +899,6 @@
    "url": "https://www.france24.com/es/video/20261119-venezuela-firma-acuerdos-de-cooperaci%C3%B3n-militar-con-ee-uu-10-meses-despu%C3%A9s-de-la-captura-de-maduro",
    "date": "2026-11-19T01:40:23+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "01611b332787",
-   "source": "Radio Cooperativa",
-   "title": "Pulgar quedó suspendido en Flamengo y se perderá duelo crucial ante Palmeiras en el Brasileirao",
-   "description": "El chileno Erick Pulgar tuvo una agridulce jornada en Brasil , ya que su equipo Flamengo venció a Atlético Paranaense y quedó a un triunfo del título; pero quedó suspendido y no podrá jugar justamente en el duelo clave por el campeonato, ante el escolta Palmeiras, este sábado en ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-brasilena/pulgar-quedo-suspendido-en-flamengo-y-se-perdera-duelo-crucial-ante/2026-11-18/223514.html",
-   "date": "2026-11-19T01:35:14+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "fcdc36c7b69e",
-   "source": "Deutsche Welle",
-   "title": "Musk dice que se siente \"bastante tonto\" por haber gastado 445 millones de dólares en elecciones de EE.UU.",
-   "description": "El magnate se lamentó por \"haber gastado tanto dinero y no haber visto mucho a cambio\", en clara alusión a la debacle republicana en las urnas.",
-   "url": "https://www.dw.com/es/musk-dice-que-se-siente-bastante-tonto-por-haber-gastado-445-millones-de-dólares-en-elecciones-de-ee-uu/a-79986510?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-19T01:00:00+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "1eadad814d20",
-   "source": "Deutsche Welle",
-   "title": "Declaran culpable en EE.UU. a un pastor por conspirar para matar al presidente de Haití, Jovenel Moïse",
-   "description": "El pastor Christian Emmanuel Sanon, que se había declarado no culpable, se expone a una condena de cadena perpetua.",
-   "url": "https://www.dw.com/es/declaran-culpable-en-ee-uu-a-un-pastor-por-conspirar-para-matar-al-presidente-de-haití-jovenel-moïse/a-79986484?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-19T00:22:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -952,16 +1062,6 @@
    "type": "Prensa"
   },
   {
-   "id": "378506b68903",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver la final de la Liga de Ascenso entre Cobreloa y San Luis?",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Después de un emocionante final en la fase regular de la Liga de Ascenso, Cobreloa y San Luis zanjarán la definición por el título y el pasaje a la Primera División este sábado 21 de noviembre, en un partido único en el Est",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/cuando-y-donde-ver-la-final-de-la-liga-de-ascenso-entre-cobreloa-y-san/2026-11-18/190720.html",
-   "date": "2026-11-18T22:07:20+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "68b9492bacd5",
    "source": "Ex-Ante",
    "title": "“Guardianas de la Memoria”: 190 mujeres Lickanantay rescatan sus historias y tradiciones en un libro colectivo",
@@ -1042,16 +1142,6 @@
    "type": "Prensa"
   },
   {
-   "id": "aa44eaefbec6",
-   "source": "France 24",
-   "title": "'GTA VI': ¿por qué causa tanto furor y críticas al mismo tiempo?",
-   "description": "El 19 de noviembre será el lanzamiento del videojuego 'Grand Theft Auto VI'. Un fenómeno que ha generado millones de dólares, incluso una década después de su último juego. Hay predicciones de miles de trabajadores que pedirán el día libre solo para el estreno. Mientras que las c",
-   "url": "https://www.france24.com/es/programas/en-contexto/20261118-gta-vi-por-qu%C3%A9-causa-tanto-furor-y-cr%C3%ADticas-al-mismo-tiempo",
-   "date": "2026-11-18T19:48:32+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "c0d30b87ecd7",
    "source": "Deutsche Welle",
    "title": "Rockstar lanza \"GTA VI\" y desata una fiebre global entre los jugadores",
@@ -1092,26 +1182,6 @@
    "type": "Prensa"
   },
   {
-   "id": "03366e06c297",
-   "source": "The Guardian",
-   "title": "EU ‘to close door’ to talks on long-term UK ties until Burnham has decided on Brexit",
-   "description": "Diplomats say piecemeal approach of resets is coming to an end and Europe wants clarity on whether Britain wants to reverse its exit The EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided w",
-   "url": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
-   "date": "2026-11-18T19:17:19+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "7a7119248072",
-   "source": "France 24",
-   "title": "Sin final a la vista: Irán promete ataques \"más devastadores\" y Arabia Saudita prevé un conflicto largo con los hutíes",
-   "description": "Las perspectivas de una desescalada en Medio Oriente lucen más que improbables, a la luz del anuncio del comandante en jefe del ejército iraní de ampliar las ofensivas “sin limitaciones geográficas”, en respuesta a recientes ataques estadounidenses contra la isla de Qeshm. Mientr",
-   "url": "https://www.france24.com/es/medio-oriente/20261118-sin-final-a-la-vista-ir%C3%A1n-promete-ataques-m%C3%A1s-devastadores-y-arabia-saudita-prev%C3%A9-un-conflicto-largo-con-los-hut%C3%ADes",
-   "date": "2026-11-18T19:12:40+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "3f1022e1af12",
    "source": "Ex-Ante",
    "title": "Hermann González por PIB: “La incertidumbre por el futuro económico tendría efectos mayores de lo previsto”",
@@ -1119,16 +1189,6 @@
    "url": "https://www.ex-ante.cl/entrevista/herman-gonzalez-aborda-caida-pib-11/",
    "date": "2026-11-18T19:12:12+00:00",
    "category": "Economía nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "aff08b3ed650",
-   "source": "France 24",
-   "title": "Directo a... Washington y los demócratas nominan a Hakeem Jeffries para presidir la Cámara Baja",
-   "description": "Los demócratas elegidos para la Cámara de Representantes de Estados Unidos en las elecciones de mitad de mandato nominaron este 18 de noviembre a Hakeem Jeffries como candidato a presidirla en el próximo Congreso. La nominación lo deja a un paso de convertirse en el primer afroam",
-   "url": "https://www.france24.com/es/video/20261118-directo-a-washington-y-los-dem%C3%B3cratas-nominan-a-hakeem-jeffries-para-presidir-la-c%C3%A1mara-baja",
-   "date": "2026-11-18T19:05:33+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1382,6 +1442,16 @@
    "type": "Prensa"
   },
   {
+   "id": "a479780918f2",
+   "source": "CIPER Chile",
+   "title": "Presupuesto 2027 y el desafío de los cuidados",
+   "description": "La entrada Presupuesto 2027 y el desafío de los cuidados se publicó primero en CIPER Chile .",
+   "url": "https://www.ciperchile.cl/2026/11/18/presupuesto-2027-y-el-desafio-de-los-cuidados/?utm_source=rss&utm_medium=rss&utm_campaign=presupuesto-2027-y-el-desafio-de-los-cuidados",
+   "date": "2026-11-18T07:27:10+00:00",
+   "category": "Finanzas públicas",
+   "type": "Prensa"
+  },
+  {
    "id": "d9519eeccb0b",
    "source": "CIPER Chile",
    "title": "¿Más poder, menos responsabilidad? La reforma al mercado de capitales y su efecto en las sociedades anónimas",
@@ -1539,26 +1609,6 @@
    "url": "https://www.dw.com/es/por-qué-gta-vi-es-más-que-un-simple-videojuego/a-79975218?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-17T20:23:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "56d7193e654e",
-   "source": "The Guardian",
-   "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
-   "description": "Bullet hit 72-year-old Fadha Wadha in head outside her home in al-Duyuk al-Tahta, in the West Bank, say residents A 72-year-old Palestinian woman has been shot dead in an overnight attack by Israeli settlers in a village near Jericho where settlers have recently moved in after ta",
-   "url": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
-   "date": "2026-11-17T20:21:48+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "07a8b50eb82c",
-   "source": "BBC Mundo",
-   "title": "Qué se sabe del caso de Camilo Rodríguez, el primer periodista asesinado en Costa Rica en 25 años",
-   "description": "Camilo Rodríguez era conocido en Costa Rica por denunciar a presuntos narcotraficantes, así como las conexiones de políticos y figuras públicas con actividades del crimen organizado.",
-   "url": "https://www.bbc.com/mundo/articles/ckwy97jpg0dpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T19:23:48+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -1802,16 +1852,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0947c2365223",
-   "source": "BBC Mundo",
-   "title": "Qué tan poderosas son las pandillas a las que se enfrenta Bukele en Haití",
-   "description": "El presidente de El Salvador ha enviado al menos 2.000 militares de fuerzas especiales al país caribeño.",
-   "url": "https://www.bbc.com/mundo/watch/cxj05r723gpjo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T19:14:07+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "9f9b5d84b178",
    "source": "BBC Mundo",
    "title": "\"Es Pattinson, Robert Pattinson\": el actor británico será el nuevo James Bond",
@@ -1922,16 +1962,6 @@
    "type": "Oficial"
   },
   {
-   "id": "2c5bd941e120",
-   "source": "BBC Mundo",
-   "title": "Jojo, el gorila que lleva 11 años solo tras la muerte de su familia y para el que los científicos buscan compañía",
-   "description": "El primate fue cazado ilegalmente cuando era un bebé y creció en cautiverio. Sus cuidadores quieren encontrarle un amigo, pero la tarea no está resultando fácil.",
-   "url": "https://www.bbc.com/mundo/articles/cmx2xn9gy40ko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T11:36:19+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "e480cbeb4dfe",
    "source": "BBC Mundo",
    "title": "Muere a los 80 años Miguel Ángel Félix Gallardo, el \"Jefe de Jefes\" que revolucionó el narcotráfico en México al aliarse con carteles de Colombia",
@@ -1939,16 +1969,6 @@
    "url": "https://www.bbc.com/mundo/articles/c65y172egk2qo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-16T11:09:57+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "0d07582fe4fc",
-   "source": "CIPER Chile",
-   "title": "Nadie come cultura, pero algunos se la devoran",
-   "description": "La entrada Nadie come cultura, pero algunos se la devoran se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/16/nadie-come-cultura-pero-algunos-se-la-devoran/?utm_source=rss&utm_medium=rss&utm_campaign=nadie-come-cultura-pero-algunos-se-la-devoran",
-   "date": "2026-11-16T08:00:30+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1979,16 +1999,6 @@
    "url": "https://www.bbc.com/mundo/articles/crn4ed2ljg8no?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-15T13:13:11+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "12d9524a6554",
-   "source": "CIPER Chile",
-   "title": "Niñez, desalojos, periodismo y justicia laboral: el balance del Informe Anual sobre Derechos Humanos 2026 de la UDP",
-   "description": "La entrada Niñez, desalojos, periodismo y justicia laboral: el balance del Informe Anual sobre Derechos Humanos 2026 de la UDP se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/15/adelanto-del-informe-anual-sobre-derechos-humanos-en-chile-2026-de-la-udp-una-causa-laboral-fallada-tarda-casi-un-ano-en-resolverse/?utm_source=rss&utm_medium=rss&utm_campaign=adelanto-del-informe-anual-sobre-derechos-humanos-en-chile-2026-de-la-udp-una-causa-laboral-fallada-tarda-casi-un-ano-en-resolverse",
-   "date": "2026-11-15T13:00:08+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -2542,16 +2552,6 @@
    "type": "Oficial"
   },
   {
-   "id": "1317957d99ac",
-   "source": "Estudios Públicos (CEP)",
-   "title": "El segundo piso: el arte de no ser noticia",
-   "description": "La Tercera The post El segundo piso: el arte de no ser noticia appeared first on CEP Chile .",
-   "url": "https://www.cepchile.cl/el-segundo-piso-el-arte-de-no-ser-noticia/",
-   "date": "2026-11-04T18:22:18+00:00",
-   "category": "Políticas públicas",
-   "type": "Académica"
-  },
-  {
    "id": "aceaa3f9248a",
    "source": "Organización Mundial de la Salud",
    "title": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
@@ -2560,16 +2560,6 @@
    "date": "2026-10-10T07:49:45+00:00",
    "category": "",
    "type": "Oficial"
-  },
-  {
-   "id": "dbbc4dc71f68",
-   "source": "Radio Cooperativa",
-   "title": "Cartelera de conciertos 2026 en Chile",
-   "description": "CONCIERTOS 2026 EN CHILE CONCIERTOS NOVIEMBRE 2026 1 de noviembre - Iron Maiden - Estadio Nacional - Entradas 1 de noviembre - Alex Serra y Totidub - Club Chocolate - Entradas 1 de noviembre - Opeth - Santander Arena - Entradas 1 de noviembre - Nicole - Teatro Municipal Valparaís",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html",
-   "date": "2025-12-01T11:21:52+00:00",
-   "category": "",
-   "type": "Prensa"
   },
   {
    "id": "9745c15368a2",
