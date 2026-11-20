@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-20T03:48:45.850517+00:00",
+ "updated": "2026-11-20T04:54:56.821455+00:00",
  "items": [
+  {
+   "id": "679a248b00dd",
+   "source": "The Guardian",
+   "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
+   "description": "Community expectations around datacentres have changed in the age of AI, chief executive Craig Scroggie says Community backlash to a datacentre expansion in inner Melbourne that resulted in NextDC’s share price dropping 40% will change the way the company engages with communities",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
+   "date": "2026-11-20T04:37:08+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "417d37d5d239",
+   "source": "Deutsche Welle",
+   "title": "Inusuales restricciones a teléfonos de los periodistas que viajan de China a Washington a bordo del Air Force One",
+   "description": "Al salir de China, todos los dispositivos fueron colocados en bolsas que bloquean la señal, hasta que el avión aterrizó en Estados Unidos.",
+   "url": "https://www.dw.com/es/inusuales-restricciones-a-teléfonos-de-los-periodistas-que-viajan-de-china-a-washington-a-bordo-del-air-force-one/a-79998603?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-20T04:16:00+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "391c85a082d4",
+   "source": "The Guardian",
+   "title": "‘Perfect weapon’: diabetic woman found guilty of murdering her 94-year-old parents with insulin",
+   "description": "Jury convicts Raelene Polymiadis after four-month trial in South Australian supreme court Get our breaking news email , free app or daily news podcast A jury has convicted a diabetic woman of murdering both her elderly parents with insulin after a marathon criminal trial. Raelene",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/20/diabetic-woman-found-guilty-murdering-94-year-old-parents-with-insulin-ntwnfb",
+   "date": "2026-11-20T04:15:16+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "86b7d86c41fd",
+   "source": "Radio Cooperativa",
+   "title": "Tribunal revocó prisión preventiva de padre de la niña que murió tras caer de edificio en Las Condes",
+   "description": "El Cuarto Juzgado de Garantía de Santiago revocó la prisión preventiva de Jorge Constanzo, imputado por su responsabilidad en la muerte de su hija de dos años, quien en mayo pasado cayó desde el piso 11 de un departamento en Las Condes. Tras casi seis meses de prisión preventiva,",
+   "url": "https://www.cooperativa.cl/noticias/pais/judicial/casos-emblematicos/tribunal-revoco-prision-preventiva-de-padre-de-la-nina-que-murio-tras/2026-11-20/011019.html",
+   "date": "2026-11-20T04:10:19+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "8d352d5a322f",
+   "source": "BBC Mundo",
+   "title": "\"Aquí los drones no vuelan\": la BBC en el interior del gasoducto desde el que Ucrania libra una guerra subterránea contra Rusia",
+   "description": "Las fuerzas ucranianas combaten contra las tropas rusas en un antiguo túnel soviético en la región de Járkiv en condiciones extremas.",
+   "url": "https://www.bbc.com/mundo/articles/c6wy418my1mlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T04:06:31+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "e17ab401d9df",
+   "source": "Al Jazeera",
+   "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
+   "description": "Advocates raised concerns about the Tim Horton’s app and consumer privacy and data-sharing.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal-2?traffic_source=rss",
+   "date": "2026-11-20T04:05:17+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "b212f03f2129",
    "source": "Al Jazeera",
@@ -412,16 +472,6 @@
    "type": "Prensa"
   },
   {
-   "id": "49c20b4da0ad",
-   "source": "Radio Cooperativa",
-   "title": "\"Me lo merezco\": Naya Fácil confirmó que deberá declarar ante la PDI por conducir a 211 km/h",
-   "description": "Naya Fácil confirmó que deberá declarar ante la Policía de Investigaciones (PDI), luego de recibir una notificación en su domicilio por un episodio de conducción temeraria ocurrido en julio de este año. En dicha ocasión, la creadora de contenido compartió un video en sus redes so",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/me-lo-merezco-naya-facil-confirmo-que-debera-declarar-ante-la-pdi-por/2026-11-19/202433.html",
-   "date": "2026-11-19T23:24:33+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "b63310560841",
    "source": "Ex-Ante",
    "title": "Quiebre en Ciencia: la trama de la renuncia de la subsecretaria Rossi y sus diferencias con la ministra Lincolao",
@@ -439,16 +489,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
    "date": "2026-11-19T23:09:48+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "9ac87738f60e",
-   "source": "The Guardian",
-   "title": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
-   "description": "The former Liberal MP had fought a long battle against glioblastoma, an aggressive form of brain cancer Get our daily political email , free app or daily news podcast Former Liberal MP Sharman Stone has died via voluntary assisted dying after spending much of her political career",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
-   "date": "2026-11-19T23:07:02+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -509,16 +549,6 @@
    "url": "https://www.dw.com/es/he-cometido-errores-admite-pedro-sánchez-en-apertura-de-cara-a-cara-electoral-en-españa/a-79998239?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-19T22:23:00+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "f15b89f07bcd",
-   "source": "The Guardian",
-   "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
-   "description": "Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speech Get our breaking news email , free app or daily news podcast Former New South Wales opposition leader Mark Speakman will not contest his seat at the March state electi",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-   "date": "2026-11-19T22:17:09+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -819,16 +849,6 @@
    "url": "https://www.bbc.com/mundo/articles/cqm2ln990v10o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T20:34:12+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "dc14bcf006b5",
-   "source": "Al Jazeera",
-   "title": "Trump’s case against NYT and Penguin Random House may proceed: Judge",
-   "description": "The lawsuit cited a book about Trump by two NYT reporters and what it said were 'false, malicious, defamatory' articles.",
-   "url": "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss",
-   "date": "2026-11-19T20:32:46+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1320,16 +1340,6 @@
    "date": "2026-11-19T12:00:00+00:00",
    "category": "Jurisprudencia",
    "type": "Oficial"
-  },
-  {
-   "id": "3a70bbb83909",
-   "source": "Deutsche Welle",
-   "title": "Xi, Trump y Putin adoptan \"Declaración de Paz\" sobre reforma de la ONU, desarme nuclear y petróleo",
-   "description": "En la cumbre sin precedentes de sus líderes, China, EE.UU. y Rusia adoptaron una declaración sobre riesgos nucleares, reforma de la ONU y petróleo, informaron el Kremlin y medios de comunicación estatales chinos.",
-   "url": "https://www.dw.com/es/xi-trump-y-putin-adoptan-declaración-de-paz-sobre-reforma-de-la-onu-desarme-nuclear-y-petróleo/a-79990663?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-19T11:52:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
   },
   {
    "id": "a83aa04befc5",
@@ -1850,16 +1860,6 @@
    "date": "2026-11-17T18:27:56+00:00",
    "category": "Elecciones",
    "type": "Oficial"
-  },
-  {
-   "id": "7eec83f9ca0f",
-   "source": "BBC Mundo",
-   "title": "México, EE.UU. y Bolivia pierden su estatus de países libres de sarampión tras registrar miles de casos y decenas de muertes",
-   "description": "En los tres países, se observó la transmisión de un mismo genotipo y linaje del virus durante 12 meses o más, señaló la OPS.",
-   "url": "https://www.bbc.com/mundo/articles/cq2e8xemzgpro?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T18:07:53+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
   },
   {
    "id": "a7b48b07bbb3",
