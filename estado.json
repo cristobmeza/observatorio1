@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T09:54:48.381047+00:00",
+ "updated": "2026-11-20T10:55:10.073338+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -94,7 +94,7 @@
   },
   "Banco Central de Chile": {
    "ok": false,
-   "err": "HTTP Error 404: "
+   "err": "mismatched tag: line 7, column 9"
   },
   "Instituto Nacional de Estadísticas": {
    "ok": false,
@@ -136,7 +136,7 @@
   },
   "Organización Mundial del Comercio": {
    "ok": true,
-   "n": 7,
+   "n": 8,
    "url": "https://www.wto.org/library/rss/latest_news_s.xml"
   },
   "Organización Mundial de la Salud": {

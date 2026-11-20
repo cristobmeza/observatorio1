@@ -1,13 +1,113 @@
 {
- "updated": "2026-11-20T09:54:48.381047+00:00",
+ "updated": "2026-11-20T10:55:10.073338+00:00",
  "items": [
+  {
+   "id": "e1e2eed71777",
+   "source": "Radio Cooperativa",
+   "title": "Tras la reforma a su medida, Bukele ya es candidato a la reelección",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/mundo/america-latina/el-salvador/tras-la-reforma-a-su-medida-bukele-ya-es-candidato-a-la-reeleccion/2026-11-20/074035.html",
+   "date": "2026-11-20T10:40:35+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "a0f5a2b0fbc3",
+   "source": "Al Jazeera",
+   "title": "Drone operator removes Man United training footage and issues apology",
+   "description": "The footage, filmed during new manager Mauricio Pochettino's first training session, was uploaded online.",
+   "url": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
+   "date": "2026-11-20T10:37:20+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "d8ab6aab7597",
+   "source": "BBC Mundo",
+   "title": "El hotel peruano que ofrece vistas espectaculares, pero requiere nervios de acero para llegar a él",
+   "description": "Skylodge tiene cápsulas transparentes situadas a 365 metros sobre el Valle Sagrado de Perú... pero hay que ser valiente para llegar a ellas.",
+   "url": "https://www.bbc.com/mundo/articles/cw0k00z0v1r0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T10:34:20+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
   {
    "id": "5e5d1a94124b",
    "source": "The Guardian",
-   "title": "UK and EU close in on Brexit reset deal but tuition fees remain a stumbling block – live",
-   "description": "UK and EU have provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the le",
+   "title": "UK says reset deal with EU agreed but talks will continue ‘in some areas’ – live",
+   "description": "UK statement comes after EU said deal would not take effect without future agreement over university tuition fees Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage L",
    "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "date": "2026-11-20T09:36:53+00:00",
+   "date": "2026-11-20T10:30:45+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "46a8f84b5b0f",
+   "source": "Deutsche Welle",
+   "title": "TikTok lanza herramientas contra \"deepfakes\" y desinformación con IA antes de las elecciones europeas de 2027",
+   "description": "La plataforma anuncia un detector de \"deepfakes\" para figuras públicas, un verificador de desinformación generada con IA, mejor control parental, y prevención del suicidio y el abuso sexual infantil.",
+   "url": "https://www.dw.com/es/tiktok-lanza-herramientas-contra-deepfakes-y-desinformación-con-ia-antes-de-las-elecciones-europeas-de-2027/a-80000161?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-20T10:15:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "20bc43da5cc4",
+   "source": "Radio Cooperativa",
+   "title": "Japón también apunta a los minerales en su relación con Chile",
+   "description": "El ministro de Estado para Asuntos Exteriores de Japón, Iwao Horii, destacó la cooperación con Chile en el ámbito de los minerales , durante un encuentro para inversores junto con el Presidente José Antonio Kast, quien realiza una gira por Asia, en el marco de la cumbre APEC en l",
+   "url": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/japon/japon-tambien-apunta-a-los-minerales-en-su-relacion-con-chile/2026-11-20/071446.html",
+   "date": "2026-11-20T10:14:46+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "1d148d81ad86",
+   "source": "Al Jazeera",
+   "title": "Searching for the next Messi at the Under-17 World Cup",
+   "description": "Nearly 100 football scouts are in Qatar, searching for the next global superstar at the FIFA Under-17 World Cup.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup?traffic_source=rss",
+   "date": "2026-11-20T10:03:11+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e42e02511abb",
+   "source": "The Guardian",
+   "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
+   "description": "Asian markets on track for their worst week since 2020, with European and US stocks also way down Business live – latest updates Global stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies. Asian stock markets were on trac",
+   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "date": "2026-11-20T10:02:21+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "72a94e8da25a",
+   "source": "Al Jazeera",
+   "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
+   "description": "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge.",
+   "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+   "date": "2026-11-20T09:54:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "32af870edc2b",
+   "source": "Radio Cooperativa",
+   "title": "Francia recortaría hasta 8.000 millones de euros para su presupuesto 2027",
+   "description": "El gobierno de Francia estudia aplicar recortes adicionales de entre 6.000 y 8.000 millones de euros en su presupuesto para el año 2027, por encima del ajuste de 43.000 millones planteado inicialmente, en un intento de \"contener\" el déficit público ante los riesgos económicos y g",
+   "url": "https://www.cooperativa.cl/noticias/mundo/francia/politica/francia-recortaria-hasta-8-000-millones-de-euros-para-su-presupuesto-2027/2026-11-20/064926.html",
+   "date": "2026-11-20T09:49:26+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "22947b19473b",
+   "source": "The Guardian",
+   "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+   "description": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing A pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest breakthrough treatment for the cancer in decades. In one in 12",
+   "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+   "date": "2026-11-20T09:36:10+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -262,16 +362,6 @@
    "type": "Prensa"
   },
   {
-   "id": "21f091c11e0c",
-   "source": "The Guardian",
-   "title": "Academy trust pays out after Prevent threat over children’s Palestine badges",
-   "description": "Lion Academy Trust apologises after threatening four pupils in east London with referral to counter-extremism scheme An academy trust will pay out tens of thousands in compensation to four children who were told they could be referred to Prevent for wearing Palestine flag badges ",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/20/lion-academy-trust-children-palestine-badges-prevent-london",
-   "date": "2026-11-20T06:00:23+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "9a2bd040ace4",
    "source": "Al Jazeera",
    "title": "Trump bows to pressure, replaces US cyber security director",
@@ -452,26 +542,6 @@
    "type": "Prensa"
   },
   {
-   "id": "246772bdc72e",
-   "source": "Al Jazeera",
-   "title": "Hippo Fiona dies days after swallowing visitor’s hat",
-   "description": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
-   "date": "2026-11-20T02:51:44+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "c521561edba8",
-   "source": "Al Jazeera",
-   "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
-   "description": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
-   "date": "2026-11-20T02:25:33+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "4394585ae153",
    "source": "Radio Cooperativa",
    "title": "Prisión preventiva para presunto autor de homicidio de joven de 19 años en Buin",
@@ -549,16 +619,6 @@
    "url": "https://www.ex-ante.cl/negocios/turismo-gringos-se-entusiasman-con-chile/",
    "date": "2026-11-20T01:34:14+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "363caae7359f",
-   "source": "Al Jazeera",
-   "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
-   "description": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
-   "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
-   "date": "2026-11-20T01:29:28+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -689,36 +749,6 @@
    "url": "https://www.bbc.com/mundo/articles/cm9w9pp7w9x9o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T23:52:20+00:00",
    "category": "Derecho internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "a757c174c24a",
-   "source": "Radio Cooperativa",
-   "title": "Mario Salas elogió a \"Chupete\" Suazo en la antesala de la final del Ascenso: Lo que ha hecho es difícil",
-   "description": "Mario Salas , técnico de Cobreloa , anticipó la final de la Liga de Ascenso ante San Luis, que definirá al campeonato y el pasaje a Primera División, y dedicó elogios a Humberto \"Chupete\" Suazo, entrenador de los canarios, por su gran temporada con los quillotanos. \"Felicitar a H",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/mario-salas-elogio-a-chupete-suazo-en-la-antesala-de-la-final-del/2026-11-19/204942.html",
-   "date": "2026-11-19T23:49:42+00:00",
-   "category": "Economía nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "f75d116e8cb9",
-   "source": "Radio Cooperativa",
-   "title": "\"Ruiseñor\" reúne por primera vez a las hermanas Elle y Dakota Fanning en el cine",
-   "description": "Las hermanas Elle y Dakota Fanning finalmente se reúnen en la gran pantalla al protagonizar la adaptación cinematográfica de \"Ruiseñor\" (\"The Nightingale\") , la novela homónima de Kristin Hannah . Con un estreno confirmado en cines de Chile para el próximo 18 de marzo de 2027 , l",
-   "url": "https://www.cooperativa.cl/noticias/magazine/cine/ruisenor-reune-por-primera-vez-a-las-hermanas-elle-y-dakota-fanning-en/2026-11-19/203630.html",
-   "date": "2026-11-19T23:36:30+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "7a75cbd4922e",
-   "source": "Radio Cooperativa",
-   "title": "Problema para la UC: Eugenio Mena será baja en el clásico ante Colo Colo",
-   "description": "El experimentado defensa Eugenio Mena se lesionó y quedó descartado en Universidad Católica para el clásico ante Colo Colo, programado para el domingo en el Estadio Monumental. Según información de Cooperativa Deportes PM, Mena sufrió una lesión muscular y no podrá estar el domin",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/problema-para-la-uc-eugenio-mena-sera-baja-en-el-clasico-ante-colo-colo/2026-11-19/203145.html",
-   "date": "2026-11-19T23:31:45+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -972,11 +1002,11 @@
    "type": "Prensa"
   },
   {
-   "id": "921f5631e56b",
+   "id": "56a1dbf1725e",
    "source": "Radio Cooperativa",
-   "title": "Cobresal y Audax Italiano levantan el telón de la fecha 28 con duelo clave por la permanencia",
+   "title": "Por la permanencia: Cobresal y Audax Italiano levantan el telón de la fecha 28",
    "description": "Cobresal y Audax Italiano levantan este viernes el telón de la fecha 28 de la Liga de Primera , desde las 18:00 horas (21:00 GMT) en el Estadio El Cobre, en El Salvador, con un duelo clave por la permanencia. El conjunto minero, dirigido por Gustavo Huerta , está en el 14° lugar,",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cobresal-y-audax-italiano-levantan-el-telon-de-la-fecha-28-con-duelo/2026-11-19/172037.html",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/por-la-permanencia-cobresal-y-audax-italiano-levantan-el-telon-de-la/2026-11-19/172037.html",
    "date": "2026-11-19T20:20:37+00:00",
    "category": "Economía nacional",
    "type": "Prensa"
@@ -1180,16 +1210,6 @@
    "date": "2026-11-19T16:01:42+00:00",
    "category": "Elecciones",
    "type": "Oficial"
-  },
-  {
-   "id": "150c4c27a36e",
-   "source": "Deutsche Welle",
-   "title": "Comisión Europea sufrió una serie de ciberataques asistidos por IA",
-   "description": "Un vocero afirmó que la Unión Europea tomó \"las medidas necesarias en respuesta a una campaña cibernética detectada\", aunque no hay evidencia de filtración de datos ni responsables identificados.",
-   "url": "https://www.dw.com/es/comisión-europea-sufrió-una-serie-de-ciberataques-asistidos-por-ia/a-79994934?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-19T15:58:00+00:00",
-   "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
   },
   {
    "id": "0076b0d760ad",
@@ -1422,16 +1442,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d9de3e200f98",
-   "source": "The Guardian",
-   "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
-   "description": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, according",
-   "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
-   "date": "2026-11-19T05:00:18+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "87ef9826995b",
    "source": "The Guardian",
    "title": "One in four women globally unable to refuse sex within marriage, says UN",
@@ -1440,6 +1450,16 @@
    "date": "2026-11-19T04:00:16+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
+  },
+  {
+   "id": "ec27049b0f67",
+   "source": "Organización Mundial del Comercio",
+   "title": "Panamá solicita adherirse al Acuerdo sobre Tecnología de la Información ampliado",
+   "description": "Panamá ha solicitado adherirse al Acuerdo sobre Tecnología de la Información ampliado (ATI II) de 2015, según comunicó a los miembros el Presidente del Comité de Participantes sobre la Expansión del Comercio de Productos de Tecnología de la Información, Sr. Shih-Chun Weng (Taipei",
+   "url": "https://www.wto.org/spanish/news_s/news26_s/ita_19nov26_560_s.htm",
+   "date": "2026-11-19T00:00:00+00:00",
+   "category": "Comercio internacional",
+   "type": "Oficial"
   },
   {
    "id": "f9e584d46390",
@@ -2080,16 +2100,6 @@
    "date": "2026-11-16T00:00:00+00:00",
    "category": "Comercio internacional",
    "type": "Oficial"
-  },
-  {
-   "id": "238b9ab12c3f",
-   "source": "BBC Mundo",
-   "title": "La mujer que lleva años atrapada en una isla paradisíaca sin poder volver a casa por un problema con su visa",
-   "description": "Ruchira Ranasingha, de 50 años, lleva varada en las Islas Cook desde 2023 y quiere regresar a Sri Lanka.",
-   "url": "https://www.bbc.com/mundo/articles/crn4ed2ljg8no?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-15T13:13:11+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
   },
   {
    "id": "2b419c84908b",
