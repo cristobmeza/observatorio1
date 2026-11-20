@@ -1,6 +1,266 @@
 {
- "updated": "2026-11-20T15:52:14.170105+00:00",
+ "updated": "2026-11-20T16:53:45.665203+00:00",
  "items": [
+  {
+   "id": "85c48ff3ad35",
+   "source": "Ex-Ante",
+   "title": "Cómo Viña Montes llegó al tercer lugar de The World’s 50 Best Vineyards y subió al podio del enoturismo mundial",
+   "description": "La viña chilena Montes, que recibe cerca de 50 mil visitantes al año, alcanzó el tercer lugar de The World’s 50 Best Vineyards 2026. Su…",
+   "url": "https://www.ex-ante.cl/negocios/vina-montes-alcanza-tercer-lugar-50-best/",
+   "date": "2026-11-20T16:46:11+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "cc417e2a7a75",
+   "source": "Radio Cooperativa",
+   "title": "Alcaraz avanzó invicto a semifinales de las Finales ATP",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El tenista español Carlos Alcaraz cerró con una nueva victoria su participación en la fase de grupos de las Finales ATP de Turín , luego de imponerse al italiano Flavio Cobolli por parciales de 6-4 y 6-1 , pese a las molest",
+   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/carlos-alcaraz/alcaraz-avanzo-invicto-a-semifinales-de-las-finales-atp/2026-11-20/134144.html",
+   "date": "2026-11-20T16:41:44+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "4006d713015d",
+   "source": "Radio Cooperativa",
+   "title": "Gendarmes descubrieron una antena de internet en la Cárcel de Valparaíso",
+   "description": "Gendarmería informó la apertura de una investigación interna para esclarecer de qué manera fue ingresada una antena satelital de internet a uno de los módulos de la Cárcel de Valparaíso , dispositivo que fue descubierto la tarde del jueves. En el marco de una ronda de rutina, fun",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/gendarmes-descubrieron-una-antena-de-internet-en-la-carcel-de-valparaiso/2026-11-20/133830.html",
+   "date": "2026-11-20T16:38:30+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "ec25fd800bd0",
+   "source": "Deutsche Welle",
+   "title": "Rusia lanza uno de los \"mayores ataques\" contra Ucrania desde el inicio de la invasión",
+   "description": "Zelenski afirmó que Rusia lanzó más de 400 drones y más de 110 misiles y atacó infraestructura energética, logística y ferroviaria en todo el país.",
+   "url": "https://www.dw.com/es/rusia-lanza-uno-de-los-mayores-ataques-contra-ucrania-desde-el-inicio-de-la-invasión/a-80005745?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-20T16:38:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "4f5db1348f73",
+   "source": "Ex-Ante",
+   "title": "El método Huang: NYT revela que el fundador de Nvidia gobernó a punta de humillaciones",
+   "description": "Una investigación de The New York Times reconstruye dos décadas de malos tratos del cofundador de Nvidia a sus subordinados y revela un pago confidencial…",
+   "url": "https://www.ex-ante.cl/internacional/nyt-fundador-nvidia-goberno-humillar/",
+   "date": "2026-11-20T16:27:59+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e42e02511abb",
+   "source": "The Guardian",
+   "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+   "description": "Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic’s shares have slumped at the start of a second day of trading, as its record-breaking IPO failed to stem a ",
+   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "date": "2026-11-20T16:26:07+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "1073bc3e96c6",
+   "source": "France 24",
+   "title": "Directo España y el cara a cara entre Núñez Feijóo y Sánchez en el debate presidencial",
+   "description": "A solo nueve días de las elecciones generales en España, el próximo 29 de noviembre, los dos líderes que encabezan las encuestas se enfrentaron en un debate. El líder del Partido Popular, Alberto Núñez Feijóo, y el presidente del Gobierno y candidato, Pedro Sánchez, chocaron el 1",
+   "url": "https://www.france24.com/es/video/20261120-directo-espa%C3%B1a-y-el-cara-a-cara-entre-n%C3%BA%C3%B1ez-feij%C3%B3o-y-s%C3%A1nchez-en-el-debate-presidencial",
+   "date": "2026-11-20T16:20:57+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "2ad615fce52e",
+   "source": "France 24",
+   "title": "Directo París y la candidatura oficial de Dominique de Villepin para las presidenciales en Francia",
+   "description": "El escritor y exprimer ministro francés Dominique de Villepin presentó su candidatura a la Presidencia de Francia para 2027. Advierte de una guerra civil si la líder ultraderechista Marine Le Pen gana en los comicios y critica a Emmanuel Macron por ser un “presidente fantasma”. A",
+   "url": "https://www.france24.com/es/video/20261120-directo-par%C3%ADs-y-la-candidatura-oficial-de-dominique-de-villepin-para-las-presidenciales-en-francia",
+   "date": "2026-11-20T16:20:36+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "22032c2cf2c2",
+   "source": "France 24",
+   "title": "¿Cuál es el balance de la gira de Hegseth por países latinoamericanos?",
+   "description": "El secretario de Defensa de Estados Unidos, Pete Hegseth, visitó Colombia, Venezuela, Ecuador y Honduras como parte de una gira por América Latina. En Caracas se reunió con la presidenta Delcy Rodríguez y en Colombia envió un mensaje a los “narcoterroristas”. En el #InvitadoDelDí",
+   "url": "https://www.france24.com/es/video/20261120-cu%C3%A1l-es-el-balance-de-la-gira-de-hegseth-por-pa%C3%ADses-latinoamericanos",
+   "date": "2026-11-20T16:20:08+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "06cf3ef2158d",
+   "source": "Radio Cooperativa",
+   "title": "SML concluyó que osamentas encontradas en terreno de Julia Chuñil son de origen animal",
+   "description": "Las osamentas encontradas dentro de un saco en el terreno donde vivía Julia Chuñil serían de origen animal, según un informe pericial del Servicio Médico Legal. Una de las piezas, identificada como M-1, había arrojado un resultado de 100% de representación humana en un examen de ",
+   "url": "https://www.cooperativa.cl/noticias/pais/judicial/casos-emblematicos/sml-concluyo-que-osamentas-encontradas-en-terreno-de-julia-chunil-son-de/2026-11-20/131838.html",
+   "date": "2026-11-20T16:18:38+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "b7657d718baa",
+   "source": "France 24",
+   "title": "Francia pide una reunión del Consejo de Seguridad tras ataques rusos a embajadas de la UE en Kiev",
+   "description": "El ministro de Asuntos Exteriores, Jean-Noël Barrot, informó que París solicitó con urgencia una reunión del príncipal órgano de Naciones Unidas tras una severa ola de ataques rusos contra Ucrania este viernes, que dañaron las embajadas de Austria y de Países Bajos en Kiev. Rusia",
+   "url": "https://www.france24.com/es/europa/20261120-francia-pide-una-reuni%C3%B3n-del-consejo-de-seguridad-tras-ataques-rusos-a-embajadas-de-la-ue-en-kiev",
+   "date": "2026-11-20T16:18:04+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "b9c5aa5eb028",
+   "source": "The Guardian",
+   "title": "Russian missiles and drone hit Poland during attacks on Ukraine",
+   "description": "Polish PM calls strikes, which took place amid western military exercises, ‘an intentional provocation’ by Moscow Two Russian cruise missiles and a jet-powered drone crashed in Poland, according to officials, during Russian air attacks on Ukraine that took place amid major wester",
+   "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
+   "date": "2026-11-20T16:16:01+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "5e5d1a94124b",
+   "source": "The Guardian",
+   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+   "description": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London g",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+   "date": "2026-11-20T16:15:24+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "4d7ba6bc18d2",
+   "source": "Al Jazeera",
+   "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
+   "description": "German chancellor says Qatar pledged $16.5bn in new investments as the two countries deepen defence and technology ties.",
+   "url": "https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss",
+   "date": "2026-11-20T16:13:57+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "1b2fa9236a52",
+   "source": "Radio Cooperativa",
+   "title": "Gago y el \"Chile 2\": Tenemos muy claro que todo depende de nosotros",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Fernando Gago, entrenador de Universidad de Chile, habló en miras al partido contra O'Higgins de este sábado 21 de noviembre (18:00 horas) y abordó la intensa pelea por el \"Chile 2\" de Copa Libertadores , el momento del equ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-y-el-chile-2-tenemos-muy-claro-que-todo-depende-de-nosotros/2026-11-20/131242.html",
+   "date": "2026-11-20T16:12:42+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "9fb10ea6da2f",
+   "source": "Al Jazeera",
+   "title": "US Senate passes bill to speed up energy project approvals",
+   "description": "The legislation aims to lower energy bills by making energy project approvals faster and limiting court challenges.",
+   "url": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss",
+   "date": "2026-11-20T16:10:12+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "bb076b2bdb22",
+   "source": "The Guardian",
+   "title": "Far-right activist Daniel Thomas jailed for slashing dinghy in Channel",
+   "description": "Thomas sentenced to 15 months after admitting to criminal damage to vessel that had been carrying asylum seekers The far-right agitator Daniel Thomas has been sentenced to 15 months in jail after slashing a dinghy that had been carrying asylum seekers in the Channel. Judge Newton",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/20/far-right-activist-daniel-thomas-jailed-for-slashing-dinghy-in-channel",
+   "date": "2026-11-20T16:08:42+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "4eaff4746234",
+   "source": "Radio Cooperativa",
+   "title": "Gago y el cambio de directorio en Azul Azul: Nos vamos a ir conociendo con el tiempo",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-y-el-cambio-de-directorio-en-azul-azul-nos-vamos-a-ir-conociendo/2026-11-20/130649.html",
+   "date": "2026-11-20T16:06:49+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "b655d04c9c78",
+   "source": "Al Jazeera",
+   "title": "What is Vox, and how did Spain’s far-right party rise to prominence?",
+   "description": "As Spain prepares to vote, Vox is campaigning on mass deportations and 'national priority'.",
+   "url": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence?traffic_source=rss",
+   "date": "2026-11-20T16:05:31+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f7c8e49450e6",
+   "source": "The Guardian",
+   "title": "Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10",
+   "description": "Discord between EU and UK on whether arrangements for food and drink, emissions trading and youth mobility scheme depend on settlement for students UK-EU summit live – latest news updates The UK and EU have agreed a reset deal, Downing Street has said, although the level of tuiti",
+   "url": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
+   "date": "2026-11-20T16:03:13+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "8ff5e5bb624a",
+   "source": "The Guardian",
+   "title": "Suki Waterhouse and Robert Pattinson to become Britain’s next big Hollywood power couple",
+   "description": "Duo’s fame set to soar after Pattinson announced as next James Bond – but they will take newgen approach to power He is the next James Bond. She is a successful model/actor/singer-songwriter. Together, they are set to become the next big British power couple in Hollywood. This we",
+   "url": "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple",
+   "date": "2026-11-20T16:00:33+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d4b25edceb55",
+   "source": "The Guardian",
+   "title": "Bring in ‘cosmetic cowboys’ law to avoid more deaths, says family of butt lift victim",
+   "description": "Relatives speak out as inquest jury finds Alice Webb’s death after filler entered her organs was accidental The family of a woman who died after a botched Brazilian butt lift have called for laws against “cosmetic cowboys” to be introduced before more people lose their lives. Spe",
+   "url": "https://www.theguardian.com/society/2026/nov/20/cosmetic-cowboys-law-avoid-more-deaths-family-brazilian-butt-lift-victim",
+   "date": "2026-11-20T15:55:28+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "6ef2dc15ab30",
+   "source": "Radio Cooperativa",
+   "title": "Calculadora del \"Chile 2\": Los resultados que necesitan la U y la UC",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Universidad de Chile y Universidad Católica protagonizan la lucha por el \" Chile 2\" a la Copa Libertadores 2027 , cuando restan apenas tres fechas para el término de la Liga de Primera. Los azules ocupan el segundo lugar co",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/calculadora-del-chile-2-los-resultados-que-necesitan-la-u-y-la-uc/2026-11-20/125448.html",
+   "date": "2026-11-20T15:54:48+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "0fc7526dbee8",
+   "source": "Radio Cooperativa",
+   "title": "Cooperativa Deportes: Empieza la Fecha 28 y la Liguilla del Ascenso",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/cooperativa-deportes/opinion/cooperativa-deportes-empieza-la-fecha-28-y-la-liguilla-del-ascenso/2026-11-20/125144.html",
+   "date": "2026-11-20T15:51:44+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e94f8afb465f",
+   "source": "Al Jazeera",
+   "title": "One third of attacks on children worldwide recorded in Palestine",
+   "description": "Almost one in three reported violations against children worldwide occurred in Palestine in 2025.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/one-third-of-attacks-on-children-worldwide-recorded-in-palestine?traffic_source=rss",
+   "date": "2026-11-20T15:50:28+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "420dea2e3ab7",
+   "source": "Al Jazeera",
+   "title": "Kansas hosts become guests as Algeria repays World Cup welcome",
+   "description": "A bond between Kansas and Algeria has deepened since the city hosted the North Africans during the World Cup.",
+   "url": "https://www.aljazeera.com/sports/2026/11/20/kansas-hosts-become-guests-as-algeria-repays-world-cup-welcome?traffic_source=rss",
+   "date": "2026-11-20T15:49:06+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "47a8f9b933b5",
    "source": "Al Jazeera",
@@ -32,6 +292,16 @@
    "type": "Prensa"
   },
   {
+   "id": "e050e66ef0ee",
+   "source": "Radio Cooperativa",
+   "title": "Lincolao tras renuncia de su subsecretaria: \"A veces hay un poco de inconfortabilidad\"",
+   "description": "\" En momentos de disrupción , a veces hay un poco de inconfortabilidad \", afirmó este viernes la ministra de Ciencia , Ximena Lincolao , al abordar la polémica que afecta a su cartera tras la renuncia de la subsecretaria Carolina Rossi, marcada por tensiones internas derivadas de",
+   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/lincolao-tras-renuncia-de-su-subsecretaria-a-veces-hay-un-poco-de/2026-11-20/122915.html",
+   "date": "2026-11-20T15:29:15+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
    "id": "c978674e5f58",
    "source": "Deutsche Welle",
    "title": "Retiran libro de la persona más longeva de Dinamarca por pasado nazi",
@@ -39,16 +309,6 @@
    "url": "https://www.dw.com/es/retiran-libro-de-la-persona-más-longeva-de-dinamarca-por-pasado-nazi/a-80005170?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-20T15:28:00+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "5e5d1a94124b",
-   "source": "The Guardian",
-   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-   "description": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London g",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "date": "2026-11-20T15:24:09+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -119,16 +379,6 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/triatlon/chilenos/valdivia-se-prepara-para-recibir-el-primer-ironman-de-distancia-completa/2026-11-20/121122.html",
    "date": "2026-11-20T15:11:22+00:00",
    "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
-   "id": "bb076b2bdb22",
-   "source": "The Guardian",
-   "title": "Far-right activist Daniel Thomas jailed for slashing dinghy in Channel",
-   "description": "Thomas sentenced to 15 months after admitting to criminal damage to vessel that had been carrying asylum seekers The far-right agitator Daniel Thomas has been sentenced to 15 months in jail after slashing a dinghy that had been carrying asylum seekers in the Channel. Thomas had t",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/20/far-right-activist-daniel-thomas-jailed-for-slashing-dinghy-in-channel",
-   "date": "2026-11-20T15:07:50+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -212,26 +462,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e687bdd9a7d5",
-   "source": "Radio Cooperativa",
-   "title": "España y Francia protagonizarán duelo estelar en cuartos de la Liga de Naciones",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes España y Francia protagonizarán uno de los enfrentamientos de los cuartos de final de la Liga de Naciones de la UEFA , luego del sorteo celebrado este viernes en la sede del organismo europeo en Nyon, Suiza. El combinado es",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/nations-league/espana-y-francia-protagonizaran-duelo-estelar-en-cuartos-de-la-liga-de/2026-11-20/114430.html",
-   "date": "2026-11-20T14:44:30+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "49bd6a1e2ae1",
-   "source": "Radio Cooperativa",
-   "title": "Operación Cofradía del Golfo: 22 detenidos y 22 millones incautados en Arauco",
-   "description": "Un total de 22 personas fueron detenidas en la comuna de Arauco , Región del Biobío, en el marco de la operación Cofradía del Golfo , una investigación de la Policía de Investigaciones (PDI) y el Ministerio Público que permitió identificar una organización criminal dedicada al tr",
-   "url": "https://www.cooperativa.cl/noticias/pais/region-del-biobio/operacion-cofradia-del-golfo-22-detenidos-y-22-millones-incautados-en/2026-11-20/113940.html",
-   "date": "2026-11-20T14:39:40+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "3e8054a75052",
    "source": "Al Jazeera",
    "title": "Hot potato: Can Japan resist Trump pressure to import food staple?",
@@ -239,16 +469,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/20/hot-potato-can-japan-resist-trump-pressure-to-import-food-staple?traffic_source=rss",
    "date": "2026-11-20T14:38:25+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "65f5336a5c31",
-   "source": "Radio Cooperativa",
-   "title": "Real Madrid aseguró la continuidad de Thibaut Courtois hasta 2028",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Real Madrid anunció la renovación del arquero belga Thibaut Courtois , quien extendió su contrato con el conjunto español hasta el 30 de junio de 2028 , asegurando su continuidad por una temporada adicional. El guardameta d",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/real-madrid/real-madrid-aseguro-la-continuidad-de-thibaut-courtois-hasta-2028/2026-11-20/113806.html",
-   "date": "2026-11-20T14:38:06+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -282,16 +502,6 @@
    "type": "Prensa"
   },
   {
-   "id": "947d96c2cbd4",
-   "source": "Radio Cooperativa",
-   "title": "Líder talibán pide \"moldear la mente de los jóvenes\" hacia la cultura islámica afgana",
-   "description": "El líder supremo de los talibanes , el mulá Haibatullah Akhundzada, instó a las autoridades culturales de Afganistán a centrar la educación de los jóvenes en la cultura islámica para combatir las influencias externas, durante una inusual gira por el país. \" Moldeen las mentes de ",
-   "url": "https://www.cooperativa.cl/noticias/mundo/afganistan/lider-taliban-pide-moldear-la-mente-de-los-jovenes-hacia-la-cultura/2026-11-20/112434.html",
-   "date": "2026-11-20T14:24:34+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "1685bc4d2550",
    "source": "Deutsche Welle",
    "title": "Protestas y huelgas en Europa contra el costo de vida y la militarización",
@@ -302,36 +512,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1a52d1ac18fb",
-   "source": "Radio Cooperativa",
-   "title": "Monckeberg propone una coalición abierta al centro que incluya a republicanos",
-   "description": "El expresidente de Renovación Nacional Cristián Monckeberg planteó este viernes en El Primer Café de Cooperativa que el Presidente José Antonio Kast impulse una coalición que reúna a RN, la UDI y el Partido Republicano, abra espacio al centro y tenga un proyecto que se extienda m",
-   "url": "https://www.cooperativa.cl/noticias/pais/politica/chile-vamos/monckeberg-propone-una-coalicion-abierta-al-centro-que-incluya-a/2026-11-20/112056.html",
-   "date": "2026-11-20T14:20:56+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "0bceeb6b0669",
-   "source": "Radio Cooperativa",
-   "title": "Dave Matthews Band regresa a Chile en 2027: Fecha, recinto y entradas",
-   "description": "El grupo Dave Matthews Band anunció su regreso a Chile con un concierto para 2027 en el marco de su gira por Sudamérica. El colectivo estadounidense vendrá a promocionar \"Walk Around the Moon\" , el disco de estudio que estrenaron en 2023 y que marcó sus más de 30 años de carrera.",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/dave-matthews-band-regresa-a-chile-en-2027-fecha-recinto-y-entradas/2026-11-20/111834.html",
-   "date": "2026-11-20T14:18:34+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "2d94b9047ce8",
-   "source": "The Guardian",
-   "title": "Pontins owner fined £1m over death of woman at Somerset holiday park",
-   "description": "Wendy Jones, 68, was fatally injured when part of a ceiling collapsed during a bingo game at Pontins Brean Sands The owner of Pontins holiday parks has been fined £1m over the death of a woman who was fatally injured when part of a ceiling collapsed during a bingo game at a fun p",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/20/pontins-owner-fined-death-somerset-brean-sands-holiday-park-wendy-jones",
-   "date": "2026-11-20T14:07:46+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "8597429d827e",
    "source": "Al Jazeera",
    "title": "Xi’s greatest power is what he chooses not to do",
@@ -339,16 +519,6 @@
    "url": "https://www.aljazeera.com/opinions/2026/11/20/xis-greatest-power-is-what-he-chooses-not-to-do?traffic_source=rss",
    "date": "2026-11-20T14:03:08+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "852dbadb7cd0",
-   "source": "Radio Cooperativa",
-   "title": "Republicanos evalúan votar por separado fondos para terapias hormonales en menores",
-   "description": "El diputado Benjamín Moreno , jefe de la bancada del Partido Republicano, planteó este viernes en El Primer Café de Cooperativa que sus diputados podrían pedir una votación separada en el presupuesto de Salud de 2027 para rechazar el financiamiento de terapias hormonales cruzadas",
-   "url": "https://www.cooperativa.cl/noticias/economia/presupuesto/republicanos-evaluan-votar-por-separado-fondos-para-terapias-hormonales/2026-11-20/110259.html",
-   "date": "2026-11-20T14:02:59+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -382,16 +552,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e42e02511abb",
-   "source": "The Guardian",
-   "title": "Anthropic shares slump on second day of trading as stock markets reel from AI sell-off",
-   "description": "Asian markets record their worst week since 2020 as investors question huge sums being poured into AI build-out Business live – latest updates Anthropic’s shares have slumped at the start of a second day of trading, as its record-breaking IPO failed to stem a sell-off in AI-linke",
-   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-   "date": "2026-11-20T13:53:13+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "51fb95bda81a",
    "source": "Al Jazeera",
    "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
@@ -399,16 +559,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/20/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers?traffic_source=rss",
    "date": "2026-11-20T13:45:14+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "a16d63493ce8",
-   "source": "The Guardian",
-   "title": "Mahmood ‘smells a rat’ over housing provision for vulnerable people in Birmingham",
-   "description": "Warnings over exploitation risks come amid push for investigation into supported exempt accommodation sector The home secretary has launched an attack on providers of housing for vulnerable residents in her Birmingham constituency, saying she “smells a rat” after warnings over sp",
-   "url": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
-   "date": "2026-11-20T13:43:46+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -429,16 +579,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
    "date": "2026-11-20T13:41:49+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "c8458e3e563b",
-   "source": "Radio Cooperativa",
-   "title": "Tres niños hospitalizados por comer un paquete de ramitas con marihuana",
-   "description": "Tres niños -de dos, tres y 11 años de edad- se encuentran internados en el Hospital de Villarrica luego de presentar síntomas de intoxicación por drogas . El fiscal Cristián Voullieme señaló que los antecedentes preliminares apuntan a que los pequeños \" habrían consumido un paque",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/drogas/tres-ninos-hospitalizados-por-comer-un-paquete-de-ramitas-con-marihuana/2026-11-20/104054.html",
-   "date": "2026-11-20T13:40:54+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -552,16 +692,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f7c8e49450e6",
-   "source": "The Guardian",
-   "title": "Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10",
-   "description": "Discord between EU and UK on whether arrangements for food and drink, emissions trading and youth mobility scheme depend on settlement for students UK-EU summit live – latest news updates The UK and EU have agreed a reset deal, Downing Street has said, although the level of tuiti",
-   "url": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
-   "date": "2026-11-20T12:42:08+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "92e287fc6835",
    "source": "Estudios Públicos (CEP)",
    "title": "Las palabras que habitamos: Lengua, identidad y pertenencia",
@@ -570,16 +700,6 @@
    "date": "2026-11-20T12:38:25+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "b9c5aa5eb028",
-   "source": "The Guardian",
-   "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
-   "description": "Polish PM calls strikes, which took place amid western military exercises, ‘an intentional provocation’ by Moscow Two Russian cruise missiles and a jet-powered drone are reported to have crashed in Poland during Russian air attacks on Ukraine that took place amid major western mi",
-   "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
-   "date": "2026-11-20T12:34:30+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
   },
   {
    "id": "6e682eb51bbd",
@@ -672,16 +792,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f36db8756deb",
-   "source": "Al Jazeera",
-   "title": "‘We didn’t come here to beg’: Africa’s message at COP31",
-   "description": "Ghana has demanded climate justice and funding for African nations, warning COP31 leaders against empty promises.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/we-didnt-come-here-to-beg-africas-message-at-cop31?traffic_source=rss",
-   "date": "2026-11-20T11:55:16+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "9ba41b77d65b",
    "source": "BBC Mundo",
    "title": "\"Me cuestionaba por qué vine a este mundo con piel morena, cuando mi padre era blanco\": BBC Mundo entrevista a la cantante mexicana Lila Downs",
@@ -702,16 +812,6 @@
    "type": "Prensa"
   },
   {
-   "id": "136d0c63fe25",
-   "source": "Al Jazeera",
-   "title": "US appoints new cybersecurity chief after series of tech failures",
-   "description": "Appointee Kirsten Davies says US has the chance to 'dominate the cyber landscape for generations to come'.",
-   "url": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures?traffic_source=rss",
-   "date": "2026-11-20T11:26:28+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "2147550bed11",
    "source": "Ex-Ante",
    "title": "“Provocación”: Por qué irritó tanto a Argentina la simbólica visita de la princesa Ana a las Malvinas",
@@ -719,36 +819,6 @@
    "url": "https://www.ex-ante.cl/internacional/argentina-princesa-ana-viaje-malvinas/",
    "date": "2026-11-20T11:21:49+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "a15ae50bd002",
-   "source": "Al Jazeera",
-   "title": "‘The deal is done’: EU, UK agree to reset relations 10 years after Brexit",
-   "description": "Deals on food and animal goods, mobility and student fees have been agreed, but months of negotiations lay ahead.",
-   "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
-   "date": "2026-11-20T11:20:19+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "bee895ca62db",
-   "source": "Al Jazeera",
-   "title": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
-   "description": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
-   "date": "2026-11-20T11:10:06+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "31d25e5ac3c8",
-   "source": "Al Jazeera",
-   "title": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
-   "description": "NATO Article 5 says attack on one member is an attack on all. Analysts say inclusion of Ukraine 'stretches credulity'.",
-   "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
-   "date": "2026-11-20T11:01:51+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -859,16 +929,6 @@
    "url": "https://www.dw.com/es/ataque-de-misiles-rusos-dañan-tres-puentes-y-dejan-tres-muertos-en-la-capital-ucraniana/a-79998916?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-20T06:43:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "82cdcef30852",
-   "source": "Deutsche Welle",
-   "title": "Birmania rechaza fallo CIJ que confirmó genocidio de rohinyás en 2017",
-   "description": "El régimen del general golpista Min Aung Hlaing declaró que \"se desvincula de la resolución\" del máximo tribunal al considerarla \"selectiva\" y \"sesgada\".",
-   "url": "https://www.dw.com/es/birmania-rechaza-fallo-cij-que-confirmó-genocidio-de-rohinyás-en-2017/a-79998636?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-20T05:19:00+00:00",
-   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -1132,16 +1192,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c6f63101f189",
-   "source": "Ex-Ante",
-   "title": "Quién es el ejecutivo de confianza de la familia Paulmann que lidera la primera apuesta de Cencosud por los outlets",
-   "description": "Tras 15 años de espera, Cencosud comenzó las obras de su primer Premium Outlet en Maipú, con una inversión de US$35 millones. El proyecto marca…",
-   "url": "https://www.ex-ante.cl/negocios/cencosud-outlet-ejecutivo-de-paulmann/",
-   "date": "2026-11-19T21:28:11+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "6f8e48ff35ef",
    "source": "France 24",
    "title": "Vivienda, trenes y migración: ¿qué proponen los partidos de cara a las elecciones del 29N en España?",
@@ -1149,36 +1199,6 @@
    "url": "https://www.france24.com/es/europa/20261119-vivienda-trenes-y-migraci%C3%B3n-qu%C3%A9-proponen-los-partidos-de-cara-a-las-elecciones-del-29n-en-espa%C3%B1a",
    "date": "2026-11-19T21:25:50+00:00",
    "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "050693704983",
-   "source": "France 24",
-   "title": "Nabel Martins, la diseñadora venezolana que apuesta por París",
-   "description": "En Carrusel de las Artes, la diseñadora venezolana Nabel Martins, instalada en París, habla de su apuesta por una moda femenina atemporal, de la identidad que marca sus creaciones y de sus planes para abrirse camino en un mercado internacional tan competitivo como el de la moda.",
-   "url": "https://www.france24.com/es/programas/carrusel-de-las-artes/20261119-nabel-martins-la-dise%C3%B1adora-venezolana-que-apuesta-por-par%C3%ADs",
-   "date": "2026-11-19T21:20:04+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "b6c8e839c0a4",
-   "source": "France 24",
-   "title": "Aneto: subir a ver un glaciar antes de que desaparezca",
-   "description": "El glaciar del Aneto, en el pico más alto de los Pirineos, pierde hielo a un ritmo alarmante y los científicos calculan que podría desaparecer en la próxima década. Es uno de los glaciares más grandes del sur de Europa y un símbolo visible del cambio climático. Ante ese riesgo, c",
-   "url": "https://www.france24.com/es/programas/en-foco/20261119-aneto-subir-a-ver-un-glaciar-antes-de-que-desaparezca",
-   "date": "2026-11-19T21:15:38+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "eebce0a3544f",
-   "source": "France 24",
-   "title": "¿Abre el fallo de la CIJ la puerta al regreso de los rohingyas a Myanmar?",
-   "description": "La histórica decisión de la Corte Internacional de Justicia (CIJ), que declaró responsable a Myanmar de genocidio contra la minoría rohingya, ha renovado las esperanzas de cientos de miles de refugiados que permanecen en campamentos de Bangladesh. Sin embargo, el regreso a su paí",
-   "url": "https://www.france24.com/es/video/20261119-abre-el-fallo-de-la-cij-la-puerta-al-regreso-de-los-rohingyas-a-myanmar",
-   "date": "2026-11-19T21:06:22+00:00",
-   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -1250,16 +1270,6 @@
    "date": "2026-11-19T17:39:15+00:00",
    "category": "Elecciones",
    "type": "Oficial"
-  },
-  {
-   "id": "40342b36796e",
-   "source": "Ex-Ante",
-   "title": "La operación que le salió mal al doctor Juan Luis Castro. Por Beatriz Veneta",
-   "description": "El delito en carpeta, falsificación de instrumento público, se paga con 3 años y un día a 10 años de cárcel. Si pasa eso -no…",
-   "url": "https://www.ex-ante.cl/opinion/castro-firmas-falsas-senado-beatriz-veneta/",
-   "date": "2026-11-19T17:38:59+00:00",
-   "category": "",
-   "type": "Prensa"
   },
   {
    "id": "ad5978715338",
