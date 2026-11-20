@@ -1,6 +1,296 @@
 {
- "updated": "2026-11-20T16:53:45.665203+00:00",
+ "updated": "2026-11-20T17:54:12.339665+00:00",
  "items": [
+  {
+   "id": "2a90ba8dc5eb",
+   "source": "Radio Cooperativa",
+   "title": "La conferencia de prensa previa al clásico 190 entre Colo Colo y la UC",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-conferencia-de-prensa-previa-al-clasico-190-entre-colo-colo-y-la-uc/2026-11-20/144319.html",
+   "date": "2026-11-20T17:43:19+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "02d506790075",
+   "source": "The Guardian",
+   "title": "Joanne Young’s faith in justice system is sign of real change, but courts are still catching up",
+   "description": "Young’s abusers were convicted through suspect-centric prosecution, though much more needs to be done for victims Hope can be found in the darkest of places. Joanne Young stood outside Winchester crown court on Thursday and said she was relieved – not just for herself and her fam",
+   "url": "https://www.theguardian.com/society/2026/nov/20/joanne-young-faith-in-the-justice-system-changes-but-courts-still-catching-up",
+   "date": "2026-11-20T17:39:06+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "199d7e3e3cc8",
+   "source": "France 24",
+   "title": "En vivo: Trump ofrece una rueda de prensa tras reunirse con Xi y Putin",
+   "description": "El presidente de Estados Unidos, Donald Trump, ofrece una rueda de prensa en la Casa Blanca este viernes, tras su regreso a Washington después de un viaje de cuatro días por Asia, durante el cual mantuvo una reunión —la primera de este tipo— con el presidente chino, Xi Jinping, y",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261120-en-vivo-trump-ofrece-una-rueda-de-prensa-tras-reunirse-con-xi-y-putin",
+   "date": "2026-11-20T17:36:24+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "b697d41f370d",
+   "source": "Al Jazeera",
+   "title": "Protests held across Europe over wages, services, high living costs",
+   "description": "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.",
+   "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
+   "date": "2026-11-20T17:32:32+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "611920ffbfc6",
+   "source": "BBC Mundo",
+   "title": "La familia de un alpinista desaparecido en el monte Fuji ofrece US$75.000 de recompensa entre advertencias de las autoridades",
+   "description": "La cuantiosa recompensa ofrecida por la familia del joven chino Chen Jie ha desatado temores de que se produzcan más intentos de escalada temerarios.",
+   "url": "https://www.bbc.com/mundo/articles/c3vg21zd7yx7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T17:28:17+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "9c3a819529d3",
+   "source": "France 24",
+   "title": "🔴 En vivo: Trump habla ante los medios tras la reunión trilateral con Xi Jinping y Vladímir Putin",
+   "description": "",
+   "url": "https://www.youtube.com/live/zTv0hCakAhg?si=1KeHCa2vPIz7ACcC",
+   "date": "2026-11-20T17:26:57+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "7fe086bacfd0",
+   "source": "France 24",
+   "title": "Rusia exige una OTAN con fronteras de 1997: ¿qué busca Putin?",
+   "description": "Rusia plantea una exigencia que va mucho más allá de Ucrania: que la OTAN retire su presencia militar en Europa del Este hasta las posiciones que ocupaba en 1997, antes de su ampliación hacia el antiguo bloque soviético. La propuesta, recogida en un documento revelado por The New",
+   "url": "https://www.france24.com/es/programas/ventana-a-europa/20261120-rusia-exige-una-otan-con-fronteras-de-1997-qu%C3%A9-busca-putin",
+   "date": "2026-11-20T17:24:59+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "aec4c2694ac1",
+   "source": "Ex-Ante",
+   "title": "Chile postula a Benjamín Salas para reemplazar a Claudio Grossman en la Comisión de Derecho Internacional de la ONU",
+   "description": "Benjamín Salas —el estrecho ex asesor del expresidente Piñera y jefe de gabinete del líder de la Corte Internacional de Justicia— fue propuesto por Chile…",
+   "url": "https://www.ex-ante.cl/internacional/benjamin-salas-por-claudio-grossman/",
+   "date": "2026-11-20T17:24:20+00:00",
+   "category": "Derecho internacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "04c4023e372f",
+   "source": "Ex-Ante",
+   "title": "La crisis de las firmas falsas golpea el liderazgo de Paulina Vodanovic en el PS",
+   "description": "La controversia que involucra al senador Juan Luis Castro, muy cercano a Vodanovic, ha abierto un nuevo flanco para la presidenta del PS. El lunes…",
+   "url": "https://www.ex-ante.cl/politica/firmas-falsas-golpea-vodanovic-ps/",
+   "date": "2026-11-20T17:23:35+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "dfc05127aed7",
+   "source": "BBC Mundo",
+   "title": "Los gritos de un reo durante su ejecución en Texas reavivan el debate sobre la pena de muerte en EE.UU.",
+   "description": "Esta prolongada ejecución se produce semanas después de que Christa Pike sobreviviera a la inyección letal del mismo fármaco.",
+   "url": "https://www.bbc.com/mundo/articles/cq3dg820rre0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T17:20:55+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "ab59236aca51",
+   "source": "Al Jazeera",
+   "title": "Qatar’s emir calls for diplomacy to end regional conflicts",
+   "description": "Qatar’s Emir Sheikh Tamim bin Hamad Al Thani called for diplomatic efforts to de-escalate conflicts.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/qatars-emir-calls-for-diplomacy-to-end-regional-conflicts?traffic_source=rss",
+   "date": "2026-11-20T17:18:58+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "dec0b79ecd1b",
+   "source": "Deutsche Welle",
+   "title": "The Beatles estrenan nuevo video de 'In My Life' que rinde homenaje a Liverpool",
+   "description": "El video, protagonizado por el joven actor Owen Cooper, rinde homenaje a Liverpool y a la historia del cuarteto británico.",
+   "url": "https://www.dw.com/es/the-beatles-estrenan-nuevo-video-de-in-my-life-que-rinde-homenaje-a-liverpool/a-80005996?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-20T17:18:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "aa5132b8fab3",
+   "source": "Radio Cooperativa",
+   "title": "Desconocidos balearon a dos jóvenes desde un furgón en Lampa",
+   "description": "Un presunto ataque a disparos dejó a dos jóvenes con lesiones graves en el sector de Batuco , en la comuna de Lampa. Según antecedentes recabados por el Ministerio Público, desconocidos abrieron fuego desde un furgón , mientras los hombres compartían en el frontis de un domicilio",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/desconocidos-balearon-a-dos-jovenes-desde-un-furgon-en-lampa/2026-11-20/141759.html",
+   "date": "2026-11-20T17:17:59+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "59679f082d49",
+   "source": "Radio Cooperativa",
+   "title": "May Chomali negó \"compromiso\" con libertarios sobre terapias hormonales: No sé de dónde sale la AC",
+   "description": "La ministra de Salud , May Chomali , descartó este viernes que existan acuerdos políticos con el Partido Nacional Libertario y desestimó la amenaza de una acusación constitucional en su contra , luego de que el Senado rechazara la indicación al Presupuesto 2027 que buscaba prohib",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/may-chomali-nego-compromiso-con-libertarios-sobre-terapias-hormonales/2026-11-20/141741.html",
+   "date": "2026-11-20T17:17:41+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "5e5d1a94124b",
+   "source": "The Guardian",
+   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+   "description": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London g",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+   "date": "2026-11-20T17:16:07+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "6dcf62b3df18",
+   "source": "France 24",
+   "title": "Informe desde Roma: huelga general en Italia por el alto costo de vida y la crisis de vivienda",
+   "description": "Miles de personas volvieron a salir a las calles de Italia, con los estudiantes y los sindicatos de trabajadores como protagonistas. Los manifestantes convocaron una huelga en rechazo al aumento del gasto militar y para exigir mayores inversiones en salud y educación. Al menos 10",
+   "url": "https://www.france24.com/es/video/20261120-informe-desde-roma-huelga-general-en-italia-por-el-alto-costo-de-vida-y-la-crisis-de-vivienda",
+   "date": "2026-11-20T17:14:58+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "ba2f693181f1",
+   "source": "France 24",
+   "title": "Reino Unido reconstruye relaciones con la Unión Europea tras el Brexit",
+   "description": "Este 20 de noviembre, Reino Unido y la Unión Europea (UE) alcanzaron un acuerdo en Bruselas para agilizar el intercambio comercial de productos agroalimentarios y promover nuevas oportunidades laborales y académicas para los jóvenes, como parte de sus esfuerzos por estrechar los ",
+   "url": "https://www.france24.com/es/video/20261120-reino-unido-reconstruye-relaciones-con-la-uni%C3%B3n-europea-tras-el-brexit",
+   "date": "2026-11-20T17:14:36+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "99495b2ec5be",
+   "source": "France 24",
+   "title": "Hegseth refuerza cooperación en seguridad con Ecuador y Honduras en su gira por Latinoamérica",
+   "description": "El secretario de Defensa de Estados Unidos, Pete Hegseth, concluyó su gira por Latinoamérica con visitas a Ecuador y Honduras. En Quito, durante su encuentro con el presidente Daniel Noboa, expresó su respaldo a la lucha contra el narcotráfico y los grupos armados ilegales, y ase",
+   "url": "https://www.france24.com/es/video/20261120-hegseth-refuerza-cooperaci%C3%B3n-en-seguridad-con-ecuador-y-honduras-en-su-gira-por-latinoam%C3%A9rica",
+   "date": "2026-11-20T17:13:38+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "2cbbaa87536a",
+   "source": "France 24",
+   "title": "COP31 logra acuerdos de inversión, pero persisten las diferencias sobre los combustibles fósiles",
+   "description": "Aunque estaba previsto que las negociaciones de la COP31 concluyeran este 20 de noviembre, aún no se han alcanzado acuerdos definitivos sobre los combustibles fósiles. Turquía anunció acuerdos y proyectos de inversión por más de 26.000 millones de dólares. Por su parte, la financ",
+   "url": "https://www.france24.com/es/video/20261120-cop31-logra-acuerdos-de-inversi%C3%B3n-pero-persisten-las-diferencias-sobre-los-combustibles-f%C3%B3siles",
+   "date": "2026-11-20T17:11:51+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "013a06b38f1a",
+   "source": "France 24",
+   "title": "Sánchez y Feijóo, cara a cara en un debate marcado por la vivienda, la inmigración y la seguridad",
+   "description": "El presidente del Gobierno de España, Pedro Sánchez, y el líder del opositor Partido Popular (PP), Alberto Núñez Feijóo, protagonizaron el 19 de noviembre un enfrentamiento político centrado en la crisis de vivienda, la inmigración y la seguridad ferroviaria, tras los dos graves ",
+   "url": "https://www.france24.com/es/video/20261120-s%C3%A1nchez-y-feij%C3%B3o-cara-a-cara-en-un-debate-marcado-por-la-vivienda-la-inmigraci%C3%B3n-y-la-seguridad",
+   "date": "2026-11-20T17:11:25+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "b6304e86b6a1",
+   "source": "The Guardian",
+   "title": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
+   "description": "News of vulnerability comes after retailers in at least seven European countries hit by cyber-attacks A secret government cybersecurity operation recently warded off the risk of a cyber-attack on fridges and freezers in UK supermarkets, warehouses, restaurants, petrol stations an",
+   "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
+   "date": "2026-11-20T17:08:14+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "6df0c592b18d",
+   "source": "Radio Cooperativa",
+   "title": "El editorial de Sebastián Esnaola: La pelotita es lo que menos les importa y no lo disimulan",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/cooperativa-deportes/opinion/el-editorial-de-sebastian-esnaola-la-pelotita-es-lo-que-menos-les/2026-11-20/140558.html",
+   "date": "2026-11-20T17:05:58+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "0748afab8186",
+   "source": "Al Jazeera",
+   "title": "Top US Democrat warns Trump admin against destroying records",
+   "description": "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws.",
+   "url": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
+   "date": "2026-11-20T17:05:42+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "66c4922b0d83",
+   "source": "Al Jazeera",
+   "title": "UK far-right activist ‘Danny Tommo’ jailed for slashing migrant boat",
+   "description": "Daniel Thomas livestreamed himself slashing a dinghy used to bring migrants from France to the UK.",
+   "url": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss",
+   "date": "2026-11-20T17:05:32+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "dc953df40edf",
+   "source": "Deutsche Welle",
+   "title": "¿Hemos perdido la oportunidad de frenar el cambio climático?",
+   "description": "Desde temperaturas récord hasta inundaciones devastadoras e incendios forestales, las señales de alerta están por todas partes. ¿Es posible controlar aún el aumento el calentamiento del planeta?",
+   "url": "https://www.dw.com/es/¿hemos-perdido-la-oportunidad-de-frenar-el-cambio-climático/a-80005084?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-20T17:05:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "f4adcbd1a0db",
+   "source": "Radio Cooperativa",
+   "title": "Diego Boneta se pone en la piel de Fidel Castro en nueva película",
+   "description": "El actor mexicano Diego Boneta es el protagonista de \"Killing Castro\" , una nueva película en la que interpretará al exlíder cubano Fidel Castro . La cinta estará ambientada en 1960 poco después de que Castro concretara la Revolución en la isla de Cuba y durante su primer discurs",
+   "url": "https://www.cooperativa.cl/noticias/magazine/cine/diego-boneta-se-pone-en-la-piel-de-fidel-castro-en-nueva-pelicula/2026-11-20/140007.html",
+   "date": "2026-11-20T17:00:07+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "75af6cbf4276",
+   "source": "The Guardian",
+   "title": "Gérard Depardieu and Michel Houellebecq investigated over on-set rape and assault allegations",
+   "description": "Actor and author are alleged to have attacked and gang-raped a woman while filming together in 2018 French police are investigating allegations that the actor Gérard Depardieu and the author Michel Houellebecq gang-raped and assaulted a woman during a 2018 film shoot. The alleged",
+   "url": "https://www.theguardian.com/film/2026/nov/20/gerard-depardieu-michel-houellebecq-investigated-allegations",
+   "date": "2026-11-20T16:54:57+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "463174a13cdc",
+   "source": "The Guardian",
+   "title": "Police search for teacher who missed sentencing after indecent assault conviction",
+   "description": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980s Police are searching for a missing chemistry teacher convicted of sexual relationships with two pupils at a boys’ school in the late 1980s after she did not turn up to ",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+   "date": "2026-11-20T16:50:47+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "efdc699e339b",
+   "source": "The Guardian",
+   "title": "White supremacist convicted of planning bomb attack on asylum seekers in Hull",
+   "description": "Mikka Anderson stockpiled weapons and tried to recruit accomplice for attack on Royal Hotel A white supremacist has been found guilty of planning a firebomb terror attack on asylum seekers in Hull. Mikka Anderson, 24, stockpiled weapons including napalm, knives and a crossbow for",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/20/white-supremacist-mikka-anderson-convicted-planning-bomb-attack-asylum-seekers-hull",
+   "date": "2026-11-20T16:48:31+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "85c48ff3ad35",
    "source": "Ex-Ante",
@@ -12,6 +302,16 @@
    "type": "Prensa"
   },
   {
+   "id": "852e3eccda16",
+   "source": "France 24",
+   "title": "Trump, Xi y Putin: ¿un nuevo orden mundial a puerta cerrada?",
+   "description": "En un encuentro a puerta cerrada, Donald Trump, Xi Jinping y Vladimir Putin abordaron asuntos que afectan al equilibrio del poder mundial. La declaración conjunta de los tres mandatarios plantea reformas en Naciones Unidas, una mayor coordinación energética, la defensa de las inm",
+   "url": "https://www.france24.com/es/programas/el-debate/20261120-trump-xi-y-putin-un-nuevo-orden-mundial-a-puerta-cerrada",
+   "date": "2026-11-20T16:43:46+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
    "id": "cc417e2a7a75",
    "source": "Radio Cooperativa",
    "title": "Alcaraz avanzó invicto a semifinales de las Finales ATP",
@@ -19,6 +319,16 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/tenis/carlos-alcaraz/alcaraz-avanzo-invicto-a-semifinales-de-las-finales-atp/2026-11-20/134144.html",
    "date": "2026-11-20T16:41:44+00:00",
    "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "8eaec22c135a",
+   "source": "Al Jazeera",
+   "title": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
+   "description": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
+   "url": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss",
+   "date": "2026-11-20T16:40:35+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -55,7 +365,7 @@
    "id": "e42e02511abb",
    "source": "The Guardian",
    "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
-   "description": "Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic’s shares have slumped at the start of a second day of trading, as its record-breaking IPO failed to stem a ",
+   "description": "Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Who are Anthropic’s seven co-founders, now worth $180bn? Anthropic’s shares fell at the start of its second day of trading, as its record-breaking IPO failed to stem a sell-o",
    "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
    "date": "2026-11-20T16:26:07+00:00",
    "category": "China y Asia",
@@ -122,16 +432,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5e5d1a94124b",
-   "source": "The Guardian",
-   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-   "description": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London g",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "date": "2026-11-20T16:15:24+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "4d7ba6bc18d2",
    "source": "Al Jazeera",
    "title": "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
@@ -149,6 +449,16 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-y-el-chile-2-tenemos-muy-claro-que-todo-depende-de-nosotros/2026-11-20/131242.html",
    "date": "2026-11-20T16:12:42+00:00",
    "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "de3fd741302f",
+   "source": "Radio Cooperativa",
+   "title": "Las reservas aéreas a Rapa Nui se han disparado como un caballo salvaje",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/rapa-nui/las-reservas-aereas-a-rapa-nui-se-han-disparado-como-un-caballo-salvaje/2026-11-20/131114.html",
+   "date": "2026-11-20T16:11:14+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -184,7 +494,7 @@
   {
    "id": "b655d04c9c78",
    "source": "Al Jazeera",
-   "title": "What is Vox, and how did Spain’s far-right party rise to prominence?",
+   "title": "‘Expel invaders’: The dangerous promises of Spain’s far-right Vox party",
    "description": "As Spain prepares to vote, Vox is campaigning on mass deportations and 'national priority'.",
    "url": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence?traffic_source=rss",
    "date": "2026-11-20T16:05:31+00:00",
@@ -198,26 +508,6 @@
    "description": "Discord between EU and UK on whether arrangements for food and drink, emissions trading and youth mobility scheme depend on settlement for students UK-EU summit live – latest news updates The UK and EU have agreed a reset deal, Downing Street has said, although the level of tuiti",
    "url": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
    "date": "2026-11-20T16:03:13+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "8ff5e5bb624a",
-   "source": "The Guardian",
-   "title": "Suki Waterhouse and Robert Pattinson to become Britain’s next big Hollywood power couple",
-   "description": "Duo’s fame set to soar after Pattinson announced as next James Bond – but they will take newgen approach to power He is the next James Bond. She is a successful model/actor/singer-songwriter. Together, they are set to become the next big British power couple in Hollywood. This we",
-   "url": "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple",
-   "date": "2026-11-20T16:00:33+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "d4b25edceb55",
-   "source": "The Guardian",
-   "title": "Bring in ‘cosmetic cowboys’ law to avoid more deaths, says family of butt lift victim",
-   "description": "Relatives speak out as inquest jury finds Alice Webb’s death after filler entered her organs was accidental The family of a woman who died after a botched Brazilian butt lift have called for laws against “cosmetic cowboys” to be introduced before more people lose their lives. Spe",
-   "url": "https://www.theguardian.com/society/2026/nov/20/cosmetic-cowboys-law-avoid-more-deaths-family-brazilian-butt-lift-victim",
-   "date": "2026-11-20T15:55:28+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -282,16 +572,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a40b48de3c39",
-   "source": "Radio Cooperativa",
-   "title": "Los resultados en la ida de cuartos de final de la Liguilla de Ascenso",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este fin de semana arranca la Liguilla de Ascenso 2026 con los partidos de ida de cuartos de final, a falta de conocer al último integrante de la postemporada. Viernes 20 de noviembre Deportes Recoleta vs. Santiago Wanderer",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/los-resultados-en-la-ida-de-cuartos-de-final-de-la-liguilla-de-ascenso/2026-11-20/123109.html",
-   "date": "2026-11-20T15:31:09+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "e050e66ef0ee",
    "source": "Radio Cooperativa",
    "title": "Lincolao tras renuncia de su subsecretaria: \"A veces hay un poco de inconfortabilidad\"",
@@ -309,36 +589,6 @@
    "url": "https://www.dw.com/es/retiran-libro-de-la-persona-más-longeva-de-dinamarca-por-pasado-nazi/a-80005170?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-20T15:28:00+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "fd38e370249d",
-   "source": "Radio Cooperativa",
-   "title": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 28",
-   "description": "Revisa en vivo la tabla de posiciones de la Liga de Primera 2026: Pos. Club PJ Pts. Dif. Zona 1 Colo Colo (CAMPEON) 27 61 +29 Libertadores 2 U. de Chile 27 51 +25 Libertadores 3 Universidad Católica 27 49 +19 Duelo Chile 4 4 Deportes Limache 27 40 +8 Sudamericana 5 Everton 27 40 ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html",
-   "date": "2026-11-20T15:22:47+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "826e6d6f2e67",
-   "source": "Radio Cooperativa",
-   "title": "Perú construirá \"megacárceles\" con ayuda de EE.UU. y buscará \"imitar\" modelo de El Salvador",
-   "description": "Perú construirá dos \"megacárceles\" con apoyo de Estados Unidos y buscará \"imitar\" el modelo de labores para la resocialización de presos que realiza El Salvador , según anunció este jueves el ministro de Justicia y Derechos Humanos, Ernesto Álvarez. Las prisiones, cuya ubicación ",
-   "url": "https://www.cooperativa.cl/noticias/mundo/peru/peru-construira-megacarceles-con-ayuda-de-ee-uu-y-buscara-imitar/2026-11-20/122157.html",
-   "date": "2026-11-20T15:21:57+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "8df582d6b7bd",
-   "source": "Radio Cooperativa",
-   "title": "Los resultados de la fecha 28 de la Liga de Primera",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con la pelea por el \"Chile 2\", el descenso y el clásico de Colo Colo y Universidad Católica, La Liga de Primera desrrolla su fecha 28 este fin de semana. Viernes 20 de noviembre Cobresal vs. Audax Italiano. 18:00 horas. Est",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
-   "date": "2026-11-20T15:19:11+00:00",
-   "category": "Economía nacional",
    "type": "Prensa"
   },
   {
@@ -372,16 +622,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a4d2d887c0c4",
-   "source": "Radio Cooperativa",
-   "title": "Valdivia se prepara para recibir el primer Ironman de distancia completa de Chile",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Valdivia ultima los preparativos para recibir el próximo domingo 29 de noviembre el primer Ironman de distancia completa en la historia de Chile , que se disputará junto a la tercera edición del Ironman 70.3 Valdivia y reun",
-   "url": "https://www.cooperativa.cl/noticias/deportes/triatlon/chilenos/valdivia-se-prepara-para-recibir-el-primer-ironman-de-distancia-completa/2026-11-20/121122.html",
-   "date": "2026-11-20T15:11:22+00:00",
-   "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
    "id": "8a544cdd9ab2",
    "source": "Deutsche Welle",
    "title": "La cumbre Xi-Trump-Putin en Shenzhen deja más dudas que acuerdos",
@@ -402,26 +642,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f85efce4fd61",
-   "source": "Radio Cooperativa",
-   "title": "Condenado del caso Audio lanzó libro y afirma que hay material para una película de humor negro",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/judicial/casos-emblematicos/condenado-del-caso-audio-lanzo-libro-y-afirma-que-hay-material-para-una/2026-11-20/120226.html",
-   "date": "2026-11-20T15:02:26+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "68f4f0ab2967",
-   "source": "The Guardian",
-   "title": "‘You can’t get experience if no one’s employing you’: the vicious circle facing Blackpool’s Neets",
-   "description": "The English seaside town tops the list for 16- to 24-year-olds out of work and education, but not for lack of young jobseekers’ efforts Speaking random words like “cat” and “box” into her phone while filming herself in her pyjamas, Amy Butterworth’s relentless search for a job ha",
-   "url": "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle",
-   "date": "2026-11-20T15:00:32+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "a7cbd26fb0dc",
    "source": "Al Jazeera",
    "title": "Blood Gold: The Munduruku’s fight for survival in the Brazilian Amazon",
@@ -429,16 +649,6 @@
    "url": "https://www.aljazeera.com/video/fault-lines/2026/11/20/blood-gold-the-mundurukus-fight-for-survival-in-the-brazilian-amazon?traffic_source=rss",
    "date": "2026-11-20T15:00:00+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "0b106551748d",
-   "source": "The Guardian",
-   "title": "‘Gloucestershire nouveau’: UK vineyard uncorks its 2026 answer to beaujolais",
-   "description": "Three Choirs unveils First Release white wine after long, hot summer led to earliest harvest start in 50 years Forget beaujolais nouveau: a Gloucestershire vineyard has uncorked its 2026 vintage, giving the first taste of this year’s long, hot summer – and an answer to France’s a",
-   "url": "https://www.theguardian.com/business/2026/nov/20/three-choirs-vineyard-2026-first-release-wine-record-early-harvest-beaujolais-nouveau",
-   "date": "2026-11-20T14:59:23+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -702,46 +912,6 @@
    "type": "Académica"
   },
   {
-   "id": "6e682eb51bbd",
-   "source": "Al Jazeera",
-   "title": "BaddyDeadpool: The protester blending humour with activism",
-   "description": "Al Jazeera spoke to BaddyDeadpool, a French protester who uses dance to ease tensions between police and demonstrators.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss",
-   "date": "2026-11-20T12:26:29+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "2b1c40e02457",
-   "source": "Al Jazeera",
-   "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
-   "description": "The case sets a precedent for establishing a state's intent to commit genocide beyond explicitly written orders.",
-   "url": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
-   "date": "2026-11-20T12:20:29+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "61a5c56af035",
-   "source": "Al Jazeera",
-   "title": "Searching for the next Messi at the Under-17 World Cup",
-   "description": "Nearly 100 football scouts are in Qatar, searching for the next superstar at the FIFA Under-17 World Cup.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup-2?traffic_source=rss",
-   "date": "2026-11-20T12:20:09+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "15787b81561c",
-   "source": "Al Jazeera",
-   "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
-   "description": "CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.",
-   "url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
-   "date": "2026-11-20T12:19:24+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "5f4a3d69fc2b",
    "source": "Deutsche Welle",
    "title": "Casa Blanca despide al jefe de ciberseguridad tras una serie de fallos tecnológicos",
@@ -762,14 +932,14 @@
    "type": "Prensa"
   },
   {
-   "id": "fe2de0a25b29",
-   "source": "Al Jazeera",
-   "title": "Newcastle United vs Arsenal: Premier League – Predictions, lineups, preview",
-   "description": "As players return from international break, Premier League leaders Arsenal face Newcastle away on match day 11.",
-   "url": "https://www.aljazeera.com/sports/2026/11/20/newcastle-united-arsenal-premier-league-predictions-lineups-saka-saliba?traffic_source=rss",
-   "date": "2026-11-20T11:59:52+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
+   "id": "28709fcfa3bd",
+   "source": "Naciones Unidas",
+   "title": "COP31: Sin mención a los combustibles fósiles, no habrá acuerdo, aseguran varios países",
+   "description": "Los países definieron seis prioridades que deseaban ver reflejadas en el acuerdo: la necesidad de una transición, decidir con la ciencia en la mano, obligar a pagar a quienes contaminan, electrificar los países con base en las energías limpias, reducir las emisiones de metano y f",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542196",
+   "date": "2026-11-20T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
   },
   {
    "id": "8b8c9aed5e78",
@@ -824,11 +994,11 @@
   {
    "id": "04ca0247d01f",
    "source": "The Guardian",
-   "title": "‘Weak and dizzy’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
+   "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
    "description": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike The text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days e",
    "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
    "date": "2026-11-20T11:00:31+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -892,16 +1062,6 @@
    "type": "Prensa"
   },
   {
-   "id": "61b7d768cd0f",
-   "source": "The Guardian",
-   "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-   "description": "Two sides find provisional compromise on scheme but food and farming negotiations go down to the wire UK-EU summit live – latest news updates British and European negotiators were closing in on a reset deal on Thursday night as they provisionally agreed to allow 100,000 EU citize",
-   "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-   "date": "2026-11-20T08:19:28+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "5c621c5f7010",
    "source": "The Guardian",
    "title": "Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales",
@@ -919,16 +1079,6 @@
    "url": "https://www.theguardian.com/australia-news/2026/nov/20/routine-checks-may-have-saved-babies-lives-freebirth-inquest-nsw-ntwnfb",
    "date": "2026-11-20T06:51:54+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "c60668b6df77",
-   "source": "Deutsche Welle",
-   "title": "Ataque de misiles rusos dañan tres puentes y dejan tres muertos en la capital ucraniana",
-   "description": "Una nueva oleada de drones y misiles dejaron heridos en varias regiones de Ucrania.",
-   "url": "https://www.dw.com/es/ataque-de-misiles-rusos-dañan-tres-puentes-y-dejan-tres-muertos-en-la-capital-ucraniana/a-79998916?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-20T06:43:00+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1022,16 +1172,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7f4210e2b2b2",
-   "source": "France 24",
-   "title": "\"¿Qué le debe a Marruecos?\": Sánchez y Núñez Feijóo chocan en su único debate cara a cara",
-   "description": "A días de las elecciones generales del 29 de noviembre, el líder del PP, Alberto Núñez Feijóo, acusó al presidente Pedro Sánchez de no haber construido las viviendas prometidas y lo criticó por su relación con Marruecos tras la crisis migratoria en Ceuta. El socialista defendió s",
-   "url": "https://www.france24.com/es/europa/20261120-qu%C3%A9-le-debe-a-marruecos-s%C3%A1nchez-y-n%C3%BA%C3%B1ez-feij%C3%B3o-chocan-en-su-%C3%BAnico-debate-cara-a-cara",
-   "date": "2026-11-20T01:47:22+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "4d4a13af2a8c",
    "source": "Ex-Ante",
    "title": "El imperio gastronómico de Matías Arteaga suma nuevo restaurante en el Paseo El Mañío",
@@ -1052,36 +1192,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b7c113bc0632",
-   "source": "France 24",
-   "title": "“Tenemos tiempo”: ¿resistirá Trump la presión de Netanyahu por retomar las hostilidades contra Irán?",
-   "description": "El presidente estadounidense no parece tener prisa para reanudar los ataques a gran escala, a pesar de la presión por parte de Benjamin Netanyahu para lanzar una nueva campaña aérea conjunta, de la carta blanca (al menos provisional) por parte del Congreso saliente, que volvió a ",
-   "url": "https://www.france24.com/es/medio-oriente/20261120-tenemos-tiempo-resistir%C3%A1-trump-la-presi%C3%B3n-de-netanyahu-por-retomar-las-hostilidades-contra-ir%C3%A1n",
-   "date": "2026-11-20T01:17:18+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "6e275d60d020",
-   "source": "France 24",
-   "title": "Líderes en Europa cierran filas en torno a Zelenski tras cumbre trilateral en China",
-   "description": "Tras la histórica cumbre trilateral celebrada en Shenzhen, China, entre Donald Trump, Xi Jinping y Vladímir Putin, líderes europeos cerraron filas en torno al presidente ucraniano Volodímir Zelenski y reiteraron que cualquier negociación sobre el futuro de Ucrania debe contar con",
-   "url": "https://www.france24.com/es/video/20261120-l%C3%ADderes-en-europa-cierran-filas-en-torno-a-zelenski-tras-cumbre-trilateral-en-china",
-   "date": "2026-11-20T01:13:29+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "45685f8639e3",
-   "source": "France 24",
-   "title": "Colombia: oposición moviliza manifestaciones contra De la Espriella en diferentes ciudades",
-   "description": "Miles de personas participaron este 19 de noviembre en una jornada de movilizaciones convocada por centrales obreras, sindicatos, organizaciones sociales y sectores de oposición en distintas ciudades de Colombia. Las protestas fueron en rechazo al Gobierno del presidente Abelardo",
-   "url": "https://www.france24.com/es/video/20261120-colombia-oposici%C3%B3n-moviliza-manifestaciones-contra-de-la-espriella-en-diferentes-ciudades",
-   "date": "2026-11-20T01:06:53+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "c27b430ef69b",
    "source": "BBC Mundo",
    "title": "Quiénes son los rohinyás, la \"minoría más perseguida del mundo\" por la que Myanmar fue condenado por genocidio",
@@ -1089,16 +1199,6 @@
    "url": "https://www.bbc.com/mundo/articles/cm9w9pp7w9x9o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T23:52:20+00:00",
    "category": "Derecho internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "b63310560841",
-   "source": "Ex-Ante",
-   "title": "Quiebre en Ciencia: la trama de la renuncia de la subsecretaria Rossi y sus diferencias con la ministra Lincolao",
-   "description": "La salida de Carolina Rossi como subsecretaria de la cartera de Ciencia se produjo tras meses de diferencias técnicas y administrativas con la ministra Ximena…",
-   "url": "https://www.ex-ante.cl/politica/trama-quiebre-ciencia-renuncia-rossi/",
-   "date": "2026-11-19T23:10:09+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -1122,16 +1222,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2323d4bdc2df",
-   "source": "France 24",
-   "title": "“La persona en la que más confiaba me traicionó”: cuatro culpables en el caso que evoca a Pelicot en Reino Unido",
-   "description": "",
-   "url": "https://www.france24.com/es/europa/20261119-la-persona-en-la-que-m%C3%A1s-confiaba-me-traicion%C3%B3-cuatro-culpables-en-el-caso-que-evoca-a-pelicot-en-reino-unido",
-   "date": "2026-11-19T22:54:54+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "6b0149b04f5f",
    "source": "BBC Mundo",
    "title": "\"Se están quedando encerradas en sus casas sin un futuro\": el drama de las personas con discapacidad afectadas por las políticas de Milei en Argentina",
@@ -1139,26 +1229,6 @@
    "url": "https://www.bbc.com/mundo/articles/c617k978p47ro?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T22:49:43+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "abb1bee7263a",
-   "source": "Ex-Ante",
-   "title": "Perfil: La senadora que tiene al senador Castro contra las cuerdas por presunta falsificación de firma",
-   "description": "La senadora Ximena Órdenes estaba en China cuando supo que alguien había retirado en su nombre su permiso constitucional. Pudo dejarlo pasar, como Fidel Espinoza…",
-   "url": "https://www.ex-ante.cl/politica/perfil-senadora-castro-contra-cuerdas/",
-   "date": "2026-11-19T21:49:30+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "796179bb7e65",
-   "source": "France 24",
-   "title": "GTA VI, “un reflejo de los defectos de Estados Unidos”: ‘La Croix’",
-   "description": "La sexta versión del videojuego ‘Grand Theft Auto’ ya es conocida como la saga más esperada del mundo del entretenimiento, tras su lanzamiento al público este miércoles 18 de noviembre. Sus “anuncios que se burlan del hiperconsumo, noticias que satirizan el sensacionalismo y su p",
-   "url": "https://www.france24.com/es/programas/revista-de-prensa/20261119-gta-vi-un-reflejo-de-los-defectos-de-estados-unidos-la-croix",
-   "date": "2026-11-19T21:46:20+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1179,26 +1249,6 @@
    "url": "https://www.bbc.com/mundo/articles/c6pw4ddp2glpo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T21:38:59+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "b1546561b1f6",
-   "source": "France 24",
-   "title": "Combates en Martissant: ¿qué se sabe de la operación que dejó al menos 34 pandilleros muertos en Haití?",
-   "description": "Al menos 34 presuntos miembros de la banda de Grand Ravine murieron este jueves 19 de noviembre en una operación de la Policía con apoyo de la empresa Vectus Global. Se trata de la primera ofensiva de gran alcance en Martissant desde que las pandillas tomaron el control de esa zo",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261119-combates-en-martissant-qu%C3%A9-se-sabe-de-la-operaci%C3%B3n-que-dej%C3%B3-al-menos-34-pandilleros-muertos-en-hait%C3%AD",
-   "date": "2026-11-19T21:37:15+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "6f8e48ff35ef",
-   "source": "France 24",
-   "title": "Vivienda, trenes y migración: ¿qué proponen los partidos de cara a las elecciones del 29N en España?",
-   "description": "",
-   "url": "https://www.france24.com/es/europa/20261119-vivienda-trenes-y-migraci%C3%B3n-qu%C3%A9-proponen-los-partidos-de-cara-a-las-elecciones-del-29n-en-espa%C3%B1a",
-   "date": "2026-11-19T21:25:50+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -1249,16 +1299,6 @@
    "url": "https://www.bbc.com/mundo/articles/crd61505g31po?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T18:40:35+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "5c45c28cc2ae",
-   "source": "BBC Mundo",
-   "title": "Por qué Chile enfrenta una crisis económica en medio de las políticas de austeridad de Kast",
-   "description": "El desempleo alcanzó el 9,6%, la actividad minera se desplomó y el costo de vida sigue presionando el bolsillo de los chilenos.",
-   "url": "https://www.bbc.com/mundo/watch/cm5y192jyee5o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T18:00:39+00:00",
-   "category": "Economía nacional",
    "type": "Prensa"
   },
   {
@@ -2142,16 +2182,6 @@
    "type": "Oficial"
   },
   {
-   "id": "e480cbeb4dfe",
-   "source": "BBC Mundo",
-   "title": "Muere a los 80 años Miguel Ángel Félix Gallardo, el \"Jefe de Jefes\" que revolucionó el narcotráfico en México al aliarse con carteles de Colombia",
-   "description": "El domingo falleció quien fuera el líder del todopoderoso Cartel de Guadalajara en la década de 1980 y quien cambió el negocio del narcotráfico al aliarse con el Cartel de Medellín",
-   "url": "https://www.bbc.com/mundo/articles/c65y172egk2qo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T11:09:57+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "4023a9d76580",
    "source": "BBC Mundo",
    "title": "\"Les molesta compartir el aire que respiran conmigo\": cómo el auge de la ultraderecha en Alemania está afectando a los migrantes latinoamericanos",
@@ -2569,16 +2599,6 @@
    "url": "https://news.un.org/feed/view/es/story/2026/11/1542159",
    "date": "2026-11-10T12:00:00+00:00",
    "category": "África",
-   "type": "Oficial"
-  },
-  {
-   "id": "225470f14465",
-   "source": "Naciones Unidas",
-   "title": "La COP31 abre en Antalya: ¿pueden por fin las promesas climáticas dar resultados?",
-   "description": "Casi 200 países han llegado a la costa mediterránea de Turquía para una cumbre climática con una ambición diferente: menos declaraciones y más decisiones. Con un poderoso fenómeno de El Niño que amenaza con empeorar los eventos meteorológicos extremos, los negociadores se enfrent",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542157",
-   "date": "2026-11-09T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Oficial"
   },
   {
