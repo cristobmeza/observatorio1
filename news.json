@@ -1,6 +1,326 @@
 {
- "updated": "2026-11-20T14:16:51.091833+00:00",
+ "updated": "2026-11-20T15:52:14.170105+00:00",
  "items": [
+  {
+   "id": "47a8f9b933b5",
+   "source": "Al Jazeera",
+   "title": "Jerusalem Daily: Palestinians return home to ruins",
+   "description": "Palestinians return to find their homes reduced to rubble after Israel’s ground offensive, as attacks on Gaza continue.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
+   "date": "2026-11-20T15:42:04+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "51e5d9c47417",
+   "source": "Radio Cooperativa",
+   "title": "La previa del clásico entre Colo Colo y Universidad Católica por la fecha 28",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes d",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-previa-del-clasico-entre-colo-colo-y-universidad-catolica-por-la/2026-11-20/123722.html",
+   "date": "2026-11-20T15:37:22+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "a40b48de3c39",
+   "source": "Radio Cooperativa",
+   "title": "Los resultados en la ida de cuartos de final de la Liguilla de Ascenso",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este fin de semana arranca la Liguilla de Ascenso 2026 con los partidos de ida de cuartos de final, a falta de conocer al último integrante de la postemporada. Viernes 20 de noviembre Deportes Recoleta vs. Santiago Wanderer",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/los-resultados-en-la-ida-de-cuartos-de-final-de-la-liguilla-de-ascenso/2026-11-20/123109.html",
+   "date": "2026-11-20T15:31:09+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "c978674e5f58",
+   "source": "Deutsche Welle",
+   "title": "Retiran libro de la persona más longeva de Dinamarca por pasado nazi",
+   "description": "La biografía de Kirsten Schwalbe, la mujer más anciana en la historia de Dinamarca con 112 años, fue retirada de las librerías del país escandinavo tras descubrirse que omitió su afiliación al Partido Nazi Danés.",
+   "url": "https://www.dw.com/es/retiran-libro-de-la-persona-más-longeva-de-dinamarca-por-pasado-nazi/a-80005170?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-20T15:28:00+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "5e5d1a94124b",
+   "source": "The Guardian",
+   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+   "description": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London g",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+   "date": "2026-11-20T15:24:09+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "fd38e370249d",
+   "source": "Radio Cooperativa",
+   "title": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 28",
+   "description": "Revisa en vivo la tabla de posiciones de la Liga de Primera 2026: Pos. Club PJ Pts. Dif. Zona 1 Colo Colo (CAMPEON) 27 61 +29 Libertadores 2 U. de Chile 27 51 +25 Libertadores 3 Universidad Católica 27 49 +19 Duelo Chile 4 4 Deportes Limache 27 40 +8 Sudamericana 5 Everton 27 40 ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html",
+   "date": "2026-11-20T15:22:47+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "826e6d6f2e67",
+   "source": "Radio Cooperativa",
+   "title": "Perú construirá \"megacárceles\" con ayuda de EE.UU. y buscará \"imitar\" modelo de El Salvador",
+   "description": "Perú construirá dos \"megacárceles\" con apoyo de Estados Unidos y buscará \"imitar\" el modelo de labores para la resocialización de presos que realiza El Salvador , según anunció este jueves el ministro de Justicia y Derechos Humanos, Ernesto Álvarez. Las prisiones, cuya ubicación ",
+   "url": "https://www.cooperativa.cl/noticias/mundo/peru/peru-construira-megacarceles-con-ayuda-de-ee-uu-y-buscara-imitar/2026-11-20/122157.html",
+   "date": "2026-11-20T15:21:57+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "8df582d6b7bd",
+   "source": "Radio Cooperativa",
+   "title": "Los resultados de la fecha 28 de la Liga de Primera",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con la pelea por el \"Chile 2\", el descenso y el clásico de Colo Colo y Universidad Católica, La Liga de Primera desrrolla su fecha 28 este fin de semana. Viernes 20 de noviembre Cobresal vs. Audax Italiano. 18:00 horas. Est",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
+   "date": "2026-11-20T15:19:11+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "12e6a8edc892",
+   "source": "Al Jazeera",
+   "title": "Poland condemns Russian ‘provocation’ after airspace violations",
+   "description": "The incidents came as European troops were taking part in a Ukraine post-war military exercise.",
+   "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
+   "date": "2026-11-20T15:18:26+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "69225ba6db4d",
+   "source": "The Guardian",
+   "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
+   "description": "Activists in more than 20 countries demonstrate over cost of living, learning conditions and rising military spending Students and young workers have taken to the streets in more than 20 European countries in coordinated protests over the surging cost of living and housing, deter",
+   "url": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living",
+   "date": "2026-11-20T15:15:28+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "0dc1a792cecf",
+   "source": "Ex-Ante",
+   "title": "Relevo en Bci: quién es el nuevo gerente general que liderará la operación del banco en Chile y Perú",
+   "description": "Bci iniciará una nueva etapa con Gerardo Spoerer al mando de sus operaciones en Chile y Perú. El ejecutivo, que lleva 30 años en la…",
+   "url": "https://www.ex-ante.cl/negocios/bci-ejecutivo-que-liderara-operacion-banco/",
+   "date": "2026-11-20T15:13:28+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "a4d2d887c0c4",
+   "source": "Radio Cooperativa",
+   "title": "Valdivia se prepara para recibir el primer Ironman de distancia completa de Chile",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Valdivia ultima los preparativos para recibir el próximo domingo 29 de noviembre el primer Ironman de distancia completa en la historia de Chile , que se disputará junto a la tercera edición del Ironman 70.3 Valdivia y reun",
+   "url": "https://www.cooperativa.cl/noticias/deportes/triatlon/chilenos/valdivia-se-prepara-para-recibir-el-primer-ironman-de-distancia-completa/2026-11-20/121122.html",
+   "date": "2026-11-20T15:11:22+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "bb076b2bdb22",
+   "source": "The Guardian",
+   "title": "Far-right activist Daniel Thomas jailed for slashing dinghy in Channel",
+   "description": "Thomas sentenced to 15 months after admitting to criminal damage to vessel that had been carrying asylum seekers The far-right agitator Daniel Thomas has been sentenced to 15 months in jail after slashing a dinghy that had been carrying asylum seekers in the Channel. Thomas had t",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/20/far-right-activist-daniel-thomas-jailed-for-slashing-dinghy-in-channel",
+   "date": "2026-11-20T15:07:50+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "8a544cdd9ab2",
+   "source": "Deutsche Welle",
+   "title": "La cumbre Xi-Trump-Putin en Shenzhen deja más dudas que acuerdos",
+   "description": "La reunión de Shenzhen entre Xi, Trump y Putin avivó las comparaciones con la Conferencia de Yalta. La cita no aportó soluciones para los conflictos actuales ni cambios en el sistema internacional.",
+   "url": "https://www.dw.com/es/la-cumbre-xi-trump-putin-en-shenzhen-deja-más-dudas-que-acuerdos/a-80004824?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-20T15:06:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "f01519666089",
+   "source": "Deutsche Welle",
+   "title": "\"Humano\": la palabra del año en plena era de la inteligencia artificial",
+   "description": "La elección del Diccionario Cambridge refleja cómo la inteligencia artificial está cambiando nuestra forma de entender y reivindicar lo humano.",
+   "url": "https://www.dw.com/es/humano-la-palabra-del-año-en-plena-era-de-la-inteligencia-artificial/a-80004981?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-20T15:06:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "f85efce4fd61",
+   "source": "Radio Cooperativa",
+   "title": "Condenado del caso Audio lanzó libro y afirma que hay material para una película de humor negro",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/judicial/casos-emblematicos/condenado-del-caso-audio-lanzo-libro-y-afirma-que-hay-material-para-una/2026-11-20/120226.html",
+   "date": "2026-11-20T15:02:26+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "68f4f0ab2967",
+   "source": "The Guardian",
+   "title": "‘You can’t get experience if no one’s employing you’: the vicious circle facing Blackpool’s Neets",
+   "description": "The English seaside town tops the list for 16- to 24-year-olds out of work and education, but not for lack of young jobseekers’ efforts Speaking random words like “cat” and “box” into her phone while filming herself in her pyjamas, Amy Butterworth’s relentless search for a job ha",
+   "url": "https://www.theguardian.com/society/2026/nov/20/blackpool-neets-job-shortages-employment-vicious-circle",
+   "date": "2026-11-20T15:00:32+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a7cbd26fb0dc",
+   "source": "Al Jazeera",
+   "title": "Blood Gold: The Munduruku’s fight for survival in the Brazilian Amazon",
+   "description": "Fault Lines investigates how illegal gold mining poisons and threatens Indigenous communities in the Brazilian Amazon.",
+   "url": "https://www.aljazeera.com/video/fault-lines/2026/11/20/blood-gold-the-mundurukus-fight-for-survival-in-the-brazilian-amazon?traffic_source=rss",
+   "date": "2026-11-20T15:00:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "0b106551748d",
+   "source": "The Guardian",
+   "title": "‘Gloucestershire nouveau’: UK vineyard uncorks its 2026 answer to beaujolais",
+   "description": "Three Choirs unveils First Release white wine after long, hot summer led to earliest harvest start in 50 years Forget beaujolais nouveau: a Gloucestershire vineyard has uncorked its 2026 vintage, giving the first taste of this year’s long, hot summer – and an answer to France’s a",
+   "url": "https://www.theguardian.com/business/2026/nov/20/three-choirs-vineyard-2026-first-release-wine-record-early-harvest-beaujolais-nouveau",
+   "date": "2026-11-20T14:59:23+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e5d4c010f2d1",
+   "source": "Ex-Ante",
+   "title": "Regulando la Inteligencia Artificial: la necesidad de una moral agentica",
+   "description": "Durante décadas, la principal pregunta de la regulación tecnológica ha sido qué podemos permitir que hagan las máquinas. Con la Inteligencia Artificial autónoma aparece otra…",
+   "url": "https://www.ex-ante.cl/afteroffice/regulando-la-inteligencia-artificial/",
+   "date": "2026-11-20T14:50:37+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "31f754720318",
+   "source": "Al Jazeera",
+   "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
+   "description": "Yemen's Houthis have warned airlines of military activity in Saudi airspace in the coming hours.",
+   "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
+   "date": "2026-11-20T14:48:04+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e687bdd9a7d5",
+   "source": "Radio Cooperativa",
+   "title": "España y Francia protagonizarán duelo estelar en cuartos de la Liga de Naciones",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes España y Francia protagonizarán uno de los enfrentamientos de los cuartos de final de la Liga de Naciones de la UEFA , luego del sorteo celebrado este viernes en la sede del organismo europeo en Nyon, Suiza. El combinado es",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/nations-league/espana-y-francia-protagonizaran-duelo-estelar-en-cuartos-de-la-liga-de/2026-11-20/114430.html",
+   "date": "2026-11-20T14:44:30+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "49bd6a1e2ae1",
+   "source": "Radio Cooperativa",
+   "title": "Operación Cofradía del Golfo: 22 detenidos y 22 millones incautados en Arauco",
+   "description": "Un total de 22 personas fueron detenidas en la comuna de Arauco , Región del Biobío, en el marco de la operación Cofradía del Golfo , una investigación de la Policía de Investigaciones (PDI) y el Ministerio Público que permitió identificar una organización criminal dedicada al tr",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-del-biobio/operacion-cofradia-del-golfo-22-detenidos-y-22-millones-incautados-en/2026-11-20/113940.html",
+   "date": "2026-11-20T14:39:40+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "3e8054a75052",
+   "source": "Al Jazeera",
+   "title": "Hot potato: Can Japan resist Trump pressure to import food staple?",
+   "description": "Japan imports 60 percent of its food, but it fiercely draws the line at potatoes.",
+   "url": "https://www.aljazeera.com/news/2026/11/20/hot-potato-can-japan-resist-trump-pressure-to-import-food-staple?traffic_source=rss",
+   "date": "2026-11-20T14:38:25+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "65f5336a5c31",
+   "source": "Radio Cooperativa",
+   "title": "Real Madrid aseguró la continuidad de Thibaut Courtois hasta 2028",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Real Madrid anunció la renovación del arquero belga Thibaut Courtois , quien extendió su contrato con el conjunto español hasta el 30 de junio de 2028 , asegurando su continuidad por una temporada adicional. El guardameta d",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/real-madrid/real-madrid-aseguro-la-continuidad-de-thibaut-courtois-hasta-2028/2026-11-20/113806.html",
+   "date": "2026-11-20T14:38:06+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "73f78e19f703",
+   "source": "France 24",
+   "title": "La COP31 suma inversiones por 26.000 millones de dólares, pero sigue sin acuerdo sobre los combustibles fósiles",
+   "description": "La COP31 de Antalya, en Turquía, se encaminaba este viernes a superar el plazo oficial de cierre sin avances decisivos en las negociaciones para reducir las emisiones contaminantes.",
+   "url": "https://www.france24.com/es/medio-ambiente/20261120-la-cop31-suma-inversiones-por-26-000-millones-de-d%C3%B3lares-pero-sigue-sin-acuerdo-sobre-los-combustibles-f%C3%B3siles",
+   "date": "2026-11-20T14:36:19+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "b50e35e9daa2",
+   "source": "Al Jazeera",
+   "title": "Outages in US cause worry, despite official attempts to downplay concerns",
+   "description": "Experts say Trump administration is not taking the threat of AI attacks seriously, as consumers stock up on supplies.",
+   "url": "https://www.aljazeera.com/news/2026/11/20/outages-in-us-cause-worry-despite-official-attempts-to-downplay-concerns?traffic_source=rss",
+   "date": "2026-11-20T14:34:04+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "b553b484b1c6",
+   "source": "Deutsche Welle",
+   "title": "Potros, Schalke y Unión Berlín: el lado oscuro de la Bundesliga",
+   "description": "Aunque el fracaso no está de moda, es sombra permamente en cada torneo de Bundesliga. Tres clubes lo viven en carne propia.",
+   "url": "https://www.dw.com/es/potros-schalke-y-unión-berlín-el-lado-oscuro-de-la-bundesliga/a-80001685?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-20T14:29:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "947d96c2cbd4",
+   "source": "Radio Cooperativa",
+   "title": "Líder talibán pide \"moldear la mente de los jóvenes\" hacia la cultura islámica afgana",
+   "description": "El líder supremo de los talibanes , el mulá Haibatullah Akhundzada, instó a las autoridades culturales de Afganistán a centrar la educación de los jóvenes en la cultura islámica para combatir las influencias externas, durante una inusual gira por el país. \" Moldeen las mentes de ",
+   "url": "https://www.cooperativa.cl/noticias/mundo/afganistan/lider-taliban-pide-moldear-la-mente-de-los-jovenes-hacia-la-cultura/2026-11-20/112434.html",
+   "date": "2026-11-20T14:24:34+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "1685bc4d2550",
+   "source": "Deutsche Welle",
+   "title": "Protestas y huelgas en Europa contra el costo de vida y la militarización",
+   "description": "Manifestantes de varios países europeos salen a las calles a partir de este viernes 20 de noviembre de 2026 contra el aumento del costo de la vida y la militarización, para aumentar la presión sobre sus Gobiernos.",
+   "url": "https://www.dw.com/es/protestas-y-huelgas-en-europa-contra-el-costo-de-vida-y-la-militarización/a-80003501?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-20T14:24:00+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "1a52d1ac18fb",
+   "source": "Radio Cooperativa",
+   "title": "Monckeberg propone una coalición abierta al centro que incluya a republicanos",
+   "description": "El expresidente de Renovación Nacional Cristián Monckeberg planteó este viernes en El Primer Café de Cooperativa que el Presidente José Antonio Kast impulse una coalición que reúna a RN, la UDI y el Partido Republicano, abra espacio al centro y tenga un proyecto que se extienda m",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/chile-vamos/monckeberg-propone-una-coalicion-abierta-al-centro-que-incluya-a/2026-11-20/112056.html",
+   "date": "2026-11-20T14:20:56+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "0bceeb6b0669",
+   "source": "Radio Cooperativa",
+   "title": "Dave Matthews Band regresa a Chile en 2027: Fecha, recinto y entradas",
+   "description": "El grupo Dave Matthews Band anunció su regreso a Chile con un concierto para 2027 en el marco de su gira por Sudamérica. El colectivo estadounidense vendrá a promocionar \"Walk Around the Moon\" , el disco de estudio que estrenaron en 2023 y que marcó sus más de 30 años de carrera.",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/dave-matthews-band-regresa-a-chile-en-2027-fecha-recinto-y-entradas/2026-11-20/111834.html",
+   "date": "2026-11-20T14:18:34+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "2d94b9047ce8",
    "source": "The Guardian",
@@ -9,16 +329,6 @@
    "url": "https://www.theguardian.com/uk-news/2026/nov/20/pontins-owner-fined-death-somerset-brean-sands-holiday-park-wendy-jones",
    "date": "2026-11-20T14:07:46+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "0a795ba03156",
-   "source": "Radio Cooperativa",
-   "title": "Bruno Mars despide a su padre: \"Me enseñó todo lo que sé\"",
-   "description": "El cantante Bruno Mars anunció la muerte de su padre, el músico Peter Hernandez , a la edad de 74 años, recordando que fue su modelo en la vida y, en particular, su carrera artística. \"Es el hombre que me enseñó todo lo que sé, especialmente en lo que respecta a la música \", publ",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/pop-en-ingles/bruno-mars-despide-a-su-padre-me-enseno-todo-lo-que-se/2026-11-20/110651.html",
-   "date": "2026-11-20T14:06:51+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -32,6 +342,16 @@
    "type": "Prensa"
   },
   {
+   "id": "852dbadb7cd0",
+   "source": "Radio Cooperativa",
+   "title": "Republicanos evalúan votar por separado fondos para terapias hormonales en menores",
+   "description": "El diputado Benjamín Moreno , jefe de la bancada del Partido Republicano, planteó este viernes en El Primer Café de Cooperativa que sus diputados podrían pedir una votación separada en el presupuesto de Salud de 2027 para rechazar el financiamiento de terapias hormonales cruzadas",
+   "url": "https://www.cooperativa.cl/noticias/economia/presupuesto/republicanos-evaluan-votar-por-separado-fondos-para-terapias-hormonales/2026-11-20/110259.html",
+   "date": "2026-11-20T14:02:59+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
    "id": "086e2986da51",
    "source": "Estudios Públicos (CEP)",
    "title": "Modernizar el Estado sin escándalo",
@@ -40,16 +360,6 @@
    "date": "2026-11-20T14:02:46+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "5e5d1a94124b",
-   "source": "The Guardian",
-   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-   "description": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London g",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "date": "2026-11-20T14:00:55+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
   },
   {
    "id": "fbc909c113c7",
@@ -64,7 +374,7 @@
   {
    "id": "2e7604220192",
    "source": "Al Jazeera",
-   "title": "‘Rebuild bridges’ and reset after Brexit: What we know about EU-UK deal",
+   "title": "UK says new deal will ‘rebuild bridges’ with EU: What’s in it?",
    "description": "Agreements aim to simplify trade checks, link emissions systems and launch a youth mobility programme.",
    "url": "https://www.aljazeera.com/news/2026/11/20/uk-eu-deal-what-we-know-so-far?traffic_source=rss",
    "date": "2026-11-20T13:59:17+00:00",
@@ -72,20 +382,10 @@
    "type": "Prensa"
   },
   {
-   "id": "8a9868d8354c",
-   "source": "Radio Cooperativa",
-   "title": "Pellegrini anticipó el derbi ante Sevilla de Suazo: \"Nunca hay un favorito\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Manuel Pellegrini, entrenador de Real Betis , descartó que su equipo llegue como favorito al derbi de este sábado ante Sevilla de Gabriel Suazo y advirtió sobre la dificultad del compromiso que se disputará en el Estadio \"R",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/manuel-pellegrini/pellegrini-anticipo-el-derbi-ante-sevilla-de-suazo-nunca-hay-un/2026-11-20/105603.html",
-   "date": "2026-11-20T13:56:03+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "e42e02511abb",
    "source": "The Guardian",
-   "title": "Global stock markets slump as Anthropic’s record IPO fails to stem AI sell-off",
-   "description": "Asian markets record their worst week since 2020, with European and US stocks also way down Business live – latest updates Global stock markets have slumped as Anthropic’s record-breaking IPO failed to stem a sell-off in AI-linked companies. Asian stock markets recorded their wor",
+   "title": "Anthropic shares slump on second day of trading as stock markets reel from AI sell-off",
+   "description": "Asian markets record their worst week since 2020 as investors question huge sums being poured into AI build-out Business live – latest updates Anthropic’s shares have slumped at the start of a second day of trading, as its record-breaking IPO failed to stem a sell-off in AI-linke",
    "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
    "date": "2026-11-20T13:53:13+00:00",
    "category": "China y Asia",
@@ -95,20 +395,10 @@
    "id": "51fb95bda81a",
    "source": "Al Jazeera",
    "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
-   "description": "This is a breaking news story.",
+   "description": "Chambers left Aranjuez prison near Madrid on Friday afternoon, shortly after Spain's High Court ordered him released.",
    "url": "https://www.aljazeera.com/news/2026/11/20/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers?traffic_source=rss",
    "date": "2026-11-20T13:45:14+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "131e391d3838",
-   "source": "Radio Cooperativa",
-   "title": "Senado despachó el Presupuesto 2027: Repuso recursos para Educación y Cultura",
-   "description": "El Senado concluyó la votación del proyecto de Presupuesto 2027 la madrugada de este viernes, tras una extensa jornada marcada por acuerdos para reponer recursos en Educación y Cultura , además de una controversia por fondos destinados a las empresas forestales. Entre los princip",
-   "url": "https://www.cooperativa.cl/noticias/economia/presupuesto/senado-despacho-el-presupuesto-2027-repuso-recursos-para-educacion-y/2026-11-20/104454.html",
-   "date": "2026-11-20T13:44:54+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -134,7 +424,7 @@
   {
    "id": "c21a7e5aa05b",
    "source": "Al Jazeera",
-   "title": "Myanmar, China object to ‘unfair’ ICJ genocide ruling",
+   "title": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
    "description": "A Myanmar government spokesperson said the ruling was unjust and noted that the court's decision was not unanimous.",
    "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
    "date": "2026-11-20T13:41:49+00:00",
@@ -142,22 +432,12 @@
    "type": "Prensa"
   },
   {
-   "id": "1d069f90a2fa",
+   "id": "c8458e3e563b",
    "source": "Radio Cooperativa",
-   "title": "U. de Chile celebró el cumpleaños de Eduardo Vargas: \"Nacido para hacer historia\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Universidad de Chile utilizó sus redes sociales para celebrar el cumpleaños número 37 de Eduardo Vargas , delantero que regresó al conjunto estudiantil y que recibió dos emotivos homenajes por parte de la institución. \"Regr",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/u-de-chile-celebro-el-cumpleanos-de-eduardo-vargas-nacido-para-hacer/2026-11-20/103209.html",
-   "date": "2026-11-20T13:32:09+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "672648c660e8",
-   "source": "Radio Cooperativa",
-   "title": "Dólar mantiene este viernes su tendencia al alza",
-   "description": "Tras cerrar en 1.014 pesos el día jueves , esta mañana el dólar sigue con su tendencia al alza, y durante la mañana se ha empinado hasta los 1.020 pesos , el segundo registro más alto desde julio de 2022, cuando superó los 1.042. En jornadas previas, el fortalecimento de la divis",
-   "url": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-mantiene-este-viernes-su-tendencia-al-alza/2026-11-20/103124.html",
-   "date": "2026-11-20T13:31:24+00:00",
+   "title": "Tres niños hospitalizados por comer un paquete de ramitas con marihuana",
+   "description": "Tres niños -de dos, tres y 11 años de edad- se encuentran internados en el Hospital de Villarrica luego de presentar síntomas de intoxicación por drogas . El fiscal Cristián Voullieme señaló que los antecedentes preliminares apuntan a que los pequeños \" habrían consumido un paque",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/drogas/tres-ninos-hospitalizados-por-comer-un-paquete-de-ramitas-con-marihuana/2026-11-20/104054.html",
+   "date": "2026-11-20T13:40:54+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -192,16 +472,6 @@
    "type": "Prensa"
   },
   {
-   "id": "fcb24785629d",
-   "source": "The Guardian",
-   "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
-   "description": "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’ Nigel Farage has said he does not see another person who could do his job as leader of Reform UK, in a warning shot to potential rivals who might seek to r",
-   "url": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
-   "date": "2026-11-20T13:23:22+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "2ab1c0f0d684",
    "source": "Ex-Ante",
    "title": "La histórica salida a bolsa de Anthropic convierte a investigadores tecnológicos en millonarios de la noche a la mañana",
@@ -212,26 +482,6 @@
    "type": "Prensa"
   },
   {
-   "id": "55dc89d888f0",
-   "source": "Radio Cooperativa",
-   "title": "Azul Azul abrió la puerta al fichaje de Alexis Sánchez en la U: \"Hay que dar esa pelea\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Jorge Burgos, nuevo vicepresidente de Azul Azul , manifestó su interés en que Universidad de Chile entre en la disputa por el fichaje de Alexis Sánchez , delantero de CF Montreal que apareció entre las alternativas de Colo ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/azul-azul-abrio-la-puerta-al-fichaje-de-alexis-sanchez-en-la-u-hay-que/2026-11-20/102122.html",
-   "date": "2026-11-20T13:21:22+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "e9026aee21ab",
-   "source": "The Guardian",
-   "title": "Friday night will be ‘coldest of the autumn so far’, UK forecasters say",
-   "description": "Lows will be ‘severe’ in the north, down to -9C, with some sub-zero temperatures farther south Friday night will be the coldest night of the autumn so far, forecasters have said, surpassing the previous chilliest: Thursday. A low of -8.4C was recorded at Tulloch Bridge in the Sco",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/20/friday-cold-weather-uk",
-   "date": "2026-11-20T13:18:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "979de63ba392",
    "source": "Al Jazeera",
    "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
@@ -239,16 +489,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group?traffic_source=rss",
    "date": "2026-11-20T13:17:00+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "ce4e5710aaa4",
-   "source": "Radio Cooperativa",
-   "title": "Adolescente murió en medio de balacera en una población de Arica",
-   "description": "Un adolescente de 17 años de edad perdió la vida en medio de una balacera ocurrida la madrugada de este viernes en el pasaje Arquitecto Agustín Caballero de la población Campo Verde de la ciudad de Arica . Hasta el lugar se trasladó personal de Carabineros, que encontró al joven ",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/homicidios/adolescente-murio-en-medio-de-balacera-en-una-poblacion-de-arica/2026-11-20/101650.html",
-   "date": "2026-11-20T13:16:50+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -279,16 +519,6 @@
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261120-de-granada-a-nuevo-polanco-los-vecinos-que-resisten-a-la-presi%C3%B3n-inmobiliaria-en-ciudad-de-m%C3%A9xico",
    "date": "2026-11-20T13:12:43+00:00",
    "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "9268dddbb079",
-   "source": "Radio Cooperativa",
-   "title": "Alvaro Madrid avisó a la UC: Jamás se piensa en perjudicar o ayudar a un rival",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Alvaro Madrid, volante de Colo Colo , descartó cualquier relajación en el plantel tras conquistar anticipadamente el título de la Liga de Primera y aseguró que el equipo buscará imponerse a Universidad Católica en el clásic",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/alvaro-madrid-aviso-a-la-uc-jamas-se-piensa-en-perjudicar-o-ayudar-a-un/2026-11-20/100327.html",
-   "date": "2026-11-20T13:03:27+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -342,16 +572,6 @@
    "type": "Académica"
   },
   {
-   "id": "0c8c24e232ef",
-   "source": "Radio Cooperativa",
-   "title": "Alcalde de Peñalolén llamó al nuevo directorio de la ANFP a pagar la deuda",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Miguel Concha, alcalde de Peñalolén, llamó al nuevo directorio de la ANFP, encabezado por Jorge Uauy, a pagar una deuda municipal de hasta 172 millones de pesos y regularizar las obras de su sede de Quilín, cuyas instalacio",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/anfp/alcalde-de-penalolen-llamo-al-nuevo-directorio-de-la-anfp-a-pagar-la/2026-11-20/093509.html",
-   "date": "2026-11-20T12:35:09+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "b9c5aa5eb028",
    "source": "The Guardian",
    "title": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
@@ -362,26 +582,6 @@
    "type": "Prensa"
   },
   {
-   "id": "915c771dc6ea",
-   "source": "The Guardian",
-   "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
-   "description": "Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies Business live – latest updates Retail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life",
-   "url": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
-   "date": "2026-11-20T12:28:12+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "ff179e9f826e",
-   "source": "Radio Cooperativa",
-   "title": "Isla participará en homenaje de Lautaro de Buin por histórico ascenso",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Mauricio Isla será uno de los invitados especiales al homenaje que realizará Lautaro de Buin a los protagonistas de su histórico ascenso al fútbol profesional, en una actividad programada para este domingo 22 de noviembre e",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mauricio-isla/isla-participara-en-homenaje-de-lautaro-de-buin-por-historico-ascenso/2026-11-20/092642.html",
-   "date": "2026-11-20T12:26:42+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "6e682eb51bbd",
    "source": "Al Jazeera",
    "title": "BaddyDeadpool: The protester blending humour with activism",
@@ -389,16 +589,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss",
    "date": "2026-11-20T12:26:29+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "512b87f3f175",
-   "source": "Radio Cooperativa",
-   "title": "Kast a empresarios japoneses: \"Ustedes ponen el capital y juntos nos hacemos famosos\"",
-   "description": "El Presidente José Antonio Kast se reunió este viernes en Tokio con la primera ministra japonesa, Sanae Takaichi , en un encuentro marcado por los próximos 130 años de relaciones diplomáticas entre ambos países y el interés por profundizar la cooperación económica y las inversion",
-   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-a-empresarios-japoneses-ustedes-ponen-el-capital-y-juntos-nos/2026-11-20/092506.html",
-   "date": "2026-11-20T12:25:06+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -439,26 +629,6 @@
    "url": "https://www.dw.com/es/casa-blanca-despide-al-jefe-de-ciberseguridad-tras-una-serie-de-fallos-tecnológicos/a-80001722?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-20T12:15:00+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "1ae1647278c1",
-   "source": "Radio Cooperativa",
-   "title": "Revelan causa de muerte del actor Patrick Stewart",
-   "description": "El actor Patrick Stewart murió a causa de un paro cardiopulmonar y un trastorno neurocognitivo con cuerpos de Lewy , según detalla su certificado de defunción. Según TMZ , el documento también señala que los restos del actor de \"Star Trek\", fallecido el pasado 28 de octubre a los",
-   "url": "https://www.cooperativa.cl/noticias/magazine/cine/revelan-causa-de-muerte-del-actor-patrick-stewart/2026-11-20/091317.html",
-   "date": "2026-11-20T12:13:17+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a1b5338a93dd",
-   "source": "Radio Cooperativa",
-   "title": "Gabriel Suazo volvió a los entrenamientos de Sevilla antes del derbi contra Betis",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Gabriel Suazo, lateral chileno de Sevilla, se reincorporó este viernes a los entrenamientos del conjunto andaluz de cara al derbi de este sábado frente a Real Betis de Manuel Pellegrini , por la decimotercera fecha de la Li",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-espanola/gabriel-suazo-volvio-a-los-entrenamientos-de-sevilla-antes-del-derbi/2026-11-20/090702.html",
-   "date": "2026-11-20T12:07:02+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -509,26 +679,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/we-didnt-come-here-to-beg-africas-message-at-cop31?traffic_source=rss",
    "date": "2026-11-20T11:55:16+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "29768d2fc226",
-   "source": "Radio Cooperativa",
-   "title": "Caso firmas: \"Me molesté, pero no aprovecharé para hundir a Vodanovic y Castro\", dice Espinoza",
-   "description": "El senador Fidel Espinoza -cuya militancia en el Partido Socialista se mantiene suspendida- admitió en Cooperativa haberse molestado por la presunta falsificación de firmas que lo afectó a él y a su colega Ximena Órdenes (ind-PPD), pero descartó utilizar el caso para \"hundir\" a l",
-   "url": "https://www.cooperativa.cl/noticias/pais/politica/senado/caso-firmas-me-moleste-pero-no-aprovechare-para-hundir-a-vodanovic-y/2026-11-20/085401.html",
-   "date": "2026-11-20T11:54:01+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "cc987542d692",
-   "source": "Radio Cooperativa",
-   "title": "Kast se reunió en Japón con la primera ministra Takaichi y el emperador Naruhito",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/japon/kast-se-reunio-en-japon-con-la-primera-ministra-takaichi-y-el-emperador/2026-11-20/084947.html",
-   "date": "2026-11-20T11:49:47+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -622,26 +772,6 @@
    "type": "Prensa"
   },
   {
-   "id": "69b9a1ee10e5",
-   "source": "Al Jazeera",
-   "title": "Can the Rohingya genocide verdict deliver justice?",
-   "description": "The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss",
-   "date": "2026-11-20T10:45:20+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "a0f5a2b0fbc3",
-   "source": "Al Jazeera",
-   "title": "Drone operator removes Man United training footage and issues apology",
-   "description": "The footage, filmed during new manager Mauricio Pochettino's first training session, was uploaded online.",
-   "url": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
-   "date": "2026-11-20T10:37:20+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d8ab6aab7597",
    "source": "BBC Mundo",
    "title": "El hotel peruano que ofrece vistas espectaculares, pero requiere nervios de acero para llegar a él",
@@ -662,42 +792,12 @@
    "type": "Prensa"
   },
   {
-   "id": "72a94e8da25a",
-   "source": "Al Jazeera",
-   "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
-   "description": "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge.",
-   "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
-   "date": "2026-11-20T09:54:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "c4965a13ce46",
    "source": "The Guardian",
    "title": "California investigates Nvidia over whether chip exports ended up in China",
    "description": "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investors California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang. Rob Bonta, the US ",
    "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
    "date": "2026-11-20T09:18:30+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "c0da6fe4de93",
-   "source": "Al Jazeera",
-   "title": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
-   "description": "More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners.",
-   "url": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
-   "date": "2026-11-20T09:16:30+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "5e22fe190428",
-   "source": "Al Jazeera",
-   "title": "Pakistan minister visits India for first time since 2025 war",
-   "description": "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.",
-   "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
-   "date": "2026-11-20T09:11:57+00:00",
    "category": "China y Asia",
    "type": "Prensa"
   },
@@ -709,16 +809,6 @@
    "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
    "date": "2026-11-20T09:03:20+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "f8920dfa59a1",
-   "source": "Al Jazeera",
-   "title": "Russia’s day-long attack on Kyiv damages embassies",
-   "description": "Russia’s day-long attack on Kyiv damages embassies",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
-   "date": "2026-11-20T08:56:08+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -738,16 +828,6 @@
    "description": "Two sides find provisional compromise on scheme but food and farming negotiations go down to the wire UK-EU summit live – latest news updates British and European negotiators were closing in on a reset deal on Thursday night as they provisionally agreed to allow 100,000 EU citize",
    "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
    "date": "2026-11-20T08:19:28+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "1281c8223377",
-   "source": "The Guardian",
-   "title": "Senior Tories urge Badenoch to drop Brexit talk in major strategy shift, sources say",
-   "description": "Exclusive: While PM pushes for EU reset, Tory leader is moving away from ‘divisive’ issue that defined party for years UK-EU summit live: latest news updates Kemi Badenoch has been advised by her team to limit the amount of time she spends discussing Brexit and Europe, the Guardi",
-   "url": "https://www.theguardian.com/politics/2026/nov/20/kemi-badenoch-brexit-eu-conservatives",
-   "date": "2026-11-20T08:00:26+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -829,16 +909,6 @@
    "url": "https://www.theguardian.com/australia-news/2026/nov/20/beau-lamarre-condons-attempts-to-explain-disposal-alleged-victims-bodies-ring-hollow-court-hears-ntwnfb",
    "date": "2026-11-20T04:58:21+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "417d37d5d239",
-   "source": "Deutsche Welle",
-   "title": "Inusuales restricciones a teléfonos de los periodistas que viajan de China a Washington a bordo del Air Force One",
-   "description": "Al salir de China, todos los dispositivos fueron colocados en bolsas que bloquean la señal, hasta que el avión aterrizó en Estados Unidos.",
-   "url": "https://www.dw.com/es/inusuales-restricciones-a-teléfonos-de-los-periodistas-que-viajan-de-china-a-washington-a-bordo-del-air-force-one/a-79998603?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-20T04:16:00+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -952,16 +1022,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d31fa4158ffc",
-   "source": "Deutsche Welle",
-   "title": "El presidente estadounidense Donald Trump dijo que estaba muy ocupado como para verse con el gobernante norcoreano Kim Jong-un",
-   "description": "El mandatario de EE.UU. dijo que tuvo demasiadas reuniones en Asia y que la reunión podrá ser en “cualquier momento”.",
-   "url": "https://www.dw.com/es/el-presidente-estadounidense-donald-trump-dijo-que-estaba-muy-ocupado-como-para-verse-con-el-gobernante-norcoreano-kim-jong-un/a-79998386?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-20T00:57:00+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "c27b430ef69b",
    "source": "BBC Mundo",
    "title": "Quiénes son los rohinyás, la \"minoría más perseguida del mundo\" por la que Myanmar fue condenado por genocidio",
@@ -1022,16 +1082,6 @@
    "type": "Prensa"
   },
   {
-   "id": "23ee86f4b928",
-   "source": "Deutsche Welle",
-   "title": "\"He cometido errores\", admite Pedro Sánchez en apertura de cara a cara electoral en España",
-   "description": "También aseguró que \"España goza hoy de unos resultados económicos, sociales y medioambientales como hace décadas que no tenía\".",
-   "url": "https://www.dw.com/es/he-cometido-errores-admite-pedro-sánchez-en-apertura-de-cara-a-cara-electoral-en-españa/a-79998239?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-19T22:23:00+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "abb1bee7263a",
    "source": "Ex-Ante",
    "title": "Perfil: La senadora que tiene al senador Castro contra las cuerdas por presunta falsificación de firma",
@@ -1049,16 +1099,6 @@
    "url": "https://www.france24.com/es/programas/revista-de-prensa/20261119-gta-vi-un-reflejo-de-los-defectos-de-estados-unidos-la-croix",
    "date": "2026-11-19T21:46:20+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "6c21150435f9",
-   "source": "Deutsche Welle",
-   "title": "La foto de Shenzhen: Xi junta a Trump y Putin en una cita histórica",
-   "description": "Los presidentes de China, EE. UU. y Rusia celebraron una cumbre sin precedentes. Trump afirmó que estaban \"haciendo historia\", Xi calificó las conversaciones de \"fructíferas\" y Putin, de \"abiertas y francas\".",
-   "url": "https://www.dw.com/es/la-foto-de-shenzhen-xi-junta-a-trump-y-putin-en-una-cita-histórica/a-79997135?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-19T21:43:00+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1162,16 +1202,6 @@
    "type": "Prensa"
   },
   {
-   "id": "108aa466f2a5",
-   "source": "France 24",
-   "title": "Netanyahu redobla la presión sobre Trump para atacar a Irán",
-   "description": "Donald Trump enfrenta crecientes presiones para autorizar una nueva ofensiva contra Irán. Según reportes de 'The New York Times', Benjamin Netanyahu impulsa una campaña de bombardeos de entre cuatro y siete días contra objetivos estratégicos iraníes, mientras el director del Moss",
-   "url": "https://www.france24.com/es/video/20261119-netanyahu-redobla-la-presi%C3%B3n-sobre-trump-para-atacar-a-ir%C3%A1n",
-   "date": "2026-11-19T20:47:20+00:00",
-   "category": "Conflictos armados y seguridad internacional",
-   "type": "Prensa"
-  },
-  {
    "id": "cafe0c524a75",
    "source": "BBC Mundo",
    "title": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba \"la burbuja\" de la IA y la posibilidad de que estalle",
@@ -1242,26 +1272,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a80adc5d1c20",
-   "source": "Ex-Ante",
-   "title": "Rol de Castro en el caso de las presuntas firmas falsificadas en el Senado desata guerra entre el PS y el PPD",
-   "description": "El retiro no autorizado de los permisos constitucionales de dos senadores mediante documentos eventualmente falsificados, junto con abrir una investigación de oficio en Fiscalía, reavivó…",
-   "url": "https://www.ex-ante.cl/politica/castro-ps-ppd-firmas-falsas-en-el-senado/",
-   "date": "2026-11-19T17:35:31+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "1b89bbf830e2",
-   "source": "Ex-Ante",
-   "title": "Gendarmes corruptos, “soldados” adolescentes y el Tren de Aragua en la banca: lo que revela el informe de la Fiscalía",
-   "description": "Una mayor presencia de “soldados” adolescentes en bandas de crimen organizado desde la pandemia; operaciones en las cárceles facilitadas por gendarmes corruptos; la penetración del…",
-   "url": "https://www.ex-ante.cl/nacional/fiscalia-gendarmes-corruptos-tren-aragua/",
-   "date": "2026-11-19T17:18:15+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "f5dad350cd8a",
    "source": "The Guardian",
    "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
@@ -1320,6 +1330,16 @@
    "date": "2026-11-19T15:35:01+00:00",
    "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
+  },
+  {
+   "id": "7a3400466be7",
+   "source": "Estudios Públicos (CEP)",
+   "title": "Ciudades 7 x 1",
+   "description": "Diario Financiero The post Ciudades 7 x 1 appeared first on CEP Chile .",
+   "url": "https://www.cepchile.cl/ciudades-7-x-1/",
+   "date": "2026-11-19T15:32:28+00:00",
+   "category": "Políticas públicas",
+   "type": "Académica"
   },
   {
    "id": "8bcb3aa0fef4",
@@ -2280,16 +2300,6 @@
    "date": "2026-11-12T12:00:00+00:00",
    "category": "China y Asia",
    "type": "Oficial"
-  },
-  {
-   "id": "184f1aab7a26",
-   "source": "Estudios Públicos (CEP)",
-   "title": "Lanzamiento de libro: Hacia una biblioteca de libertad.",
-   "description": "Nota de prensa The post Lanzamiento de libro: Hacia una biblioteca de libertad. appeared first on CEP Chile .",
-   "url": "https://www.cepchile.cl/lanzamiento-del-libro-hacia-una-biblioteca-de-la-libertad/",
-   "date": "2026-11-11T20:31:24+00:00",
-   "category": "Políticas públicas",
-   "type": "Académica"
   },
   {
    "id": "f00cd98dba05",
