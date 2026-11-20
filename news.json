@@ -1,6 +1,156 @@
 {
- "updated": "2026-11-20T00:52:15.905800+00:00",
+ "updated": "2026-11-20T02:03:08.285727+00:00",
  "items": [
+  {
+   "id": "377bf7bea325",
+   "source": "France 24",
+   "title": "Anthropic debuta en Wall Street y alcanza una valoración bursátil de USD 2 billones",
+   "description": "La compañía creadora de Claude protagonizó uno de los mayores estrenos bursátiles de la historia. Sus acciones llegaron a subir más de un 34% comparadas con el valor fijado el miércoles 18 de noviembre. Durante su primera jornada en Nasdaq su valoración alcanzó los 2 billones de ",
+   "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261120-anthropic-debuta-en-wall-street-y-alcanza-una-valoraci%C3%B3n-burs%C3%A1til-de-usd-2-billones",
+   "date": "2026-11-20T01:57:38+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "7f4210e2b2b2",
+   "source": "France 24",
+   "title": "\"¿Qué le debe a Marruecos?\": Sánchez y Núñez Feijóo chocan en su único debate cara a cara",
+   "description": "A días de las elecciones generales del 29 de noviembre, el líder del PP, Alberto Núñez Feijóo, acusó al presidente Pedro Sánchez de no haber construido las viviendas prometidas y lo criticó por su relación con Marruecos tras la crisis migratoria en Ceuta. El socialista defendió s",
+   "url": "https://www.france24.com/es/europa/20261120-qu%C3%A9-le-debe-a-marruecos-s%C3%A1nchez-y-n%C3%BA%C3%B1ez-feij%C3%B3o-chocan-en-su-%C3%BAnico-debate-cara-a-cara",
+   "date": "2026-11-20T01:47:22+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "4d4a13af2a8c",
+   "source": "Ex-Ante",
+   "title": "El imperio gastronómico de Matías Arteaga suma nuevo restaurante en el Paseo El Mañío",
+   "description": "El chef Matías Arteaga sigue extendiendo su particular universo gastronómico. Después de instalarse en el Mercado Urbano Tobalaba (MUT) con Toni Lautaro y abrir Gino…",
+   "url": "https://www.ex-ante.cl/cronica/arteaga-suma-nuevo-restaurante/",
+   "date": "2026-11-20T01:45:52+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "63f7d1046bea",
+   "source": "Ex-Ante",
+   "title": "Los “gringos” se entusiasman con Chile y reservas aéreas desde EE.UU. crecen 100% (mientras Europa pierde interés)",
+   "description": "Un análisis de la Federación de Empresas de Turismo de Chile (Fedetur), en conjunto con Amadeus, proyecta que las reservas aéreas desde Estados Unidos hacia…",
+   "url": "https://www.ex-ante.cl/negocios/turismo-gringos-se-entusiasman-con-chile/",
+   "date": "2026-11-20T01:34:14+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "363caae7359f",
+   "source": "Al Jazeera",
+   "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+   "description": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+   "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+   "date": "2026-11-20T01:29:28+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "524162e1fa36",
+   "source": "Radio Cooperativa",
+   "title": "Presidente Kast destacó en Tokio el lazo histórico entre Chile y Japón",
+   "description": "Durante su visita oficial a Tokio, el Presidente José Antonio Kast encabezó un encuentro con líderes empresariales japoneses en el que profundizó sobre las relaciones bilaterales, la certeza institucional chilena y la urgencia de reimpulsar el desarrollo económico a través de cap",
+   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/presidente-kast-destaco-en-tokio-el-lazo-historico-entre-chile-y-japon/2026-11-19/221948.html",
+   "date": "2026-11-20T01:19:48+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "47c167742ec6",
+   "source": "Río en Línea",
+   "title": "Aeropuerto Pichoy supera el 70% de avance y proyecta su puesta en marcha para 2027",
+   "description": "Las obras consideran una inversión de más de $50 mil millones, la ampliación del terminal de pasajeros y la instalación de dos nuevos puentes de embarque. Las obras de ampliación y mejoramiento del Aeropuerto Pichoy, principal terminal aéreo de la Región de Los Ríos, registran má",
+   "url": "https://www.rioenlinea.cl/aeropuerto-pichoy-supera-el-70-de-avance-y-proyecta-su-puesta-en-marcha-para-2027/",
+   "date": "2026-11-20T01:18:25+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "b7c113bc0632",
+   "source": "France 24",
+   "title": "“Tenemos tiempo”: ¿resistirá Trump la presión de Netanyahu por retomar las hostilidades contra Irán?",
+   "description": "El presidente estadounidense no parece tener prisa para reanudar los ataques a gran escala, a pesar de la presión por parte de Benjamin Netanyahu para lanzar una nueva campaña aérea conjunta, de la carta blanca (al menos provisional) por parte del Congreso saliente, que volvió a ",
+   "url": "https://www.france24.com/es/medio-oriente/20261120-tenemos-tiempo-resistir%C3%A1-trump-la-presi%C3%B3n-de-netanyahu-por-retomar-las-hostilidades-contra-ir%C3%A1n",
+   "date": "2026-11-20T01:17:18+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "6e275d60d020",
+   "source": "France 24",
+   "title": "Líderes en Europa cierran filas en torno a Zelenski tras cumbre trilateral en China",
+   "description": "Tras la histórica cumbre trilateral celebrada en Shenzhen, China, entre Donald Trump, Xi Jinping y Vladímir Putin, líderes europeos cerraron filas en torno al presidente ucraniano Volodímir Zelenski y reiteraron que cualquier negociación sobre el futuro de Ucrania debe contar con",
+   "url": "https://www.france24.com/es/video/20261120-l%C3%ADderes-en-europa-cierran-filas-en-torno-a-zelenski-tras-cumbre-trilateral-en-china",
+   "date": "2026-11-20T01:13:29+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "92da254dcb59",
+   "source": "Al Jazeera",
+   "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
+   "description": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
+   "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
+   "date": "2026-11-20T01:10:06+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "45685f8639e3",
+   "source": "France 24",
+   "title": "Colombia: oposición moviliza manifestaciones contra De la Espriella en diferentes ciudades",
+   "description": "Miles de personas participaron este 19 de noviembre en una jornada de movilizaciones convocada por centrales obreras, sindicatos, organizaciones sociales y sectores de oposición en distintas ciudades de Colombia. Las protestas fueron en rechazo al Gobierno del presidente Abelardo",
+   "url": "https://www.france24.com/es/video/20261120-colombia-oposici%C3%B3n-moviliza-manifestaciones-contra-de-la-espriella-en-diferentes-ciudades",
+   "date": "2026-11-20T01:06:53+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "a34619a5413f",
+   "source": "Al Jazeera",
+   "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+   "description": "Motorists and businesses struggle as shortages disrupt daily life.",
+   "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
+   "date": "2026-11-20T01:06:15+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "d31fa4158ffc",
+   "source": "Deutsche Welle",
+   "title": "El presidente estadounidense Donald Trump dijo que estaba muy ocupado como para verse con el gobernante norcoreano Kim Jong-un",
+   "description": "El mandatario de EE.UU. dijo que tuvo demasiadas reuniones en Asia y que la reunión podrá ser en “cualquier momento”.",
+   "url": "https://www.dw.com/es/el-presidente-estadounidense-donald-trump-dijo-que-estaba-muy-ocupado-como-para-verse-con-el-gobernante-norcoreano-kim-jong-un/a-79998386?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-20T00:57:00+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "542d7d2f027e",
+   "source": "Radio Cooperativa",
+   "title": "Sin Maripán: Inter de Porto Alegre perdió con Vasco da Gama y otra vez está en zona descenso",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-brasilena/sin-maripan-inter-de-porto-alegre-perdio-con-vasco-da-gama-y-otra-vez/2026-11-19/215200.html",
+   "date": "2026-11-20T00:52:00+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "99a3c8307b96",
+   "source": "Radio Cooperativa",
+   "title": "\"Acelero, no tengo freno\": Princesa Alba se escucha en \"GTA VI\"",
+   "description": "El fenómeno de \"Grand Theft Auto VI\" tiene sonido chileno, con varios jugadores reportando en las primeras horas de juego momentos donde suenan canciones de Princesa Alba . Al igual que los títulos previos, la nueva entrega de Rockstar Games , la primera de la saga desde 2013, po",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/musica-chilena/acelero-no-tengo-freno-princesa-alba-se-escucha-en-gta-vi/2026-11-19/214515.html",
+   "date": "2026-11-20T00:45:15+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "0d31fd9239d7",
    "source": "Radio Cooperativa",
@@ -8,6 +158,16 @@
    "description": "Una insólita situación vivió el argentino Mauricio Pochettino en su primer día como entrenador de Manchester United, ya que un dron grabó un video de 12 minutos y el registro se difundió rápidamente en redes sociales. La práctica era a puertas cerradas, sin acceso para los medios",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/manchester-united/insolito-un-dron-grabo-la-primera-practica-de-pochettino-en-manchester/2026-11-19/213635.html",
    "date": "2026-11-20T00:36:35+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "641ae8960130",
+   "source": "Radio Cooperativa",
+   "title": "Tres gendarmes fueron detenidas por presunto cohecho y lavados de activos",
+   "description": "Gendarmería informó este jueves la detención de tres funcionarias activas de la institución -pertenecientes a dotaciones de la Región Metropolitana y Biobío- y de dos civiles en el marco de una investigación por presuntos delitos de cohecho, lavado de activos y asociación crimina",
+   "url": "https://www.cooperativa.cl/noticias/pais/judicial/gendarmeria/tres-gendarmes-fueron-detenidas-por-presunto-cohecho-y-lavados-de-activos/2026-11-19/213520.html",
+   "date": "2026-11-20T00:35:20+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -212,16 +372,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4a0662ecc146",
-   "source": "Radio Cooperativa",
-   "title": "DataVoz: Uno de cada cuatro chilenos suspende consultas médicas por estrechez económica",
-   "description": "El deterioro de la economía doméstica comenzó a generar decisiones críticas para los hogares en Chile, llegando al punto de sacrificar atenciones médicas o compra de medicamentos por falta de recursos . Los números macroeconómicos muestran una correlación directa con la pérdida d",
-   "url": "https://www.cooperativa.cl/noticias/pais/salud/datavoz-uno-de-cada-cuatro-chilenos-suspende-consultas-medicas-por/2026-11-19/195940.html",
-   "date": "2026-11-19T22:59:40+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "5f0472419d6c",
    "source": "Al Jazeera",
    "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
@@ -242,22 +392,12 @@
    "type": "Prensa"
   },
   {
-   "id": "e790f04a9f3c",
-   "source": "Radio Cooperativa",
-   "title": "Camilo Zicavo borró su Instagram tras nuevas canciones de Denise Rosenthal",
-   "description": "El músico Camilo Zicavo desactivó su cuenta de Instagram, en medio de las reacciones que generó el estreno de las nuevas canciones de su exesposa, Denise Rosenthal. Poco antes de cerrar su perfil, ya había limitado los comentarios de sus publicaciones, luego de que usuarios de re",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/camilo-zicavo-borro-su-instagram-tras-nuevas-canciones-de-denise-rosenthal/2026-11-19/195627.html",
-   "date": "2026-11-19T22:56:27+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "2323d4bdc2df",
    "source": "France 24",
    "title": "“La persona en la que más confiaba me traicionó”: cuatro culpables en el caso que evoca a Pelicot en Reino Unido",
-   "description": "Joanne Young fue drogada y violada durante años por su exmarido, que la ofrecía a desconocidos por internet para tener sexo con ella. Este jueves 19 de noviembre, un jurado declaró culpables de múltiples delitos sexuales a cuatro de esos hombres. Como Gisèle Pelicot en Francia, l",
+   "description": "",
    "url": "https://www.france24.com/es/europa/20261119-la-persona-en-la-que-m%C3%A1s-confiaba-me-traicion%C3%B3-cuatro-culpables-en-el-caso-que-evoca-a-pelicot-en-reino-unido",
-   "date": "2026-11-19T22:50:01+00:00",
+   "date": "2026-11-19T22:54:54+00:00",
    "category": "Europa",
    "type": "Prensa"
   },
@@ -269,26 +409,6 @@
    "url": "https://www.bbc.com/mundo/articles/c617k978p47ro?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T22:49:43+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "b08d644f5729",
-   "source": "Radio Cooperativa",
-   "title": "Francisca Crovetto buscará el pasaje a Los Angeles 2028 en Lima",
-   "description": "La chilena Francisca Crovetto, campeona olímpica en París 2024 , buscará el pasaje directo a los Juegos de Los Angeles 2028, cuando compita en el vigésimo quinto campeonato de las Américas de Tiro Deportivo, que se disputará del 22 al 30 de noviembre en Lima. Según informó la org",
-   "url": "https://www.cooperativa.cl/noticias/deportes/polideportivo/tiro-al-vuelo/francisca-crovetto-buscara-el-pasaje-a-los-angeles-2028-en-lima/2026-11-19/194524.html",
-   "date": "2026-11-19T22:45:24+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "9ea4d1f2b0c8",
-   "source": "Radio Cooperativa",
-   "title": "Dólar cerró en 1.014 pesos y se acerca a su valor más alto",
-   "description": "El precio del dólar volvió a registrar una fuerte escalada y este jueves cerró sus sus transacciones en los 1.014 pesos con 10 centavos , acercándose a su nivel más alto ante la caída del cobre y presiones inflacionarias en Estados Unidos. Según datos de Bloomberg , la divisa est",
-   "url": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-cerro-en-1-014-pesos-y-se-acerca-a-su-valor-mas-alto/2026-11-19/192439.html",
-   "date": "2026-11-19T22:24:39+00:00",
-   "category": "Economía nacional",
    "type": "Prensa"
   },
   {
@@ -394,7 +514,7 @@
   {
    "id": "3381a52ce12f",
    "source": "BBC Mundo",
-   "title": "Cómo una mujer fue drogada por su marido y violada por desconocidos durante 13 años",
+   "title": "Cómo una mujer fue drogada por su marido y violada por desconocidos durante 13 años en Reino Unido",
    "description": "Cuatro hombres han sido declarados culpables en Reino Unido de abusar de una mujer después de que su marido la drogara.",
    "url": "https://www.bbc.com/mundo/articles/c6pw4ddp2glpo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T21:38:59+00:00",
@@ -682,16 +802,6 @@
    "type": "Prensa"
   },
   {
-   "id": "88eb3f86adaf",
-   "source": "Río en Línea",
-   "title": "Condenan a 18 años de cárcel al autor del homicidio de Ariel Millar en Valdivia",
-   "description": "El Tribunal de Juicio Oral en lo Penal de Valdivia condenó a 18 años de presidio mayor en su grado máximo al autor del homicidio calificado con alevosía de Ariel Millar, crimen ocurrido el 16 de marzo de 2024 en la ciudad de Valdivia. La sentencia fue obtenida por la Unidad de Gé",
-   "url": "https://www.rioenlinea.cl/condenan-a-18-anos-de-carcel-al-autor-del-homicidio-de-ariel-millar-en-valdivia/",
-   "date": "2026-11-19T19:57:03+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
    "id": "86af24b5ca25",
    "source": "Radio Cooperativa",
    "title": "Recoleta y Santiago Wanderers dan inicio a la Liguilla con el sueño de llegar a Primera",
@@ -762,26 +872,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5fbe1d660b93",
-   "source": "Al Jazeera",
-   "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
-   "description": "Runaway success of popular franchise comes as video game industry has struggled with mass layoffs in recent years.",
-   "url": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
-   "date": "2026-11-19T19:27:32+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "b3b9f30b03c1",
-   "source": "Al Jazeera",
-   "title": "Save the Children: Gaza’s children face ‘unmatched dangers’",
-   "description": "Aid group says one third of violations against children worldwide were in occupied Palestinian territory.",
-   "url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
-   "date": "2026-11-19T19:23:45+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "7431d2f0d7a1",
    "source": "France 24",
    "title": "Anthropic supera a SpaceX en el salto más exitoso a la bolsa con ingresos por USD 81.000 millones",
@@ -789,16 +879,6 @@
    "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261119-anthropic-supera-a-spacex-en-el-salto-m%C3%A1s-exitoso-a-la-bolsa-con-ingresos-por-usd-81-000-millones",
    "date": "2026-11-19T19:21:17+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "b3434db8d5fa",
-   "source": "Al Jazeera",
-   "title": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya",
-   "description": "Landmark judgement in The Hague is the first time a state has been held responsible for genocide at the ICJ.",
-   "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss",
-   "date": "2026-11-19T19:19:06+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -892,16 +972,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ce7c80b9017f",
-   "source": "France 24",
-   "title": "Directo Latam y el supuesto rechazo de De la Espriella a la cooperación militar con Estados Unidos",
-   "description": "Tras la visita del secretario de Defensa de Estados Unidos a Colombia, se desató una polémica por una publicación de 'The New York Times' en la que se alude a un supuesto rechazo del presidente de Colombia, Abelardo de la Espriella, a un plan de cooperación militar conjunta contr",
-   "url": "https://www.france24.com/es/video/20261119-directo-latam-y-el-supuesto-rechazo-de-de-la-espriella-a-la-cooperaci%C3%B3n-militar-con-estados-unidos",
-   "date": "2026-11-19T18:01:49+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "5c45c28cc2ae",
    "source": "BBC Mundo",
    "title": "Por qué Chile enfrenta una crisis económica en medio de las políticas de austeridad de Kast",
@@ -932,16 +1002,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7fe7a3795714",
-   "source": "France 24",
-   "title": "¿Quién paga la factura del cambio climático?",
-   "description": "Los países que más han contaminado desde la Revolución Industrial tienen la mayor responsabilidad en la crisis climática, pero presionan para que China también pague. Además, la financiación climática se destina sobre todo a mitigación y no a adaptación, y la mayoría llega en for",
-   "url": "https://www.france24.com/es/programas/medio-ambiente/20261119-qui%C3%A9n-paga-la-factura-del-cambio-clim%C3%A1tico-la-eterna-disputa-de-las-cop",
-   "date": "2026-11-19T17:38:44+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "ad5978715338",
    "source": "BBC Mundo",
    "title": "El sombrío pasado de la pintura de Van Gogh subastada por un récord de US$190 millones (y qué tienen que ver Argentina y los nazis con la obra)",
@@ -959,36 +1019,6 @@
    "url": "https://www.ex-ante.cl/politica/castro-ps-ppd-firmas-falsas-en-el-senado/",
    "date": "2026-11-19T17:35:31+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "2546e6eaece6",
-   "source": "France 24",
-   "title": "Inédita reunión entre Xi, Trump y Putin: declaración conjunta de paz y críticas a la CPI",
-   "description": "Al margen de la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC), Donald Trump, Vladimir Putin y Xi Jinping se reunieron en Shenzhen, en un encuentro histórico entre mandatarios de Estados Unidos, Rusia y China. Los tres compartieron críticas a la Corte Penal Interna",
-   "url": "https://www.france24.com/es/video/20261119-in%C3%A9dita-reuni%C3%B3n-entre-xi-trump-y-putin-declaraci%C3%B3n-conjunta-de-paz-y-cr%C3%ADticas-a-la-cpi",
-   "date": "2026-11-19T17:35:28+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "33148c6e0c2c",
-   "source": "France 24",
-   "title": "Directo París y los reclamos en la marcha nacional de los jubilados en Francia",
-   "description": "Este 19 de noviembre, los jubilados se movilizan en Francia de cara a la aprobación del presupuesto de la nación. El Gobierno de Emmanuel Macron quiere quitarles una ventaja fiscal del 10% y tratando de indexar las jubilaciones en un índice más bajo a la inflación. Informe de nue",
-   "url": "https://www.france24.com/es/video/20261119-directo-par%C3%ADs-y-los-reclamos-en-la-marcha-nacional-de-los-jubilados-en-francia",
-   "date": "2026-11-19T17:34:07+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "3f727df31e38",
-   "source": "France 24",
-   "title": "Brasil: Tras varios accidentes mortales, los aficionados de ala delta suspenden sus actividades",
-   "description": "En Río de Janeiro, el ala delta se había convertido en una actividad muy popular, especialmente entre los turistas. Pero, tras un nuevo accidente mortal a principios de noviembre de 2026, los operadores que organizan estos vuelos anunciaron la suspensión de sus actividades y su i",
-   "url": "https://www.france24.com/es/video/20261119-brasil-tras-varios-accidentes-mortales-los-aficionados-de-ala-delta-suspenden-sus-actividades",
-   "date": "2026-11-19T17:29:35+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -1039,16 +1069,6 @@
    "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china",
    "date": "2026-11-19T17:12:11+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "031844c9bc6d",
-   "source": "France 24",
-   "title": "Trump, Xi y Putin abren un diálogo sobre el orden mundial",
-   "description": "Los presidentes de Estados Unidos, Donald Trump; China, Xi Jinping, y Rusia, Vladímir Putin, mantuvieron este jueves en la ciudad china de Shenzhen una reunión inédita en la que acordaron impulsar cambios en la gobernanza global, reforzar la seguridad energética y abrir un diálog",
-   "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261119-trump-xi-y-putin-abren-un-di%C3%A1logo-sobre-el-orden-mundial",
-   "date": "2026-11-19T16:55:07+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1139,16 +1159,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
    "date": "2026-11-19T13:52:10+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "a6b25728162c",
-   "source": "Ex-Ante",
-   "title": "Chardonnay Amelia hace historia: es el primer blanco elegido el mejor vino chileno y de los mejores del mundo",
-   "description": "Por sus manos han pasado algunos de los grandes enólogos de Chile: Pablo Morandé, Ignacio Recabarren y ahora Marcelo Papa, experto en el Valle de…",
-   "url": "https://www.ex-ante.cl/cronica/chardonnay-amelia-mejor-chile-y-top-mundo/",
-   "date": "2026-11-19T13:45:14+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1352,16 +1362,6 @@
    "type": "Prensa"
   },
   {
-   "id": "36113d1ed857",
-   "source": "Deutsche Welle",
-   "title": "Concluye la cumbre entre Xi, Trump y Putin: \"Así funciona el mundo\"",
-   "description": "Los presidentes de China, Estados Unidos y Rusia hablaron de Ucrania y desarme nuclear, en su primera cumbre trilateral que, según Pekín, debía servir para preservar \"la paz mundial\".",
-   "url": "https://www.dw.com/es/concluye-la-cumbre-entre-xi-trump-y-putin-así-funciona-el-mundo/a-79988164?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-19T10:20:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "524e19ecb588",
    "source": "The Guardian",
    "title": "Violent protests and killings in Bangladesh ahead of exiled Sheikh Hasina’s planned return",
@@ -1410,16 +1410,6 @@
    "date": "2026-11-19T00:00:00+00:00",
    "category": "Comercio internacional",
    "type": "Oficial"
-  },
-  {
-   "id": "c922e9d985f3",
-   "source": "Ex-Ante",
-   "title": "La decisión de Rabat de adelantar la votación de la acusación constitucional",
-   "description": "Fuentes oficialistas señalan que desde el Gobierno se les informó que el ministro de Justicia, Fernando Rabat, presentaría su defensa esta semana o, a más…",
-   "url": "https://www.ex-ante.cl/politica/rabat-adelantar-votacion-acusacion/",
-   "date": "2026-11-18T23:29:42+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
   },
   {
    "id": "2c16c405b6b2",
