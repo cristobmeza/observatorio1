@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-21T05:51:34.959295+00:00",
+ "updated": "2026-11-21T06:58:08.004495+00:00",
  "items": [
+  {
+   "id": "d2aec8e76baf",
+   "source": "Al Jazeera",
+   "title": "Netanyahu is playing with the fire that killed Rabin",
+   "description": "His attacks on Arab lawmakers echo the incitement that preceded Rabin’s assassination and risk unleashing new violence.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
+   "date": "2026-11-21T06:21:03+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "cd5d487bcb2c",
+   "source": "The Guardian",
+   "title": "Campaigners back call for scrutiny of consent laws by Joanne Young",
+   "description": "Experts say no law states third-party consent is a valid defence and call for public debate and further education Campaigners have welcomed a call for scrutiny of consent laws by a survivor of drug-facilitated rape but said action must also focus on wider issues around sexual ass",
+   "url": "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
+   "date": "2026-11-21T06:00:53+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "8b0eafdb8ee7",
+   "source": "Al Jazeera",
+   "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
+   "description": "Eisenkot's fragile alliance must overcome deep ideological divisions to turn its opposition into a government.",
+   "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
+   "date": "2026-11-21T05:46:29+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "ac837f0378b2",
    "source": "Deutsche Welle",
@@ -842,16 +872,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8fb905101e84",
-   "source": "Al Jazeera",
-   "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
-   "description": "Drones cause 'fear and panic' among Palestinians as Israel continues attacks on the Strip despite 'ceasefire'.",
-   "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
-   "date": "2026-11-20T20:14:56+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "23a667b83d5e",
    "source": "Ex-Ante",
    "title": "Tres películas de Netflix que no pueden dejar pasar",
@@ -869,16 +889,6 @@
    "url": "https://www.dw.com/es/el-código-de-conducta-del-mar-de-china-naufraga-ante-los-intereses-de-pekín/a-80006779?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-20T20:04:00+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "61384f08551f",
-   "source": "Al Jazeera",
-   "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
-   "description": "As thousands from Qatar's Nepali community watch their team play, they hope that the team will rise in global rankings.",
-   "url": "https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss",
-   "date": "2026-11-20T20:03:11+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1049,16 +1059,6 @@
    "url": "https://www.france24.com/es/programas/enlace/20261120-el-salvador-bajo-la-amenaza-de-una-crisis-alimentaria-por-la-sequ%C3%ADa",
    "date": "2026-11-20T18:14:41+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "fcb24785629d",
-   "source": "The Guardian",
-   "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
-   "description": "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’ Nigel Farage has said he does not see another person who could do his job as leader of Reform UK, in a warning shot to potential rivals who might seek to r",
-   "url": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
-   "date": "2026-11-20T18:11:25+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
