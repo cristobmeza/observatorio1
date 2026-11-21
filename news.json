@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-21T06:58:08.004495+00:00",
+ "updated": "2026-11-21T08:09:08.916515+00:00",
  "items": [
+  {
+   "id": "7551ae175429",
+   "source": "Al Jazeera",
+   "title": "At least two killed, 28 injured in fire at power station in Iraq’s Basra",
+   "description": "The blaze at the Hartha power station that spread to nearby houses injures dozens of others.",
+   "url": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+   "date": "2026-11-21T07:25:29+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "1702d90b8227",
+   "source": "Deutsche Welle",
+   "title": "¿Quién habla por Europa en la guerra de Ucrania... y quién no?",
+   "description": "Un equipo negociador europeo participará en futuras conversaciones entre Ucrania y Rusia. Pero ¿hasta qué punto es sólido el acuerdo alcanzado la semana pasada y qué revela sobre la situación de Europa?",
+   "url": "https://www.dw.com/es/¿quién-habla-por-europa-en-la-guerra-de-ucrania-y-quién-no/a-80007113?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-21T07:25:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "fa57410c6ef5",
+   "source": "Al Jazeera",
+   "title": "Emergency crews in Ukraine hit by a double-tap strike",
+   "description": "Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
+   "date": "2026-11-21T07:12:03+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a1111c018f71",
+   "source": "Al Jazeera",
+   "title": "Three US citizens among 4 convicted in Honduras over sex-trafficking case",
+   "description": "The defendants face 10 years in jail after being found guilty of recruiting women into a sex-trafficking ring.",
+   "url": "https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss",
+   "date": "2026-11-21T07:07:59+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "63f5fd29c0b5",
+   "source": "Al Jazeera",
+   "title": "Train collides with minibus in Indonesia",
+   "description": "Dramatic footage shows a passenger train pushing a flaming minibus along the tracks after colliding with it.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss",
+   "date": "2026-11-21T06:55:02+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b730edb9e45e",
+   "source": "Al Jazeera",
+   "title": "Sudan’s war will end, but will it be too late?",
+   "description": "Pressure from within Sudan may achieve what international diplomacy has not.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
+   "date": "2026-11-21T06:32:04+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
   {
    "id": "d2aec8e76baf",
    "source": "Al Jazeera",
@@ -124,7 +184,7 @@
   {
    "id": "69477279c619",
    "source": "The Guardian",
-   "title": "Rohingya who escaped Myanmar’s genocide tell their stories",
+   "title": "When you see smoke, run: Rohingya who escaped Myanmar’s genocide tell their stories",
    "description": "Survivors recount rivers red with blood and burning nearby villages serving as an urgent warning to flee their homes Smoke was often the signal to run – seen from a distance, it was the indication for Rohingya that a neighbouring village was under attack and that theirs would be ",
    "url": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories",
    "date": "2026-11-21T04:00:47+00:00",
@@ -762,46 +822,6 @@
    "type": "Prensa"
   },
   {
-   "id": "91eb824b323c",
-   "source": "Al Jazeera",
-   "title": "Three Salvadoran soldiers killed in Haiti while handling explosives",
-   "description": "One other was injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
-   "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
-   "date": "2026-11-20T20:59:04+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "9e0fb46f5006",
-   "source": "Al Jazeera",
-   "title": "Can the UK and EU turn the page on Brexit?",
-   "description": "A decade after the Brexit vote, the UK and EU have struck deals. But divisions persist.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss",
-   "date": "2026-11-20T20:51:19+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "f1c55e7c289c",
-   "source": "Al Jazeera",
-   "title": "Gaza’s displaced children celebrate World Children’s Day",
-   "description": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
-   "date": "2026-11-20T20:45:09+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "50c1ac819af2",
-   "source": "Al Jazeera",
-   "title": "Sudan’s war leaves disabled children missing out on education",
-   "description": "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education.",
-   "url": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
-   "date": "2026-11-20T20:45:08+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "8aca37849bdf",
    "source": "Deutsche Welle",
    "title": "Conmebol ratifica su \"firme apoyo\" a la reelección de Infantino en la FIFA",
@@ -829,16 +849,6 @@
    "url": "https://www.france24.com/es/video/20261120-informe-desde-washington-los-acuerdos-que-sell%C3%B3-trump-con-putin-y-xi",
    "date": "2026-11-20T20:34:01+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "d3adb1e411a3",
-   "source": "Al Jazeera",
-   "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
-   "description": "Tallinn's decision to shut road border crossings comes after an attack on a drone manufacturer.",
-   "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
-   "date": "2026-11-20T20:30:46+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
