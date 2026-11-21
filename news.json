@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-21T19:42:53.689924+00:00",
+ "updated": "2026-11-21T20:35:31.415503+00:00",
  "items": [
+  {
+   "id": "c215ae2cc044",
+   "source": "Deutsche Welle",
+   "title": "Decenas de miles de personas manifiestan por sexto fin de semana en Francia",
+   "description": "El Ministerio del Interior informó que 82.500 personas participaron en las protestas en todo el país. Los organizadores cifraron la participación en 150.000.",
+   "url": "https://www.dw.com/es/decenas-de-miles-de-personas-manifiestan-por-sexto-fin-de-semana-en-francia/a-80011046?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-21T20:25:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "f40c27877778",
+   "source": "Ex-Ante",
+   "title": "La promesa de Poduje: el MINVU pretende remodelar el Parque Pablo de Rokha y sacar a los narcos",
+   "description": "El parque Poeta Pablo de Rokha, en La Pintana, se ve con bastante basura y abandonado. Mucha maleza y árboles debilitados. Necesita urgente una recuperación.…",
+   "url": "https://www.ex-ante.cl/nacional/minvu-remodelar-parque-pablo-de-rokha/",
+   "date": "2026-11-21T20:19:44+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "34375f9ba3f3",
+   "source": "Al Jazeera",
+   "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
+   "description": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
+   "url": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+   "date": "2026-11-21T20:15:13+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "07139db6d730",
+   "source": "Radio Cooperativa",
+   "title": "Cobreloa y San Luis disputan la gran final por el título del Ascenso 2026",
+   "description": "Este sábado la Liga de Ascenso 2026 conoce a su flamante campeón y primer promovido a la máxima categoría para 2027 con el cara a cara entre Cobreloa y San Luis de Quillota , que terminaron empatados tras las 30 fechas del torneo. Cobreloa vs. San Luis, 18:30 horas. Estadio Santa",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/cobreloa-y-san-luis-disputan-la-gran-final-por-el-titulo-del-ascenso-2026/2026-11-21/171457.html",
+   "date": "2026-11-21T20:14:57+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "b53f79734ecd",
+   "source": "Radio Cooperativa",
+   "title": "La Roja Femenina anunció nómina para los amistosos contra España y Estados Unidos",
+   "description": "La s elección chilena dirigida por Luis Mena anunció este sábado la nómina de La Roja Femenina para los amistosos contra España y Estados Unidos en la última fecha FIFA del año. Mena citó 22 jugadoras, con s iete representantes de Colo Colo , que ganó este viernes el pentacampeon",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/la-roja-femenina-anuncio-nomina-para-los-amistosos-contra-espana-y/2026-11-21/165546.html",
+   "date": "2026-11-21T19:55:46+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "c744828f6087",
+   "source": "Al Jazeera",
+   "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+   "description": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday.",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
+   "date": "2026-11-21T19:53:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "c44df6224137",
+   "source": "The Guardian",
+   "title": "Man charged with attempted murder after councillor stabbed in Bradford",
+   "description": "Arfan Ali, 31, has also been charged with assault and possession of an offensive weapon in a public place A man has been charged with attempted murder after a local councillor was stabbed while working in the community in Bradford, police have said. Arfan Ali, 32, is accused of a",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
+   "date": "2026-11-21T19:42:42+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c3e428ee5c40",
+   "source": "Radio Cooperativa",
+   "title": "El Sevilla de Suazo amargó al Betis de Pellegrini con dramático empate en el derbi",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes En el marco de la fecha 13 de la liga española, Sevilla FC, capitaneado por el chileno Gabriel Suazo, rescató un 1-1 en el derbi ante Real Betis, dirigido por el nacional Manuel Pellegrini . Pese a su pocos intentos de rema",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-espanola/el-sevilla-de-suazo-amargo-al-betis-de-pellegrini-con-dramatico-empate/2026-11-21/164128.html",
+   "date": "2026-11-21T19:41:28+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "51f0f15fa691",
    "source": "France 24",
@@ -12,6 +92,16 @@
    "type": "Prensa"
   },
   {
+   "id": "efc6cd9bf4a9",
+   "source": "Radio Cooperativa",
+   "title": "Ed Sheeran fue visto paseando por Santiago previo a sus shows en Chile",
+   "description": "El cantante británico Ed Sheeran fue captado paseando por distintos lugares de Santiago previo a los dos shows que ofrecerá este sábado y domingo en el Estadio Bicentenario de La Florida. Sheeran, quien ha estado envuelto en la polémica tras la exclusión del rapero Macklemore de ",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/ed-sheeran-fue-visto-paseando-por-santiago-previo-a-sus-shows-en-chile/2026-11-21/163132.html",
+   "date": "2026-11-21T19:31:32+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "72978554e4ff",
    "source": "Radio Cooperativa",
    "title": "Los Cóndores cerraron su gira europea con triunfo ante Zimbabue en la Nations Cup",
@@ -19,6 +109,16 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/rugby/los-condores/los-condores-cerraron-su-gira-europea-con-triunfo-ante-zimbabue-en-la/2026-11-21/162721.html",
    "date": "2026-11-21T19:27:21+00:00",
    "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "b7673e00d243",
+   "source": "Radio Cooperativa",
+   "title": "El líder Arsenal vio frenada su racha en la Premier League tras empatar con Newcastle",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-inglesa/el-lider-arsenal-vio-frenada-su-racha-en-la-premier-league-tras-empatar/2026-11-21/160749.html",
+   "date": "2026-11-21T19:07:49+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -222,36 +322,6 @@
    "type": "Prensa"
   },
   {
-   "id": "57ab1c6037cb",
-   "source": "Radio Cooperativa",
-   "title": "Último fin de semana de Filsa 2026: Emanuel Bremermann y la opinión de los visitantes",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/cultura/literatura/ferias-del-libro/ultimo-fin-de-semana-de-filsa-2026-emanuel-bremermann-y-la-opinion-de/2026-11-21/151320.html",
-   "date": "2026-11-21T18:13:20+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "65c70795b086",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver a La Roja ante República Dominicana en el Mundial Sub 17?",
-   "description": "La Roja , tras el enorme triunfo ante Argelia el debut, tendrá su siguiente desafío en el Mundial Sub 17 ante República Dominicana , por la segunda fecha del Grupo J. El duelo está programado para el martes 24 de noviembre a las 11:30 horas (14:30 GMT) en la Cancha 3 del Complejo",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mundial-sub-17/cuando-y-donde-ver-a-la-roja-ante-republica-dominicana-en-el-mundial/2026-11-21/151226.html",
-   "date": "2026-11-21T18:12:26+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "e0c1cabf7f7f",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] Alarmas en PSG: Doué sufrió una grave lesión de rodilla ante Niza",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Más allá de su marcador favorable ante OGC Niza por la fecha 11 de la Ligue 1, Paris Saint-Germain quedó conmocionado por la grave lesión del delantero Désire Doué durante la primera etapa. El delantero de 21 años que había",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-francesa/video-alarmas-en-psg-doue-sufrio-una-grave-lesion-de-rodilla-ante/2026-11-21/150619.html",
-   "date": "2026-11-21T18:06:19+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "e5dd2c7582b8",
    "source": "Al Jazeera",
    "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
@@ -268,16 +338,6 @@
    "description": "\"GTA VI\", la esperada nueva entrega de la superproducción Grand Theft Auto, generó 3.790 millones de dólares en ventas, unos 3.500 millones de euros, el día de su lanzamiento, anunció el viernes Take-Two Interactive. Como referencia cultural, la gira de la cantante estadounidense",
    "url": "https://www.france24.com/es/cultura/20261121-gta-vi-logra-un-lanzamiento-r%C3%A9cord-y-supera-los-ingresos-de-la-gira-de-taylor-swift",
    "date": "2026-11-21T18:05:21+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "cf75032d8fee",
-   "source": "Radio Cooperativa",
-   "title": "La épica remontada de La Roja sobre Argelia en el Mundial Sub 17",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mundial-sub-17/la-epica-remontada-de-la-roja-sobre-argelia-en-el-mundial-sub-17/2026-11-21/150127.html",
-   "date": "2026-11-21T18:01:27+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -302,16 +362,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d152a097b82e",
-   "source": "Radio Cooperativa",
-   "title": "Everton enfiló cuatro partidos sin victorias tras su caída en la agonía contra Coquimbo",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/everton-enfilo-cuatro-partidos-sin-victorias-tras-su-caida-en-la-agonia/2026-11-21/145319.html",
-   "date": "2026-11-21T17:53:19+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "0170be89e61f",
    "source": "The Guardian",
    "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
@@ -319,16 +369,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
    "date": "2026-11-21T17:46:55+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "6cb44554af53",
-   "source": "Radio Cooperativa",
-   "title": "Italia: Suicidio de exjefe policial reabre dudas sobre mortal atentado de 1992 contra un juez",
-   "description": "El poderoso exjefe de la Policía italiana Gianni De Gennaro, actual presidente del consorcio que se adjudicó la construcción del puente sobre el estrecho de Mesina, Eurolink, fue encontrado muerto este sábado. El hecho ocurrió después de la apertura de una investigación por parte",
-   "url": "https://www.cooperativa.cl/noticias/mundo/italia/mafia/italia-suicidio-de-exjefe-policial-reabre-dudas-sobre-mortal-atentado/2026-11-21/144524.html",
-   "date": "2026-11-21T17:45:24+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -584,8 +624,8 @@
   {
    "id": "3fc92644a570",
    "source": "Al Jazeera",
-   "title": "Newcastle United 2-2 Arsenal LIVE: Premier League",
-   "description": "Follow updates from the Premier League clash, including the build-up, analysis and live text commentary of the game.",
+   "title": "Newcastle United 2-2 Arsenal: Premier League – as it happened",
+   "description": "All the updates as Mikel Arteta's side had to fight back ​from 2-1 down after a spirited display from their hosts.",
    "url": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
    "date": "2026-11-21T14:30:00+00:00",
    "category": "Oriente Medio",
@@ -754,8 +794,8 @@
   {
    "id": "1bbdf2bcc79c",
    "source": "Al Jazeera",
-   "title": "Russian crew evacuating ship hit by drones off coast of Finland",
-   "description": "Two drones attack cargo ship that Finnish authorities say has links to Russia's armed forces.",
+   "title": "Crew evacuated amid battle to put out fire on Russian ship hit by drones",
+   "description": "Finnish authorities say two drones attack cargo ship that has links to Russia's armed forces.",
    "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
    "date": "2026-11-21T12:45:24+00:00",
    "category": "Oriente Medio",
@@ -792,16 +832,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ed993c8e5400",
-   "source": "Al Jazeera",
-   "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
-   "description": "Separately, Palestinian man is shot dead by Israeli forces in Jabalia and three people injured in attack in Khan Younis.",
-   "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-   "date": "2026-11-21T12:29:49+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "3e350d6053a0",
    "source": "Ex-Ante",
    "title": "Castro rompe silencio: “la idea del retiro de los permisos que habían pedido los senadores me la planteó la senadora Paulina Vodanovic”",
@@ -819,16 +849,6 @@
    "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
    "date": "2026-11-21T12:22:54+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "7320b84bf2b3",
-   "source": "Al Jazeera",
-   "title": "Florida residents turn to kayaks and rafts as floods swamp streets",
-   "description": "Days of heavy rain have flooded streets across Florida, forcing residents to find creative ways to get around.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss",
-   "date": "2026-11-21T12:22:24+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -852,16 +872,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9b518515fa2b",
-   "source": "The Guardian",
-   "title": "‘Music was our teacher’: the sound system pioneers reviving the scene in Manchester and beyond",
-   "description": "Manchester-based Megatone Sound Foundation and Baron Turbo Charge have rejuvenated the culture to offer a sense of belonging and empowerment For a generation of young Black Mancunians, some of the history lessons that mattered most were not taught in classrooms, but through tower",
-   "url": "https://www.theguardian.com/news/2026/nov/21/sound-system-pioneers-music-manchester-windrush",
-   "date": "2026-11-21T12:00:58+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "b465365b01cc",
    "source": "Deutsche Welle",
    "title": "Drones rusos atacan central térmica en Ucrania dejando dos muertos",
@@ -879,16 +889,6 @@
    "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
    "date": "2026-11-21T11:33:01+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "7610dd1c2d5e",
-   "source": "Ex-Ante",
-   "title": "El futuro de la universidad",
-   "description": "El futuro de la universidad no estará determinado por cuántas herramientas de inteligencia artificial incorpore, cuántos programas online ofrezca o cuán sofisticadas sean sus plataformas.…",
-   "url": "https://www.ex-ante.cl/opinion/el-futuro-de-la-universidad/",
-   "date": "2026-11-21T11:15:36+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1064,7 +1064,7 @@
   {
    "id": "5dc9493bf678",
    "source": "France 24",
-   "title": "Jair Bolsonaro vuelve a estar hospitalizado, esta vez por una obstrucción intestinal",
+   "title": "Jair Bolsonaro vuelve a ser hospitalizado, esta vez por una obstrucción intestinal",
    "description": "El expresidente brasileño fue trasladado desde su reclusión domiciliaria hasta un hospital en Brasilia, luego de presentar fuertes dolores, que los médicos determinaron que se debían a una obstrucción “casi total” del intestino delgado, “con adherencias en la pared abdominal”. Se",
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261121-jair-bolsonaro-vuelve-a-estar-hospitalizado-esta-vez-por-una-obstrucci%C3%B3n-intestinal",
    "date": "2026-11-21T02:31:34+00:00",
@@ -1119,16 +1119,6 @@
    "url": "https://www.france24.com/es/video/20261121-brasil-ind%C3%ADgenas-aw%C3%A1-guaj%C3%A1-aislados-reaparecen-cerca-de-zonas-habitadas-y-generan-preocupaci%C3%B3n",
    "date": "2026-11-21T02:01:15+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "52bb51ebc05e",
-   "source": "Deutsche Welle",
-   "title": "Declaran culpable a sospechoso de iniciar letal incendio en Los Angeles en 2025",
-   "description": "Jonathan Rinderknecht, de 30 años, podría recibir una condena de hasta 40 años de prisión por haber propiciado el siniestro, donde murieron decenas de personas.",
-   "url": "https://www.dw.com/es/declaran-culpable-a-sospechoso-de-iniciar-letal-incendio-en-los-angeles-en-2025/a-80007540?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-21T00:57:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -1302,6 +1292,16 @@
    "type": "Prensa"
   },
   {
+   "id": "a2972c985435",
+   "source": "Radio Cooperativa",
+   "title": "[Radio en vivo🎙] O'Higgins y la U se ven las caras en la fecha 28 de la Liga",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con la pelea por el \"Chile 2\", el descenso y el clásico de Colo Colo y Universidad Católica, La Liga de Primera desrrolla su fecha 28 este fin de semana. Sábado 21 de noviembre Coquimbo Unido 2-1 Everton. Finalizado. Estadi",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-o-higgins-y-la-u-se-ven-las-caras-en-la-fecha-28-de-la/2026-11-20/121911.html",
+   "date": "2026-11-20T15:19:11+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "b553b484b1c6",
    "source": "Deutsche Welle",
    "title": "Potros, Schalke y Unión Berlín: el lado oscuro de la Bundesliga",
@@ -1350,6 +1350,16 @@
    "date": "2026-11-20T12:05:05+00:00",
    "category": "Conflictos armados y seguridad internacional",
    "type": "Prensa"
+  },
+  {
+   "id": "22b9b4891a4d",
+   "source": "Naciones Unidas",
+   "title": "Discordia en la COP31, Ucrania, Afganistán y hambre global: las noticias del viernes",
+   "description": "Discordia en el último día de la cumbre del clima contra el borrador del acuerdo. Ucrania registra el máximo de niños muertos en casi cuatro años. En Afganistán, la mitad de las organizaciones de mujeres anuncia que tendrá que cerrar sus servicios por falta de dinero. El Programa",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542198",
+   "date": "2026-11-20T12:00:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Oficial"
   },
   {
    "id": "28709fcfa3bd",
@@ -2599,16 +2609,6 @@
    "url": "https://news.un.org/feed/view/es/story/2026/11/1542160",
    "date": "2026-11-10T12:00:00+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "a3e59fd711ae",
-   "source": "Naciones Unidas",
-   "title": "Desigualdad en la COP31, Sudán, ébola y Estados Unidos: las noticias del martes",
-   "description": "Unos 1500 millones de mujeres y niñas viven ya en zonas de alto riesgo climático, y la crisis podría empujar a 141 millones más a la pobreza extrema. En Sudán, UNICEF alerta de que 825.000 niños sufrirán desnutrición aguda debido a los ataques con drones a las centrales eléctrica",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542159",
-   "date": "2026-11-10T12:00:00+00:00",
-   "category": "África",
    "type": "Oficial"
   },
   {
