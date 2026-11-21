@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-21T04:51:07.824554+00:00",
+ "updated": "2026-11-21T05:51:34.959295+00:00",
  "items": [
+  {
+   "id": "ac837f0378b2",
+   "source": "Deutsche Welle",
+   "title": "Hutíes proiraníes de Yemen lanzan ataque de misiles contra Riad tras \"operación especial\" saudita",
+   "description": "Las defensas antiaéreas interceptaron tres misiles lanzados por la milicia proiraní en dirección a Riad.",
+   "url": "https://www.dw.com/es/hutíes-proiraníes-de-yemen-lanzan-ataque-de-misiles-contra-riad-tras-operación-especial-saudita/a-80007914?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-21T05:18:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "122d4ae6015e",
+   "source": "Al Jazeera",
+   "title": "Funeral held for New York teen shot while walking to school",
+   "description": "Funeral held for New York teen shot while walking to school",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/funeral-held-for-new-york-teen-shot-while-walking-to-school?traffic_source=rss",
+   "date": "2026-11-21T05:16:15+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ae3711322282",
+   "source": "Al Jazeera",
+   "title": "Al Jazeera explains: The US-China AI race is entering a new phase",
+   "description": "Al Jazeera’s Matthew Torres unpacks the latest from the world of artificial intelligence.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss",
+   "date": "2026-11-21T05:08:40+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "0edd7a401554",
+   "source": "Ex-Ante",
+   "title": "Gerente de la naviera de ruta Punta Arenas-Malvinas: “No se le pide ningún permiso a Argentina”",
+   "description": "Pablo Pacheco, gerente general y uno de los fundadores de la naviera Easter Island, aborda la controversia con Argentina por la nueva ruta comercial entre…",
+   "url": "https://www.ex-ante.cl/entrevista/ruta-malvinas-danstar-empresa-argentina/",
+   "date": "2026-11-21T05:07:18+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "9ed40cb2033d",
+   "source": "BBC Mundo",
+   "title": "\"No quise negociar la sangre de mi hija\": la madre de una adolescente muerta a tiros en las protestas en Irán exige justicia desde el exilio",
+   "description": "Samira publica desde el extranjero los nombres de miembros de las fuerzas de seguridad iraníes que, según ella, son responsables de la muerte de los manifestantes.",
+   "url": "https://www.bbc.com/mundo/articles/cwx28636mp5zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T05:02:06+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a70cef1beef5",
+   "source": "The Guardian",
+   "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
+   "description": "Despite dodging tears in the tarmac, people are confident in city’s infrastructure – and will not worry about what has not happened yet Mykola expects to drive his battered beige passenger minibus 20 to 24 times a day past the holes in the road on Kyiv’s damaged Northern Bridge t",
+   "url": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
+   "date": "2026-11-21T05:00:50+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "dc748c082357",
+   "source": "The Guardian",
+   "title": "Tourists are throwing fewer coins into Rome’s Trevi fountain – is €2 entry fee to blame?",
+   "description": "Charity that collects the coins says donations are down by £200,000 after a barrier was put in place to restrict access When Jeff Clinton, an American visiting Rome with his wife for the first time, found a US one-cent coin on a street close to Termini train station, he knew prec",
+   "url": "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
+   "date": "2026-11-21T05:00:49+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "53c8f6ebd0dc",
+   "source": "The Guardian",
+   "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
+   "description": "Victoria police say boy, 17, communicated with offenders under username ‘Onepercent’ Get our breaking news email , free app or daily news podcast Victorian police allege a 17-year-old boy tasked others to carry out a series of arsons, home invasions and a mistaken identity kidnap",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
+   "date": "2026-11-21T04:44:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "f528767c474f",
+   "source": "Al Jazeera",
+   "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
+   "description": "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station.",
+   "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
+   "date": "2026-11-21T04:32:07+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "69477279c619",
    "source": "The Guardian",
@@ -335,7 +425,7 @@
    "id": "25f509864e9a",
    "source": "Al Jazeera",
    "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-   "description": "Saudi-led coalition says it intercepted three missiles as IRGC claims it downed a US MQ-9 drone over Strait of Hormuz.",
+   "description": "Saudi-led coalition says it intercepted three missiles, as IRGC claims it downed US MQ-9 drone over Strait of Hormuz.",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
    "date": "2026-11-21T00:00:06+00:00",
    "category": "Oriente Medio",
@@ -644,8 +734,8 @@
   {
    "id": "91eb824b323c",
    "source": "Al Jazeera",
-   "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
-   "description": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
+   "title": "Three Salvadoran soldiers killed in Haiti while handling explosives",
+   "description": "One other was injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
    "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
    "date": "2026-11-20T20:59:04+00:00",
    "category": "Oriente Medio",
@@ -792,26 +882,6 @@
    "type": "Prensa"
   },
   {
-   "id": "45eed7c4da64",
-   "source": "Al Jazeera",
-   "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
-   "description": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security",
-   "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
-   "date": "2026-11-20T19:57:05+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "0d313eab2bd4",
-   "source": "Al Jazeera",
-   "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
-   "description": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
-   "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
-   "date": "2026-11-20T19:40:07+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "4020e6f309f3",
    "source": "Río en Línea",
    "title": "Mantienen prisión preventiva de imputado por parricidio de Julia Chuñil en Máfil",
@@ -839,16 +909,6 @@
    "url": "https://www.dw.com/es/anthropic-arrasa-en-su-entrada-en-bolsa-y-marca-un-hito-para-la-ia/a-80006786?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-20T19:28:00+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "ab87aa20eaab",
-   "source": "Al Jazeera",
-   "title": "Nepal cricket fans celebrate their team’s global rise",
-   "description": "Nepal’s cricket fans have witnessed a transformation in their national team’s fortunes in recent years.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise?traffic_source=rss",
-   "date": "2026-11-20T19:24:26+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -982,16 +1042,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b0f56866d228",
-   "source": "The Guardian",
-   "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
-   "description": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in Denmark Denmark’s foreign minister has said Russia’s defence attache in Copenhagen would be expelled after Moscow was suspected of being behind an attempted killing of a US-U",
-   "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
-   "date": "2026-11-20T18:16:12+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "81c8e2f6d209",
    "source": "France 24",
    "title": "El Salvador, bajo la amenaza de una crisis alimentaria por la sequía",
@@ -1019,16 +1069,6 @@
    "url": "https://www.dw.com/es/el-ataque-al-puente-de-crimea-y-sus-consecuencias/a-80006181?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-20T18:07:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "5e5d1a94124b",
-   "source": "The Guardian",
-   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-   "description": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London g",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "date": "2026-11-20T17:59:55+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1098,26 +1138,6 @@
    "description": "La viña chilena Montes, que recibe cerca de 50 mil visitantes al año, alcanzó el tercer lugar de The World’s 50 Best Vineyards 2026. Su…",
    "url": "https://www.ex-ante.cl/negocios/vina-montes-alcanza-tercer-lugar-50-best/",
    "date": "2026-11-20T16:46:11+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "ec25fd800bd0",
-   "source": "Deutsche Welle",
-   "title": "Rusia lanza uno de los \"mayores ataques\" contra Ucrania desde el inicio de la invasión",
-   "description": "Zelenski afirmó que Rusia lanzó más de 400 drones y más de 110 misiles y atacó infraestructura energética, logística y ferroviaria en todo el país.",
-   "url": "https://www.dw.com/es/rusia-lanza-uno-de-los-mayores-ataques-contra-ucrania-desde-el-inicio-de-la-invasión/a-80005745?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-20T16:38:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "4f5db1348f73",
-   "source": "Ex-Ante",
-   "title": "El método Huang: NYT revela que el fundador de Nvidia gobernó a punta de humillaciones",
-   "description": "Una investigación de The New York Times reconstruye dos décadas de malos tratos del cofundador de Nvidia a sus subordinados y revela un pago confidencial…",
-   "url": "https://www.ex-ante.cl/internacional/nyt-fundador-nvidia-goberno-humillar/",
-   "date": "2026-11-20T16:27:59+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -1298,16 +1318,6 @@
    "description": "Testing confirms presence of etomidate, a strong and fast-acting sedative used as a general anaesthetic overseas but not registered for medical use in Australia Get our breaking news email , free app or daily news podcast Three people who lost consciousness and were hospitalised ",
    "url": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales",
    "date": "2026-11-20T07:17:01+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "2ac4df7bc51a",
-   "source": "The Guardian",
-   "title": "Baby born with heart abnormalities ‘didn’t have a chance’ after non-medical free birth, NSW inquest hears",
-   "description": "Inquest into the deaths of four babies after free and home births hears routine checks and follow-up may have saved their lives Get our breaking news email , free app or daily news podcast Four babies who died in New South Wales – three after free births and one after a home birt",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/20/routine-checks-may-have-saved-babies-lives-freebirth-inquest-nsw-ntwnfb",
-   "date": "2026-11-20T06:51:54+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -2009,16 +2019,6 @@
    "url": "https://www.ciperchile.cl/2026/11/17/ottone-el-segundo-piso-y-los-contrastes-con-el-gobierno-de-kast/?utm_source=rss&utm_medium=rss&utm_campaign=ottone-el-segundo-piso-y-los-contrastes-con-el-gobierno-de-kast",
    "date": "2026-11-17T23:25:23+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "bff99fac7630",
-   "source": "BBC Mundo",
-   "title": "Cómo los directores del premiado documental \"Naza\" convencieron a soldados israelíes para que hablaran sobre el uso de IA para seleccionar objetivos en Gaza",
-   "description": "En una entrevista con la BBC, los cineastas israelíes Yuval Abraham y Rachel Szor, ganadores del Oscar, hablan sobre su aclamado documental \"Naza\".",
-   "url": "https://www.bbc.com/mundo/articles/c8r4g6xr75vyo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T22:24:17+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
