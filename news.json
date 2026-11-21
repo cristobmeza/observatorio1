@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-21T21:33:50.268375+00:00",
+ "updated": "2026-11-21T22:33:42.524183+00:00",
  "items": [
+  {
+   "id": "01f6ea258745",
+   "source": "Deutsche Welle",
+   "title": "OTAN promete defender \"cada centímetro\" de Polonia tras la incursión de misiles rusos",
+   "description": "Varsovia solicitó ampliar los sistemas de detección y control aéreo tras identificar tres objetos procedentes del espacio aéreo ruso.",
+   "url": "https://www.dw.com/es/otan-promete-defender-cada-centímetro-de-polonia-tras-la-incursión-de-misiles-rusos/a-80011180?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-21T22:04:00+00:00",
+   "category": "Conflictos armados y seguridad internacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "f462a2613a2f",
+   "source": "Al Jazeera",
+   "title": "Bahrain says Iranian attack hits industrial facility",
+   "description": "Bahrain says Iranian attack hits industrial facility",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+   "date": "2026-11-21T22:02:03+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "c69ded30dd76",
+   "source": "Radio Cooperativa",
+   "title": "Zverev despachó a Medvedev y enfrentará a Alcaraz por el título de las Finales ATP",
+   "description": "El alemán Alexander Zverev , número uno del ranking mundial, venció al ruso Daniil Medvedev (5°) y avanzó a la definición por el título de las Finales ATP de Turín, en donde enfrentará al español Carlos Alcaraz (3°). Zverev, de 29 años, se impuso por 7-6(0) y 6-4 y alcanzó su ter",
+   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/finales-atp/zverev-despacho-a-medvedev-y-enfrentara-a-alcaraz-por-el-titulo-de-las/2026-11-21/185900.html",
+   "date": "2026-11-21T21:59:00+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "4bcb638a6f88",
+   "source": "Ex-Ante",
+   "title": "Quiénes están detrás de Lader Energy, la startup chilena de energía que comenzó en Argentina y apuesta por los data centers",
+   "description": "La compañía chilena, fundada en 2016 por los hermanos Horacio y Andrés Vásquez Mena junto a Catalina Kissling, ingresó al Servicio de Evaluación Ambiental (SEA)…",
+   "url": "https://www.ex-ante.cl/negocios/energia-chilena-lader-energy-data-centers/",
+   "date": "2026-11-21T21:48:33+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "2cdac2ff54a1",
+   "source": "Al Jazeera",
+   "title": "Bahrain says Iranian attack causes fire at industrial facility",
+   "description": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+   "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+   "date": "2026-11-21T21:31:03+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ad81c604f22b",
+   "source": "Radio Cooperativa",
+   "title": "¡Erick Pulgar gritó campeón! Flamengo empató con Palmeiras y se coronó en el Brasileirao",
+   "description": "El chileno Erick Pulgar se coronó nuevamente en Brasil, ya que Flamengo conquistó el bicampeonato del Brasileirao , tras el empate 1-1 ante el escolta Palmeiras en Sao Paulo, faltando dos fechas por disputar en el torneo. El equipo carioca, sin Pulgar por suspensión, le bastaba s",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-brasilena/erick-pulgar-grito-campeon-flamengo-empato-con-palmeiras-y-se-corono/2026-11-21/182512.html",
+   "date": "2026-11-21T21:25:12+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "02ca94e3419f",
+   "source": "Radio Cooperativa",
+   "title": "Alfredo Castro y la película chilena \"Después de Elena\" triunfan en el Festival de Huelva",
+   "description": "El largometraje chileno \"Después de Elena\" , coproducida con Colombia e Italia, ganó este sábado el Colón de Oro a la mejor película de la 52 edición del Festival de Huelva de Cine Iberoamericano , que premió a un drama familiar atravesado por la comedia negra y dirigido por el c",
+   "url": "https://www.cooperativa.cl/noticias/magazine/cine/festivales-de-cine/alfredo-castro-y-la-pelicula-chilena-despues-de-elena-triunfan-en-el/2026-11-21/182300.html",
+   "date": "2026-11-21T21:23:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
   {
    "id": "d67ecd5b91db",
    "source": "Radio Cooperativa",
@@ -59,6 +129,16 @@
    "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
    "date": "2026-11-21T20:56:35+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "d9590f1e4754",
+   "source": "Radio Cooperativa",
+   "title": "Sujeto realizaba turbazos con una banda y agredía sexualmente a víctimas en La Florida",
+   "description": "En prisión preventiva quedó Felipe Andrés Cruz Bravo, sexto detenido en una investigación de una banda criminal vinculada a robos violentos, secuestros y agresiones sexuales ocurridos en la comuna de La Florida . De acuerdo con la investigación, el Ministerio Público señaló que e",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/delitos-sexuales/sujeto-realizaba-turbazos-con-una-banda-y-agredia-sexualmente-a-victimas/2026-11-21/175202.html",
+   "date": "2026-11-21T20:52:02+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -145,7 +225,7 @@
    "id": "07139db6d730",
    "source": "Radio Cooperativa",
    "title": "Cobreloa y San Luis disputan la gran final por el título del Ascenso 2026",
-   "description": "Este sábado la Liga de Ascenso 2026 conoce a su flamante campeón y primer promovido a la máxima categoría para 2027 con el cara a cara entre Cobreloa y San Luis de Quillota , que terminaron empatados tras las 30 fechas del torneo. Cobreloa vs. San Luis, 18:30 horas. Estadio Santa",
+   "description": "Este sábado la Liga de Ascenso 2026 conoce a su flamante campeón y primer promovido a la máxima categoría para 2027 con el cara a cara entre Cobreloa y San Luis de Quillota , que terminaron empatados tras las 30 fechas del torneo. Cobreloa 0-0 San Luis. Primer tiempo. Estadio San",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/cobreloa-y-san-luis-disputan-la-gran-final-por-el-titulo-del-ascenso-2026/2026-11-21/171457.html",
    "date": "2026-11-21T20:14:57+00:00",
    "category": "Economía nacional",
@@ -232,16 +312,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b7673e00d243",
-   "source": "Radio Cooperativa",
-   "title": "El líder Arsenal vio frenada su racha en la Premier League tras empatar con Newcastle",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-inglesa/el-lider-arsenal-vio-frenada-su-racha-en-la-premier-league-tras-empatar/2026-11-21/160749.html",
-   "date": "2026-11-21T19:07:49+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "edd169e66a78",
    "source": "The Guardian",
    "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
@@ -302,16 +372,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ba953a5a898c",
-   "source": "Radio Cooperativa",
-   "title": "Jair Bolsonaro está hospitalizado de nuevo por una obstrucción intestinal",
-   "description": "El expresidente brasileño Jair Bolsonaro , quien cumple en prisión domiciliaria una condena de 27 años de prisión por golpismo , está ingresado en una unidad de cuidados intensivos de un hospital de Brasilia por una obstrucción abdominal y sin previsión de alta, pero su estado es",
-   "url": "https://www.cooperativa.cl/noticias/mundo/brasil/jair-bolsonaro/jair-bolsonaro-esta-hospitalizado-de-nuevo-por-una-obstruccion-intestinal/2026-11-21/155201.html",
-   "date": "2026-11-21T18:52:01+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "07a8aea15661",
    "source": "Al Jazeera",
    "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
@@ -319,26 +379,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
    "date": "2026-11-21T18:42:38+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "15c801ce3d91",
-   "source": "Radio Cooperativa",
-   "title": "\"Los Juegos del Hambre: Amanecer en la cosecha\" ya ha recaudado 56 millones de dólares",
-   "description": "\"Los juegos del hambre: Amanecer en la cosecha\" , la nueva precuela de la popular saga distópica , recaudó hasta el viernes unos 56 millones de dólares en taquilla en Norteamérica , según informaron este sábado medios como Variety y The Hollywood Reporter . Esta cifra también inc",
-   "url": "https://www.cooperativa.cl/noticias/magazine/cine/los-juegos-del-hambre-amanecer-en-la-cosecha-ya-ha-recaudado-56/2026-11-21/153932.html",
-   "date": "2026-11-21T18:39:32+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a46a9e3e0a59",
-   "source": "Radio Cooperativa",
-   "title": "Portugal: Arrendar una vivienda exige el 83% de los ingresos, y comprarla el 70%",
-   "description": "Arrendar una vivienda en Portugal exige destinar el 83% de los ingresos netos medios de los hogares, mientras que adquirir una casa mediante un préstamo hipotecario supone desembolsar el 70% , según reveló un estudio del portal inmobiliario Idealista divulgado esta semana. Los da",
-   "url": "https://www.cooperativa.cl/noticias/mundo/europa/portugal/portugal-arrendar-una-vivienda-exige-el-83-de-los-ingresos-y/2026-11-21/153438.html",
-   "date": "2026-11-21T18:34:38+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -692,26 +732,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e26c5d545440",
-   "source": "Al Jazeera",
-   "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
-   "description": "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point.",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
-   "date": "2026-11-21T14:35:52+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "3fc92644a570",
-   "source": "Al Jazeera",
-   "title": "Newcastle United 2-2 Arsenal: Premier League – as it happened",
-   "description": "All the updates as Mikel Arteta's side had to fight back ​from 2-1 down after a spirited display from their hosts.",
-   "url": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
-   "date": "2026-11-21T14:30:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "7bc520895945",
    "source": "Deutsche Welle",
    "title": "Drones ucranianos atacan carguero ruso en el golfo de Finlandia",
@@ -839,16 +859,6 @@
    "url": "https://www.dw.com/es/dos-buques-son-alcanzados-por-proyectiles-en-estrecho-de-ormuz/a-80009673?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-21T12:42:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "f87cc373f200",
-   "source": "Ex-Ante",
-   "title": "Controversia con Argentina: por qué los excomandantes en jefe de la Armada lideran la línea más severa",
-   "description": "Los siete excomandantes en jefe de la Armada han publicado tres cartas en menos de tres meses para advertir sobre las pretensiones argentinas en el…",
-   "url": "https://www.ex-ante.cl/politica/argentina-armada-lideran-linea-severa/",
-   "date": "2026-11-21T12:38:45+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -1049,16 +1059,6 @@
    "url": "https://www.bbc.com/mundo/articles/cmvg212k7lyko?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-21T03:56:21+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "40db7e8b1799",
-   "source": "Deutsche Welle",
-   "title": "ONU prolonga complejas negociaciones sobre regulación de \"robots asesinos\" controlados por la Inteligencia Artificial.",
-   "description": "Cinco días de conversaciones que debían concluir este viernes, se extendieron mientras 128 países intentan alcanzar un consenso para iniciar negociaciones para regular el uso de armas letales autónomas.",
-   "url": "https://www.dw.com/es/onu-prolonga-complejas-negociaciones-sobre-regulación-de-robots-asesinos-controlados-por-la-inteligencia-artificial/a-80007658?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-21T03:28:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1292,11 +1292,11 @@
    "type": "Prensa"
   },
   {
-   "id": "a2972c985435",
+   "id": "f3a69c0861bd",
    "source": "Radio Cooperativa",
-   "title": "[Radio en vivo🎙] O'Higgins y la U se ven las caras en la fecha 28 de la Liga",
+   "title": "[Radio en vivo🎙] O'Higgins y la U igualan en la fecha 28 de la Liga",
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con la pelea por el \"Chile 2\", el descenso y el clásico de Colo Colo y Universidad Católica, La Liga de Primera desrrolla su fecha 28 este fin de semana. Sábado 21 de noviembre Coquimbo Unido 2-1 Everton. Finalizado. Estadi",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-o-higgins-y-la-u-se-ven-las-caras-en-la-fecha-28-de-la/2026-11-20/121911.html",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/radio-en-vivo-o-higgins-y-la-u-igualan-en-la-fecha-28-de-la-liga/2026-11-20/121911.html",
    "date": "2026-11-20T15:19:11+00:00",
    "category": "",
    "type": "Prensa"
