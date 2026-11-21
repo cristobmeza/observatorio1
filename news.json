@@ -1,11 +1,111 @@
 {
- "updated": "2026-11-21T08:09:08.916515+00:00",
+ "updated": "2026-11-21T09:42:47.991431+00:00",
  "items": [
+  {
+   "id": "ce7e1b14000a",
+   "source": "BBC Mundo",
+   "title": "Lo que podemos aprender de una antigua ciudad subterránea de Turquía sobre cómo escapar del calor y el frío extremos",
+   "description": "Hace siglos, los habitantes de la Capadocia, una región histórica en Turquía, se escondieron bajo tierra para escapar de sus enemigos. Allí también encontraron refugio frente a las condiciones climáticas extremas.",
+   "url": "https://www.bbc.com/mundo/articles/cq074g7x8915o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T09:10:38+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "4d7f326ef545",
+   "source": "Al Jazeera",
+   "title": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
+   "description": "Ballon d'Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne.",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
+   "date": "2026-11-21T09:01:29+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "8b12f279d4ec",
+   "source": "Deutsche Welle",
+   "title": "Incendio en Irak deja al menos 4 muertos y 35 heridos",
+   "description": "Las autoridades se encuentran investigando las causas del fuego mientras los heridos siguen siendo atendidos en los centros hospitalarios cercanos.",
+   "url": "https://www.dw.com/es/incendio-en-irak-deja-al-menos-4-muertos-y-35-heridos/a-80008442?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-21T08:55:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "d8764a1720f9",
+   "source": "Al Jazeera",
+   "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
+   "description": "Manipur's chief minister orders a probe into the incident, saying those responsible will be arrested and punished.",
+   "url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
+   "date": "2026-11-21T08:48:54+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "3e841f28ee8e",
+   "source": "Al Jazeera",
+   "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
+   "description": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
+   "date": "2026-11-21T08:39:35+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "95e2554ceaff",
+   "source": "Al Jazeera",
+   "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
+   "description": "Infantino handed huge boost in re-election campaign as FIFA president as CONMEBOL offers unanimous support.",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
+   "date": "2026-11-21T08:33:52+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a9e88b8922cb",
+   "source": "Al Jazeera",
+   "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
+   "description": "Spain’s High Court granted conditional bail to James ‘Fergie’ Chambers, a pro-Palestinian philanthropist.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
+   "date": "2026-11-21T08:26:22+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "257fa80fbe58",
+   "source": "The Guardian",
+   "title": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
+   "description": "Insiders say they only see cuts, with no discernible long-term strategy, since title’s purchase by German media firm A spate of prominent departures and years of public battling over its ownership have ensured the Telegraph’s newsroom has been no stranger to internal intrigue and",
+   "url": "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
+   "date": "2026-11-21T08:00:53+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e905db1ab07f",
+   "source": "The Guardian",
+   "title": "Letby trial doctor barred from treating patients was expert witness in another case",
+   "description": "Prof Peter Hindmarsh played key role in conviction of two Birmingham parents whose son died after diabetes episode A doctor who gave expert evidence that helped to convict Lucy Letby, and who was barred during the trial from treating patients, was then instructed as an expert wit",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case",
+   "date": "2026-11-21T08:00:52+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "b3a5235328ec",
+   "source": "Al Jazeera",
+   "title": "Can mediation succeed in a war-torn world? | Episode 1",
+   "description": "With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.",
+   "url": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
+   "date": "2026-11-21T07:38:38+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "7551ae175429",
    "source": "Al Jazeera",
-   "title": "At least two killed, 28 injured in fire at power station in Iraq’s Basra",
-   "description": "The blaze at the Hartha power station that spread to nearby houses injures dozens of others.",
+   "title": "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
+   "description": "The blaze erupted at the Hartha power station and spread to nearby houses.",
    "url": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
    "date": "2026-11-21T07:25:29+00:00",
    "category": "Oriente Medio",
@@ -474,7 +574,7 @@
   {
    "id": "f63cf1abe29e",
    "source": "Al Jazeera",
-   "title": "Can Mauricio Pochettino save Man United from Premier League relegation?",
+   "title": "Can Mauricio Pochettino save Manchester United from Premier League drop?",
    "description": "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool.",
    "url": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
    "date": "2026-11-21T00:55:01+00:00",
@@ -514,8 +614,8 @@
   {
    "id": "25f509864e9a",
    "source": "Al Jazeera",
-   "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-   "description": "Saudi-led coalition says it intercepted three missiles, as IRGC claims it downed US MQ-9 drone over Strait of Hormuz.",
+   "title": "Iran war live: 2 tankers reported hit by unknown projectiles off Oman coast",
+   "description": "UKMTO says no injuries reported in incidents north and east of Oman's Khasab, but environmental impact remains unclear.",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
    "date": "2026-11-21T00:00:06+00:00",
    "category": "Oriente Medio",
@@ -562,16 +662,6 @@
    "type": "Prensa"
   },
   {
-   "id": "16f2b09a7bbc",
-   "source": "Al Jazeera",
-   "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
-   "description": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
-   "date": "2026-11-20T23:20:50+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "6bb7649b5c4b",
    "source": "BBC Mundo",
    "title": "La bolsa de Wall Street cae con fuerza en medio del desplome de las acciones de las tecnológicas y registra su peor semana desde la pandemia",
@@ -609,16 +699,6 @@
    "url": "https://www.france24.com/es/programas/en-contexto/20261120-hist%C3%B3rico-fallo-para-los-rohingyas-tendr%C3%A1-efecto-en-otros-casos-de-genocidio",
    "date": "2026-11-20T23:07:38+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "f8b4cf24bbf8",
-   "source": "Al Jazeera",
-   "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
-   "description": "EU warns COP31 risks turning into a 'fossil summit' as critical climate commitments are omitted from the draft deal.",
-   "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
-   "date": "2026-11-20T23:06:41+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -692,16 +772,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b8c9cbe96169",
-   "source": "Al Jazeera",
-   "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
-   "description": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
-   "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-   "date": "2026-11-20T22:15:07+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "6ccffb3c9a0f",
    "source": "France 24",
    "title": "Sin Starlink, Ucrania está utilizando drones de retransmisión para atacar el puente de Crimea",
@@ -752,16 +822,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8c86cd205d7f",
-   "source": "Al Jazeera",
-   "title": "Iraq PM targets militia stronghold in bid to assert state control",
-   "description": "Iraqi PM Ali al-Zaidi said an operation in Jurf al-Sakhar marks the start of a nationwide push to assert state control.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
-   "date": "2026-11-20T21:28:25+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "51ed85877069",
    "source": "France 24",
    "title": "¿Podrán volver a casa las familias del sur del Líbano?",
@@ -769,16 +829,6 @@
    "url": "https://www.france24.com/es/programas/en-foco/20261120-podr%C3%A1n-volver-a-casa-las-familias-del-sur-del-l%C3%ADbano",
    "date": "2026-11-20T21:11:55+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "51793023acb8",
-   "source": "Al Jazeera",
-   "title": "Trump threatens tax on US tech firms building AI data centres abroad",
-   "description": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
-   "date": "2026-11-20T21:10:53+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -799,16 +849,6 @@
    "url": "https://www.ex-ante.cl/entrevista/crecimiento-economico-biministro-mas/",
    "date": "2026-11-20T21:06:35+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "e6b9f2cb4368",
-   "source": "Al Jazeera",
-   "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
-   "description": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
-   "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
-   "date": "2026-11-20T21:05:07+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -982,16 +1022,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5abf72600c2c",
-   "source": "The Guardian",
-   "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
-   "description": "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illness A Florida mechanic has been found guilty of stabbing to death a British music teacher, whom he convinced to travel to the United States. Dwain Hall, an auto repair ",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
-   "date": "2026-11-20T18:36:30+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "ea4f32e9343a",
    "source": "The Guardian",
    "title": "Spain frees wealthy US-sought activist on bail as Irish police raid Dublin home",
@@ -1052,16 +1082,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1d79b0ef28ae",
-   "source": "The Guardian",
-   "title": "Two men killed after glider crashes into Loch Leven in Scotland",
-   "description": "The pair had taken off from the Scottish Gliding Centre at nearby Portmoak on a training flight Two men have been killed after their glider crashed into Loch Leven, a large body of water in Perth and Kinross, on Friday morning. Police Scotland said their bodies were recovered fro",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
-   "date": "2026-11-20T18:20:09+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "81c8e2f6d209",
    "source": "France 24",
    "title": "El Salvador, bajo la amenaza de una crisis alimentaria por la sequía",
@@ -1069,16 +1089,6 @@
    "url": "https://www.france24.com/es/programas/enlace/20261120-el-salvador-bajo-la-amenaza-de-una-crisis-alimentaria-por-la-sequ%C3%ADa",
    "date": "2026-11-20T18:14:41+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "7fccf7687682",
-   "source": "Deutsche Welle",
-   "title": "El ataque al puente de Crimea y sus consecuencias",
-   "description": "Ucrania ha logrado causar graves daños al puente de Crimea. ¿Qué consecuencias tiene esto para Rusia en el ámbito militar y económico? ¿Y qué supone para el prestigio político de Vladimir Putin?",
-   "url": "https://www.dw.com/es/el-ataque-al-puente-de-crimea-y-sus-consecuencias/a-80006181?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-20T18:07:00+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1194,7 +1204,7 @@
   {
    "id": "fbc909c113c7",
    "source": "The Guardian",
-   "title": "As the Coalition stares down One Nation in NSW, a new threat is rising: the teals",
+   "title": "As the Coalition stares down One Nation in NSW, a new threat is rising: independents",
    "description": "The opposition’s struggle is creating an opportunity for progressive independents who are boosted by shrewd political operator Chris Minns Get our daily political email , free app or daily news podcast The New South Wales Coalition is facing a renewed threat to its heartland seat",
    "url": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
    "date": "2026-11-20T14:00:32+00:00",
@@ -1470,16 +1480,6 @@
    "date": "2026-11-19T17:39:15+00:00",
    "category": "Elecciones",
    "type": "Oficial"
-  },
-  {
-   "id": "ad5978715338",
-   "source": "BBC Mundo",
-   "title": "El sombrío pasado de la pintura de Van Gogh subastada por un récord de US$190 millones (y qué tienen que ver Argentina y los nazis con la obra)",
-   "description": "El cuadro \"Châtaigniers en fleurs\" fue pintado en 1890, en los dos últimos meses de vida de Vincent van Gogh.",
-   "url": "https://www.bbc.com/mundo/articles/cm3wg162e36wo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T17:38:13+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
   },
   {
    "id": "f5dad350cd8a",
