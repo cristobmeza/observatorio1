@@ -1,14 +1,84 @@
 {
- "updated": "2026-11-22T10:42:34.161942+00:00",
+ "updated": "2026-11-22T11:39:23.138281+00:00",
  "items": [
   {
    "id": "e43af9996f50",
    "source": "The Guardian",
    "title": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
-   "description": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU Reform UK’s deputy leader Richard Tice has also slammed the new EU agreements as “a really bad deal”. He says “it’s not a res",
+   "description": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU Critics of the youth mobility deal have mainly focused on the idea of an “influx” of European youth competing with Brits for ",
    "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
-   "date": "2026-11-22T10:27:32+00:00",
+   "date": "2026-11-22T11:22:34+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e15c0e580d67",
+   "source": "Al Jazeera",
+   "title": "Russian ship attacked by drone in Baltic Sea off Finland",
+   "description": "Russian ship attacked by drone in Baltic Sea off Finland",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
+   "date": "2026-11-22T11:15:27+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "7a4535f4cae5",
+   "source": "Radio Cooperativa",
+   "title": "India: Al menos 16 muertos y casi 600 hospitalizados por beber alcohol adulterado",
+   "description": "Al menos 16 personas murieron y cerca de 600 fueron hospitalizadas desde el miércoles tras consumir alcohol presuntamente adulterado en el distrito de Chandel, en el estado nororiental indio de Manipur, informó en una rueda de prensa este fin de semana el comisionado estatal de I",
+   "url": "https://www.cooperativa.cl/noticias/mundo/india/india-al-menos-16-muertos-y-casi-600-hospitalizados-por-beber-alcohol/2026-11-22/081426.html",
+   "date": "2026-11-22T11:14:26+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "b1445586c7ff",
+   "source": "Al Jazeera",
+   "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
+   "description": "Lionel Messi escapes red-card booking for controversial throw-in in Miami's 3-0 defeat by Columbus in MLS Cup playoffs.",
+   "url": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
+   "date": "2026-11-22T11:07:30+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2c370581003f",
+   "source": "BBC Mundo",
+   "title": "\"Fui coaccionada para tener un hijo\": cómo un multimillonario engañó a la exitosa DJ Liv Nervo para que quedara embarazada",
+   "description": "Durante años creyó vivir un amor de película. Hasta que, con seis meses de embarazo, descubrió la verdad. Ahora lucha porque eso sea castigado por la ley cuando le ocurra a otras.",
+   "url": "https://www.bbc.com/mundo/articles/cqm2ly382ylxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T11:04:08+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "602968e50bbc",
+   "source": "The Guardian",
+   "title": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
+   "description": "Exporters welcome end in sight for Brexit checks – but are frustrated that implementation will take so long British producers have broadly welcomed the UK’s deal with the EU, designed to remove the vast majority of physical checks on food, plants and animal products. The sanitary",
+   "url": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
+   "date": "2026-11-22T11:00:24+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e4078a04c1ac",
+   "source": "The Guardian",
+   "title": "Exquisitely decorated home of Victorian workman David Parr wins blue plaque",
+   "description": "Working-class man who covered mansions with William Morris’s patterns spent his nights filling his Cambridge terrace house with his own designs As a Victorian working-class labourer, David Parr was paid to spend his days decorating the interiors of private mansions and Cambridge ",
+   "url": "https://www.theguardian.com/culture/2026/nov/22/exquisitely-decorated-home-of-victorian-workman-david-parr-wins-blue-plaque-cambridge",
+   "date": "2026-11-22T10:59:28+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "6b1b1ea5a93c",
+   "source": "Al Jazeera",
+   "title": "Russian cargo ship still on fire off Finland after drone attack",
+   "description": "The ship, bound for Russia's Kaliningrad, was damaged in international waters before drifting into Finnish territory.",
+   "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss",
+   "date": "2026-11-22T10:39:50+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -134,7 +204,7 @@
   {
    "id": "33e1c2b80cd2",
    "source": "The Guardian",
-   "title": "Highly lucrative: Bank of England directors illegally profited from post-abolition enslavement in Cuba",
+   "title": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
    "description": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people • Slave-trade wealth was embedded in Britain’s financial system, research finds British businesses run by long-serving directors of the Ban",
    "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
    "date": "2026-11-22T08:00:22+00:00",
@@ -165,7 +235,7 @@
    "id": "96dfe3395928",
    "source": "Al Jazeera",
    "title": "Indonesia factory fire kills three, 36 missing",
-   "description": "At least 15 people rescued, including four taken to hospital, as authorities say it is unclear what caused the blaze.",
+   "description": "At least 15 people rescued, including 4 taken to hospital, as authorities say cause of the fire is under investigation.",
    "url": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
    "date": "2026-11-22T07:46:35+00:00",
    "category": "Oriente Medio",
@@ -192,21 +262,21 @@
    "type": "Prensa"
   },
   {
-   "id": "7ddf795522fb",
-   "source": "Al Jazeera",
-   "title": "The European revolt may be coming to the UK",
-   "description": "There is enough justified anger among the British youth to spark a wave of mass protests.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
-   "date": "2026-11-22T06:59:59+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "3e72878cddc4",
    "source": "Al Jazeera",
    "title": "Why Somalia’s president turned against his former ally, the UAE",
    "description": "Behind Somalia's break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
    "url": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
+   "date": "2026-11-22T06:59:59+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "7ddf795522fb",
+   "source": "Al Jazeera",
+   "title": "The European revolt may be coming to the UK",
+   "description": "There is enough justified anger among the British youth to spark a wave of mass protests.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
    "date": "2026-11-22T06:59:59+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
@@ -522,26 +592,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7c1487805b6d",
-   "source": "Al Jazeera",
-   "title": "Moviegoers head for the exits as quake strikes Peru",
-   "description": "Moviegoers head for the exits as quake strikes Peru",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
-   "date": "2026-11-22T01:07:19+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "2835d1353cf5",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] \"Boee\": Davo y La Cobra festejaron en cancha la coronación de Boca en Barranquilla",
-   "description": "Los reconocidos creadores de contenido Davo Xeneize y La Cobra acompañaron a Boca Juniors en la final de la Copa Sudamericana y festejaron el triunfo en la cancha. Ambos se fundieron en un abrazo en el Estadio Metropolitano \"Roberto Meléndez\" de Barranquilla tras el 2-0 frente a ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/boca-juniors/video-boee-davo-y-la-cobra-festejaron-en-cancha-la-coronacion-de/2026-11-21/220714.html",
-   "date": "2026-11-22T01:07:14+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "5535994cb216",
    "source": "The Guardian",
    "title": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
@@ -559,16 +609,6 @@
    "url": "https://www.dw.com/es/donald-trump-confirma-un-ciberataque-al-fbi-y-cree-que-podría-destapar-engaños-contra-él/a-80012085?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-22T00:53:00+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "3ab572fc7c3f",
-   "source": "Al Jazeera",
-   "title": "Clashes erupt across France in another night of protest",
-   "description": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
-   "date": "2026-11-22T00:37:32+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -629,16 +669,6 @@
    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261122-dir%C3%A9-que-no-es-bueno-trump-se-refiere-al-supuesto-ciberataque-a-una-base-de-datos-del-fbi",
    "date": "2026-11-22T00:02:03+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "0d3d4005f5bb",
-   "source": "Al Jazeera",
-   "title": "Iran war live: US ‘defeated’ and cannot dictate peace deal terms – Tehran",
-   "description": "Tehran's top security official chides the US suggesting it's superpower status has faded after it launched the war.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-   "date": "2026-11-21T23:59:03+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -832,16 +862,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4f3d53d54e0e",
-   "source": "The Guardian",
-   "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
-   "description": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’ Residents of a Suffolk village have voted to “leave the UK” in a referendum held in response to government plans to house 930 asylum seekers at a near",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
-   "date": "2026-11-21T18:20:37+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "4b630c7ee286",
    "source": "France 24",
    "title": "\"GTA VI\" logra un lanzamiento récord y supera los ingresos de la gira de Taylor Swift",
@@ -999,16 +1019,6 @@
    "url": "https://www.france24.com/es/video/20261121-francia-protesta-al-ritmo-de-la-m%C3%BAsica-orquestas-ponen-banda-sonora-al-descontento-social",
    "date": "2026-11-21T14:12:01+00:00",
    "category": "Administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "b0f56866d228",
-   "source": "The Guardian",
-   "title": "Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper",
-   "description": "Moscow intelligence thought to be behind plan to kill musician Kyivstoner before concert in Denmark Denmark’s foreign minister has said Russia’s defence attache in Copenhagen would be expelled after Moscow was suspected of being behind an attempted killing of a US-Ukrainian rappe",
-   "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
-   "date": "2026-11-21T14:03:50+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
