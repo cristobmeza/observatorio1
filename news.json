@@ -1,6 +1,216 @@
 {
- "updated": "2026-11-22T18:39:06.863605+00:00",
+ "updated": "2026-11-22T19:45:09.425929+00:00",
  "items": [
+  {
+   "id": "6d422ae5c6b2",
+   "source": "Radio Cooperativa",
+   "title": "Carlos Alcaraz derrotó a Alexander Zverev y conquistó las Finales ATP en Turín",
+   "description": "El español Carlos Alcaraz, número 3 del ranking, se coronó campeón de las Finales ATP en Turín, al batir este domingo en la definición al número uno del mundo, el alemán Alexander Zverev. Alcaraz se impuso por 6-2 y 7-6(7) en dos horas y dos minutos, y cerró su temporada en el ci",
+   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/finales-atp/carlos-alcaraz-derroto-a-alexander-zverev-y-conquisto-las-finales-atp-en/2026-11-22/163234.html",
+   "date": "2026-11-22T19:32:34+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "be7946f93cfb",
+   "source": "Deutsche Welle",
+   "title": "Secretario general de la ONU expresa \"profunda frustración\" por fracaso de COP31",
+   "description": "La conferencia climática de la ONU fracasó en alcanzar un acuerdo este domingo después de que la Unión Europea y otros países como Panamá rechazaran respaldar un controversial texto.",
+   "url": "https://www.dw.com/es/secretario-general-de-la-onu-expresa-profunda-frustración-por-fracaso-de-cop31/a-80015142?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-22T19:23:00+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "43cb2af04b4b",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] Cobreloa tuvo un masivo recibimiento en Calama tras ganar el título del Ascenso",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este domingo, las calles de Calama se colmaron por hinchas de Cobreloa que le dieron la bienvenida al equipo tras conquistar el título de la Liga de Ascenso y el correspondiente retorno a la máxima categoría. La multitud de",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/cobreloa/video-cobreloa-tuvo-un-masivo-recibimiento-en-calama-tras-ganar-el/2026-11-22/162141.html",
+   "date": "2026-11-22T19:21:41+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "356c912998c8",
+   "source": "Al Jazeera",
+   "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
+   "description": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
+   "url": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+   "date": "2026-11-22T19:18:29+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "6471c4c37920",
+   "source": "Radio Cooperativa",
+   "title": "La agenda de la quinta fecha de la fase de liga de la Champions League",
+   "description": "La C hampions League vuelve a la acción esta semana con la quinta fecha de la fase de liga, que contará con varios partidazos en Europa. El bicampeón defensor PSG enfrentará a Roma en París; el subcampeón Arsenal se medirá con Borussia Dortmund ; y el Betis de Manuel Pellegrini v",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/la-agenda-de-la-quinta-fecha-de-la-fase-de-liga-de-la-champions-league/2026-11-22/161442.html",
+   "date": "2026-11-22T19:14:42+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "918acdf9467e",
+   "source": "France 24",
+   "title": "Bahrein denuncia un ataque iraní a una instalación industrial; dos petroleros se incendian en Ormuz",
+   "description": "Este domingo, el ministerio del Interior de Bahrein aseguró que un bombardeo lanzado por Irán cayó en una zona industrial civil el sábado, causando dos heridos, uno de ellos en estado crítico. La Guardia Revolucionaria iraní, por su lado, afirmó haber atacado posiciones estadouni",
+   "url": "https://www.france24.com/es/medio-oriente/20261122-bahrein-denuncia-un-ataque-iran%C3%AD-a-una-instalaci%C3%B3n-industrial-dos-petroleros-se-incendian-en-ormuz",
+   "date": "2026-11-22T19:14:32+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "be47d6b8530d",
+   "source": "Al Jazeera",
+   "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
+   "description": "Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics.",
+   "url": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
+   "date": "2026-11-22T19:10:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2d2e1afa080a",
+   "source": "Ex-Ante",
+   "title": "Informe Rankmi: Chile es el país donde menos trabajadores recomiendan su empresa",
+   "description": "Chile quedó último entre los mercados latinoamericanos analizados por Rankmi en disposición a recomendar el lugar de trabajo y compromiso laboral. Solo el 54% de…",
+   "url": "https://www.ex-ante.cl/economia/clima-laboral-chile-trabajo/",
+   "date": "2026-11-22T19:09:58+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "05ab91b4f2ba",
+   "source": "The Guardian",
+   "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
+   "description": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured almost 120 meetings with premiers and mini",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
+   "date": "2026-11-22T19:00:34+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a50431164294",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver la final entre Palmeiras y Estudiantes en la Copa Libertadores?",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este sábado 28 de noviembre, Palmeiras y Estudiantes de La Plata disputarán la final de la Copa Libertadores en el mítico Centenario de Montevideo con el objetivo de proclamarse como el nuevo monarca. El partido está progra",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-libertadores/cuando-y-donde-ver-la-final-entre-palmeiras-y-estudiantes-en-la-copa/2026-11-22/155741.html",
+   "date": "2026-11-22T18:57:41+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "38a95eff4bcc",
+   "source": "Deutsche Welle",
+   "title": "Marc Márquez gana su octavo título mundial de MotoGP",
+   "description": "Necesitaba terminar entre los nueve primeros en la carrera, y a pesar de salir segundo en la parrilla, el español pilotó con precaución para finalizar octavo y asegurarse el título a falta de una prueba.",
+   "url": "https://www.dw.com/es/marc-márquez-gana-su-octavo-título-mundial-de-motogp/a-80015062?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-22T18:53:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "73ce4977d9ce",
+   "source": "The Guardian",
+   "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
+   "description": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A suspected Ukrainian drone attack caused an explosion on a Russian warship docked at the naval base in the Libyan port city of Benghazi, Libyan officials have said. The str",
+   "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+   "date": "2026-11-22T18:50:56+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "1b8b0973bd86",
+   "source": "Radio Cooperativa",
+   "title": "Pochettino vivio una pesadilla en su debut en Manchester United y fue goleado por Liverpool",
+   "description": "El argentino Mauricio Pochettino vivió una pesadilla en su estreno como director técnico de Manchester United, al sufrir una durísima goleada por 4-0 en su visita a Liverpool en Anfield, por la fecha 11 de la Premier League. Pochettino, quien dejó la selección de Estados Unidos p",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-inglesa/pochettino-vivio-una-pesadilla-en-su-debut-en-manchester-united-y-fue/2026-11-22/154650.html",
+   "date": "2026-11-22T18:46:50+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "7ba3addf195f",
+   "source": "The Guardian",
+   "title": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
+   "description": "Exclusive: Thirty-one trusts issue stark warning that cost-cutting demands threaten their ability to function normally Dozens of hospitals are so short of money they may not be able to continue caring for patients and are being forced to make “unpalatable” cuts to services and st",
+   "url": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
+   "date": "2026-11-22T18:45:30+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "204320254f89",
+   "source": "Radio Cooperativa",
+   "title": "Dos rusos fallecieron en Magallanes tras choque entre minibús de turistas y camión argentino",
+   "description": "Dos personas de nacionalidad rusa fallecieron en un accidente de tránsito ocurrido en una ruta en la Región de Magallanes, protagonizado por un minibús de turismo y un camión de patente argentina. Según El Mercurio, los hechos acontecieron en la Ruta 9 Norte, que une las comunas ",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/accidentes-de-transito/dos-rusos-fallecieron-en-magallanes-tras-choque-entre-minibus-de/2026-11-22/154522.html",
+   "date": "2026-11-22T18:45:22+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "3cf0b98d3ccf",
+   "source": "Al Jazeera",
+   "title": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
+   "description": "Leny Yoro's red card for Manchester United after just eight minutes paved the way for a 4-0 football defeat at Anfield.",
+   "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
+   "date": "2026-11-22T18:44:24+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "e47f1e24c521",
+   "source": "France 24",
+   "title": "El Obelisco se tiñe de azul y oro: hinchas de Boca celebran el título de la Sudamericana",
+   "description": "🇦🇷⚽ Miles de hinchas de Boca Juniors se tomaron las calles de Buenos Aires para celebrar la conquista de su tercera Copa Sudamericana, tras vencer 2-0 al Atlético Mineiro. Después de 18 años sin títulos internacionales, los aficionados festejaron con banderas, cánticos y bocinazo",
+   "url": "https://www.france24.com/es/video/20261122-el-obelisco-se-ti%C3%B1e-de-azul-y-oro-hinchas-de-boca-celebran-el-t%C3%ADtulo-de-la-sudamericana",
+   "date": "2026-11-22T18:43:50+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "fdf905c54fba",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver a Crystal Palace de Osorio ante Real Sociedad en la Europa League?",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con la necesidad de olvidarse su mal pasar en Premier League y recuperar terreno en la Europa League, Crystal Palace de Darío Osorio asume un desafío en Selhurst Park al recibir a Real Sociedad este jueves 26 de noviembre, ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/europa-league/cuando-y-donde-ver-a-crystal-palace-de-osorio-ante-real-sociedad-en-la/2026-11-22/154018.html",
+   "date": "2026-11-22T18:40:18+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "2e775d32e9f9",
+   "source": "Radio Cooperativa",
+   "title": "COP31 fracasó al no alcanzar un acuerdo y reflejó las fisuras del multilateralismo",
+   "description": "La Cumbre del Clima de Antalya (COP31) terminó este domingo sin un acuerdo político y reflejó así las actuales fisuras del multilateralismo , a pesar de que la cita contó con una prórroga récord de más de 44 horas de negociación que falló al tratar de reconciliar las posturas de ",
+   "url": "https://www.cooperativa.cl/noticias/sociedad/medioambiente/cumbres-cop/cop31-fracaso-al-no-alcanzar-un-acuerdo-y-reflejo-las-fisuras-del/2026-11-22/152839.html",
+   "date": "2026-11-22T18:28:39+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "1ea47a006771",
+   "source": "Radio Cooperativa",
+   "title": "Jeff Bezos sí participó en la elección de James Bond: \"Había algo especial en Pattinson\"",
+   "description": "El fundador de Amazon, Jeff Bezos, estuvo \"muy involucrado\" en la elección de Robert Pattinson como el nuevo \"James Bond\" , y aunque él y el nuevo director de la saga, Denis Villeneuve , buscaban a un actor desconocido, la prueba de cámara fue definitiva: \"Quedó clarísimo que él ",
+   "url": "https://www.cooperativa.cl/noticias/magazine/cine/jeff-bezos-si-participo-en-la-eleccion-de-james-bond-habia-algo/2026-11-22/152759.html",
+   "date": "2026-11-22T18:27:59+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "70bdcfa522b8",
+   "source": "Radio Cooperativa",
+   "title": "\"No los podemos dejar sin plata\": Presupuesto de Agricultura enfrenta semana definitoria en comisión mixta",
+   "description": "La discusión del Presupuesto 2027 entra este lunes en una etapa clave en la Cámara de Diputadas y Diputados , luego de que el Senado despachara el articulado general, pero asestara un golpe a La Moneda al rechazar la partida del Ministerio de Agricultura con participación incluso",
+   "url": "https://www.cooperativa.cl/noticias/economia/presupuesto/no-los-podemos-dejar-sin-plata-presupuesto-de-agricultura-enfrenta/2026-11-22/151247.html",
+   "date": "2026-11-22T18:12:47+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
   {
    "id": "1180f0bd6aa4",
    "source": "Al Jazeera",
@@ -62,16 +272,6 @@
    "type": "Prensa"
   },
   {
-   "id": "05a469d7773a",
-   "source": "Radio Cooperativa",
-   "title": "Miley Cyrus se casó con el baterista Maxx Morando",
-   "description": "La cantante Miley Cyrus y el baterista Maxx Morando se casaron durante una ceremonia celebrada en California , Estados Unidos, según medios especializados como People y TMZ . La boda tuvo lugar el sábado en la localidad californiana de Palm Springs , un enclave vacacional conocid",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/miley-cyrus-se-caso-con-el-baterista-maxx-morando/2026-11-22/145600.html",
-   "date": "2026-11-22T17:56:00+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "2acd41fcc4a5",
    "source": "The Guardian",
    "title": "Russell Brand’s wife vows to abide by prison rules after video controversy",
@@ -79,26 +279,6 @@
    "url": "https://www.theguardian.com/news/2026/nov/22/russell-brand-wife-laura-gallacher-youtube-video",
    "date": "2026-11-22T17:49:12+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "d6cd850022e3",
-   "source": "Radio Cooperativa",
-   "title": "Nicolás Araya fue figura con un penal atajado en la igualdad de D. Concepción ante Huachipato",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/nicolas-araya-fue-figura-con-un-penal-atajado-en-la-igualdad-de-d/2026-11-22/144819.html",
-   "date": "2026-11-22T17:48:19+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "92d045537ca7",
-   "source": "Radio Cooperativa",
-   "title": "La programación de las revanchas de cuartos de final en la Liguilla del Ascenso",
-   "description": "La Liguilla de Ascenso continuará entre el jueves 26 y el sábado 28 de noviembre , con los duelos de revancha en cuartos de final, en donde seis equipos buscarán los tres cupos que quedan en semifinales. San Luis de Quillota ya está clasificado a semifinales, tras haber perdido l",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/la-programacion-de-las-revanchas-de-cuartos-de-final-en-la-liguilla-del/2026-11-22/144720.html",
-   "date": "2026-11-22T17:47:20+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -112,33 +292,13 @@
    "type": "Prensa"
   },
   {
-   "id": "490ded06d4f0",
-   "source": "Radio Cooperativa",
-   "title": "Carlos \"The Prince\" Cruzat ganó el campeonato mundial juvenil de la WBO",
-   "description": "Carlos \"The Prince \"Cruzat se convirtió en el nuevo campeón mundial juvenil peso mosca de la Organización Mundial de Boxeo (WBO ) al derrotar a Erick Ronaldo por nocaut técnico en el sexto asalto, en el combate estelar de SCL Fight Night II. El chileno mostró solidez en su boxeo,",
-   "url": "https://www.cooperativa.cl/noticias/deportes/boxeo/boxeo-internacional/carlos-the-prince-cruzat-gano-el-campeonato-mundial-juvenil-de-la-wbo/2026-11-22/143557.html",
-   "date": "2026-11-22T17:35:57+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "7826173284db",
    "source": "The Guardian",
    "title": "Pip review will call for overhaul rather than scrapping benefit for under-25s",
-   "description": "Recommendations overseen by Stephen Timms would retain system for all ages, unlike last week’s Milburn review A long-awaited review into the personal independence payment (Pip) system will this week recommend that it is overhauled – a week after another report called for it to be",
+   "description": "Recommendations overseen by Stephen Timms would retain system for all ages, unlike last week’s Milburn review A long-awaited review of the personal independence payment (Pip) system will this week recommend that it is overhauled, a week after another report called for it to be pa",
    "url": "https://www.theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
    "date": "2026-11-22T17:32:14+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "79bcb3084cb2",
-   "source": "Radio Cooperativa",
-   "title": "Criteria: Aprobación a Kast repuntó tras desplome de las últimas semanas",
-   "description": "La aprobación del Presidente José Antonio Kast aumentó en cinco puntos porcentuales y llegó al 23% luego de fuertes caídas registradas en las últimas semanas , reveló la reciente encuesta Criteria , publicada este domingo . El muestreo se realizó entre el 19 y 20 de noviembre a t",
-   "url": "https://www.cooperativa.cl/noticias/pais/presidente-kast/criteria-aprobacion-a-kast-repunto-tras-desplome-de-las-ultimas-semanas/2026-11-22/142756.html",
-   "date": "2026-11-22T17:27:56+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -152,29 +312,9 @@
    "type": "Prensa"
   },
   {
-   "id": "eab6cf72a786",
-   "source": "Radio Cooperativa",
-   "title": "El positivo balance de Filsa 2026: Estos fueron los libros más vendidos",
-   "description": "La Feria Internacional del Libro de Santiago (Filsa) despide este domingo su edición 2026 en Estación Mapocho , cerrando con un positivo balance por parte de sus organizadores gracias a la alta convocatoria que tuvo en sus 10 días de feria. El presidente de la Cámara Chilena del ",
-   "url": "https://www.cooperativa.cl/noticias/cultura/literatura/ferias-del-libro/el-positivo-balance-de-filsa-2026-estos-fueron-los-libros-mas-vendidos/2026-11-22/142256.html",
-   "date": "2026-11-22T17:22:56+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "f05e298db57b",
-   "source": "Radio Cooperativa",
-   "title": "Huachipato y D. Concepción protagonizaron reñido empate en medio de la lucha por copas",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La disputa por la clasificación a la Copa Sudamericana se mantuvo apretada con el empate 0-0 entre Huachipato y Deportes Concepción por la fecha 28 de la Liga de Primera , que impidió a ambos cuadros tomar ventaja en la tab",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-y-d-concepcion-protagonizaron-renido-empate-en-medio-de-la/2026-11-22/141802.html",
-   "date": "2026-11-22T17:18:02+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "fcdd1b22e1d9",
    "source": "Al Jazeera",
-   "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
+   "title": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
    "description": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
    "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
    "date": "2026-11-22T17:12:48+00:00",
@@ -199,26 +339,6 @@
    "url": "https://www.ex-ante.cl/valor-agregado/gta-6-negocio-que-es-fenomeno-global/",
    "date": "2026-11-22T17:02:54+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "0c4e8678594c",
-   "source": "Radio Cooperativa",
-   "title": "San Marcos de Arica se acercó a semifinales de la Liguilla tras friccionado triunfo ante Magallanes",
-   "description": "San Marcos de Arica se acercó a las semifinales de la Liguilla del Ascenso, tras conseguir un friccionado triunfo por 2-0 sobre Magallanes en el \"Carlos Dittborn\", en un partido en donde hubo tres expulsados. Los nortinos abrieron la cuenta en el minuto 12 con gol de Camilo Meliv",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/san-marcos-de-arica-se-acerco-a-semifinales-de-la-liguilla-tras/2026-11-22/135741.html",
-   "date": "2026-11-22T16:57:41+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "73ce4977d9ce",
-   "source": "The Guardian",
-   "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
-   "description": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia An explosion on a Russian ship docked at the naval base in the Libyan port city of Benghazi was caused by a suspected drone attack, Libya’s eastern-based government has said",
-   "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-   "date": "2026-11-22T16:55:49+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -339,16 +459,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
    "date": "2026-11-22T15:22:38+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "1d3744bf8a36",
-   "source": "The Guardian",
-   "title": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
-   "description": "Analysis reportedly finds striking similarities in dialogue and narrative structure between late author’s novel, Prudence, and two of her contemporaries Jilly Cooper has been accused of plagiarising the works of two other novelists. The bestselling author’s fifth romance series n",
-   "url": "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
-   "date": "2026-11-22T15:07:42+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -505,7 +615,7 @@
    "id": "910d21600f6b",
    "source": "The Guardian",
    "title": "Potty-mouthed MPs ranked as Australian parliament sets new swearing record",
-   "description": "One serial sweary offender, Jacqui Lambie, says it wouldn’t be an Australian parliament ‘without a few swear words thrown in’ Want to get more charts in your inbox every fortnight? Sign up for The Crunch here When Liberal MP Garth Hamilton stormed out of parliament in June, slamm",
+   "description": "One serial swearing offender, Jacqui Lambie, says it wouldn’t be an Australian parliament ‘without a few swear words thrown in’ Want to get more charts in your inbox every fortnight? Sign up for The Crunch here When Liberal MP Garth Hamilton stormed out of parliament in June, sla",
    "url": "https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record",
    "date": "2026-11-22T14:00:32+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -582,43 +692,13 @@
    "type": "Prensa"
   },
   {
-   "id": "7c729425b0e0",
-   "source": "Al Jazeera",
-   "title": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
-   "description": "Laila Abdulaziz fought society to become a pioneering Kuwaiti female musician.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/life-work-of-kuwaits-first-female-composer-featured-at-doha-film-festival?traffic_source=rss",
-   "date": "2026-11-22T13:35:09+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "3d7acc56e283",
-   "source": "Al Jazeera",
-   "title": "Croatia outraged after psychiatric patient dies from alleged hospital abuse",
-   "description": "Eight psychiatric workers have been arrested in Croatia on murder charges after images emerged of a patient being abused",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/croatia-outraged-after-psychiatric-patient-dies-from-alleged-hospital-abuse?traffic_source=rss",
-   "date": "2026-11-22T13:31:40+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "e477b8c4453e",
    "source": "France 24",
-   "title": "En directo: ataques rusos dejan al menos cuatro muertos en la región de Kiev; sigue la búsqueda de desaparecidos",
-   "description": "Al menos cuatro personas murieron este domingo en ataques rusos con drones en la región de Kiev: tres en un edificio residencial de Dymer y una en una tienda de alimentos de Vyshneve, según las autoridades ucranianas. Los rescatistas siguen buscando a una decena de posibles atrap",
+   "title": "En directo: ataques rusos golpean la región de Kiev y Polonia confirma la caída de tres misiles rusos",
+   "description": "Al menos seis personas murieron este domingo en ataques rusos en la región de Kiev, según las autoridades ucranianas. Tres fallecieron en Dymer, a unos 45 kilómetros al norte de la capital, donde un dron alcanzó un edificio residencial de cinco plantas y provocó su derrumbe parci",
    "url": "https://www.france24.com/es/europa/20261122-en-directo-ucrania-busca-14-desaparecidos-tras-un-ataque-ruso-contra-un-edificio-cerca-de-kiev",
    "date": "2026-11-22T13:30:05+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "ff9a67f8c490",
-   "source": "Al Jazeera",
-   "title": "Live: Liverpool vs Manchester United – Premier League",
-   "description": "Previews, teams and live text commentary stream as Manchester United visit Anfield to face Liverpool in Premier League.",
-   "url": "https://www.aljazeera.com/sports/liveblog/2026/11/22/live-liverpool-vs-manchester-united-premier-league-3?traffic_source=rss",
-   "date": "2026-11-22T13:30:00+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -912,16 +992,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6d9c4745586a",
-   "source": "The Guardian",
-   "title": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
-   "description": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instructed people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news podcast The Victorian Greens have won a supreme court injunction to stop an independent candidate",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
-   "date": "2026-11-22T02:08:49+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "90604cf746e9",
    "source": "France 24",
    "title": "Samuel González: \"'El Chapo Isidro' es un hombre extraordinariamente violento\"",
@@ -939,16 +1009,6 @@
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261122-m%C3%A1s-de-7-000-afectados-por-graves-inundaciones-en-gal%C3%A1pagos-asociadas-a-el-ni%C3%B1o",
    "date": "2026-11-22T01:44:21+00:00",
    "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "585a16fd50ef",
-   "source": "Deutsche Welle",
-   "title": "Donald Trump confirma un ciberataque al FBI y cree que podría destapar \"engaños\" contra él",
-   "description": "El FBI investigaba un hackeo a una base de datos clave de información sobre justicia penal, según medios estadounidenses.",
-   "url": "https://www.dw.com/es/donald-trump-confirma-un-ciberataque-al-fbi-y-cree-que-podría-destapar-engaños-contra-él/a-80012085?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-22T00:53:00+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1052,16 +1112,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7760e9b2a235",
-   "source": "Ex-Ante",
-   "title": "Rebaja de penas: Partido Nacional Libertario ficha a Iván Aróstica para acusación constitucional que preparan contra supremos",
-   "description": "El expresidente del Tribunal Constitucional, Iván Aróstica, se sumó al equipo jurídico que estudia cerca de 300 resoluciones de jueces de la Segunda Sala de…",
-   "url": "https://www.ex-ante.cl/politica/pnl-arostica-acusacion-supremos-rebaja/",
-   "date": "2026-11-21T20:36:42+00:00",
-   "category": "Derecho constitucional",
-   "type": "Prensa"
-  },
-  {
    "id": "f021f7f97230",
    "source": "France 24",
    "title": "Brasil: Jair Bolsonaro se encuentra en cuidados intensivos, pero estable",
@@ -1099,26 +1149,6 @@
    "url": "https://www.bbc.com/mundo/articles/cr5yny54gvy3o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-21T18:52:41+00:00",
    "category": "Socialismo y pensamiento económico",
-   "type": "Prensa"
-  },
-  {
-   "id": "4759d3c582d3",
-   "source": "France 24",
-   "title": "Wall Street se tiñe de rojo: acciones vinculadas a la IA registran fuertes pérdidas",
-   "description": "La semana bursátil cerró con caídas en las acciones tecnológicas de los mercados mundiales, en medio de una creciente preocupación por el futuro del sector de la inteligencia artificial (IA). Anthropic acaparó la atención tras su debut en bolsa, calificado como la mayor oferta pú",
-   "url": "https://www.france24.com/es/video/20261121-wall-street-se-ti%C3%B1e-de-rojo-acciones-vinculadas-a-la-ia-registran-fuertes-p%C3%A9rdidas",
-   "date": "2026-11-21T18:29:01+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "5e807c57514a",
-   "source": "France 24",
-   "title": "¿Quién es el 'Chapo Isidro', el capo mexicano que figuraba entre los 10 más buscados del FBI?",
-   "description": "Fausto Isidro Meza Flores, alias el 'Chapo Isidro', fue detenido este 21 de noviembre durante un operativo militar que desencadenó violentos enfrentamientos y escenas de pánico en el estado de Sinaloa, según confirmó la Secretaría de la Defensa Nacional de México. El 'Chapo Isidr",
-   "url": "https://www.france24.com/es/video/20261121-qui%C3%A9n-es-el-chapo-isidro-el-capo-mexicano-que-figuraba-entre-los-10-m%C3%A1s-buscados-del-fbi",
-   "date": "2026-11-21T18:25:28+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -1409,36 +1439,6 @@
    "url": "https://www.dw.com/es/¿hemos-perdido-la-oportunidad-de-frenar-el-cambio-climático/a-80005084?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-20T17:05:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "0d5b54b17d0b",
-   "source": "Radio Cooperativa",
-   "title": "Los resultados de la ida de cuartos en la Liguilla del Ascenso",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este fin de semana arranca la Liguilla de Ascenso 2026 con los partidos de ida de cuartos de final, a falta de conocer al último integrante de la postemporada. Domingo 22 de noviembre San Marcos de Arica 2-0 Magallanes. Fin",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/los-resultados-de-la-ida-de-cuartos-en-la-liguilla-del-ascenso/2026-11-20/123109.html",
-   "date": "2026-11-20T15:31:09+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "fd38e370249d",
-   "source": "Radio Cooperativa",
-   "title": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 28",
-   "description": "Revisa en vivo la tabla de posiciones de la Liga de Primera 2026: Pos. Club PJ Pts. Dif. Zona 1 Colo Colo (CAMPEÓN) 27 61 +29 Libertadores 2 U. de Chile 28 54 +26 Libertadores 3 Universidad Católica 27 49 +19 Duelo Chile 4 4 Coquimbo Unido 28 41 +4 Sudamericana 5 Deportes Limache",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html",
-   "date": "2026-11-20T15:22:47+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a113810b6192",
-   "source": "Radio Cooperativa",
-   "title": "Los resultados en la fecha 28 de la Liga de Primera 2026",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con la pelea por el \"Chile 2\", el descenso y el clásico de Colo Colo y Universidad Católica, La Liga de Primera desrrolla su fecha 28 este fin de semana. Domingo 22 de noviembre Huachipato 0-0 Deportes Concepción. Finalizad",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-en-la-fecha-28-de-la-liga-de-primera-2026/2026-11-20/121911.html",
-   "date": "2026-11-20T15:19:11+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -2580,6 +2580,16 @@
    "date": "2026-10-10T07:49:45+00:00",
    "category": "",
    "type": "Oficial"
+  },
+  {
+   "id": "dbbc4dc71f68",
+   "source": "Radio Cooperativa",
+   "title": "Cartelera de conciertos 2026 en Chile",
+   "description": "CONCIERTOS 2026 EN CHILE CONCIERTOS NOVIEMBRE 2026 1 de noviembre - Iron Maiden - Estadio Nacional - Entradas 1 de noviembre - Alex Serra y Totidub - Club Chocolate - Entradas 1 de noviembre - Opeth - Santander Arena - Entradas 1 de noviembre - Nicole - Teatro Municipal Valparaís",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cartelera-de-conciertos-2026-en-chile/2025-12-01/082152.html",
+   "date": "2025-12-01T11:21:52+00:00",
+   "category": "",
+   "type": "Prensa"
   },
   {
    "id": "9745c15368a2",
