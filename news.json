@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-22T05:52:36.644504+00:00",
+ "updated": "2026-11-22T06:58:30.333668+00:00",
  "items": [
+  {
+   "id": "88274b1aa3c1",
+   "source": "Al Jazeera",
+   "title": "What Sandpapergate reveals about Australian cricket",
+   "description": "A toxic culture of winning at any cost has been hiding behind the myth of ‘mateship’.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/22/what-sandpapergate-reveals-about-australian-cricket?traffic_source=rss",
+   "date": "2026-11-22T06:32:43+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "1284cfe48501",
+   "source": "The Guardian",
+   "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+   "description": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputat",
+   "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+   "date": "2026-11-22T06:00:21+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "2713c4d96a0d",
+   "source": "The Guardian",
+   "title": "Labour MPs sign up for leadership course to counter rightwing populism",
+   "description": "Course run by former No 10 advisers is funded by Gary Lubner, who has given more than £11m to Labour More than 20 Labour MPs have signed up to a year-long leadership course helping them to counter rightwing populism and deal with hostility, run by two former No 10 advisers and ul",
+   "url": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+   "date": "2026-11-22T06:00:21+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "0f8218593eed",
+   "source": "The Guardian",
+   "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
+   "description": "The effects of the continent’s coming polls will be felt far and wide – and could well turn into ‘key tests’ of the bloc’s resilience In late 1998, Tony Blair was prime minister of Britain, Lionel Jospin was prime minister of France, and Gerhard Schröder had just been elected cha",
+   "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+   "date": "2026-11-22T06:00:18+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "6577f84035e0",
+   "source": "Al Jazeera",
+   "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
+   "description": "Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.",
+   "url": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
+   "date": "2026-11-22T05:38:52+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "5cb132f53fdd",
    "source": "Al Jazeera",
@@ -652,16 +702,6 @@
    "type": "Prensa"
   },
   {
-   "id": "07a8aea15661",
-   "source": "Al Jazeera",
-   "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-   "description": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-   "date": "2026-11-21T18:42:38+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "4759d3c582d3",
    "source": "France 24",
    "title": "Wall Street se tiñe de rojo: acciones vinculadas a la IA registran fuertes pérdidas",
@@ -699,16 +739,6 @@
    "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
    "date": "2026-11-21T18:20:37+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "52f02001131e",
-   "source": "Al Jazeera",
-   "title": "FBI national crime database suffers suspected breach: Reports",
-   "description": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
-   "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
-   "date": "2026-11-21T18:19:10+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -972,16 +1002,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a8a2bd80c538",
-   "source": "The Guardian",
-   "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
-   "description": "Thursday’s byelection in Castle Bromwich will be latest test for Nigel Farage’s party as rival eats into support Voters go to the polls in the village of Castle Bromwich in the West Midlands on Thursday in a little-noticed election that is the latest test for Reform at a time whe",
-   "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
-   "date": "2026-11-21T12:22:54+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "5051e0e2e074",
    "source": "BBC Mundo",
    "title": "\"Hay una parte de mí que va aprendiendo a ser viejo, pero hay otra a la que le cuesta muchísimo\": Jorge Drexler",
@@ -999,16 +1019,6 @@
    "url": "https://www.dw.com/es/drones-rusos-atacan-central-térmica-en-ucrania-dejando-dos-muertos/a-80009319?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-21T11:47:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "f0c2b7443433",
-   "source": "The Guardian",
-   "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
-   "description": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’ The UK rejoining the EU could be on the table in informal discussions between Andy Burnham and European leaders in Brussels, Ed Miliband has said. The foreign secret",
-   "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-   "date": "2026-11-21T11:33:01+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1059,16 +1069,6 @@
    "url": "https://www.bbc.com/mundo/articles/cwx28636mp5zo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-21T05:02:06+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "a70cef1beef5",
-   "source": "The Guardian",
-   "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
-   "description": "Despite dodging tears in the tarmac, people are confident in city’s infrastructure – and will not worry about what has not happened yet Mykola expects to drive his battered beige passenger minibus 20 to 24 times a day past the holes in the road on Kyiv’s damaged Northern Bridge t",
-   "url": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
-   "date": "2026-11-21T05:00:50+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
