@@ -1,6 +1,146 @@
 {
- "updated": "2026-11-21T23:31:48.028816+00:00",
+ "updated": "2026-11-22T00:48:26.560971+00:00",
  "items": [
+  {
+   "id": "3ab572fc7c3f",
+   "source": "Al Jazeera",
+   "title": "Clashes erupt across France in another night of protest",
+   "description": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+   "date": "2026-11-22T00:37:32+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "52667197b149",
+   "source": "France 24",
+   "title": "Boca Juniors derrota a Atlético Mineiro y levanta la Copa Sudamericana",
+   "description": "",
+   "url": "https://www.france24.com/es/deportes/20261122-boca-juniors-derrota-a-atl%C3%A9tico-mineiro-y-levanta-la-copa-sudamericana",
+   "date": "2026-11-22T00:34:52+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "0580f94b79e6",
+   "source": "Radio Cooperativa",
+   "title": "Celebran Palacios y Alarcón: Boca Juniors batió a Atlético Mineiro y conquistó la Copa Sudamericana",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Boca Juniors, que tuvo a los volantes chilenos Carlos Palacios y Williams Alarcón en la banca, se coronó campeón de la Copa Sudamericana tras vencer por 2-0 a Atlético Mineiro en el Estadio Metropolitano \"Roberto Meléndez\" ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-sudamericana/celebran-palacios-y-alarcon-boca-juniors-batio-a-atletico-mineiro-y/2026-11-21/212805.html",
+   "date": "2026-11-22T00:28:05+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "28c90c58375e",
+   "source": "Radio Cooperativa",
+   "title": "Cobreloa alzó el título del Ascenso en Santa Laura y celebró su retorno a Primera División",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/cobreloa/cobreloa-alzo-el-titulo-del-ascenso-en-santa-laura-y-celebro-su-retorno/2026-11-21/212238.html",
+   "date": "2026-11-22T00:22:38+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "a17e90fba2b8",
+   "source": "France 24",
+   "title": "México: capturan a 'Chapo Isidro', uno de los narcos más buscados por el FBI",
+   "description": "El 'Chapo Isidrio', considerado uno de los fugitivos más buscados por el FBI y señalado como líder de una facción vinculada al grupo de los Beltrán Leyva, fue detenido en un operativo en el estado de Sinaloa realizado con apoyo de labores de inteligencia de México y Estados Unido",
+   "url": "https://www.france24.com/es/video/20261122-m%C3%A9xico-capturan-a-chapo-isidro-uno-de-los-narcos-m%C3%A1s-buscados-por-el-fbi",
+   "date": "2026-11-22T00:09:43+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "acb80edc9367",
+   "source": "France 24",
+   "title": "Sexto sábado de movilizaciones en Francia; jóvenes también protestan en otros países de Europa",
+   "description": "Por sexto sábado consecutivo, miles de personas volvieron a las calles de Francia para exigir mejores salarios, servicios públicos más fuertes y mejores condiciones de estudio. En París, sindicatos, estudiantes y representantes de los \"chalecos amarillos\" marcharon juntos en una ",
+   "url": "https://www.france24.com/es/video/20261122-sexto-s%C3%A1bado-de-movilizaciones-en-francia-j%C3%B3venes-tambi%C3%A9n-protestan-en-otros-pa%C3%ADses-de-europa",
+   "date": "2026-11-22T00:06:46+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "c95425cb73b1",
+   "source": "Río en Línea",
+   "title": "Caravana Navideña de Coca-Cola pasará por 17 comunas y sí, también estará en Los Ríos",
+   "description": "Está corriendo la cuenta regresiva para la próxima Navidad y una de las tradiciones más esperadas para esta época está de regreso y pasará por la Región de Los Ríos. Se trata de la Caravana Navideña de Coca-Cola Zero Azúcar. Desde el 1 al 22 de diciembre, la caravana volverá a re",
+   "url": "https://www.rioenlinea.cl/caravana-navidena-de-coca-cola-pasara-por-17-comunas-y-si-tambien-estara-en-los-rios/",
+   "date": "2026-11-22T00:02:27+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "60b3055fc696",
+   "source": "France 24",
+   "title": "\"Diré que no es bueno\": Trump se refiere al supuesto ciberataque a una base de datos del FBI",
+   "description": "Donald Trump se refirió este sábado 21 de noviembre al supuesto ciberataque que sufrió el FBI contra su Centro Nacional de Información Criminal, pero matizó que el hecho puede servir para obtener información valiosa que de otro modo no se habría conocido.",
+   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261122-dir%C3%A9-que-no-es-bueno-trump-se-refiere-al-supuesto-ciberataque-a-una-base-de-datos-del-fbi",
+   "date": "2026-11-22T00:02:03+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "0d3d4005f5bb",
+   "source": "Al Jazeera",
+   "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+   "description": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+   "date": "2026-11-21T23:59:03+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b21d7c057b1f",
+   "source": "Radio Cooperativa",
+   "title": "Cobreloa se coronó en el Ascenso y regresará a Primera tras dramático triunfo ante San Luis",
+   "description": "Cobreloa se coronó campeón de la Liga de Ascenso y regresará a Primera División después de dos años, tras igualar 0-0 con San Luis de Quillota en la final y ganar por 5-4 una dramática definición a penales en el Estadio Santa Laura. El duelo fue parejo, con una primera parte en d",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/cobreloa-se-corono-en-el-ascenso-y-regresara-a-primera-tras-dramatico/2026-11-21/205106.html",
+   "date": "2026-11-21T23:51:06+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "2be0c536ca9b",
+   "source": "Al Jazeera",
+   "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+   "description": "Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.",
+   "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+   "date": "2026-11-21T23:44:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "bc0728bb29ff",
+   "source": "France 24",
+   "title": "Ucrania: ataque ruso deja al menos dos muertos; Zelenski acusa a Putin de buscar una escalada",
+   "description": "Un ataque ruso con misiles balísticos contra Krivyi Rih, la ciudad natal del presidente ucraniano Volodímir Zelenski, dejó al menos dos muertos, entre ellos un niño. Tras la ofensiva, Zelenski denunció que Rusia lanzó más de 110 misiles y al menos 400 drones contra territorio ucr",
+   "url": "https://www.france24.com/es/video/20261121-ucrania-ataque-ruso-deja-al-menos-dos-muertos-zelenski-acusa-a-putin-de-buscar-una-escalada",
+   "date": "2026-11-21T23:33:03+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "10dc75660919",
+   "source": "France 24",
+   "title": "Informe desde Estambul: negociaciones en la COP31 estancadas por los combustibles fósiles",
+   "description": "La COP31, celebrada en Antalya (Turquía), entró en una fase de estancamiento debido a uno de los temas más polémicos de la agenda climática: el futuro de los combustibles fósiles. Mientras un bloque de países exige que el acuerdo final incluya un compromiso explícito sobre los co",
+   "url": "https://www.france24.com/es/video/20261121-informe-desde-estambul-negociaciones-en-la-cop31-estancadas-por-los-combustibles-f%C3%B3siles",
+   "date": "2026-11-21T23:30:39+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "ff3949effb4d",
+   "source": "Al Jazeera",
+   "title": "Iran faces a ‘silent economic war’, says Iranian president",
+   "description": "Iran faces a ‘silent economic war’, says Iranian president",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+   "date": "2026-11-21T23:18:14+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "c596605ff466",
    "source": "Radio Cooperativa",
@@ -19,6 +159,16 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-u-extendio-su-rendimiento-perfecto-en-el-teniente-con-sufrido-triunfo/2026-11-21/201439.html",
    "date": "2026-11-21T23:14:39+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "06b95204c48e",
+   "source": "Radio Cooperativa",
+   "title": "Sexto sábado consecutivo de protestas en Francia mantiene baja participación",
+   "description": "Francia vivió el sexto sábado consecutivo de manifestaciones contra el aumento del coste de la vida, entre otras reivindicaciones, con la vista puesta en posibles incident es tras el trauma de los actos de violencia del 17 de octubre, y observando si se confirma que el movimiento",
+   "url": "https://www.cooperativa.cl/noticias/mundo/francia/sexto-sabado-consecutivo-de-protestas-en-francia-mantiene-baja/2026-11-21/200834.html",
+   "date": "2026-11-21T23:08:34+00:00",
+   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -52,16 +202,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ff29ffa40a6b",
-   "source": "Río en Línea",
-   "title": "Nuevo Hospital de Río llega al 70% de avance: Atenderá a más de 53 mil personas desde 2028",
-   "description": "La construcción del nuevo Hospital de Río Bueno ya alcanza un 70% de avance, en un establecimiento de mediana complejidad que, una vez que entre en operación, atenderá a más de 53 mil personas. Según informó el Ministerio de Obras Públicas, el proyecto contempla un recinto con 12",
-   "url": "https://www.rioenlinea.cl/nuevo-hospital-de-rio-llega-al-70-de-avance-atendera-a-mas-de-53-mil-personas-desde-2028/",
-   "date": "2026-11-21T22:44:43+00:00",
-   "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
    "id": "8b2ae9567750",
    "source": "The Guardian",
    "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
@@ -69,16 +209,6 @@
    "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
    "date": "2026-11-21T22:41:36+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "9a061b1c1885",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] Eduardo Vargas anotó un golazo de sombrerito para la U ante O'Higgins",
-   "description": "Universidad de Chile abrió el marcador ante O'Higgins en el segundo tiempo en Rancagua, con una asistencia de Lucas Barrera y un golazo de sombrerito anotado por Eduardo Vargas. Revisa el golazo de Vargas para la U (76'): Gol de Edu Vargas 🆚 O’higgins 🥵🔥 #VamosLaU💙❤️ https://t.co",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-eduardo-vargas-anoto-un-golazo-de-sombrerito-para-la-u-ante/2026-11-21/194056.html",
-   "date": "2026-11-21T22:40:56+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -92,33 +222,13 @@
    "type": "Prensa"
   },
   {
-   "id": "cefddabd5825",
+   "id": "0bd6de08835c",
    "source": "Ex-Ante",
    "title": "Hidrógeno verde: la industria que se ha desinflado a nivel mundial y que Boric prometió consolidar como “política de Estado”",
    "description": "Pese a que contó con respaldo político e incentivos tributarios durante la administración del expresidente Boric, la industria del hidrógeno verde no ha logrado despegar…",
-   "url": "https://www.ex-ante.cl/internacional/hidrogeno-verde-industria-desinflada/",
+   "url": "https://www.ex-ante.cl/economia/hidrogeno-verde-industria-desinflada/",
    "date": "2026-11-21T22:33:13+00:00",
    "category": "Tributación",
-   "type": "Prensa"
-  },
-  {
-   "id": "6831dcc25fe3",
-   "source": "Radio Cooperativa",
-   "title": "Avioneta cayó al interior de un condominio en Peñalolén",
-   "description": "Un accidente aéreo se registró este sábado en la comuna de Peñalolén, donde una avioneta cayó en plena vía pública al interior de un condominio , ubicado en la intersección de Valle Casa Blanca Norte con Alsacia. De acuerdo con información preliminar, la aeronave vinculada con el",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/accidentes-aereos/avioneta-cayo-al-interior-de-un-condominio-en-penalolen/2026-11-21/192712.html",
-   "date": "2026-11-21T22:27:12+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "57322584d1b1",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] Lichnovsky fue expulsado por un codazo a Castillo y dejó a la U con 10 ante O'Higgins",
-   "description": "El defensa Igor Lichnovsky fue expulsado por doble tarjeta amarilla y dejó a Universidad de Chile con 10 jugadores en el segundo tiempo del duelo ante O'Higgins en Rancagua, en la fecha 28 de la Liga. Lichnovksy le propinó un codazo a Arnaldo Castillo y Juan Lara le mostró la seg",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-lichnovsky-fue-expulsado-por-un-codazo-a-castillo-y-dejo-a-la-u/2026-11-21/191947.html",
-   "date": "2026-11-21T22:19:47+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -142,13 +252,13 @@
    "type": "Prensa"
   },
   {
-   "id": "c69ded30dd76",
+   "id": "5fd5da27dcdb",
    "source": "Radio Cooperativa",
-   "title": "Zverev despachó a Medvedev y enfrentará a Alcaraz por el título de las Finales ATP",
-   "description": "El alemán Alexander Zverev , número uno del ranking mundial, venció al ruso Daniil Medvedev (5°) y avanzó a la definición por el título de las Finales ATP de Turín, en donde enfrentará al español Carlos Alcaraz (3°). Zverev, de 29 años, se impuso por 7-6(0) y 6-4 y alcanzó su ter",
-   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/finales-atp/zverev-despacho-a-medvedev-y-enfrentara-a-alcaraz-por-el-titulo-de-las/2026-11-21/185900.html",
-   "date": "2026-11-21T21:59:00+00:00",
-   "category": "",
+   "title": "Schneider y Kaiser protagonizaron cruce en redes por identidad de género",
+   "description": "El debate sobre el reconocimiento de la identidad de género y el respeto hacia las personas trans sumó un nuevo enfrentamiento político, luego de que la diputada Emilia Schneider (Frente Amplio) y Johannes Kaiser (Partido Nacional Libertario) intercambiaran mensajes a través de X",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/schneider-y-kaiser-protagonizaron-cruce-en-redes-por-identidad-de-genero/2026-11-21/185840.html",
+   "date": "2026-11-21T21:58:40+00:00",
+   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -179,16 +289,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
    "date": "2026-11-21T21:31:03+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "02ca94e3419f",
-   "source": "Radio Cooperativa",
-   "title": "Alfredo Castro y la película chilena \"Después de Elena\" triunfan en el Festival de Huelva",
-   "description": "El largometraje chileno \"Después de Elena\" , coproducida con Colombia e Italia, ganó este sábado el Colón de Oro a la mejor película de la 52 edición del Festival de Huelva de Cine Iberoamericano , que premió a un drama familiar atravesado por la comedia negra y dirigido por el c",
-   "url": "https://www.cooperativa.cl/noticias/magazine/cine/festivales-de-cine/alfredo-castro-y-la-pelicula-chilena-despues-de-elena-triunfan-en-el/2026-11-21/182300.html",
-   "date": "2026-11-21T21:23:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -229,16 +329,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
    "date": "2026-11-21T20:56:35+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "d9590f1e4754",
-   "source": "Radio Cooperativa",
-   "title": "Sujeto realizaba turbazos con una banda y agredía sexualmente a víctimas en La Florida",
-   "description": "En prisión preventiva quedó Felipe Andrés Cruz Bravo, sexto detenido en una investigación de una banda criminal vinculada a robos violentos, secuestros y agresiones sexuales ocurridos en la comuna de La Florida . De acuerdo con la investigación, el Ministerio Público señaló que e",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/delitos-sexuales/sujeto-realizaba-turbazos-con-una-banda-y-agredia-sexualmente-a-victimas/2026-11-21/175202.html",
-   "date": "2026-11-21T20:52:02+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -312,11 +402,11 @@
    "type": "Prensa"
   },
   {
-   "id": "22364b8b8170",
+   "id": "2e27d384a626",
    "source": "Radio Cooperativa",
-   "title": "Cobreloa y San Luis igualan en la gran final por el título del Ascenso 2026",
-   "description": "Este sábado la Liga de Ascenso 2026 conoce a su flamante campeón y primer promovido a la máxima categoría para 2027 con el cara a cara entre Cobreloa y San Luis de Quillota , que terminaron empatados tras las 30 fechas del torneo. Cobreloa 0-0 San Luis. Segundo tiempo . Estadio S",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/cobreloa-y-san-luis-igualan-en-la-gran-final-por-el-titulo-del-ascenso/2026-11-21/171457.html",
+   "title": "Cobreloa venció a San Luis en la final del Ascenso y se quedó con el pasaje a Primera",
+   "description": "Este sábado la Liga de Ascenso 2026 conoce a su flamante campeón y primer promovido a la máxima categoría para 2027 con el cara a cara entre Cobreloa y San Luis de Quillota , que terminaron empatados tras las 30 fechas del torneo. Cobreloa 0-0 (5-4) San Luis. Penales . Estadio Sa",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/cobreloa-vencio-a-san-luis-en-la-final-del-ascenso-y-se-quedo-con-el/2026-11-21/171457.html",
    "date": "2026-11-21T20:14:57+00:00",
    "category": "Economía nacional",
    "type": "Prensa"
@@ -622,11 +712,11 @@
    "type": "Prensa"
   },
   {
-   "id": "cfcdbb31a6e3",
+   "id": "948d634a1756",
    "source": "Radio Cooperativa",
-   "title": "Boca Juniors vence a Atlético Mineiro en la final de la Copa Sudamericana",
-   "description": "Boca Juniors, equipo de los chilenos Carlos Palacios y Williams Alarcón, enfrenta a Atlético Mineiro este sábado en Barranquilla, Colombia, en la final de la Copa Sudamericana. Sigue en vivo el resultado junto a Cooperativa.cl. Copa Sudamericana - Final Atlético Mineiro (BRA) 0-1",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-sudamericana/boca-juniors-vence-a-atletico-mineiro-en-la-final-de-la-copa-sudamericana/2026-11-21/133043.html",
+   "title": "Boca Juniors venció a Atlético Mineiro en la final de la Copa Sudamericana",
+   "description": "Boca Juniors, equipo de los chilenos Carlos Palacios y Williams Alarcón, enfrenta a Atlético Mineiro este sábado en Barranquilla, Colombia, en la final de la Copa Sudamericana. Sigue en vivo el resultado junto a Cooperativa.cl: Copa Sudamericana - Final Atlético Mineiro (BRA) 0-2",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-sudamericana/boca-juniors-vencio-a-atletico-mineiro-en-la-final-de-la-copa/2026-11-21/133043.html",
    "date": "2026-11-21T16:30:43+00:00",
    "category": "América Latina",
    "type": "Prensa"
@@ -682,26 +772,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d3fca578ae0c",
-   "source": "Al Jazeera",
-   "title": "US midterms 2026: What happens before the new Congress takes office?",
-   "description": "What happens between the US midterm elections and January, when Democrats take control of Congress?",
-   "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
-   "date": "2026-11-21T15:49:32+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "7b5219bacc52",
-   "source": "Al Jazeera",
-   "title": "French presidential candidate blames media for racist attack",
-   "description": "French presidential candidate blames media for racist attack",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
-   "date": "2026-11-21T15:46:18+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "5a6f6dd13ecd",
    "source": "Ex-Ante",
    "title": "Literatura y poder: A 50 años de la visita de Borges a Pinochet que le costaría el Nobel",
@@ -712,16 +782,6 @@
    "type": "Prensa"
   },
   {
-   "id": "bce65b67fa1e",
-   "source": "Al Jazeera",
-   "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
-   "description": "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election.",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
-   "date": "2026-11-21T15:20:43+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "035949e6e54e",
    "source": "The Guardian",
    "title": "British man recalls ‘despair’ over son’s death after fall from Cyprus window",
@@ -729,16 +789,6 @@
    "url": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
    "date": "2026-11-21T15:19:03+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "98cb71ef7739",
-   "source": "Al Jazeera",
-   "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-   "description": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
-   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-   "date": "2026-11-21T15:01:18+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -902,16 +952,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c2cacc863df2",
-   "source": "France 24",
-   "title": "\"Inaceptable\": Von der Leyen condena el presunto plan ruso para matar a un rapero en Dinamarca",
-   "description": "La presidenta de la Comisión Europea, Ursula von der Leyen, calificó este sábado de \"inaceptable\" el presunto complot de la inteligencia rusa para asesinar al rapero estadounidense-ucraniano Kyivstoner en Dinamarca y expresó su plena solidaridad con Copenhague. El Gobierno danés ",
-   "url": "https://www.france24.com/es/europa/20261121-inaceptable-von-der-leyen-denuncia-el-presunto-plan-ruso-para-matar-a-un-rapero-en-dinamarca",
-   "date": "2026-11-21T12:18:48+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "b465365b01cc",
    "source": "Deutsche Welle",
    "title": "Drones rusos atacan central térmica en Ucrania dejando dos muertos",
@@ -992,16 +1032,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b29c92e039b5",
-   "source": "France 24",
-   "title": "La COP31 se prolonga sin acuerdo por las diferencias sobre combustibles fósiles y financiación climática",
-   "description": "La COP31 continuó este sábado en Antalya, Turquía, más allá de su cierre previsto, ante la falta de consenso sobre la salida de los combustibles fósiles y la financiación para los países en desarrollo. La Unión Europea y Panamá advirtieron que no respaldarán un texto que no respo",
-   "url": "https://www.france24.com/es/medio-ambiente/20261121-la-cop31-se-prolonga-sin-acuerdo-por-las-diferencias-sobre-combustibles-f%C3%B3siles-y-financiaci%C3%B3n-clim%C3%A1tica",
-   "date": "2026-11-21T07:34:21+00:00",
-   "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
    "id": "1702d90b8227",
    "source": "Deutsche Welle",
    "title": "¿Quién habla por Europa en la guerra de Ucrania... y quién no?",
@@ -1009,16 +1039,6 @@
    "url": "https://www.dw.com/es/¿quién-habla-por-europa-en-la-guerra-de-ucrania-y-quién-no/a-80007113?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-21T07:25:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "1a544692ff7b",
-   "source": "France 24",
-   "title": "\"Robots asesinos\": 128 países abren la vía a un pacto mundial para regularlos",
-   "description": "Los 128 países reunidos en una conferencia de la ONU en Ginebra acordaron este sábado iniciar la elaboración de un instrumento internacional sobre las armas autónomas letales en los próximos dos años. El compromiso no garantiza un tratado jurídicamente vinculante, como reclama la",
-   "url": "https://www.france24.com/es/europa/20261121-pa%C3%ADses-abren-la-v%C3%ADa-a-un-pacto-de-regulaci%C3%B3n-mundial-de-los-robots-asesinos",
-   "date": "2026-11-21T06:30:20+00:00",
-   "category": "Derecho internacional",
    "type": "Prensa"
   },
   {
@@ -1089,46 +1109,6 @@
    "url": "https://www.ciperchile.cl/2026/11/20/la-suprema-desmantela-la-doctrina-rabat/?utm_source=rss&utm_medium=rss&utm_campaign=la-suprema-desmantela-la-doctrina-rabat",
    "date": "2026-11-21T02:34:37+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "5dc9493bf678",
-   "source": "France 24",
-   "title": "Jair Bolsonaro vuelve a ser hospitalizado, esta vez por una obstrucción intestinal",
-   "description": "El expresidente brasileño fue trasladado desde su reclusión domiciliaria hasta un hospital en Brasilia, luego de presentar fuertes dolores, que los médicos determinaron que se debían a una obstrucción “casi total” del intestino delgado, “con adherencias en la pared abdominal”. Se",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261121-jair-bolsonaro-vuelve-a-estar-hospitalizado-esta-vez-por-una-obstrucci%C3%B3n-intestinal",
-   "date": "2026-11-21T02:31:34+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "4219722dd7ca",
-   "source": "France 24",
-   "title": "¿Es GTA una apología del delito o una sátira del mundo moderno?",
-   "description": "El universo de Grand Theft Auto (GTA) ha estado rodeado de controversias desde su creación por la forma en que retrata el crimen, la violencia y los excesos de la sociedad contemporánea. Mientras algunos críticos consideran que el juego puede contribuir a la normalización de cond",
-   "url": "https://www.france24.com/es/video/20261121-es-gta-una-apolog%C3%ADa-del-delito-o-una-s%C3%A1tira-del-mundo-moderno",
-   "date": "2026-11-21T02:17:15+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "4a2414ebaee8",
-   "source": "France 24",
-   "title": "La ONU busca sucesor para Guterres: no hay consenso sobre el próximo secretario general",
-   "description": "La carrera por la sucesión de António Guterres al frente de la ONU sigue sin definirse. Un nuevo sondeo informal del Consejo de Seguridad terminó sin un candidato de consenso, pese a que el mandato del actual secretario general concluye el próximo 31 de diciembre. La costarricens",
-   "url": "https://www.france24.com/es/video/20261121-la-onu-busca-sucesor-para-guterres-no-hay-consenso-sobre-el-pr%C3%B3ximo-secretario-general",
-   "date": "2026-11-21T02:14:48+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "5de6086f19a5",
-   "source": "France 24",
-   "title": "Francia: la música toma las calles en las protestas estudiantiles",
-   "description": "En Francia, la música se ha convertido en una nueva forma de protesta. Tras un llamado difundido en redes sociales, músicos profesionales y aficionados decidieron sumarse a las manifestaciones estudiantiles para acompañar las movilizaciones con conciertos y presentaciones al aire",
-   "url": "https://www.france24.com/es/video/20261121-francia-la-m%C3%BAsica-toma-las-calles-en-las-protestas-estudiantiles",
-   "date": "2026-11-21T02:12:34+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -1292,6 +1272,16 @@
    "type": "Prensa"
   },
   {
+   "id": "c0b1d0f2478e",
+   "source": "Radio Cooperativa",
+   "title": "Deportes Copiapó vence a Antofagasta en la ida de cuartos por la Liguilla del Ascenso",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este fin de semana arranca la Liguilla de Ascenso 2026 con los partidos de ida de cuartos de final, a falta de conocer al último integrante de la postemporada. Sábado 21 de noviembre Deportes Copiapó 1-0 Deportes Antofagast",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/deportes-copiapo-vence-a-antofagasta-en-la-ida-de-cuartos-por-la/2026-11-20/123109.html",
+   "date": "2026-11-20T15:31:09+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
    "id": "fd38e370249d",
    "source": "Radio Cooperativa",
    "title": "[ESTADISTICAS] La tabla de posiciones de la Liga de Primera en la fecha 28",
@@ -1302,11 +1292,11 @@
    "type": "Prensa"
   },
   {
-   "id": "643f957d81d2",
+   "id": "db84dcf7358c",
    "source": "Radio Cooperativa",
-   "title": "Universidad de Concepción enfrenta a Ñublense en la fecha 28 de la Liga",
+   "title": "Universidad de Concepción cae ante Ñublense en la fecha 28 de la Liga",
    "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con la pelea por el \"Chile 2\", el descenso y el clásico de Colo Colo y Universidad Católica, La Liga de Primera desrrolla su fecha 28 este fin de semana. Sábado 21 de noviembre Coquimbo Unido 2-1 Everton. Finalizado. Estadi",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/universidad-de-concepcion-enfrenta-a-nublense-en-la-fecha-28-de-la-liga/2026-11-20/121911.html",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/universidad-de-concepcion-cae-ante-nublense-en-la-fecha-28-de-la-liga/2026-11-20/121911.html",
    "date": "2026-11-20T15:19:11+00:00",
    "category": "",
    "type": "Prensa"
@@ -1522,16 +1512,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e752377ba7f9",
-   "source": "Deutsche Welle",
-   "title": "La gran paradoja de Trump: aislar a Irán sin China ni Rusia",
-   "description": "Mientras Trump busca intensificar la presión económica sobre Irán, China sigue siendo su mayor comprador de petróleo y Rusia, un socio clave. Pero ambas potencias sopesan su apoyo a Teherán y sus intereses con EE. UU.",
-   "url": "https://www.dw.com/es/la-gran-paradoja-de-trump-aislar-a-irán-sin-china-ni-rusia/a-79995601?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-19T21:43:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "3381a52ce12f",
    "source": "BBC Mundo",
    "title": "Cómo una mujer fue drogada por su marido y violada por desconocidos durante 13 años en Reino Unido",
@@ -1642,16 +1622,6 @@
    "type": "Académica"
   },
   {
-   "id": "8bcb3aa0fef4",
-   "source": "Deutsche Welle",
-   "title": "El mensaje de Pierce Brosnan a Robert Pattinson tras convertirse en James Bond",
-   "description": "El intérprete de James Bond entre 1995 y 2002 dio la bienvenida al nuevo agente 007 y le deseó éxito en su aventura.",
-   "url": "https://www.dw.com/es/el-mensaje-de-pierce-brosnan-a-robert-pattinson-tras-convertirse-en-james-bond/a-79994161?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-19T15:25:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "9d04da33deee",
    "source": "The Guardian",
    "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
@@ -1659,16 +1629,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
    "date": "2026-11-19T13:52:10+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "78e0eef6849d",
-   "source": "Deutsche Welle",
-   "title": "México investiga el origen de un cuadro de Frida Kahlo que iba a subastarse en EE. UU.",
-   "description": "México pidió aplazar la venta de la obra de 1952, cuyo recorrido desde el Museo Frida Kahlo está bajo investigación.",
-   "url": "https://www.dw.com/es/méxico-investiga-el-origen-de-un-cuadro-de-frida-kahlo-que-iba-a-subastarse-en-ee-uu/a-79992141?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-19T13:23:00+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -1780,16 +1740,6 @@
    "date": "2026-11-19T12:00:00+00:00",
    "category": "Jurisprudencia",
    "type": "Oficial"
-  },
-  {
-   "id": "a83aa04befc5",
-   "source": "Deutsche Welle",
-   "title": "Suspendida por dopaje con EPO: campeona mundial de maratón, Peres Jepchirchir",
-   "description": "La vigente campeona del mundo de maratón, la keniana Peres Jepchirchir, recibió una suspensión de tres años por dopaje, según la Unidad de Integridad del Atletismo (AIU). Otros dos corredores del país fueron sancionados.",
-   "url": "https://www.dw.com/es/suspendida-por-dopaje-con-epo-campeona-mundial-de-maratón-peres-jepchirchir/a-79989137?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-19T11:12:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
   },
   {
    "id": "8dcf7086dfb8",
