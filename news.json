@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-22T08:11:41.353041+00:00",
+ "updated": "2026-11-22T09:43:16.595449+00:00",
  "items": [
+  {
+   "id": "dadef3c1c27f",
+   "source": "BBC Mundo",
+   "title": "La ciudad reconstruida tras unas devastadoras riadas que se convirtió en escaparate del gobierno del líder rebelde libio",
+   "description": "La extraordinaria reconstrucción de Derna está siendo utilizada por Khalifa Haftar y sus hijos como ejemplo para el resto de Libia.",
+   "url": "https://www.bbc.com/mundo/articles/cm8x0q2kv42lo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T09:34:26+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "e43af9996f50",
+   "source": "The Guardian",
+   "title": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
+   "description": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU Theresa May spent three years as prime minister (2016-2019) trying to negotiate the Brexit deal, before resigning. She has to",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
+   "date": "2026-11-22T09:22:41+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "5502b0489624",
+   "source": "The Guardian",
+   "title": "Indian opposition party’s youth wing warns of more Meta protests after police clashes",
+   "description": "Members of Congress party clashed with police outside tech company’s offices on Friday The youth wing of India’s main opposition Congress party warned of more protests against Meta’s removal of some of its members’ ⁠accounts, ⁠a day after clashing with ​police outside the tech fi",
+   "url": "https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad",
+   "date": "2026-11-22T09:14:27+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "ed26822563ed",
+   "source": "Al Jazeera",
+   "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+   "description": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+   "date": "2026-11-22T09:06:27+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "5fdbf18f1f3e",
+   "source": "Deutsche Welle",
+   "title": "China acusa restricción a sus compañías telefónicas en EE.UU.",
+   "description": "Washington busca limitar el acceso a números telefónicos estadounidenses por parte de empresas que estarían detrás de llamadas automatizadas. Los principales afectados son las firmas chinas.",
+   "url": "https://www.dw.com/es/china-acusa-restricción-a-sus-compañías-telefónicas-en-ee-uu/a-80012765?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-22T09:01:00+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "8d363965f4d9",
+   "source": "Al Jazeera",
+   "title": "Gukesh vs Sindarov: The youngest World Chess Championship in history",
+   "description": "India's Gukesh defends his title against Uzbekistan’s Sindarov in up to 14 games in Geneva from November 22.",
+   "url": "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss",
+   "date": "2026-11-22T08:11:40+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "c16deaf71de6",
+   "source": "Deutsche Welle",
+   "title": "La industria automotriz alemana busca reinventarse para sobrevivir",
+   "description": "Los fabricantes alemanes de automóviles están recortando sus inversiones en el país, lo que provoca de nuevo gran inquietud sobre el futuro del sector automotriz.",
+   "url": "https://www.dw.com/es/la-industria-automotriz-alemana-busca-reinventarse-para-sobrevivir/a-80006050?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-22T08:08:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "33e1c2b80cd2",
+   "source": "The Guardian",
+   "title": "Highly lucrative: Bank of England directors illegally profited from post-abolition enslavement in Cuba",
+   "description": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people • Slave-trade wealth was embedded in Britain’s financial system, research finds British businesses run by long-serving directors of the Ban",
+   "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
+   "date": "2026-11-22T08:00:22+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
   {
    "id": "05a5d3417405",
    "source": "Al Jazeera",
@@ -44,7 +124,7 @@
   {
    "id": "29d05c792be4",
    "source": "The Guardian",
-   "title": "Fire at confectionary factory in Indonesia leaves at least three dead and dozens missing",
+   "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
    "description": "Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones A fire at a confectionery factory west of Jakarta has killed three people with 36 remaining missing, an Indonesian rescue official says. Drone footage showed large parts of ",
    "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
    "date": "2026-11-22T07:11:17+00:00",
@@ -115,7 +195,7 @@
    "id": "0f8218593eed",
    "source": "The Guardian",
    "title": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
-   "description": "The effects of the continent’s coming polls will be felt far and wide – and could well turn into ‘key tests’ of the bloc’s resilience In late 1998, Tony Blair was prime minister of Britain, Lionel Jospin was prime minister of France, and Gerhard Schröder had just been elected cha",
+   "description": "As nationalist, Eurosceptic parties surge in four of the bloc’s biggest member states, the coming year’s polls could test its resilience like never before In late 1998, Tony Blair was prime minister of Britain, Lionel Jospin was prime minister of France, and Gerhard Schröder had ",
    "url": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
    "date": "2026-11-22T06:00:18+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -195,7 +275,7 @@
    "id": "e28898bcba1b",
    "source": "Al Jazeera",
    "title": "COP31 climate talks close to final deal, summit president says",
-   "description": "New draft would acknowledge for the first time that global ⁠warming is on course to pass 1.5C.",
+   "description": "New draft would acknowledge for the first time that global ⁠⁠⁠⁠⁠⁠⁠⁠warming is on course to pass 1.5°C.",
    "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
    "date": "2026-11-22T04:51:35+00:00",
    "category": "Oriente Medio",
@@ -544,7 +624,7 @@
   {
    "id": "ef1589916afc",
    "source": "BBC Mundo",
-   "title": "Kate Middleton habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC",
+   "title": "La princesa de Gales, Kate Middleton, habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC",
    "description": "\"Hay una faceta mucho, mucho más profunda de cómo un cáncer te cambia\", dice la Princesa de Gales en el documental.",
    "url": "https://www.bbc.com/mundo/articles/c6gregq1xynwo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-21T22:57:24+00:00",
@@ -599,26 +679,6 @@
    "url": "https://www.ex-ante.cl/negocios/energia-chilena-lader-energy-data-centers/",
    "date": "2026-11-21T21:48:33+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "2cdac2ff54a1",
-   "source": "Al Jazeera",
-   "title": "Bahrain says Iranian attack causes a fire at an industrial facility",
-   "description": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
-   "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-   "date": "2026-11-21T21:31:03+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "730b0a0b4cec",
-   "source": "Al Jazeera",
-   "title": "Impunity fuels surge in settler violence across occupied West Bank",
-   "description": "Impunity fuels surge in settler violence across occupied West Bank",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
-   "date": "2026-11-21T21:11:54+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -902,16 +962,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d561e315968c",
-   "source": "The Guardian",
-   "title": "Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal",
-   "description": "Documentary records Catherine taking on Three Peaks challenge and finding ‘sense of hope alongside uncertainty’ The Princess of Wales has spoken candidly about the impact of her cancer diagnosis in a BBC documentary to be aired later this month. “Cancer does change you,” Catherin",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
-   "date": "2026-11-21T14:42:56+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "7bc520895945",
    "source": "Deutsche Welle",
    "title": "Drones ucranianos atacan carguero ruso en el golfo de Finlandia",
@@ -1019,16 +1069,6 @@
    "url": "https://www.bbc.com/mundo/articles/c6n90g8p3nlwo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-21T12:21:16+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "b465365b01cc",
-   "source": "Deutsche Welle",
-   "title": "Drones rusos atacan central térmica en Ucrania dejando dos muertos",
-   "description": "Las fuerzas rusas utilizaron diferentes tipos de drones para afectar el suministro eléctrico ucraniano.",
-   "url": "https://www.dw.com/es/drones-rusos-atacan-central-térmica-en-ucrania-dejando-dos-muertos/a-80009319?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-21T11:47:00+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1502,16 +1542,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f9d01c85d745",
-   "source": "BBC Mundo",
-   "title": "La hipopótamo Fiona muere tras tragarse el gorro de un visitante en el zoológico de Cincinnati",
-   "description": "\"Luchó hasta que ya no pudo más\", declaró el zoológico de Cincinnati en un comunicado. Fiona enfermó pocos días después del incidente.",
-   "url": "https://www.bbc.com/mundo/articles/c64gn0rw8447o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T22:58:28+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "6b0149b04f5f",
    "source": "BBC Mundo",
    "title": "\"Se están quedando encerradas en sus casas sin un futuro\": el drama de las personas con discapacidad afectadas por las políticas de Milei en Argentina",
@@ -1620,16 +1650,6 @@
    "date": "2026-11-19T15:32:28+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "9d04da33deee",
-   "source": "The Guardian",
-   "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
-   "description": "Judgment finds ‘intent to destroy a substantial part of the Rohingya population’ after case seen as critical test for dealing with most serious of state crimes Myanmar committed genocide against its Rohingya minority during a 2017 military campaign, the world’s highest court has ",
-   "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
-   "date": "2026-11-19T13:52:10+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
   },
   {
    "id": "3285c9dfaaec",
@@ -1809,16 +1829,6 @@
    "url": "https://www.ciperchile.cl/2026/11/18/radar-18-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-18-11-26",
    "date": "2026-11-18T23:14:07+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "d64185c7ba46",
-   "source": "The Guardian",
-   "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
-   "description": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Mo",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
-   "date": "2026-11-18T22:31:41+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
