@@ -1,6 +1,166 @@
 {
- "updated": "2026-11-22T13:52:41.164150+00:00",
+ "updated": "2026-11-22T14:44:13.788492+00:00",
  "items": [
+  {
+   "id": "417ed55a3cad",
+   "source": "Río en Línea",
+   "title": "Los Ríos: Desisten de tramitación ambiental de Parque Eólico El Rancho y alistan su reingreso",
+   "description": "La compañía Fotowatio Renewable Ventures (FRV) ha presentado el desistimiento del Estudio de Impacto Ambiental (EIA) del Parque Eólico El Rancho, con el propósito de completar y fortalecer sus antecedentes técnicos, ambientales y territoriales, para su posterior reingreso al Sist",
+   "url": "https://www.rioenlinea.cl/los-rios-desisten-de-tramitacion-ambiental-de-parque-eolico-el-rancho-y-alistan-su-reingreso/",
+   "date": "2026-11-22T14:27:52+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "03d9bfd664ca",
+   "source": "Radio Cooperativa",
+   "title": "Las postales que dejó el regreso de Ed Sheeran a Chile",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/las-postales-que-dejo-el-regreso-de-ed-sheeran-a-chile/2026-11-22/112644.html",
+   "date": "2026-11-22T14:26:44+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "5137b2967402",
+   "source": "Ex-Ante",
+   "title": "Criteria: Kast sube aprobación a 23%, mientras que Poduje y Chomali son los ministros mejor evaluados (Lea aquí la encuesta)",
+   "description": "La aprobación del mandatario creció cinco puntos en una semana, tras haber bajado por primera vez de la barrera de 20 puntos. Por otro lado,…",
+   "url": "https://www.ex-ante.cl/politica/criteria-kast-aprobacion-poduje-chomali/",
+   "date": "2026-11-22T14:24:07+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "23ab274eb1e5",
+   "source": "Al Jazeera",
+   "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+   "description": "Military officials tour underground facility in show of military capabilities despite US attacks.",
+   "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+   "date": "2026-11-22T14:20:41+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b5817ce51b02",
+   "source": "Radio Cooperativa",
+   "title": "Incendio en taller y una vivienda dejó 15 damnificados y un bombero herido en Independencia",
+   "description": "Al menos 15 personas damnificadas y un bombero lesionado dejó un incendio que afectó a un recinto industrial y una vivienda en la capitalina comuna de Independencia la mañana de este domingo. Según la información entregada, la emergencia comenzó en el cruce de Las Enredaderas con",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/incendios/incendio-en-taller-y-una-vivienda-dejo-15-damnificados-y-un-bombero/2026-11-22/111958.html",
+   "date": "2026-11-22T14:19:58+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "d7941775770c",
+   "source": "France 24",
+   "title": "Corea del Sur: escándalo por fraude con IA en exámenes provoca la renuncia del ministro de Educación",
+   "description": "El ministro de Educación de Corea del Sur renunció este 22 de noviembre tras un escándalo de fraude académico que estalló días antes de los exámenes de ingreso a la universidad. La polémica surgió después de que el aspirante con la calificación más alta en un examen nacional para",
+   "url": "https://www.france24.com/es/video/20261122-corea-del-sur-esc%C3%A1ndalo-por-fraude-con-ia-en-ex%C3%A1menes-provoca-la-renuncia-del-ministro-de-educaci%C3%B3n",
+   "date": "2026-11-22T14:14:01+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "a4a1c45b0b26",
+   "source": "France 24",
+   "title": "Inusual tormenta eléctrica en Brasil deja al menos tres muertos y miles de construcciones afectadas",
+   "description": "Vigas dobladas, viviendas derrumbadas y techos arrasados. Una inusual tormenta eléctrica azotó una localidad del estado brasileño de Río Grande do Sul, dejando al menos tres muertos y miles de construcciones afectadas. El Instituto Nacional de Meteorología informó que el fenómeno",
+   "url": "https://www.france24.com/es/video/20261122-inusual-tormenta-el%C3%A9ctrica-en-brasil-deja-al-menos-tres-muertos-y-miles-de-construcciones-afectadas",
+   "date": "2026-11-22T14:11:28+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "d2e0aaaea9da",
+   "source": "France 24",
+   "title": "COP31, sin acuerdo sobre combustibles fósiles: ¿fracasó la cumbre de Turquía?",
+   "description": "La Unión Europea, Panamá, las Islas Marshall y otros países rechazaron el borrador del acuerdo final de la COP31 porque no incluye ninguna referencia a los combustibles fósiles ni a la transición para abandonar su uso. Tras más de 44 horas de prórroga, las negociaciones continúan",
+   "url": "https://www.france24.com/es/video/20261122-cop31-sin-acuerdo-sobre-combustibles-f%C3%B3siles-fracas%C3%B3-la-cumbre-de-turqu%C3%ADa",
+   "date": "2026-11-22T14:09:23+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "65eaca0c4068",
+   "source": "Al Jazeera",
+   "title": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
+   "description": "A global manhunt for one of the internet's earliest paedophile rings. How did police finally bring it down?",
+   "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
+   "date": "2026-11-22T14:08:28+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2864b1238db2",
+   "source": "Radio Cooperativa",
+   "title": "Detective frustró a disparos encerrona a exfuncionario PDI en Ñuñoa",
+   "description": "Un detective de la Policía de Investigaciones (PDI) frustró la madrugada de este domingo un intento de encerrona a un exagente de la misma institución en la capitalina comuna de Ñuñoa. El ilícito ocurrió en avenida Américo Vespucio , sobre las pistas en dirección al sur, mientras",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/robo-de-vehiculos/detective-frustro-a-disparos-encerrona-a-exfuncionario-pdi-en-nunoa/2026-11-22/110134.html",
+   "date": "2026-11-22T14:01:34+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "49f844ab3207",
+   "source": "Radio Cooperativa",
+   "title": "La celebración de Max Verstappen tras el frenético GP de Las Vegas",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/automovilismo/formula-1/la-celebracion-de-max-verstappen-tras-el-frenetico-gp-de-las-vegas/2026-11-22/110102.html",
+   "date": "2026-11-22T14:01:02+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "910d21600f6b",
+   "source": "The Guardian",
+   "title": "Potty-mouthed MPs ranked as Australian parliament sets new swearing record",
+   "description": "One serial sweary offender, Jacqui Lambie, says it wouldn’t be an Australian parliament ‘without a few swear words thrown in’ Want to get more charts in your inbox every fortnight? Sign up for The Crunch here When Liberal MP Garth Hamilton stormed out of parliament in June, slamm",
+   "url": "https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record",
+   "date": "2026-11-22T14:00:32+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "6090af3a61f1",
+   "source": "Al Jazeera",
+   "title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
+   "description": "Baghdad's deal with Kataib Hezbollah may not end the Iran-backed militia's influence over the town.",
+   "url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
+   "date": "2026-11-22T14:00:31+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "996053ecd437",
+   "source": "The Guardian",
+   "title": "Australia urged to wean off imported fossil fuels amid global supply shocks",
+   "description": "Grattan Institute report calls on government to ‘seize’ opportunity to cap diesel tax credits, introduce EV subsidies for less wealthy’ and build ‘clean’ refineries Get our daily political email , free app or daily news podcast Capping lucrative diesel tax handouts to big busines",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks",
+   "date": "2026-11-22T14:00:29+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "4d5fcc9dffd1",
+   "source": "BBC Mundo",
+   "title": "Pasé más de 10 años llevando por las montañas de Colombia los mensajes secretos que hicieron posible el acuerdo de paz entre el gobierno y las FARC",
+   "description": "Henry Acosta Patiño fue durante años el mensajero oculto entre el gobierno de Colombia y las FARC. Su papel en el detrás de escenas de las negociaciones fue clave para el acuerdo de paz firmado hace 10 años.",
+   "url": "https://www.bbc.com/mundo/articles/ckz74v0n4rydo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T14:00:13+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "81feb8d47be4",
+   "source": "Radio Cooperativa",
+   "title": "Trump dijo que ciberataque al FBI tal vez demuestre que Biden le robó la elección de 2020",
+   "description": "El presidente estadounidense, Donald Trump, confirmó que el Buró Federal de Investigaciones (FBI) sufrió un ciberataque dirigido contra su Centro Nacional de Información Criminal, pero agregó que podría servir para obtener información valiosa que de otro modo no se habría conocid",
+   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/donald-trump/trump-dijo-que-ciberataque-al-fbi-tal-vez-demuestre-que-biden-le-robo-la/2026-11-22/105427.html",
+   "date": "2026-11-22T13:54:27+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
   {
    "id": "f2d21d00bf97",
    "source": "Ex-Ante",
@@ -9,6 +169,26 @@
    "url": "https://www.ex-ante.cl/entrevista/jorge-claro-libro-crecimiento-chile/",
    "date": "2026-11-22T13:50:49+00:00",
    "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "161685f4766a",
+   "source": "Radio Cooperativa",
+   "title": "Isabel Allende pidió cautela tras la victoria demócrata en EEUU: \"No tenemos todo ganado\"",
+   "description": "La escritora chileno-estadounidense Isabel Allende advirtió en una entrevista con EFE que el \"tsunami azul\" de las elecciones de medio mandato en Estados Unidos , en las que los demócratas conquistaron de manera abrumadora el Congreso, no significa que aquellos que, como ella, co",
+   "url": "https://www.cooperativa.cl/noticias/cultura/literatura/isabel-allende/isabel-allende-pidio-cautela-tras-la-victoria-democrata-en-eeuu-no/2026-11-22/105022.html",
+   "date": "2026-11-22T13:50:22+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "8ea874bdaad3",
+   "source": "Al Jazeera",
+   "title": "NFL’s Jaylen Harrell hospitalised and investigated for assault in car crash",
+   "description": "Police in US investigating whether Tennessee Titans defensive end assaulted rideshare driver before collision.",
+   "url": "https://www.aljazeera.com/sports/2026/11/22/jaylen-harrell-car-accident-nfl-tennessee-titans-american-football?traffic_source=rss",
+   "date": "2026-11-22T13:46:45+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -29,6 +209,26 @@
    "url": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
    "date": "2026-11-22T13:36:01+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "7c729425b0e0",
+   "source": "Al Jazeera",
+   "title": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
+   "description": "Laila Abdulaziz fought society to become a pioneering Kuwaiti female musician.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/life-work-of-kuwaits-first-female-composer-featured-at-doha-film-festival?traffic_source=rss",
+   "date": "2026-11-22T13:35:09+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "3d7acc56e283",
+   "source": "Al Jazeera",
+   "title": "Croatia outraged after psychiatric patient dies from alleged hospital abuse",
+   "description": "Eight psychiatric workers have been arrested in Croatia on murder charges after images emerged of a patient being abused",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/croatia-outraged-after-psychiatric-patient-dies-from-alleged-hospital-abuse?traffic_source=rss",
+   "date": "2026-11-22T13:31:40+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -69,6 +269,16 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss",
    "date": "2026-11-22T13:26:19+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "4c3e6eeec95d",
+   "source": "Radio Cooperativa",
+   "title": "Defensor en la AC: \"El ministro Rabat está convencido de que su interpretación fue correcta\"",
+   "description": "El ministro de Justicia, Fernando Rabat, respondió formalmente a la acusación constitucional presentada en su contra por las polémicas rebajas de condena a pedófilos y criminales de lesa humanidad, y cuestionó que los parlamentarios busquen acusarlo políticamente por no compartir",
+   "url": "https://www.cooperativa.cl/noticias/pais/judicial/defensor-en-la-ac-el-ministro-rabat-esta-convencido-de-que-su/2026-11-22/102512.html",
+   "date": "2026-11-22T13:25:12+00:00",
+   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -352,26 +562,6 @@
    "type": "Prensa"
   },
   {
-   "id": "00693a3d43fd",
-   "source": "Radio Cooperativa",
-   "title": "Finlandia continúa intentando apagar incendio en barco ruso atacado por Ucrania",
-   "description": "Las labores de extinción del incendio que afecta al barco ruso Sparta II, atacado el sábado por drones ucranianos, según Moscú y Helsinki, continúan este domingo en aguas del golfo de Finlandia, informó la Guardia Fronteriza del país nórdico. \"Las operaciones de rescate en el buq",
-   "url": "https://www.cooperativa.cl/noticias/mundo/europa/finlandia/finlandia-continua-intentando-apagar-incendio-en-barco-ruso-atacado-por/2026-11-22/083658.html",
-   "date": "2026-11-22T11:36:58+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "a3ffb4dc82a3",
-   "source": "Radio Cooperativa",
-   "title": "COP31 inició su sesión de clausura con escasas posibilidades de un pacto de consenso",
-   "description": "La presidencia turca de la Cumbre del Clima de Antalya (COP31) abrió este domingo su sesión plenaria de clausula , con más de 40 horas de retraso de su plazo oficial de cierre y escasas posibilidades de llegar a un pacto climático global de consenso tras casi 13 días de negociaci",
-   "url": "https://www.cooperativa.cl/noticias/sociedad/medioambiente/cumbres-cop/cop31-inicio-su-sesion-de-clausura-con-escasas-posibilidades-de-un-pacto/2026-11-22/083058.html",
-   "date": "2026-11-22T11:30:58+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "e15c0e580d67",
    "source": "Al Jazeera",
    "title": "Russian ship attacked by drone in Baltic Sea off Finland",
@@ -379,16 +569,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
    "date": "2026-11-22T11:15:27+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "7a4535f4cae5",
-   "source": "Radio Cooperativa",
-   "title": "India: Al menos 16 muertos y casi 600 hospitalizados por beber alcohol adulterado",
-   "description": "Al menos 16 personas murieron y cerca de 600 fueron hospitalizadas desde el miércoles tras consumir alcohol presuntamente adulterado en el distrito de Chandel, en el estado nororiental indio de Manipur, informó en una rueda de prensa este fin de semana el comisionado estatal de I",
-   "url": "https://www.cooperativa.cl/noticias/mundo/india/india-al-menos-16-muertos-y-casi-600-hospitalizados-por-beber-alcohol/2026-11-22/081426.html",
-   "date": "2026-11-22T11:14:26+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -572,26 +752,6 @@
    "type": "Prensa"
   },
   {
-   "id": "96dfe3395928",
-   "source": "Al Jazeera",
-   "title": "Indonesia factory fire kills three, 36 missing",
-   "description": "At least 15 people rescued, including 4 taken to hospital, as authorities say cause of the fire is under investigation.",
-   "url": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
-   "date": "2026-11-22T07:46:35+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "61ac2054f485",
-   "source": "Al Jazeera",
-   "title": "Wembanyama scores 50 points, bags 19 rebounds in Spurs’ 14th win of season",
-   "description": "Wembanyama was just shy of his career-high score of 52 points, set in a victory over Dallas on November 4.",
-   "url": "https://www.aljazeera.com/sports/2026/11/22/wembanyama-scores-50-points-bags-19-rebounds-in-spurs-14th-win-of-season?traffic_source=rss",
-   "date": "2026-11-22T07:44:37+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "29d05c792be4",
    "source": "The Guardian",
    "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
@@ -599,46 +759,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
    "date": "2026-11-22T07:11:17+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "3e72878cddc4",
-   "source": "Al Jazeera",
-   "title": "Why Somalia’s president turned against his former ally, the UAE",
-   "description": "Behind Somalia's break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
-   "url": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
-   "date": "2026-11-22T06:59:59+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "7ddf795522fb",
-   "source": "Al Jazeera",
-   "title": "The European revolt may be coming to the UK",
-   "description": "There is enough justified anger among the British youth to spark a wave of mass protests.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
-   "date": "2026-11-22T06:59:59+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "91b64c66a419",
-   "source": "Al Jazeera",
-   "title": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
-   "description": "Trinity Rodman left in tears after scoring Spirit's only goal as DiBernardo and Debinha give Current a closely fought win.",
-   "url": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
-   "date": "2026-11-22T06:40:18+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "88274b1aa3c1",
-   "source": "Al Jazeera",
-   "title": "What Sandpapergate reveals about Australian cricket",
-   "description": "A toxic culture of winning at any cost has been hiding behind the myth of ‘mateship’.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/22/what-sandpapergate-reveals-about-australian-cricket?traffic_source=rss",
-   "date": "2026-11-22T06:32:43+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -692,26 +812,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0a27351f6983",
-   "source": "Radio Cooperativa",
-   "title": "México capturó a El Chapo Isidro, uno de los fugitivos más buscados por EE.UU.",
-   "description": "El secretario de Seguridad de México, Omar García Harfuch , confirmó este sábado la detención de Fausto Isidro, alias El Chapo Isidro , uno de los 10 fugitivos más buscados por Estados Unidos, durante un operativo nocturno en el estado de Sinaloa (noroeste), que contó con la coor",
-   "url": "https://www.cooperativa.cl/noticias/mundo/mexico/narcos/mexico-capturo-a-el-chapo-isidro-uno-de-los-fugitivos-mas-buscados-por/2026-11-22/011416.html",
-   "date": "2026-11-22T04:14:16+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "17a2d9707711",
-   "source": "Río en Línea",
-   "title": "Gobiernos regionales: exigir presupuesto y atribuciones, ofrecer gestión y transparencia",
-   "description": "En momentos en que se discute el Presupuesto de la Nación para 2027, los gobiernos regionales enfrentan un escenario complejo, marcado por restricciones fiscales, incertidumbre económica y crecientes demandas ciudadanas. Sin embargo, este contexto también representa una oportunid",
-   "url": "https://www.rioenlinea.cl/gobiernos-regionales-exigir-presupuesto-y-atribuciones-ofrecer-gestion-y-transparencia/",
-   "date": "2026-11-22T03:36:26+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "c6a5ac38c31d",
    "source": "Deutsche Welle",
    "title": "Una huelga nacional a la que se sumarán los controladores paralizará el lunes el tráfico aéreo en Bélgica",
@@ -762,23 +862,13 @@
    "type": "Prensa"
   },
   {
-   "id": "acf03af1ba2c",
-   "source": "Radio Cooperativa",
-   "title": "California indaga la presunta venta ilegal de chips de Nvidia a China",
-   "description": "El estado de California abrió una investigación contra Nvidia por la presunta venta ilegal de chips avanzados a China , apuntando a posibles delitos penales, en medio de la peor crisis en la historia de la empresa . De acuerdo a CNN , el fiscal general de California, Rob Bonta , ",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/california-indaga-la-presunta-venta-ilegal-de-chips-de-nvidia-a-china/2026-11-21/223202.html",
-   "date": "2026-11-22T01:32:02+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "5535994cb216",
-   "source": "The Guardian",
-   "title": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
-   "description": "State faces electricity supply gap when Yallourn coal-fired power station closes in 2028 as experts warn neither Labor nor the Coalition has adequate plans Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Victoria’s electricity supply will b",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
-   "date": "2026-11-22T01:00:13+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "id": "b99527a3408d",
+   "source": "France 24",
+   "title": "Más de 7.000 afectados por graves inundaciones en Galápagos asociadas a El Niño",
+   "description": "Las lluvias torrenciales e inundaciones provocadas por El Niño dejan 7.425 damnificados y 1.040 viviendas afectadas en las islas Galápagos desde que Ecuador declaró la emergencia el 29 de agosto. Los pobladores del archipiélago intentan rescatar sus pertenencias entre el agua, mi",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261122-m%C3%A1s-de-7-000-afectados-por-graves-inundaciones-en-gal%C3%A1pagos-asociadas-a-el-ni%C3%B1o",
+   "date": "2026-11-22T01:44:21+00:00",
+   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -799,16 +889,6 @@
    "url": "https://www.france24.com/es/deportes/20261122-boca-juniors-derrota-a-atl%C3%A9tico-mineiro-y-levanta-la-copa-sudamericana",
    "date": "2026-11-22T00:34:52+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "77a3023f6ae8",
-   "source": "The Guardian",
-   "title": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92",
-   "description": "Controversial figure frequently took positions against drug use, abortion and homosexuality, but in later years supported legislation expunging homosexual convictions Get our daily political email , free app or daily news podcast The former New South Wales MP and longstanding fig",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92",
-   "date": "2026-11-22T00:26:35+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1072,16 +1152,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a3d729e0637b",
-   "source": "Ex-Ante",
-   "title": "[Telón de Fondo] La trama del caso de las firmas falsas en el Senado. Por Cristián Bofill",
-   "description": "“Firmas falsas: La frase que mejor retrata el episodio es la del senador Mirosevic: ‘esto no es tan fuera de lo común’. Bueno, si no…",
-   "url": "https://www.ex-ante.cl/telon-de-fondo/trama-del-caso-firmas-falsas-senado/",
-   "date": "2026-11-21T16:46:43+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "ec37bef41a18",
    "source": "The Guardian",
    "title": "International UN talks on controlling use of autonomous weapons collapse",
@@ -1089,46 +1159,6 @@
    "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
    "date": "2026-11-21T16:36:11+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "2914da9c08ad",
-   "source": "France 24",
-   "title": "Un ataque israelí mata a tres palestinos en un vehículo que transportaba alimentos en Gaza",
-   "description": "Tres palestinos murieron este sábado en un ataque israelí contra un vehículo que transportaba alimentos en la ciudad de Gaza, según el ministerio de Salud del territorio y testigos. World Central Kitchen negó que el vehículo estuviera vinculado con su organización. Otro palestino",
-   "url": "https://www.france24.com/es/medio-oriente/20261121-un-ataque-israel%C3%AD-mata-a-tres-palestinos-en-un-veh%C3%ADculo-que-transportaba-alimentos-en-gaza",
-   "date": "2026-11-21T16:36:09+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "95bb926a61a4",
-   "source": "France 24",
-   "title": "Francia protesta al ritmo de la música: orquestas ponen banda sonora al descontento social",
-   "description": "Desde septiembre, orquestas sinfónicas y otros grupos musicales en Francia han acompañado las movilizaciones estudiantiles y ahora continúan respaldando, a través de la música, las protestas de trabajadores, funcionarios públicos, jubilados y chalecos amarillos. Nuestras periodis",
-   "url": "https://www.france24.com/es/video/20261121-francia-protesta-al-ritmo-de-la-m%C3%BAsica-orquestas-ponen-banda-sonora-al-descontento-social",
-   "date": "2026-11-21T14:12:01+00:00",
-   "category": "Administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "2dc2d4d65494",
-   "source": "France 24",
-   "title": "Temperaturas inusualmente altas en Bolivia amenazan los glaciares y ecosistemas andinos",
-   "description": "En las últimas semanas, La Paz y El Alto, ciudades bolivianas ubicadas a más de 3.600 metros sobre el nivel del mar, han registrado temperaturas inusualmente altas. Este fenómeno, vinculado al cambio climático, preocupa a científicos y ambientalistas por sus posibles efectos sobr",
-   "url": "https://www.france24.com/es/video/20261121-temperaturas-inusualmente-altas-en-bolivia-amenazan-los-glaciares-y-ecosistemas-andinos",
-   "date": "2026-11-21T14:02:33+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "110eb3959bdd",
-   "source": "France 24",
-   "title": "Dinamarca acusa a Rusia de planear el asesinato de un rapero ucraniano en su territorio",
-   "description": "Dinamarca, uno de los principales aliados de Ucrania, acusó a Moscú de haber organizado un intento de asesinato contra un rapero ucraniano en su territorio y anunció la expulsión del agregado de Defensa de la Embajada rusa. Según la Policía danesa, el Servicio Federal de Segurida",
-   "url": "https://www.france24.com/es/video/20261121-dinamarca-acusa-a-rusia-de-planear-el-asesinato-de-un-rapero-ucraniano-en-su-territorio",
-   "date": "2026-11-21T14:02:22+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1332,16 +1362,6 @@
    "type": "Prensa"
   },
   {
-   "id": "11e59e165581",
-   "source": "Radio Cooperativa",
-   "title": "Quiere tumbar al campeón: La formación de la UC para la visita a Colo Colo",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/quiere-tumbar-al-campeon-la-formacion-de-la-uc-para-la-visita-a-colo/2026-11-20/162246.html",
-   "date": "2026-11-20T19:22:46+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "9801695d7db1",
    "source": "BBC Mundo",
    "title": "En qué consiste y a quién beneficia el acuerdo de \"reinicio\" de las relaciones entre Reino Unido y la Unión Europea tras el Brexit",
@@ -1389,16 +1409,6 @@
    "url": "https://www.dw.com/es/¿hemos-perdido-la-oportunidad-de-frenar-el-cambio-climático/a-80005084?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-20T17:05:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "0d5b54b17d0b",
-   "source": "Radio Cooperativa",
-   "title": "Los resultados de la ida de cuartos en la Liguilla del Ascenso",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este fin de semana arranca la Liguilla de Ascenso 2026 con los partidos de ida de cuartos de final, a falta de conocer al último integrante de la postemporada. Sábado 21 de noviembre Deportes Copiapó 1-1 Deportes Antofagast",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/los-resultados-de-la-ida-de-cuartos-en-la-liguilla-del-ascenso/2026-11-20/123109.html",
-   "date": "2026-11-20T15:31:09+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -1529,16 +1539,6 @@
    "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
    "date": "2026-11-20T09:03:20+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "9e9164d99bec",
-   "source": "BBC Mundo",
-   "title": "Por qué la condena por genocidio contra Myanmar es histórica y podría tener repercusiones de gran alcance para otros países",
-   "description": "Los abogados estudiarán cómo Gambia logró demostrar que Myanmar tenía la intención de cometer genocidio, un aspecto crucial del caso, según el editor internacional de la BBC.",
-   "url": "https://www.bbc.com/mundo/articles/c5y4jve4zypxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T08:23:18+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
