@@ -1,6 +1,126 @@
 {
- "updated": "2026-11-22T15:39:26.014335+00:00",
+ "updated": "2026-11-22T16:40:13.054712+00:00",
  "items": [
+  {
+   "id": "1cdce1033d71",
+   "source": "France 24",
+   "title": "El escándalo por el fraude con IA en exámenes universitarios fulmina a un ministro en Corea del Sur",
+   "description": "El ministro de Educación de Corea del Sur, Choi Kyo-jin, presentó su dimisión este 22 de noviembre, responsabilizándose por la falta de preparación para hacer frente a posibles trampas con dispositivos e inteligencia artificial en los cruciales exámenes universitarios, que se cel",
+   "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261122-el-esc%C3%A1ndalo-por-el-fraude-con-ia-en-ex%C3%A1menes-universitarios-fulmina-a-un-ministro-en-corea-del-sur",
+   "date": "2026-11-22T16:20:06+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "866aee033560",
+   "source": "Radio Cooperativa",
+   "title": "El mensaje de Palacios tras ganar la Sudamericana: \"¿Será que tengo que declarar esta medalla?\"",
+   "description": "El chileno Carlos Palacios celebró con todo la conquista de la Copa Sudamericana junto a Boca Juniors y en los festejos , el volante lanzó un desafiante e irónico comentario. \"¿Será que tengo que ir a declarar por ganar esta también?\" , expresó Palacios, mientras exhibía su medal",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/boca-juniors/el-mensaje-de-palacios-tras-ganar-la-sudamericana-sera-que-tengo-que/2026-11-22/131710.html",
+   "date": "2026-11-22T16:17:10+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "843fd11d19a3",
+   "source": "The Guardian",
+   "title": "Cop31 climate talks break down as key deal rejected",
+   "description": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK and allies in the developing world rejected what they called an unacceptable deal",
+   "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+   "date": "2026-11-22T16:14:46+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "4a00c21f8f41",
+   "source": "The Guardian",
+   "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+   "description": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit could have been forg",
+   "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+   "date": "2026-11-22T16:12:54+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "b814bce9b3e0",
+   "source": "Radio Cooperativa",
+   "title": "PDI detuvo a cinco sujetos que trasladaban 60 kilos de cocaína a la capital bajo \"punta de lanza\"",
+   "description": "La PDI incautó más de 60 kilos de cocaína y detuvo a cinco sujetos de una banda criminal narco que trasladaba droga bajo la modalidad de \"punta de lanza\" hacia la capital del país, con el fin de distribuirla. El hecho quedó al descubierto luego que un binomio canino -dúo formado ",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/drogas/pdi-detuvo-a-cinco-sujetos-que-trasladaban-60-kilos-de-cocaina-a-la/2026-11-22/131202.html",
+   "date": "2026-11-22T16:12:02+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "52798b71dc8a",
+   "source": "Al Jazeera",
+   "title": "Canada’s PM appears next to Trump impersonator at press dinner",
+   "description": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
+   "date": "2026-11-22T16:06:46+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "adf30b11b19e",
+   "source": "Radio Cooperativa",
+   "title": "Marcador Virtual: Colo Colo vs. Universidad Católica",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/marcador-virtual-colo-colo-vs-universidad-catolica/2026-11-22/125615.html",
+   "date": "2026-11-22T15:56:15+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "0ec424201b16",
+   "source": "Radio Cooperativa",
+   "title": "Gissella Gallardo vuelve a Canal 13 a cuatro meses de ser despedida",
+   "description": "Tras su polémico e inesperado despido de Canal 13 hace cuatro meses , la periodista Gissella Gallardo volverá a la señal de Luksic . De acuerdo con lo informado por Glamorama , la comunicadora recibió la invitación por parte del excanal del angelito para retomar su trabajo como p",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/gissella-gallardo-vuelve-a-canal-13-a-cuatro-meses-de-ser-despedida/2026-11-22/124814.html",
+   "date": "2026-11-22T15:48:14+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "49a359f38db5",
+   "source": "Radio Cooperativa",
+   "title": "Pellegrini y el empate contra Sevilla: Es malo, la victoria se nos escapa en el último momento",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El chileno Manuel Pellegrini, entrenador de Real Betis, repasó el empate 1-1 de su equipo en el derbi contra Sevilla , expresando estar \"amargadísimo\", ya que en su opinión dejaron \"escapar dos puntos en los últimos minutos",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/manuel-pellegrini/pellegrini-y-el-empate-contra-sevilla-es-malo-la-victoria-se-nos/2026-11-22/124446.html",
+   "date": "2026-11-22T15:44:46+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "6abd96e98bd7",
+   "source": "The Guardian",
+   "title": "UK taxpayer funds held in offshore tax havens top £1tn, latest HMRC data shows",
+   "description": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama raising fears over cost to public purse The amount of money UK taxpayers hold in offshore accounts in tax havens has exceeded £1tn for the first time, raising concerns about potential losses",
+   "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+   "date": "2026-11-22T15:43:01+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d1c2780499bd",
+   "source": "Radio Cooperativa",
+   "title": "Tragedia en Chiloé: Choque dejó seis fallecidos, cuatro de ellos menores de edad",
+   "description": "Seis personas fallecidas -cuatro de ellas menores de edad- y cinco heridos de diversa consideración dejó un choque entre dos automóviles ocurrido este domingo en la Ruta 5 Sur, en la comuna de Dalcahue, Región de Los Lagos. El hecho tuvo lugar en el kilómetro 1.152 de la principa",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-los-lagos/tragedia-en-chiloe-choque-dejo-seis-fallecidos-cuatro-de-ellos-menores/2026-11-22/123331.html",
+   "date": "2026-11-22T15:33:31+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "c3d2746cc231",
+   "source": "Radio Cooperativa",
+   "title": "Anne Hathaway, madre por tercera vez",
+   "description": "Anne Hathaway ya ha sido madre de su tercer hijo, al que pasea por las calles de Nueva York , según publicó el portal TMZ , que comparte una serie de imágenes de la actriz porteando a su bebé. Hathaway, de 43 años, tiene otros dos hijos -de 10 y 6 años- con su marido, el actor y ",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/anne-hathaway-madre-por-tercera-vez/2026-11-22/123143.html",
+   "date": "2026-11-22T15:31:43+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "0955cc2f4c68",
    "source": "Al Jazeera",
@@ -9,6 +129,16 @@
    "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
    "date": "2026-11-22T15:30:09+00:00",
    "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b331f342d18f",
+   "source": "Radio Cooperativa",
+   "title": "Una figura \"con futuro\": Trasciende el nombre del próximo embajador de China en Chile",
+   "description": "Luego de anunciar el término de su su misión diplomática en El Salvador, la figura de Zhang Yanhui asoma como el próximo embajador chino en Chile, cuyo nombre es reconocido \"desde hace meses\" por parte del Ministerio de Relaciones Exteriores, que interpreta su eventual llegada co",
+   "url": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/china/una-figura-con-futuro-trasciende-el-nombre-del-proximo-embajador-de/2026-11-22/122838.html",
+   "date": "2026-11-22T15:28:38+00:00",
+   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -122,26 +252,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7c88182647d5",
-   "source": "Radio Cooperativa",
-   "title": "Representantes de la división IA de SpaceX se reunieron con la ministra Rincón",
-   "description": "Representantes de SpaceXAI -la división de inteligencia artificial de la empresa creada por Elon Musk- sostuvieron una reunión con la ministra de Energía, Ximena Rincón, para abordar cómo sus herramientas pueden ayudar en el rubro con análisis de datos, eficiencia, fiscalización ",
-   "url": "https://www.cooperativa.cl/noticias/pais/energia/representantes-de-la-division-ia-de-spacex-se-reunieron-con-la-ministra/2026-11-22/114028.html",
-   "date": "2026-11-22T14:40:28+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "de5f984f3ea4",
-   "source": "Radio Cooperativa",
-   "title": "Adiós a la temporada: PSG confirmó que Désiré Doué sufrió rotura de ligamento cruzado",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes A través de un comunicado, Paris Saint-Germain confirmó el diagnóstico del delantero Désiré Doué tras su dura lesión ante OGC Niza el sábado 21 de noviembre recién pasado, siendo una rotura de ligamentos que conlleva una la",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-francesa/adios-a-la-temporada-psg-confirmo-que-desire-doue-sufrio-rotura-de/2026-11-22/113719.html",
-   "date": "2026-11-22T14:37:19+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "67032410e36c",
    "source": "Al Jazeera",
    "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
@@ -182,16 +292,6 @@
    "type": "Prensa"
   },
   {
-   "id": "03d9bfd664ca",
-   "source": "Radio Cooperativa",
-   "title": "Las postales que dejó el regreso de Ed Sheeran a Chile",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/las-postales-que-dejo-el-regreso-de-ed-sheeran-a-chile/2026-11-22/112644.html",
-   "date": "2026-11-22T14:26:44+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "5137b2967402",
    "source": "Ex-Ante",
    "title": "Criteria: Kast sube aprobación a 23%, mientras que Poduje y Chomali son los ministros mejor evaluados (Lea aquí la encuesta)",
@@ -209,16 +309,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
    "date": "2026-11-22T14:20:41+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "b5817ce51b02",
-   "source": "Radio Cooperativa",
-   "title": "Incendio en taller y una vivienda dejó 15 damnificados y un bombero herido en Independencia",
-   "description": "Al menos 15 personas damnificadas y un bombero lesionado dejó un incendio que afectó a un recinto industrial y una vivienda en la capitalina comuna de Independencia la mañana de este domingo. Según la información entregada, la emergencia comenzó en el cruce de Las Enredaderas con",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/incendios/incendio-en-taller-y-una-vivienda-dejo-15-damnificados-y-un-bombero/2026-11-22/111958.html",
-   "date": "2026-11-22T14:19:58+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -262,26 +352,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2864b1238db2",
-   "source": "Radio Cooperativa",
-   "title": "Detective frustró a disparos encerrona a exfuncionario PDI en Ñuñoa",
-   "description": "Un detective de la Policía de Investigaciones (PDI) frustró la madrugada de este domingo un intento de encerrona a un exagente de la misma institución en la capitalina comuna de Ñuñoa. El ilícito ocurrió en avenida Américo Vespucio , sobre las pistas en dirección al sur, mientras",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/robo-de-vehiculos/detective-frustro-a-disparos-encerrona-a-exfuncionario-pdi-en-nunoa/2026-11-22/110134.html",
-   "date": "2026-11-22T14:01:34+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "49f844ab3207",
-   "source": "Radio Cooperativa",
-   "title": "La celebración de Max Verstappen tras el frenético GP de Las Vegas",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/automovilismo/formula-1/la-celebracion-de-max-verstappen-tras-el-frenetico-gp-de-las-vegas/2026-11-22/110102.html",
-   "date": "2026-11-22T14:01:02+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "910d21600f6b",
    "source": "The Guardian",
    "title": "Potty-mouthed MPs ranked as Australian parliament sets new swearing record",
@@ -322,16 +392,6 @@
    "type": "Prensa"
   },
   {
-   "id": "81feb8d47be4",
-   "source": "Radio Cooperativa",
-   "title": "Trump dijo que ciberataque al FBI tal vez demuestre que Biden le robó la elección de 2020",
-   "description": "El presidente estadounidense, Donald Trump, confirmó que el Buró Federal de Investigaciones (FBI) sufrió un ciberataque dirigido contra su Centro Nacional de Información Criminal, pero agregó que podría servir para obtener información valiosa que de otro modo no se habría conocid",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/donald-trump/trump-dijo-que-ciberataque-al-fbi-tal-vez-demuestre-que-biden-le-robo-la/2026-11-22/105427.html",
-   "date": "2026-11-22T13:54:27+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "f2d21d00bf97",
    "source": "Ex-Ante",
    "title": "Jorge Claro, creador del CDF, y su receta para recuperar el crecimiento: “Chile puede llegar a ser el Qatar de Latinoamérica”",
@@ -339,16 +399,6 @@
    "url": "https://www.ex-ante.cl/entrevista/jorge-claro-libro-crecimiento-chile/",
    "date": "2026-11-22T13:50:49+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "161685f4766a",
-   "source": "Radio Cooperativa",
-   "title": "Isabel Allende pidió cautela tras la victoria demócrata en EEUU: \"No tenemos todo ganado\"",
-   "description": "La escritora chileno-estadounidense Isabel Allende advirtió en una entrevista con EFE que el \"tsunami azul\" de las elecciones de medio mandato en Estados Unidos , en las que los demócratas conquistaron de manera abrumadora el Congreso, no significa que aquellos que, como ella, co",
-   "url": "https://www.cooperativa.cl/noticias/cultura/literatura/isabel-allende/isabel-allende-pidio-cautela-tras-la-victoria-democrata-en-eeuu-no/2026-11-22/105022.html",
-   "date": "2026-11-22T13:50:22+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -432,16 +482,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4c3e6eeec95d",
-   "source": "Radio Cooperativa",
-   "title": "Defensor en la AC: \"El ministro Rabat está convencido de que su interpretación fue correcta\"",
-   "description": "El ministro de Justicia, Fernando Rabat, respondió formalmente a la acusación constitucional presentada en su contra por las polémicas rebajas de condena a pedófilos y criminales de lesa humanidad, y cuestionó que los parlamentarios busquen acusarlo políticamente por no compartir",
-   "url": "https://www.cooperativa.cl/noticias/pais/judicial/defensor-en-la-ac-el-ministro-rabat-esta-convencido-de-que-su/2026-11-22/102512.html",
-   "date": "2026-11-22T13:25:12+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "eba6ec41f653",
    "source": "The Guardian",
    "title": "Man who killed three during psychotic episode ‘had been released after catalogue of failures’",
@@ -482,16 +522,6 @@
    "type": "Prensa"
   },
   {
-   "id": "843fd11d19a3",
-   "source": "The Guardian",
-   "title": "Cop31 climate talks break down as key deal rejected",
-   "description": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK and allies in the developing world rejected what they called an unacceptable deal",
-   "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
-   "date": "2026-11-22T12:54:41+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "e43af9996f50",
    "source": "The Guardian",
    "title": "UK politics: Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – as it happened",
@@ -529,16 +559,6 @@
    "url": "https://www.ex-ante.cl/politica/quiroz-provoste-pc-presupuesto/",
    "date": "2026-11-22T12:43:27+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "9e257fd4154f",
-   "source": "The Guardian",
-   "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post",
-   "description": "Reform deputy leader calls Russian leader ‘a murderous dictator’ after US president appears to endorse him UK politics live – latest updates Reform UK and the Conservatives have distanced themselves from Donald Trump after the US president posted a photo of himself shaking hands ",
-   "url": "https://www.theguardian.com/politics/2026/nov/22/british-right-reform-tory-party-distances-itself-from-trump-putin-friend-post",
-   "date": "2026-11-22T12:36:58+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -602,16 +622,6 @@
    "type": "Prensa"
   },
   {
-   "id": "973b0d1cac96",
-   "source": "The Guardian",
-   "title": "CEO of funding agency for UK science and research criticised by union over cuts",
-   "description": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership A trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK’s national funding agency for science and resear",
-   "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
-   "date": "2026-11-22T12:00:28+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "35cc19084fe1",
    "source": "CIPER Chile",
    "title": "Yalta sin decoro: lo que Putin, Xi y Trump dejaron en Shenzhen",
@@ -658,16 +668,6 @@
    "description": "Russian ship attacked by drone in Baltic Sea off Finland",
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
    "date": "2026-11-22T11:15:27+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "b1445586c7ff",
-   "source": "Al Jazeera",
-   "title": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
-   "description": "Lionel Messi escapes red-card booking for controversial throw-in in Miami's 3-0 defeat by Columbus in MLS Cup playoffs.",
-   "url": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
-   "date": "2026-11-22T11:07:30+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
@@ -1122,16 +1122,6 @@
    "type": "Prensa"
   },
   {
-   "id": "db7cfa90b494",
-   "source": "France 24",
-   "title": "¿Un supuesto apagón mundial?: rastreamos el origen de las teorías",
-   "description": "📱📡 Durante los últimos días, las redes sociales se llenaron de publicaciones que anunciaban un supuesto ciberataque global para el 17 de noviembre. La teoría tomó fuerza a partir de un simulacro de alertas de emergencia en EE. UU. y recomendaciones de la Comisión Europea. 🎥 En es",
-   "url": "https://www.france24.com/es/video/20261121-un-supuesto-apago%CC%81n-mundial-rastreamos-el-origen-de-las-teori%CC%81as",
-   "date": "2026-11-21T17:05:24+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "ec37bef41a18",
    "source": "The Guardian",
    "title": "International UN talks on controlling use of autonomous weapons collapse",
@@ -1352,6 +1342,16 @@
    "type": "Prensa"
   },
   {
+   "id": "11e59e165581",
+   "source": "Radio Cooperativa",
+   "title": "Quiere tumbar al campeón: La formación de la UC para la visita a Colo Colo",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/quiere-tumbar-al-campeon-la-formacion-de-la-uc-para-la-visita-a-colo/2026-11-20/162246.html",
+   "date": "2026-11-20T19:22:46+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "9801695d7db1",
    "source": "BBC Mundo",
    "title": "En qué consiste y a quién beneficia el acuerdo de \"reinicio\" de las relaciones entre Reino Unido y la Unión Europea tras el Brexit",
@@ -1405,18 +1405,18 @@
    "id": "e566dca77ad4",
    "source": "Radio Cooperativa",
    "title": "San Marcos vence a Magallanes en la ida de cuartos por la Liguilla del Ascenso",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este fin de semana arranca la Liguilla de Ascenso 2026 con los partidos de ida de cuartos de final, a falta de conocer al último integrante de la postemporada. Domingo 22 de noviembre San Marcos de Arica 1-0 Magallanes. Pri",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este fin de semana arranca la Liguilla de Ascenso 2026 con los partidos de ida de cuartos de final, a falta de conocer al último integrante de la postemporada. Domingo 22 de noviembre San Marcos de Arica 1-0 Magallanes. Seg",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/san-marcos-vence-a-magallanes-en-la-ida-de-cuartos-por-la-liguilla-del/2026-11-20/123109.html",
    "date": "2026-11-20T15:31:09+00:00",
    "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
-   "id": "f176f5e0a9be",
+   "id": "5139e7a3ae27",
    "source": "Radio Cooperativa",
-   "title": "Huachipato recibe a D. Concepción por la fecha 28 de la Liga de Primera 2026",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con la pelea por el \"Chile 2\", el descenso y el clásico de Colo Colo y Universidad Católica, La Liga de Primera desrrolla su fecha 28 este fin de semana. Domingo 22 de noviembre Huachipato 0-0 Deportes Concepción. Primer ti",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-recibe-a-d-concepcion-por-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
+   "title": "Huachipato y D. Concepción empatan por la fecha 28 de la Liga de Primera 2026",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con la pelea por el \"Chile 2\", el descenso y el clásico de Colo Colo y Universidad Católica, La Liga de Primera desrrolla su fecha 28 este fin de semana. Domingo 22 de noviembre Huachipato 0-0 Deportes Concepción. Segundo t",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-y-d-concepcion-empatan-por-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
    "date": "2026-11-20T15:19:11+00:00",
    "category": "",
    "type": "Prensa"
