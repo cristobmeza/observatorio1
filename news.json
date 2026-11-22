@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-22T03:49:54.249434+00:00",
+ "updated": "2026-11-22T04:53:45.201171+00:00",
  "items": [
+  {
+   "id": "0a27351f6983",
+   "source": "Radio Cooperativa",
+   "title": "México capturó a El Chapo Isidro, uno de los fugitivos más buscados por EE.UU.",
+   "description": "El secretario de Seguridad de México, Omar García Harfuch , confirmó este sábado la detención de Fausto Isidro, alias El Chapo Isidro , uno de los 10 fugitivos más buscados por Estados Unidos, durante un operativo nocturno en el estado de Sinaloa (noroeste), que contó con la coor",
+   "url": "https://www.cooperativa.cl/noticias/mundo/mexico/narcos/mexico-capturo-a-el-chapo-isidro-uno-de-los-fugitivos-mas-buscados-por/2026-11-22/011416.html",
+   "date": "2026-11-22T04:14:16+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
   {
    "id": "17a2d9707711",
    "source": "Río en Línea",
@@ -12,13 +22,23 @@
    "type": "Prensa"
   },
   {
+   "id": "a5ffcae5a98b",
+   "source": "Al Jazeera",
+   "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
+   "description": "Seven alleged cartel gunmen and four soldiers were killed in operation to arrest cartel boss Fausto Isidro Meza Flores.",
+   "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
+   "date": "2026-11-22T03:34:02+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
    "id": "c6a5ac38c31d",
    "source": "Deutsche Welle",
    "title": "Una huelga nacional a la que se sumarán los controladores paralizará el lunes el tráfico aéreo en Bélgica",
-   "description": "Los controladores aéreos se sumarán a una protesta contra el gobierno, anunció Skeyes, la empresa responsable del tráfico aéreo en el país.",
+   "description": "Los controladores aéreos se sumarán a una protesta contra el gobiernó, anunció Skeyes, la empresa responsable del tráfico aéreo en el país.",
    "url": "https://www.dw.com/es/una-huelga-nacional-a-la-que-se-sumarán-los-controladores-paralizará-el-lunes-el-tráfico-aéreo-en-bélgica/a-80012267?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-22T03:34:00+00:00",
-   "category": "Gobierno y administración pública",
+   "category": "Empresas y mercados",
    "type": "Prensa"
   },
   {
@@ -189,16 +209,6 @@
    "url": "https://www.dw.com/es/donald-trump-confirma-un-ciberataque-al-fbi-y-cree-que-podría-destapar-engaños-contra-él/a-80012085?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-22T00:53:00+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "0c009cd3618f",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] Lionel Messi agredió a Gonzalo Tapia en duelo de Inter Miami y Columbus Crew",
-   "description": "El delantero chileno Gonzalo Tapia fue agredido por el argentino Lionel Messi durante el partido entre Inter Miami y Columbus Crew, en la ida de los octavos de final de la MLS. Al final del primer tiempo, en un saque lateral, Tapia intentó interrumpir el lanzamiento de Messi y el",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mls/video-lionel-messi-agredio-a-gonzalo-tapia-en-duelo-de-inter-miami-y/2026-11-21/215112.html",
-   "date": "2026-11-22T00:51:12+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -699,16 +709,6 @@
    "url": "https://www.ex-ante.cl/opinion/la-lista-de-pendientes-kenneth-bunker/",
    "date": "2026-11-21T17:44:23+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "02c1419e4047",
-   "source": "Al Jazeera",
-   "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
-   "description": "One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
-   "date": "2026-11-21T17:28:51+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
