@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-22T02:54:11.701603+00:00",
+ "updated": "2026-11-22T03:49:54.249434+00:00",
  "items": [
+  {
+   "id": "17a2d9707711",
+   "source": "Río en Línea",
+   "title": "Gobiernos regionales: exigir presupuesto y atribuciones, ofrecer gestión y transparencia",
+   "description": "En momentos en que se discute el Presupuesto de la Nación para 2027, los gobiernos regionales enfrentan un escenario complejo, marcado por restricciones fiscales, incertidumbre económica y crecientes demandas ciudadanas. Sin embargo, este contexto también representa una oportunid",
+   "url": "https://www.rioenlinea.cl/gobiernos-regionales-exigir-presupuesto-y-atribuciones-ofrecer-gestion-y-transparencia/",
+   "date": "2026-11-22T03:36:26+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "c6a5ac38c31d",
+   "source": "Deutsche Welle",
+   "title": "Una huelga nacional a la que se sumarán los controladores paralizará el lunes el tráfico aéreo en Bélgica",
+   "description": "Los controladores aéreos se sumarán a una protesta contra el gobierno, anunció Skeyes, la empresa responsable del tráfico aéreo en el país.",
+   "url": "https://www.dw.com/es/una-huelga-nacional-a-la-que-se-sumarán-los-controladores-paralizará-el-lunes-el-tráfico-aéreo-en-bélgica/a-80012267?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-22T03:34:00+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "f89038122c80",
+   "source": "Al Jazeera",
+   "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
+   "description": "Police say the boat driver fled and the vessel’s manager was taken into custody.",
+   "url": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+   "date": "2026-11-22T02:45:36+00:00",
+   "category": "África",
+   "type": "Prensa"
+  },
   {
    "id": "8b2ae9567750",
    "source": "The Guardian",
@@ -34,8 +64,8 @@
   {
    "id": "6d9c4745586a",
    "source": "The Guardian",
-   "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
-   "description": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instruct people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news podcast The Victorian Greens have won a supreme court injunction to stop an independent candidate f",
+   "title": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+   "description": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instructed people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news podcast The Victorian Greens have won a supreme court injunction to stop an independent candidate",
    "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
    "date": "2026-11-22T02:08:49+00:00",
    "category": "Elecciones",
@@ -229,16 +259,6 @@
    "url": "https://www.france24.com/es/video/20261122-sexto-s%C3%A1bado-de-movilizaciones-en-francia-j%C3%B3venes-tambi%C3%A9n-protestan-en-otros-pa%C3%ADses-de-europa",
    "date": "2026-11-22T00:06:46+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "c95425cb73b1",
-   "source": "Río en Línea",
-   "title": "Caravana Navideña de Coca-Cola pasará por 17 comunas y sí, también estará en Los Ríos",
-   "description": "Está corriendo la cuenta regresiva para la próxima Navidad y una de las tradiciones más esperadas para esta época está de regreso y pasará por la Región de Los Ríos. Se trata de la Caravana Navideña de Coca-Cola Zero Azúcar. Desde el 1 al 22 de diciembre, la caravana volverá a re",
-   "url": "https://www.rioenlinea.cl/caravana-navidena-de-coca-cola-pasara-por-17-comunas-y-si-tambien-estara-en-los-rios/",
-   "date": "2026-11-22T00:02:27+00:00",
-   "category": "Regiones (Los Ríos)",
    "type": "Prensa"
   },
   {
@@ -702,16 +722,6 @@
    "type": "Prensa"
   },
   {
-   "id": "31ef3b69fad0",
-   "source": "Al Jazeera",
-   "title": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
-   "description": "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League.",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
-   "date": "2026-11-21T17:21:37+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "db7cfa90b494",
    "source": "France 24",
    "title": "¿Un supuesto apagón mundial?: rastreamos el origen de las teorías",
@@ -1029,16 +1039,6 @@
    "url": "https://www.dw.com/es/incendio-en-irak-deja-al-menos-4-muertos-y-35-heridos/a-80008442?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-21T08:55:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "1702d90b8227",
-   "source": "Deutsche Welle",
-   "title": "¿Quién habla por Europa en la guerra de Ucrania... y quién no?",
-   "description": "Un equipo negociador europeo participará en futuras conversaciones entre Ucrania y Rusia. Pero ¿hasta qué punto es sólido el acuerdo alcanzado la semana pasada y qué revela sobre la situación de Europa?",
-   "url": "https://www.dw.com/es/¿quién-habla-por-europa-en-la-guerra-de-ucrania-y-quién-no/a-80007113?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-21T07:25:00+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
