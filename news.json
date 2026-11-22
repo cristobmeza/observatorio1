@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-22T04:53:45.201171+00:00",
+ "updated": "2026-11-22T05:52:36.644504+00:00",
  "items": [
+  {
+   "id": "5cb132f53fdd",
+   "source": "Al Jazeera",
+   "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
+   "description": "Sudan's displacement crisis could worsen with winter approaching.",
+   "url": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
+   "date": "2026-11-22T05:21:46+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a70ac8b5e80b",
+   "source": "The Guardian",
+   "title": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
+   "description": "Joshua Howard, 31, is believed to have been struck by a car and thrown over the guardrail as he was walking home from a party in Rouse Hill Get our breaking news email , free app or daily news podcast The twin brother of a man whose body lay undiscovered for 12 days after he was ",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
+   "date": "2026-11-22T05:21:01+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "f3925e2c2b57",
+   "source": "Deutsche Welle",
+   "title": "Buscan a decenas de desaparecidos tras un incendio en una fábrica de dulces en Indonesia",
+   "description": "El saldo provisional es de tres fallecidos y cuatro heridos, dijeron los servicios de rescate.",
+   "url": "https://www.dw.com/es/buscan-a-decenas-de-desaparecidos-tras-un-incendio-en-una-fábrica-de-dulces-en-indonesia/a-80012286?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-22T05:19:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "0b79303e586e",
+   "source": "Deutsche Welle",
+   "title": "Baréin acusa a Irán de atacar un sitio industrial civil y provocar un incendio",
+   "description": "El siniestro dejó daños materiales pero no víctimas, según un informe oficial preliminar que no reveló dónde ocurrió el ataque.",
+   "url": "https://www.dw.com/es/baréin-acusa-a-irán-de-atacar-un-sitio-industrial-civil-y-provocar-un-incendio/a-80012297?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-22T05:15:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b10a895fd8b1",
+   "source": "Al Jazeera",
+   "title": "ICE agents detain two people at Seattle airport",
+   "description": "Masked ICE agents detained two people on a crowded airport jet bridge in Seattle as passengers were boarding a flight.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss",
+   "date": "2026-11-22T05:06:32+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "66d3e2bee064",
+   "source": "The Guardian",
+   "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+   "description": "Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing South Korea’s education minister resigned on Sunday after an AI-assisted cheating scandal that erupted in the lead-up to the country",
+   "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+   "date": "2026-11-22T05:04:39+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e28898bcba1b",
+   "source": "Al Jazeera",
+   "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
+   "description": "COP31 President ​Murat Kurum asks negotiators to consider a last-minute proposal in attempt to reach an agreement.",
+   "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
+   "date": "2026-11-22T04:51:35+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "be18f535735a",
+   "source": "Al Jazeera",
+   "title": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
+   "description": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/first-images-of-mexican-cartel-boss-el-chapo-isidro-after-arrest?traffic_source=rss",
+   "date": "2026-11-22T04:42:02+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "0a27351f6983",
    "source": "Radio Cooperativa",
@@ -552,16 +632,6 @@
    "type": "Prensa"
   },
   {
-   "id": "edd169e66a78",
-   "source": "The Guardian",
-   "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
-   "description": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessors Get our daily political email , free app or daily news podcast At the beginning of another Queensland parliamentary sitting week, a",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
-   "date": "2026-11-21T19:00:08+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "9c7c28d2a60e",
    "source": "France 24",
    "title": "Elecciones en España: redes e influencers, los candidatos se vuelcan del discurso a la emoción",
@@ -642,26 +712,6 @@
    "type": "Prensa"
   },
   {
-   "id": "71a8dda42ec5",
-   "source": "Al Jazeera",
-   "title": "Could Brexit be reversed?",
-   "description": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
-   "date": "2026-11-21T18:18:11+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "e5dd2c7582b8",
-   "source": "Al Jazeera",
-   "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
-   "description": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
-   "date": "2026-11-21T18:05:51+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "4b630c7ee286",
    "source": "France 24",
    "title": "\"GTA VI\" logra un lanzamiento récord y supera los ingresos de la gira de Taylor Swift",
@@ -669,26 +719,6 @@
    "url": "https://www.france24.com/es/cultura/20261121-gta-vi-logra-un-lanzamiento-r%C3%A9cord-y-supera-los-ingresos-de-la-gira-de-taylor-swift",
    "date": "2026-11-21T18:05:21+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "17e8f5361ada",
-   "source": "Al Jazeera",
-   "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
-   "description": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
-   "date": "2026-11-21T17:57:27+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "8a396261f11d",
-   "source": "Al Jazeera",
-   "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
-   "description": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
-   "date": "2026-11-21T17:54:19+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -992,16 +1022,6 @@
    "type": "Prensa"
   },
   {
-   "id": "972c72e8a8b1",
-   "source": "Deutsche Welle",
-   "title": "La COP31 busca acuerdos en el tiempo en cumbre de Turquía",
-   "description": "La cumbre climática de Turquía prosigue en busca de consensos en áreas complejas, como el futuro de los combustibles fósiles y las finanzas climáticas.",
-   "url": "https://www.dw.com/es/la-cop31-busca-acuerdos-en-el-tiempo-en-cumbre-de-turquía/a-80008841?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-21T09:54:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "044a801eb194",
    "source": "BBC Mundo",
    "title": "Cómo una taza de té mal servida transformó la estadística y abrió el camino a la ciencia de los datos",
@@ -1029,16 +1049,6 @@
    "url": "https://www.bbc.com/mundo/articles/cq074g7x8915o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-21T09:10:38+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "8b12f279d4ec",
-   "source": "Deutsche Welle",
-   "title": "Incendio en Irak deja al menos 4 muertos y 35 heridos",
-   "description": "Las autoridades se encuentran investigando las causas del fuego mientras los heridos siguen siendo atendidos en los centros hospitalarios cercanos.",
-   "url": "https://www.dw.com/es/incendio-en-irak-deja-al-menos-4-muertos-y-35-heridos/a-80008442?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-21T08:55:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -1579,16 +1589,6 @@
    "url": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
    "date": "2026-11-19T17:14:55+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "823f42be415e",
-   "source": "The Guardian",
-   "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-   "description": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’ China, Russia and the US say they have agreed a peace statement after an unprecedented trilateral summit, but the declaration made no mention of the wars i",
-   "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
-   "date": "2026-11-19T17:13:23+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
