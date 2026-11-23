@@ -1,14 +1,194 @@
 {
- "updated": "2026-11-23T11:00:30.790737+00:00",
+ "updated": "2026-11-23T11:55:57.299194+00:00",
  "items": [
+  {
+   "id": "1eb950e0a26e",
+   "source": "The Guardian",
+   "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+   "description": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed that it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia",
+   "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+   "date": "2026-11-23T11:42:51+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d98fe7162b9d",
+   "source": "Deutsche Welle",
+   "title": "Miles de evacuados de concierto en Mánchester tras detectarse sustancia sospechosa",
+   "description": "Miles de personas fueron evacuadas de un concierto en el estadio cubierto más grande del Reino Unido después de que se liberara una \"sustancia desconocida\" que, al parecer, afectó a varias personas.",
+   "url": "https://www.dw.com/es/miles-de-evacuados-de-concierto-en-mánchester-tras-detectarse-sustancia-sospechosa/a-80017708?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-23T11:40:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "2abcb9d9f0f1",
+   "source": "Al Jazeera",
+   "title": "Former Icelandic PM says world’s great powers are flexing their muscles",
+   "description": "Iceland’s former PM warns climate change remains an existential threat as global power politics sidelines action.",
+   "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/23/former-icelandic-pm-says-worlds-great-powers-are-flexing-their-muscles?traffic_source=rss",
+   "date": "2026-11-23T11:34:59+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ba2d4ad2c584",
+   "source": "The Guardian",
+   "title": "Flagship UK gigafactory plan in turmoil after it loses second builder in five months",
+   "description": "Tata-owned Agratas plant to build EV batteries for sister company Jaguar Land Rover seen as crucial for long-term health of British car industry One of the UK’s flagship electric vehicle battery projects has been thrown into turmoil after its second building contractor in five mo",
+   "url": "https://www.theguardian.com/business/2026/nov/23/flagship-uk-gigafactory-turmoil-loses-second-builder",
+   "date": "2026-11-23T11:33:44+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "579aad3e62e6",
+   "source": "BBC Mundo",
+   "title": "Un empleado de Anthropic dice haber usado la IA para resolver uno de los más grandes problemas matemáticos",
+   "description": "Un matemático de la compañía afirma haber utilizado Claude para demostrar la famosa hipótesis de Riemann, aunque la verificación llevará algún tiempo.",
+   "url": "https://www.bbc.com/mundo/articles/c6n901zg7rylo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T11:32:45+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "02e8612368ff",
+   "source": "The Guardian",
+   "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live",
+   "description": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “cru",
+   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+   "date": "2026-11-23T11:29:42+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "608a4255e7cd",
+   "source": "Radio Cooperativa",
+   "title": "Garin sufrió un nuevo retroceso en el ranking ATP: Así quedaron los chilenos en la recta final de 2026",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes En las últimas semanas de la temporada 2026 del tenis profesional, la ATP dio a conocer una nueva actualización del ranking mundial, entrega que dejó un saldo negativo para Cristian Garin, quien protagonizó el único retroce",
+   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/chilenos/garin-sufrio-un-nuevo-retroceso-en-el-ranking-atp-asi-quedaron-los/2026-11-23/082814.html",
+   "date": "2026-11-23T11:28:14+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "358662419af8",
+   "source": "The Guardian",
+   "title": "Haigh tells CBI that even US which is ‘hardly a hotbed of socialism’ has more public control of utilities than UK – UK politics live",
+   "description": "First secretary of state gives further detail on Burnham’s plans and says the government is not against the markets In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisa",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+   "date": "2026-11-23T11:26:27+00:00",
+   "category": "Socialismo y pensamiento económico",
+   "type": "Prensa"
+  },
+  {
+   "id": "2e3fa68a0d9f",
+   "source": "BBC Mundo",
+   "title": "La indignación por la detención de dos mexicanos por agentes de ICE en el aeropuerto de Seattle",
+   "description": "El ICE informó que un hombre y una mujer, ambos de nacionalidad mexicana, fueron arrestados por presuntamente permanecer en el país más tiempo del permitido por sus visas.",
+   "url": "https://www.bbc.com/mundo/articles/ckx27qql52g1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T11:25:12+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "a34cf00798be",
+   "source": "Al Jazeera",
+   "title": "COP31: What next after UN climate talks collapse",
+   "description": "UN member states fail to agree on how to fast-track action to reverse global warming in a blow to climate agenda.",
+   "url": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse?traffic_source=rss",
+   "date": "2026-11-23T11:19:08+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ce03fd2a113c",
+   "source": "Radio Cooperativa",
+   "title": "Exención de contribuciones a adultos mayores: respuestas a las preguntas más comunes",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/vivienda/exencion-de-contribuciones-a-adultos-mayores-respuestas-a-las-preguntas/2026-11-23/081129.html",
+   "date": "2026-11-23T11:11:29+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "beefee9bce75",
+   "source": "Al Jazeera",
+   "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+   "description": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war's spread.",
+   "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+   "date": "2026-11-23T11:10:12+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "269e410131b4",
    "source": "Deutsche Welle",
    "title": "Medios: Rusia prepara un satélite cargado con una ojiva nuclear para lanzarlo al espacio este año, según medios alemanes",
    "description": "Los servicios de inteligencia de los países miembros de la OTAN creen que Rusia está preparada para desplegar un satélite cargado con una ojiva nuclear este año, según una investigación de medios alemanes.",
    "url": "https://www.dw.com/es/medios-rusia-prepara-un-satélite-cargado-con-una-ojiva-nuclear-para-lanzarlo-al-espacio-este-año-según-medios-alemanes/a-80018296?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-23T10:44:00+00:00",
+   "date": "2026-11-23T11:05:00+00:00",
    "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "9929995a8ee5",
+   "source": "Radio Cooperativa",
+   "title": "Dominga López deslumbró desfilando con la Gaviota de Platino en Miss Universo",
+   "description": "La modelo Dominga López participó este fin de semana de una serie de competencias en el Miss Universo 2026 , donde deslumbró usando inspirado en el Festival de Viña del Mar. La chilena desfiló con un traje plateado que tenía forma de gaviota y que buscaba tributar a la preciada G",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/dominga-lopez-deslumbro-desfilando-con-la-gaviota-de-platino-en-miss/2026-11-23/080358.html",
+   "date": "2026-11-23T11:03:58+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9a181fa179cf",
+   "source": "The Guardian",
+   "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
+   "description": "Brian Morales García of Texas seeks damages after he was wrongly identified as undocumented in case White House wants dropped The Trump administration recently admitted in federal court that it deported a US citizen to Mexico after American authorities incorrectly concluded he wa",
+   "url": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
+   "date": "2026-11-23T11:00:56+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "0671bb734ec3",
+   "source": "Al Jazeera",
+   "title": "Lebanese families return to ruins after Israeli attacks in south",
+   "description": "In southern Lebanon’s Nabatieh, displaced families have been returning to ruins and widespread destruction.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/lebanese-families-return-to-ruins-after-israeli-attacks-in-south?traffic_source=rss",
+   "date": "2026-11-23T10:57:20+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "3d90b270608f",
+   "source": "Al Jazeera",
+   "title": "CAS decision on Senegal’s AFCON 2025 title appeal on Tuesday",
+   "description": "Senegal are contesting CAF's decision to declare Morocco champions, despite Senegal winning the final 1-0 in January.",
+   "url": "https://www.aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal?traffic_source=rss",
+   "date": "2026-11-23T10:55:05+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ecc6e9df8087",
+   "source": "The Guardian",
+   "title": "Chamonix mayor plans tourist limits for Alpine beauty spot",
+   "description": "Rising numbers around Lac Blanc are having big impact on environment and on visitors’ enjoyment, mayor says In the Alpine town of Chamonix, most tourist paths lead to the national park with spectacular views across Mont Blanc and the shrinking blue glaciers . In the summer, up to",
+   "url": "https://www.theguardian.com/world/2026/nov/23/chamonix-mayor-tourist-limits-lac-blanc",
+   "date": "2026-11-23T10:52:53+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "5a52f2c57636",
+   "source": "The Guardian",
+   "title": "NHS caterer Compass ‘plans stock market switch’ in blow to London",
+   "description": "Surrey-based firm’s decision to move primary listing to New York would mark latest loss for FTSE 100 Business live – latest updates Compass, one of the biggest companies in the FTSE 100, is reportedly planning to switch its primary listing from London to the US in the latest hit ",
+   "url": "https://www.theguardian.com/business/2026/nov/23/nhs-caterer-compass-plans-stock-market-switch-in-blow-to-london",
+   "date": "2026-11-23T10:51:40+00:00",
+   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -32,33 +212,13 @@
    "type": "Prensa"
   },
   {
-   "id": "02e8612368ff",
-   "source": "The Guardian",
-   "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live",
-   "description": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Nato’s secretary general Mark Rutte is about to speak at Nato’s parliamentary",
-   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-   "date": "2026-11-23T10:36:26+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "54d74e09ec26",
    "source": "BBC Mundo",
-   "title": "\"El presidente (De la Espriella) está totalmente equivocado si cree que esta paz es falsa\": Santos y Londoño hablan juntos con BBC Mundo a 10 años del acuerdo que puso fin a la guerra en Colombia",
+   "title": "\"El presidente (De la Espriella) está totalmente equivocado si cree que esta paz es falsa\": Santos y Londoño hablan juntos con BBC Mundo a 10 años del acuerdo que puso fin al conflicto en Colombia",
    "description": "Hace 10 años se firmó el histórico acuerdo de paz que desmovilizó a la guerilla más grande y poderosa de América Latina. BBC Mundo reunió al expresidente Juan Manuel Santos y al ex comandante de las FARC Rodrigo Londoño (alias Timochenko) para hablar de los logros y retos de aque",
    "url": "https://www.bbc.com/mundo/watch/cm0evqgj5p4go?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-23T10:36:08+00:00",
-   "category": "Conflictos armados y seguridad internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "358662419af8",
-   "source": "The Guardian",
-   "title": "Tories welcome Louise Haigh’s hint government could adopt their plan to scrap Natural England – UK politics live",
-   "description": "First secretary of state has declined to say whether Natural England will be abolished as part of plans to cut the number of quangos Natural England could be abolished as part of quango cull, says Louise Haigh Q: [From the BBC’s business editor Simon Jack] Will the UK have to put",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T10:30:56+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -115,20 +275,10 @@
    "id": "d5f2bbd65d07",
    "source": "The Guardian",
    "title": "Capita boss exits and shares crash after civil service pensions failures",
-   "description": "Price plunges 67% as Adolfo Hernandez leaves with ‘immediate effect’ amid continued fallout from pension payment problems The boss of troubled outsourcing group Capita has abruptly departed as he admitted it has “not delivered” for retired civil servants left waiting for pension ",
+   "description": "Price plunges 67% as Adolfo Hernandez leaves with ‘immediate effect’ amid continued fallout from pension payment problems The chief executive of the troubled outsourcing group Capita has abruptly departed as he admitted it has “not delivered” for retired civil servants left waiti",
    "url": "https://www.theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures",
    "date": "2026-11-23T10:01:00+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "e2dded64ffdf",
-   "source": "The Guardian",
-   "title": "Fears for school crossing patrols as councils struggle to recruit lollipop people",
-   "description": "Future of familiar school-run figures uncertain as vacancies surge and town halls consider alternatives They have been a feature of British schooldays for decades, instantly recognisable by their round signs and yellow hi-vis uniforms. But a struggle to recruit against a backdrop",
-   "url": "https://www.theguardian.com/education/2026/nov/23/school-crossing-patrols-councils-struggle-recruit-lollipop-people",
-   "date": "2026-11-23T10:00:53+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -262,16 +412,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7caac68a3993",
-   "source": "The Guardian",
-   "title": "Manchester’s Co-op Live arena evacuated after ‘unknown substance’ released in crowd",
-   "description": "Police declare major incident after concertgoers at Don Toliver gig report eye and respiratory symptoms One person was taken to hospital and more than 50 were assessed by medics after a substance was let off in the crowd at Manchester’s Co-op Live arena, officials have said. Poli",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/23/manchester-co-op-live-arena-evacuated-tear-gas-don-toliver-concert",
-   "date": "2026-11-23T07:48:31+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "6c3d6be33f75",
    "source": "Al Jazeera",
    "title": "Taliban deploys police to protect Afghanistan’s vanishing forests",
@@ -382,16 +522,6 @@
    "type": "Prensa"
   },
   {
-   "id": "acaa9515ea47",
-   "source": "The Guardian",
-   "title": "Burnham not ‘backtracking’ on creating closer links with EU, officials say",
-   "description": "Government wants to let trade deal ‘breathe a bit’, insiders say, after speculation No 10 is dialling back ambitions Andy Burnham is not backtracking or delaying his ambitions to create even closer links with the EU in the wake of a landmark summit in Brussels, the Guardian has b",
-   "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
-   "date": "2026-11-23T06:00:50+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "e2f9d6ece965",
    "source": "Al Jazeera",
    "title": "New Zealand’s Mitchell, Phillips frustrate India as first Test ends in draw",
@@ -442,26 +572,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ce61722535ee",
-   "source": "Al Jazeera",
-   "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
-   "description": "Physicians for Human Rights Israel says medics face 'dangerous escalation' in violence from soldiers and settlers.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
-   "date": "2026-11-23T05:38:01+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "d7eebd0841a4",
-   "source": "Al Jazeera",
-   "title": "Child rescued in Ukraine after Russian drone attack kills 10",
-   "description": "A seven-year-old boy called David was rescued after spending 14 hours trapped in the rubble of a Russian drone attack.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss",
-   "date": "2026-11-23T04:38:14+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "2819641391cb",
    "source": "The Guardian",
    "title": "Love made a fool of Beau Lamarre-Condon but did not make him a murderer, defence argues",
@@ -498,36 +608,6 @@
    "description": "Scientific and satellite findings warn of widespread contamination in Gaza, posing grave threats to public health ‘for generations to come’ Israel’s destruction of Gaza has left a devastating environmental legacy with poisoned water, contaminated soil and toxic air threatening th",
    "url": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
    "date": "2026-11-23T04:00:45+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "f1bb55965195",
-   "source": "Al Jazeera",
-   "title": "Pochettino’s nightmare start as Man U thrashed by Liverpool",
-   "description": "Mauricio Pochettino could hardly have made a worse start as Manchester United manager after they were beaten 4-0.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/pochettinos-nightmare-start-as-man-u-thrashed-by-liverpool?traffic_source=rss",
-   "date": "2026-11-23T03:52:33+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "6524bdf470c7",
-   "source": "Al Jazeera",
-   "title": "Don Toliver concert chaos after ‘substance’ let off in crowd",
-   "description": "Don Toliver concert chaos after ‘substance’ let off in crowd",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/don-toliver-concert-chaos-after-substance-let-off-in-crowd?traffic_source=rss",
-   "date": "2026-11-23T03:25:25+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "1e50fbd626be",
-   "source": "Al Jazeera",
-   "title": "Belgium’s airports set to shut down due to anti-austerity strike",
-   "description": "Skeyes halts air traffic control services, grounding flights at Belgian airports amid union-led strike.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss",
-   "date": "2026-11-23T03:15:55+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
@@ -612,16 +692,6 @@
    "type": "Prensa"
   },
   {
-   "id": "410f00361a6d",
-   "source": "Radio Cooperativa",
-   "title": "La Serena superó a Limache en Quillota y apretó la lucha por copas internacionales",
-   "description": "Deportes La Serena se metió de lleno en la disputa por la clasificación a la Copa Sudamericana después de vencer por 1-2 a Deportes Limache en el Estadio \"Lucio Fariña Fernández\" de Quillota, por la fecha 28 de la Liga de Primera. Durante una primera fracción disputada con excesi",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-serena-supero-a-limache-en-quillota-y-apreto-la-lucha-por-copas/2026-11-22/224242.html",
-   "date": "2026-11-23T01:42:42+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "745e991e87e9",
    "source": "Deutsche Welle",
    "title": "Ucrania reporta al menos 15 muertos en bombardeos rusos sobre región de Kiev",
@@ -639,16 +709,6 @@
    "url": "https://www.france24.com/es/video/20261123-buque-ruso-es-atacado-en-las-costas-de-libia",
    "date": "2026-11-23T01:19:16+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "66d555a7bd32",
-   "source": "Radio Cooperativa",
-   "title": "Trasandino de Los Andes se coronó en la Segunda División y ascendió a la Primera B",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Trasandino de Los Andes se coronó campeón de la Segunda División Profesional y concretó su regreso a la Liga de Ascenso tras 35 años , luego de superar este domingo por 2-3 como visitante a Brujas de Salamanca en la penúlti",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/segunda-division/trasandino-de-los-andes-se-corono-en-la-segunda-division-y-ascendio-a-la/2026-11-22/221905.html",
-   "date": "2026-11-23T01:19:05+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -692,12 +752,12 @@
    "type": "Prensa"
   },
   {
-   "id": "648b077c7e9e",
+   "id": "9f0618dc537e",
    "source": "Radio Cooperativa",
-   "title": "Motociclista falleció tras perder el control de su vehículo en Colina",
-   "description": "Un accidente de tránsito se registró en la Ruta 5 Norte, a la altura del kilómetro 19, en sector El Lucero de la comuna de Colina, donde un motociclista de 25 años falleció tras perder el control de su vehículo. El teniente Alejandro Lizama , de la Sección Investigadora de Accide",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/accidentes-de-transito/motociclista-fallecio-tras-perder-el-control-de-su-vehiculo-en-colina/2026-11-22/213446.html",
-   "date": "2026-11-23T00:34:46+00:00",
+   "title": "Resumen: Colo Colo ganó el clásico a la UC y le dio una mano a U en la pelea por el Chile 2",
+   "description": "Este fin de semana se disputó la fecha 28 de la Liga de Primera , la antepenúltima del torneo, que quedó marcada por el triunfo del campeón Colo Colo en el clásico ante Universidad Católica, un resultado que benefició a Universidad de Chile en su lucha por clasificar directo a la",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/resumen-colo-colo-gano-el-clasico-a-la-uc-y-le-dio-una-mano-a-u-en-la/2026-11-22/215753.html",
+   "date": "2026-11-23T00:57:53+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -819,16 +879,6 @@
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261122-el-exilio-que-colombia-no-cuenta-despu%C3%A9s-de-diez-a%C3%B1os-del-acuerdo-de-paz",
    "date": "2026-11-22T20:38:49+00:00",
    "category": "Conflictos armados y seguridad internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "dfd348afbca1",
-   "source": "Radio Cooperativa",
-   "title": "Con partidos en simultáneo: La programación de la fecha 29 de la Liga de Primera",
-   "description": "La Liga de Primera entra en la recta final con el desarrollo de la fecha 29, la penúltima del torneo, que tendrá varios partidos en simultáneo. El campeón Colo Colo, con su misión resuelta, jugará este sábado ante La Serena en el Monumental. El domingo, en cambio, la jornada esta",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-partidos-en-simultaneo-la-programacion-de-la-fecha-29-de-la-liga-de/2026-11-22/165207.html",
-   "date": "2026-11-22T19:52:07+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -969,16 +1019,6 @@
    "url": "https://www.ex-ante.cl/nacional/preocupante-alza-indigentes-jovenes/",
    "date": "2026-11-22T14:49:32+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "1b7fe30277d0",
-   "source": "Deutsche Welle",
-   "title": "Finlandia prepara el traslado a Rusia de barco atacado por drones",
-   "description": "La embarcación fue agredida cuando se encontraba en aguas neutrales. El incendio desatado en la cubierta no provocó víctimas, pero tardó en ser controlado.",
-   "url": "https://www.dw.com/es/finlandia-prepara-el-traslado-a-rusia-de-barco-atacado-por-drones/a-80014103?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-22T14:46:00+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1222,6 +1262,16 @@
    "type": "Prensa"
   },
   {
+   "id": "65c70795b086",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver a La Roja ante República Dominicana en el Mundial Sub 17?",
+   "description": "La Roja , tras el enorme triunfo ante Argelia el debut, tendrá su siguiente desafío en el Mundial Sub 17 ante República Dominicana , por la segunda fecha del Grupo J. El duelo está programado para el martes 24 de noviembre a las 11:30 horas (14:30 GMT) en la Cancha 3 del Complejo",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mundial-sub-17/cuando-y-donde-ver-a-la-roja-ante-republica-dominicana-en-el-mundial/2026-11-21/151226.html",
+   "date": "2026-11-21T18:12:26+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
    "id": "0170be89e61f",
    "source": "The Guardian",
    "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
@@ -1362,16 +1412,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f3188bb9e33d",
-   "source": "BBC Mundo",
-   "title": "Un misil ruso impacta en Polonia mientras los aliados de Ucrania realizan ejercicios militares",
-   "description": "Nadie resultó herido y no se han reportado daños, pero Varsovia calificó el incidente de \"provocación\" por parte de Moscú.",
-   "url": "https://www.bbc.com/mundo/articles/cmkgkd79q9e6o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T22:46:07+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "bfb59dcd69cf",
    "source": "CIPER Chile",
    "title": "Chats de socios de Sartor: “Mañana tengo a las 10 reunión con Patrick y Victoriano Cerda por lo de la U”",
@@ -1438,16 +1478,6 @@
    "description": "Revisa en vivo la tabla de posiciones de la Liga de Primera 2026: Pos. Club PJ Pts. Dif. Zona 1 Colo Colo (CAMPEÓN) 28 64 +32 Libertadores 2 U. de Chile 28 54 +26 Libertadores 3 Universidad Católica 28 49 +16 Duelo Chile 4 4 Coquimbo Unido 28 41 +4 Sudamericana 5 Deportes Limache",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html",
    "date": "2026-11-20T15:22:47+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "8df582d6b7bd",
-   "source": "Radio Cooperativa",
-   "title": "Los resultados de la fecha 28 de la Liga de Primera",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Con la pelea por el \"Chile 2\", el descenso y el clásico de Colo Colo y Universidad Católica, La Liga de Primera desrrolla su fecha 28 este fin de semana. Domingo 22 de noviembre Huachipato 0-0 Deportes Concepción. Finalizad",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-resultados-de-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
-   "date": "2026-11-20T15:19:11+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -1548,16 +1578,6 @@
    "description": "Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal commun",
    "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
    "date": "2026-11-20T09:03:20+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "a4825b9e029e",
-   "source": "The Guardian",
-   "title": "Race to be next UN secretary general exposes divisions among world powers",
-   "description": "Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner The race to become the next UN secretary general could reach a decisive moment on Friday when a UN security council vote is likely to reveal whether the Costa Rican front",
-   "url": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
-   "date": "2026-11-20T05:00:24+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -1932,16 +1952,6 @@
    "type": "Oficial"
   },
   {
-   "id": "dc6a5cd31cde",
-   "source": "BBC Mundo",
-   "title": "El disco de oro con mensajes para los extraterrestres que transporta la sonda Voyager 1 (y cómo podrán descifrarlo)",
-   "description": "Las sondas Voyager 1 y Voyager 2 fueron lanzadas al espacio con discos de oro que contienen mensajes para civilizaciones extraterrestres.",
-   "url": "https://www.bbc.com/mundo/articles/ck1l0v4yy6p0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T11:27:58+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "6d6605163e3d",
    "source": "BBC Mundo",
    "title": "El test genético que descubrió el covid-19 y que ahora salva vidas al detectar casi todas las infecciones",
@@ -1949,16 +1959,6 @@
    "url": "https://www.bbc.com/mundo/articles/c6ly5nwjx2llo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-18T10:38:26+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "d35e8c7d2591",
-   "source": "The Guardian",
-   "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
-   "description": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay , if the court rules on ",
-   "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-   "date": "2026-11-18T09:58:28+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
