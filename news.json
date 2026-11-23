@@ -1,6 +1,286 @@
 {
- "updated": "2026-11-23T20:00:21.439174+00:00",
+ "updated": "2026-11-23T20:53:19.982585+00:00",
  "items": [
+  {
+   "id": "77fd38ea56f3",
+   "source": "The Guardian",
+   "title": "Australian politics live: Penny Wong to defend US alliance; rental affordability plummets to 14-year low",
+   "description": "Get our breaking news email , free app or daily news podcast Nvidia stock market reaction shows global market ‘volatile’, says Chalmers The treasurer, Jim Chalmers , also doesn’t want to make any personal judgements on Jensen Huang or the decision to reinstate him, but he says th",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+   "date": "2026-11-23T20:43:32+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d1f130c6aead",
+   "source": "The Guardian",
+   "title": "Metropolitan police seize 893kg of cocaine hidden in boxes of oranges",
+   "description": "London force also makes eight arrests in operation centred on New Spitalfields Market in the capital A tonne of cocaine was found hidden in boxes of oranges as part of one of the biggest drug seizures in the history of the Metropolitan police. Suspected cocaine weighing 893kg has",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/23/metropolitan-police-seize-cocaine-hidden-boxes-oranges-new-spitalfields",
+   "date": "2026-11-23T20:41:43+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "090c72bb6bf4",
+   "source": "France 24",
+   "title": "Trump admite que intervino para que Nvidia restituyera a Jensen Huang; los demócratas anuncian investigación",
+   "description": "Nvidia anunció el lunes 23 de noviembre que reincorporaba de inmediato al desacreditado magnate tecnológico Jensen Huang como director ejecutivo. La restitución tiene lugar en medio de la presión de Donald Trump, quien admitió haber intervenido ante el consejo de administración d",
+   "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261123-trump-admite-que-intervino-para-que-nvidia-restituyera-a-jensen-huang-los-dem%C3%B3cratas-anuncian-investigaci%C3%B3n",
+   "date": "2026-11-23T20:34:08+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "d8cd8cde7acd",
+   "source": "Radio Cooperativa",
+   "title": "StartupLab Patagonia: La estrategia de innovación tecnológica de Puerto Varas",
+   "description": "Tomás Gárate, alcalde de Puerto Varas, detalló en Cooperativa la estrategia tecnológica comunal que destina un inédito 0,5% presupuestario a biotecnología y despliega pilotos municipales de inteligencia artificial. Aprobada unánimemente por el concejo, la estrategia supera el 0,3",
+   "url": "https://www.cooperativa.cl/noticias/economia/pymes/startuplab-patagonia-la-estrategia-de-innovacion-tecnologica-de-puerto/2026-11-23/173152.html",
+   "date": "2026-11-23T20:31:52+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "1437ad4852ed",
+   "source": "Deutsche Welle",
+   "title": "La UE propone vetar a atletas rusos de eventos en nuevo paquete de sanciones",
+   "description": "El objetivo es impedir que deportistas compitan bajo la bandera de Rusia en eventos deportivos dentro del bloque. También se espera ampliar restricciones contra la flota fantasma.",
+   "url": "https://www.dw.com/es/la-ue-propone-vetar-a-atletas-rusos-de-eventos-en-nuevo-paquete-de-sanciones/a-80026822?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-23T20:30:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "4fb4a4084229",
+   "source": "Al Jazeera",
+   "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
+   "description": "Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss",
+   "date": "2026-11-23T20:26:40+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "3e4d276430e5",
+   "source": "France 24",
+   "title": "Violenta detención de migrantes en un aeropuerto desata nuevas críticas contra ICE",
+   "description": "La violenta detención de dos migrantes por parte de agentes de ICE vestidos de civiles y con el rostro cubierto se ha vuelto viral en redes sociales. Los testigos aseguran que fue \"un momento de angustia\" y el gobernador de Washington, Bob Ferguson, se pronunció y afirmó que la e",
+   "url": "https://www.france24.com/es/video/20261123-violenta-detenci%C3%B3n-de-migrantes-en-un-aeropuerto-desata-nuevas-cr%C3%ADticas-contra-ice",
+   "date": "2026-11-23T20:26:21+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "f4ac604d598a",
+   "source": "Radio Cooperativa",
+   "title": "Influencers enterraron $500 mil en playa de La Serena y provocaron masiva búsqueda",
+   "description": "Cientos de personas llegaron hasta la playa El Faro de La Serena durante el fin de semana, luego de que los influencers Tío Patito y Tía Patita anunciaran que habían escondido dinero en dinero bajo la arena. La actividad fue difundida a través de sus redes sociales, donde mostrar",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-coquimbo/influencers-enterraron-500-mil-en-playa-de-la-serena-y-provocaron/2026-11-23/172518.html",
+   "date": "2026-11-23T20:25:18+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e719dc102131",
+   "source": "Al Jazeera",
+   "title": "Turkish police hunting for lioness stalking Istanbul",
+   "description": "Questions being asked about big cat's origins, with suspicion falling on the country's growing role in animal smuggling.",
+   "url": "https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss",
+   "date": "2026-11-23T20:22:28+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "bbca8518c4b3",
+   "source": "Al Jazeera",
+   "title": "Jensen Huang reinstated as Nvidia chief: How did we get here?",
+   "description": "Just 11 days after resigning over a suspected espionage scandal, Jensen Huang has been reinstated as Nvidia’s CEO.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss",
+   "date": "2026-11-23T20:22:12+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2856db8a0b93",
+   "source": "Radio Cooperativa",
+   "title": "Pellegrini dejó atrás el derbi sevillano: No hay ningún problema en aceptar las críticas",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El chileno Manuel Pellegrini, director técnico de Real Betis, palpitó la visita de su equipo a Slovan Bratislava en un importante partido de Champions League este martes 24 de noviembre, asegurando que el amargo empate 1-1 ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/pellegrini-dejo-atras-el-derbi-sevillano-no-hay-ningun-problema-en/2026-11-23/172039.html",
+   "date": "2026-11-23T20:20:39+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "b574ca0ed4d9",
+   "source": "Radio Cooperativa",
+   "title": "Casi medio millón de soldados rusos han muerto en la guerra en Ucrania, según filtración",
+   "description": "Cerca de 490.000 soldados rusos han muerto en casi cinco años de guerra en Ucrania , según medios independientes rusos, que citan estadísticas jaqueadas por informáticos bielorrusos y ucranianos . Según los datos que ofrecen los portales Meduza y Mediazona , otros 230.000 militar",
+   "url": "https://www.cooperativa.cl/noticias/mundo/europa/ucrania/casi-medio-millon-de-soldados-rusos-han-muerto-en-la-guerra-en-ucrania/2026-11-23/171828.html",
+   "date": "2026-11-23T20:18:28+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "5bdd8dacc42a",
+   "source": "CIPER Chile",
+   "title": "Carta de la defensa de Michael Clark y respuesta de CIPER",
+   "description": "La entrada Carta de la defensa de Michael Clark y respuesta de CIPER se publicó primero en CIPER Chile .",
+   "url": "https://www.ciperchile.cl/2026/11/23/carta-de-la-defensa-de-michael-clark-y-respuesta-de-ciper/?utm_source=rss&utm_medium=rss&utm_campaign=carta-de-la-defensa-de-michael-clark-y-respuesta-de-ciper",
+   "date": "2026-11-23T20:17:33+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "4efe4265f434",
+   "source": "Ex-Ante",
+   "title": "Caso Firmas: PDI llega al Congreso a pedir antecedentes de la causa y fiscalía cursa nuevas citaciones",
+   "description": "Efectivos de la Brigada del Cibercrimen de la PDI solicitaron antecedentes del Caso Firmas al secretario del Senado, quien habría respondido que gran parte de…",
+   "url": "https://www.ex-ante.cl/nacional/caso-firmas-pdi-llega-al-congreso/",
+   "date": "2026-11-23T20:13:09+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "a12488221128",
+   "source": "France 24",
+   "title": "Irán propina 74 latigazos a la cantante Parastoo Ahmadi por dar un concierto YouTube sin velo",
+   "description": "Las autoridades iraníes cumplieron la sentencia de 74 latigazos contra la cantante Parastoo Ahmadi y cuatro miembros de su grupo musical por dar un concierto en YouTube en el que aparecía sin velo, confirmó este lunes 23 de noviembre el abogado Mostafa Nili a la agencia ISNA.",
+   "url": "https://www.france24.com/es/medio-oriente/20261123-ir%C3%A1n-propina-74-latigazos-a-la-cantante-parastoo-ahmadi-por-dar-un-concierto-youtube-sin-velo",
+   "date": "2026-11-23T20:09:26+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "1ec92c81d901",
+   "source": "Al Jazeera",
+   "title": "Protesting Bangladesh garment workers reject pay offer",
+   "description": "Bangladesh’s garment industry brings in about $38bn a year. The minimum wage is around 12,500 taka ($100) per month.",
+   "url": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss",
+   "date": "2026-11-23T20:03:48+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "0dba078fae3f",
+   "source": "Al Jazeera",
+   "title": "Trump delays explosive detonation in US state of Iowa amid legal battles",
+   "description": "Iowa detonation postponed as Trump cites safety risks, lead exposure, and court rulings in Midwestern controversy.",
+   "url": "https://www.aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles?traffic_source=rss",
+   "date": "2026-11-23T20:01:41+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "08546766beee",
+   "source": "Deutsche Welle",
+   "title": "Así es el plan de ahorro infantil para la jubilación en Alemania",
+   "description": "Alemania creará cuentas de inversión para niños. Los economistas creen que la medida puede ayudar a crear patrimonio, pero advierten que no resolverá los problemas de financiación del sistema de pensiones del país.",
+   "url": "https://www.dw.com/es/así-es-el-plan-de-ahorro-infantil-para-la-jubilación-en-alemania/a-80026588?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-23T19:57:00+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "2fb104522cd2",
+   "source": "Radio Cooperativa",
+   "title": "Jordi Castell acusó \"persecución\" de Comunidad Judía de Chile: Piden sacarme del aire",
+   "description": "El fotógrafo y opinólogo Jordi Castell Abusleme lanzó una dura denuncia contra la Comunidad Judía de Chile , acusando \"persecución\" en su contra a raíz de su posición crítica contra Israel y sus opiniones a favor de Palestina. Castell, cuya madre es de origen palestino, incluso a",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/jordi-castell-acuso-persecucion-de-comunidad-judia-de-chile-piden/2026-11-23/165326.html",
+   "date": "2026-11-23T19:53:26+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "69e28e865be9",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver la visita de Barcelona a Sabah por la Champions League?",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes FC Barcelona visitará a Sabah de Azerbaiyán este miércoles 25 de noviembre, por la quinta fecha de la fase de liga de la Champions League . El compromiso comenzará a las 14:45 horas de Chile y será transmitido mediante la p",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/cuando-y-donde-ver-la-visita-de-barcelona-a-sabah-por-la-champions/2026-11-23/165224.html",
+   "date": "2026-11-23T19:52:24+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "4b310846ea9e",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver al Betis de Pellegrini ante Slovan Bratislava por Champions League?",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Real Betis, equipo dirigido por el chileno Manuel Pellegrini , visitará a Slovan Bratislava este martes 24 de noviembre en el Estadio Tehelne Pole de Eslovaquia, por la quinta fecha de la fase de liga de la Champions League",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/cuando-y-donde-ver-al-betis-de-pellegrini-ante-slovan-bratislava-por/2026-11-23/165223.html",
+   "date": "2026-11-23T19:52:23+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "131da91b9201",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver Real Madrid vs. PSV por la Champions League?",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Real Madrid recibirá a PSV Eindhoven este martes 24 de noviembre en el Estadio \"Santiago Bernabéu\", por la quinta fecha de la fase de liga de la Champions League . El compromiso está programado para las 17:00 horas de Chile",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/cuando-y-donde-ver-real-madrid-vs-psv-por-la-champions-league/2026-11-23/165222.html",
+   "date": "2026-11-23T19:52:22+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "82e50c9b0ba6",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver Arsenal vs. Borussia Dortmund por la Champions League?",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Arsenal recibirá a Borussia Dortmund este martes 24 de noviembre en el Emirates Stadium de Londres, por la quinta fecha de la fase de liga de la Champions League . El encuentro comenzará a las 17:00 horas de Chile y será tr",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/cuando-y-donde-ver-arsenal-vs-borussia-dortmund-por-la-champions/2026-11-23/165221.html",
+   "date": "2026-11-23T19:52:21+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e880fd67f5b0",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver Sporting de Lisboa vs. Manchester United por la Champions League?",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Sporting de Lisboa recibirá a Manchester United este miércoles 25 de noviembre en el Estadio José Alvalade, en Portugal, por la quinta fecha de la fase de liga de la Champions League . El partido está programado para las 17",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/cuando-y-donde-ver-sporting-de-lisboa-vs-manchester-united-por-la/2026-11-23/165211.html",
+   "date": "2026-11-23T19:52:11+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "4007cd9a4784",
+   "source": "Radio Cooperativa",
+   "title": "¿Cuándo y dónde ver el choque de PSG y AS Roma por la Champions?",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes París Saint-Germain y AS Roma se enfrentarán este miércoles 25 de noviembre en el Parque de los Príncipes, por la quinta fecha de la fase de liga de la Champions League . El encuentro comenzará a las 17:00 horas de Chile y ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/cuando-y-donde-ver-el-choque-de-psg-y-as-roma-por-la-champions/2026-11-23/165200.html",
+   "date": "2026-11-23T19:52:00+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "4068e5a1a09e",
+   "source": "The Guardian",
+   "title": "Israel seeks to jail Palestinian student activist without trial after dorm arrest",
+   "description": "Mahdi Tounsi appeared with visible bruising after being interrogated by police on his association with Israeli-Palestinian organisations Israeli professors, students and rights activists are calling for the immediate release of Mahdi Tounsi, a sociology student at Jerusalem’s Heb",
+   "url": "https://www.theguardian.com/world/2026/nov/23/student-arrest-racist-campaign-israel-palestine-benjamin-netanyahu",
+   "date": "2026-11-23T19:48:58+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "dcaa852d3dac",
+   "source": "Radio Cooperativa",
+   "title": "Leporati y duelo con Rep. Dominicana: Es clave no dar ventajas",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mundial-sub-17/leporati-y-duelo-con-rep-dominicana-es-clave-no-dar-ventajas/2026-11-23/164451.html",
+   "date": "2026-11-23T19:44:51+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "f812c1b6c37c",
+   "source": "Radio Cooperativa",
+   "title": "Klaus Schmidt-Hebbel contó que asesinato de su hijo profundizó su fe en la reencarnación",
+   "description": "El economista y académico Klaus Schmidt-Hebbel abordó el proceso personal y espiritual que debió enfrentar tras el homicidio de su hijo Diego Schmidt-Hebbel en el 2008 , crimen perpetrado por un sicario contratado por María del Pilar Pérez , \"La Quintrala\" . En entrevista publica",
+   "url": "https://www.cooperativa.cl/noticias/pais/judicial/casos-emblematicos/klaus-schmidt-hebbel-conto-que-asesinato-de-su-hijo-profundizo-su-fe-en/2026-11-23/164434.html",
+   "date": "2026-11-23T19:44:34+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "baacaf4a496a",
    "source": "Al Jazeera",
@@ -62,6 +342,16 @@
    "type": "Prensa"
   },
   {
+   "id": "08954826a617",
+   "source": "Radio Cooperativa",
+   "title": "Contraloría detectó falencias en cobro millonario de multas en la Seremi de Transportes RM",
+   "description": "La Contraloría General de la República (CGR) detectó falencias por parte de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones en la Región Metropolitana (Seremitt RM) en la gestión de cobro de multas vinculadas a procedimientos sancionatorios por infracciones",
+   "url": "https://www.cooperativa.cl/noticias/pais/organismos-del-estado/contraloria/contraloria-detecto-falencias-en-cobro-millonario-de-multas-en-la-seremi/2026-11-23/162530.html",
+   "date": "2026-11-23T19:25:30+00:00",
+   "category": "Administración pública",
+   "type": "Prensa"
+  },
+  {
    "id": "4ffd1a1f7a73",
    "source": "Al Jazeera",
    "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
@@ -82,43 +372,13 @@
    "type": "Prensa"
   },
   {
-   "id": "bd81833ae9fd",
-   "source": "Radio Cooperativa",
-   "title": "FACh llevó un C-130 Hércules a la Antártica para entrenar tripulaciones",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/region-de-magallanes/antartica/fach-llevo-un-c-130-hercules-a-la-antartica-para-entrenar-tripulaciones/2026-11-23/160444.html",
-   "date": "2026-11-23T19:04:44+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "68a1e829a3e6",
-   "source": "Radio Cooperativa",
-   "title": "Qué cambia cuando una plataforma digital se adapta a nuestros hábitos",
-   "description": "Dos personas pueden abrir el mismo servicio de streaming y encontrar portadas diferentes. Cambian los títulos destacados, el orden de las filas y el contenido que queda a primera vista. La pantalla inicial funciona como una selección elaborada a partir de señales de uso, además d",
-   "url": "https://www.cooperativa.cl/noticias/corporativo/noticias/marcas-negocios/que-cambia-cuando-una-plataforma-digital-se-adapta-a-nuestros-habitos/2026-11-23/160258.html",
-   "date": "2026-11-23T19:02:58+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "67cf57a739da",
-   "source": "Radio Cooperativa",
-   "title": "Black HONOR debuta con rebajas exclusivas para adelantar las compras navideñas sin estrés",
-   "description": "Con el fin de año a la vuelta de la esquina, el dilema de siempre vuelve a aparecer, dejar las compras navideñas para última hora entre tiendas repletas o planificarse con anticipación para cuidar el bolsillo. Para hacer este proceso mucho más sencillo, Black HONOR llega con una ",
-   "url": "https://www.cooperativa.cl/noticias/corporativo/noticias/marcas-negocios/black-honor-debuta-con-rebajas-exclusivas-para-adelantar-las-compras/2026-11-23/155412.html",
-   "date": "2026-11-23T18:54:12+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "75bc69fa8827",
-   "source": "Radio Cooperativa",
-   "title": "Aumenta a 16 la cifra de víctimas fatales por la explosión de camión de Gasco en Renca",
-   "description": "La cifra de víctimas fatales producto de la explosión de un camión de Gasco en Renca aumentó a 16 personas tras confirmarse, durante este fin de semana, la muerte de Pedro Hormazábal , paciente que permanecía hospitalizado con heridas de extrema gravedad desde febrero pasado. El ",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/aumenta-a-16-la-cifra-de-victimas-fatales-por-la-explosion-de-camion-de/2026-11-23/155309.html",
-   "date": "2026-11-23T18:53:09+00:00",
-   "category": "",
+   "id": "c68c41f4cfc8",
+   "source": "France 24",
+   "title": "Estados Unidos, México, Costa Rica y Jamaica serán sede del Mundial femenino de fútbol en 2031",
+   "description": "Luego de albergar junto a Canadá la primera Copa del Mundo masculina con 48 equipos, Estados Unidos y México también recibirán el estreno del Mundial femenino ampliado en 2031, según confirmó la FIFA este lunes. El proyecto para ese torneo ofrece estadios en 20 ciudades: 14 en Es",
+   "url": "https://www.france24.com/es/deportes/20261123-estados-unidos-m%C3%A9xico-costa-rica-y-jamaica-ser%C3%A1n-sede-del-mundial-femenino-de-f%C3%BAtbol-en-2031",
+   "date": "2026-11-23T18:57:43+00:00",
+   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -129,36 +389,6 @@
    "url": "https://www.rioenlinea.cl/habilitan-mapa-con-181-puntos-de-reciclaje-en-valdivia-revisa-donde-dejar-tus-residuos/",
    "date": "2026-11-23T18:51:03+00:00",
    "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
-   "id": "64889867c64a",
-   "source": "Radio Cooperativa",
-   "title": "Javiera Díaz de Valdés tras abandonar \"Vértigo Extremo\": Tengo mucho respeto por Pamela Díaz",
-   "description": "La actriz Javiera Díaz de Valdés salió a aclarar su renuncia al programa \"Vértigo Extremo\" , tras conocerse una tensa discusión con la conductora Pamela Díaz . En imágenes promocionales del capítulo que emitirá Canal 13 este lunes, se deja ver la molestia de la intérprete por la ",
-   "url": "https://www.cooperativa.cl/noticias/magazine/television/javiera-diaz-de-valdes-tras-abandonar-vertigo-extremo-tengo-mucho/2026-11-23/154728.html",
-   "date": "2026-11-23T18:47:28+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a1c087e468b2",
-   "source": "Radio Cooperativa",
-   "title": "Mario Salas: Me gustaría mucho quedarme en Cobreloa, por algo es el cuarto más grande",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Mario Salas, director técnico del flamante Cobreloa campeón de la Liga de Ascenso 2026, conversó con Cooperativa Deportes para realizar un repaso de la campaña que devolvió a los loínos a la máxima categoría, y que da paso ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/cobreloa/mario-salas-me-gustaria-mucho-quedarme-en-cobreloa-por-algo-es-el/2026-11-23/154643.html",
-   "date": "2026-11-23T18:46:43+00:00",
-   "category": "Economía nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "7de9ca93e76e",
-   "source": "Radio Cooperativa",
-   "title": "Movilh pide reunión con ministra Chomalí por revisión de la hormonización cruzada en menores",
-   "description": "El Movimiento de Integración y Liberación Homosexual (Movilh) llegó este lunes hasta el Ministerio de Salud para solicitar una reunión la líder de la cartera May Chomalí, con el fin de abordar el anuncio de la revisión de las orientaciones técnicas y las circulares relativas a la",
-   "url": "https://www.cooperativa.cl/noticias/pais/salud/movilh-pide-reunion-con-ministra-chomali-por-revision-de-la/2026-11-23/154154.html",
-   "date": "2026-11-23T18:41:54+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -192,36 +422,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b879781a0ab9",
-   "source": "Radio Cooperativa",
-   "title": "Mario Salas y el insulto del plantel de Cobreloa a Suazo: Es un momento de euforia, no soy quién para juzgar",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/cobreloa/mario-salas-y-el-insulto-del-plantel-de-cobreloa-a-suazo-es-un-momento/2026-11-23/152817.html",
-   "date": "2026-11-23T18:28:17+00:00",
-   "category": "Economía nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "546c11651f8a",
-   "source": "Radio Cooperativa",
-   "title": "Preocupación en la U: Eduardo Vargas pasará por el quirófano",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El goleador de Universidad de Chile Eduardo Vargas se perderá el próximo partido del elenco azul ante Deportes Concepción luego de ser sometido a una operación. De acuerdo a la información de Cooperativa Deportes , el ariet",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/preocupacion-en-la-u-eduardo-vargas-pasara-por-el-quirofano/2026-11-23/152809.html",
-   "date": "2026-11-23T18:28:09+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "b963bb3121be",
-   "source": "Radio Cooperativa",
-   "title": "Bianneider Tamayo despertó interés en el fútbol italiano",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El defensor venezolano Bianneider Tamayo despertó el interés de un club de Italia , en medio de su falta de protagonismo en Universidad de Chile , donde no ha vuelto a sumar citaciones después de su última participación con",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/bianneider-tamayo-desperto-interes-en-el-futbol-italiano/2026-11-23/152623.html",
-   "date": "2026-11-23T18:26:23+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "7f7a0cd838d9",
    "source": "Al Jazeera",
    "title": "What Russian warship did Ukraine just sink?",
@@ -242,26 +442,6 @@
    "type": "Prensa"
   },
   {
-   "id": "756f4381be7e",
-   "source": "Radio Cooperativa",
-   "title": "EE.UU. realizó ejercicios militares con fuego real en su base de Guantánamo",
-   "description": "Infantes de la Marina de Estados Unidos asignados a la Fuerza de Tarea Secure realizaron ejercicios de entrenamiento con fuego real y maniobras tácticas en la Estación Naval de la Bahía de Guantánamo , en Cuba, entre el 11 y el 13 de noviembre. Según informó este lunes del Comand",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/ee-uu-realizo-ejercicios-militares-con-fuego-real-en-su-base-de/2026-11-23/151639.html",
-   "date": "2026-11-23T18:16:39+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "dc7b4a176ffd",
-   "source": "Radio Cooperativa",
-   "title": "Gisèle Pelicot demandará a editorial que difundió videos íntimos para promocionar libro",
-   "description": "Gisèle Pelicot , convertida en símbolo de la lucha contra la violencia sexual tras el juicio por las violaciones a las que fue sometida drogada por su marido , anunció este lunes que emprenderá acciones legales contra una editorial que difundió imágenes y vídeos íntimos suyos sin",
-   "url": "https://www.cooperativa.cl/noticias/mundo/francia/gisele-pelicot-demandara-a-editorial-que-difundio-videos-intimos-para/2026-11-23/151400.html",
-   "date": "2026-11-23T18:14:00+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "e91ff9d029eb",
    "source": "Al Jazeera",
    "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
@@ -279,16 +459,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france",
    "date": "2026-11-23T18:12:48+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "ee3783fd45f8",
-   "source": "Radio Cooperativa",
-   "title": "Steven Spielberg confirmó su primer western con Cillian Murphy y Jessie Buckley",
-   "description": "El laureado cineasta Steven Spielberg confirmó que su próxima película será una adaptación de la novela \"El corazón en invierno\" (\"The Heart in Winter\") , de Kevin Barry , siendo el primer western de su longeva carrera cinematográfica. Tras encabezar la exitosa \"Disclosure Day\" (",
-   "url": "https://www.cooperativa.cl/noticias/magazine/cine/steven-spielberg-confirmo-su-primer-western-con-cillian-murphy-y-jessie/2026-11-23/150830.html",
-   "date": "2026-11-23T18:08:30+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -352,16 +522,6 @@
    "type": "Prensa"
   },
   {
-   "id": "91335903aad9",
-   "source": "Radio Cooperativa",
-   "title": "Orrego propone financiar el último tramo de la ciclovía Nueva Alameda",
-   "description": "El Gobierno Regional Metropolitano asumirá el financiamiento del tercer y último tramo de la ciclovía Nueva Alameda , luego que el Ministerio de Vivienda y Urbanismo retirara los recursos destinados a su construcción en marzo de este año. La inversión será de más de 7.200 millone",
-   "url": "https://www.cooperativa.cl/noticias/pais/ciudades/santiago/orrego-propone-financiar-el-ultimo-tramo-de-la-ciclovia-nueva-alameda/2026-11-23/144232.html",
-   "date": "2026-11-23T17:42:32+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "06c72523d845",
    "source": "The Guardian",
    "title": "What tactics will Burnham use to sell his EU plans? – podcast",
@@ -389,16 +549,6 @@
    "url": "https://www.ex-ante.cl/politica/firmas-vuelta-de-carnero-castro-vodanovic/",
    "date": "2026-11-23T17:31:46+00:00",
    "category": "Socialismo y pensamiento económico",
-   "type": "Prensa"
-  },
-  {
-   "id": "d1ff13c6c988",
-   "source": "The Guardian",
-   "title": "Talk of scrapping Natural England smacks of a government not joining the dots",
-   "description": "Environmentalists say abolishing independent body will make it easier for landowners and developers ‘to trash nature’ Not just any quango, Natural England is the only public body that exists to legally protect the jewels in the crown of English nature – places increasingly under ",
-   "url": "https://www.theguardian.com/environment/2026/nov/23/abolishing-natural-england-would-be-travesty-say-campaigners",
-   "date": "2026-11-23T17:27:51+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -912,16 +1062,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6445f8a67348",
-   "source": "Al Jazeera",
-   "title": "Iran says it will use ‘all available means’ to counter US blockade",
-   "description": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
-   "date": "2026-11-23T13:04:11+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "d331aa549bd2",
    "source": "Deutsche Welle",
    "title": "Tamagotchi cumple 30 años, de mascota virtual a icono de la moda dosmilera",
@@ -929,46 +1069,6 @@
    "url": "https://www.dw.com/es/tamagotchi-cumple-30-años-de-mascota-virtual-a-icono-de-la-moda-dosmilera/a-80020800?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-23T12:44:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "77fb5ef21d8c",
-   "source": "Al Jazeera",
-   "title": "Argentina footballer Paredes collapses during post-match interview",
-   "description": "Argentinian footballer Leandro Paredes collapsed during a post-match interview after their win in Colombia.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/argentina-footballer-paredes-collapses-during-post-match-interview?traffic_source=rss",
-   "date": "2026-11-23T12:40:21+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "5ff2e0788513",
-   "source": "Al Jazeera",
-   "title": "How the US, China and Russia are competing for Africa’s mineral wealth",
-   "description": "The US, China and Russia are vying for Africa’s mineral wealth, raising questions about who stands to benefit.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth?traffic_source=rss",
-   "date": "2026-11-23T12:34:54+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "2a4f97ef5a15",
-   "source": "Al Jazeera",
-   "title": "Iran threatens response to any attack amid naval blockade",
-   "description": "Iran threatens response to any attack amid naval blockade",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/iran-threatens-response-to-any-attack-amid-naval-blockade?traffic_source=rss",
-   "date": "2026-11-23T12:25:24+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "07cdbdcc68e3",
-   "source": "Al Jazeera",
-   "title": "Search continues for dozens missing after Indonesia candy factory fire",
-   "description": "Rescuers are searching for around 30 missing workers after a candy factory fire killed at least 24 people in Banten.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/search-continues-for-dozens-missing-after-indonesia-candy-factory-fire?traffic_source=rss",
-   "date": "2026-11-23T12:23:19+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1062,16 +1162,6 @@
    "type": "Prensa"
   },
   {
-   "id": "cc92053964c5",
-   "source": "The Guardian",
-   "title": "Up to 1.1m people eligible to join class action against Jetstar over alleged failure to refund Covid flights",
-   "description": "Jetstar accused of issuing customers credits instead of cash refunds for flights cancelled between 2020 and late 2022 Get our breaking news email , free app or daily news podcast More than 1 million Jetstar customers could be eligible to join a class action alleging the airline f",
-   "url": "https://www.theguardian.com/business/2026/nov/23/up-to-11m-people-eligible-to-join-class-action-against-jetstar-over-alleged-failure-to-refund-covid-flights-ntwnfb",
-   "date": "2026-11-23T08:24:12+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "f9e5f6a28577",
    "source": "Deutsche Welle",
    "title": "Dos terremotos de magnitud 6,5 y 4,9 sacuden las aguas al noreste de Vanuatu",
@@ -1089,16 +1179,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
    "date": "2026-11-23T05:45:12+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "a47d48770434",
-   "source": "Deutsche Welle",
-   "title": "Los demócratas logran histórica mayoría en la Cámara de Representantes, la más amplia en tres décadas",
-   "description": "Con una victoria distrital más en Carolina del Norte, la oposición estadounidense alcanzó 258 escaños, asegurando la más amplia mayoría desde 1992.",
-   "url": "https://www.dw.com/es/los-demócratas-logran-histórica-mayoría-en-la-cámara-de-representantes-la-más-amplia-en-tres-décadas/a-80015632?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-23T05:43:00+00:00",
-   "category": "Partidos políticos",
    "type": "Prensa"
   },
   {
@@ -1172,36 +1252,6 @@
    "type": "Prensa"
   },
   {
-   "id": "af0bba7c403d",
-   "source": "France 24",
-   "title": "Buque ruso es atacado en las costas de Libia",
-   "description": "\"El Gobierno reafirma su rechazo categórico a que Libia se convierta en un campo de batalla para conflictos internacionales\", señaló un comunicado del Gobierno de Unidad Nacional, luego de que dos buques fueran atacados frente a sus costas. Uno de los barcos se dirigía a Rusia y ",
-   "url": "https://www.france24.com/es/video/20261123-buque-ruso-es-atacado-en-las-costas-de-libia",
-   "date": "2026-11-23T01:19:16+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "f313d1d77f7c",
-   "source": "France 24",
-   "title": "Partido Demócrata consigue su mayoría más amplia en la Cámara desde 1992",
-   "description": "Con 258 representantes en la Cámara Baja de EE. UU., el Partido Demócrata consiguió su mayoría más amplia desde 1992. Chuck Hubbard ganó este 22 de noviembre un reñido escaño por el quinto distrito de Carolina del Norte, arrebatándoselo a la congresista republicana Virginia Foxx,",
-   "url": "https://www.france24.com/es/video/20261123-partido-dem%C3%B3crata-consigue-su-mayor%C3%ADa-m%C3%A1s-amplia-en-la-c%C3%A1mara-desde-1992",
-   "date": "2026-11-23T01:17:26+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "c76f5916c639",
-   "source": "France 24",
-   "title": "Libia: dos buques, entre ellos un barco ruso, fueron atacados por drones marítimos",
-   "description": "Este domingo 22 de noviembre se produjo un incendio tras una explosión a bordo de un buque ruso en la base naval de Bengasi, en Libia. El Ministerio de Salud del este de Libia declaró que la embarcación había sido atacada con drones marítimos. Esa misma noche, un segundo buque, c",
-   "url": "https://www.france24.com/es/europa/20261123-libia-dos-buques-entre-ellos-un-barco-ruso-fueron-atacados-por-drones-mar%C3%ADtimos",
-   "date": "2026-11-23T01:06:11+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "e59c9f62a4cf",
    "source": "Ex-Ante",
    "title": "Cadem: aprobación de Rabat cae a 24% y es el ministro peor evaluado del gabinete (Lea aquí la encuesta)",
@@ -1230,16 +1280,6 @@
    "date": "2026-11-23T00:00:00+00:00",
    "category": "Comercio internacional",
    "type": "Oficial"
-  },
-  {
-   "id": "db40880051ff",
-   "source": "France 24",
-   "title": "Guerra en Ucrania: drones rusos impactan edificio residencial en Kiev",
-   "description": "Los servicios de emergencia ucranianos buscan sobrevivientes entre los escombros luego de que drones rusos impactaran contra un edificio residencial en la región de Kiev y provocaran el derrumbe de la estructura este 22 de noviembre. Durante el fin de semana, varias oleadas de at",
-   "url": "https://www.france24.com/es/video/20261122-guerra-en-ucrania-drones-rusos-impactan-edificio-residencial-en-kiev",
-   "date": "2026-11-22T22:28:06+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
   },
   {
    "id": "73ce4977d9ce",
@@ -1279,16 +1319,6 @@
    "url": "https://www.dw.com/es/marc-márquez-gana-su-octavo-título-mundial-de-motogp/a-80015062?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-22T18:53:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "c55dded6b2a6",
-   "source": "Ex-Ante",
-   "title": "[Valor Agregado] GTA 6: el negocio que convirtió un videojuego en un fenómeno global. Por Ignacia Munita",
-   "description": "El estreno de GTA 6, la esperada entrega de Rockstar Games tras 13 años desde el lanzamiento de su antecesor, desató un fenómeno que trascendió…",
-   "url": "https://www.ex-ante.cl/valor-agregado/gta-6-negocio-que-es-fenomeno-global/",
-   "date": "2026-11-22T17:02:54+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1792,16 +1822,6 @@
    "type": "Oficial"
   },
   {
-   "id": "f5dad350cd8a",
-   "source": "The Guardian",
-   "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
-   "description": "Hailed as ‘a rare moment of justice’, judges’ decision sets out a roadmap for assessing the question of intent The international court of justice (ICJ) verdict making Myanmar the first country in history to be found guilty of committing genocide does not just deliver justice for ",
-   "url": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
-   "date": "2026-11-19T17:14:55+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "e860defb6505",
    "source": "The Guardian",
    "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
@@ -1999,16 +2019,6 @@
    "url": "https://www.ciperchile.cl/2026/11/18/presupuesto-2027-expertos-alertan-por-rebajas-en-programas-medioambientales-y-de-eficiencia-energetica/?utm_source=rss&utm_medium=rss&utm_campaign=presupuesto-2027-expertos-alertan-por-rebajas-en-programas-medioambientales-y-de-eficiencia-energetica",
    "date": "2026-11-18T19:24:43+00:00",
    "category": "Finanzas públicas",
-   "type": "Prensa"
-  },
-  {
-   "id": "11f7b1d7c35f",
-   "source": "CIPER Chile",
-   "title": "Postergar la meta de eficiencia de los autos nuevos: un costo que pagarían las familias",
-   "description": "La entrada Postergar la meta de eficiencia de los autos nuevos: un costo que pagarían las familias se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/18/postergar-la-meta-de-eficiencia-de-los-autos-nuevos-un-costo-que-pagarian-las-familias/?utm_source=rss&utm_medium=rss&utm_campaign=postergar-la-meta-de-eficiencia-de-los-autos-nuevos-un-costo-que-pagarian-las-familias",
-   "date": "2026-11-18T15:34:25+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
