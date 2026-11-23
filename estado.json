@@ -1,10 +1,9 @@
 {
- "updated": "2026-11-22T23:36:49.819057+00:00",
+ "updated": "2026-11-23T00:53:21.641816+00:00",
  "feeds": {
   "CIPER Chile": {
-   "ok": true,
-   "n": 16,
-   "url": "https://www.ciperchile.cl/feed/"
+   "ok": false,
+   "err": "HTTP Error 500: Internal Server Error"
   },
   "Radio Bío-Bío": {
    "ok": true,
@@ -49,7 +48,7 @@
   },
   "Deutsche Welle": {
    "ok": true,
-   "n": 21,
+   "n": 13,
    "url": "https://rss.dw.com/xml/rss-sp-all"
   },
   "France 24": {
@@ -114,8 +113,9 @@
    "err": "HTTP Error 404: Not Found"
   },
   "Naciones Unidas": {
-   "ok": false,
-   "err": "not well-formed (invalid token): line 1, column 0"
+   "ok": true,
+   "n": 30,
+   "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml"
   },
   "Fondo Monetario Internacional": {
    "ok": false,
