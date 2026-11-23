@@ -1,6 +1,126 @@
 {
- "updated": "2026-11-23T18:57:59.908856+00:00",
+ "updated": "2026-11-23T20:00:21.439174+00:00",
  "items": [
+  {
+   "id": "baacaf4a496a",
+   "source": "Al Jazeera",
+   "title": "As tech outages mount, some New Yorkers prepare for the worst",
+   "description": "As digital disruptions raise concerns about essential services, some residents are preparing for prolonged outages.",
+   "url": "https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst?traffic_source=rss",
+   "date": "2026-11-23T19:43:45+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "3f73feee647e",
+   "source": "Servicio Electoral",
+   "title": "Servel participó en ceremonia por el 184° aniversario de la Universidad de Chile",
+   "description": "La consejera del Consejo Directivo del Servicio Electoral, María Cristina Escudero, asistió a la ceremonia oficial por el 184° aniversario de la Universidad de Chile, casa de estudios donde se desempeña como académica. La actividad se realizó el 19 de noviembre en el Salón de Hon",
+   "url": "https://www.servel.cl/Ch/app/servel-participo-en-ceremonia-por-el-184-aniversario-de-la-universidad-de-chile/sin-categoria/",
+   "date": "2026-11-23T19:41:04+00:00",
+   "category": "Elecciones",
+   "type": "Oficial"
+  },
+  {
+   "id": "34a5f00feed0",
+   "source": "Al Jazeera",
+   "title": "CEO Jensen Huang returns to Nvidia’s office",
+   "description": "Employees at Nvidia cheered as CEO Jensen Huang returned to the office",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/ceo-jensen-huang-returns-to-nvidias-office?traffic_source=rss",
+   "date": "2026-11-23T19:40:41+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "84a3a36db801",
+   "source": "Ex-Ante",
+   "title": "Caso firmas: los detalles de la ampliación de querella dirigida contra Vodanovic y el PS",
+   "description": "El abogado de la fundación Fuerza Ciudadana —cuya querella por el Caso Firmas contra el senador Castro fue admitida a tramitación— amplió el escrito, ahora…",
+   "url": "https://www.ex-ante.cl/nacional/caso-firmas-amplian-querella-vodanovic-ps/",
+   "date": "2026-11-23T19:32:15+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "80a819c26f24",
+   "source": "Radio Cooperativa",
+   "title": "Hiroyuki Sanada, estrella de \"Shōgun\", se sumó a la película de \"Naruto\"",
+   "description": "La película live-action inspirada en \"Naruto\" avanza al confirmar al primer actor de su elenco, con Hiroyuki Sanada , estrella de la celebrada serie \"Shōgun\" , dando vida a \"Hiruzen Sarutobi\" , el Tercer Hokage de la Aldea Oculta de la Hoja . La adaptación del manga creado por Ma",
+   "url": "https://www.cooperativa.cl/noticias/magazine/cine/hiroyuki-sanada-estrella-de-sh-gun-se-sumo-a-la-pelicula-de-naruto/2026-11-23/162616.html",
+   "date": "2026-11-23T19:26:16+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "4bc96b2da5c3",
+   "source": "The Guardian",
+   "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
+   "description": "Prime minister also says former Tory premiers who have criticised revival of Brexit debate are ‘stuck in the past’ UK politics live – latest updates Andy Burnham has said it would be “unthinkable” for the UK to rejoin the EU without holding another referendum, offering his strong",
+   "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
+   "date": "2026-11-23T19:26:01+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "4ffd1a1f7a73",
+   "source": "Al Jazeera",
+   "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+   "description": "Moscow accuses Tallinn of 'hostile actions' citing border closure and claiming it is allowing Ukraine to launch attacks.",
+   "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
+   "date": "2026-11-23T19:20:30+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5f36ab95c15a",
+   "source": "Al Jazeera",
+   "title": "Thousands flee Manchester concert after unknown substance released",
+   "description": "More than 12,000 people were evacuated from Manchester’s Co-op Live arena",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
+   "date": "2026-11-23T19:07:37+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "bd81833ae9fd",
+   "source": "Radio Cooperativa",
+   "title": "FACh llevó un C-130 Hércules a la Antártica para entrenar tripulaciones",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/region-de-magallanes/antartica/fach-llevo-un-c-130-hercules-a-la-antartica-para-entrenar-tripulaciones/2026-11-23/160444.html",
+   "date": "2026-11-23T19:04:44+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "68a1e829a3e6",
+   "source": "Radio Cooperativa",
+   "title": "Qué cambia cuando una plataforma digital se adapta a nuestros hábitos",
+   "description": "Dos personas pueden abrir el mismo servicio de streaming y encontrar portadas diferentes. Cambian los títulos destacados, el orden de las filas y el contenido que queda a primera vista. La pantalla inicial funciona como una selección elaborada a partir de señales de uso, además d",
+   "url": "https://www.cooperativa.cl/noticias/corporativo/noticias/marcas-negocios/que-cambia-cuando-una-plataforma-digital-se-adapta-a-nuestros-habitos/2026-11-23/160258.html",
+   "date": "2026-11-23T19:02:58+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "67cf57a739da",
+   "source": "Radio Cooperativa",
+   "title": "Black HONOR debuta con rebajas exclusivas para adelantar las compras navideñas sin estrés",
+   "description": "Con el fin de año a la vuelta de la esquina, el dilema de siempre vuelve a aparecer, dejar las compras navideñas para última hora entre tiendas repletas o planificarse con anticipación para cuidar el bolsillo. Para hacer este proceso mucho más sencillo, Black HONOR llega con una ",
+   "url": "https://www.cooperativa.cl/noticias/corporativo/noticias/marcas-negocios/black-honor-debuta-con-rebajas-exclusivas-para-adelantar-las-compras/2026-11-23/155412.html",
+   "date": "2026-11-23T18:54:12+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "75bc69fa8827",
+   "source": "Radio Cooperativa",
+   "title": "Aumenta a 16 la cifra de víctimas fatales por la explosión de camión de Gasco en Renca",
+   "description": "La cifra de víctimas fatales producto de la explosión de un camión de Gasco en Renca aumentó a 16 personas tras confirmarse, durante este fin de semana, la muerte de Pedro Hormazábal , paciente que permanecía hospitalizado con heridas de extrema gravedad desde febrero pasado. El ",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/aumenta-a-16-la-cifra-de-victimas-fatales-por-la-explosion-de-camion-de/2026-11-23/155309.html",
+   "date": "2026-11-23T18:53:09+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "6a6340ce8d48",
    "source": "Río en Línea",
@@ -9,6 +129,36 @@
    "url": "https://www.rioenlinea.cl/habilitan-mapa-con-181-puntos-de-reciclaje-en-valdivia-revisa-donde-dejar-tus-residuos/",
    "date": "2026-11-23T18:51:03+00:00",
    "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "64889867c64a",
+   "source": "Radio Cooperativa",
+   "title": "Javiera Díaz de Valdés tras abandonar \"Vértigo Extremo\": Tengo mucho respeto por Pamela Díaz",
+   "description": "La actriz Javiera Díaz de Valdés salió a aclarar su renuncia al programa \"Vértigo Extremo\" , tras conocerse una tensa discusión con la conductora Pamela Díaz . En imágenes promocionales del capítulo que emitirá Canal 13 este lunes, se deja ver la molestia de la intérprete por la ",
+   "url": "https://www.cooperativa.cl/noticias/magazine/television/javiera-diaz-de-valdes-tras-abandonar-vertigo-extremo-tengo-mucho/2026-11-23/154728.html",
+   "date": "2026-11-23T18:47:28+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "a1c087e468b2",
+   "source": "Radio Cooperativa",
+   "title": "Mario Salas: Me gustaría mucho quedarme en Cobreloa, por algo es el cuarto más grande",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Mario Salas, director técnico del flamante Cobreloa campeón de la Liga de Ascenso 2026, conversó con Cooperativa Deportes para realizar un repaso de la campaña que devolvió a los loínos a la máxima categoría, y que da paso ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/cobreloa/mario-salas-me-gustaria-mucho-quedarme-en-cobreloa-por-algo-es-el/2026-11-23/154643.html",
+   "date": "2026-11-23T18:46:43+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "7de9ca93e76e",
+   "source": "Radio Cooperativa",
+   "title": "Movilh pide reunión con ministra Chomalí por revisión de la hormonización cruzada en menores",
+   "description": "El Movimiento de Integración y Liberación Homosexual (Movilh) llegó este lunes hasta el Ministerio de Salud para solicitar una reunión la líder de la cartera May Chomalí, con el fin de abordar el anuncio de la revisión de las orientaciones técnicas y las circulares relativas a la",
+   "url": "https://www.cooperativa.cl/noticias/pais/salud/movilh-pide-reunion-con-ministra-chomali-por-revision-de-la/2026-11-23/154154.html",
+   "date": "2026-11-23T18:41:54+00:00",
+   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -92,13 +242,23 @@
    "type": "Prensa"
   },
   {
-   "id": "0a34d1fb31e2",
+   "id": "756f4381be7e",
    "source": "Radio Cooperativa",
-   "title": "\"Sentí que me venían a buscar\": Ricky Martin reveló que pasó 50 días en cama por Covid",
-   "description": "El cantante Ricky Martin reveló que enfrentó un grave cuadro de Covid-19 que lo mantuvo casi dos meses en cama , período en el que llegó a sentir que estaba cerca de la muerte. En conversación con el periodista Enrique Santos, el artista explicó que decidió no acudir a un hospita",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/senti-que-me-venian-a-buscar-ricky-martin-revelo-que-paso-50-dias-en/2026-11-23/151727.html",
-   "date": "2026-11-23T18:17:27+00:00",
-   "category": "",
+   "title": "EE.UU. realizó ejercicios militares con fuego real en su base de Guantánamo",
+   "description": "Infantes de la Marina de Estados Unidos asignados a la Fuerza de Tarea Secure realizaron ejercicios de entrenamiento con fuego real y maniobras tácticas en la Estación Naval de la Bahía de Guantánamo , en Cuba, entre el 11 y el 13 de noviembre. Según informó este lunes del Comand",
+   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/ee-uu-realizo-ejercicios-militares-con-fuego-real-en-su-base-de/2026-11-23/151639.html",
+   "date": "2026-11-23T18:16:39+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "dc7b4a176ffd",
+   "source": "Radio Cooperativa",
+   "title": "Gisèle Pelicot demandará a editorial que difundió videos íntimos para promocionar libro",
+   "description": "Gisèle Pelicot , convertida en símbolo de la lucha contra la violencia sexual tras el juicio por las violaciones a las que fue sometida drogada por su marido , anunció este lunes que emprenderá acciones legales contra una editorial que difundió imágenes y vídeos íntimos suyos sin",
+   "url": "https://www.cooperativa.cl/noticias/mundo/francia/gisele-pelicot-demandara-a-editorial-que-difundio-videos-intimos-para/2026-11-23/151400.html",
+   "date": "2026-11-23T18:14:00+00:00",
+   "category": "Empresas y mercados",
    "type": "Prensa"
   },
   {
@@ -135,7 +295,7 @@
    "id": "9f4e3bfecbc5",
    "source": "The Guardian",
    "title": "Only six beds for trans victims of domestic abuse in UK, report finds",
-   "description": "Exclusive: Services say the supreme court ruling on single-sex spaces has made it ‘almost impossible’ to find refuges for trans people There are only six beds specifically for trans victims of domestic abuse in the UK, a new report has found, with services saying it is “almost im",
+   "description": "Exclusive: Services say supreme court ruling on single-sex spaces has made it ‘almost impossible’ to find refuges for trans people There are only six beds specifically for trans victims of domestic abuse in the UK, a report has found, with services saying it is “almost impossible",
    "url": "https://www.theguardian.com/society/2026/nov/23/only-six-beds-for-trans-victims-of-domestic-abuse-in-uk-report-finds",
    "date": "2026-11-23T18:07:04+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -149,16 +309,6 @@
    "url": "https://www.france24.com/es/medio-oriente/20261123-los-bombardeos-israel%C3%ADes-han-convertido-la-franja-de-gaza-en-un-vertedero-t%C3%B3xico-seg%C3%BAn-oxfam",
    "date": "2026-11-23T18:05:43+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "d92f3aaa10ee",
-   "source": "Radio Cooperativa",
-   "title": "Windsurf: Marc Paré se coronó campeón mundial en Matanzas",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El español Marc Paré se coronó campeón mundial de windsurf en olas por segundo año consecutivo , luego de asegurar el título del World Windsurf Tour 2026 durante el Chile World Cup Grand Final que se desarrolla en Matanzas,",
-   "url": "https://www.cooperativa.cl/noticias/deportes/polideportivo/deportes-extremos/windsurf-marc-pare-se-corono-campeon-mundial-en-matanzas/2026-11-23/150212.html",
-   "date": "2026-11-23T18:02:12+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -179,16 +329,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss",
    "date": "2026-11-23T18:00:23+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "033a33fc5e42",
-   "source": "Radio Cooperativa",
-   "title": "Claro y futuro de Garnero: Los análisis los haremos cuando termine el campeonato",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/claro-y-futuro-de-garnero-los-analisis-los-haremos-cuando-termine-el/2026-11-23/145358.html",
-   "date": "2026-11-23T17:53:58+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -232,16 +372,6 @@
    "type": "Prensa"
   },
   {
-   "id": "dfa8ca5b7ee2",
-   "source": "Radio Cooperativa",
-   "title": "Soto pide a Rabat que \"dé la cara\" ante la comisión revisora",
-   "description": "El diputado Raúl Soto (PPD) , presidente de la comisión que revisa la acusación constitucional contra el ministro de Justicia, Fernando Rabat , emplazó este lunes al secretario de Estado a comparecer personalmente ante la instancia y entregar los decretos que firmó el Gobierno pa",
-   "url": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/soto-pide-a-rabat-que-de-la-cara-ante-la-comision-revisora/2026-11-23/144125.html",
-   "date": "2026-11-23T17:41:25+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "7e4c438be942",
    "source": "Al Jazeera",
    "title": "Tajikistan moves to leave ICC amid US push against court",
@@ -249,16 +379,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss",
    "date": "2026-11-23T17:36:17+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "30606b6890cc",
-   "source": "Radio Cooperativa",
-   "title": "Polémica por Anuel AA en Bogotá: dos horas de espera y show más corto",
-   "description": "Con parte del público lanzando sillas y otros objetos al escenario, e incluso peleas entre asistentes, terminó una polémica presentación de Anuel AA en Bogotá , Colombia, el pasado 21 de noviembre. Programado para las 21:30 horas, el show comenzó con dos horas de atraso - algo ca",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/musica-urbana/polemica-por-anuel-aa-en-bogota-dos-horas-de-espera-y-show-mas-corto/2026-11-23/143155.html",
-   "date": "2026-11-23T17:31:55+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -274,7 +394,7 @@
   {
    "id": "d1ff13c6c988",
    "source": "The Guardian",
-   "title": "Abolishing Natural England would be travesty, say campaigners",
+   "title": "Talk of scrapping Natural England smacks of a government not joining the dots",
    "description": "Environmentalists say abolishing independent body will make it easier for landowners and developers ‘to trash nature’ Not just any quango, Natural England is the only public body that exists to legally protect the jewels in the crown of English nature – places increasingly under ",
    "url": "https://www.theguardian.com/environment/2026/nov/23/abolishing-natural-england-would-be-travesty-say-campaigners",
    "date": "2026-11-23T17:27:51+00:00",
@@ -302,16 +422,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ec6507dbb856",
-   "source": "Radio Cooperativa",
-   "title": "El editorial de Igor Ochoa: Es inevitable recordar tantas jornadas de Cobreloa",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/cooperativa-deportes/opinion/el-editorial-de-igor-ochoa-es-inevitable-recordar-tantas-jornadas-de/2026-11-23/141844.html",
-   "date": "2026-11-23T17:18:44+00:00",
-   "category": "Economía nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "5bda615bb06b",
    "source": "France 24",
    "title": "Informe desde Estambul: Turquía guarda silencio tras fracaso de la COP31",
@@ -329,16 +439,6 @@
    "url": "https://www.bbc.com/mundo/articles/ckjwjq7z1v0jo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-23T17:13:55+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "4ad8fd98cad2",
-   "source": "Radio Cooperativa",
-   "title": "Usuarios reportan problemas en venta de entradas para Faith No More en Chile",
-   "description": "Decenas de usuarios han denunciado problemas durante el proceso de venta de entradas para el concierto que Faith No More dará en Chile en 2027. La preventa para clientes de un banco inició a las 13:00 horas de este lunes en la plataforma Puntoticket. Si bien miles de clientes pud",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/usuarios-reportan-problemas-en-venta-de-entradas-para-faith-no-more-en/2026-11-23/141112.html",
-   "date": "2026-11-23T17:11:12+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -369,26 +469,6 @@
    "url": "https://www.france24.com/es/video/20261123-zelenski-reivindica-ataque-con-drones-ucranianos-contra-barcos-rusos-en-libia",
    "date": "2026-11-23T17:04:58+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "84a30e3a780d",
-   "source": "Radio Cooperativa",
-   "title": "Niños sobrevivientes a trágico choque en Chiloé fueron trasladados a Puerto Montt",
-   "description": "Los dos niños que sobrevivieron al trágico accidente vehicular ocurrido ayer en la comuna de Dalcahue (Provincia de Chiloé), que dejó a seis personas fallecidas , fueron trasladados hasta Puerto Montt (Región de Los Lagos) debido a la complejidad de sus lesiones. La colisión entr",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/accidentes-de-transito/ninos-sobrevivientes-a-tragico-choque-en-chiloe-fueron-trasladados-a/2026-11-23/135724.html",
-   "date": "2026-11-23T16:57:24+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "f59ef7046beb",
-   "source": "Radio Cooperativa",
-   "title": "Alejandro Sanz anuncia show en Concepcion: fecha y venta de entradas",
-   "description": "El cantante Alejandro Sanz confirmó su regreso a Chile en 2027 de la mano de su gira \"¿Y Ahora Qué+?\". El español, que se presentó en febrero en el Estadio Bicentenario de La Florida, llegará el próximo 6 de marzo en el Estadio Ester Roa de Concepción. El anuncio llega tras un im",
-   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/alejandro-sanz-anuncia-show-en-concepcion-fecha-y-venta-de-entradas/2026-11-23/135657.html",
-   "date": "2026-11-23T16:56:57+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -449,16 +529,6 @@
    "url": "https://www.bbc.com/mundo/articles/cmq5vl3d603wo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-23T16:42:07+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "4bc96b2da5c3",
-   "source": "The Guardian",
-   "title": "Burnham: I won’t listen to ex-Tory PMs who left UK with ‘bad Brexit deal’",
-   "description": "PM says closer ties with EU will lower cost of living, with ‘brainstorming’ sessions being mooted to discuss shape of future relationship UK politics live – latest updates Andy Burnham has criticised former prime ministers for being “stuck in the past” amid warnings over re-openi",
-   "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
-   "date": "2026-11-23T16:40:47+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -539,16 +609,6 @@
    "url": "https://f24.my/CIkz",
    "date": "2026-11-23T16:09:08+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "6fc92c06d93f",
-   "source": "Radio Cooperativa",
-   "title": "Consultor aeronáutico por capotaje en Peñalolén: \"Falló el avión, no el Aeródromo de Tobalaba\"",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/avioneta-penalolen/consultor-aeronautico-por-capotaje-en-penalolen-fallo-el-avion-no-el/2026-11-23/130834.html",
-   "date": "2026-11-23T16:08:34+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -754,7 +814,7 @@
   {
    "id": "02f523d18889",
    "source": "The Guardian",
-   "title": "Domestic violence perpetrators are misusing smart car features to abuse, researchers warn",
+   "title": "Domestic violence perpetrators are using smart car features to abuse, researchers warn",
    "description": "Exclusive: Alarming report reveals how tracking and monitoring functions and digital key access have been used to facilitate abuse Get our breaking news email , free app or daily news podcast Earlier this year a man in Australia was found guilty of using a connected car app to ha",
    "url": "https://www.theguardian.com/society/2026/nov/23/smart-car-tracking-control-features-domestic-violence-warning-ntwnfb",
    "date": "2026-11-23T13:57:45+00:00",
@@ -912,16 +972,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d9ade754181c",
-   "source": "Al Jazeera",
-   "title": "Inside the talks between student protest leaders and Macron’s government",
-   "description": "Al Jazeera interviews two French student leaders who have met with top government officials as protests continue.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/they-smile-but-do-nothing-students-on-meeting-macron-and-other-leaders?traffic_source=rss",
-   "date": "2026-11-23T11:58:09+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d98fe7162b9d",
    "source": "Deutsche Welle",
    "title": "Miles de evacuados de concierto en Mánchester tras detectarse sustancia sospechosa",
@@ -942,16 +992,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2abcb9d9f0f1",
-   "source": "Al Jazeera",
-   "title": "Former Icelandic PM says world’s great powers are flexing their muscles",
-   "description": "Iceland’s former PM warns climate change remains an existential threat as global power politics sidelines action.",
-   "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/23/former-icelandic-pm-says-worlds-great-powers-are-flexing-their-muscles?traffic_source=rss",
-   "date": "2026-11-23T11:34:59+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "579aad3e62e6",
    "source": "BBC Mundo",
    "title": "Un empleado de Anthropic dice haber usado la IA para resolver uno de los más grandes problemas matemáticos",
@@ -969,26 +1009,6 @@
    "url": "https://www.bbc.com/mundo/articles/ckx27qql52g1o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-23T11:25:12+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "a34cf00798be",
-   "source": "Al Jazeera",
-   "title": "COP31: What next after UN climate talks collapse",
-   "description": "UN member states fail to agree on how to fast-track action to reverse global warming in a blow to climate agenda.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse?traffic_source=rss",
-   "date": "2026-11-23T11:19:08+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "beefee9bce75",
-   "source": "Al Jazeera",
-   "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
-   "description": "Drone strikes on two Russian vessels near Libyan coast fuels fears of Ukraine war's spread.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
-   "date": "2026-11-23T11:10:12+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1279,16 +1299,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
    "date": "2026-11-22T15:22:38+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "fd3030f78781",
-   "source": "Ex-Ante",
-   "title": "El preocupante aumento de indigentes jóvenes: son casi el 20% y duermen en parques apenas con una frazada",
-   "description": "La imagen tradicional de los indigentes suele estar asociada a un hombre de edad avanzada, con años de abandono y precariedad acumulados. Sin embargo, las…",
-   "url": "https://www.ex-ante.cl/nacional/preocupante-alza-indigentes-jovenes/",
-   "date": "2026-11-22T14:49:32+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -2220,16 +2230,6 @@
    "date": "2026-11-14T15:01:21+00:00",
    "category": "Gobierno y administración pública",
    "type": "Académica"
-  },
-  {
-   "id": "a4945f855984",
-   "source": "Servicio Electoral",
-   "title": "Servel realizará el III Encuentro de Organismos Fiscalizadores del Estado",
-   "description": "Entre el 16 y el 18 de noviembre de 2026, el Servicio Electoral realizará el III Encuentro de Organismos Fiscalizadores del Estado, una instancia que reunirá a representantes de 19 instituciones públicas con el propósito de compartir experiencias, buenas prácticas y proyectos ori",
-   "url": "https://www.servel.cl/Ch/app/servel-realizara-el-iii-encuentro-de-organismos-fiscalizadores-del-estado/sin-categoria/",
-   "date": "2026-11-13T15:22:09+00:00",
-   "category": "Elecciones",
-   "type": "Oficial"
   },
   {
    "id": "3bc1c73f7aee",
