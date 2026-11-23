@@ -1,14 +1,144 @@
 {
- "updated": "2026-11-23T22:47:11.481743+00:00",
+ "updated": "2026-11-23T23:45:09.855906+00:00",
  "items": [
+  {
+   "id": "c9e3ac501c1e",
+   "source": "Al Jazeera",
+   "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
+   "description": "Proposed sanctions aim to curb Russian crypto financing and 'propaganda' in sports.",
+   "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+   "date": "2026-11-23T23:26:16+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "77fd38ea56f3",
    "source": "The Guardian",
-   "title": "Australian politics live: Labor to ‘save more than we spend’ in budget update, Chalmers says; rental affordability plummets to 14-year low",
+   "title": "Australian politics live: Chalmers to ‘save more than we spend’ in budget update; King Charles ‘deeply saddened’ by Meldrum’s death",
    "description": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-   "date": "2026-11-23T22:38:37+00:00",
+   "date": "2026-11-23T23:20:36+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "cb41aaa6d95e",
+   "source": "CIPER Chile",
+   "title": "Ministerio de Justicia entrega más de 1.800 decretos de rebaja de condena; PDI realiza diligencia en el Senado por eventual firma falsa, y Kast anuncia agenda de 100 días para el empleo",
+   "description": "La entrada Ministerio de Justicia entrega más de 1.800 decretos de rebaja de condena; PDI realiza diligencia en el Senado por eventual firma falsa, y Kast anuncia agenda de 100 días para el empleo se publicó primero en CIPER Chile .",
+   "url": "https://www.ciperchile.cl/2026/11/23/radar-23-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-23-11-26",
+   "date": "2026-11-23T23:08:51+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "5c8f2fd54783",
+   "source": "Al Jazeera",
+   "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?",
+   "description": "Trump claims credit for Huang's return, raising concerns over federal government meddling in corporate board decisions.",
+   "url": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss",
+   "date": "2026-11-23T23:06:03+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "cae4522932b7",
+   "source": "Radio Cooperativa",
+   "title": "Un histórico al fútbol amateur: Santiago Morning descendió a Tercera División",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este lunes terminó la penúltima fecha de la Liga de Segunda División Profesional, que selló el descenso de Santiago Morning al fútbol amateur tras la victoria de Atlético Colina ante Real San Joaquín . El \"Chaguito\" dependí",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/segunda-division/un-historico-al-futbol-amateur-santiago-morning-descendio-a-tercera/2026-11-23/200309.html",
+   "date": "2026-11-23T23:03:09+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "568484b90c14",
+   "source": "Deutsche Welle",
+   "title": "Encuesta: la mayoría de los alemanes rechaza enviar armas a Ucrania",
+   "description": "Cada vez más alemanes creen que su país debería mantener un perfil bajo en política exterior. La mayoría rechaza la ayuda militar a Ucrania y apuesta por la neutralidad en el conflicto entre EE. UU. y China.",
+   "url": "https://www.dw.com/es/encuesta-la-mayoría-de-los-alemanes-rechaza-enviar-armas-a-ucrania/a-80026623?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-23T23:01:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "e917e33ba4e1",
+   "source": "Radio Cooperativa",
+   "title": "Sergio Rojas se lanzó contra Francisca García-Huidobro tras ser desinvitado de \"Primer Plano\"",
+   "description": "El periodista Sergio Rojas arremetio con todo contra Fran Garcia Huidobro tras asegurar que fue desinvitado de \"Primer Plano\", programa de Chilevisión al que, según su versión, asistiría para hablar sobre el conflicto judicial que mantiene con Leonardo Farkas. La polémica se prod",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/sergio-rojas-se-lanzo-contra-francisca-garcia-huidobro-tras-ser/2026-11-23/200054.html",
+   "date": "2026-11-23T23:00:54+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "56e9f79599c5",
+   "source": "BBC Mundo",
+   "title": "Lo que el ataque contra un buque militar ruso en Libia revela sobre la propagación de la guerra de Ucrania",
+   "description": "Si Ucrania es capaz de planificar y ejecutar un ataque tan audaz contra buques rusos en un puerto nominalmente neutral, situado a tanta distancia de su territorio, ¿dónde va a terminar esto?",
+   "url": "https://www.bbc.com/mundo/articles/cry86dl7jjw5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T23:00:49+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "6597349e2a3a",
+   "source": "Al Jazeera",
+   "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
+   "description": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
+   "date": "2026-11-23T22:54:47+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "33be2698ad6b",
+   "source": "Radio Cooperativa",
+   "title": "Alcaldes celebran decisión del GORE de rescatar y concluir la ciclovía Nueva Alameda",
+   "description": "Los alcaldes de Estación Central, Lo Prado y Maipú valoraron este lunes que el Gobierno Regional (GORE) Metropolitano , encabezado por Claudio Orrego , asuma el financiamiento del tercer y último tramo de la ciclovía Nueva Alameda , luego de que el Ministerio de Vivienda y Urbani",
+   "url": "https://www.cooperativa.cl/noticias/pais/ciudades/santiago/alcaldes-celebran-decision-del-gore-de-rescatar-y-concluir-la-ciclovia/2026-11-23/195218.html",
+   "date": "2026-11-23T22:52:18+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "b46e57c414e6",
+   "source": "Radio Cooperativa",
+   "title": "Ministerio de Medio Ambiente y la COP31: Nos hubiese gustado una propuesta más ambiciosa; fue insuficiente",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/sociedad/medioambiente/cumbres-cop/ministerio-de-medio-ambiente-y-la-cop31-nos-hubiese-gustado-una/2026-11-23/195147.html",
+   "date": "2026-11-23T22:51:47+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "ddc06a445a3c",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] Intervino la policía: Batalla campal marcó partido en Mundial de talla baja",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La segunda jornada del Mundial de fútbol de talla baja vivió una bochornosa situación el fin de semana, con una enorme pelea en pleno duelo del anfitrión Marruecos contra Colombia . El árbitro estaba deteniendo una discusió",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/video-intervino-la-policia-batalla-campal-marco-partido-en-mundial-de/2026-11-23/194837.html",
+   "date": "2026-11-23T22:48:37+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "c55d0a8c2364",
+   "source": "The Guardian",
+   "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+   "description": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous laughter from a crowd of ",
+   "url": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+   "date": "2026-11-23T22:41:48+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "c3b597855ea6",
+   "source": "Radio Cooperativa",
+   "title": "Bolsonaro sufre neumonía en medio de hospitalización por obstrucción intestinal",
+   "description": "El expresidente brasileño Jair Bolsonaro fue diagnosticado de neumonía en medio de su nueva hospitalización - desde el viernes- por una obstrucción intestinal . El cardiólogo Brasil Caiado explicó, durante una rueda de prensa en Brasilia, que el estado de salud de Bolsonaro había",
+   "url": "https://www.cooperativa.cl/noticias/mundo/brasil/jair-bolsonaro/bolsonaro-sufre-neumonia-en-medio-de-hospitalizacion-por-obstruccion/2026-11-23/194027.html",
+   "date": "2026-11-23T22:40:27+00:00",
+   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -182,16 +312,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7b26676576d5",
-   "source": "Radio Cooperativa",
-   "title": "Turista se enfrentó a intensas ráfagas de viento al cruzar puente en Torres del Paine",
-   "description": "Un turista pasó momentos de tensión al intentar cruzar uno de los puentes colgantes del Parque Nacional Torres del Paine, en la Región de Magallanes, en medio de las fuertes ráfagas de viento que afectan a la zona. El momento fue grabado por uno de sus acompañantes y muestra cómo",
-   "url": "https://www.cooperativa.cl/noticias/pais/region-de-magallanes/torres-del-paine/turista-se-enfrento-a-intensas-rafagas-de-viento-al-cruzar-puente-en/2026-11-23/183406.html",
-   "date": "2026-11-23T21:34:06+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "409aca94a3ef",
    "source": "Ex-Ante",
    "title": "Por qué Santiago se perfila como la capital más moderna de Sudamérica, según los rankings",
@@ -352,16 +472,6 @@
    "type": "Prensa"
   },
   {
-   "id": "37e35c12b71a",
-   "source": "Radio Cooperativa",
-   "title": "Mourinho defendió el exigente calendario: Para ganar dinero hay que trabajar mucho",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes José Mourinho, entrenador de Real Madrid , defendió la exigencia del calendario futbolístico y sostuvo que los elevados ingresos económicos de los jugadores implican asumir una importante carga de trabajo, en la antesala de",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/real-madrid/mourinho-defendio-el-exigente-calendario-para-ganar-dinero-hay-que/2026-11-23/174943.html",
-   "date": "2026-11-23T20:49:43+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "9e2d38284d08",
    "source": "Al Jazeera",
    "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
@@ -382,16 +492,6 @@
    "type": "Prensa"
   },
   {
-   "id": "28ff800c11ca",
-   "source": "Radio Cooperativa",
-   "title": "La zona central vivirá una semana calurosa, con máximas de hasta 35 grados",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/pais/tiempo/la-zona-central-vivira-una-semana-calurosa-con-maximas-de-hasta-35/2026-11-23/174127.html",
-   "date": "2026-11-23T20:41:27+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "090c72bb6bf4",
    "source": "France 24",
    "title": "Trump admite que intervino para que Nvidia restituyera a Jensen Huang; los demócratas anuncian investigación",
@@ -399,16 +499,6 @@
    "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261123-trump-admite-que-intervino-para-que-nvidia-restituyera-a-jensen-huang-los-dem%C3%B3cratas-anuncian-investigaci%C3%B3n",
    "date": "2026-11-23T20:34:08+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "d8cd8cde7acd",
-   "source": "Radio Cooperativa",
-   "title": "StartupLab Patagonia: La estrategia de innovación tecnológica de Puerto Varas",
-   "description": "Tomás Gárate, alcalde de Puerto Varas, detalló en Cooperativa la estrategia tecnológica comunal que destina un inédito 0,5% presupuestario a biotecnología y despliega pilotos municipales de inteligencia artificial. Aprobada unánimemente por el concejo, la estrategia supera el 0,3",
-   "url": "https://www.cooperativa.cl/noticias/economia/pymes/startuplab-patagonia-la-estrategia-de-innovacion-tecnologica-de-puerto/2026-11-23/173152.html",
-   "date": "2026-11-23T20:31:52+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -459,16 +549,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss",
    "date": "2026-11-23T20:22:12+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "b574ca0ed4d9",
-   "source": "Radio Cooperativa",
-   "title": "Casi medio millón de soldados rusos han muerto en la guerra en Ucrania, según filtración",
-   "description": "Cerca de 490.000 soldados rusos han muerto en casi cinco años de guerra en Ucrania , según medios independientes rusos, que citan estadísticas jaqueadas por informáticos bielorrusos y ucranianos . Según los datos que ofrecen los portales Meduza y Mediazona , otros 230.000 militar",
-   "url": "https://www.cooperativa.cl/noticias/mundo/europa/ucrania/casi-medio-millon-de-soldados-rusos-han-muerto-en-la-guerra-en-ucrania/2026-11-23/171828.html",
-   "date": "2026-11-23T20:18:28+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -529,16 +609,6 @@
    "url": "https://www.dw.com/es/así-es-el-plan-de-ahorro-infantil-para-la-jubilación-en-alemania/a-80026588?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-23T19:57:00+00:00",
    "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "2fb104522cd2",
-   "source": "Radio Cooperativa",
-   "title": "Jordi Castell acusó \"persecución\" de Comunidad Judía de Chile: Piden sacarme del aire",
-   "description": "El fotógrafo y opinólogo Jordi Castell Abusleme lanzó una dura denuncia contra la Comunidad Judía de Chile , acusando \"persecución\" en su contra a raíz de su posición crítica contra Israel y sus opiniones a favor de Palestina. Castell, cuya madre es de origen palestino, incluso a",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/jordi-castell-acuso-persecucion-de-comunidad-judia-de-chile-piden/2026-11-23/165326.html",
-   "date": "2026-11-23T19:53:26+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1029,36 +1099,6 @@
    "url": "https://www.france24.com/es/programas/boleto-de-vuelta/20261123-atravesando-afganist%C3%A1n-por-la-ruta-de-la-muerte",
    "date": "2026-11-23T15:46:49+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "fbf768a42e39",
-   "source": "Al Jazeera",
-   "title": "Israeli soldiers assault Palestinian after raiding his home",
-   "description": "Israeli forces assault a Palestinian man during a raid on his home in the occupied West Bank.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-soldiers-assault-palestinian-after-raiding-his-home?traffic_source=rss",
-   "date": "2026-11-23T15:40:15+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "b829939d7d8e",
-   "source": "Al Jazeera",
-   "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
-   "description": "Jensen Huang is reinstated as NVIDIA’s CEO after reports he was targeted in an alleged foreign intelligence operation.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal?traffic_source=rss",
-   "date": "2026-11-23T15:23:05+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "7a91e7bef398",
-   "source": "Al Jazeera",
-   "title": "Brazil coach mistaken for pitch invader, put in headlock",
-   "description": "Footage shows Parana Clube coach Tcheco being grabbed by security guard after celebrating a goal with fans.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/brazil-coach-mistaken-for-pitch-invader-put-in-headlock?traffic_source=rss",
-   "date": "2026-11-23T15:15:36+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1562,26 +1602,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e5ff60c35047",
-   "source": "The Guardian",
-   "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
-   "description": "Foreign combatants in Port-au-Prince welcomed by many after years of gang control but some fear offensive could exacerbate volatile situation A bullet-peppered mural of the Haitian striker Emmanuel Sanon covers the facade of Port-au-Prince’s main football ground. But more than tw",
-   "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
-   "date": "2026-11-21T11:00:57+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "044a801eb194",
-   "source": "BBC Mundo",
-   "title": "Cómo una taza de té mal servida transformó la estadística y abrió el camino a la ciencia de los datos",
-   "description": "Un curioso desafío entre colegas terminó dando forma a las reglas que hoy sostienen casi cualquier experimento científico.",
-   "url": "https://www.bbc.com/mundo/articles/cpq0lv5p5vqo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-21T09:51:54+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "677f9a50ff94",
    "source": "The Guardian",
    "title": "China commits to low-carbon electrification and help for others to improve",
@@ -2019,16 +2039,6 @@
    "url": "https://www.ciperchile.cl/2026/11/18/radar-18-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-18-11-26",
    "date": "2026-11-18T23:14:07+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "97e56c65a0f1",
-   "source": "CIPER Chile",
-   "title": "Presupuesto 2027: expertos alertan por rebajas en programas medioambientales y de eficiencia energética",
-   "description": "La entrada Presupuesto 2027: expertos alertan por rebajas en programas medioambientales y de eficiencia energética se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/18/presupuesto-2027-expertos-alertan-por-rebajas-en-programas-medioambientales-y-de-eficiencia-energetica/?utm_source=rss&utm_medium=rss&utm_campaign=presupuesto-2027-expertos-alertan-por-rebajas-en-programas-medioambientales-y-de-eficiencia-energetica",
-   "date": "2026-11-18T19:24:43+00:00",
-   "category": "Finanzas públicas",
    "type": "Prensa"
   },
   {
