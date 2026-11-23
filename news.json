@@ -1,6 +1,196 @@
 {
- "updated": "2026-11-23T17:59:07.393713+00:00",
+ "updated": "2026-11-23T18:57:59.908856+00:00",
  "items": [
+  {
+   "id": "6a6340ce8d48",
+   "source": "Río en Línea",
+   "title": "Habilitan mapa con 181 puntos de reciclaje en Valdivia: Revisa dónde dejar tus residuos",
+   "description": "La herramienta reúne lugares de acopio en sectores urbanos y rurales, donde la comunidad puede depositar pilas, botellas, latas, vidrios, aceite de cocina y neumáticos. La Municipalidad de Valdivia presentó un mapa georreferenciado que identifica 181 puntos de reciclaje distribui",
+   "url": "https://www.rioenlinea.cl/habilitan-mapa-con-181-puntos-de-reciclaje-en-valdivia-revisa-donde-dejar-tus-residuos/",
+   "date": "2026-11-23T18:51:03+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "06bc589f8dae",
+   "source": "BBC Mundo",
+   "title": "Por qué Jensen Huang es demasiado importante como para que Nvidia pudiera despedirlo",
+   "description": "El papel de Huang como pieza clave en la transformación de su empresa en un pilar fundamental de la IA resultó crucial para su regreso.",
+   "url": "https://www.bbc.com/mundo/articles/c9143kp61ldjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T18:40:21+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "358662419af8",
+   "source": "The Guardian",
+   "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – as it happened",
+   "description": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisation commis",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+   "date": "2026-11-23T18:31:17+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "15934175a996",
+   "source": "France 24",
+   "title": "Mercados reaccionan positivamente al regreso de Jensen Huang a Nvidia",
+   "description": "El Consejo de Administración de la fabricante de semiconductores Nvidia confirmó este lunes el regreso de Jensen Huang a la empresa que cofundó hace 33 años, luego de que representantes gubernamentales confirmaran que no representa un riesgo para la seguridad nacional. La noticia",
+   "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261123-economia-nvidia-jensen-huang-regreso",
+   "date": "2026-11-23T18:30:45+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "b879781a0ab9",
+   "source": "Radio Cooperativa",
+   "title": "Mario Salas y el insulto del plantel de Cobreloa a Suazo: Es un momento de euforia, no soy quién para juzgar",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/cobreloa/mario-salas-y-el-insulto-del-plantel-de-cobreloa-a-suazo-es-un-momento/2026-11-23/152817.html",
+   "date": "2026-11-23T18:28:17+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "546c11651f8a",
+   "source": "Radio Cooperativa",
+   "title": "Preocupación en la U: Eduardo Vargas pasará por el quirófano",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El goleador de Universidad de Chile Eduardo Vargas se perderá el próximo partido del elenco azul ante Deportes Concepción luego de ser sometido a una operación. De acuerdo a la información de Cooperativa Deportes , el ariet",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/preocupacion-en-la-u-eduardo-vargas-pasara-por-el-quirofano/2026-11-23/152809.html",
+   "date": "2026-11-23T18:28:09+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "b963bb3121be",
+   "source": "Radio Cooperativa",
+   "title": "Bianneider Tamayo despertó interés en el fútbol italiano",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El defensor venezolano Bianneider Tamayo despertó el interés de un club de Italia , en medio de su falta de protagonismo en Universidad de Chile , donde no ha vuelto a sumar citaciones después de su última participación con",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/bianneider-tamayo-desperto-interes-en-el-futbol-italiano/2026-11-23/152623.html",
+   "date": "2026-11-23T18:26:23+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "7f7a0cd838d9",
+   "source": "Al Jazeera",
+   "title": "What Russian warship did Ukraine just sink?",
+   "description": "Ukraine says it sank the Russian warship Merkury off the coast of Libya. Here's why the vessel is significant.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
+   "date": "2026-11-23T18:25:55+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "eeccd8c2d6d8",
+   "source": "The Guardian",
+   "title": "Former prince Andrew was paid £750,000 in hope of helping Turkish woman with passport, high court told",
+   "description": "Nebahat Isbilen claims her former adviser paid bribe in return for help with passport, but money was returned Andrew Mountbatten-Windsor was paid a £750,000 “bribe” in the hope of helping a Turkish woman with her passport, the high court has been told. Nebahat Isbilen is suing he",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/23/former-prince-andrew-was-paid-bribe-to-help-turkish-woman-with-passport-high-court-told",
+   "date": "2026-11-23T18:20:03+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "0a34d1fb31e2",
+   "source": "Radio Cooperativa",
+   "title": "\"Sentí que me venían a buscar\": Ricky Martin reveló que pasó 50 días en cama por Covid",
+   "description": "El cantante Ricky Martin reveló que enfrentó un grave cuadro de Covid-19 que lo mantuvo casi dos meses en cama , período en el que llegó a sentir que estaba cerca de la muerte. En conversación con el periodista Enrique Santos, el artista explicó que decidió no acudir a un hospita",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/senti-que-me-venian-a-buscar-ricky-martin-revelo-que-paso-50-dias-en/2026-11-23/151727.html",
+   "date": "2026-11-23T18:17:27+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e91ff9d029eb",
+   "source": "Al Jazeera",
+   "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+   "description": "Nepal's Prime Minister Balendra Shah is in New Delhi for a two-day visit — his first since coming to power in March.",
+   "url": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss",
+   "date": "2026-11-23T18:12:55+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "3a67bb4f3365",
+   "source": "The Guardian",
+   "title": "Gisèle Pelicot ‘deeply shocked’ after nude images used to promote book",
+   "description": "French woman says she will pursue legal action against publisher and author over use of photos taken by convicted husband Gisèle Pelicot has said she is “deeply shocked” that nude photographs of her had been used without her consent to promote a psychoanalyst’s book that suggests",
+   "url": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france",
+   "date": "2026-11-23T18:12:48+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "ee3783fd45f8",
+   "source": "Radio Cooperativa",
+   "title": "Steven Spielberg confirmó su primer western con Cillian Murphy y Jessie Buckley",
+   "description": "El laureado cineasta Steven Spielberg confirmó que su próxima película será una adaptación de la novela \"El corazón en invierno\" (\"The Heart in Winter\") , de Kevin Barry , siendo el primer western de su longeva carrera cinematográfica. Tras encabezar la exitosa \"Disclosure Day\" (",
+   "url": "https://www.cooperativa.cl/noticias/magazine/cine/steven-spielberg-confirmo-su-primer-western-con-cillian-murphy-y-jessie/2026-11-23/150830.html",
+   "date": "2026-11-23T18:08:30+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9f4e3bfecbc5",
+   "source": "The Guardian",
+   "title": "Only six beds for trans victims of domestic abuse in UK, report finds",
+   "description": "Exclusive: Services say the supreme court ruling on single-sex spaces has made it ‘almost impossible’ to find refuges for trans people There are only six beds specifically for trans victims of domestic abuse in the UK, a new report has found, with services saying it is “almost im",
+   "url": "https://www.theguardian.com/society/2026/nov/23/only-six-beds-for-trans-victims-of-domestic-abuse-in-uk-report-finds",
+   "date": "2026-11-23T18:07:04+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "4ffd05b4b951",
+   "source": "France 24",
+   "title": "Los bombardeos israelíes han convertido la Franja de Gaza en un \"vertedero tóxico\", según Oxfam",
+   "description": "La organización con sede en Reino Unido alerta en un reciente informe de los altos niveles de contaminación por residuos químicos, metales pesados y contaminantes, que afectan al 99% del enclave, uno de los territorios más densamente poblados del mundo. Por otro lado, la agencia ",
+   "url": "https://www.france24.com/es/medio-oriente/20261123-los-bombardeos-israel%C3%ADes-han-convertido-la-franja-de-gaza-en-un-vertedero-t%C3%B3xico-seg%C3%BAn-oxfam",
+   "date": "2026-11-23T18:05:43+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "d92f3aaa10ee",
+   "source": "Radio Cooperativa",
+   "title": "Windsurf: Marc Paré se coronó campeón mundial en Matanzas",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El español Marc Paré se coronó campeón mundial de windsurf en olas por segundo año consecutivo , luego de asegurar el título del World Windsurf Tour 2026 durante el Chile World Cup Grand Final que se desarrolla en Matanzas,",
+   "url": "https://www.cooperativa.cl/noticias/deportes/polideportivo/deportes-extremos/windsurf-marc-pare-se-corono-campeon-mundial-en-matanzas/2026-11-23/150212.html",
+   "date": "2026-11-23T18:02:12+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "dedddb4f6a2e",
+   "source": "Deutsche Welle",
+   "title": "La FIFA concede a EE. UU., México, Costa Rica y Jamaica el Mundial femenino de 2031",
+   "description": "El presidente de la FIFA, Gianni Infantino, dijo que el objetivo es hacer del fútbol femenino un espectáculo “verdaderamente global”. Reino Unido organizará la edición de 2035.",
+   "url": "https://www.dw.com/es/la-fifa-concede-a-ee-uu-méxico-costa-rica-y-jamaica-el-mundial-femenino-de-2031/a-80026415?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-23T18:02:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "c08b91b1e953",
+   "source": "Al Jazeera",
+   "title": "Danish top court’s ‘ghetto law’ ruling supports hardline immigration policy",
+   "description": "The country's top court said eviction of 'non-Western' families did not constitute discrimination.",
+   "url": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss",
+   "date": "2026-11-23T18:00:23+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "033a33fc5e42",
+   "source": "Radio Cooperativa",
+   "title": "Claro y futuro de Garnero: Los análisis los haremos cuando termine el campeonato",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/claro-y-futuro-de-garnero-los-analisis-los-haremos-cuando-termine-el/2026-11-23/145358.html",
+   "date": "2026-11-23T17:53:58+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "89a850dd10be",
    "source": "Deutsche Welle",
@@ -12,13 +202,43 @@
    "type": "Prensa"
   },
   {
-   "id": "358662419af8",
+   "id": "26bfe52a5937",
    "source": "The Guardian",
-   "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – UK politics live",
-   "description": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisation commis",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T17:36:35+00:00",
+   "title": "‘Scapegoating’: green groups condemn plan to axe Environment Agency and Natural England",
+   "description": "Ministers proposing to abolish the quangos in attempt to give politicians more control over what gets built and where Scientists have accused the government of scapegoating nature for proposing to scrap the only environmental regulator with a legal duty to protect the natural wor",
+   "url": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
+   "date": "2026-11-23T17:47:58+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "91335903aad9",
+   "source": "Radio Cooperativa",
+   "title": "Orrego propone financiar el último tramo de la ciclovía Nueva Alameda",
+   "description": "El Gobierno Regional Metropolitano asumirá el financiamiento del tercer y último tramo de la ciclovía Nueva Alameda , luego que el Ministerio de Vivienda y Urbanismo retirara los recursos destinados a su construcción en marzo de este año. La inversión será de más de 7.200 millone",
+   "url": "https://www.cooperativa.cl/noticias/pais/ciudades/santiago/orrego-propone-financiar-el-ultimo-tramo-de-la-ciclovia-nueva-alameda/2026-11-23/144232.html",
+   "date": "2026-11-23T17:42:32+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "06c72523d845",
+   "source": "The Guardian",
+   "title": "What tactics will Burnham use to sell his EU plans? – podcast",
+   "description": "Andy Burnham has set out his plans to win parliamentary backing for a new EU deal. But the various options for how Britain could rejoin the EU, or ‘Breturn’, will not be outlined until December. Pippa Crerar has been speaking to the prime minister about how he hopes to convince t",
+   "url": "https://www.theguardian.com/politics/audio/2026/nov/23/what-tactics-will-burnham-use-to-sell-his-eu-plans-podcast",
+   "date": "2026-11-23T17:42:13+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "dfa8ca5b7ee2",
+   "source": "Radio Cooperativa",
+   "title": "Soto pide a Rabat que \"dé la cara\" ante la comisión revisora",
+   "description": "El diputado Raúl Soto (PPD) , presidente de la comisión que revisa la acusación constitucional contra el ministro de Justicia, Fernando Rabat , emplazó este lunes al secretario de Estado a comparecer personalmente ante la instancia y entregar los decretos que firmó el Gobierno pa",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/soto-pide-a-rabat-que-de-la-cara-ante-la-comision-revisora/2026-11-23/144125.html",
+   "date": "2026-11-23T17:41:25+00:00",
+   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -102,26 +322,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5ec0665df248",
-   "source": "The Guardian",
-   "title": "Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe",
-   "description": "Advocates from across the world voice concern over privacy issues and inappropriate communication to children More than 150 child safety groups and experts across six continents have urged Amazon and eBay to stop selling AI toys this Christmas until they are proved to be safe. In",
-   "url": "https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe",
-   "date": "2026-11-23T17:18:06+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "4b7613d42658",
-   "source": "Radio Cooperativa",
-   "title": "La calculadora para el \"Chile 2\": La U puede asegurar el cupo en la próxima fecha",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La lucha por el \"Chile 2\" para la Copa Libertadores 2027 entró en su recta final después de la fecha 28 de la Liga de Primera, con Universidad de Chile a cinco puntos de Universidad Católica y la posibilidad de asegurar mat",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/la-calculadora-para-el-chile-2-la-u-puede-asegurar-el-cupo-en-la/2026-11-23/141715.html",
-   "date": "2026-11-23T17:17:15+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "4dba03f6fd0a",
    "source": "BBC Mundo",
    "title": "Un buque de guerra ruso es atacado y hundido por drones ucranianos en un puerto de Libia, según Zelensky",
@@ -152,16 +352,6 @@
    "type": "Prensa"
   },
   {
-   "id": "830cd2f05933",
-   "source": "Radio Cooperativa",
-   "title": "Universidad de Concepción al límite: La calculadora del descenso a dos fechas del final",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La lucha por evitar el descenso en la Liga de Primera 2026 quedó concentrada en cinco equipos después de la fecha 28, con Universidad de Concepción y Unión La Calera en los dos últimos lugares y una diferencia de cinco punt",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/universidad-de-concepcion-al-limite-la-calculadora-del-descenso-a-dos/2026-11-23/140525.html",
-   "date": "2026-11-23T17:05:25+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "62e37a9ccd03",
    "source": "Deutsche Welle",
    "title": "El futuro del ajedrez mundial se juega en Asia",
@@ -179,16 +369,6 @@
    "url": "https://www.france24.com/es/video/20261123-zelenski-reivindica-ataque-con-drones-ucranianos-contra-barcos-rusos-en-libia",
    "date": "2026-11-23T17:04:58+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "b41ad4713034",
-   "source": "Radio Cooperativa",
-   "title": "Yaya Touré: \"Aprendí muchas cosas buenas de Pellegrini, el reencuentro será bonito\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Yaya Touré, entrenador de Slovan Bratislava, recordó este lunes que aprendió \"muchas cosas buenas\" del técnico chileno Manuel Pellegrini, que lo dirigió cuando era mediocampista en Manchester City entre 2013 y 2016 a lo lar",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/yaya-toure-aprendi-muchas-cosas-buenas-de-pellegrini-el-reencuentro/2026-11-23/140204.html",
-   "date": "2026-11-23T17:02:04+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -242,16 +422,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c314a128272d",
-   "source": "Radio Cooperativa",
-   "title": "Carabinero frustró a disparos violento robo contra mujer en La Granja",
-   "description": "Un carabinero de franco frustró un violento robo en contra de una mujer durante la noche de este domingo en la comuna de La Granja, en la intersección de Estadio con Avenida Ovalle. Como relató el teniente Cristián Manquilef , \"él venía con tres funcionarios más y visualiza que u",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/robos/carabinero-frustro-a-disparos-violento-robo-contra-mujer-en-la-granja/2026-11-23/134459.html",
-   "date": "2026-11-23T16:44:59+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "02e8612368ff",
    "source": "The Guardian",
    "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
@@ -292,16 +462,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2fcd5e5bcc16",
-   "source": "Radio Cooperativa",
-   "title": "Cooperativa Deportes: Colo Colo superó a la UC y le dio una mano a la U por el \"Chile 2\"",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/cooperativa-deportes/opinion/cooperativa-deportes-colo-colo-supero-a-la-uc-y-le-dio-una-mano-a-la-u/2026-11-23/134044.html",
-   "date": "2026-11-23T16:40:44+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "0c10343643bb",
    "source": "Ex-Ante",
    "title": "Lecciones del caso Nvidia",
@@ -332,16 +492,6 @@
    "type": "Prensa"
   },
   {
-   "id": "bd906f2df48c",
-   "source": "Radio Cooperativa",
-   "title": "Montecinos contó su versión tras ser detenido afuera del Estadio CAP: \"Hubo un malentendido con un carabinero\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El delantero de Deportes Concepción, Joaquín Montecinos, salió al paso a través de sus redes sociales para entregar su versión luego de ser detenido por Carabineros durante la tarde de este domingo 22 de noviembre en Talcah",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/deportes-concepcion/montecinos-conto-su-version-tras-ser-detenido-afuera-del-estadio-cap/2026-11-23/133600.html",
-   "date": "2026-11-23T16:36:00+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "7f32510dc1b6",
    "source": "Al Jazeera",
    "title": "Gaza mourns UNRWA worker killed in Israeli strike",
@@ -349,36 +499,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-mourns-unrwa-worker-killed-in-israeli-strike?traffic_source=rss",
    "date": "2026-11-23T16:35:28+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "13421cc6f411",
-   "source": "The Guardian",
-   "title": "Ian Huntley killer felt ‘sick of him’ and that he had nothing to lose, court told",
-   "description": "Jurors hear inmate Anthony Russell bludgeoned Soham murderer with metal bar after being bullied by him A prisoner thought he had nothing to lose when he killed the Soham murderer, Ian Huntley, by repeatedly striking him over the head with a 4kg iron bar, a court has heard. Anthon",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/23/ian-huntley-killed-by-inmate-court-trial",
-   "date": "2026-11-23T16:34:15+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "71bff02a4e7f",
-   "source": "Radio Cooperativa",
-   "title": "Cabero denunció graves incidentes de hinchas de Colo Colo en el clásico ante la UC",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El árbitro José Cabero denunció una serie de incidentes protagonizados por hinchas de Colo Colo durante el triunfo por 3-0 sobre Universidad Católica en el Estadio Monumental, donde el lanzamiento de elementos pirotécnicos ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/cabero-denuncio-graves-incidentes-de-hinchas-de-colo-colo-en-el-clasico/2026-11-23/132744.html",
-   "date": "2026-11-23T16:27:44+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "8f4f53c36e14",
-   "source": "Radio Cooperativa",
-   "title": "Informe arbitral detalló el motivo de la expulsión de Lichnovsky ante O'Higgins",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El informe arbitral de Juan Lara entregó detalles de la expulsión de Igor Lichnovsky durante el triunfo por 1-0 de Universidad de Chile ante O'Higgins , disputado el sábado en el Estadio El Teniente de Rancagua. Según consi",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/informe-arbitral-detallo-el-motivo-de-la-expulsion-de-lichnovsky-ante/2026-11-23/132601.html",
-   "date": "2026-11-23T16:26:01+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -412,26 +532,6 @@
    "type": "Prensa"
   },
   {
-   "id": "50e93ede238b",
-   "source": "The Guardian",
-   "title": "Teenage boy stabbed 14-year-old girl 55 times in park in south Wales, jury told",
-   "description": "Defendant and Lilly Jones had been messaging for months and arranged to meet on evening she was killed, court hears A teenage boy stabbed a 14-year-old girl 55 times after the pair met up in a park near her home, a jury has heard. The body of Lilly Jones was found two days later ",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/23/lilly-jones-stabbing-park-south-wales-trial",
-   "date": "2026-11-23T16:19:06+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "39efd330d6e1",
-   "source": "Radio Cooperativa",
-   "title": "\"La admiro mucho\": Gabriel Urzúa dedicó románticas palabras a Geraldine Muñoz en \"Fiebre de Canto\"",
-   "description": "Gabriel Urzúa sorprendió a Geraldine Muñoz durante su participación en \"Fiebre de Canto\", donde la bailarina recibió la visita de su pareja tras interpretar \"Ay, amor\", de Myriam Hernández. Durante el capítulo del domingo, la conductora Diana Bolocco comenzó a buscar al actor ent",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/la-admiro-mucho-gabriel-urzua-dedico-romanticas-palabras-a-geraldine/2026-11-23/131255.html",
-   "date": "2026-11-23T16:12:55+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "9e76c801e117",
    "source": "France 24",
    "title": "📺 'Reporteros': Colombia, 10 años de una paz inconclusa",
@@ -442,13 +542,13 @@
    "type": "Prensa"
   },
   {
-   "id": "0001133eeca1",
+   "id": "6fc92c06d93f",
    "source": "Radio Cooperativa",
-   "title": "Zelenski reivindica los ataques contra dos buques rusos cerca de Libia",
-   "description": "El presidente ucraniano, Volodímir Zelenski, reivindicó este lunes los dos ataques que sufrieron dos buques rusos cerca de las costas de Libia este fin de semana. \"Una operación ucraniana ejemplar en respuesta a la guerra de Rusia\", dijo Zelenski, que explicó que tanto la corbeta",
-   "url": "https://www.cooperativa.cl/noticias/mundo/europa/ucrania/zelenski-reivindica-los-ataques-contra-dos-buques-rusos-cerca-de-libia/2026-11-23/130218.html",
-   "date": "2026-11-23T16:02:18+00:00",
-   "category": "Rusia y espacio postsoviético",
+   "title": "Consultor aeronáutico por capotaje en Peñalolén: \"Falló el avión, no el Aeródromo de Tobalaba\"",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/avioneta-penalolen/consultor-aeronautico-por-capotaje-en-penalolen-fallo-el-avion-no-el/2026-11-23/130834.html",
+   "date": "2026-11-23T16:08:34+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -458,16 +558,6 @@
    "description": "Exclusive: Figures from cache of 11m death certificates reveal suicides account for about a regiment of Russia’s war dead Russia’s war dead: the hidden toll of the Ukraine conflict In late October 2024, Alexei Bolgov, a sergeant guarding a military headquarters in the occupied Do",
    "url": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war",
    "date": "2026-11-23T16:00:51+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "fa805d91cce1",
-   "source": "The Guardian",
-   "title": "Russia’s war dead: the hidden toll of the Ukraine conflict",
-   "description": "Exclusive: Analysis gives most detailed picture yet of the nearly 500,000 Russian losses in Ukraine since 2022 Leaked data shows more than 1,000 Russian military suicides during Ukraine war Alexander Korepanov signed up to fight in August 2023. He was wounded twice and twice sent",
-   "url": "https://www.theguardian.com/world/2026/nov/23/russia-war-dead-hidden-toll-ukraine-conflict",
-   "date": "2026-11-23T16:00:50+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -622,16 +712,6 @@
    "type": "Prensa"
   },
   {
-   "id": "79efef4a8053",
-   "source": "Río en Línea",
-   "title": "“La Reina del Ganado”: Investigan red que usaba empresas ficticias para evadir IVA con 33 detenidos en Los Ríos",
-   "description": "Un amplio operativo policial desarrollado en el marco de la operación denominada “La Reina del Ganado” permitió concretar 33 detenciones en la Región de Los Ríos, tras una investigación interregional encabezada por la Policía de Investigaciones (PDI), con diligencias coordinadas ",
-   "url": "https://www.rioenlinea.cl/la-reina-del-ganado-investigan-red-que-usaba-empresas-ficticias-para-evadir-iva-con-33-detenidos-en-los-rios/",
-   "date": "2026-11-23T14:24:34+00:00",
-   "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
    "id": "a7749ad9c503",
    "source": "BBC Mundo",
    "title": "\"La violencia de hoy no es producto del acuerdo de paz. Es la falta de implementación\": Juan Manuel Santos y Rodrigo Londoño a BBC Mundo",
@@ -779,16 +859,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
    "date": "2026-11-23T13:04:11+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "a8331761b8c5",
-   "source": "The Guardian",
-   "title": "Twenty Gaza students due to leave for Ireland after winning visa battle",
-   "description": "Group’s evacuation follows campaign to overturn decision to deny visas to more than 60 students from territory Twenty students from Gaza are to travel to Ireland to take up scholarships after winning a battle for visas that undercut the Irish government’s reputation as a champion",
-   "url": "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
-   "date": "2026-11-23T13:03:14+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -942,26 +1012,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0671bb734ec3",
-   "source": "Al Jazeera",
-   "title": "Lebanese families return to ruins after Israeli attacks in south",
-   "description": "In southern Lebanon’s Nabatieh, displaced families have been returning to ruins and widespread destruction.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/lebanese-families-return-to-ruins-after-israeli-attacks-in-south?traffic_source=rss",
-   "date": "2026-11-23T10:57:20+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "3d90b270608f",
-   "source": "Al Jazeera",
-   "title": "CAS decision on Senegal’s AFCON 2025 title appeal on Tuesday",
-   "description": "Senegal are contesting CAF's decision to declare Morocco champions, despite Senegal winning the final 1-0 in January.",
-   "url": "https://www.aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal?traffic_source=rss",
-   "date": "2026-11-23T10:55:05+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "90bcc2e17605",
    "source": "BBC Mundo",
    "title": "Friselle, el ingenioso pan italiano que puede durar un año",
@@ -979,16 +1029,6 @@
    "url": "https://www.bbc.com/mundo/watch/cm0evqgj5p4go?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-23T10:36:08+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "36e3326e179f",
-   "source": "Al Jazeera",
-   "title": "Why is Bangladesh’s Grameen Bank under attack?",
-   "description": "Leading financial institution has found itself at centre of tensions amid violence by Sheikh Hasina supporters.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/why-is-bangladeshs-grameen-bank-under-attack?traffic_source=rss",
-   "date": "2026-11-23T10:22:34+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1182,16 +1222,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8ad2405b6f4c",
-   "source": "France 24",
-   "title": "Fracasa la COP31 por desacuerdos sobre combustibles fósiles",
-   "description": "Lo que parecía ser un fracaso inminente se confirmó este 22 de noviembre, luego de que las partes de la COP31 no lograran alcanzar un acuerdo final en Antalya, Turquía, ante la negativa a mencionar explícitamente el abandono de los combustibles fósiles. \"Esta COP ha sido secuestr",
-   "url": "https://www.france24.com/es/video/20261122-fracasa-la-cop31-por-desacuerdos-sobre-combustibles-f%C3%B3siles",
-   "date": "2026-11-22T22:25:09+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "73ce4977d9ce",
    "source": "The Guardian",
    "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
@@ -1208,16 +1238,6 @@
    "description": "La Feria Internacional del Libro de Santiago atraviesa una crisis que ya no parece circunstancial. La caída de visitantes y ventas de este año se…",
    "url": "https://www.ex-ante.cl/cultura/feria-del-libro-menos-publico-ventas/",
    "date": "2026-11-22T21:22:13+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "031301351fda",
-   "source": "France 24",
-   "title": "Alcaraz conquista el Masters ATP y a sus 23 años entra al club de Djokovic, Federer y Agassi",
-   "description": "El español Carlos Alcaraz, de 23 años, derrotó al alemán Alexander Zverev, número uno mundial, este domingo 22 de noviembre en Turín y conquistó su primer Masters ATP, un torneo que se le escapó siempre a su reconocido compatriota Rafa Nadal. Este triunfo lo sitúa en el selecto c",
-   "url": "https://www.france24.com/es/deportes/20261122-alcaraz-conquista-el-masters-atp-y-a-sus-23-a%C3%B1os-entra-al-club-de-djokovic-federer-y-agassi",
-   "date": "2026-11-22T21:21:13+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -1729,16 +1749,6 @@
    "url": "https://www.bbc.com/mundo/articles/c617k978p47ro?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T22:49:43+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "424c58d2604d",
-   "source": "BBC Mundo",
-   "title": "\"Sin nuestro territorio, la vida será muy difícil\": quiénes son los awá, el grupo de indígenas aislados de Brasil que hizo un contacto inusual con otra comunidad",
-   "description": "El encuentro de un grupo de indígenas awá con otra tribu en el estado brasileño de Maranhão es \"una señal alarmante\" del avance de la tala en la selva, asegura la investigadora Sarah Shenker.",
-   "url": "https://www.bbc.com/mundo/articles/c6wy9d7ee1zwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T21:02:09+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
