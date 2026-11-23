@@ -1,14 +1,204 @@
 {
- "updated": "2026-11-23T20:53:19.982585+00:00",
+ "updated": "2026-11-23T21:46:56.528139+00:00",
  "items": [
+  {
+   "id": "75e686411847",
+   "source": "BBC Mundo",
+   "title": "Las acciones del gigante tecnológico Nvidia se disparan tras anunciarse el regreso de Jensen Huang como director ejecutivo 11 días después de su renuncia",
+   "description": "Las acciones del gigante de la inteligencia artificial se dispararon cerca de 30% tras el anuncio del regreso de Huang al inicio de la jornada bursátil.",
+   "url": "https://www.bbc.com/mundo/articles/cm4gnx691zp5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T21:40:47+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "a999755d508e",
+   "source": "France 24",
+   "title": "Buques rusos atacados en Libia: Ucrania amplía el alcance de la lucha",
+   "description": "El presidente Volodímir Zelenski reivindicó el lunes 23 de noviembre la autoría del ataque contra dos buques de guerra rusos frente a las costas de Bengasi, en el este de Libia. Esta operación apuntó a atacar la logística rusa y volver a situar la cuestión ucraniana en el centro ",
+   "url": "https://www.france24.com/es/europa/20261123-buques-rusos-atacados-en-libia-ucrania-ampl%C3%ADa-el-alcance-de-la-lucha",
+   "date": "2026-11-23T21:39:16+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "806dba2e9052",
+   "source": "France 24",
+   "title": "2026, uno de los años más críticos y extremos a nivel climático",
+   "description": "2026 se perfila como uno de los años más alarmantes de la historia climática mundial. Durante el transcurso del año, diferentes partes del mundo han sido víctimas de fenómenos extremos como ciclones, deslizamientos, riadas, inundaciones e incendios forestales sin precedentes. Los",
+   "url": "https://www.france24.com/es/video/20261123-2026-uno-de-los-a%C3%B1os-m%C3%A1s-cr%C3%ADticos-y-extremos-a-nivel-clim%C3%A1tico",
+   "date": "2026-11-23T21:38:00+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "77fd38ea56f3",
    "source": "The Guardian",
-   "title": "Australian politics live: Penny Wong to defend US alliance; rental affordability plummets to 14-year low",
-   "description": "Get our breaking news email , free app or daily news podcast Nvidia stock market reaction shows global market ‘volatile’, says Chalmers The treasurer, Jim Chalmers , also doesn’t want to make any personal judgements on Jensen Huang or the decision to reinstate him, but he says th",
+   "title": "Australian politics live: Labor to ‘save more than we spend’ in budget update, Chalmers says; rental affordability plummets to 14-year low",
+   "description": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-   "date": "2026-11-23T20:43:32+00:00",
+   "date": "2026-11-23T21:37:18+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "409aca94a3ef",
+   "source": "Ex-Ante",
+   "title": "Por qué Santiago se perfila como la capital más moderna de Sudamérica, según los rankings",
+   "description": "“Santiago es la provincia de Buenos Aires”, decía el poeta Jorge Teillier. Pero eso está cambiando. A juzgar por lo que se comenta en redes…",
+   "url": "https://www.ex-ante.cl/nacional/santiago-capital-moderna-sudamerica/",
+   "date": "2026-11-23T21:32:41+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "326ba37cb221",
+   "source": "BBC Mundo",
+   "title": "La cantante iraní que recibió 74 latigazos por actuar en YouTube sin el velo",
+   "description": "Según sus abogados, Parastoo Ahmadi, tres músicos y un productor recibieron 74 latigazos en Qom.",
+   "url": "https://www.bbc.com/mundo/articles/cmly7qnw55z4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T21:19:36+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "3371a01a8cc9",
+   "source": "Deutsche Welle",
+   "title": "¿Qué pasaría si explotara un arma nuclear en el espacio?",
+   "description": "La atmósfera terrestre nos protege de una explosión nuclear en el espacio, pero los satélites son más vulnerables. Explicamos cómo puede dañarlos la radiación, cuánto duran sus efectos y cómo protegerlos.",
+   "url": "https://www.dw.com/es/¿qué-pasaría-si-explotara-un-arma-nuclear-en-el-espacio/a-80026814?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-23T21:14:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "ad9e4cb23707",
+   "source": "France 24",
+   "title": "Informe desde Washington: Jensen Huang vuelve como CEO de Nvidia",
+   "description": "Poco más de una semana pasó para que Nvidia volviera a contratar a Jensen Huang, presidente de la compañía tecnológica hasta que se hizo pública una relación extramatrimonial con una posible espía china y otras dos infidelidades. El presidente Donald Trump, amigo del empresario, ",
+   "url": "https://www.france24.com/es/video/20261123-informe-desde-washington-jensen-huang-vuelve-como-ceo-de-nvidia",
+   "date": "2026-11-23T21:07:37+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "2cd2999f755c",
+   "source": "Radio Cooperativa",
+   "title": "José Rojas anunció su separación tras 19 años de matrimonio",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El exfutbolista nacional José Rojas sorprendió al anunciar en redes sociales su divorcio de la periodista Patricia Peralta tras 19 años de matrimonio . A través de una historia en Instagram, el excapitán de Universidad de C",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/exfutbolistas/jose-rojas-anuncio-su-separacion-tras-19-anos-de-matrimonio/2026-11-23/180725.html",
+   "date": "2026-11-23T21:07:25+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "f71a27b19f76",
+   "source": "Estudios Públicos (CEP)",
+   "title": "Otro día feliz a la espera de presupuesto para los cuidados",
+   "description": "Diario Financiero The post Otro día feliz a la espera de presupuesto para los cuidados appeared first on CEP Chile .",
+   "url": "https://www.cepchile.cl/otro-dia-feliz-a-la-espera-de-presupuesto-para-los-cuidados/",
+   "date": "2026-11-23T21:06:12+00:00",
+   "category": "Finanzas públicas",
+   "type": "Académica"
+  },
+  {
+   "id": "f5355b48f83a",
+   "source": "Radio Cooperativa",
+   "title": "Experto: Es natural que tras 100 años de explotación la productividad de las minas caiga",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/mineria/experto-es-natural-que-tras-100-anos-de-explotacion-la-productividad-de/2026-11-23/180519.html",
+   "date": "2026-11-23T21:05:19+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "93bc27308252",
+   "source": "France 24",
+   "title": "Críticas de Gobiernos y expertos a la falta de acuerdo final de la COP31 en Turquía",
+   "description": "La Conferencia de Naciones Unidas sobre el Cambio Climático (COP31) celebrada en Antalya, Turquía, terminó el 22 de noviembre en un punto muerto sin precedentes. Tras negociaciones que se extendieron casi 48 horas, convirtiéndose en la cumbre climática más larga de la historia, l",
+   "url": "https://www.france24.com/es/video/20261123-cr%C3%ADticas-de-gobiernos-y-expertos-a-la-falta-de-acuerdo-final-de-la-cop31-en-turqu%C3%ADa",
+   "date": "2026-11-23T21:04:59+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "4b44a5c5ac3d",
+   "source": "Al Jazeera",
+   "title": "US drug prices leave patients facing impossible choices",
+   "description": "Despite having jobs and health insurance, some of the US's sickest patients have trouble affording medicines they need.",
+   "url": "https://www.aljazeera.com/news/2026/11/23/us-drug-prices-leave-patients-facing-impossible-choices?traffic_source=rss",
+   "date": "2026-11-23T21:02:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "78aabbff258e",
+   "source": "Ex-Ante",
+   "title": "La renta fija no es “fija”",
+   "description": "Invertir en renta fija depende del horizonte, de la necesidad de liquidez y de la tolerancia a ver fluctuar los ahorros. No basta con mirar…",
+   "url": "https://www.ex-ante.cl/afteroffice/la-renta-fija-no-es-fija-grunwald/",
+   "date": "2026-11-23T20:56:21+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "bbc4ccb5392b",
+   "source": "The Guardian",
+   "title": "Iranian singer and four others receive lashes after performance without hijab",
+   "description": "Western governments and human rights groups have criticised flogging as torture and a violation of international law An Iranian singer and four members of her production team ⁠have each received 74 lashes after being sentenced for “offending public decency by producing and ⁠publi",
+   "url": "https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab",
+   "date": "2026-11-23T20:56:17+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "b8e9b9dcf9b8",
+   "source": "Deutsche Welle",
+   "title": "Inquietante hipótesis: un arma nuclear rusa desplegada en el espacio",
+   "description": "Los servicios de inteligencia occidentales advierten de que Rusia podría desplegar en el espacio un satélite con armamento nuclear.",
+   "url": "https://www.dw.com/es/inquietante-hipótesis-un-arma-nuclear-rusa-desplegada-en-el-espacio/a-80026787?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-23T20:56:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "98d6ef057a77",
+   "source": "Radio Cooperativa",
+   "title": "Ahora es oficial: \"Ted Lasso\" confirmó su temporada 5",
+   "description": "Los fanáticos de \" Ted Lasso \" agradecen el seguir creyendo al confirmarse la quinta temporada , que tendrá de regreso a Jason Sudeikis como productor ejecutivo y protagonista. Apple renovó la exitosa serie para un quinto ciclo, cuyo rodaje se espera iniciar a mediados de abril d",
+   "url": "https://www.cooperativa.cl/noticias/magazine/streaming/ahora-es-oficial-ted-lasso-confirmo-su-temporada-5/2026-11-23/175555.html",
+   "date": "2026-11-23T20:55:55+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "e7462f2721e4",
+   "source": "Radio Cooperativa",
+   "title": "Leandro Paredes llevó tranquilidad tras su desmayo y celebró los títulos de Boca",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Leandro Paredes, capitán de Boca Juniors , reapareció este lunes en redes sociales para celebrar los dos títulos conseguidos por el equipo argentino y transmitir tranquilidad después de sufrir un desmayo durante una entrevi",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/boca-juniors/leandro-paredes-llevo-tranquilidad-tras-su-desmayo-y-celebro-los-titulos/2026-11-23/175537.html",
+   "date": "2026-11-23T20:55:37+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "37e35c12b71a",
+   "source": "Radio Cooperativa",
+   "title": "Mourinho defendió el exigente calendario: Para ganar dinero hay que trabajar mucho",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes José Mourinho, entrenador de Real Madrid , defendió la exigencia del calendario futbolístico y sostuvo que los elevados ingresos económicos de los jugadores implican asumir una importante carga de trabajo, en la antesala de",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/real-madrid/mourinho-defendio-el-exigente-calendario-para-ganar-dinero-hay-que/2026-11-23/174943.html",
+   "date": "2026-11-23T20:49:43+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9e2d38284d08",
+   "source": "Al Jazeera",
+   "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
+   "description": "Ahmadi and four production team members also face two-year bans on travel and artistic activity.",
+   "url": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss",
+   "date": "2026-11-23T20:41:56+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -19,6 +209,16 @@
    "url": "https://www.theguardian.com/uk-news/2026/nov/23/metropolitan-police-seize-cocaine-hidden-boxes-oranges-new-spitalfields",
    "date": "2026-11-23T20:41:43+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "28ff800c11ca",
+   "source": "Radio Cooperativa",
+   "title": "La zona central vivirá una semana calurosa, con máximas de hasta 35 grados",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/tiempo/la-zona-central-vivira-una-semana-calurosa-con-maximas-de-hasta-35/2026-11-23/174127.html",
+   "date": "2026-11-23T20:41:27+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -212,46 +412,6 @@
    "type": "Prensa"
   },
   {
-   "id": "131da91b9201",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver Real Madrid vs. PSV por la Champions League?",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Real Madrid recibirá a PSV Eindhoven este martes 24 de noviembre en el Estadio \"Santiago Bernabéu\", por la quinta fecha de la fase de liga de la Champions League . El compromiso está programado para las 17:00 horas de Chile",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/cuando-y-donde-ver-real-madrid-vs-psv-por-la-champions-league/2026-11-23/165222.html",
-   "date": "2026-11-23T19:52:22+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "82e50c9b0ba6",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver Arsenal vs. Borussia Dortmund por la Champions League?",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Arsenal recibirá a Borussia Dortmund este martes 24 de noviembre en el Emirates Stadium de Londres, por la quinta fecha de la fase de liga de la Champions League . El encuentro comenzará a las 17:00 horas de Chile y será tr",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/cuando-y-donde-ver-arsenal-vs-borussia-dortmund-por-la-champions/2026-11-23/165221.html",
-   "date": "2026-11-23T19:52:21+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "e880fd67f5b0",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver Sporting de Lisboa vs. Manchester United por la Champions League?",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Sporting de Lisboa recibirá a Manchester United este miércoles 25 de noviembre en el Estadio José Alvalade, en Portugal, por la quinta fecha de la fase de liga de la Champions League . El partido está programado para las 17",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/cuando-y-donde-ver-sporting-de-lisboa-vs-manchester-united-por-la/2026-11-23/165211.html",
-   "date": "2026-11-23T19:52:11+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "4007cd9a4784",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver el choque de PSG y AS Roma por la Champions?",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes París Saint-Germain y AS Roma se enfrentarán este miércoles 25 de noviembre en el Parque de los Príncipes, por la quinta fecha de la fase de liga de la Champions League . El encuentro comenzará a las 17:00 horas de Chile y ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/cuando-y-donde-ver-el-choque-de-psg-y-as-roma-por-la-champions/2026-11-23/165200.html",
-   "date": "2026-11-23T19:52:00+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "4068e5a1a09e",
    "source": "The Guardian",
    "title": "Israel seeks to jail Palestinian student activist without trial after dorm arrest",
@@ -259,16 +419,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/23/student-arrest-racist-campaign-israel-palestine-benjamin-netanyahu",
    "date": "2026-11-23T19:48:58+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "dcaa852d3dac",
-   "source": "Radio Cooperativa",
-   "title": "Leporati y duelo con Rep. Dominicana: Es clave no dar ventajas",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mundial-sub-17/leporati-y-duelo-con-rep-dominicana-es-clave-no-dar-ventajas/2026-11-23/164451.html",
-   "date": "2026-11-23T19:44:51+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -319,16 +469,6 @@
    "url": "https://www.ex-ante.cl/nacional/caso-firmas-amplian-querella-vodanovic-ps/",
    "date": "2026-11-23T19:32:15+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "80a819c26f24",
-   "source": "Radio Cooperativa",
-   "title": "Hiroyuki Sanada, estrella de \"Shōgun\", se sumó a la película de \"Naruto\"",
-   "description": "La película live-action inspirada en \"Naruto\" avanza al confirmar al primer actor de su elenco, con Hiroyuki Sanada , estrella de la celebrada serie \"Shōgun\" , dando vida a \"Hiruzen Sarutobi\" , el Tercer Hokage de la Aldea Oculta de la Hoja . La adaptación del manga creado por Ma",
-   "url": "https://www.cooperativa.cl/noticias/magazine/cine/hiroyuki-sanada-estrella-de-sh-gun-se-sumo-a-la-pelicula-de-naruto/2026-11-23/162616.html",
-   "date": "2026-11-23T19:26:16+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -742,16 +882,6 @@
    "type": "Prensa"
   },
   {
-   "id": "75e686411847",
-   "source": "BBC Mundo",
-   "title": "Las acciones del gigante tecnológico Nvidia se disparan tras anunciarse el regreso de Jensen Huang como director ejecutivo 11 días después de su renuncia",
-   "description": "Las acciones del gigante de la inteligencia artificial se dispararon cerca de 30% tras el anuncio del regreso de Huang al inicio de la jornada bursátil.",
-   "url": "https://www.bbc.com/mundo/articles/cm4gnx691zp5o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T16:19:52+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "9e76c801e117",
    "source": "France 24",
    "title": "📺 'Reporteros': Colombia, 10 años de una paz inconclusa",
@@ -992,26 +1122,6 @@
    "type": "Prensa"
   },
   {
-   "id": "aa2c0f4d4a57",
-   "source": "Al Jazeera",
-   "title": "Anti-austerity strike spurs transport chaos across Belgium",
-   "description": "National strike against planned austerity causes widespread disruption, with government's fate hanging in the balance.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/anti-austerity-strike-spurs-transport-chaos-across-belgium?traffic_source=rss",
-   "date": "2026-11-23T13:45:16+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "5a34cf171fc9",
-   "source": "Al Jazeera",
-   "title": "COP31 has failed. The climate system is working as designed",
-   "description": "The failure exposes a diplomacy that protects fossil-fuel power while leaving vulnerable countries to pay the price.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/23/cop31-has-failed-the-climate-system-is-working-as-designed?traffic_source=rss",
-   "date": "2026-11-23T13:36:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "eca630d63f20",
    "source": "Estudios Públicos (CEP)",
    "title": "Dar un giro en el vínculo IA-trabajo",
@@ -1044,11 +1154,11 @@
   {
    "id": "f32123065822",
    "source": "France 24",
-   "title": "En directo: Libia condena el ataque ucraniano a barcos rusos en sus aguas y la ONU pide investigar",
-   "description": "Tanto el Gobierno de Trípoli reconocido por la ONU como la administración rival en el este de Libia instaron a no convertir a ese país en terreno de combate de conflictos externos. La Misión de Naciones Unidas en ese país reclamó, además, una \"investigación independiente\" de los ",
+   "title": "En directo: Moscú acusa a Estonia de acciones hostiles que están \"a punto de desencadenar una guerra abierta\"",
+   "description": "Rusia acusó a Estonia, Estado miembro de la OTAN y de la Unión Europea, de una serie de acciones hostiles que están \"al borde de desencadenar una guerra abierta\", intensificando su retórica después de que Estonia anunciara el cierre de su frontera terrestre. Mientras, el Gobierno",
    "url": "https://www.france24.com/es/europa/20261123-en-directo-zelenski-confirma-que-el-ej%C3%A9rcito-ucraniano-atac%C3%B3-buques-rusos-en-aguas-de-libia",
    "date": "2026-11-23T13:13:16+00:00",
-   "category": "Gobierno y administración pública",
+   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1152,26 +1262,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4e180fdc6c96",
-   "source": "Deutsche Welle",
-   "title": "Zelenski reivindica los ataques contra dos buques rusos cerca de Libia",
-   "description": "El presidente ucraniano, Volodimir Zelenski, reivindicó este lunes dos ataques contra barcos rusos frente a las costas de Libia, pocas horas después de que la ONU pidiera investigación sobre los bombardeos del domingo.",
-   "url": "https://www.dw.com/es/zelenski-reivindica-los-ataques-contra-dos-buques-rusos-cerca-de-libia/a-80017781?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-23T09:39:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "f9e5f6a28577",
-   "source": "Deutsche Welle",
-   "title": "Dos terremotos de magnitud 6,5 y 4,9 sacuden las aguas al noreste de Vanuatu",
-   "description": "La pequeña isla del Pacífico Sur es una zona altamente sísmica. En 2024 un potente terremoto dejó una decena de muertos y 200 heridos.",
-   "url": "https://www.dw.com/es/dos-terremotos-de-magnitud-6-5-y-4-9-sacuden-las-aguas-al-noreste-de-vanuatu/a-80015733?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-23T05:50:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
    "id": "29d05c792be4",
    "source": "The Guardian",
    "title": "At least 24 killed and dozens missing in confectionery factory fire in Indonesia",
@@ -1212,46 +1302,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c9e553da04b5",
-   "source": "France 24",
-   "title": "\"Parecía un secuestro\": Indignación por detención del ICE en aeropuerto en Seattle, EE. UU.",
-   "description": "🇺🇸🗣️ Testigos describieron escenas de caos luego de que agentes del ICE, vestidos de civil y sin identificarse, arrestaran a dos personas en una pasarela de embarque del Aeropuerto Internacional de Seattle-Tacoma, el 21 de noviembre.",
-   "url": "https://www.france24.com/es/video/20261123-parec%C3%ADa-un-secuestro-indignacio%CC%81n-por-detencio%CC%81n-del-ice-en-aeropuerto-en-seattle-ee-uu",
-   "date": "2026-11-23T02:39:03+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "189e78af7aff",
-   "source": "France 24",
-   "title": "Otro golpe a Trump: los demócratas logran una mayoría histórica en la Cámara de Representantes",
-   "description": "El Partido Demócrata alcanzó este domingo 22 de noviembre al menos 258 escaños en la Cámara de Representantes de Estados Unidos, su mayor representación desde 1992, tras otra victoria en Carolina del Norte. El resultado reafirma su triunfo en las elecciones de medio mandato del p",
-   "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261123-otro-golpe-a-trump-los-dem%C3%B3cratas-logran-una-mayor%C3%ADa-hist%C3%B3rica-en-la-c%C3%A1mara-de-representantes",
-   "date": "2026-11-23T02:35:44+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "662f4ca7cda9",
-   "source": "France 24",
-   "title": "'Los juegos del hambre': la saga que sigue inspirando a los manifestantes en el mundo",
-   "description": "El sábado 21 de noviembre, varios manifestantes franceses hicieron el saludo a tres dedos, un gesto de resistencia popularizado en 'Los juegos del hambre' y que desde entonces ha sido utilizado en movimientos prodemocracia. Luego del estreno de 'Amanecer en la cosecha', la sexta ",
-   "url": "https://www.france24.com/es/programas/cultura/20261123-los-juegos-del-hambre-la-saga-que-sigue-inspirando-a-los-manifestantes-en-el-mundo",
-   "date": "2026-11-23T02:03:03+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "003a4594bb0a",
-   "source": "France 24",
-   "title": "Pedro Sánchez, ante la hora de la verdad: gestas, deudas y escándalos de ocho años en el poder",
-   "description": "El socialista Pedro Sánchez llega a las elecciones generales del 29 de noviembre en España tras casi ocho años y medio como jefe del Gobierno. La mayoría de las encuestas dan ventaja al opositor Partido Popular (derecha), mientras su Administración carga con las causas judiciales",
-   "url": "https://www.france24.com/es/europa/20261123-pedro-s%C3%A1nchez-ante-la-hora-de-la-verdad-gestas-deudas-y-esc%C3%A1ndalos-de-ocho-a%C3%B1os-en-el-poder",
-   "date": "2026-11-23T01:49:32+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "e59c9f62a4cf",
    "source": "Ex-Ante",
    "title": "Cadem: aprobación de Rabat cae a 24% y es el ministro peor evaluado del gabinete (Lea aquí la encuesta)",
@@ -1289,26 +1339,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
    "date": "2026-11-22T21:33:44+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "32887e690511",
-   "source": "Ex-Ante",
-   "title": "Feria del Libro: menos público y menos ventas producto de la recesión económica",
-   "description": "La Feria Internacional del Libro de Santiago atraviesa una crisis que ya no parece circunstancial. La caída de visitantes y ventas de este año se…",
-   "url": "https://www.ex-ante.cl/cultura/feria-del-libro-menos-publico-ventas/",
-   "date": "2026-11-22T21:22:13+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "2d2e1afa080a",
-   "source": "Ex-Ante",
-   "title": "Informe Rankmi: Chile es el país donde menos trabajadores recomiendan su empresa",
-   "description": "Chile quedó último entre los mercados latinoamericanos analizados por Rankmi en disposición a recomendar el lugar de trabajo y compromiso laboral. Solo el 54% de…",
-   "url": "https://www.ex-ante.cl/economia/clima-laboral-chile-trabajo/",
-   "date": "2026-11-22T19:09:58+00:00",
-   "category": "Empresas y mercados",
    "type": "Prensa"
   },
   {
@@ -1762,16 +1792,6 @@
    "type": "Prensa"
   },
   {
-   "id": "20a7ab9d3e10",
-   "source": "The Guardian",
-   "title": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
-   "description": "Al-Qadisiyah University’s move a sign of the country’s slide into a Taliban-like gender segregation, say activists The removal of male professors teaching female students at a university in southern Iraq has sparked protests and been criticised by activists as a Taliban-like gend",
-   "url": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
-   "date": "2026-11-20T05:00:23+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "1a779f698a0e",
    "source": "CIPER Chile",
    "title": "Renuncia la subsecretaria de Ciencia tras choques con Lincolao; Tesorería suma 4.625 convenios por CAE, y Contraloría detecta irregularidades en el puente Chacao",
@@ -1822,13 +1842,13 @@
    "type": "Oficial"
   },
   {
-   "id": "e860defb6505",
+   "id": "f5dad350cd8a",
    "source": "The Guardian",
-   "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
-   "description": "Relief in the immediate aftermath of a landmark ruling, but what happens next is in the hands of governments around the world There were tears in the halls of The Hague in the Netherlands and an eruption of applause in the refugee camps of Bangladesh as the scattered communities ",
-   "url": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
-   "date": "2026-11-19T16:15:52+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
+   "description": "Hailed as ‘a rare moment of justice’, judges’ decision sets out a roadmap for assessing the question of intent The international court of justice (ICJ) verdict making Myanmar the first country in history to be found guilty of committing genocide does not just deliver justice for ",
+   "url": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
+   "date": "2026-11-19T17:14:55+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1890,16 +1910,6 @@
    "date": "2026-11-19T12:31:15+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "bc0396d8e5fa",
-   "source": "BBC Mundo",
-   "title": "Por qué la niebla está abandonando un excepcional bosque en Costa Rica y cambiando su ecosistema",
-   "description": "El Bosque Nuboso de Monteverde, en Costa Rica, está perdiendo su niebla por el cambio climático, lo que pone en peligros numerosas especies endémicas.",
-   "url": "https://www.bbc.com/mundo/articles/cqde1n5843yxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T12:00:14+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
   },
   {
    "id": "802397a77c8d",
@@ -2290,16 +2300,6 @@
    "date": "2026-11-13T00:00:00+00:00",
    "category": "Comercio internacional",
    "type": "Oficial"
-  },
-  {
-   "id": "bfd7a3172480",
-   "source": "Estudios Públicos (CEP)",
-   "title": "Macondo o la tentación de la página en blanco",
-   "description": "El País The post Macondo o la tentación de la página en blanco appeared first on CEP Chile .",
-   "url": "https://www.cepchile.cl/macondo-o-la-tentacion-de-la-pagina-en-blanco/",
-   "date": "2026-11-12T19:48:05+00:00",
-   "category": "Políticas públicas",
-   "type": "Académica"
   },
   {
    "id": "76c1fdef46f1",
