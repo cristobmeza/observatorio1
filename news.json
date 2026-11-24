@@ -1,14 +1,184 @@
 {
- "updated": "2026-11-24T20:50:32.705576+00:00",
+ "updated": "2026-11-24T21:51:52.108204+00:00",
  "items": [
   {
    "id": "e7949c032243",
    "source": "The Guardian",
-   "title": "Australian politics live: Chalmers notes ‘serious moment for our economy’; inflation expected to jump to 4.8%",
-   "description": "Get our daily political email , free app or daily news podcast US ambassador criticises Labor’s digital duty of care bill The American ambassador to Australia has raised “objections” to Labor’s digital duty of care bill, saying he was “concerned” it would hurt US tech businesses.",
+   "title": "Australian politics live: US ambassador criticises digital duty of care bill; Chalmers downplays recession fears",
+   "description": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect the",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-   "date": "2026-11-24T20:41:16+00:00",
+   "date": "2026-11-24T21:44:02+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c5a30dffbe1d",
+   "source": "Río en Línea",
+   "title": "Anuncian cortes de tránsito este domingo por el Ironman en Valdivia, Mariquina y Máfil",
+   "description": "La competencia se realizará este domingo 29 de noviembre y contempla restricciones desde las 07:00 horas hasta las 02:00 del lunes. También se entregaron recomendaciones para quienes deban trasladarse al Aeropuerto Pichoy. Valdivia se prepara para recibir este domingo 29 de novie",
+   "url": "https://www.rioenlinea.cl/anuncian-cortes-de-transito-este-domingo-por-el-ironman-en-valdivia-mariquina-y-mafil/",
+   "date": "2026-11-24T21:39:36+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "4d9f22d8d1c0",
+   "source": "Radio Cooperativa",
+   "title": "Con los tres grandes en simultáneo: La ANFP publicó la programación de la última fecha de la Liga",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes A través del sitio web del Campeonato Chileno, la ANFP anunció la programación para la última fecha de la Liga de Primera 2026, con la particularidad de tener a Colo Colo, Universidad de Chile y Universidad Católica jugando",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/con-los-tres-grandes-en-simultaneo-la-anfp-publico-la-programacion-de/2026-11-24/183716.html",
+   "date": "2026-11-24T21:37:16+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "66246d658a12",
+   "source": "Ex-Ante",
+   "title": "Trafigura: el trader global de Singapur que tomó el control del proyecto minero La Farola por US$260 millones en Atacama",
+   "description": "Trafigura, grupo dedicado al comercio de materias primas, fundado en 1993 y con sede en Singapur, adquirió el 50% restante de Minera Altair, compañía de…",
+   "url": "https://www.ex-ante.cl/negocios/gigante-singapur-proyecto-minera-atacama/",
+   "date": "2026-11-24T21:36:27+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "2aa20c0c4418",
+   "source": "Radio Cooperativa",
+   "title": "Argentina también cayó en recesión técnica",
+   "description": "El petróleo y la minería apuntalaron la actividad económica de Argentina en septiembre, pero no pudieron evitar que el Producto Interno Bruto (PIB) encadenara dos trimestres de desempeño negativo y el país vecino cayera en recesión técnica , misma situación en la que está Chile .",
+   "url": "https://www.cooperativa.cl/noticias/mundo/argentina/argentina-tambien-cayo-en-recesion-tecnica/2026-11-24/182938.html",
+   "date": "2026-11-24T21:29:38+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "dcf528546c4f",
+   "source": "Deutsche Welle",
+   "title": "Cifra récord de víctimas de violencia contra las mujeres en Alemania, según estadísticas policiales",
+   "description": "Cada tres días, una mujer es asesinada por su marido o expareja en Alemania. Cada diez minutos, la policía registra un delito sexual contra una mujer.",
+   "url": "https://www.dw.com/es/cifra-récord-de-víctimas-de-violencia-contra-las-mujeres-en-alemania-según-estadísticas-policiales/a-80041310?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-24T21:25:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "aaa5fbb0fda8",
+   "source": "Ex-Ante",
+   "title": "España: PSOE y PP empatan en la última encuesta antes de la elección pero Vox le da mayoría a la derecha",
+   "description": "El último sondeo antes de las elecciones generales del domingo 29 en España, ya que este lunes terminó el plazo legal para difundirlas, deja al…",
+   "url": "https://www.ex-ante.cl/internacional/espana-encuesta-da-victoria-pp-y-vox/",
+   "date": "2026-11-24T21:23:07+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "14cbe359dc01",
+   "source": "Al Jazeera",
+   "title": "Russian jets spark air raid alert in South Korea",
+   "description": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+   "date": "2026-11-24T21:14:57+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "369af1abcb9f",
+   "source": "Servicio Electoral",
+   "title": "España oficializa su apoyo al Observatorio de Violencia Digital contra la Mujer en Política de Servel",
+   "description": "La colaboración fue formalizada este martes en la Delegación de la Unión Europea en Chile, mediante una carta de entendimiento en la que se establece un marco de colaboración entre el Servicio Electoral de Chile y la Fundación para la Internacionalización de las Administraciones ",
+   "url": "https://www.servel.cl/Ch/app/espana-oficializa-su-apoyo-al-observatorio-de-violencia-digital-contra-la-mujer-en-politica-de-servel/sin-categoria/",
+   "date": "2026-11-24T21:11:00+00:00",
+   "category": "Elecciones",
+   "type": "Oficial"
+  },
+  {
+   "id": "c2aa50946d68",
+   "source": "The Guardian",
+   "title": "Armed men hold hostages at supermarket in top Colombian tourist destination",
+   "description": "President says 15 people released and Cartagena incident stems from botched robbery by ‘common criminals’ Armed and masked men have been holding people hostage in a supermarket since early Tuesday morning in Cartagena, one of Colombia’s most popular tourist cities. The country’s ",
+   "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+   "date": "2026-11-24T21:06:37+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "6cb7115430f7",
+   "source": "Al Jazeera",
+   "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
+   "description": "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena.",
+   "url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+   "date": "2026-11-24T21:04:46+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "3072b07cac58",
+   "source": "Radio Cooperativa",
+   "title": "Cultura Profética anuncia su regreso a Chile: fecha y entradas",
+   "description": "Durante febrero pasado, Cultura Profética estuvo en Chile y se presentó en el Surfest y en Arena Monticello, y ahora programó su r egreso al país para 2027 , con un show dedicado al estreno en vivo de su nuevo disco, \"En Bucle\". La banda puertorriqueña de reggae, nacida en 1996, ",
+   "url": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/cultura-profetica-anuncia-su-regreso-a-chile-fecha-y-entradas/2026-11-24/175850.html",
+   "date": "2026-11-24T20:58:50+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "d328ecaee7c4",
+   "source": "Al Jazeera",
+   "title": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
+   "description": "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss",
+   "date": "2026-11-24T20:58:41+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f3fd2296d0c4",
+   "source": "Radio Cooperativa",
+   "title": "EE.UU. acogió con \"beneplácito\" la candidatura chileno-belga al Tratado de Alta Mar",
+   "description": "Estados Unidos acogió este martes con \"beneplácito\" la candidatura conjunta de Chile y Bélgica para establecer en Valparaíso la Secretaría del Tratado de Alta Mar . \" Estados Unidos acoge con beneplácito la oferta conjunta de Chile y Bélgica para albergar la Secretaría del Acuerd",
+   "url": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/ee-uu-acogio-con-beneplacito-la-candidatura-chileno-belga-al-tratado/2026-11-24/175202.html",
+   "date": "2026-11-24T20:52:02+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "2e54f6692482",
+   "source": "Radio Cooperativa",
+   "title": "Irán: 74 azotes contra una mujer por el \"crimen\" de cantar sin velo",
+   "description": "Las autoridades iraníes ejecutaron este martes la sentencia de 74 latigazos contra la cantante Parastoo Ahmadi y cuatro miembros de su grupo de música por emitir un concierto en línea en el que aparecía sin velo a finales de 2024. Ahmadi, Soheil Faghih-Nasiri , Amin Taheri , Amir",
+   "url": "https://www.cooperativa.cl/noticias/mundo/iran/iran-74-azotes-contra-una-mujer-por-el-crimen-de-cantar-sin-velo/2026-11-24/175123.html",
+   "date": "2026-11-24T20:51:23+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "125ce3bd4e55",
+   "source": "Deutsche Welle",
+   "title": "El \"Starlink ruso\": ¿una nueva amenaza para Ucrania?",
+   "description": "El sistema estadounidense Starlink, de SpaceX, desempeña un papel clave en la defensa de Ucrania frente a la agresión militar rusa. Ahora, el Kremlin ha decidido desarrollar un sistema similar. ¿Qué peligro entraña?",
+   "url": "https://www.dw.com/es/el-starlink-ruso-¿una-nueva-amenaza-para-ucrania/a-80041352?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-24T20:50:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "3de7cd1d8b2a",
+   "source": "Deutsche Welle",
+   "title": "Izquierda alemana expulsa a una polémica diputada para facilitar gobierno en Berlín",
+   "description": "Die Linke aprobó, con 33 votos a favor de un total de 43, la salida de la parlamentaria local Vanessa Emde, conocida por sus declaraciones polémicas sobre Israel.",
+   "url": "https://www.dw.com/es/izquierda-alemana-expulsa-a-una-polémica-diputada-para-facilitar-gobierno-en-berlín/a-80041892?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-24T20:44:00+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "fb35eb676af6",
+   "source": "France 24",
+   "title": "De Georgia a Colombia, el debate sobre la gestación subrogada",
+   "description": "La prohibición de la gestación subrogada en Georgia llega tras haberse convertido en un destino para los europeos ante la invasión de Rusia en Ucrania. Por temas legales y económicos, muchos prefieren el país caucásico antes que Estados Unidos o Canadá. Pero en Latinoamérica hay ",
+   "url": "https://www.france24.com/es/programas/en-contexto/20261124-de-georgia-a-colombia-el-debate-sobre-la-gestaci%C3%B3n-subrogada",
+   "date": "2026-11-24T20:42:36+00:00",
+   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -22,13 +192,13 @@
    "type": "Prensa"
   },
   {
-   "id": "3de7cd1d8b2a",
-   "source": "Deutsche Welle",
-   "title": "Izquierda alemana expulsa a una polémica diputada para facilitar gobierno en Berlín",
-   "description": "Die Linke aprobó, con 33 votos a favor de un total de 44, la salida de la parlamentaria local Vanessa Emde, conocida por sus declaraciones polémicas sobre Israel.",
-   "url": "https://www.dw.com/es/izquierda-alemana-expulsa-a-una-polémica-diputada-para-facilitar-gobierno-en-berlín/a-80041892?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-24T20:37:00+00:00",
-   "category": "Congreso Nacional",
+   "id": "847a0b19d060",
+   "source": "Radio Cooperativa",
+   "title": "Los técnicos candidatos para la banca de Universidad Católica",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/los-tecnicos-candidatos-para-la-banca-de-universidad-catolica/2026-11-24/173901.html",
+   "date": "2026-11-24T20:39:01+00:00",
+   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -72,13 +242,33 @@
    "type": "Prensa"
   },
   {
-   "id": "5cca85d23993",
+   "id": "1d3555bfb244",
+   "source": "France 24",
+   "title": "Gaza vuelve a llorar a sus muertos tras nuevos ataques israelíes",
+   "description": "Los habitantes de Gaza vuelven a despedir a sus muertos tras una nueva ola de ataques israelíes que dejó al menos ocho fallecidos en distintos puntos del enclave, incluidos Khan Yunis y el corredor de Netzarim. Mientras Israel asegura que algunos de los objetivos estaban vinculad",
+   "url": "https://www.france24.com/es/video/20261124-gaza-vuelve-a-llorar-a-sus-muertos-tras-nuevos-ataques-israel%C3%ADes",
+   "date": "2026-11-24T20:22:36+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "318c806ff817",
    "source": "Radio Cooperativa",
-   "title": "La FIFA concedió a Estados Unidos, México, Costa Rica y Jamaica el Mundial Femenino de 2031",
+   "title": "FIFA concedió a EE.UU., México, Costa Rica y Jamaica el Mundial Femenino 2031",
    "description": "El Congreso Extraordinario de la FIFA , reunido de forma telemática, aprobó por aclamación la concesión de los próximos Mundiales femeninos, la edición de 2031 a la candidatura conjunta de Estados Unidos, México, Costa Rica y Jamaica, y la de 2035 a la de Inglaterra, Irlanda del ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/futbol-femenino/la-fifa-concedio-a-estados-unidos-mexico-costa-rica-y-jamaica-el/2026-11-24/172222.html",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/futbol-femenino/fifa-concedio-a-ee-uu-mexico-costa-rica-y-jamaica-el-mundial-femenino/2026-11-24/172222.html",
    "date": "2026-11-24T20:22:22+00:00",
    "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "6f66a2f11a9f",
+   "source": "France 24",
+   "title": "Directo París y el nuevo giro en el caso de Nahel Merzouk en Francia",
+   "description": "En junio de 2023, la muerte de Nahel Merzouk, un joven de 17 años abatido por un policía durante un control de tránsito en Nanterre, conmocionó a Francia y provocó protestas y disturbios en todo el país. Más de tres años después, el caso sigue dando giros judiciales. La Corte de ",
+   "url": "https://www.france24.com/es/video/20261124-directo-par%C3%ADs-y-el-nuevo-giro-en-el-caso-de-nahel-merzouk-en-francia",
+   "date": "2026-11-24T20:20:43+00:00",
+   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -92,6 +282,16 @@
    "type": "Prensa"
   },
   {
+   "id": "5d3c80158f17",
+   "source": "France 24",
+   "title": "Bagdad y el Kurdistán iraquí: crece la tensión por el control de los campos petroleros",
+   "description": "La decisión del Gobierno federal de Irak de asumir la gestión de varios campos petroleros ubicados en zonas bajo control kurdo ha reavivado las tensiones con la región semiautónoma del Kurdistán iraquí. La medida, impulsada por el primer ministro Alí al-Zaidi, también busca refor",
+   "url": "https://www.france24.com/es/video/20261124-bagdad-y-el-kurdist%C3%A1n-iraqu%C3%AD-crece-la-tensi%C3%B3n-por-el-control-de-los-campos-petroleros",
+   "date": "2026-11-24T20:19:18+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
    "id": "c2d5ecaa0099",
    "source": "Al Jazeera",
    "title": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
@@ -102,22 +302,22 @@
    "type": "Prensa"
   },
   {
-   "id": "ecfbc778397f",
-   "source": "Radio Cooperativa",
-   "title": "Chile venció a Argentina y avanzó a semifinales en la Copa América de Fútbol 7",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La selección chilena masculina de fútbol 7 dio un gran paso en la Copa América de la modalidad que se desarrolla en Porto Alegre, con un triunfazo de 7-4 sobre Argentina para avanzar a semifinales . El conjunto nacional, qu",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/futbol-7/chile-vencio-a-argentina-y-avanzo-a-semifinales-en-la-copa-america-de/2026-11-24/170840.html",
-   "date": "2026-11-24T20:08:40+00:00",
+   "id": "34318c6ffda6",
+   "source": "France 24",
+   "title": "El acuerdo de paz cumple 10 años en Colombia: balance de una promesa inconclusa",
+   "description": "A diez años de la firma del acuerdo de paz entre el Estado colombiano y las antiguas FARC-EP, el país sigue enfrentando el desafío de cerrar décadas de violencia. Aunque el pacto permitió la dejación de armas y creó mecanismos de verdad, justicia y reparación, persisten retos en ",
+   "url": "https://www.france24.com/es/video/20261124-el-acuerdo-de-paz-cumple-10-a%C3%B1os-en-colombia-balance-de-una-promesa-inconclusa",
+   "date": "2026-11-24T20:11:25+00:00",
    "category": "América Latina",
    "type": "Prensa"
   },
   {
-   "id": "1e8dbe32675d",
+   "id": "17f1afa398d3",
    "source": "Radio Cooperativa",
-   "title": "Festival +CIPER centra su sexta versión en el periodismo y los desafíos de la IA",
-   "description": "La Escuela de Periodismo de la Universidad Diego Portales recibirá este sábado 28 de noviembre nuevamente el Festival +CIPER UDP , que en su sexta versión apuntará a temas de contingencia para el oficio de informar, como periodismo para la ciudadanía, impacto de la inteligencia a",
-   "url": "https://www.cooperativa.cl/noticias/sociedad/medios/festival-ciper-centra-su-sexta-version-en-el-periodismo-y-los-desafios/2026-11-24/170453.html",
-   "date": "2026-11-24T20:04:53+00:00",
+   "title": "José Antonio Neme se quebró al recordar a Delfina Guzmán: \"¿Qué es lo que dejamos al final?\"",
+   "description": "Un emotivo momento vivió José Antonio Neme al enterarse en vivo de la muerte de la actriz Delfina Guzmán , quien falleció este 24 de noviembre a los 98 años. Durante la emisión de \"Mucho Gusto\", Karen Doggenweiler notó que su compañero estaba emocionado al recordar a la intérpret",
+   "url": "https://www.cooperativa.cl/noticias/magazine/television/jose-antonio-neme-se-quebro-al-recordar-a-delfina-guzman-que-es-lo/2026-11-24/170451.html",
+   "date": "2026-11-24T20:04:51+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -139,6 +339,16 @@
    "url": "https://www.theguardian.com/world/2026/nov/24/disability-benefits-timms-review-pip-personal-independence-payments",
    "date": "2026-11-24T20:00:31+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "01a60570a9a3",
+   "source": "Radio Cooperativa",
+   "title": "Javier Olivares omitió propiedades en EE.UU. en su declaración de patrimonio: culpó al PDG",
+   "description": "El diputado del PDG Javier Olivares omitió tres propiedades en EE.UU. en su declaración patrimonial cuando era candidato; falencia que el propio parlamentario atribuyó a una mala asesoría de su partido. De acuerdo con El Mostrador, el error fue advertido luego que un informe de l",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/javier-olivares-omitio-propiedades-en-ee-uu-en-su-declaracion-de/2026-11-24/165551.html",
+   "date": "2026-11-24T19:55:51+00:00",
+   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -172,26 +382,6 @@
    "type": "Prensa"
   },
   {
-   "id": "dcf528546c4f",
-   "source": "Deutsche Welle",
-   "title": "Cifra récord de víctimas de violencia contra las mujeres en Alemania, según estadísticas policiales",
-   "description": "Cada tres días, una mujer es asesinada por su marido o expareja en Alemania. Cada diez minutos, la policía registra un delito sexual contra una mujer.",
-   "url": "https://www.dw.com/es/cifra-récord-de-víctimas-de-violencia-contra-las-mujeres-en-alemania-según-estadísticas-policiales/a-80041310?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-24T19:47:00+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "f07e384dab52",
-   "source": "Radio Cooperativa",
-   "title": "Aseguran que \"Vértigo Extremo\" podría terminar antes de tiempo",
-   "description": "El futuro de \"Vértigo Extremo\" estaría en evaluación en Canal 13, luego de que surgieran versiones sobre una posible salida anticipada del espacio. Según comentó Fany Mazuela en el programa de farándula \"Zona de Estrellas\", el estelar podría salir del aire antes de lo previsto, y",
-   "url": "https://www.cooperativa.cl/noticias/magazine/television/aseguran-que-vertigo-extremo-podria-terminar-antes-de-tiempo/2026-11-24/164257.html",
-   "date": "2026-11-24T19:42:57+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "07fad6563338",
    "source": "The Guardian",
    "title": "NHS trusts to be investigated over ‘repeated failures’ to admit treatment errors",
@@ -202,16 +392,6 @@
    "type": "Prensa"
   },
   {
-   "id": "065fab2a93e7",
-   "source": "Radio Cooperativa",
-   "title": "Gobierno confirmó futuro de la sede de la Fetech tras desalojo: Proyecto habitacional y canchas en comodato",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Los ministerios de Vivienda y Urbanismo (Minvu) y del Deporte (Mindep), dieron a conocer el uso que se le dará a la sede de la Federación de Tenis de Chile en Cerro Colorado #4661, Las Condes, tras su recuperación mediante ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/federacion-de-tenis-de-chile/gobierno-confirmo-futuro-de-la-sede-de-la-fetech-tras-desalojo-proyecto/2026-11-24/163307.html",
-   "date": "2026-11-24T19:33:07+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "c5b23ab33af1",
    "source": "The Guardian",
    "title": "Alia Syed wins £10,000 Jarman award for ‘depth and maturity’ of her experimental films",
@@ -219,16 +399,6 @@
    "url": "https://www.theguardian.com/artanddesign/2026/nov/24/alia-syed-wins-10000-jarman-award-for-depth-and-maturity-of-her-experimental-films",
    "date": "2026-11-24T19:30:54+00:00",
    "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "247f4c3aa321",
-   "source": "Radio Cooperativa",
-   "title": "La Copa UC 2026 confirmó invitados de lujo para el torneo en diciembre",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Universidad Católica confirmó este martes a los ocho equipos que disputarán la decimonovena edición de la Copa UC , campeonato juvenil internacional que se disputa por segundo año consecutivo y que se llevará a cabo entre e",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/sub-17/la-copa-uc-2026-confirmo-invitados-de-lujo-para-el-torneo-en-diciembre/2026-11-24/162803.html",
-   "date": "2026-11-24T19:28:03+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -259,16 +429,6 @@
    "url": "https://www.aljazeera.com/economy/2026/11/24/china-southern-airlines-unit-to-buy-50-boeing-737-8-planes?traffic_source=rss",
    "date": "2026-11-24T19:19:50+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "b16d6833d0a9",
-   "source": "Radio Cooperativa",
-   "title": "Coquimbo Unido y Unión La Calera definen el último cupo a semifinales de la Copa Chile",
-   "description": "Este martes, Coquimbo Unido y Unión La Calera definen en el Estadio \"Francisco Sánchez Rumoroso\" al último clasificado a semifinales de la Copa Chile , donde el conjunto \"pirata\" llega con una ventaja de 2-0 en la ida para acercarse a la ronda donde espera Universidad de Chile. S",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-unido-y-union-la-calera-definen-el-ultimo-cupo-a-semifinales-de/2026-11-24/161716.html",
-   "date": "2026-11-24T19:17:16+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -322,16 +482,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f8e75713bf11",
-   "source": "Radio Cooperativa",
-   "title": "Encapuchados toman rehenes en un supermercado de Cartagena de Indias",
-   "description": "El presidente de Colombia, Abelardo de la Espriella, informó este martes que los hombres encapuchados que mantienen retenidas a 30 personas en un supermercado de la ciudad de Cartagena de Indias (norte) dejaron en libertad a cinco de ellas, todas mujeres mayores. \"Un grupo de ban",
-   "url": "https://www.cooperativa.cl/noticias/mundo/colombia/encapuchados-toman-rehenes-en-un-supermercado-de-cartagena-de-indias/2026-11-24/155806.html",
-   "date": "2026-11-24T18:58:06+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
    "id": "e7ddeaa88847",
    "source": "Deutsche Welle",
    "title": "Venezuela publica el monto de su deuda pública: supera los 237.000 millones de dólares",
@@ -344,21 +494,11 @@
   {
    "id": "57171795410d",
    "source": "France 24",
-   "title": "El Gobierno de Sánchez aprueba nuevas medidas sociales y económicas a cinco días de las elecciones en España",
-   "description": "El Gobierno de coalición español aprobó este martes un paquete de medidas sociales y económicas que busca reforzar su programa político en la recta final de la campaña para las elecciones generales del próximo 29 de noviembre.",
+   "title": "Pedro Sánchez aprueba nuevas medidas sociales y económicas en vísperas de las elecciones en España",
+   "description": "El Gobierno de coalición español aprobó este martes 24 de noviembre un paquete de medidas sociales y económicas que busca reforzar su programa político en la recta final de la campaña para las elecciones generales del próximo 29 de noviembre.",
    "url": "https://www.france24.com/es/europa/20261124-el-gobierno-de-s%C3%A1nchez-aprueba-nuevas-medidas-sociales-y-econ%C3%B3micas-a-cinco-d%C3%ADas-de-las-elecciones-en-espa%C3%B1a",
    "date": "2026-11-24T18:49:41+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "c9d7a43758cd",
-   "source": "Radio Cooperativa",
-   "title": "La última aparición pública de Delfina Guzmán: Fue homenajeada por la U. de Chile",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/la-ultima-aparicion-publica-de-delfina-guzman-fue-homenajeada-por-la-u/2026-11-24/154926.html",
-   "date": "2026-11-24T18:49:26+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -402,16 +542,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c2aa50946d68",
-   "source": "The Guardian",
-   "title": "Armed men take 25 hostages at supermarket in one of Colombia’s top tourist destinations",
-   "description": "Police say group seized store in city of Cartagena and local media showed footage of snipers on nearby buildings A group of armed men with their faces covered seized a supermarket in the Colombian city of Cartagena on Tuesday and are holding 25 people hostage, the president, Abel",
-   "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-   "date": "2026-11-24T18:36:08+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "f7d16c57c7fe",
    "source": "France 24",
    "title": "Venezuela revela su nivel de deuda y busca la confianza para reestructurarla",
@@ -419,16 +549,6 @@
    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261124-economia-deuda-venezuela-petroleo-pib",
    "date": "2026-11-24T18:23:52+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "a46eec02608f",
-   "source": "Río en Línea",
-   "title": "Decomisan más de 360 kilos de pescado ilegal en camión con encargo por robo en Mariquina",
-   "description": "Un total de 363 kilos de merluza austral, congrio dorado y reineta sin acreditación de origen legal fueron decomisados por Carabineros durante un control vehicular realizado en el kilómetro 783 de la Ruta 5 Sur, en la región de Los Ríos. El procedimiento fue desarrollado por pers",
-   "url": "https://www.rioenlinea.cl/decomisan-mas-de-360-kilos-de-pescado-ilegal-en-camion-con-encargo-por-robo-en-mariquina/",
-   "date": "2026-11-24T18:23:20+00:00",
-   "category": "Regiones (Los Ríos)",
    "type": "Prensa"
   },
   {
@@ -702,16 +822,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6a7633ffc0a3",
-   "source": "Al Jazeera",
-   "title": "Arsenal vs Borussia Dortmund LIVE: UEFA Champions League",
-   "description": "Follow updates with build-up and team news coverage from our live text commentary stream as Martin Odegaard headlines.",
-   "url": "https://www.aljazeera.com/sports/liveblog/2026/11/24/arsenal-vs-borussia-dortmund-live-uefa-champions-league?traffic_source=rss",
-   "date": "2026-11-24T16:01:23+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "4f7eeb9f3374",
    "source": "Deutsche Welle",
    "title": "Tribunal declara a Senegal campeón legítimo de la Copa de África",
@@ -732,26 +842,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7aec006ba823",
-   "source": "Al Jazeera",
-   "title": "Palestine Weekly: A night of arson sees Israel ‘Jewish terrorism’ reckoning",
-   "description": "Israeli settler pogroms have continued in the occupied West Bank.",
-   "url": "https://www.aljazeera.com/news/2026/11/24/palestine-weekly-a-night-of-arson-sees-israel-jewish-terrorism-reckoning?traffic_source=rss",
-   "date": "2026-11-24T15:56:07+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "8929c6f9f692",
-   "source": "Al Jazeera",
-   "title": "Five women killed every hour globally by partner, relative last year: UN",
-   "description": "Home remains the most dangerous place for a woman or girl, 'a pattern that has barely shifted in years', UN Women says.",
-   "url": "https://www.aljazeera.com/news/2026/11/24/five-women-killed-every-hour-globally-by-partner-relative-in-2025-un?traffic_source=rss",
-   "date": "2026-11-24T15:55:36+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d81a70ef4488",
    "source": "France 24",
    "title": "Medio Oriente: ocho palestinos mueren en ataques israelíes; tres petroleros chocan con minas en Ormuz",
@@ -762,11 +852,11 @@
    "type": "Prensa"
   },
   {
-   "id": "c13b1b0f2cd2",
+   "id": "49894e2aeea2",
    "source": "Radio Cooperativa",
-   "title": "Champions: Betis de Pellegrini visita a Slovan Bratislava por la quinta fecha en la fase de liga",
+   "title": "Champions: Betis de Pellegrini vence a Slovan Bratislava por la quinta fecha en la fase de liga",
    "description": "Este martes y miércoles se disputa la quinta fecha de la fase de liga de la UEFA Champions League, donde destacan los cruces entre Manchester City y Napoli , Arsenal ante Borussia Dortmund , y el duelo de Real Betis del técnico chileno Manuel Pellegrini frente a Slovan Bratislava",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/champions-betis-de-pellegrini-visita-a-slovan-bratislava-por-la-quinta/2026-11-24/125049.html",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-campeones/champions-betis-de-pellegrini-vence-a-slovan-bratislava-por-la-quinta/2026-11-24/125049.html",
    "date": "2026-11-24T15:50:49+00:00",
    "category": "",
    "type": "Prensa"
@@ -915,7 +1005,7 @@
    "id": "d6c94eb7c661",
    "source": "The Guardian",
    "title": "Days out from the Victorian election, nine datacentre projects await approval. What will their fate be?",
-   "description": "While parties have come out with policies on where datacentres can be built, not all are clear on whether they apply retrospectively Get our breaking news email , free app or daily news podcast Days out from the Victorian state election, the fate of nine datacentre projects remai",
+   "description": "While parties have come out with policies on where datacentres can be built, not all are clear on whether they apply retrospectively Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Days out from the Victorian",
    "url": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
    "date": "2026-11-24T14:00:48+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -1032,16 +1122,6 @@
    "type": "Prensa"
   },
   {
-   "id": "91e336200e7f",
-   "source": "Ex-Ante",
-   "title": "Muere Delfina Guzmán a los 98 años: así fue la trayectoria de la destacada actriz",
-   "description": "Con más de 70 años de carrera, Delfina Guzmán dejó una huella importante en el teatro, el cine y la televisión chilena. Desde sus inicios…",
-   "url": "https://www.ex-ante.cl/cultura/muere-actriz-delfina-guzman-98-anos/",
-   "date": "2026-11-24T11:46:56+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "2ae3ff4774ef",
    "source": "BBC Mundo",
    "title": "Cómo un adolescente aficionado a los videojuegos y su madre ayudaron a rescatar a una chica que llevaba más de un año desaparecida",
@@ -1065,7 +1145,7 @@
    "id": "244dd749e798",
    "source": "The Guardian",
    "title": "Researcher who helped improve melanoma survival rates among winners of top Australian science prize",
-   "description": "Georgina Long and subatomic physicist Anthony Thomas recognised in Prime Minister’s prizes for science Get our daily political email , free app or daily news podcast When Prof Georgina Long was starting out in melanoma treatment and research, “my waiting room would change so rapi",
+   "description": "Georgina Long and subatomic physicist Anthony Thomas recognised in Prime Minister’s prizes for science Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast When Prof Georgina Long was starting out in melanoma trea",
    "url": "https://www.theguardian.com/australia-news/2026/nov/24/georgina-long-melanoma-anthony-thomas-2026-prime-ministers-prizes-for-science",
    "date": "2026-11-24T11:00:45+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -1099,16 +1179,6 @@
    "url": "https://www.dw.com/es/defensas-antiaéreas-rusas-derriban-casi-700-drones-ucranianos-la-mitad-de-ellos-en-dirección-a-moscú/a-80029767?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-24T10:00:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "4518a90bc302",
-   "source": "Deutsche Welle",
-   "title": "La violencia familiar se cobró la vida de cinco mujeres cada hora en 2025, según la ONU",
-   "description": "Cinco mujeres fueron asesinadas cada hora en 2025 por parejas o familiares en el mundo, según un informe de la ONU. La tasa de feminicidios baja más lentamente que la de homicidios en general por la discriminación.",
-   "url": "https://www.dw.com/es/la-violencia-familiar-se-cobró-la-vida-de-cinco-mujeres-cada-hora-en-2025-según-la-onu/a-80029132?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-24T09:07:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1232,16 +1302,6 @@
    "type": "Prensa"
   },
   {
-   "id": "050f03611bf5",
-   "source": "France 24",
-   "title": "Nuevo atentado en Colombia deja al menos 12 heridos; De la Espriella dice que \"el narcoterrorismo está desesperado\"",
-   "description": "",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261124-otro-atentado-en-colombia-deja-al-menos-12-heridos-de-la-espriella-dice-que-el-narcoterrorismo-est%C3%A1-desesperado",
-   "date": "2026-11-24T03:37:01+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "f7986962abb4",
    "source": "The Guardian",
    "title": "Myanmar has been found guilty of genocide. Should Israel be worried? – podcast",
@@ -1249,36 +1309,6 @@
    "url": "https://www.theguardian.com/news/audio/2026/nov/24/myanmar-found-guilty-genocide-should-israel-be-worried-podcast",
    "date": "2026-11-24T03:00:04+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "978d78e58a3b",
-   "source": "France 24",
-   "title": "Gaza: alarma por la crisis sanitaria y ambiental que dejan los residuos de la guerra",
-   "description": "Un informe elaborado por Oxfam advierte que la guerra ha provocado una grave crisis ecológica en la Franja de Gaza. Según el estudio, el territorio presenta indicadores de contaminación ambiental por la acumulación de escombros, residuos de explosivos, metales pesados y otros con",
-   "url": "https://www.france24.com/es/video/20261124-gaza-alarma-por-la-crisis-sanitaria-y-ambiental-que-dejan-los-residuos-de-la-guerra",
-   "date": "2026-11-24T02:57:09+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "f87f088bae33",
-   "source": "France 24",
-   "title": "Alberto Núñez Feijóo y su delgada línea: enfrentar a Pedro Sánchez sin abrazar a la ultraderecha",
-   "description": "El expresidente de la Xunta de Galicia asumió el liderazgo del conservador Partido Popular en medio de una grave crisis interna y ahora está a las puertas de la presidencia del Gobierno español. Su historia es la de un dirigente regional moderado y eficiente, pero mientras acusa ",
-   "url": "https://www.france24.com/es/europa/20261124-alberto-n%C3%BA%C3%B1ez-feij%C3%B3o-y-su-delgada-l%C3%ADnea-enfrentar-a-pedro-s%C3%A1nchez-sin-abrazar-a-la-ultraderecha",
-   "date": "2026-11-24T02:55:36+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "376de4f6d087",
-   "source": "France 24",
-   "title": "São José da Serra: la comunidad quilombola que mantiene viva la herencia africana en Brasil",
-   "description": "La memoria de los africanos esclavizados sigue viva en el quilombo de São José da Serra, una de las más de 7.000 comunidades quilombolas que existen en Brasil. Fundadas por descendientes de esclavos que escaparon de las plantaciones durante la época colonial, estas comunidades pr",
-   "url": "https://www.france24.com/es/video/20261124-s%C3%A3o-jos%C3%A9-da-serra-la-comunidad-quilombola-que-mantiene-viva-la-herencia-africana-en-brasil",
-   "date": "2026-11-24T02:52:53+00:00",
-   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -1300,16 +1330,6 @@
    "date": "2026-11-24T00:00:00+00:00",
    "category": "Tributación",
    "type": "Oficial"
-  },
-  {
-   "id": "f19f6dbf7893",
-   "source": "Ex-Ante",
-   "title": "La furia de Espinoza y Órdenes y la reacción de Kast: El impacto del caso firmas en la comitiva chilena en China",
-   "description": "Los dos senadores supieron al despertar, en plena gira presidencial, que alguien había retirado sus permisos constitucionales en Valparaíso. Kast se acercó al menos dos…",
-   "url": "https://www.ex-ante.cl/politica/firmas-furia-espinoza-ordenes-gira-kast/",
-   "date": "2026-11-23T23:47:39+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
   },
   {
    "id": "cb41aaa6d95e",
@@ -2248,16 +2268,6 @@
    "description": "Con la participación de representantes de 19 instituciones públicas, el Servicio Electoral de Chile dio inicio al III Encuentro de Organismos Fiscalizadores del Estado, actividad que se desarrollará hasta el miércoles 18. La iniciativa da continuidad a las jornadas realizadas en ",
    "url": "https://www.servel.cl/Ch/app/servel-inauguro-el-iii-encuentro-de-organismos-fiscalizadores-del-estado/sin-categoria/",
    "date": "2026-11-17T18:27:56+00:00",
-   "category": "Elecciones",
-   "type": "Oficial"
-  },
-  {
-   "id": "178e1a7d3a39",
-   "source": "Servicio Electoral",
-   "title": "Servel Antofagasta acompañó elecciones escolares incorporando nuevos materiales en cámaras secretas",
-   "description": "El pasado 30 de octubre, el Servicio Electoral, a través de su Dirección Regional de Antofagasta, acompañó la elección del Centro de Alumnos del Liceo Mario Bahamonde Silva. La actividad permitió que cerca de 800 estudiantes vivieran una experiencia electoral, incorporando por pr",
-   "url": "https://www.servel.cl/Ch/app/servel-antofagasta-acompano-elecciones-escolares-incorporando-nuevos-materiales-en-camaras-secretas/sin-categoria/",
-   "date": "2026-11-17T14:48:16+00:00",
    "category": "Elecciones",
    "type": "Oficial"
   },
