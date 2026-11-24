@@ -1,14 +1,104 @@
 {
- "updated": "2026-11-24T04:59:38.222123+00:00",
+ "updated": "2026-11-24T05:59:52.776370+00:00",
  "items": [
+  {
+   "id": "a278742ef3e4",
+   "source": "France 24",
+   "title": "Yemen: los hutíes reportan 25 muertos o desaparecidos tras ataques sauditas",
+   "description": "Los hutíes de Yemen reportaron este martes 24 de noviembre al menos 25 muertos o desaparecidos tras ataques aéreos sauditas contra autobuses y camiones en el suroeste del país. Los bombardeos se producen mientras los combatientes proiraníes avanzan hacia Adén, sede del Gobierno r",
+   "url": "https://www.france24.com/es/medio-oriente/20261124-yemen-los-hut%C3%ADes-reportan-25-muertos-o-desaparecidos-tras-ataques-sauditas",
+   "date": "2026-11-24T05:38:55+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
   {
    "id": "77fd38ea56f3",
    "source": "The Guardian",
-   "title": "Australian politics live: Government lacks ‘moral authority’ on decarbonisation, Monique Ryan says",
+   "title": "Australian politics live: Government lacks ‘moral authority’ on decarbonisation, Monique Ryan says; eight teens arrested over alleged schoolies assault",
    "description": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-   "date": "2026-11-24T04:38:15+00:00",
+   "date": "2026-11-24T05:22:20+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "333a148dc156",
+   "source": "BBC Mundo",
+   "title": "\"Quiero destruir el capitalismo, no al país\": así operan los grupos de ultraizquierda que impulsan las protestas violentas en Francia",
+   "description": "El pasado sábado se cumplió el sexto fin de semana consecutivo de manifestaciones contra el aumento vertiginoso de precios, el deterioro de los servicios públicos y los presuntos casos de brutalidad policial.",
+   "url": "https://www.bbc.com/mundo/articles/cmx27q3w9qjxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T05:01:11+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "bee2522331f5",
+   "source": "The Guardian",
+   "title": "Ebikes, screens and failing manners pose challenge for Dutch cycling culture",
+   "description": "Awareness campaign reminds public ‘traffic is a team sport’ amid less civility and more collisions on roads For decades the Netherlands has been famed for its proud cycling culture, with a network of 23,000 miles of bike paths used by everyone from children under eight to adults ",
+   "url": "https://www.theguardian.com/world/2026/nov/24/ebikes-screens-and-failing-manners-pose-challenge-for-dutch-cycling-culture",
+   "date": "2026-11-24T05:00:07+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "b32b62aad45d",
+   "source": "The Guardian",
+   "title": "Channel 4 hit as Unilever switches from TV to influencer marketing",
+   "description": "Exclusive: Gogglebox broadcaster is bigger loser than its rivals after Dove owner’s strategy shift, analysis shows Channel 4 has suffered a blow after one of Britain’s biggest advertisers ditched almost all of its TV spending with the troubled broadcaster, in favour of a switch t",
+   "url": "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
+   "date": "2026-11-24T05:00:07+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "17a274fbd477",
+   "source": "Al Jazeera",
+   "title": "Pennsylvania reports ninth measles death in ongoing state outbreak",
+   "description": "CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties.",
+   "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
+   "date": "2026-11-24T04:59:13+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "49a5d538f123",
+   "source": "Al Jazeera",
+   "title": "Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents",
+   "description": "Denmark’s Supreme Court has ruled against the ‘non-Western’ tenants evicted from Mjolnerparken housing estate.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss",
+   "date": "2026-11-24T04:52:06+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "c591b14bb6eb",
+   "source": "Al Jazeera",
+   "title": "Car bomb strikes governor’s office in Meta, Colombia",
+   "description": "A car bomb exploded in the city of Villavicencio in Colombia’s Meta Department.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
+   "date": "2026-11-24T04:49:31+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "6d194c9630ed",
+   "source": "Al Jazeera",
+   "title": "India’s best known bottled water under scrutiny",
+   "description": "India is testing samples from every bottled water company after one batch of Bisleri bottled water was ruled unsafe.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/indias-best-known-bottled-water-under-scrutiny?traffic_source=rss",
+   "date": "2026-11-24T04:44:35+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "ce6ca28b5f80",
+   "source": "Al Jazeera",
+   "title": "WHO chief visits Cuba as healthcare system deteriorates",
+   "description": "Analysts say fuel shortages blamed on US sanctions are worsening the crisis.",
+   "url": "https://www.aljazeera.com/news/2026/11/24/who-chief-visits-cuba-as-healthcare-system-deteriorates?traffic_source=rss",
+   "date": "2026-11-24T04:35:37+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -334,8 +424,8 @@
   {
    "id": "b04cc156290a",
    "source": "Al Jazeera",
-   "title": "US adds Megaspeed to trade blacklist after Nvidia spy scandal",
-   "description": "Bureau of Security and Industry adds Singapore-based firm and six other entities to export control list.",
+   "title": "US adds Megaspeed to trade blacklist as Nvidia’s Huang returns as CEO",
+   "description": "Bureau of Industry and Security adds Singapore-based firm involved in Nvidia spy scandal to export control list.",
    "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
    "date": "2026-11-24T00:52:47+00:00",
    "category": "Oriente Medio",
@@ -524,7 +614,7 @@
   {
    "id": "5c8f2fd54783",
    "source": "Al Jazeera",
-   "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?",
+   "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street",
    "description": "Trump claims credit for Huang's return, raising concerns over federal government meddling in corporate board decisions.",
    "url": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss",
    "date": "2026-11-23T23:06:03+00:00",
@@ -762,16 +852,6 @@
    "type": "Prensa"
   },
   {
-   "id": "13d67fcbcfe3",
-   "source": "Al Jazeera",
-   "title": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material",
-   "description": "Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok's 'spicy mode'.",
-   "url": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss",
-   "date": "2026-11-23T21:15:33+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "3371a01a8cc9",
    "source": "Deutsche Welle",
    "title": "¿Qué pasaría si explotara un arma nuclear en el espacio?",
@@ -800,26 +880,6 @@
    "date": "2026-11-23T21:06:12+00:00",
    "category": "Finanzas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "93bc27308252",
-   "source": "France 24",
-   "title": "Críticas de Gobiernos y expertos a la falta de acuerdo final de la COP31 en Turquía",
-   "description": "La Conferencia de Naciones Unidas sobre el Cambio Climático (COP31) celebrada en Antalya, Turquía, terminó el 22 de noviembre en un punto muerto sin precedentes. Tras negociaciones que se extendieron casi 48 horas, convirtiéndose en la cumbre climática más larga de la historia, l",
-   "url": "https://www.france24.com/es/video/20261123-cr%C3%ADticas-de-gobiernos-y-expertos-a-la-falta-de-acuerdo-final-de-la-cop31-en-turqu%C3%ADa",
-   "date": "2026-11-23T21:04:59+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "4b44a5c5ac3d",
-   "source": "Al Jazeera",
-   "title": "US drug prices leave patients facing impossible choices",
-   "description": "Despite having jobs and health insurance, some of the US's sickest patients have trouble affording medicines they need.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/us-drug-prices-leave-patients-facing-impossible-choices?traffic_source=rss",
-   "date": "2026-11-23T21:02:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
   },
   {
    "id": "78aabbff258e",
@@ -852,16 +912,6 @@
    "type": "Prensa"
   },
   {
-   "id": "9e2d38284d08",
-   "source": "Al Jazeera",
-   "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
-   "description": "Ahmadi and four production team members also face two-year bans on travel and artistic activity.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss",
-   "date": "2026-11-23T20:41:56+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d1f130c6aead",
    "source": "The Guardian",
    "title": "Metropolitan police seize 893kg of cocaine hidden in boxes of oranges",
@@ -879,26 +929,6 @@
    "url": "https://www.dw.com/es/la-ue-propone-vetar-a-atletas-rusos-de-eventos-en-nuevo-paquete-de-sanciones/a-80026822?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-23T20:30:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "4fb4a4084229",
-   "source": "Al Jazeera",
-   "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
-   "description": "Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss",
-   "date": "2026-11-23T20:26:40+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "e719dc102131",
-   "source": "Al Jazeera",
-   "title": "Turkish police hunting for lioness stalking Istanbul",
-   "description": "Questions being asked about big cat's origins, with suspicion falling on the country's growing role in animal smuggling.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss",
-   "date": "2026-11-23T20:22:28+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1018,16 +1048,6 @@
    "description": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisation commis",
    "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
    "date": "2026-11-23T18:31:17+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "eeccd8c2d6d8",
-   "source": "The Guardian",
-   "title": "Former prince Andrew was paid £750,000 in hope of helping Turkish woman with passport, high court told",
-   "description": "Nebahat Isbilen claims her former adviser paid bribe in return for help with passport, but money was returned Andrew Mountbatten-Windsor was paid a £750,000 “bribe” in the hope of helping a Turkish woman with her passport, the high court has been told. Nebahat Isbilen is suing he",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/23/former-prince-andrew-was-paid-bribe-to-help-turkish-woman-with-passport-high-court-told",
-   "date": "2026-11-23T18:20:03+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -1179,16 +1199,6 @@
    "url": "https://www.bbc.com/mundo/articles/cmq5vl3d603wo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-23T16:42:07+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "d2a404f68536",
-   "source": "The Guardian",
-   "title": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
-   "description": "Exclusive: Figures from cache of 11m death certificates reveal suicides account for about a regiment of Russia’s war dead Russia’s war dead: the hidden toll of the Ukraine conflict In late October 2024, Alexei Bolgov, a sergeant guarding a military headquarters in the occupied Do",
-   "url": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war",
-   "date": "2026-11-23T16:00:51+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
