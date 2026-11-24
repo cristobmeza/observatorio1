@@ -1,6 +1,206 @@
 {
- "updated": "2026-11-24T07:13:43.455367+00:00",
+ "updated": "2026-11-24T08:58:46.594008+00:00",
  "items": [
+  {
+   "id": "c6526643d7cf",
+   "source": "BBC Mundo",
+   "title": "\"Hoy de nuevo me encuentro humillada, expuesta y herida\": Gisèle Pelicot denuncia que enviaron fotos desnudas suyas a los medios",
+   "description": "Esta mujer francesa se hizo conocida tras renunciar al anonimato en el juicio contra su marido que fue condenado por violarla mientras dormía y permitir que otros hombres lo hicieran.",
+   "url": "https://www.bbc.com/mundo/articles/c6wy93z0grd3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T08:45:15+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "55e2e0c83df0",
+   "source": "The Guardian",
+   "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
+   "description": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank Meanwhile, the Financial Times is reporting this morning that the Pentagon is delaying the delivery of about 60 much-needed Patriot air defence interceptors",
+   "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+   "date": "2026-11-24T08:42:52+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "9cf80784cc49",
+   "source": "France 24",
+   "title": "El regreso de Huang impulsa las bolsas asiáticas; EE. UU. refuerza el control de chips",
+   "description": "Jensen Huang nuevamente al frente de Nvidia impulsó este martes fuertes alzas en las bolsas de Tokio, Seúl y Taipéi, mientras Washington endurecía las restricciones contra empresas sospechosas de desviar chips avanzados hacia China. La euforia bursátil, sin embargo, no disipa las",
+   "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261124-el-regreso-de-huang-impulsa-las-bolsas-asi%C3%A1ticas-ee-uu-refuerza-el-control-de-chips",
+   "date": "2026-11-24T08:40:27+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "8167be13c385",
+   "source": "The Guardian",
+   "title": "Asia-Pacific markets rally as Huang’s return to Nvidia reignites AI trade, despite US political backlash – business live",
+   "description": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang A day before Nvidia announced Jensen Huang’s reinstatement as its C",
+   "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+   "date": "2026-11-24T08:29:33+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "b05c42833339",
+   "source": "Al Jazeera",
+   "title": "US army says detonation of lead explosives in Iowa will proceed",
+   "description": "Public outcry led to a legal battle when details of the plans to conduct two controlled detonations surfaced.",
+   "url": "https://www.aljazeera.com/news/2026/11/24/us-army-says-detonation-of-lead-explosives-in-iowa-will-proceed?traffic_source=rss",
+   "date": "2026-11-24T08:24:08+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "98413c49a41a",
+   "source": "Al Jazeera",
+   "title": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
+   "description": "The announcement comes five days after the ICJ ruled that Myanmar committed genocide against its Rohingya minority.",
+   "url": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2?traffic_source=rss",
+   "date": "2026-11-24T08:21:41+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "defdd3b024cf",
+   "source": "Al Jazeera",
+   "title": "Moment Mexican troops captured cartel leader ‘El Chapo Isidro’",
+   "description": "Moment Mexican troops captured cartel leader ‘El Chapo Isidro’",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/moment-mexican-troops-captured-cartel-leader-el-chapo?traffic_source=rss",
+   "date": "2026-11-24T08:17:26+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "00f9d1827fe6",
+   "source": "Deutsche Welle",
+   "title": "Las bolsas asiáticas se disparan tras regreso de Jensen Huang a Nvidia",
+   "description": "Las bolsas asiáticas se dispararon tras el regreso sorpresa de Jensen Huang al frente del gigante de los chips Nvidia, con Seúl subiendo un 7% y Taipéi un 9%, contagiadas por la euforia bursátil mundial.",
+   "url": "https://www.dw.com/es/las-bolsas-asiáticas-se-disparan-tras-regreso-de-jensen-huang-a-nvidia/a-80028562?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-24T08:04:00+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "ce998dfa5cd4",
+   "source": "The Guardian",
+   "title": "Proposed Beatles attraction on Savile Row faces rooftop gigs ban",
+   "description": "Westminster council to vote on restrictions at planned tourist venue and site of band’s final public concert The Beatles stunned onlookers when they pitched up on the rooftop of 3 Savile Row in London in 1969 for their final public performance, but now Westminster city council is",
+   "url": "https://www.theguardian.com/music/2026/nov/24/beatles-attraction-savile-row-live-music-ban-westminster-council",
+   "date": "2026-11-24T08:00:11+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "e80c62a2ba04",
+   "source": "Al Jazeera",
+   "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
+   "description": "The Pakistan Air Force pilot will spend about a week on board the Tiangong, conducting experiments with China’s crew.",
+   "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+   "date": "2026-11-24T07:55:18+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "79c9a0ed03ca",
+   "source": "Al Jazeera",
+   "title": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
+   "description": "WFP Executive Director Luke Lindberg decries ‘political problem’ as grain is 'not reaching the people who need it'.",
+   "url": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+   "date": "2026-11-24T07:52:44+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "884d40657f40",
+   "source": "The Guardian",
+   "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
+   "description": "Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burned Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Climate campaigners are urging the Albanese government to heed a “li",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
+   "date": "2026-11-24T07:42:57+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "f74329bc053b",
+   "source": "Al Jazeera",
+   "title": "Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
+   "description": "Government forces made early gains in September, but Houthi fighting on multiple fronts has slowed the offensive.",
+   "url": "https://www.aljazeera.com/news/2026/11/24/why-has-yemens-offensive-against-the-houthis-in-al-bayda-stalled?traffic_source=rss",
+   "date": "2026-11-24T07:36:07+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b655710c8b89",
+   "source": "Al Jazeera",
+   "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
+   "description": "Hasina urges Dhaka to arrange her return on the national airline, as government says she can only be extradited.",
+   "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss",
+   "date": "2026-11-24T07:35:02+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "682448c4fb27",
+   "source": "The Guardian",
+   "title": "After 80 years in Oxford, Naga ancestors are finally going home",
+   "description": "A campaign securing the landmark return to India of ancestral remains taken during British colonial rule has opened a wider conversation about restitution The lacerating legacy of colonialism survives in many spaces, particularly in museum collections and private holdings across ",
+   "url": "https://www.theguardian.com/world/2026/nov/23/this-is-india-pitt-rivers-museum-oxford-human-remains-repatriation",
+   "date": "2026-11-24T07:30:10+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "77fd38ea56f3",
+   "source": "The Guardian",
+   "title": "‘State-sanctioned theft’: Australian news outlets demand content is protected from AI scraping – as it happened",
+   "description": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+   "date": "2026-11-24T07:21:53+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "541f197c6222",
+   "source": "Al Jazeera",
+   "title": "Member states must not betray the ICC",
+   "description": "Succumbing to US pressure to change the Rome Statute would be devastating for international justice.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/24/member-states-must-not-betray-the-icc?traffic_source=rss",
+   "date": "2026-11-24T07:13:18+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "84d00da03906",
+   "source": "France 24",
+   "title": "En directo: ataque ruso deja dos muertos en Zaporizhia; Trípoli pide explicaciones a Kiev por ataques contra buques rusos",
+   "description": "Un ataque ruso dejó dos muertos y 22 heridos, entre ellos dos niños, en Zaporizhia, según las autoridades regionales ucranianas, mientras Polonia denunció una breve incursión de un dron ruso en su espacio aéreo. El lunes, el Gobierno de Trípoli pidió explicaciones a Ucrania por l",
+   "url": "https://www.france24.com/es/europa/20261124-en-directo-ataque-ruso-deja-dos-muertos-en-zaporizhia-tr%C3%ADpoli-pide-explicaciones-a-kiev-por-ataques-contra-buques-rusos",
+   "date": "2026-11-24T07:12:19+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "a44b845ddeaa",
+   "source": "Al Jazeera",
+   "title": "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
+   "description": "New internet safety bill expected to pass this week could impose fines of up to 5 percent of firms' global revenue.",
+   "url": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
+   "date": "2026-11-24T07:02:52+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b3c484514073",
+   "source": "Al Jazeera",
+   "title": "Why Eisenkot is negotiating with Netanyahu",
+   "description": "Talks with different political powers give Yashar leverage. But they also give Likud renewed political relevance.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/24/why-eisenkot-is-negotiating-with-netanyahu?traffic_source=rss",
+   "date": "2026-11-24T07:02:40+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "ebc65723c61d",
    "source": "The Guardian",
@@ -8,16 +208,6 @@
    "description": "Joseph Rowntree Foundation report says millions could be left unable to regularly afford everyday basics Cuts to disability benefits are likely to increase the risks of destitution faced by young people and leave millions of people unable to regularly afford everyday basics such ",
    "url": "https://www.theguardian.com/society/2026/nov/24/cuts-uk-disability-benefit-risk-worsening-youth-destitution-research-warns",
    "date": "2026-11-24T07:00:10+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "77fd38ea56f3",
-   "source": "The Guardian",
-   "title": "Australian politics live: ‘State-sanctioned theft’: Australian news outlets demand content is protected from AI scraping and paid for in response to parliamentary inquiry",
-   "description": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-   "date": "2026-11-24T06:44:48+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -35,7 +225,7 @@
    "id": "43b021566f6e",
    "source": "The Guardian",
    "title": "Sports whistleblowers protected under proposed laws amid Australian cricket ball tampering saga",
-   "description": "Amendments to government bill by Coalition and Greens would establish protections for those reporting wrongdoing in sport Get our daily political email , free app or daily news podcast Whistleblowers coming forward to report corruption or misconduct in sports would be protected u",
+   "description": "Amendments to government bill by Coalition and Greens would establish protections for those reporting wrongdoing in sport Get our daily political email , free app or daily news podcast Whistleblowers reporting corruption or misconduct in sport would be protected under draft laws ",
    "url": "https://www.theguardian.com/australia-news/2026/nov/24/sports-whistleblowers-protected-proposed-laws-australian-cricket-ball-tampering-sandpapergate-ntwnfb",
    "date": "2026-11-24T06:20:10+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -188,16 +378,6 @@
    "description": "The order was issued after aircraft entered the country’s air defence identification zone over the island of Ulleungdo Residents of a remote South Korean island were ordered to take shelter on Tuesday morning after several Russian military aircraft came close to entering its airs",
    "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
    "date": "2026-11-24T04:14:43+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "b3a2c7514661",
-   "source": "The Guardian",
-   "title": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
-   "description": "Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Big tech companies may face “multibillion-dollar” fin",
-   "url": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws",
-   "date": "2026-11-24T04:03:16+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -522,16 +702,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2c50f3f7074f",
-   "source": "Al Jazeera",
-   "title": "What could Democrats do with their expanding congressional majority?",
-   "description": "The Democratic Party is debating how best to use its large margin of victory in the US midterm elections.",
-   "url": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
-   "date": "2026-11-24T00:39:22+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "f5cf0eaea3f5",
    "source": "Radio Cooperativa",
    "title": "Presupuesto para cuatro ministerios se resolverá en comisión mixta",
@@ -539,16 +709,6 @@
    "url": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-para-cuatro-ministerios-se-resolvera-en-comision-mixta/2026-11-23/213828.html",
    "date": "2026-11-24T00:38:28+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "be2b0a91dfd0",
-   "source": "Al Jazeera",
-   "title": "Turns out it wasn’t a lion afterall",
-   "description": "The animal that sparked panic in Istanbul on Sunday because people thought it was a lion, was not a lion afterall.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss",
-   "date": "2026-11-24T00:35:58+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -572,76 +732,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c3d72cec40e6",
-   "source": "Al Jazeera",
-   "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
-   "description": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
-   "url": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
-   "date": "2026-11-24T00:04:15+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "4869c8fda107",
-   "source": "Al Jazeera",
-   "title": "Borno school enrolment nearly doubles after years of conflict",
-   "description": "Despite rising enrolment, violence, displacement and poverty keep children out of school in northeastern state.",
-   "url": "https://www.aljazeera.com/news/2026/11/24/borno-school-enrolment-nearly-doubles-after-years-of-conflict?traffic_source=rss",
-   "date": "2026-11-24T00:02:16+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "2a003c7a70d3",
-   "source": "The Guardian",
-   "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
-   "description": "Position contrasts with Green party’s policies before 2024 election, as polls show just 17% of voters trust them on defence Zack Polanski has given his backing to a paper that endorses Britain’s membership of Nato and the maintenance of the country’s nuclear weapons. The Green pa",
-   "url": "https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons",
-   "date": "2026-11-24T00:01:01+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "07d3b1407604",
-   "source": "The Guardian",
-   "title": "Robert Macfarlane says trust in Cop to deliver change on climate is ‘misplaced’",
-   "description": "Nature writer reveals in his first Reith lecture that he finds ‘much more hope’ in emerging alliances We are “misplacing our trust” in the Cop climate summits and their “capacity to deliver consequential change”, according to Robert Macfarlane in this year’s Reith lectures. In co",
-   "url": "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced",
-   "date": "2026-11-24T00:01:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "fcbacb8c2ddc",
-   "source": "Al Jazeera",
-   "title": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
-   "description": "Iran's Revolutionary Guards say three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
-   "date": "2026-11-24T00:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "8d9112f1ee2d",
-   "source": "Al Jazeera",
-   "title": "Mamdani blasts AI-reliant stock market after Jensen Huang’s return",
-   "description": "New York City Mayor Zohran Mamdani has criticised the volatility of artificial intelligence linked stocks in the US.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/mamdani-blasts-ai-reliant-stock-market-after-jensen-huangs-return?traffic_source=rss",
-   "date": "2026-11-23T23:54:27+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "20940ad977be",
-   "source": "Al Jazeera",
-   "title": "Drone attack on police base in Colombia injures three, including infant",
-   "description": "Far-right President De la Espriella steps up offensive as rebel groups strike back with drone strikes, roadside bombs.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
-   "date": "2026-11-23T23:49:37+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "f19f6dbf7893",
    "source": "Ex-Ante",
    "title": "La furia de Espinoza y Órdenes y la reacción de Kast: El impacto del caso firmas en la comitiva chilena en China",
@@ -662,16 +752,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c9e3ac501c1e",
-   "source": "Al Jazeera",
-   "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
-   "description": "Proposed sanctions aim to curb Russian crypto financing and 'propaganda' in sports.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
-   "date": "2026-11-23T23:26:16+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "cb41aaa6d95e",
    "source": "CIPER Chile",
    "title": "Ministerio de Justicia entrega más de 1.800 decretos de rebaja de condena; PDI realiza diligencia en el Senado por eventual firma falsa, y Kast anuncia agenda de 100 días para el empleo",
@@ -679,16 +759,6 @@
    "url": "https://www.ciperchile.cl/2026/11/23/radar-23-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-23-11-26",
    "date": "2026-11-23T23:08:51+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "5c8f2fd54783",
-   "source": "Al Jazeera",
-   "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street",
-   "description": "Trump claims credit for Huang's return, raising concerns over federal government meddling in corporate board decisions.",
-   "url": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss",
-   "date": "2026-11-23T23:06:03+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -729,16 +799,6 @@
    "url": "https://www.france24.com/es/video/20261123-s%C3%A1nchez-propone-gravar-a-los-m%C3%A1s-ricos-en-la-recta-final-de-la-campa%C3%B1a-electoral",
    "date": "2026-11-23T22:59:48+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "6597349e2a3a",
-   "source": "Al Jazeera",
-   "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
-   "description": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
-   "date": "2026-11-23T22:54:47+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -872,16 +932,6 @@
    "type": "Prensa"
   },
   {
-   "id": "806dba2e9052",
-   "source": "France 24",
-   "title": "2026, uno de los años más críticos y extremos a nivel climático",
-   "description": "2026 se perfila como uno de los años más alarmantes de la historia climática mundial. Durante el transcurso del año, diferentes partes del mundo han sido víctimas de fenómenos extremos como ciclones, deslizamientos, riadas, inundaciones e incendios forestales sin precedentes. Los",
-   "url": "https://www.france24.com/es/video/20261123-2026-uno-de-los-a%C3%B1os-m%C3%A1s-cr%C3%ADticos-y-extremos-a-nivel-clim%C3%A1tico",
-   "date": "2026-11-23T21:38:00+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "409aca94a3ef",
    "source": "Ex-Ante",
    "title": "Por qué Santiago se perfila como la capital más moderna de Sudamérica, según los rankings",
@@ -909,16 +959,6 @@
    "url": "https://www.dw.com/es/¿qué-pasaría-si-explotara-un-arma-nuclear-en-el-espacio/a-80026814?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-23T21:14:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "ad9e4cb23707",
-   "source": "France 24",
-   "title": "Informe desde Washington: Jensen Huang vuelve como CEO de Nvidia",
-   "description": "Poco más de una semana pasó para que Nvidia volviera a contratar a Jensen Huang, presidente de la compañía tecnológica hasta que se hizo pública una relación extramatrimonial con una posible espía china y otras dos infidelidades. El presidente Donald Trump, amigo del empresario, ",
-   "url": "https://www.france24.com/es/video/20261123-informe-desde-washington-jensen-huang-vuelve-como-ceo-de-nvidia",
-   "date": "2026-11-23T21:07:37+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1189,16 +1229,6 @@
    "url": "https://www.ex-ante.cl/internacional/nuevo-embajador-china-bukele/",
    "date": "2026-11-23T16:48:04+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "02e8612368ff",
-   "source": "The Guardian",
-   "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
-   "description": "European Commission president Ursula von der Leyen sets out 22nd package of sanctions Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Ukraine. “ It helps Ukraine to defend itself today, but it al",
-   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-   "date": "2026-11-23T16:42:56+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1502,16 +1532,6 @@
    "type": "Prensa"
   },
   {
-   "id": "386085e4c143",
-   "source": "Naciones Unidas",
-   "title": "La COP31 termina sin pacto climático por la división sobre los combustibles fósiles",
-   "description": "El titular de la ONU califica el fracaso como un revés “profundamente decepcionante” y advierte que \"no hay ambigüedad en la ciencia\". \"No podemos apagar el fuego mientras le echamos combustible\", dijo, acusando a los poderosos intereses de los combustibles fósiles de obstruir la",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542199",
-   "date": "2026-11-22T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
    "id": "35cc19084fe1",
    "source": "CIPER Chile",
    "title": "Yalta sin decoro: lo que Putin, Xi y Trump dejaron en Shenzhen",
@@ -1622,16 +1642,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ce7e1b14000a",
-   "source": "BBC Mundo",
-   "title": "Lo que podemos aprender de una antigua ciudad subterránea de Turquía sobre cómo escapar del calor y el frío extremos",
-   "description": "Hace siglos, los habitantes de la Capadocia, una región histórica en Turquía, se escondieron bajo tierra para escapar de sus enemigos. Allí también encontraron refugio frente a las condiciones climáticas extremas.",
-   "url": "https://www.bbc.com/mundo/articles/cq074g7x8915o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-21T09:10:38+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "9ed40cb2033d",
    "source": "BBC Mundo",
    "title": "\"No quise negociar la sangre de mi hija\": la madre de una adolescente muerta a tiros en las protestas en Irán exige justicia desde el exilio",
@@ -1702,16 +1712,6 @@
    "type": "Prensa"
   },
   {
-   "id": "dfc05127aed7",
-   "source": "BBC Mundo",
-   "title": "Los gritos de un reo durante su ejecución en Texas reavivan el debate sobre la pena de muerte en EE.UU.",
-   "description": "Esta prolongada ejecución se produce semanas después de que Christa Pike sobreviviera a la inyección letal del mismo fármaco.",
-   "url": "https://www.bbc.com/mundo/articles/cq3dg820rre0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T17:20:55+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "086e2986da51",
    "source": "Estudios Públicos (CEP)",
    "title": "Modernizar el Estado sin escándalo",
@@ -1749,36 +1749,6 @@
    "url": "https://www.bbc.com/mundo/articles/c8zxl4rd6nq5o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-20T12:05:05+00:00",
    "category": "Conflictos armados y seguridad internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "22b9b4891a4d",
-   "source": "Naciones Unidas",
-   "title": "Discordia en la COP31, Ucrania, Afganistán y hambre global: las noticias del viernes",
-   "description": "Discordia en el último día de la cumbre del clima contra el borrador del acuerdo. Ucrania registra el máximo de niños muertos en casi cuatro años. En Afganistán, la mitad de las organizaciones de mujeres anuncia que tendrá que cerrar sus servicios por falta de dinero. El Programa",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542198",
-   "date": "2026-11-20T12:00:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Oficial"
-  },
-  {
-   "id": "28709fcfa3bd",
-   "source": "Naciones Unidas",
-   "title": "COP31: Sin mención a los combustibles fósiles, no habrá acuerdo, aseguran varios países",
-   "description": "Los países definieron seis prioridades que deseaban ver reflejadas en el acuerdo: la necesidad de una transición, decidir con la ciencia en la mano, obligar a pagar a quienes contaminan, electrificar los países con base en las energías limpias, reducir las emisiones de metano y f",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542196",
-   "date": "2026-11-20T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "8b8c9aed5e78",
-   "source": "The Guardian",
-   "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
-   "description": "Reactions to ICJ ruling underline global divisions over court with China raising concerns about judicial overreach The US has greeted with caution the world’s highest court’s ruling that Myanmar committed genocide against its Rohingya minority, while China has raised concerns of ",
-   "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
-   "date": "2026-11-20T11:57:43+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -1922,46 +1892,6 @@
    "type": "Académica"
   },
   {
-   "id": "802397a77c8d",
-   "source": "Naciones Unidas",
-   "title": "No se necesita aprobación del gobierno para formar una asociación",
-   "description": "Ante la reducción del espacio público por parte de los Gobiernos, un Comité de la ONU emite un observación general sobre el Pacto Internacional de Derechos Civiles y Políticos: la libertad de asociación, reconocida en las leyes internacionales, permite a las personas unirse de fo",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542195",
-   "date": "2026-11-19T12:00:00+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Oficial"
-  },
-  {
-   "id": "22d422e119b8",
-   "source": "Naciones Unidas",
-   "title": "COP31: Los combustibles fósiles quedan fuera del borrador del acuerdo",
-   "description": "La decisión preocupa a los activistas presentes en la Conferencia y exigen un plan significativo que proteja a todo el mundo. Actualmente, el borrador sí respalda la meta de Turquía de aumentar al 35% la proporción de electricidad en el consumo final de energía mundial para 2035 ",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542194",
-   "date": "2026-11-19T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "0814133f0656",
-   "source": "Naciones Unidas",
-   "title": "Myanmar, COP31 y El Niño en Guatemala… las noticias del jueves",
-   "description": "La Corte Internacional de Justicia declara a Myanmar responsable de genocidio contra los rohinyá. En la COP31 desaparece del borrador final la salida de los combustibles fósiles. El Niño deja a más de tres millones de guatemaltecos en riesgo de hambre.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542193",
-   "date": "2026-11-19T12:00:00+00:00",
-   "category": "Derecho internacional",
-   "type": "Oficial"
-  },
-  {
-   "id": "0bdc53589be3",
-   "source": "Naciones Unidas",
-   "title": "La Corte Internacional de Justicia declara a Myanmar culpable de genocidio contra los rohinyás",
-   "description": "La Corte Internacional de Justicia, el principal órgano judicial de la ONU, dictó este jueves su sentencia en el caso “Gambia contra Myanmar” sobre la aplicación de la Convención sobre el Genocidio, en la que declara a Myanmar responsable del crimen cometido contra la etnia rohin",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542191",
-   "date": "2026-11-19T12:00:00+00:00",
-   "category": "Jurisprudencia",
-   "type": "Oficial"
-  },
-  {
    "id": "8dcf7086dfb8",
    "source": "The Guardian",
    "title": "Race to replant five South African baobabs after export blocked",
@@ -2042,56 +1972,6 @@
    "type": "Académica"
   },
   {
-   "id": "dd1639ffa76d",
-   "source": "Naciones Unidas",
-   "title": "COP31: 21 asuntos sin resolver a tres días del final",
-   "description": "La cumbre del clima de Antalya acumula asuntos entre corchetes, lo que significa “sin acuerdo” en jerga diplomática. No son temas menores, sino capítulos como financiación, el abandono de los combustibles fósiles y adaptación al cambio climático. Todo ello mientras arranca el seg",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542190",
-   "date": "2026-11-18T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "7e3ebfd07f73",
-   "source": "Naciones Unidas",
-   "title": "Impulsados por China, los registros de patentes alcanzan un récord",
-   "description": "De las aproximadamente 224.000 solicitudes adicionales presentadas en el mundo en 2025, 113.693 lo fueron en China. Con cerca de 1,9 millones de solicitudes, el país se mantiene ampliamente a la cabeza del ranking mundial, por delante de Estados Unidos (489.766), Japón (466.301),",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542189",
-   "date": "2026-11-18T12:00:00+00:00",
-   "category": "China y Asia",
-   "type": "Oficial"
-  },
-  {
-   "id": "897bff50b480",
-   "source": "Naciones Unidas",
-   "title": "El Darién se vacía: los cruces caen un 90 %, mientras nace una gran ruta migratoria hacia el sur de América",
-   "description": "Muchos venezolanos están regresando a casa y muchos cubanos se están instalando en Brasil y Uruguay. \"La migración no ha parado: la gente busca nuevas rutas y otras direcciones\", señala la agencia de la ONU para las migraciones.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542188",
-   "date": "2026-11-18T12:00:00+00:00",
-   "category": "América Latina",
-   "type": "Oficial"
-  },
-  {
-   "id": "d0d748d6c970",
-   "source": "Naciones Unidas",
-   "title": "Alerta: Los antibióticos están dejando de funcionar contra infecciones comunes",
-   "description": "La agencia de la salud señala que hay tres líneas de defensa de antibióticos, pero cada vez que cae una, los pacientes se acercan más a no tener buenas opciones en absoluto. Además, en los hospitales donde se toman pocas muestras de sangre para identificar la bacteria detrás de u",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542187",
-   "date": "2026-11-18T12:00:00+00:00",
-   "category": "Sociedad",
-   "type": "Oficial"
-  },
-  {
-   "id": "c7aeb14f917e",
-   "source": "Naciones Unidas",
-   "title": "Manila, Yemen, pensiones y alpacas… las noticias del miércoles",
-   "description": "Líderes mundiales se reúnen en Manila para erradicar la violencia contra los niños, mientras UNICEF cuenta 64 menores muertos en Yemen en tres meses de escalada. La CEPAL publica su Panorama Social con un mensaje: las pensiones evitan que los mayores caigan en la pobreza. Y qué p",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542185",
-   "date": "2026-11-18T12:00:00+00:00",
-   "category": "Sociedad",
-   "type": "Oficial"
-  },
-  {
    "id": "6d6605163e3d",
    "source": "BBC Mundo",
    "title": "El test genético que descubrió el covid-19 y que ahora salva vidas al detectar casi todas las infecciones",
@@ -2122,46 +2002,6 @@
    "type": "Oficial"
   },
   {
-   "id": "3989e9eeefdd",
-   "source": "Naciones Unidas",
-   "title": "Bolivia, Estados Unidos y México pierden su estatus de países libres del sarampión",
-   "description": "La agencia de la ONU para la salud en las Américas alerta de que la transmisión endémica se ha restablecido en los tres países, en un año que multiplica por cuatro los casos en las Américas: 58.213 contagios y 82 muertes. El descenso de las tasas de vacunación ha propiciado el re",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542184",
-   "date": "2026-11-17T12:00:00+00:00",
-   "category": "América Latina",
-   "type": "Oficial"
-  },
-  {
-   "id": "5a333fcf87a4",
-   "source": "Naciones Unidas",
-   "title": "COP31: La protección de los océanos llega a la mesa de negociaciones",
-   "description": "Desde identificar la vida marina en una simple taza de agua marina hasta recurrir a los conocimientos indígenas para prevenir incendios forestales, científicos y comunidades indígenas mostraron el martes en la COP31 propuestas para proteger la naturaleza, pero la falta de financi",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542183",
-   "date": "2026-11-17T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "765c33ff5826",
-   "source": "Naciones Unidas",
-   "title": "Gaza, el fracaso de la comunidad internacional",
-   "description": "Las primeras lluvias del invierno han devastado decenas de miles de refugios improvisados, mientras 1,4 millones de personas están pasando hambre y más de 100.000 tiendas de campaña están bloqueadas fuera de la Franja. Israel, la potencia ocupante, solo mantiene abierto en este m",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542182",
-   "date": "2026-11-17T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "fa2de407111c",
-   "source": "Naciones Unidas",
-   "title": "Hambre en Gaza, COP31, obesidad y químicos de la discordia... las noticias del martes",
-   "description": "Casi 1,5 millones de palestinos padece hambre aguda, mientras Israel mantiene los obstáculos al paso de la ayuda humanitaria. La inversión climática en América Latina debe ser vista como una inversión, no como un gasto. España lidera un llamado mundial contra la obesidad. Un info",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542181",
-   "date": "2026-11-17T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
    "id": "2fdb77b4d8a8",
    "source": "Organización Mundial del Comercio",
    "title": "Se multiplican las nuevas medidas restrictivas del comercio, pero los Miembros de la OMC intensifican sus esfuerzos de facilitación del comercio",
@@ -2180,46 +2020,6 @@
    "date": "2026-11-16T12:53:29+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "3f3149bb9402",
-   "source": "Naciones Unidas",
-   "title": "La IA responde con la ciencia a la primera pregunta sobre el cambio climático, a la segunda… ya es otro tema",
-   "description": "Entre la ciencia y la complacencia, los grandes modelos de lenguaje eligen la primera cuando se les pregunta y la segunda en cuanto el usuario objeta o niega la evidencia.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542179",
-   "date": "2026-11-16T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "ce3260c28665",
-   "source": "Naciones Unidas",
-   "title": "COP31 bloqueada, IA climática, cáncer de cérvix y refugiados… las noticias del martes",
-   "description": "La cumbre del clima entra en su semana final con las negociaciones atascadas y los ministros en camino. UNESCO alerta de que los chatbots ceden ante la presión del usuario y abandonan ciencia cuando se les pregunta por el cambio climático. Un estudio con más de 44.000 mujeres lat",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542178",
-   "date": "2026-11-16T12:00:00+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Oficial"
-  },
-  {
-   "id": "03499effcf87",
-   "source": "Naciones Unidas",
-   "title": "La COP31 entra en su semana decisiva: las negociaciones siguen bloqueadas mientras se alarga la sombra de la IA",
-   "description": "Las nuevas iniciativas internacionales sobre inteligencia artificial e industrialización verde pusieron de manifiesto el papel creciente de la tecnología en la cuestión climática, al tiempo que las conversaciones diplomáticas siguen bloqueadas en materia de financiación, combusti",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542176",
-   "date": "2026-11-16T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "f8d234d346a4",
-   "source": "Naciones Unidas",
-   "title": "En la Cumbre de los países del sudeste asiático, Guterres pide más representación internacional para esa región",
-   "description": "La petición llega en un momento de tensión para la asociación, que cumple 15 años. Guterres describió un entorno de «vientos contrarios»: conflictos, cambio climático, crisis del costo de vida, aranceles y costos de la energía, y necesidades humanitarias crecientes.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542175",
-   "date": "2026-11-16T12:00:00+00:00",
-   "category": "Comercio internacional",
-   "type": "Oficial"
   },
   {
    "id": "c718c5cd01f9",
@@ -2262,36 +2062,6 @@
    "type": "Académica"
   },
   {
-   "id": "e93da3e83c4b",
-   "source": "Naciones Unidas",
-   "title": "COP31: Sin dinero suficiente, crecen las voces para que paguen más los que más contaminan",
-   "description": "Entre peticiones emotivas de justicia climática y negociaciones de alto nivel sobre miles de millones de dólares, el dinero dominó las discusiones de la COP31 el viernes. El Secretario General advirtió de que incluso si se triplican los recursos para que los países vulnerables pu",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542174",
-   "date": "2026-11-13T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "af491484dbdb",
-   "source": "Naciones Unidas",
-   "title": "El impacto devastador de la última tormenta en Gaza se podría haber evitado",
-   "description": "Se trata de decisiones políticas israelíes que podían haber salvado la vida de niños y adultos. La obligación de Israel, como potencia ocupante, es la de garantizar las necesidades básicas de la población de Gaza, incluidos los suministros esenciales para la supervivencia. Las ag",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542173",
-   "date": "2026-11-13T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "92ebf5391b73",
-   "source": "Naciones Unidas",
-   "title": "COP31, ébola, robots asesinos, Gaza… las noticias del viernes",
-   "description": "El Secretario General de la ONU despide su última cumbre del clima en Antalya advirtiendo de que el sobrecalentamiento de 1,5 grados ya es inevitable. El Congo suma 5400 muertos por ébola a los seis meses del brote. La ONU pide un tratado que prohíba las armas autónomas: \"Una máq",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542172",
-   "date": "2026-11-13T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
    "id": "70be58117c8b",
    "source": "Organización Mundial del Comercio",
    "title": "Irlanda hace una contribución de EUR 200.000 para impulsar las oportunidades comerciales de los países en desarrollo",
@@ -2299,76 +2069,6 @@
    "url": "https://www.wto.org/spanish/news_s/pres26_s/pr998_551_s.htm",
    "date": "2026-11-13T00:00:00+00:00",
    "category": "Comercio internacional",
-   "type": "Oficial"
-  },
-  {
-   "id": "76c1fdef46f1",
-   "source": "Naciones Unidas",
-   "title": "COP31: las ciudades están en la primera línea del cambio climático",
-   "description": "Los activistas y países vulnerables exigieron una respuesta urgente e inmediata para proteger a las comunidades en primera línea frente a los crecientes desastres climáticos poniendo así presión a los líderes para que financien y adopten medidas, entre ellas, proteger la vivienda",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542169",
-   "date": "2026-11-12T12:00:00+00:00",
-   "category": "Sociedad",
-   "type": "Oficial"
-  },
-  {
-   "id": "cc1261255c48",
-   "source": "Naciones Unidas",
-   "title": "Gaza: la ONU denuncia los bloqueos mortales de Israel frente a las inclemencias del tiempo",
-   "description": "En Gaza, hasta la lluvia mata. El responsable humanitario de la ONU resume un invierno que ya se cobra vidas entre tiendas inundadas y bebés muertos de frío, mientras 150.000 tiendas y medio millón de mantas permanecen bloqueadas a las puertas del enclave. Tom Fletcher no pide pa",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542168",
-   "date": "2026-11-12T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "c6a889820925",
-   "source": "Naciones Unidas",
-   "title": "Haití: más de mil asesinatos entre julio y septiembre",
-   "description": "En Haití 1167 personas fueron asesinadas y 459 resultaron heridas en el trimestre de julio a septiembre. Las pandillas son responsables del 45 % de estos hechos, mientras que alrededor del 5 % se atribuyó a grupos de autodefensa que atacaron a miembros de las pandillas. La otra m",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542167",
-   "date": "2026-11-12T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "dc1c812c0479",
-   "source": "Naciones Unidas",
-   "title": "COP31, plaguicidas, pena de muerte en California, Honduras, neumonía… las noticias del jueves",
-   "description": "Lanzan una plataforma para financiar la respuesta a desastres antes de que ocurran, con el objetivo de proteger a 75 millones de personas. Bangladesh e India prohíben el paraquat, un herbicida vinculado a uno de cada cinco suicidios por plaguicidas en el mundo. California conmuta",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542166",
-   "date": "2026-11-12T12:00:00+00:00",
-   "category": "China y Asia",
-   "type": "Oficial"
-  },
-  {
-   "id": "f00cd98dba05",
-   "source": "Naciones Unidas",
-   "title": "Guterres: Es el momento de la verdad: o actuamos o nos asamos",
-   "description": "\"Los combustibles fósiles deben seguir el camino de los dinosaurios (la extinción). (Pero) los dinosaurios no tenían un lobby. Los combustibles fósiles, sí\", advierte el titular de la ONU. Además, contrasta los 95.000 millones que ganaron las nueve mayores petroleras en un trimes",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542164",
-   "date": "2026-11-11T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "8468dcc3302b",
-   "source": "Naciones Unidas",
-   "title": "COP31, sequía en Centroamérica, Gaza, ébola… las noticias del miércoles",
-   "description": "En la COP31, el Secretario General advierte de que \"los combustibles fósiles deben seguir el camino de los dinosaurios\", la extinción. En nuestro podcast \"Sin la ONU\", viajamos al Corredor Seco de Centroamérica para conocer cómo la sequía está cambiando la vida de los agricultore",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542163",
-   "date": "2026-11-11T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "a300ecc8e0b5",
-   "source": "Naciones Unidas",
-   "title": "El Corredor Seco: “Cuando no hay agua, ahí termina toda la inteligencia”",
-   "description": "Con El Niño fortaleciéndose, la sequía vuelve a amenazar el Corredor Seco de Centroamérica. Anastacio y Marta lideran iniciativas que ayudan a sus comunidades a afrontar la sequía y evitar que más familias tengan que marcharse.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542151",
-   "date": "2026-11-11T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Oficial"
   },
   {
