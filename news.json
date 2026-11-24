@@ -1,6 +1,206 @@
 {
- "updated": "2026-11-24T02:12:40.245960+00:00",
+ "updated": "2026-11-24T03:53:45.777272+00:00",
  "items": [
+  {
+   "id": "77fd38ea56f3",
+   "source": "The Guardian",
+   "title": "Australian politics live: Hanson-Young says digital duty of care bill will hit tech companies ‘where it hurts’; question time tribute to late MP Neil Andrew",
+   "description": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+   "date": "2026-11-24T03:39:58+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "050f03611bf5",
+   "source": "France 24",
+   "title": "Nuevo atentado en Colombia deja al menos 12 heridos; De la Espriella dice que \"el narcoterrorismo está desesperado\"",
+   "description": "",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261124-otro-atentado-en-colombia-deja-al-menos-12-heridos-de-la-espriella-dice-que-el-narcoterrorismo-est%C3%A1-desesperado",
+   "date": "2026-11-24T03:37:01+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "f97bd064ba93",
+   "source": "Radio Cooperativa",
+   "title": "Inteligencia occidental alerta sobre posible despliegue de un arma nuclear rusa en el espacio",
+   "description": "Servicios de inteligencia y mandos militares occidentales advierten que Rusia podría desplegar antes de fines de 2026 un satélite equipado con una ojiva nuclear , denominado supuestamente \"Sputnik-S\" , según una investigación de los medios alemanes WDR, NDR y Süddeutsche Zeitung ",
+   "url": "https://www.cooperativa.cl/noticias/mundo/rusia/inteligencia-occidental-alerta-sobre-posible-despliegue-de-un-arma/2026-11-24/003446.html",
+   "date": "2026-11-24T03:34:46+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "3d1848bc083e",
+   "source": "Al Jazeera",
+   "title": "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
+   "description": "Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.",
+   "url": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss",
+   "date": "2026-11-24T03:20:55+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "315b2ea7d9f3",
+   "source": "Radio Cooperativa",
+   "title": "Corte dejó sin efecto permiso ambiental de proyecto ligado a los Piñera en el lago Ranco",
+   "description": "La Corte de Apelaciones de Valdivia dejó sin efecto la calificación ambiental favorable del proyecto \"Nuevo Desarrollo Inmobiliario Bahía Coique\" , ligado a la familia Piñera Morel , en un sector del lago Ranco donde falleció el expresidente Sebastián Piñera (2010-2014, 2018-2022",
+   "url": "https://www.cooperativa.cl/noticias/pais/sebastian-pinera/corte-dejo-sin-efecto-permiso-ambiental-de-proyecto-ligado-a-los-pinera/2026-11-24/000918.html",
+   "date": "2026-11-24T03:09:18+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "9ba5ee31a4f6",
+   "source": "Deutsche Welle",
+   "title": "Trípoli condena ataques a buques rusos en sus aguas territoriales y exige explicaciones a Ucrania",
+   "description": "El gobierno condenó \"cualquier operación militar extranjera dentro del territorio o las aguas territoriales de Libia\".",
+   "url": "https://www.dw.com/es/trípoli-condena-ataques-a-buques-rusos-en-sus-aguas-territoriales-y-exige-explicaciones-a-ucrania/a-80027336?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-24T03:05:00+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "f7986962abb4",
+   "source": "The Guardian",
+   "title": "Myanmar has been found guilty of genocide. Should Israel be worried? – podcast",
+   "description": "The international court of justice has for the first time ruled that a state has committed genocide. Yasmin Ullah explains what it means for the Rohingya people, while Kaamil Ahmed lays out how the case unfolded For seven years, Yasmin Ullah had been part of the delegation arguin",
+   "url": "https://www.theguardian.com/news/audio/2026/nov/24/myanmar-found-guilty-genocide-should-israel-be-worried-podcast",
+   "date": "2026-11-24T03:00:04+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "978d78e58a3b",
+   "source": "France 24",
+   "title": "Gaza: alarma por la crisis sanitaria y ambiental que dejan los residuos de la guerra",
+   "description": "Un informe elaborado por Oxfam advierte que la guerra ha provocado una grave crisis ecológica en la Franja de Gaza. Según el estudio, el territorio presenta indicadores de contaminación ambiental por la acumulación de escombros, residuos de explosivos, metales pesados y otros con",
+   "url": "https://www.france24.com/es/video/20261124-gaza-alarma-por-la-crisis-sanitaria-y-ambiental-que-dejan-los-residuos-de-la-guerra",
+   "date": "2026-11-24T02:57:09+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f87f088bae33",
+   "source": "France 24",
+   "title": "Alberto Núñez Feijóo y su delgada línea: enfrentar a Pedro Sánchez sin abrazar a la ultraderecha",
+   "description": "El expresidente de la Xunta de Galicia asumió el liderazgo del conservador Partido Popular en medio de una grave crisis interna y ahora está a las puertas de la presidencia del Gobierno español. Su historia es la de un dirigente regional moderado y eficiente, pero mientras acusa ",
+   "url": "https://www.france24.com/es/europa/20261124-alberto-n%C3%BA%C3%B1ez-feij%C3%B3o-y-su-delgada-l%C3%ADnea-enfrentar-a-pedro-s%C3%A1nchez-sin-abrazar-a-la-ultraderecha",
+   "date": "2026-11-24T02:55:36+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "376de4f6d087",
+   "source": "France 24",
+   "title": "São José da Serra: la comunidad quilombola que mantiene viva la herencia africana en Brasil",
+   "description": "La memoria de los africanos esclavizados sigue viva en el quilombo de São José da Serra, una de las más de 7.000 comunidades quilombolas que existen en Brasil. Fundadas por descendientes de esclavos que escaparon de las plantaciones durante la época colonial, estas comunidades pr",
+   "url": "https://www.france24.com/es/video/20261124-s%C3%A3o-jos%C3%A9-da-serra-la-comunidad-quilombola-que-mantiene-viva-la-herencia-africana-en-brasil",
+   "date": "2026-11-24T02:52:53+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "8b61a3f831a5",
+   "source": "France 24",
+   "title": "Informe desde Washington: el reintegro de Huang a Nvidia y las reacciones de Trump",
+   "description": "El regreso de Jensen Huang a la dirección de Nvidia ha desatado interrogantes sobre el papel que jugó Donald Trump en la decisión. El mandatario afirmó públicamente que habló con la junta directiva de la compañía y aseguró haberla convencido de reincorporar al empresario.Trump ta",
+   "url": "https://www.france24.com/es/video/20261124-informe-desde-washington-el-reintegro-de-huang-a-nvidia-y-las-reacciones-de-trump",
+   "date": "2026-11-24T02:49:34+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "0c4012858de4",
+   "source": "France 24",
+   "title": "Pablo Vanegas: \"el fallo del TAS sobre la Copa Africana será histórico para el derecho deportivo\"",
+   "description": "El Tribunal Arbitral del Deporte (TAS) se prepara para emitir un fallo que podría ratificar a Marruecos como campeón de la Copa Africana de Naciones 2025, cerrando una de las controversias más grandes del fútbol africano reciente. La disputa surgió después de que la Confederación",
+   "url": "https://www.france24.com/es/video/20261124-pablo-vanegas-el-fallo-del-tas-sobre-la-copa-africana-ser%C3%A1-hist%C3%B3rico-para-el-derecho-deportivo",
+   "date": "2026-11-24T02:47:42+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "a78fb265889a",
+   "source": "France 24",
+   "title": "Libia: el puerto de Bengasi intenta recuperar la normalidad tras ataques ucranianos a buque ruso",
+   "description": "El puerto de Bengasi intenta recuperar la normalidad tras el ataque con drones que alcanzó un buque militar ruso atracado en sus instalaciones. La operación fue reivindicada por el presidente ucraniano, Volodímir Zelenski, en el marco de la confrontación entre Kiev y Moscú. Las a",
+   "url": "https://www.france24.com/es/video/20261124-libia-el-puerto-de-bengasi-intenta-recuperar-la-normalidad-tras-ataques-ucranianos-a-buque-ruso",
+   "date": "2026-11-24T02:46:08+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "dec813d9d3f2",
+   "source": "The Guardian",
+   "title": "China sentences official to death for spying for foreign country",
+   "description": "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says A Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher has said. Gold Wall Press, a publishin",
+   "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
+   "date": "2026-11-24T02:37:36+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "ab03d9852bcd",
+   "source": "Radio Cooperativa",
+   "title": "Naviera chilena no pedirá permiso a Argentina para retomar ruta Punta Arenas-Malvinas",
+   "description": "La naviera chilena Easter Island confirmó este lunes a EFE que no pedirá autorización a Argentina para retomar en las próximas semanas la ruta comercial entre las islas Malvinas y Punta Arenas , en el extremo sur de Chile. El buque Danstar , que zarpará a mediados de diciembre ha",
+   "url": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/argentina/naviera-chilena-no-pedira-permiso-a-argentina-para-retomar-ruta-punta/2026-11-23/233639.html",
+   "date": "2026-11-24T02:36:39+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "671ff6fdad4d",
+   "source": "Al Jazeera",
+   "title": "Excavator threatens sacred alpine lake in the Himalayas",
+   "description": "Footage of an excavator near Sheshnag Lake in India-administered Kashmir has sparked outrage.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss",
+   "date": "2026-11-24T02:35:27+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "e6c7a146c497",
+   "source": "Al Jazeera",
+   "title": "UN chief calls for world to agree on AI oversight within a year",
+   "description": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
+   "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
+   "date": "2026-11-24T02:27:19+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "45bf9e3ed251",
+   "source": "Radio Cooperativa",
+   "title": "Alvarado comentó las renuncias con elástico del Partido Cristiano en el Biobío",
+   "description": "De visita en la Región del Biobío, el ministro del Interior, Claudio Alvarado (UDI) , comentó la insólita situación de las renuncias anunciadas -pero no materializadas- de dos militantes del Partido Cristiano de Chile en medio de la polémica de los últimos días respecto al financ",
+   "url": "https://www.cooperativa.cl/noticias/pais/gobierno/alvarado-comento-las-renuncias-con-elastico-del-partido-cristiano-en-el/2026-11-23/232607.html",
+   "date": "2026-11-24T02:26:07+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "280fb471ab2d",
+   "source": "France 24",
+   "title": "Nvidia dispara Wall Street con el regreso de Jensen Huang y suma más de USD 900.000 millones",
+   "description": "El retorno de Jensen Huang al frente de Nvidia impulsó una jornada histórica en Wall Street, con fuertes ganancias para las principales compañías vinculadas a la inteligencia artificial. La acción del fabricante de chips subió más del 31%, mientras los inversores redujeron su per",
+   "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261124-nvidia-dispara-wall-street-con-el-regreso-de-jensen-huang-y-suma-m%C3%A1s-de-usd-900-000-millones",
+   "date": "2026-11-24T02:24:03+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "cf114d264df3",
+   "source": "Radio Cooperativa",
+   "title": "Estudio chileno creó 7.000 cerebros digitales \"gemelos\" para investigar la mente humana",
+   "description": "Investigar las complejidades del cerebro humano supone todo un reto, pero ¿qué pasaría si se contara con una copia digital para poder estudiarla? Los científicos lograron réplicas gemelas virtuales del cerebro de 6.986 personas para investigar las relaciones entre el envejecimien",
+   "url": "https://www.cooperativa.cl/noticias/sociedad/ciencia/estudio-chileno-creo-7-000-cerebros-digitales-gemelos-para-investigar/2026-11-23/232026.html",
+   "date": "2026-11-24T02:20:26+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "710f01aeef46",
    "source": "France 24",
@@ -9,16 +209,6 @@
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261124-hasta-que-el-%C3%BAltimo-salga-voluntarios-en-venezuela-se-resisten-a-dejar-de-buscar-entre-los-escombros",
    "date": "2026-11-24T01:59:52+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "77fd38ea56f3",
-   "source": "The Guardian",
-   "title": "Australian politics live: Australia and Singapore sign carbon capture treaty; ANZ predicts RBA could cut rates in June",
-   "description": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-   "date": "2026-11-24T01:58:16+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -74,7 +264,7 @@
   {
    "id": "453e33f4fe30",
    "source": "Al Jazeera",
-   "title": "Israeli minister approves return of Flydubai flights",
+   "title": "Israeli minister approves return of Flydubai flights to Tel Aviv",
    "description": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
    "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
    "date": "2026-11-24T01:09:51+00:00",
@@ -114,7 +304,7 @@
   {
    "id": "b04cc156290a",
    "source": "Al Jazeera",
-   "title": "US adds Megaspeed, firm at centre of Nvidia scandal, to export control list",
+   "title": "US adds Megaspeed to trade blacklist after Nvidia spy scandal",
    "description": "Bureau of Security and Industry adds Singapore-based firm and six other entities to export control list.",
    "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
    "date": "2026-11-24T00:52:47+00:00",
@@ -182,16 +372,6 @@
    "type": "Prensa"
   },
   {
-   "id": "959b7449740e",
-   "source": "Radio Cooperativa",
-   "title": "Coquimbo recibe a La Calera en busca de abrochar el pase a semis de Copa Chile",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Este martes 24 de noviembre terminan los cuartos de final de la Copa Chile con la revancha entre Coquimbo Unido y Unión La Calera en el Estadio \"Francisco Sánchez Rumoroso\". Los \"piratas\" llegan con una ventaja de 2-0 tras ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-recibe-a-la-calera-en-busca-de-abrochar-el-pase-a-semis-de-copa/2026-11-23/212021.html",
-   "date": "2026-11-24T00:20:21+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "7184484bb42a",
    "source": "Deutsche Welle",
    "title": "EE.UU. incluye a Megaspeed en lista negra comercial por desvío de chips de Nvidia hacia China",
@@ -222,16 +402,6 @@
    "type": "Prensa"
   },
   {
-   "id": "68dc8f978c02",
-   "source": "Radio Cooperativa",
-   "title": "Gajardo y AC contra Rabat: El Estado tiene el deber legal de priorizar la protección de la niñez",
-   "description": "La comisión revisora de la Cámara de Diputadas y Diputados tuvo este lunes su primera sesión de trabajo en el marco de la acusación constitucional que enfrenta el ministro de Justicia, Fernando Rabat , instancia que estuvo marcada por el debate sobre la procedencia jurídica de la",
-   "url": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/gajardo-y-ac-contra-rabat-el-estado-tiene-el-deber-legal-de-priorizar/2026-11-23/210404.html",
-   "date": "2026-11-24T00:04:04+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "4869c8fda107",
    "source": "Al Jazeera",
    "title": "Borno school enrolment nearly doubles after years of conflict",
@@ -239,16 +409,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/24/borno-school-enrolment-nearly-doubles-after-years-of-conflict?traffic_source=rss",
    "date": "2026-11-24T00:02:16+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "016246b59227",
-   "source": "Radio Cooperativa",
-   "title": "Michelle Yeoh: \"¿Por qué la ciencia ficción es solo para hombres? A las mujeres nos gusta\"",
-   "description": "\"¿Por qué la ciencia ficción es solo para hombres?\" , se pregunta la actriz malasia Michelle Yeoh , que defendió en una entrevista con EFE que las mujeres también aman este género y tienen derecho a protagonizar sus historias, como demuestra su nueva serie \"Blade Runner 2099\" , d",
-   "url": "https://www.cooperativa.cl/noticias/magazine/streaming/michelle-yeoh-por-que-la-ciencia-ficcion-es-solo-para-hombres-a-las/2026-11-23/210209.html",
-   "date": "2026-11-24T00:02:09+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -282,16 +442,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6a4b3523ca43",
-   "source": "Radio Cooperativa",
-   "title": "Nvidia rebotó 31,5%, su mayor subida en 23 años, tras el regreso de Jensen Huang",
-   "description": "Las acciones de Nvidia se dispararon este lunes un 31,5 por ciento - hasta los 165,05 dólares por título- en su mayor subida diaria en 23 años , después de que el consejo de la compañía restituyera a Jensen Huang como presidente y consejero delegado . Los valores del fabricante d",
-   "url": "https://www.cooperativa.cl/noticias/economia/empresas/tecnologia/nvidia-reboto-31-5-su-mayor-subida-en-23-anos-tras-el-regreso-de/2026-11-23/205638.html",
-   "date": "2026-11-23T23:56:38+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "8d9112f1ee2d",
    "source": "Al Jazeera",
    "title": "Mamdani blasts AI-reliant stock market after Jensen Huang’s return",
@@ -304,7 +454,7 @@
   {
    "id": "20940ad977be",
    "source": "Al Jazeera",
-   "title": "Drone attack on Colombia police base injures civilians, including infant",
+   "title": "Drone attack on police base in Colombia injures three, including infant",
    "description": "Far-right President De la Espriella steps up offensive as rebel groups strike back with drone strikes, roadside bombs.",
    "url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
    "date": "2026-11-23T23:49:37+00:00",
@@ -484,7 +634,7 @@
   {
    "id": "ae0b6feca41e",
    "source": "France 24",
-   "title": "Informe desde Guayaquil: alias 'Negro Willy' fue detenido y expulsado de España",
+   "title": "Directo a... Guayaquil y la detención del 'Negro Willy' en España",
    "description": "La detención y expulsión de William Joffre Alcívar Bautista, alias \"Negro Willy\", señalado por las autoridades ecuatorianas como uno de los máximos líderes de la organización criminal Los Tiguerones, marca un nuevo capítulo en la lucha contra el crimen organizado en Ecuador. Tras",
    "url": "https://www.france24.com/es/video/20261123-informe-desde-guayaquil-alias-negro-willy-fue-detenido-y-expulsado-de-espa%C3%B1a",
    "date": "2026-11-23T21:56:27+00:00",
@@ -702,16 +852,6 @@
    "type": "Prensa"
   },
   {
-   "id": "090c72bb6bf4",
-   "source": "France 24",
-   "title": "Trump admite que intervino para que Nvidia restituyera a Jensen Huang; los demócratas anuncian investigación",
-   "description": "Nvidia anunció el lunes 23 de noviembre que reincorporaba de inmediato al desacreditado magnate tecnológico Jensen Huang como director ejecutivo. La restitución tiene lugar en medio de la presión de Donald Trump, quien admitió haber intervenido ante el consejo de administración d",
-   "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261123-trump-admite-que-intervino-para-que-nvidia-restituyera-a-jensen-huang-los-dem%C3%B3cratas-anuncian-investigaci%C3%B3n",
-   "date": "2026-11-23T20:34:08+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "1437ad4852ed",
    "source": "Deutsche Welle",
    "title": "La UE propone vetar a atletas rusos de eventos en nuevo paquete de sanciones",
@@ -732,32 +872,12 @@
    "type": "Prensa"
   },
   {
-   "id": "3e4d276430e5",
-   "source": "France 24",
-   "title": "Violenta detención de migrantes en un aeropuerto desata nuevas críticas contra ICE",
-   "description": "La violenta detención de dos migrantes por parte de agentes de ICE vestidos de civiles y con el rostro cubierto se ha vuelto viral en redes sociales. Los testigos aseguran que fue \"un momento de angustia\" y el gobernador de Washington, Bob Ferguson, se pronunció y afirmó que la e",
-   "url": "https://www.france24.com/es/video/20261123-violenta-detenci%C3%B3n-de-migrantes-en-un-aeropuerto-desata-nuevas-cr%C3%ADticas-contra-ice",
-   "date": "2026-11-23T20:26:21+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "e719dc102131",
    "source": "Al Jazeera",
    "title": "Turkish police hunting for lioness stalking Istanbul",
    "description": "Questions being asked about big cat's origins, with suspicion falling on the country's growing role in animal smuggling.",
    "url": "https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss",
    "date": "2026-11-23T20:22:28+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "bbca8518c4b3",
-   "source": "Al Jazeera",
-   "title": "Jensen Huang reinstated as Nvidia chief: How did we get here?",
-   "description": "Just 11 days after resigning over a suspected espionage scandal, Jensen Huang has been reinstated as Nvidia’s CEO.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss",
-   "date": "2026-11-23T20:22:12+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
@@ -779,36 +899,6 @@
    "url": "https://www.ex-ante.cl/nacional/caso-firmas-pdi-llega-al-congreso/",
    "date": "2026-11-23T20:13:09+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "a12488221128",
-   "source": "France 24",
-   "title": "Irán propina 74 latigazos a la cantante Parastoo Ahmadi por dar un concierto en YouTube sin velo",
-   "description": "Las autoridades iraníes cumplieron la sentencia de 74 latigazos contra la cantante Parastoo Ahmadi y cuatro miembros de su grupo musical por dar un concierto en YouTube en el que aparecía sin velo, confirmó este lunes 23 de noviembre el abogado Mostafa Nili a la agencia ISNA.",
-   "url": "https://www.france24.com/es/medio-oriente/20261123-ir%C3%A1n-propina-74-latigazos-a-la-cantante-parastoo-ahmadi-por-dar-un-concierto-youtube-sin-velo",
-   "date": "2026-11-23T20:09:26+00:00",
-   "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "1ec92c81d901",
-   "source": "Al Jazeera",
-   "title": "Protesting Bangladesh garment workers reject pay offer",
-   "description": "Bangladesh’s garment industry brings in about $38bn a year. The minimum wage is around 12,500 taka ($100) per month.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss",
-   "date": "2026-11-23T20:03:48+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "0dba078fae3f",
-   "source": "Al Jazeera",
-   "title": "Trump delays explosive detonation in US state of Iowa amid legal battles",
-   "description": "Iowa detonation postponed as Trump cites safety risks, lead exposure, and court rulings in Midwestern controversy.",
-   "url": "https://www.aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles?traffic_source=rss",
-   "date": "2026-11-23T20:01:41+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -882,16 +972,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c68c41f4cfc8",
-   "source": "France 24",
-   "title": "Estados Unidos, México, Costa Rica y Jamaica serán sede del Mundial femenino de fútbol en 2031",
-   "description": "Luego de albergar junto a Canadá la primera Copa del Mundo masculina con 48 equipos, Estados Unidos y México también recibirán el estreno del Mundial femenino ampliado en 2031, según confirmó la FIFA este lunes. El proyecto para ese torneo ofrece estadios en 20 ciudades: 14 en Es",
-   "url": "https://www.france24.com/es/deportes/20261123-estados-unidos-m%C3%A9xico-costa-rica-y-jamaica-ser%C3%A1n-sede-del-mundial-femenino-de-f%C3%BAtbol-en-2031",
-   "date": "2026-11-23T18:57:43+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "6a6340ce8d48",
    "source": "Río en Línea",
    "title": "Habilitan mapa con 181 puntos de reciclaje en Valdivia: Revisa dónde dejar tus residuos",
@@ -922,16 +1002,6 @@
    "type": "Prensa"
   },
   {
-   "id": "15934175a996",
-   "source": "France 24",
-   "title": "Mercados reaccionan positivamente al regreso de Jensen Huang a Nvidia",
-   "description": "El Consejo de Administración de la fabricante de semiconductores Nvidia confirmó este lunes el regreso de Jensen Huang a la empresa que cofundó hace 33 años, luego de que representantes gubernamentales confirmaran que no representa un riesgo para la seguridad nacional. La noticia",
-   "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261123-economia-nvidia-jensen-huang-regreso",
-   "date": "2026-11-23T18:30:45+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "eeccd8c2d6d8",
    "source": "The Guardian",
    "title": "Former prince Andrew was paid £750,000 in hope of helping Turkish woman with passport, high court told",
@@ -949,16 +1019,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france",
    "date": "2026-11-23T18:12:48+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "4ffd05b4b951",
-   "source": "France 24",
-   "title": "Los bombardeos israelíes han convertido la Franja de Gaza en un \"vertedero tóxico\", según Oxfam",
-   "description": "La organización con sede en Reino Unido alerta en un reciente informe de los altos niveles de contaminación por residuos químicos, metales pesados y contaminantes, que afectan al 99% del enclave, uno de los territorios más densamente poblados del mundo. Por otro lado, la agencia ",
-   "url": "https://www.france24.com/es/medio-oriente/20261123-los-bombardeos-israel%C3%ADes-han-convertido-la-franja-de-gaza-en-un-vertedero-t%C3%B3xico-seg%C3%BAn-oxfam",
-   "date": "2026-11-23T18:05:43+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1022,16 +1082,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5bda615bb06b",
-   "source": "France 24",
-   "title": "Informe desde Estambul: Turquía guarda silencio tras fracaso de la COP31",
-   "description": "La COP31 termina como la cumbre climática más larga de la historia y la primera sin consenso desde la conferencia de Copenhague en 2009. Turquía había depositado sus esperanzas en el encuentro, por lo que al no llegar a un acuerdo se ha considerado un gran fracaso para su polític",
-   "url": "https://www.france24.com/es/video/20261123-informe-desde-estambul-turqu%C3%ADa-guarda-silencio-tras-fracaso-de-la-cop31",
-   "date": "2026-11-23T17:18:11+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "4dba03f6fd0a",
    "source": "BBC Mundo",
    "title": "Un buque de guerra ruso es atacado y hundido por drones ucranianos en un puerto de Libia, según Zelensky",
@@ -1062,16 +1112,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c5d00e24e45c",
-   "source": "France 24",
-   "title": "Zelenski reivindica ataque con drones ucranianos contra barcos rusos en Libia",
-   "description": "El presidente ucraniano, Volodímir Zelenski, reivindicó una \"ejemplar operación\" de sus fuerzas, que llevaron a cabo un ataque con drones contra buques rusos frente a las costas de Libia. Según el Gobierno libio, el barco se había detenido para recargar combustible y provisiones,",
-   "url": "https://www.france24.com/es/video/20261123-zelenski-reivindica-ataque-con-drones-ucranianos-contra-barcos-rusos-en-libia",
-   "date": "2026-11-23T17:04:58+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "5a2c5b75a698",
    "source": "The Guardian",
    "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
@@ -1089,16 +1129,6 @@
    "url": "https://www.ex-ante.cl/internacional/nuevo-embajador-china-bukele/",
    "date": "2026-11-23T16:48:04+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "840eba216bf8",
-   "source": "France 24",
-   "title": "El fracaso de la COP31 acelera los llamados a reformar la toma de decisiones sobre la crisis climática",
-   "description": "La falta de un acuerdo político tras 48 horas de negociaciones, prolongadas más que nunca, dio paso a fuertes críticas y reacciones de líderes políticos, naciones vulnerables y de defensores y activistas del clima. El veto de las naciones productoras de combustibles fósiles —Arab",
-   "url": "https://www.france24.com/es/medio-ambiente/20261123-el-fracaso-de-la-cop31-acelera-los-llamados-a-reformar-la-toma-de-decisiones-sobre-la-crisis-clim%C3%A1tica",
-   "date": "2026-11-23T16:47:26+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1220,16 +1250,6 @@
    "date": "2026-11-23T13:30:48+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "2ae44e246c93",
-   "source": "Deutsche Welle",
-   "title": "Amante de ex director ejecutivo de Nvidia mantuvo contactos con el servicio de inteligencia de Pekín, según el NYT",
-   "description": "La amante china del destituido director del gigante tecnológico estadounidense Nvidia, Jensen Huang, mantuvo durante más de un año contactos con el principal servicio de inteligencia de Pekín, según el 'New York Times'.",
-   "url": "https://www.dw.com/es/amante-de-ex-director-ejecutivo-de-nvidia-mantuvo-contactos-con-el-servicio-de-inteligencia-de-pekín-según-el-nyt/a-80020921?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-23T13:17:00+00:00",
-   "category": "China y Asia",
-   "type": "Prensa"
   },
   {
    "id": "3a35103a3c94",
@@ -1542,16 +1562,6 @@
    "type": "Prensa"
   },
   {
-   "id": "65c70795b086",
-   "source": "Radio Cooperativa",
-   "title": "¿Cuándo y dónde ver a La Roja ante República Dominicana en el Mundial Sub 17?",
-   "description": "La Roja , tras el enorme triunfo ante Argelia el debut, tendrá su siguiente desafío en el Mundial Sub 17 ante República Dominicana , por la segunda fecha del Grupo J. El duelo está programado para el martes 24 de noviembre a las 11:30 horas (14:30 GMT) en la Cancha 3 del Complejo",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mundial-sub-17/cuando-y-donde-ver-a-la-roja-ante-republica-dominicana-en-el-mundial/2026-11-21/151226.html",
-   "date": "2026-11-21T18:12:26+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "0170be89e61f",
    "source": "The Guardian",
    "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
@@ -1659,16 +1669,6 @@
    "url": "https://www.ciperchile.cl/2026/11/20/chats-de-socios-de-sartor-manana-tengo-a-las-10-reunion-con-patrick-y-victoriano-cerda-por-lo-de-la-u/?utm_source=rss&utm_medium=rss&utm_campaign=chats-de-socios-de-sartor-manana-tengo-a-las-10-reunion-con-patrick-y-victoriano-cerda-por-lo-de-la-u",
    "date": "2026-11-20T21:51:48+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "8d88a9b82522",
-   "source": "The Guardian",
-   "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
-   "description": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
-   "date": "2026-11-20T21:47:41+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1820,16 +1820,6 @@
    "date": "2026-11-19T17:39:15+00:00",
    "category": "Elecciones",
    "type": "Oficial"
-  },
-  {
-   "id": "f5dad350cd8a",
-   "source": "The Guardian",
-   "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
-   "description": "Hailed as ‘a rare moment of justice’, judges’ decision sets out a roadmap for assessing the question of intent The international court of justice (ICJ) verdict making Myanmar the first country in history to be found guilty of committing genocide does not just deliver justice for ",
-   "url": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
-   "date": "2026-11-19T17:14:55+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
   },
   {
    "id": "c076a40a20fc",
