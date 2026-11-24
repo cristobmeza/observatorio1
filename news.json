@@ -1,12 +1,182 @@
 {
- "updated": "2026-11-24T19:58:04.372406+00:00",
+ "updated": "2026-11-24T20:50:32.705576+00:00",
  "items": [
   {
-   "id": "df16abb6bcae",
+   "id": "e7949c032243",
+   "source": "The Guardian",
+   "title": "Australian politics live: Chalmers notes ‘serious moment for our economy’; inflation expected to jump to 4.8%",
+   "description": "Get our daily political email , free app or daily news podcast US ambassador criticises Labor’s digital duty of care bill The American ambassador to Australia has raised “objections” to Labor’s digital duty of care bill, saying he was “concerned” it would hurt US tech businesses.",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+   "date": "2026-11-24T20:41:16+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "48d5102ba90b",
+   "source": "Radio Cooperativa",
+   "title": "República Checa superó a Canadá y se metió en semifinales de Copa Davis",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El equipo de República Checa se clasificó este martes para las semifinales de la Fase Final de la Copa Davis tras imponerse a Canadá en los cuartos de final, con Tomas Machac (889° del ATP) y Jiri Lehecka (14°) como protago",
+   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/copa-davis/republica-checa-supero-a-canada-y-se-metio-en-semifinales-de-copa-davis/2026-11-24/174110.html",
+   "date": "2026-11-24T20:41:10+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "3de7cd1d8b2a",
    "source": "Deutsche Welle",
-   "title": "Estadísticas policiales: cifra récord de víctimas de violencia contra las mujeres en Alemania",
+   "title": "Izquierda alemana expulsa a una polémica diputada para facilitar gobierno en Berlín",
+   "description": "Die Linke aprobó, con 33 votos a favor de un total de 44, la salida de la parlamentaria local Vanessa Emde, conocida por sus declaraciones polémicas sobre Israel.",
+   "url": "https://www.dw.com/es/izquierda-alemana-expulsa-a-una-polémica-diputada-para-facilitar-gobierno-en-berlín/a-80041892?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-24T20:37:00+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "06a05e0f2b60",
+   "source": "Al Jazeera",
+   "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+   "description": "Ahead of Erdogan’s Libya trip, Haftar’s visit suggests Turkiye seeks another way to bring the country's rivals together.",
+   "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
+   "date": "2026-11-24T20:35:03+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f40034d1708a",
+   "source": "Al Jazeera",
+   "title": "US Army to detonate more than 4 tonnes of lead azide in Iowa on Wednesday",
+   "description": "Despite alarm about toxic lead, federal officials say destroying the unstable explosives is the safest course of action.",
+   "url": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday?traffic_source=rss",
+   "date": "2026-11-24T20:28:40+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "4e568086fc03",
+   "source": "Deutsche Welle",
+   "title": "29N: ¿Qué supondría para Europa un cambio de Gobierno en España?",
+   "description": "España vota el domingo. Una posible derrota de Pedro Sánchez y el giro hacia la derecha podrían influir en la manera en que el país aborde la migración, la defensa y la guerra en Gaza en el futuro.",
+   "url": "https://www.dw.com/es/29n-¿qué-supondría-para-europa-un-cambio-de-gobierno-en-españa/a-80041734?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-24T20:28:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "415f4521a836",
+   "source": "Radio Cooperativa",
+   "title": "\"El Señor de los Anillos: Los Anillos de Poder\" fue renovada para su temporada 4",
+   "description": "Antes del estreno de los episodios finales de su tercera temporada , Prime Video confirmó este martes la renovación de \"El Señor de los Anillos: Los Anillos de Poder\" (\"The Lord of the Rings: The Rings of Power\") . Inspirada en el legendarium , la mitología creada por J.R.R. Tolk",
+   "url": "https://www.cooperativa.cl/noticias/magazine/streaming/el-senor-de-los-anillos-los-anillos-de-poder-fue-renovada-para-su/2026-11-24/172434.html",
+   "date": "2026-11-24T20:24:34+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "5cca85d23993",
+   "source": "Radio Cooperativa",
+   "title": "La FIFA concedió a Estados Unidos, México, Costa Rica y Jamaica el Mundial Femenino de 2031",
+   "description": "El Congreso Extraordinario de la FIFA , reunido de forma telemática, aprobó por aclamación la concesión de los próximos Mundiales femeninos, la edición de 2031 a la candidatura conjunta de Estados Unidos, México, Costa Rica y Jamaica, y la de 2035 a la de Inglaterra, Irlanda del ",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/futbol-femenino/la-fifa-concedio-a-estados-unidos-mexico-costa-rica-y-jamaica-el/2026-11-24/172222.html",
+   "date": "2026-11-24T20:22:22+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "61c97da41829",
+   "source": "Radio Cooperativa",
+   "title": "ChileConverge Emprende: las claves del concurso técnico-profesional que reparte más de $75 millones",
+   "description": "Con más de 75 millones de pesos en premios y apoyos, ChileConverge esá desarrollando la cuarta edición de su concurso ChileConverge Emprende , iniciativa dirigida a estudiantes, egresados y titulados de la educación técnico-profesional que cuenten con un emprendimiento. En conver",
+   "url": "https://www.cooperativa.cl/noticias/economia/pymes/chileconverge-emprende-las-claves-del-concurso-tecnico-profesional-que/2026-11-24/171959.html",
+   "date": "2026-11-24T20:19:59+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "c2d5ecaa0099",
+   "source": "Al Jazeera",
+   "title": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
+   "description": "Iraq's Prime Minister Ali al-Zaidi has ordered federal forces to take control of oilfields in Kurdish-controlled areas.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
+   "date": "2026-11-24T20:18:19+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ecfbc778397f",
+   "source": "Radio Cooperativa",
+   "title": "Chile venció a Argentina y avanzó a semifinales en la Copa América de Fútbol 7",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La selección chilena masculina de fútbol 7 dio un gran paso en la Copa América de la modalidad que se desarrolla en Porto Alegre, con un triunfazo de 7-4 sobre Argentina para avanzar a semifinales . El conjunto nacional, qu",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/futbol-7/chile-vencio-a-argentina-y-avanzo-a-semifinales-en-la-copa-america-de/2026-11-24/170840.html",
+   "date": "2026-11-24T20:08:40+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "1e8dbe32675d",
+   "source": "Radio Cooperativa",
+   "title": "Festival +CIPER centra su sexta versión en el periodismo y los desafíos de la IA",
+   "description": "La Escuela de Periodismo de la Universidad Diego Portales recibirá este sábado 28 de noviembre nuevamente el Festival +CIPER UDP , que en su sexta versión apuntará a temas de contingencia para el oficio de informar, como periodismo para la ciudadanía, impacto de la inteligencia a",
+   "url": "https://www.cooperativa.cl/noticias/sociedad/medios/festival-ciper-centra-su-sexta-version-en-el-periodismo-y-los-desafios/2026-11-24/170453.html",
+   "date": "2026-11-24T20:04:53+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "5123e3c92e39",
+   "source": "The Guardian",
+   "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – as it happened",
+   "description": "Sindarov and Gukesh play to 38-move draw in Game 1 Explainer: all your pre-match questions, answered Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games The players have shaken hands and we’re off! We have a Berlin defense of the ",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+   "date": "2026-11-24T20:04:50+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "77e36278fa03",
+   "source": "The Guardian",
+   "title": "Hundreds of thousands could lose disability benefits under Timms plans for Pip shake-up",
+   "description": "Minister’s review says Pip system no longer fit for purpose and recommends new test for who is allowed to claim Hundreds of thousands of people face losing their disability benefits under plans being considered by ministers as part of a shake-up of the welfare system. Officials a",
+   "url": "https://www.theguardian.com/world/2026/nov/24/disability-benefits-timms-review-pip-personal-independence-payments",
+   "date": "2026-11-24T20:00:31+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "97b926b3437f",
+   "source": "Al Jazeera",
+   "title": "Turkish military helicopter crash kills five in western Turkiye",
+   "description": "The Defence Ministry did not elaborate on the cause of the crash, days after another deadly army helicopter accident.",
+   "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
+   "date": "2026-11-24T19:52:21+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "d349221bcf04",
+   "source": "Radio Cooperativa",
+   "title": "Bassa admitió que ligar rebaja de condenas con red de pedofilia internacional fue un disparate",
+   "description": "El diputado frenteamplista Jaime Bassa reculó en sus dichos sobre una presunta \"red de pedofilia internacional\" vinculada a la cuestionada rebaja de condenas a violadores de menores de edad por parte del Ministerio de Justicia , y afirmó que se \"explicó mal\" . \"Ésta es la forma e",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/bassa-admitio-que-ligar-rebaja-de-condenas-con-red-de-pedofilia/2026-11-24/164748.html",
+   "date": "2026-11-24T19:47:48+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "e831dfa16864",
+   "source": "Radio Cooperativa",
+   "title": "El emotivo adiós de Francisco Reyes a Delfina Guzmán: \"Se fue feliz y agradecida\"",
+   "description": "El actor Francisco Reyes brindó un emotivo adiós a Delfina Guzmán , fallecida este martes a los 98 años , asegurando que la emblemática actriz nacional partió de este plano \"feliz y agradecida\" . Al conversar con la prensa tras conocerse la muerte de la intérprete, ícono del teat",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/el-emotivo-adios-de-francisco-reyes-a-delfina-guzman-se-fue-feliz-y/2026-11-24/164706.html",
+   "date": "2026-11-24T19:47:06+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "dcf528546c4f",
+   "source": "Deutsche Welle",
+   "title": "Cifra récord de víctimas de violencia contra las mujeres en Alemania, según estadísticas policiales",
    "description": "Cada tres días, una mujer es asesinada por su marido o expareja en Alemania. Cada diez minutos, la policía registra un delito sexual contra una mujer.",
-   "url": "https://www.dw.com/es/estadísticas-policiales-cifra-récord-de-víctimas-de-violencia-contra-las-mujeres-en-alemania/a-80041310?maca=spa-rss-sp-all-1122-xml-mrss",
+   "url": "https://www.dw.com/es/cifra-récord-de-víctimas-de-violencia-contra-las-mujeres-en-alemania-según-estadísticas-policiales/a-80041310?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-24T19:47:00+00:00",
    "category": "Europa",
    "type": "Prensa"
@@ -112,16 +282,6 @@
    "type": "Prensa"
   },
   {
-   "id": "5123e3c92e39",
-   "source": "The Guardian",
-   "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – live reaction",
-   "description": "Sindarov and Gukesh play to 38-move draw in Game 1 Explainer: all your pre-match questions, answered Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at @BryanAGraham or email him The players have shaken hands and",
-   "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
-   "date": "2026-11-24T19:13:45+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "5334b507bc8e",
    "source": "The Guardian",
    "title": "Life expectancy in Cuba falls for first time since 1950 amid economic crisis",
@@ -182,36 +342,6 @@
    "type": "Prensa"
   },
   {
-   "id": "65bf37e4ca1c",
-   "source": "Radio Cooperativa",
-   "title": "Papa Francisco sintió la presencia del diablo tras su viaje a Chile",
-   "description": "El papa Francisco relató en su diario personal que sintió la presencia del diablo durante una reunión en Roma, días después de regresar de su visita a Chile en enero de 2018 . En la misma entrada recordó el diálogo con los periodistas en el avión de regreso, cuando tomó concienci",
-   "url": "https://www.cooperativa.cl/noticias/mundo/vaticano/papa-francisco/papa-francisco-sintio-la-presencia-del-diablo-tras-su-viaje-a-chile/2026-11-24/155457.html",
-   "date": "2026-11-24T18:54:57+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "5036ebc01926",
-   "source": "Radio Cooperativa",
-   "title": "El riesgo país de Argentina salta a un nuevo máximo en los últimos 13 meses",
-   "description": "El índice de riesgo país de Argentina volvió a trepar este martes y se ubicó en su mayor nivel en trece meses , en medio de una creciente incertidumbre por parte de los inversores sobre el futuro económico y político del país sudamericano. El indicador elaborado por el JP Morgan ",
-   "url": "https://www.cooperativa.cl/noticias/mundo/argentina/economia/el-riesgo-pais-de-argentina-salta-a-un-nuevo-maximo-en-los-ultimos-13/2026-11-24/155146.html",
-   "date": "2026-11-24T18:51:46+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "4536e9cb2a0e",
-   "source": "Radio Cooperativa",
-   "title": "Presidente de Cruzados puso en duda el futuro de Medel: Haremos las evaluaciones",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/presidente-de-cruzados-puso-en-duda-el-futuro-de-medel-haremos-las/2026-11-24/155052.html",
-   "date": "2026-11-24T18:50:52+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "57171795410d",
    "source": "France 24",
    "title": "El Gobierno de Sánchez aprueba nuevas medidas sociales y económicas a cinco días de las elecciones en España",
@@ -228,16 +358,6 @@
    "description": "",
    "url": "https://www.cooperativa.cl/noticias/magazine/personajes/la-ultima-aparicion-publica-de-delfina-guzman-fue-homenajeada-por-la-u/2026-11-24/154926.html",
    "date": "2026-11-24T18:49:26+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "e873018521fa",
-   "source": "Radio Cooperativa",
-   "title": "Amaro Pérez y la derrota de la sub 17: \"La analizo con una angustia tremenda\"",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Amaro Pérez y Sebastián Melgarejo , seleccionados de La Roja sub 17, expresaron su pesar tras la sorpresiva caída 1-2 frente a República Dominicana en el Complejo Aspire Zone de Rayán , coincidiendo en la necesidad de corre",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mundial-sub-17/amaro-perez-y-la-derrota-de-la-sub-17-la-analizo-con-una-angustia/2026-11-24/154909.html",
-   "date": "2026-11-24T18:49:09+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -262,36 +382,6 @@
    "type": "Prensa"
   },
   {
-   "id": "681aba3ddb4b",
-   "source": "Radio Cooperativa",
-   "title": "Matías Claro: Tenemos que juntarnos con Garnero y ver un acuerdo que sea bueno para él y para la UC",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El presidente de Cruzados, Matías Claro, se refirió al futuro del DT Daniel Garnero tras el inicio del análisis del gerente deportivo Francisco Pérez Lázaro y la revisión de carpetas con eventuales reemplazantes. \"Clarament",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-catolica/matias-claro-tenemos-que-juntarnos-con-garnero-y-ver-un-acuerdo-que-sea/2026-11-24/154621.html",
-   "date": "2026-11-24T18:46:21+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "5a4210d6bb71",
-   "source": "Radio Cooperativa",
-   "title": "Francia: Candidato Édouard Philippe es investigado por presunto desvío de fondos públicos",
-   "description": "Édouard Philippe , uno de los principales candidatos en las presidenciales francesas de abril y mayo de 2027 , se vio salpicado por una investigación por desvío de fondos públicos que afecta al área metropolitana de la ciudad de la que es alcalde, Le Havre (norte de Francia) . La",
-   "url": "https://www.cooperativa.cl/noticias/mundo/francia/elecciones/francia-candidato-edouard-philippe-es-investigado-por-presunto-desvio/2026-11-24/154437.html",
-   "date": "2026-11-24T18:44:37+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "4bddad195a40",
-   "source": "The Guardian",
-   "title": "Ex-boss of Pride in London given suspended sentence for ‘harvesting’ documents",
-   "description": "Christopher Joell-Deshields accessed internal records after organisation sacked him in ‘flagrant flouting’ of court order The sacked boss of the Pride in London LGBTQ+ parade has been given a suspended prison sentence for his “flagrant” contempt of court when accessing the organi",
-   "url": "https://www.theguardian.com/world/2026/nov/24/ex-boss-christopher-joell-deshields-pride-in-london-suspended-sentence",
-   "date": "2026-11-24T18:39:52+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "ba0753f61433",
    "source": "France 24",
    "title": "Dudas y acusaciones contra Trump y Nvidia por regreso de Huang como CEO",
@@ -312,16 +402,6 @@
    "type": "Prensa"
   },
   {
-   "id": "74e84f150554",
-   "source": "Radio Cooperativa",
-   "title": "Alerta por posible escritoriazo en Primera: ANFP recibió denuncias contra dos clubes",
-   "description": "En la antesala de la penúltima fecha de la Liga de Primera , una nueva alerta de escritoriazo se encendió en el fútbol nacional, ya que la ANFP recibió denuncias anónimas contra Deportes Limache y Cobresal. Según informó La Tercera, las denuncias apuntan a eventuales irregularida",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/alerta-por-posible-escritoriazo-en-primera-anfp-recibio-denuncias/2026-11-24/153723.html",
-   "date": "2026-11-24T18:37:23+00:00",
-   "category": "Economía nacional",
-   "type": "Prensa"
-  },
-  {
    "id": "c2aa50946d68",
    "source": "The Guardian",
    "title": "Armed men take 25 hostages at supermarket in one of Colombia’s top tourist destinations",
@@ -329,16 +409,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
    "date": "2026-11-24T18:36:08+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "650c8a02170e",
-   "source": "Radio Cooperativa",
-   "title": "Mundial Sub 17: La tabla del Grupo J tras caída de Chile en la fecha 2",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La selección chilena sub 17 quedó en el segundo lugar del Grupo J del Mundial de Catar 2026 , luego de perder por 2-1 ante República Dominicana en la segunda fecha, resultado que dejó al equipo dirigido por Ariel Leporati c",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mundial-sub-17/mundial-sub-17-la-tabla-del-grupo-j-tras-caida-de-chile-en-la-fecha-2/2026-11-24/153523.html",
-   "date": "2026-11-24T18:35:23+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -702,16 +772,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d30c18db8b4c",
-   "source": "Al Jazeera",
-   "title": "Nvidia stock cools after Huang’s return-driven surge",
-   "description": "Nvidia regains $952bn in market value after Jensen Huang reinstated as CEO after resignation less than two weeks ago.",
-   "url": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss",
-   "date": "2026-11-24T15:47:16+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "c2aace8d1223",
    "source": "Ex-Ante",
    "title": "Caso firmas: Javier Sánchez, asesor clave del PS, hace uso de su derecho a guardar silencio ante la fiscalía",
@@ -719,16 +779,6 @@
    "url": "https://www.ex-ante.cl/nacional/caso-firmas-asesor-ps-guarda-silencio/",
    "date": "2026-11-24T15:34:00+00:00",
    "category": "Congreso Nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "5559610fdd8f",
-   "source": "Al Jazeera",
-   "title": "China probes Shanghai party chief Chen Jining over corruption",
-   "description": "Chen is the fourth Politburo member to be probed since last year in a campaign that has targeted top Chinese leaders.",
-   "url": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss",
-   "date": "2026-11-24T15:26:50+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -749,26 +799,6 @@
    "url": "https://www.france24.com/es/programas/historia/20261124-acuerdo-con-las-farc-10-a%C3%B1os-de-una-paz-bajo-amenaza-en-colombia",
    "date": "2026-11-24T15:22:52+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "0f8e419e5ca1",
-   "source": "Al Jazeera",
-   "title": "UK police arrest two after break-in at Prince William’s country residence",
-   "description": "The arrests were made at a property on ⁠⁠⁠⁠the royal family's Sandringham estate in Norfolk, eastern England.",
-   "url": "https://www.aljazeera.com/news/2026/11/24/police-arrest-two-after-break-in-at-prince-william-and-kates-country-home?traffic_source=rss",
-   "date": "2026-11-24T15:19:47+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "585f22dec7f2",
-   "source": "Al Jazeera",
-   "title": "How the Iran war is reshaping the US military presence in the Middle East",
-   "description": "Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.",
-   "url": "https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss",
-   "date": "2026-11-24T15:10:29+00:00",
-   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -855,7 +885,7 @@
    "id": "44512247476b",
    "source": "The Guardian",
    "title": "Chinese police contacted members of WeChat group after they discussed Melbourne vigil for HungryPanda rider",
-   "description": "Several members of the group chat set up after the alleged murder of Feng Jianming say they or their parents were called by police from their home towns in China Get our breaking news email , free app or daily news podcast Chinese police have contacted several people who were par",
+   "description": "Several members of the group chat set up after the alleged murder of Feng Jianming say they or their parents were called by police from their home towns in China Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcas",
    "url": "https://www.theguardian.com/business/2026/nov/25/chinese-police-wechat-group-hungrypanda-delivery-rider-alleged-murder-melbourne-ntwnfb",
    "date": "2026-11-24T14:00:50+00:00",
    "category": "China y Asia",
@@ -865,7 +895,7 @@
    "id": "bc26c8caeabe",
    "source": "The Guardian",
    "title": "Guardian Essential poll: Albanese’s disapproval rating hits highest level as problems mount for Labor",
-   "description": "Australians also turn against AI datacentres, with nearly half saying they don’t want one near their home Get our daily political email , free app or daily news podcast Anthony Albanese’s approval ratings have nosedived in the latest Guardian Essential poll, with the prime minist",
+   "description": "Australians also turn against AI datacentres, with nearly half saying they don’t want one near their home Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Anthony Albanese’s approval ratings have nosedived i",
    "url": "https://www.theguardian.com/australia-news/2026/nov/25/guardian-essential-poll-anthony-albaneses-ai-datacentres-labor-one-nation-coalition",
    "date": "2026-11-24T14:00:49+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -962,6 +992,36 @@
    "type": "Prensa"
   },
   {
+   "id": "dc87afb6e563",
+   "source": "Naciones Unidas",
+   "title": "47.000 feminicidios en 2025: América Latina entre las regiones más golpeadas",
+   "description": "Cada hora mueren cinco mujeres a manos de parejas o familiares en el mundo. En América Latina 24 al día son víctimas de la violencia. Un dato preocupante muestra la violencia de género de forma reveladora en la región: entre 2010 y 2025, los homicidios en general bajaron, casi el",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542207",
+   "date": "2026-11-24T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "11b9f5cb478f",
+   "source": "Naciones Unidas",
+   "title": "La terquedad de trabajar por la paz: el músico colombiano que convirtió un fusil en guitarra",
+   "description": "Diez años después de la firma del Acuerdo de Paz en Colombia, el músico César López vuelve a encontrarse con su escopetarra en la sede de las Naciones Unidas. El instrumento, nacido de uno de los episodios más dolorosos de la violencia en Colombia, encierra una pregunta que sigue",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542203",
+   "date": "2026-11-24T12:00:00+00:00",
+   "category": "América Latina",
+   "type": "Oficial"
+  },
+  {
+   "id": "0f9e6ca75963",
+   "source": "Naciones Unidas",
+   "title": "Proceso de paz en Colombia, violencia contra las mujeres, IA y guerras, gripe aviar… Las noticias del martes",
+   "description": "Guterres pide redoblar los esfuerzos por la paz en Colombia. El brote de ébola agrava la violencia contra las mujeres en la República Democrática del Congo. Cinco mujeres y niñas son asesinadas cada hora por sus parejas o familiares. El Secretario General alerta de los riesgos de",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542206",
+   "date": "2026-11-24T12:00:00+00:00",
+   "category": "Conflictos armados y seguridad internacional",
+   "type": "Oficial"
+  },
+  {
    "id": "bbe0a54d8997",
    "source": "Ex-Ante",
    "title": "Delfina Guzmán: los papeles que marcaron su trayectoria",
@@ -1005,7 +1065,7 @@
    "id": "244dd749e798",
    "source": "The Guardian",
    "title": "Researcher who helped improve melanoma survival rates among winners of top Australian science prize",
-   "description": "Georgina Long and subatomic physicist Anthony Thomas recognised in Prime Minister’s Prizes for Science Get our daily political email , free app or daily news podcast When Prof Georgina Long was starting out in melanoma treatment and research, “my waiting room would change so rapi",
+   "description": "Georgina Long and subatomic physicist Anthony Thomas recognised in Prime Minister’s prizes for science Get our daily political email , free app or daily news podcast When Prof Georgina Long was starting out in melanoma treatment and research, “my waiting room would change so rapi",
    "url": "https://www.theguardian.com/australia-news/2026/nov/24/georgina-long-melanoma-anthony-thomas-2026-prime-ministers-prizes-for-science",
    "date": "2026-11-24T11:00:45+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -1052,19 +1112,9 @@
    "type": "Prensa"
   },
   {
-   "id": "b3a2c7514661",
-   "source": "The Guardian",
-   "title": "Social media companies could be fined 5% of global revenue after Labor and Greens join forces on online safety laws",
-   "description": "Individual Australians will be able to sue big tech firms for harm suffered online under compromise deal Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Big tech companies may face “multibillion-dollar” fin",
-   "url": "https://www.theguardian.com/technology/2026/nov/24/social-media-big-tech-fines-global-revenue-australia-digital-duty-care-laws",
-   "date": "2026-11-24T08:47:59+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "c6526643d7cf",
    "source": "BBC Mundo",
-   "title": "\"Hoy de nuevo me encuentro humillada, expuesta y herida\": Gisèle Pelicot denuncia que enviaron fotos desnudas suyas a los medios",
+   "title": "\"Hoy de nuevo me encuentro humillada, expuesta y herida\": Gisèle Pelicot denuncia que enviaron fotos suyas desnuda a los medios",
    "description": "Esta mujer francesa se hizo conocida tras renunciar al anonimato en el juicio contra su marido que fue condenado por violarla mientras dormía y permitir que otros hombres lo hicieran.",
    "url": "https://www.bbc.com/mundo/articles/c6wy93z0grd3o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-24T08:45:15+00:00",
@@ -1189,16 +1239,6 @@
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261124-otro-atentado-en-colombia-deja-al-menos-12-heridos-de-la-espriella-dice-que-el-narcoterrorismo-est%C3%A1-desesperado",
    "date": "2026-11-24T03:37:01+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "9ba5ee31a4f6",
-   "source": "Deutsche Welle",
-   "title": "Trípoli condena ataques a buques rusos en sus aguas territoriales y exige explicaciones a Ucrania",
-   "description": "El gobierno condenó \"cualquier operación militar extranjera dentro del territorio o las aguas territoriales de Libia\".",
-   "url": "https://www.dw.com/es/trípoli-condena-ataques-a-buques-rusos-en-sus-aguas-territoriales-y-exige-explicaciones-a-ucrania/a-80027336?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-24T03:05:00+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -1532,6 +1572,36 @@
    "type": "Prensa"
   },
   {
+   "id": "a7f87bd0c380",
+   "source": "Naciones Unidas",
+   "title": "La diáspora latinoamericana se triplica 30 años: 48 millones viven fuera de su país de nacimiento",
+   "description": "Un informe sobre migración y población mide cómo la migración ha alterado nacimientos, defunciones y edades. El resultado es contundente: si desde 1990 el saldo migratorio hubiera sido cero, América del Norte tendría hoy un 23% menos de habitantes, Oceanía un 24% menos y Europa u",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542204",
+   "date": "2026-11-23T12:00:00+00:00",
+   "category": "Sociedad",
+   "type": "Oficial"
+  },
+  {
+   "id": "cb9a8d04e372",
+   "source": "Naciones Unidas",
+   "title": "Guterres advierte que la IA traerá un cambio histórico de poder",
+   "description": "La IA no debería ampliar las desigualdades globales, sino estar moldeada por la humanidad, con la humanidad y para toda la humanidad. Las empresas deben pagar por los daños de sus sistemas y crear un «botón de apagado» para emergencias.",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542202",
+   "date": "2026-11-23T12:00:00+00:00",
+   "category": "Empresas y mercados",
+   "type": "Oficial"
+  },
+  {
+   "id": "ac0b8486ab09",
+   "source": "Naciones Unidas",
+   "title": "Ataques contra civiles en Ucrania, IA, violencia machista… las noticias del lunes",
+   "description": "La guerra en Ucrania se intensifica: un ataque con drones contra un bloque de viviendas deja once muertos y los apagones se extienden por todo el país. En Barbados, el Secretario General pide un marco multilateral para gestionar los riesgos de la inteligencia artificial. Y ONU Mu",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542201",
+   "date": "2026-11-23T12:00:00+00:00",
+   "category": "Sociedad",
+   "type": "Oficial"
+  },
+  {
    "id": "1eb950e0a26e",
    "source": "The Guardian",
    "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
@@ -1692,6 +1762,16 @@
    "type": "Prensa"
   },
   {
+   "id": "386085e4c143",
+   "source": "Naciones Unidas",
+   "title": "La COP31 termina sin pacto climático por la división sobre los combustibles fósiles",
+   "description": "El titular de la ONU califica el fracaso como un revés “profundamente decepcionante” y advierte que \"no hay ambigüedad en la ciencia\". \"No podemos apagar el fuego mientras le echamos combustible\", dijo, acusando a los poderosos intereses de los combustibles fósiles de obstruir la",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542199",
+   "date": "2026-11-22T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
    "id": "35cc19084fe1",
    "source": "CIPER Chile",
    "title": "Yalta sin decoro: lo que Putin, Xi y Trump dejaron en Shenzhen",
@@ -1842,6 +1922,26 @@
    "type": "Prensa"
   },
   {
+   "id": "22b9b4891a4d",
+   "source": "Naciones Unidas",
+   "title": "Discordia en la COP31, Ucrania, Afganistán y hambre global: las noticias del viernes",
+   "description": "Discordia en el último día de la cumbre del clima contra el borrador del acuerdo. Ucrania registra el máximo de niños muertos en casi cuatro años. En Afganistán, la mitad de las organizaciones de mujeres anuncia que tendrá que cerrar sus servicios por falta de dinero. El Programa",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542198",
+   "date": "2026-11-20T12:00:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Oficial"
+  },
+  {
+   "id": "28709fcfa3bd",
+   "source": "Naciones Unidas",
+   "title": "COP31: Sin mención a los combustibles fósiles, no habrá acuerdo, aseguran varios países",
+   "description": "Los países definieron seis prioridades que deseaban ver reflejadas en el acuerdo: la necesidad de una transición, decidir con la ciencia en la mano, obligar a pagar a quienes contaminan, electrificar los países con base en las energías limpias, reducir las emisiones de metano y f",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542196",
+   "date": "2026-11-20T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
    "id": "9ba41b77d65b",
    "source": "BBC Mundo",
    "title": "\"Me cuestionaba por qué vine a este mundo con piel morena, cuando mi padre era blanco\": BBC Mundo entrevista a la cantante mexicana Lila Downs",
@@ -1972,6 +2072,46 @@
    "type": "Académica"
   },
   {
+   "id": "802397a77c8d",
+   "source": "Naciones Unidas",
+   "title": "No se necesita aprobación del gobierno para formar una asociación",
+   "description": "Ante la reducción del espacio público por parte de los Gobiernos, un Comité de la ONU emite un observación general sobre el Pacto Internacional de Derechos Civiles y Políticos: la libertad de asociación, reconocida en las leyes internacionales, permite a las personas unirse de fo",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542195",
+   "date": "2026-11-19T12:00:00+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Oficial"
+  },
+  {
+   "id": "22d422e119b8",
+   "source": "Naciones Unidas",
+   "title": "COP31: Los combustibles fósiles quedan fuera del borrador del acuerdo",
+   "description": "La decisión preocupa a los activistas presentes en la Conferencia y exigen un plan significativo que proteja a todo el mundo. Actualmente, el borrador sí respalda la meta de Turquía de aumentar al 35% la proporción de electricidad en el consumo final de energía mundial para 2035 ",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542194",
+   "date": "2026-11-19T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "0814133f0656",
+   "source": "Naciones Unidas",
+   "title": "Myanmar, COP31 y El Niño en Guatemala… las noticias del jueves",
+   "description": "La Corte Internacional de Justicia declara a Myanmar responsable de genocidio contra los rohinyá. En la COP31 desaparece del borrador final la salida de los combustibles fósiles. El Niño deja a más de tres millones de guatemaltecos en riesgo de hambre.",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542193",
+   "date": "2026-11-19T12:00:00+00:00",
+   "category": "Derecho internacional",
+   "type": "Oficial"
+  },
+  {
+   "id": "0bdc53589be3",
+   "source": "Naciones Unidas",
+   "title": "La Corte Internacional de Justicia declara a Myanmar culpable de genocidio contra los rohinyás",
+   "description": "La Corte Internacional de Justicia, el principal órgano judicial de la ONU, dictó este jueves su sentencia en el caso “Gambia contra Myanmar” sobre la aplicación de la Convención sobre el Genocidio, en la que declara a Myanmar responsable del crimen cometido contra la etnia rohin",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542191",
+   "date": "2026-11-19T12:00:00+00:00",
+   "category": "Jurisprudencia",
+   "type": "Oficial"
+  },
+  {
    "id": "8dcf7086dfb8",
    "source": "The Guardian",
    "title": "Race to replant five South African baobabs after export blocked",
@@ -2042,6 +2182,56 @@
    "type": "Académica"
   },
   {
+   "id": "dd1639ffa76d",
+   "source": "Naciones Unidas",
+   "title": "COP31: 21 asuntos sin resolver a tres días del final",
+   "description": "La cumbre del clima de Antalya acumula asuntos entre corchetes, lo que significa “sin acuerdo” en jerga diplomática. No son temas menores, sino capítulos como financiación, el abandono de los combustibles fósiles y adaptación al cambio climático. Todo ello mientras arranca el seg",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542190",
+   "date": "2026-11-18T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "7e3ebfd07f73",
+   "source": "Naciones Unidas",
+   "title": "Impulsados por China, los registros de patentes alcanzan un récord",
+   "description": "De las aproximadamente 224.000 solicitudes adicionales presentadas en el mundo en 2025, 113.693 lo fueron en China. Con cerca de 1,9 millones de solicitudes, el país se mantiene ampliamente a la cabeza del ranking mundial, por delante de Estados Unidos (489.766), Japón (466.301),",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542189",
+   "date": "2026-11-18T12:00:00+00:00",
+   "category": "China y Asia",
+   "type": "Oficial"
+  },
+  {
+   "id": "897bff50b480",
+   "source": "Naciones Unidas",
+   "title": "El Darién se vacía: los cruces caen un 90 %, mientras nace una gran ruta migratoria hacia el sur de América",
+   "description": "Muchos venezolanos están regresando a casa y muchos cubanos se están instalando en Brasil y Uruguay. \"La migración no ha parado: la gente busca nuevas rutas y otras direcciones\", señala la agencia de la ONU para las migraciones.",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542188",
+   "date": "2026-11-18T12:00:00+00:00",
+   "category": "América Latina",
+   "type": "Oficial"
+  },
+  {
+   "id": "d0d748d6c970",
+   "source": "Naciones Unidas",
+   "title": "Alerta: Los antibióticos están dejando de funcionar contra infecciones comunes",
+   "description": "La agencia de la salud señala que hay tres líneas de defensa de antibióticos, pero cada vez que cae una, los pacientes se acercan más a no tener buenas opciones en absoluto. Además, en los hospitales donde se toman pocas muestras de sangre para identificar la bacteria detrás de u",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542187",
+   "date": "2026-11-18T12:00:00+00:00",
+   "category": "Sociedad",
+   "type": "Oficial"
+  },
+  {
+   "id": "c7aeb14f917e",
+   "source": "Naciones Unidas",
+   "title": "Manila, Yemen, pensiones y alpacas… las noticias del miércoles",
+   "description": "Líderes mundiales se reúnen en Manila para erradicar la violencia contra los niños, mientras UNICEF cuenta 64 menores muertos en Yemen en tres meses de escalada. La CEPAL publica su Panorama Social con un mensaje: las pensiones evitan que los mayores caigan en la pobreza. Y qué p",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542185",
+   "date": "2026-11-18T12:00:00+00:00",
+   "category": "Sociedad",
+   "type": "Oficial"
+  },
+  {
    "id": "6d6605163e3d",
    "source": "BBC Mundo",
    "title": "El test genético que descubrió el covid-19 y que ahora salva vidas al detectar casi todas las infecciones",
@@ -2072,6 +2262,46 @@
    "type": "Oficial"
   },
   {
+   "id": "3989e9eeefdd",
+   "source": "Naciones Unidas",
+   "title": "Bolivia, Estados Unidos y México pierden su estatus de países libres del sarampión",
+   "description": "La agencia de la ONU para la salud en las Américas alerta de que la transmisión endémica se ha restablecido en los tres países, en un año que multiplica por cuatro los casos en las Américas: 58.213 contagios y 82 muertes. El descenso de las tasas de vacunación ha propiciado el re",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542184",
+   "date": "2026-11-17T12:00:00+00:00",
+   "category": "América Latina",
+   "type": "Oficial"
+  },
+  {
+   "id": "5a333fcf87a4",
+   "source": "Naciones Unidas",
+   "title": "COP31: La protección de los océanos llega a la mesa de negociaciones",
+   "description": "Desde identificar la vida marina en una simple taza de agua marina hasta recurrir a los conocimientos indígenas para prevenir incendios forestales, científicos y comunidades indígenas mostraron el martes en la COP31 propuestas para proteger la naturaleza, pero la falta de financi",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542183",
+   "date": "2026-11-17T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "765c33ff5826",
+   "source": "Naciones Unidas",
+   "title": "Gaza, el fracaso de la comunidad internacional",
+   "description": "Las primeras lluvias del invierno han devastado decenas de miles de refugios improvisados, mientras 1,4 millones de personas están pasando hambre y más de 100.000 tiendas de campaña están bloqueadas fuera de la Franja. Israel, la potencia ocupante, solo mantiene abierto en este m",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542182",
+   "date": "2026-11-17T12:00:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Oficial"
+  },
+  {
+   "id": "fa2de407111c",
+   "source": "Naciones Unidas",
+   "title": "Hambre en Gaza, COP31, obesidad y químicos de la discordia... las noticias del martes",
+   "description": "Casi 1,5 millones de palestinos padece hambre aguda, mientras Israel mantiene los obstáculos al paso de la ayuda humanitaria. La inversión climática en América Latina debe ser vista como una inversión, no como un gasto. España lidera un llamado mundial contra la obesidad. Un info",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542181",
+   "date": "2026-11-17T12:00:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Oficial"
+  },
+  {
    "id": "2fdb77b4d8a8",
    "source": "Organización Mundial del Comercio",
    "title": "Se multiplican las nuevas medidas restrictivas del comercio, pero los Miembros de la OMC intensifican sus esfuerzos de facilitación del comercio",
@@ -2092,6 +2322,46 @@
    "type": "Académica"
   },
   {
+   "id": "3f3149bb9402",
+   "source": "Naciones Unidas",
+   "title": "La IA responde con la ciencia a la primera pregunta sobre el cambio climático, a la segunda… ya es otro tema",
+   "description": "Entre la ciencia y la complacencia, los grandes modelos de lenguaje eligen la primera cuando se les pregunta y la segunda en cuanto el usuario objeta o niega la evidencia.",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542179",
+   "date": "2026-11-16T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "ce3260c28665",
+   "source": "Naciones Unidas",
+   "title": "COP31 bloqueada, IA climática, cáncer de cérvix y refugiados… las noticias del martes",
+   "description": "La cumbre del clima entra en su semana final con las negociaciones atascadas y los ministros en camino. UNESCO alerta de que los chatbots ceden ante la presión del usuario y abandonan ciencia cuando se les pregunta por el cambio climático. Un estudio con más de 44.000 mujeres lat",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542178",
+   "date": "2026-11-16T12:00:00+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Oficial"
+  },
+  {
+   "id": "03499effcf87",
+   "source": "Naciones Unidas",
+   "title": "La COP31 entra en su semana decisiva: las negociaciones siguen bloqueadas mientras se alarga la sombra de la IA",
+   "description": "Las nuevas iniciativas internacionales sobre inteligencia artificial e industrialización verde pusieron de manifiesto el papel creciente de la tecnología en la cuestión climática, al tiempo que las conversaciones diplomáticas siguen bloqueadas en materia de financiación, combusti",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542176",
+   "date": "2026-11-16T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "f8d234d346a4",
+   "source": "Naciones Unidas",
+   "title": "En la Cumbre de los países del sudeste asiático, Guterres pide más representación internacional para esa región",
+   "description": "La petición llega en un momento de tensión para la asociación, que cumple 15 años. Guterres describió un entorno de «vientos contrarios»: conflictos, cambio climático, crisis del costo de vida, aranceles y costos de la energía, y necesidades humanitarias crecientes.",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542175",
+   "date": "2026-11-16T12:00:00+00:00",
+   "category": "Comercio internacional",
+   "type": "Oficial"
+  },
+  {
    "id": "3b468ed6c0a2",
    "source": "Estudios Públicos (CEP)",
    "title": "Modernización del Estado: mucho gabinete, poco municipio",
@@ -2110,6 +2380,46 @@
    "date": "2026-11-13T13:02:16+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
+  },
+  {
+   "id": "e93da3e83c4b",
+   "source": "Naciones Unidas",
+   "title": "COP31: Sin dinero suficiente, crecen las voces para que paguen más los que más contaminan",
+   "description": "Entre peticiones emotivas de justicia climática y negociaciones de alto nivel sobre miles de millones de dólares, el dinero dominó las discusiones de la COP31 el viernes. El Secretario General advirtió de que incluso si se triplican los recursos para que los países vulnerables pu",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542174",
+   "date": "2026-11-13T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "af491484dbdb",
+   "source": "Naciones Unidas",
+   "title": "El impacto devastador de la última tormenta en Gaza se podría haber evitado",
+   "description": "Se trata de decisiones políticas israelíes que podían haber salvado la vida de niños y adultos. La obligación de Israel, como potencia ocupante, es la de garantizar las necesidades básicas de la población de Gaza, incluidos los suministros esenciales para la supervivencia. Las ag",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542173",
+   "date": "2026-11-13T12:00:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Oficial"
+  },
+  {
+   "id": "92ebf5391b73",
+   "source": "Naciones Unidas",
+   "title": "COP31, ébola, robots asesinos, Gaza… las noticias del viernes",
+   "description": "El Secretario General de la ONU despide su última cumbre del clima en Antalya advirtiendo de que el sobrecalentamiento de 1,5 grados ya es inevitable. El Congo suma 5400 muertos por ébola a los seis meses del brote. La ONU pide un tratado que prohíba las armas autónomas: \"Una máq",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542172",
+   "date": "2026-11-13T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
+  },
+  {
+   "id": "76c1fdef46f1",
+   "source": "Naciones Unidas",
+   "title": "COP31: las ciudades están en la primera línea del cambio climático",
+   "description": "Los activistas y países vulnerables exigieron una respuesta urgente e inmediata para proteger a las comunidades en primera línea frente a los crecientes desastres climáticos poniendo así presión a los líderes para que financien y adopten medidas, entre ellas, proteger la vivienda",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542169",
+   "date": "2026-11-12T12:00:00+00:00",
+   "category": "Sociedad",
+   "type": "Oficial"
   },
   {
    "id": "bc8eb239d2df",
