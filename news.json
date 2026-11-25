@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-25T05:01:25.764085+00:00",
+ "updated": "2026-11-25T06:01:47.136348+00:00",
  "items": [
+  {
+   "id": "e7949c032243",
+   "source": "The Guardian",
+   "title": "Australian politics live: ‘A tragedy in the life of our nation’: prime minister apologises to LGBTQ+ veterans",
+   "description": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect the",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+   "date": "2026-11-25T05:43:47+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "aad611e71367",
+   "source": "Al Jazeera",
+   "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
+   "description": "The opposition Congress party calls Israel’s war on Gaza a genocide, but its leader still wants strong ties with Israel.",
+   "url": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss",
+   "date": "2026-11-25T05:27:32+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "37335e5fafe0",
+   "source": "Al Jazeera",
+   "title": "The Gambia election: Can the next president deliver on a decade of promise",
+   "description": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice.",
+   "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
+   "date": "2026-11-25T05:03:04+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a98fd775dccd",
+   "source": "The Guardian",
+   "title": "In charts: how power could shift in Europe’s big year of elections",
+   "description": "More than half of EU voters will go to the polls in the next 12 months, with the far right targeting significant gains. We set out the political landscape and trends Over the coming 12 months, more than half of the EU’s electorate will go to the polls in elections that could chan",
+   "url": "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right",
+   "date": "2026-11-25T05:00:06+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "d53b0f27ecc3",
+   "source": "The Guardian",
+   "title": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden",
+   "description": "With Iran’s proxy fighters encircling the temporary capital, residents and NGOs prepare to evacuate Hussein fled his home six years ago after it fell under Houthi control, moving as far south as he could to the port city of Aden, where there was a measure of safety. The Saudi-bac",
+   "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
+   "date": "2026-11-25T05:00:06+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "cc69e7373d35",
    "source": "Al Jazeera",
@@ -12,20 +62,20 @@
    "type": "Prensa"
   },
   {
-   "id": "e7949c032243",
-   "source": "The Guardian",
-   "title": "Australian politics live: Two Nationals kicked out of question time as Taylor slams ‘dirty deal’ with Greens; NSW responds to fire ant threat in Sydney",
-   "description": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect the",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-   "date": "2026-11-25T04:41:09+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "id": "91b00d6ad965",
+   "source": "BBC Mundo",
+   "title": "\"Le digo a mi hijo que son solo fuegos artificiales\": cómo es vivir en una ciudad de Yemen sitiada por los rebeldes hutíes",
+   "description": "Taiz, la tercera ciudad más grande de Yemen, lleva semanas aislada del mundo, bajo asedio de los hutíes. La BBC habló con personas atrapadas allí.",
+   "url": "https://www.bbc.com/mundo/articles/cx5y1mzvgpe8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T04:47:20+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
    "id": "29c82e78a256",
    "source": "The Guardian",
    "title": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
-   "description": "Clubs fail to sign up for 2027 season as disquiet over governing body’s executive grips football community About 100 football clubs, representing hundreds of thousands of players, have deliberately missed the deadline to sign up for next season amid a dispute with Football Queens",
+   "description": "Clubs fail to sign up for 2027 season as disquiet over governing body’s executive grips football community Get our breaking news email , free app or daily news podcast About 100 football clubs, representing hundreds of thousands of players, have deliberately missed the deadline t",
    "url": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
    "date": "2026-11-25T04:29:29+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -145,7 +195,7 @@
    "id": "f906541d535a",
    "source": "The Guardian",
    "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
-   "description": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 Get our breaking news email , free app or daily news podcast Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon. ",
+   "description": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 How a Sydney police officer’s obsession led to a double murder Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon",
    "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
    "date": "2026-11-25T03:05:42+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -602,21 +652,21 @@
    "type": "Prensa"
   },
   {
-   "id": "37f57bc0e0cf",
-   "source": "The Guardian",
-   "title": "Metropolitan police still institutionally racist and misogynist, says report",
-   "description": "Independent review finds force has ‘fundamental systemic issues’ three years after damning report on Sarah Everard murder Latest review of Met police culture finds little has changed since last one The Metropolitan police remain institutionally racist, misogynistic and homophobic",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/25/metropolitan-police-institutionally-racist-misogynist-fairfield-report",
-   "date": "2026-11-25T00:01:01+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "47ca28b09300",
    "source": "The Guardian",
    "title": "England has largest frailty gap out of 31 countries, study finds",
    "description": "People from lowest socioeconomic group in all countries studied had higher frailty scores than those in highest socioeconomic group England has the largest gap between higher and lower socioeconomic groups when it comes to frailty compared with 30 other countries, a major study h",
    "url": "https://www.theguardian.com/society/2026/nov/25/england-has-largest-frailty-gap-out-of-31-countries-study-finds",
+   "date": "2026-11-25T00:01:01+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c21529b5c78c",
+   "source": "The Guardian",
+   "title": "Coastal areas in England at risk of erosion to receive £11m in new funding",
+   "description": "Exclusive: Laser-equipped drone surveys and road relocations among schemes to get government support Laser-equipped drone surveys, sand dune restoration and moving roads inland are among the projects that will receive government funding to help seaside communities in England adap",
+   "url": "https://www.theguardian.com/environment/2026/nov/25/coastal-areas-england-at-risk-erosion-11m-funding-drones-ea",
    "date": "2026-11-25T00:01:01+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
@@ -890,26 +940,6 @@
    "date": "2026-11-24T21:11:00+00:00",
    "category": "Elecciones",
    "type": "Oficial"
-  },
-  {
-   "id": "6cb7115430f7",
-   "source": "Al Jazeera",
-   "title": "Ten hostages released in standoff with gunmen at Colombia supermarket",
-   "description": "10 of about 25 people held hostage were released from supermarket surrounded by police and troops.",
-   "url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
-   "date": "2026-11-24T21:04:46+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "d328ecaee7c4",
-   "source": "Al Jazeera",
-   "title": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
-   "description": "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss",
-   "date": "2026-11-24T20:58:41+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
   },
   {
    "id": "125ce3bd4e55",
@@ -1282,16 +1312,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8b810ce42d72",
-   "source": "The Guardian",
-   "title": "EU to impose cap on Chinese hybrid EV imports next month",
-   "description": "Temporary quotas on vehicles entering the bloc will also apply to cars from the UK, Japan and Turkey The EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the bloc, the European Commission has announced. The quotas will a",
-   "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
-   "date": "2026-11-24T10:59:40+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "2825b438ca71",
    "source": "BBC Mundo",
    "title": "Por qué nos tienta comer algo dulce o salado antes de ir a dormir aunque estemos satisfechos (y cómo no caer en la tentación)",
@@ -1632,16 +1652,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a8331761b8c5",
-   "source": "The Guardian",
-   "title": "Twenty Gaza students due to leave for Ireland after winning visa battle",
-   "description": "Group’s evacuation follows campaign to overturn decision to deny visas to more than 60 students from territory Twenty students from Gaza are to travel to Ireland to take up scholarships after winning a battle for visas that undercut the Irish government’s reputation as a champion",
-   "url": "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
-   "date": "2026-11-23T13:03:14+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "1eb950e0a26e",
    "source": "The Guardian",
    "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
@@ -1699,6 +1709,16 @@
    "url": "https://www.bbc.com/mundo/articles/c60rkz2e5nxvo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-23T04:00:58+00:00",
    "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "86de51ef02ef",
+   "source": "BBC Mundo",
+   "title": "Tres soldados salvadoreños mueren en un incidente con explosivos en Haití",
+   "description": "Los soldados \"fueron afectados por una detonación mientras trabajaban con material explosivo en uno de los campamentos\", informó la Fuerza Armada de El Salvador en un comunicado en la red social X.",
+   "url": "https://www.bbc.com/mundo/articles/cmvg212k7lyko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T02:56:44+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -1812,13 +1832,13 @@
    "type": "Prensa"
   },
   {
-   "id": "9ed40cb2033d",
+   "id": "5051e0e2e074",
    "source": "BBC Mundo",
-   "title": "\"No quise negociar la sangre de mi hija\": la madre de una adolescente muerta a tiros en las protestas en Irán exige justicia desde el exilio",
-   "description": "Samira publica desde el extranjero los nombres de miembros de las fuerzas de seguridad iraníes que, según ella, son responsables de la muerte de los manifestantes.",
-   "url": "https://www.bbc.com/mundo/articles/cwx28636mp5zo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-21T05:02:06+00:00",
-   "category": "Oriente Medio",
+   "title": "\"Hay una parte de mí que va aprendiendo a ser viejo, pero hay otra a la que le cuesta muchísimo\": Jorge Drexler",
+   "description": "El músico uruguayo ganó tres premios Latin Grammy la semana pasada y recibió ahora dos nominaciones al Grammy anglosajón.",
+   "url": "https://www.bbc.com/mundo/articles/c6n90g8p3nlwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T12:21:16+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -2070,16 +2090,6 @@
    "date": "2026-11-18T13:40:17+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "6d6605163e3d",
-   "source": "BBC Mundo",
-   "title": "El test genético que descubrió el covid-19 y que ahora salva vidas al detectar casi todas las infecciones",
-   "description": "Permitió identificar el covid-19. Ahora, esta técnica genética ayuda a los médicos a tomar decisiones de vida o muerte.",
-   "url": "https://www.bbc.com/mundo/articles/c6ly5nwjx2llo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T10:38:26+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
   },
   {
    "id": "a6ff6f9ff5fe",
