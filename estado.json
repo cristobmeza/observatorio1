@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:45:52.906056+00:00",
+ "updated": "2026-11-25T19:51:39.131888+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -12,9 +12,8 @@
    "url": "https://feeds.feedburner.com/radiobiobio/NNeJ"
   },
   "Radio Cooperativa": {
-   "ok": true,
-   "n": 15,
-   "url": "https://www.cooperativa.cl/noticias/site/tax/port/all/rss____1.xml"
+   "ok": false,
+   "err": "no element found: line 1, column 0"
   },
   "El Mostrador": {
    "ok": false,
@@ -114,9 +113,8 @@
    "err": "HTTP Error 404: Not Found"
   },
   "Naciones Unidas": {
-   "ok": true,
-   "n": 30,
-   "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml"
+   "ok": false,
+   "err": "not well-formed (invalid token): line 1, column 0"
   },
   "Fondo Monetario Internacional": {
    "ok": false,
