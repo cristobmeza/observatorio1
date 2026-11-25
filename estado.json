@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:51:39.131888+00:00",
+ "updated": "2026-11-25T20:50:31.143422+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -12,8 +12,9 @@
    "url": "https://feeds.feedburner.com/radiobiobio/NNeJ"
   },
   "Radio Cooperativa": {
-   "ok": false,
-   "err": "no element found: line 1, column 0"
+   "ok": true,
+   "n": 15,
+   "url": "https://www.cooperativa.cl/noticias/site/tax/port/all/rss____1.xml"
   },
   "El Mostrador": {
    "ok": false,
