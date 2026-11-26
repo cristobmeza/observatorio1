@@ -1,24 +1,34 @@
 {
- "updated": "2026-11-26T11:55:10.031399+00:00",
+ "updated": "2026-11-26T13:08:04.936736+00:00",
  "items": [
   {
-   "id": "0a90937f762d",
+   "id": "0bc1af127408",
+   "source": "Río en Línea",
+   "title": "Condenan a más de 11 años de cárcel a hombre por intento de femicidio y otros delitos en Valdivia",
+   "description": "El Tribunal de Juicio Oral en lo Penal de Valdivia condenó a un hombre de 33 años a un total de 11 años y 55 días de presidio efectivo por cinco delitos cometidos contra quien era su conviviente, en un contexto de violencia intrafamiliar que se extendió entre 2022 y 2024. La sent",
+   "url": "https://www.rioenlinea.cl/condenan-a-mas-de-11-anos-de-carcel-a-hombre-por-intento-de-femicidio-y-otros-delitos-en-valdivia/",
+   "date": "2026-11-26T13:07:00+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "172415efc7d8",
    "source": "The Guardian",
-   "title": "Antisemitism adviser to launch inquiry into ‘hostile work environment’ at BBC",
-   "description": "John Mann says decision comes after hearing ‘disturbing’ accounts by Jewish staff about discrimination against them UK politics live – latest updates The government’s independent adviser on antisemitism has said he is launching an investigation into the BBC after hearing “disturb",
-   "url": "https://www.theguardian.com/media/2026/nov/26/antisemitism-adviser-to-launch-inquiry-into-hostile-work-environment-at-bbc",
-   "date": "2026-11-26T11:49:59+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+   "description": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June UK politics live – latest updates Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic. Figures re",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+   "date": "2026-11-26T13:05:01+00:00",
+   "category": "Sociedad",
    "type": "Prensa"
   },
   {
    "id": "8befcb7da053",
    "source": "The Guardian",
-   "title": "Government publishes more documents on Mandelson appointment as US ambassador – UK politics live",
-   "description": "The peer was sacked from his position in 2025 after his close links with Jeffrey Epstein emerged The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler . Britain needs to regain contro",
+   "title": "Mandelson tried to arrange ‘under radar’ meeting involving ex-lobbying colleague and Trump adviser, documents reveal – UK politics live",
+   "description": "The disgraced peer said he wanted to hold a lunch to discuss ‘alternative options’ to the World Trade Organization The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler . Britain need",
    "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-   "date": "2026-11-26T11:43:25+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "date": "2026-11-26T13:02:43+00:00",
+   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -27,8 +37,298 @@
    "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
    "description": "A number of leaders hope to agree to a budget before consequential elections around the continent The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to work. “The",
    "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-   "date": "2026-11-26T11:42:49+00:00",
+   "date": "2026-11-26T12:53:32+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "5dd9c4bf6c96",
+   "source": "BBC Mundo",
+   "title": "El papa Francisco y el diablo: cómo el cristianismo moldeó la figura de satán para combatir otras religiones",
+   "description": "Desde los cuernos de Pan hasta el tridente de Poseidón: el cristianismo tomó símbolos de otras religiones para construir la imagen del diablo. Sin embargo, esa representación dista mucho de la figura que describió el fallecido papa Francisco en su diario.",
+   "url": "https://www.bbc.com/mundo/articles/c6zjrm77lrgwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T12:49:04+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "529f8a1e9196",
+   "source": "Radio Cooperativa",
+   "title": "Confirmado: Jannik Sinner se perderá el Abierto de Australia",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El tenista italiano Jannik Sinner (2° de la ATP) se perderá el Abierto de Australia tras someterse a una operación de rodilla hace unos días , después de haber estado apartado de las canchas desde lograr el título en Wimble",
+   "url": "https://www.cooperativa.cl/noticias/deportes/tenis/abierto-de-australia/confirmado-jannik-sinner-se-perdera-el-abierto-de-australia/2026-11-26/094822.html",
+   "date": "2026-11-26T12:48:22+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "384414a68d78",
+   "source": "Deutsche Welle",
+   "title": "División en la cumbre de la UE acerca de cómo pagar la ayuda a Ucrania en 2027",
+   "description": "Los líderes de la Unión Europea muestran posturas disímiles sobre un posible vínculo de la ayuda a Ucrania al presupuesto europeo.",
+   "url": "https://www.dw.com/es/división-en-la-cumbre-de-la-ue-acerca-de-cómo-pagar-la-ayuda-a-ucrania-en-2027/a-80061480?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-26T12:45:00+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "fa43a5c34e1f",
+   "source": "The Guardian",
+   "title": "MP hosts 400,000 guests at daughter’s wedding in India’s poorest state",
+   "description": "Five helipads built to ferry in VIP guests to wedding hosted by MP Anant Singh, with spectators climbing electricity pylons to catch glimpse of celebrations About 400,000 guests have attended a wedding hosted by a politician in India’s poorest state, choking roads and sending spe",
+   "url": "https://www.theguardian.com/world/2026/nov/26/india-anant-singh-hosts-400000-guests-wedding-guests-daughter",
+   "date": "2026-11-26T12:43:10+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "6cea024ebe31",
+   "source": "Radio Cooperativa",
+   "title": "Boxeo puro en la NHL: la gran pelea entre Jeannot y Bauer en Boston",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/polideportivo/hockey-hielo/boxeo-puro-en-la-nhl-la-gran-pelea-entre-jeannot-y-bauer-en-boston/2026-11-26/093951.html",
+   "date": "2026-11-26T12:39:51+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "cdeb1fd00514",
+   "source": "The Guardian",
+   "title": "Huw Edwards to speak about his crimes and fall from grace in Channel 4 documentary",
+   "description": "It will be the first time the disgraced former BBC presenter has spoken about his 2024 conviction for making indecent images of children Huw Edwards is to speak on television about his spectacular fall from grace for the first time, as part of a Channel 4 documentary that has fol",
+   "url": "https://www.theguardian.com/media/2026/nov/26/huw-edwards-documentary-channel-4-crimes-conviction",
+   "date": "2026-11-26T12:38:40+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "835f528cfdd7",
+   "source": "The Guardian",
+   "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
+   "description": "The US and Russia’s candidate for secretary general is on a charm offensive. Can she overcome London’s resistance to her bid? Lana Nusseibeh is in Britain this week, attempting to present herself as a potential future UN secretary general, and shift the focus from her past as a U",
+   "url": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general",
+   "date": "2026-11-26T12:37:42+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "e5789a2d4982",
+   "source": "Al Jazeera",
+   "title": "Eyewitnesses describe scenes of Egypt’s deadly vehicle fire",
+   "description": "Eyewitnesses describe scenes of Egypt’s deadly vehicle fire",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/eyewitnesses-describe-scenes-of-egypts-deadly-vehicle-fire?traffic_source=rss",
+   "date": "2026-11-26T12:34:10+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "caa40fcc1cbe",
+   "source": "Al Jazeera",
+   "title": "FIFA says personal and business information stolen in cyberattack",
+   "description": "No files from the abandoned FIFA Forward Enterprise project were accessed, according to media reports.",
+   "url": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss",
+   "date": "2026-11-26T12:31:46+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5d4674cc9353",
+   "source": "BBC Mundo",
+   "title": "Efecto BYD: por qué Brasil se ha convertido en un \"laboratorio en América Latina\" para las empresas chinas",
+   "description": "La enorme planta que se construye en el noreste de Brasil marca el ascenso de China al liderazgo del mercado automotriz global: Ford ocupó ese mismo predio hasta que cerró sus puertas en 2021.",
+   "url": "https://www.bbc.com/mundo/articles/ck1ewnv46x70o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T12:26:39+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "0fabf68b5b61",
+   "source": "Radio Cooperativa",
+   "title": "FIFA confirmó ciberataque que comprometió información personal y empresarial",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes La FIFA confirmó este jueves que fue víctima de un ciberataque que permitió a piratas informáticos acceder a lo que el propio ente rector del fútbol mundial describió como \"un conjunto limitado de información personal y emp",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/fifa/fifa-confirmo-ciberataque-que-comprometio-informacion-personal-y/2026-11-26/092435.html",
+   "date": "2026-11-26T12:24:35+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "01d0c73347f4",
+   "source": "Radio Cooperativa",
+   "title": "Principales economías asiáticas piden a EE.UU. que reconsidere los nuevos aranceles",
+   "description": "Varias de las principales economías asiáticas abogaron este jueves por que Estados Unidos reconsidere su decisión de imponer nuevos aranceles a 14 mercados , entre los que figuran China , además de socios aliados como Japón, Corea del Sur o Singapur. Washington justificó estas po",
+   "url": "https://www.cooperativa.cl/noticias/mundo/asia/principales-economias-asiaticas-piden-a-ee-uu-que-reconsidere-los/2026-11-26/092203.html",
+   "date": "2026-11-26T12:22:03+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "670ea0acabfb",
+   "source": "Radio Cooperativa",
+   "title": "Dominga López se sinceró sobre su paso por Miss Universo 2026: \"Un desastre el pelo\"",
+   "description": "La modelo Dominga López analizó su participación en el Miss Universo 2026 , en donde terminó entre las 12 primeras concursantes. A través de una transmisión en vivo en sus redes sociales, López analizó el fallido peinado que lució en el concurso e indicó que \"un desastre el pelo.",
+   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/dominga-lopez-se-sincero-sobre-su-paso-por-miss-universo-2026-un/2026-11-26/091844.html",
+   "date": "2026-11-26T12:18:44+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "48c5fd5e0f9f",
+   "source": "Radio Cooperativa",
+   "title": "Israel mata al subsecretario de Educación de Gaza y a otras siete personas en bombardeos",
+   "description": "Al menos ocho palestinos murieron durante la madrugada de este jueves en distintos bombardeos israelíes contra la Franja de Gaza , entre ellos un funcionario del Ministerio de Educación gazatí y su esposa, según informaron fuentes médicas del enclave palestino. El funcionario, id",
+   "url": "https://www.cooperativa.cl/noticias/mundo/medio-oriente/conflicto-israel-palestina/israel-mata-al-subsecretario-de-educacion-de-gaza-y-a-otras-siete/2026-11-26/091721.html",
+   "date": "2026-11-26T12:17:21+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "18cd9e8b1833",
+   "source": "Al Jazeera",
+   "title": "With the rise of AI, are we close to having universal basic income",
+   "description": "Is UBI the solution to mass unemployment in an AI economy?",
+   "url": "https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income?traffic_source=rss",
+   "date": "2026-11-26T12:12:45+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ce3fd1b88e44",
+   "source": "Al Jazeera",
+   "title": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
+   "description": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
+   "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
+   "date": "2026-11-26T12:10:49+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "f9ad8679bf05",
+   "source": "The Guardian",
+   "title": "Ministry of Defence signs £8.7bn deal with Babcock to maintain submarines",
+   "description": "Wes Streeting says deal will ‘get our subs out of the docks and into the sea faster’ amid scrutiny of nuclear deterrent UK politics live – latest updates Business live – latest updates The Ministry of Defence has signed an £8.7bn contract with the defence company Babcock to maint",
+   "url": "https://www.theguardian.com/politics/2026/nov/26/ministry-of-defence-deal-babcock-maintain-submarines",
+   "date": "2026-11-26T12:07:29+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "37f608b68bf5",
+   "source": "The Guardian",
+   "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
+   "description": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan to fill funding black hole caused by Russia’s relentless attacks Europe live – latest updates EU leaders are bracing to clash over long-term financial aid for Ukraine, amid an effort to finalise high-stakes budge",
+   "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
+   "date": "2026-11-26T12:07:14+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "ee3f90cc44d7",
+   "source": "Radio Cooperativa",
+   "title": "Abogado de Senegal explicó el fallo del TAS: \"La clave es que Marruecos volvió a la cancha\"",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes El abogado español Juan de Dios Crespo, encargado de la defensa de Senegal ante el Tribunal de Arbitraje Deportivo (TAS) , aseguró en entrevista con la Agencia EFE que la determinación de Marruecos de seguir disputando la f",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/copa-naciones-de-africa/abogado-de-senegal-explico-el-fallo-del-tas-la-clave-es-que-marruecos/2026-11-26/090508.html",
+   "date": "2026-11-26T12:05:08+00:00",
+   "category": "Jurisprudencia",
+   "type": "Prensa"
+  },
+  {
+   "id": "fccebb58e541",
+   "source": "France 24",
+   "title": "Una explosión y un incendio en una refinería de Bangkok dejan siete heridos",
+   "description": "Una explosión seguida de un incendio en una refinería de la compañía energética Bangchak, en el distrito de Phra Khanong, al este de Bangkok, dejó al menos siete heridos este jueves, cuatro de ellos de gravedad, según el Centro de Emergencias Médicas Erawan de la capital tailande",
+   "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261126-una-explosi%C3%B3n-y-un-incendio-en-una-refiner%C3%ADa-de-bangkok-dejan-siete-heridos",
+   "date": "2026-11-26T12:03:55+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "5d807d8558a8",
+   "source": "France 24",
+   "title": "Mensajes antisemitas: nuevos indicios comprometen a Jordan Bardella, que vuelve a negar su autoría",
+   "description": "En septiembre, Mediapart reveló mensajes antisemitas atribuidos a Jordan Bardella, escritos en 2013, cuando era estudiante de secundaria y joven militante del Frente Nacional. El medio de investigación y Le Monde publicaron el jueves nuevos fragmentos de una conversación en Faceb",
+   "url": "https://www.france24.com/es/francia/20261126-mensajes-antisemitas-nuevos-indicios-comprometen-a-jordan-bardella-que-vuelve-a-negar-su-autor%C3%ADa",
+   "date": "2026-11-26T12:02:31+00:00",
+   "category": "Partidos políticos",
+   "type": "Prensa"
+  },
+  {
+   "id": "c0518cfa58bb",
+   "source": "Radio Cooperativa",
+   "title": "Claudio Michaux reaccionó al fin de \"El Club de la Comedia\": \"No sé si lo voy a extrañar\"",
+   "description": "El comediante Claudio Michaux reaccionó al final de \"El Club de la Comedia\" , el programa que condujo en Chilevisión durante los últimos meses. En conversación con TiempoX , el humorista confesó que \"no sabía\" del fin del espacio, pero que \"igual aprendí harto\". \"Yo tengo un rol ",
+   "url": "https://www.cooperativa.cl/noticias/magazine/television/claudio-michaux-reacciono-al-fin-de-el-club-de-la-comedia-no-se-si/2026-11-26/090132.html",
+   "date": "2026-11-26T12:01:32+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "c1370b4a7f8d",
+   "source": "The Guardian",
+   "title": "Faulty electrical goods returned to UK supermarkets ending up on Ghana ‘megadump’",
+   "description": "Mountains of household items are burned and stripped down at the tip by workers without protection such as masks, investigation alleges Electrical goods that were returned as faulty to leading British stores including Tesco, Argos and Asda have been found dumped on a waste tip in",
+   "url": "https://www.theguardian.com/environment/2026/nov/26/ghana-waste-tip-faulty-electrical-goods-uk-supermarkets-returns",
+   "date": "2026-11-26T12:00:34+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "42ed601d8567",
+   "source": "The Guardian",
+   "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+   "description": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary measures” after Donald Trump’s administrati",
+   "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+   "date": "2026-11-26T12:00:22+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "dfcf7cc42c64",
+   "source": "Deutsche Welle",
+   "title": "La UME envía a El Hierro un equipo sanitario de 120 efectivos por la llegada de más de 2.000 migrantes en un día",
+   "description": "Un equipo sanitario de 120 efectivos fue movilizado por la Unidad Militar de Emergencias en la isla El Hierro, adonde llegaron cerca de 2.000 personas en un solo día.",
+   "url": "https://www.dw.com/es/la-ume-envía-a-el-hierro-un-equipo-sanitario-de-120-efectivos-por-la-llegada-de-más-de-2-000-migrantes-en-un-día/a-80060123?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-26T11:59:00+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "972a74e8acac",
+   "source": "Servicio Electoral",
+   "title": "Servel presentó su Observatorio en el III Festival Género, Comunicación y Tecnología",
+   "description": "En el marco del Día Internacional de la Eliminación de la Violencia contra la Mujer, este miércoles 25 de noviembre, la Presidenta del Consejo Directivo del Servicio Electoral de Chile, Pamela Figueroa, participó en el conversatorio “Violencia digital contra mujeres en política”,",
+   "url": "https://www.servel.cl/Ch/app/servel-presento-su-observatorio-en-el-iii-festival-genero-comunicacion-y-tecnologia/sin-categoria/",
+   "date": "2026-11-26T11:58:42+00:00",
+   "category": "Elecciones",
+   "type": "Oficial"
+  },
+  {
+   "id": "9bf5cf3e0249",
+   "source": "Al Jazeera",
+   "title": "James ‘Fergie’ Chambers: US trying to cast ‘antiwar ideas as extremist’",
+   "description": "Recently bailed activist denies accusations of supporting Hamas, claiming he is being punished for supporting Palestine.",
+   "url": "https://www.aljazeera.com/news/2026/11/26/james-fergie-chambers-us-trying-to-cast-antiwar-ideas-as-extremist?traffic_source=rss",
+   "date": "2026-11-26T11:56:53+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "7e0719f59a2e",
+   "source": "Radio Cooperativa",
+   "title": "Los Knicks sumaron su sexta victoria seguida a costa de Cleveland",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/baloncesto/nba/los-knicks-sumaron-su-sexta-victoria-seguida-a-costa-de-cleveland/2026-11-26/084839.html",
+   "date": "2026-11-26T11:48:39+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "1e84ea71119f",
+   "source": "Al Jazeera",
+   "title": "LeBron James becomes oldest NBA player to post triple-double as 76ers win",
+   "description": "James posted 25 points, 12 assists and 10 rebounds as Philadelphia snapped Miami's seven-game winning streak.",
+   "url": "https://www.aljazeera.com/sports/2026/11/26/lebron-james-nba-oldest-player-triple-double-philadelphia-76ers?traffic_source=rss",
+   "date": "2026-11-26T11:38:20+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -112,16 +412,6 @@
    "type": "Prensa"
   },
   {
-   "id": "ff08f6ad2437",
-   "source": "The Guardian",
-   "title": "Welsh first minister accuses Burnham of ‘casually’ rejecting devolution calls",
-   "description": "Rhun ap Iorwerth says PM is treating Wales with less respect than English regions and has ‘let himself down’ UK politics live – latest updates The Welsh first minister has launched a fierce attack on Andy Burnham, accusing him of “casually” rejecting calls to hand over more power",
-   "url": "https://www.theguardian.com/politics/2026/nov/26/welsh-first-minister-rhun-ap-iorwerth-andy-burnham-devolution-wales",
-   "date": "2026-11-26T11:09:33+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "27c7cf1852f2",
    "source": "Al Jazeera",
    "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
@@ -182,16 +472,6 @@
    "type": "Prensa"
   },
   {
-   "id": "47a7580e1f1e",
-   "source": "The Guardian",
-   "title": "Paul Whitehouse urges PM to act over ‘imminent extinction’ of Windermere’s ice-age fish",
-   "description": "Experts say arctic char is threatened by pollution in England’s biggest lake as comedian unveils sculpture UK politics live – latest updates An ancient fish species that has survived in Windermere for more than 11,000 years is at risk of “imminent” extinction due to widespread po",
-   "url": "https://www.theguardian.com/environment/2026/nov/26/burnham-urged-to-act-extinction-windemere-arctic-char-paul-whitehouse",
-   "date": "2026-11-26T10:25:12+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "88ab304f5eaa",
    "source": "Al Jazeera",
    "title": "Kenya gov’t violated constitution with Ebola quarantine site, court says",
@@ -209,26 +489,6 @@
    "url": "https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea",
    "date": "2026-11-26T10:15:18+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "172415efc7d8",
-   "source": "The Guardian",
-   "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
-   "description": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June UK politics live – latest updates Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic. Figures re",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
-   "date": "2026-11-26T10:10:03+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "cac8811e606d",
-   "source": "Radio Cooperativa",
-   "title": "El Kremlin rechaza la tregua energética y marítima exigida por Comisión Europea",
-   "description": "El Kremlin rechazó este jueves la tregua invernal, tanto energética como para la exportación de cereal por el mar Negro , exigida la víspera por la presidenta de la Comisión Europea, Ursula von der Leyen, al considerarla un \"ultimátum\". \" Rusia no tiene que hacer nada. Rusia debe",
-   "url": "https://www.cooperativa.cl/noticias/mundo/rusia/el-kremlin-rechaza-la-tregua-energetica-y-maritima-exigida-por-comision/2026-11-26/070852.html",
-   "date": "2026-11-26T10:08:52+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -452,26 +712,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8b7f1bcfe3ca",
-   "source": "Al Jazeera",
-   "title": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
-   "description": "Rescue workers facing tough conditions, with narrow, deep and slippery excavation pits and minimal lighting.",
-   "url": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
-   "date": "2026-11-26T07:38:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "03ec637ec24b",
-   "source": "Al Jazeera",
-   "title": "French navy intercepts suspected drug-smuggling semi-submersible",
-   "description": "French forces intercepted a semi-submersible suspected of drug trafficking in the Atlantic.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/french-navy-intercepts-suspected-drug-smuggling-semi-submersible?traffic_source=rss",
-   "date": "2026-11-26T07:15:39+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d20351a12ab2",
    "source": "France 24",
    "title": "En directo: los líderes de la UE se reúnen en Bruselas divididos sobre la ayuda a Ucrania",
@@ -479,16 +719,6 @@
    "url": "https://www.france24.com/es/europa/20261126-en-directo-la-uni%C3%B3n-europea-llega-dividida-a-una-cumbre-clave-sobre-la-financiaci%C3%B3n-de-kiev",
    "date": "2026-11-26T07:13:41+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "b182cbc717a6",
-   "source": "Al Jazeera",
-   "title": "War and drought threaten livelihoods of Sudan’s farmers",
-   "description": "Attacks on electricity infrastructure and drought are threatening Sudan's harvests and leaving millions without water.",
-   "url": "https://www.aljazeera.com/features/2026/11/26/war-and-drought-threaten-livelihoods-of-sudans-farmers?traffic_source=rss",
-   "date": "2026-11-26T06:56:34+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -502,16 +732,6 @@
    "type": "Prensa"
   },
   {
-   "id": "45a6bc994053",
-   "source": "Al Jazeera",
-   "title": "The world must choose between nuclear abolition and nuclear catastrophe",
-   "description": "The upcoming UN nuclear ban treaty conference offers an opportunity to challenge the dogma of nuclear deterrence.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/26/the-world-must-choose-between-nuclear-abolition-and-nuclear-catastrophe?traffic_source=rss",
-   "date": "2026-11-26T06:53:05+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "3de40d8c832e",
    "source": "The Guardian",
    "title": "Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’ – as it happened",
@@ -519,36 +739,6 @@
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
    "date": "2026-11-26T06:36:53+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "7e4620ecde9e",
-   "source": "Al Jazeera",
-   "title": "Who really wants Pedro Sanchez out of power?",
-   "description": "As Spain heads to the polls, the biggest threat to Sanchez’s international agenda comes not from Moscow, but Washington.",
-   "url": "https://www.aljazeera.com/opinions/2026/11/26/who-really-wants-pedro-sanchez-out-of-power?traffic_source=rss",
-   "date": "2026-11-26T06:36:25+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "e7f4b893ff60",
-   "source": "Al Jazeera",
-   "title": "Jannik Sinner ruled out of 2027 Australian Open after knee surgery",
-   "description": "Sinner, a two-time champion at Melbourne Park, has not played a match since winning the 2026 Wimbledon title in July.",
-   "url": "https://www.aljazeera.com/sports/2026/11/26/jannik-sinner-australian-open-2027-knee-injury-surgery-tennis?traffic_source=rss",
-   "date": "2026-11-26T06:32:48+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "42ed601d8567",
-   "source": "The Guardian",
-   "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
-   "description": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat” and China accused Washi",
-   "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-   "date": "2026-11-26T06:10:56+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -568,16 +758,6 @@
    "description": "Yuki Imai being held in Moscow on allegations he conducted ‘espionage’ while working for a newspaper in Sakhalin island in Russia’s far east The wife of a Japanese journalist who has been detained in Russia for more than a month on suspicion of spying has issued an emotive appeal",
    "url": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
    "date": "2026-11-26T05:16:17+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "b39d39f531b2",
-   "source": "The Guardian",
-   "title": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
-   "description": "Project capable of powering 300,000 homes, with Britain having offered more than £770m to rebuild energy sector Britain will add to its multimillion pound investments in rebuilding Ukraine’s energy system by funding a windfarm project capable of powering 300,000 Ukrainian househo",
-   "url": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
-   "date": "2026-11-26T05:00:46+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -622,32 +802,12 @@
    "type": "Prensa"
   },
   {
-   "id": "df16b33e38b6",
-   "source": "Radio Cooperativa",
-   "title": "La misión Hera presentó hallazgos sorprendentes del experimento DART de defensa planetaria",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/sociedad/astronomia/espacio/la-mision-hera-presento-hallazgos-sorprendentes-del-experimento-dart-de/2026-11-26/003333.html",
-   "date": "2026-11-26T03:33:33+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "bfc2aad01d80",
    "source": "Deutsche Welle",
    "title": "Murió a los 65 años Andy Taylor, exguitarrista de la banda británica Duran Duran",
    "description": "Fue una figura emblemática del famoso grupo inglés, muy popular en Gran Bretaña y Estados Unidos en la década de 1980.",
    "url": "https://www.dw.com/es/murió-a-los-65-años-andy-taylor-exguitarrista-de-la-banda-británica-duran-duran/a-80055951?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-26T03:18:00+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "5a523f3b33db",
-   "source": "Radio Cooperativa",
-   "title": "Agencia ambiental de EE.UU. descartó nube de plomo tras inédita detonación de explosivos en Iowa",
-   "description": "La Agencia de Protección Ambiental de Estados Unidos (EPA, en inglés) aseguró este miércoles que no detectó plomo tras la detonación esta mañana de 4.536 kilos de explosivos deteriorados , que almacenaba una planta de municiones en el estado de Iowa. \"Todos los monitores de aire ",
-   "url": "https://www.cooperativa.cl/noticias/mundo/ee-uu/agencia-ambiental-de-ee-uu-descarto-nube-de-plomo-tras-inedita/2026-11-26/000915.html",
-   "date": "2026-11-26T03:09:15+00:00",
    "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
@@ -682,16 +842,6 @@
    "type": "Prensa"
   },
   {
-   "id": "859ffcf2c4e0",
-   "source": "Radio Cooperativa",
-   "title": "Iansa anunció el fin de su producción de azúcar de remolacha",
-   "description": "Mediante un hecho esencial, Empresas Iansa S.A. informó este miércoles a la Comisión para el Mercado Financiero (CMF) su decisión de descontinuar la producción de azúcar de remolacha , tras un acuerdo adoptado por el directorio de la compañía. La determinación tendrá un impacto n",
-   "url": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/agricultura/iansa-anuncio-el-fin-de-su-produccion-de-azucar-de-remolacha/2026-11-25/234513.html",
-   "date": "2026-11-26T02:45:13+00:00",
-   "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
    "id": "1a30ea7bbaa5",
    "source": "BBC Mundo",
    "title": "Las imágenes del asteroide seleccionado para poner a prueba las defensas de la Tierra revelan un cráter del tamaño de un estadio",
@@ -712,16 +862,6 @@
    "type": "Prensa"
   },
   {
-   "id": "65c6e77e4ea0",
-   "source": "Radio Cooperativa",
-   "title": "Ministro de Economía relativiza la recesión argentina: \"La definición es casi arbitraria\"",
-   "description": "El ministro de Economía de Argentina, Luis Caputo , relativizó este miércoles la recesión técnica en la que cayó el país después de que el Producto Interno Bruto (PIB) encadenara dos trimestres de desempeño negativo, y alegó que la metodología de medición \"es casi arbitraria\" . E",
-   "url": "https://www.cooperativa.cl/noticias/mundo/argentina/ministro-de-economia-relativiza-la-recesion-argentina-la-definicion-es/2026-11-25/233339.html",
-   "date": "2026-11-26T02:33:39+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "128c4f8f3087",
    "source": "France 24",
    "title": "Las incógnitas del 7 de octubre: Israel busca crear una posible comisión de investigación",
@@ -732,36 +872,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d3efe1c9840c",
-   "source": "Radio Cooperativa",
-   "title": "Riña dejó un fallecido y dos heridos en Puente Alto",
-   "description": "La Brigada de Homicidios (BH) de la Policía de Investigaciones (PDI) indaga una riña que este miércoles dejó un fallecido y dos heridos en la intersección de Curaco de Vélez con Santa Rosa, en Puente Alto. Según información preliminar, el enfrentamiento se originó presuntamente a",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/homicidios/rina-dejo-un-fallecido-y-dos-heridos-en-puente-alto/2026-11-25/232039.html",
-   "date": "2026-11-26T02:20:39+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "71930a4eacf6",
-   "source": "Radio Cooperativa",
-   "title": "Concepción: comerciantes de Plaza Perú acusan impacto en ventas por desórdenes y enfrentamientos",
-   "description": "Comerciantes de Plaza Perú de Concepción (Región del Biobío) manifestaron su preocupación por los incidentes registrados en los últimos días durante manifestaciones en el sector , que terminaron con enfrentamientos con Carabineros y daños en las inmediaciones de una obra pública ",
-   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/concepcion-comerciantes-de-plaza-peru-acusan-impacto-en-ventas-por/2026-11-25/225755.html",
-   "date": "2026-11-26T01:57:55+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "75013bab67b6",
-   "source": "CIPER Chile",
-   "title": "Las Mirabal y los derechos de las mujeres: una memoria que interpela al presente",
-   "description": "La entrada Las Mirabal y los derechos de las mujeres: una memoria que interpela al presente se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/25/las-mirabal-y-los-derechos-de-las-mujeres-una-memoria-que-interpela-al-presente/?utm_source=rss&utm_medium=rss&utm_campaign=las-mirabal-y-los-derechos-de-las-mujeres-una-memoria-que-interpela-al-presente",
-   "date": "2026-11-26T01:45:05+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "499847b8ecb4",
    "source": "France 24",
    "title": "25N: \"Ya no tendrás hijos, te hemos curado\", drama e impunidad ante las esterilizaciones forzadas",
@@ -769,16 +879,6 @@
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261126-25n-ya-no-tendr%C3%A1s-hijos-te-hemos-curado-drama-e-impunidad-ante-las-esterilizaciones-forzadas",
    "date": "2026-11-26T00:56:28+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "d8377c83b963",
-   "source": "Deutsche Welle",
-   "title": "Irán acusa a Israel de buscar otra guerra bajo pretexto de que está fabricando armas químicas",
-   "description": "El canciller iraní Abás Araqchí respondió así al ministro de Defensa israelí, Israel Katz, quien el martes aseguró que ese país desarrolla armas químicas.",
-   "url": "https://www.dw.com/es/irán-acusa-a-israel-de-buscar-otra-guerra-bajo-pretexto-de-que-está-fabricando-armas-químicas/a-80055816?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-26T00:49:00+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -802,16 +902,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f1f82f1cfcd6",
-   "source": "Río en Línea",
-   "title": "Mas de 50 proyectos científicos llegan a Valdivia para encuentro escolar organizado por la UACh",
-   "description": "Un total de 57 proyectos, seleccionados entre más de 100 postulaciones, forman parte de la octava versión de Valdiciencias Austral 2026, que se desarrolla en la Universidad Austral de Chile. Estudiantes de enseñanza básica y media, provenientes desde Antofagasta hasta Chiloé, se ",
-   "url": "https://www.rioenlinea.cl/mas-de-50-proyectos-cientificos-llegan-a-valdivia-para-encuentro-escolar-organizado-por-la-uach/",
-   "date": "2026-11-26T00:01:05+00:00",
-   "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
    "id": "3777963ae0cd",
    "source": "BBC Mundo",
    "title": "\"Pasé décadas como agente del FBI y este es el caso que no pude dejar atrás\"",
@@ -819,16 +909,6 @@
    "url": "https://www.bbc.com/mundo/articles/c6174wy0l54eo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-25T23:49:27+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "21ddd037a08e",
-   "source": "CIPER Chile",
-   "title": "Senado despacha a ley el Presupuesto 2027; Hermosilla declara que Chadwick habría hablado con Piñera para nombrar a Vivanco en la Suprema, y Castro y Vodanovic son imputados en caso firmas",
-   "description": "La entrada Senado despacha a ley el Presupuesto 2027; Hermosilla declara que Chadwick habría hablado con Piñera para nombrar a Vivanco en la Suprema, y Castro y Vodanovic son imputados en caso firmas se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/25/radar-25-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-25-11-26",
-   "date": "2026-11-25T23:25:40+00:00",
-   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -952,16 +1032,6 @@
    "type": "Prensa"
   },
   {
-   "id": "93cbaac7fa99",
-   "source": "Deutsche Welle",
-   "title": "Cada vez más latinoamericanos votan en España, pero los políticos apenas les tienen en cuenta en las campañas",
-   "description": "Más de dos millones de españoles nacidos en América Latina están llamados a las urnas este domingo, aunque la campaña electoral apenas les dirige la palabra.",
-   "url": "https://www.dw.com/es/cada-vez-más-latinoamericanos-votan-en-españa-pero-los-políticos-apenas-les-tienen-en-cuenta-en-las-campañas/a-80054944?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-25T20:52:00+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "218b4295e996",
    "source": "France 24",
    "title": "Fabiana Tuñez: \"la violencia feminicida no es una estadística, son vidas\"",
@@ -1022,16 +1092,6 @@
    "type": "Prensa"
   },
   {
-   "id": "21763994db32",
-   "source": "CIPER Chile",
-   "title": "Matías Walker ingresó indicación escrita por Sergio Yáber al proyecto de Ley de Notarios en 2023",
-   "description": "La entrada Matías Walker ingresó indicación escrita por Sergio Yáber al proyecto de Ley de Notarios en 2023 se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/25/matias-walker-ingreso-indicacion-escrita-por-sergio-yaber-al-proyecto-de-ley-de-notarios-en-2023/?utm_source=rss&utm_medium=rss&utm_campaign=matias-walker-ingreso-indicacion-escrita-por-sergio-yaber-al-proyecto-de-ley-de-notarios-en-2023",
-   "date": "2026-11-25T20:18:30+00:00",
-   "category": "Legislación chilena",
-   "type": "Prensa"
-  },
-  {
    "id": "4f2feb16ccb2",
    "source": "The Guardian",
    "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
@@ -1049,26 +1109,6 @@
    "url": "https://www.ex-ante.cl/afteroffice/no-es-un-bache-es-una-tendencia/",
    "date": "2026-11-25T19:50:58+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "6a45d0743f9c",
-   "source": "Radio Cooperativa",
-   "title": "Liguilla: Recoleta busca sellar el pase a las semis ante un S. Wanderers que sueña con remontar",
-   "description": "Deportes Recoleta buscará este jueves sellar su clasificación a las semifinales de la Liguilla del Ascenso, cuando visite a las 19:00 horas (22:00 GMT) en Valparaíso a un Santiago Wanderers que sueña con la remontada en el Estadio \"Elías Figueroa\". El cuadro capitalino ganó por 3",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/liguilla-recoleta-busca-sellar-el-pase-a-las-semis-ante-un-s-wanderers/2026-11-25/162504.html",
-   "date": "2026-11-25T19:25:04+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "a2f5a13f3061",
-   "source": "CIPER Chile",
-   "title": "El desconocido rol del actual embajador de Chile en Brasil, Issa Kort, en el nombramiento de tres ministros de cortes de apelaciones",
-   "description": "La entrada El desconocido rol del actual embajador de Chile en Brasil, Issa Kort, en el nombramiento de tres ministros de cortes de apelaciones se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/25/el-desconocido-rol-del-actual-embajador-de-chile-en-brasil-issa-kort-en-el-nombramiento-de-tres-ministros-de-cortes-de-apelaciones/?utm_source=rss&utm_medium=rss&utm_campaign=el-desconocido-rol-del-actual-embajador-de-chile-en-brasil-issa-kort-en-el-nombramiento-de-tres-ministros-de-cortes-de-apelaciones",
-   "date": "2026-11-25T19:03:59+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Prensa"
   },
   {
@@ -1119,36 +1159,6 @@
    "url": "https://www.france24.com/es/video/20261125-las-v%C3%ADctimas-olvidadas-los-ni%C3%B1os-que-quedan-hu%C3%A9rfanos-por-la-violencia-machista-en-italia",
    "date": "2026-11-25T18:54:57+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "5e86d3f1174b",
-   "source": "France 24",
-   "title": "Directo Latam y el balance a cinco meses del doble terremoto en Venezuela",
-   "description": "Este 25 de noviembre se cumplen cinco meses del devastador doble terremoto que afectó al estado de La Guaira y causó más de 6.500 muertos. La situación en el terreno sigue siendo muy compleja: aún hoy hay familias que buscan a sus desaparecidos entre los escombros. Nuestra corres",
-   "url": "https://www.france24.com/es/video/20261125-directo-latam-y-el-balance-a-cinco-meses-del-doble-terremoto-en-venezuela",
-   "date": "2026-11-25T18:52:56+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "ded9c1021408",
-   "source": "France 24",
-   "title": "Informe desde Madrid: recta final de las campañas, marcada por la migración y el costo de vida",
-   "description": "Los partidos políticos en España aceleran motores en sus campañas para las elecciones generales del próximo 29 de noviembre. Mientras recorren el país, buscan convencer al electorado indeciso, que corresponde al 8%, según las últimas encuestas. Nuestra corresponsal Marina Colorad",
-   "url": "https://www.france24.com/es/video/20261125-informe-desde-madrid-recta-final-de-las-campa%C3%B1as-marcada-por-la-migraci%C3%B3n-y-el-costo-de-vida",
-   "date": "2026-11-25T18:52:26+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "ecd204d8c2ef",
-   "source": "CIPER Chile",
-   "title": "Chats de conservador Yáber revelan supuestas gestiones de Sergio Gahona e Issa Kort para nombrar a Bárbara Quintana en la Corte de Rancagua",
-   "description": "La entrada Chats de conservador Yáber revelan supuestas gestiones de Sergio Gahona e Issa Kort para nombrar a Bárbara Quintana en la Corte de Rancagua se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/25/chats-de-conservador-yaber-revelan-supuestas-gestiones-de-sergio-gahona-e-issa-kort-para-nombrar-a-barbara-quintana-en-la-corte-de-rancagua/?utm_source=rss&utm_medium=rss&utm_campaign=chats-de-conservador-yaber-revelan-supuestas-gestiones-de-sergio-gahona-e-issa-kort-para-nombrar-a-barbara-quintana-en-la-corte-de-rancagua",
-   "date": "2026-11-25T17:46:08+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1212,16 +1222,6 @@
    "type": "Prensa"
   },
   {
-   "id": "2aa449fb5a19",
-   "source": "CIPER Chile",
-   "title": "Conservador Yáber dejó un “sobre café” con un regalo en la casa de Héctor Mery para agradecer su nombramiento",
-   "description": "La entrada Conservador Yáber dejó un “sobre café” con un regalo en la casa de Héctor Mery para agradecer su nombramiento se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/25/conservador-yaber-dejo-un-sobre-cafe-con-un-regalo-en-la-casa-de-hector-mery-para-agradecer-su-nombramiento/?utm_source=rss&utm_medium=rss&utm_campaign=conservador-yaber-dejo-un-sobre-cafe-con-un-regalo-en-la-casa-de-hector-mery-para-agradecer-su-nombramiento",
-   "date": "2026-11-25T15:25:23+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "03e0c081a010",
    "source": "Ex-Ante",
    "title": "Collahuasi toma aire tras revés judicial: recomiendan aprobar proyecto de US$3.200 millones",
@@ -1249,16 +1249,6 @@
    "url": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
    "date": "2026-11-25T14:03:18+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "a9aea265d094",
-   "source": "CIPER Chile",
-   "title": "Hermosilla vuelve a apuntar a Chadwick: declaró que el exministro habría hablado con Piñera y senadores para nombrar a Vivanco",
-   "description": "La entrada Hermosilla vuelve a apuntar a Chadwick: declaró que el exministro habría hablado con Piñera y senadores para nombrar a Vivanco se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/25/hermosilla-vuelve-a-apuntar-a-chadwick-declaro-que-el-exministro-habria-hablado-con-pinera-y-senadores-para-nombrar-a-vivanco/?utm_source=rss&utm_medium=rss&utm_campaign=hermosilla-vuelve-a-apuntar-a-chadwick-declaro-que-el-exministro-habria-hablado-con-pinera-y-senadores-para-nombrar-a-vivanco",
-   "date": "2026-11-25T13:41:27+00:00",
-   "category": "Congreso Nacional",
    "type": "Prensa"
   },
   {
@@ -1452,16 +1442,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e60e904ab3fb",
-   "source": "CIPER Chile",
-   "title": "Siete de 18 reuniones del subsecretario de Obras Públicas en el Chile Day fueron con clientes del bufete en que fue socio",
-   "description": "La entrada Siete de 18 reuniones del subsecretario de Obras Públicas en el Chile Day fueron con clientes del bufete en que fue socio se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/24/siete-de-18-reuniones-del-subsecretario-de-obras-publicas-en-el-chile-day-fueron-con-clientes-del-bufete-en-que-fue-socio/?utm_source=rss&utm_medium=rss&utm_campaign=siete-de-18-reuniones-del-subsecretario-de-obras-publicas-en-el-chile-day-fueron-con-clientes-del-bufete-en-que-fue-socio",
-   "date": "2026-11-25T00:39:13+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "01c0b4c59531",
    "source": "Radio Cooperativa",
    "title": "La programación para las semifinales de la Copa Chile 2026",
@@ -1482,16 +1462,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0206dda80b81",
-   "source": "CIPER Chile",
-   "title": "El “Caso Rabat”: un análisis jurídico-constitucional",
-   "description": "La entrada El “Caso Rabat”: un análisis jurídico-constitucional se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/24/el-caso-rabat-un-analisis-juridico-constitucional/?utm_source=rss&utm_medium=rss&utm_campaign=el-caso-rabat-un-analisis-juridico-constitucional",
-   "date": "2026-11-25T00:09:06+00:00",
-   "category": "Derecho constitucional",
-   "type": "Prensa"
-  },
-  {
    "id": "5f5b01901c68",
    "source": "The Guardian",
    "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
@@ -1499,16 +1469,6 @@
    "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
    "date": "2026-11-24T23:50:31+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "0f2b0e118a63",
-   "source": "CIPER Chile",
-   "title": "Comisión de Seguridad aprueba proyecto que deroga rebajas de penas; condenan a siete acusados por megaincendio de 2024, y EE.UU. respalda candidatura de Chile por Tratado de Alta Mar",
-   "description": "La entrada Comisión de Seguridad aprueba proyecto que deroga rebajas de penas; condenan a siete acusados por megaincendio de 2024, y EE.UU. respalda candidatura de Chile por Tratado de Alta Mar se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/24/radar-24-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-24-11-26",
-   "date": "2026-11-24T23:36:58+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1529,16 +1489,6 @@
    "url": "https://www.dw.com/es/la-copa-américa-2028-se-jugará-en-estados-unidos-con-16-selecciones-de-la-conmebol-y-la-concacaf/a-80042001?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-24T21:57:00+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "8aa73e05e3b4",
-   "source": "Radio Cooperativa",
-   "title": "Los tres grandes en simultáneo: La programación de la última fecha de la Liga",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes A través del sitio web del Campeonato Chileno, la ANFP anunció la programación para la última fecha de la Liga de Primera 2026, con la particularidad de tener a Colo Colo, Universidad de Chile y Universidad Católica jugando",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/los-tres-grandes-en-simultaneo-la-programacion-de-la-ultima-fecha-de-la/2026-11-24/183716.html",
-   "date": "2026-11-24T21:37:16+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -1772,16 +1722,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f7986962abb4",
-   "source": "The Guardian",
-   "title": "Myanmar has been found guilty of genocide. Should Israel be worried? – podcast",
-   "description": "The international court of justice has for the first time ruled that a state has committed genocide. Yasmin Ullah explains what it means for the Rohingya people, while Kaamil Ahmed lays out how the case unfolded For seven years, Yasmin Ullah had been part of the delegation arguin",
-   "url": "https://www.theguardian.com/news/audio/2026/nov/24/myanmar-found-guilty-genocide-should-israel-be-worried-podcast",
-   "date": "2026-11-24T03:00:04+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "b4440bcd1a2a",
    "source": "Organización Mundial del Comercio",
    "title": "El Brasil solicita el establecimiento de un grupo especial de solución de diferencias en relación con los derechos adicionales impuestos por los Estados Unidos",
@@ -1790,16 +1730,6 @@
    "date": "2026-11-24T00:00:00+00:00",
    "category": "Tributación",
    "type": "Oficial"
-  },
-  {
-   "id": "cb41aaa6d95e",
-   "source": "CIPER Chile",
-   "title": "Ministerio de Justicia entrega más de 1.800 decretos de rebaja de condena; PDI realiza diligencia en el Senado por eventual firma falsa, y Kast anuncia agenda de 100 días para el empleo",
-   "description": "La entrada Ministerio de Justicia entrega más de 1.800 decretos de rebaja de condena; PDI realiza diligencia en el Senado por eventual firma falsa, y Kast anuncia agenda de 100 días para el empleo se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/23/radar-23-11-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-23-11-26",
-   "date": "2026-11-23T23:08:51+00:00",
-   "category": "Congreso Nacional",
-   "type": "Prensa"
   },
   {
    "id": "56e9f79599c5",
@@ -1830,16 +1760,6 @@
    "date": "2026-11-23T21:06:12+00:00",
    "category": "Finanzas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "5bdd8dacc42a",
-   "source": "CIPER Chile",
-   "title": "Carta de la defensa de Michael Clark y respuesta de CIPER",
-   "description": "La entrada Carta de la defensa de Michael Clark y respuesta de CIPER se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/23/carta-de-la-defensa-de-michael-clark-y-respuesta-de-ciper/?utm_source=rss&utm_medium=rss&utm_campaign=carta-de-la-defensa-de-michael-clark-y-respuesta-de-ciper",
-   "date": "2026-11-23T20:17:33+00:00",
-   "category": "",
-   "type": "Prensa"
   },
   {
    "id": "3f73feee647e",
@@ -1902,16 +1822,6 @@
    "type": "Académica"
   },
   {
-   "id": "3a35103a3c94",
-   "source": "CIPER Chile",
-   "title": "CAE: 20 años de una deuda ilegítima",
-   "description": "La entrada CAE: 20 años de una deuda ilegítima se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/23/cae-20-anos-de-una-deuda-ilegitima/?utm_source=rss&utm_medium=rss&utm_campaign=cae-20-anos-de-una-deuda-ilegitima",
-   "date": "2026-11-23T13:12:32+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "a7f87bd0c380",
    "source": "Naciones Unidas",
    "title": "La diáspora latinoamericana se triplica 30 años: 48 millones viven fuera de su país de nacimiento",
@@ -1942,16 +1852,6 @@
    "type": "Oficial"
   },
   {
-   "id": "1eb950e0a26e",
-   "source": "The Guardian",
-   "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-   "description": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s ne",
-   "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
-   "date": "2026-11-23T11:42:51+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "579aad3e62e6",
    "source": "BBC Mundo",
    "title": "Un empleado de Anthropic dice haber usado la IA para resolver uno de los más grandes problemas matemáticos",
@@ -1970,6 +1870,16 @@
    "date": "2026-11-23T10:36:08+00:00",
    "category": "América Latina",
    "type": "Prensa"
+  },
+  {
+   "id": "9d6b5304f1df",
+   "source": "Organización Mundial del Comercio",
+   "title": "Los Miembros reciben información sobre la historia de las restricciones a la exportación de alimentos y sobre un mecanismo de salvaguardia",
+   "description": "La historia de las negociaciones sobre las restricciones a la exportación de alimentos y un mecanismo de salvaguardia especial (MSE) propuesto para las economías en desarrollo centraron las reuniones del Comité de Agricultura el 23 de noviembre. Esta fue la más reciente de una se",
+   "url": "https://www.wto.org/spanish/news_s/news26_s/agng_23nov26_565_s.htm",
+   "date": "2026-11-23T00:00:00+00:00",
+   "category": "Comercio internacional",
+   "type": "Oficial"
   },
   {
    "id": "375b5f09ccdd",
@@ -2002,26 +1912,6 @@
    "type": "Oficial"
   },
   {
-   "id": "4d5fcc9dffd1",
-   "source": "BBC Mundo",
-   "title": "Pasé más de 10 años llevando por las montañas de Colombia los mensajes secretos que hicieron posible el acuerdo de paz entre el gobierno y las FARC",
-   "description": "Henry Acosta Patiño fue durante años el mensajero oculto entre el gobierno de Colombia y las FARC. Su papel en el detrás de escenas de las negociaciones fue clave para el acuerdo de paz firmado hace 10 años.",
-   "url": "https://www.bbc.com/mundo/articles/ckz74v0n4rydo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-22T14:00:13+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "df386208a929",
-   "source": "CIPER Chile",
-   "title": "Jaime Vadell: “Los mejores años de este país fueron con Allende”",
-   "description": "La entrada Jaime Vadell: “Los mejores años de este país fueron con Allende” se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/22/jaime-vadell-los-mejores-anos-de-este-pais-fueron-con-allende/?utm_source=rss&utm_medium=rss&utm_campaign=jaime-vadell-los-mejores-anos-de-este-pais-fueron-con-allende",
-   "date": "2026-11-22T12:32:30+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "386085e4c143",
    "source": "Naciones Unidas",
    "title": "La COP31 termina sin pacto climático por la división sobre los combustibles fósiles",
@@ -2032,16 +1922,6 @@
    "type": "Oficial"
   },
   {
-   "id": "35cc19084fe1",
-   "source": "CIPER Chile",
-   "title": "Yalta sin decoro: lo que Putin, Xi y Trump dejaron en Shenzhen",
-   "description": "La entrada Yalta sin decoro: lo que Putin, Xi y Trump dejaron en Shenzhen se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/22/yalta-sin-decoro-lo-que-putin-xi-y-trump-dejaron-en-shenzhen/?utm_source=rss&utm_medium=rss&utm_campaign=yalta-sin-decoro-lo-que-putin-xi-y-trump-dejaron-en-shenzhen",
-   "date": "2026-11-22T11:59:09+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "2c370581003f",
    "source": "BBC Mundo",
    "title": "\"Fui coaccionada para tener un hijo\": cómo un multimillonario engañó a la exitosa DJ Liv Nervo para que quedara embarazada",
@@ -2049,26 +1929,6 @@
    "url": "https://www.bbc.com/mundo/articles/cqm2ly382ylxo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-22T11:04:08+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "ef1589916afc",
-   "source": "BBC Mundo",
-   "title": "La princesa de Gales, Kate Middleton, habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC",
-   "description": "\"Hay una faceta mucho, mucho más profunda de cómo un cáncer te cambia\", dice la Princesa de Gales en el documental.",
-   "url": "https://www.bbc.com/mundo/articles/c6gregq1xynwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-21T22:57:24+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "db43f225e176",
-   "source": "CIPER Chile",
-   "title": "La Suprema desmantela la “doctrina Rabat”",
-   "description": "La entrada La Suprema desmantela la “doctrina Rabat” se publicó primero en CIPER Chile .",
-   "url": "https://www.ciperchile.cl/2026/11/20/la-suprema-desmantela-la-doctrina-rabat/?utm_source=rss&utm_medium=rss&utm_campaign=la-suprema-desmantela-la-doctrina-rabat",
-   "date": "2026-11-21T02:34:37+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -2229,16 +2089,6 @@
    "url": "https://www.wto.org/spanish/news_s/news26_s/stud_19nov26_558_s.htm",
    "date": "2026-11-19T00:00:00+00:00",
    "category": "Comercio internacional",
-   "type": "Oficial"
-  },
-  {
-   "id": "3ba34237e511",
-   "source": "Servicio Electoral",
-   "title": "Presidenta del Consejo Directivo de Servel participa en presentación de libro sobre Inés Enríquez Frödden",
-   "description": "La publicación recupera la trayectoria política y parlamentaria de quien, en 1951, se convirtió en la primera mujer en integrar la Cámara de Diputados de Chile. La presidenta del Consejo Directivo del Servicio Electoral de Chile, Pamela Figueroa, participó en la presentación del ",
-   "url": "https://www.servel.cl/Ch/app/presidenta-del-consejo-directivo-de-servel-participa-en-presentacion-de-libro-sobre-ines-enriquez-frodden/sin-categoria/",
-   "date": "2026-11-18T21:18:39+00:00",
-   "category": "Elecciones",
    "type": "Oficial"
   },
   {
