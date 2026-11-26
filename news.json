@@ -1,14 +1,104 @@
 {
- "updated": "2026-11-26T04:59:52.173582+00:00",
+ "updated": "2026-11-26T06:01:07.114573+00:00",
  "items": [
+  {
+   "id": "773285e0c865",
+   "source": "France 24",
+   "title": "Los hutíes se acercan a Adén mientras Arabia Saudita intenta frenar su avance",
+   "description": "El ejército saudí anunció este jueves que interceptó dos misiles balísticos hutíes dirigidos contra Riad, además de un misil de crucero y un dron en el oeste del país, sin que se reportaran víctimas. Los ataques se producen en medio de intercambios de bombardeos casi diarios y de",
+   "url": "https://www.france24.com/es/medio-oriente/20261126-los-hut%C3%ADes-se-acercan-a-ad%C3%A9n-mientras-arabia-saudita-intenta-frenar-su-avance",
+   "date": "2026-11-26T05:52:01+00:00",
+   "category": "Conflictos armados y seguridad internacional",
+   "type": "Prensa"
+  },
   {
    "id": "3de40d8c832e",
    "source": "The Guardian",
-   "title": "Australian politics live: Chalmers says unemployment rise a ‘very bad development’; Liberals ‘tossing up whether to leave or remain’, PM says",
+   "title": "Australian politics live: Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’",
    "description": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-26T04:48:07+00:00",
+   "date": "2026-11-26T05:45:46+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "b2484eee6539",
+   "source": "The Guardian",
+   "title": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
+   "description": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused about who to vote fo",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+   "date": "2026-11-26T05:30:32+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "8fe690c4ace1",
+   "source": "The Guardian",
+   "title": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release",
+   "description": "Yuki Imai being held in Moscow on allegations he conducted ‘espionage’ while working for a newspaper in Sakhalin island in Russia’s far east The wife of a Japanese journalist who has been detained in Russia for more than a month on suspicion of spying has issued an emotive appeal",
+   "url": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
+   "date": "2026-11-26T05:16:17+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "366a652269f2",
+   "source": "Al Jazeera",
+   "title": "Puerto Rico’s Supreme Court cancels major power contract",
+   "description": "The court's five-to-four ruling ends Luma Energy's operations after a contentious legal battle.",
+   "url": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+   "date": "2026-11-26T05:09:55+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b39d39f531b2",
+   "source": "The Guardian",
+   "title": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
+   "description": "Project capable of powering 300,000 homes, with Britain having offered more than £770m to rebuild energy sector Britain will add to its multimillion pound investments in rebuilding Ukraine’s energy system by funding a windfarm project capable of powering 300,000 Ukrainian househo",
+   "url": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
+   "date": "2026-11-26T05:00:46+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "cb0bae29c222",
+   "source": "Deutsche Welle",
+   "title": "Trece muertos y 13 desaparecidos tras inundación de mina ilegal de oro en Indonesia",
+   "description": "Los rescatistas buscan a posibles sobrevivientes, a una profundidad de 100 metros y en un terreno inestable.",
+   "url": "https://www.dw.com/es/trece-muertos-y-13-desaparecidos-tras-inundación-de-mina-ilegal-de-oro-en-indonesia/a-80056217?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-26T04:54:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "9c1c1e1d2e45",
+   "source": "BBC Mundo",
+   "title": "La España de los (casi) 50 millones: cómo la inmigración ha transformado el país en la última década y se ha convertido en tema clave de las elecciones",
+   "description": "Con casi 50 millones de habitantes y más muertes que nacimientos, España llega a las elecciones del 29 de noviembre en pleno debate sobre cómo gestionar la inmigración.",
+   "url": "https://www.bbc.com/mundo/articles/ckq5vgpwwq76o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T04:52:47+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "1320269e2cdd",
+   "source": "Al Jazeera",
+   "title": "Six killed, including children, in plane crash off Mississippi coast",
+   "description": "US authorities are investigating the reason behind the crash that killed members of the Stokes and Knox families.",
+   "url": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
+   "date": "2026-11-26T04:48:42+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "271cc31db0fd",
+   "source": "Al Jazeera",
+   "title": "Brazil blasts ‘unacceptable’ new US tariff proposals",
+   "description": "President Lula’s office says Brazil will not yield to threats and aims for a negotiated resolution.",
+   "url": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss",
+   "date": "2026-11-26T04:47:47+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -29,16 +119,6 @@
    "url": "https://www.dw.com/es/ee-uu-y-la-otan-instan-a-rusia-a-abstenerse-de-expandir-la-guerra-en-ucrania-y-a-obtener-una-solución-pacífica/a-80056210?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-26T04:45:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "b2484eee6539",
-   "source": "The Guardian",
-   "title": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
-   "description": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused about who to vote fo",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
-   "date": "2026-11-26T04:34:12+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -685,7 +765,7 @@
    "id": "9ed9e9a57ed4",
    "source": "The Guardian",
    "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
-   "description": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018 Andy Taylor, the guitarist with 80s pop megastars Duran Duran, has died aged 65. He had been diagnosed with stage four metastatic prostate cancer in 2018, which he disclosed publicly in 2022",
+   "description": "Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018 Duran Duran was transformed by Andy Taylor’s rock edge – and never quite the same without him Andy Taylor, the guitarist with 80s pop megastars Duran Duran, has died aged 65. He had been dia",
    "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
    "date": "2026-11-25T21:41:34+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -782,16 +862,6 @@
    "type": "Prensa"
   },
   {
-   "id": "a21d7d7945b0",
-   "source": "Al Jazeera",
-   "title": "Baby Aliyah steals the show during Australian Senate debate",
-   "description": "Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
-   "date": "2026-11-25T20:42:41+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "bd3ef884e19f",
    "source": "France 24",
    "title": "Bangladesh: protestas por el salario mínimo sacuden industria textil",
@@ -809,26 +879,6 @@
    "url": "https://www.france24.com/es/video/20261125-directo-a-guayaquil-y-la-investigaci%C3%B3n-de-ee-uu-por-operativo-militar-contra-alias-charlie",
    "date": "2026-11-25T20:37:28+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "0aced851fcea",
-   "source": "Al Jazeera",
-   "title": "What’s behind Europe’s protests?",
-   "description": "Increase in protests and industrial disputes across EU and UK.",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss",
-   "date": "2026-11-25T20:30:22+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "17915bf87a2c",
-   "source": "Al Jazeera",
-   "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
-   "description": "The judges' recommendations came as Israel's longest-serving prime minister fights for his political survival.",
-   "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
-   "date": "2026-11-25T20:29:22+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1012,16 +1062,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4ef8bc8ea059",
-   "source": "Deutsche Welle",
-   "title": "La guerra entre Ucrania y Rusia abre nuevos frentes en el mar",
-   "description": "Los ataques contra buques rusos llegan ya hasta el Mediterráneo. Kiev presiona a Moscú a escala global, con posibles consecuencias para Europa y el comercio en los mares de todo el mundo.",
-   "url": "https://www.dw.com/es/la-guerra-entre-ucrania-y-rusia-abre-nuevos-frentes-en-el-mar/a-80052271?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-25T18:38:00+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "5ebb4fca8395",
    "source": "France 24",
    "title": "25N | Del feminicidio al #MeToo: el papel de la justicia entre la denuncia y la supervivencia",
@@ -1069,16 +1109,6 @@
    "url": "https://www.ex-ante.cl/internacional/woodward-trump-cualquier-cosa-poder/",
    "date": "2026-11-25T17:46:04+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "c29a23d11725",
-   "source": "France 24",
-   "title": "El auge de los automóviles chinos conquista las calles de Costa de Marfil",
-   "description": "En apenas unos años, más de una decena de marcas automovilísticas chinas han desembarcado en Costa de Marfil y han ganado una creciente presencia en sus calles ¿Cómo han logrado estas marcas abrirse paso en el mercado marfileño, organizar su estrategia comercial y conquistar a un",
-   "url": "https://www.france24.com/es/programas/en-foco/20261125-el-auge-de-los-autom%C3%B3viles-chinos-conquista-las-calles-de-costa-de-marfil",
-   "date": "2026-11-25T17:37:14+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -1148,16 +1178,6 @@
    "description": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ If you want to hear more about the new death toll, listen to today’s Today in Focus podcast with our Russia expert, Pjotr Sauer. “Two groups of hackers accessed Russia’s main statistics data",
    "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
    "date": "2026-11-25T16:20:53+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "f404730d756a",
-   "source": "The Guardian",
-   "title": "Brussels on split-screen: where it flexes – and where it bends",
-   "description": "From a choreographed summit that dominated Westminster but barely registered in Brussels to a climate showdown in Turkey, last week revealed the EU’s priorities – and the limits of its collective power • Don’t get This Is Europe delivered to your inbox? Sign up here Two very diff",
-   "url": "https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit",
-   "date": "2026-11-25T15:39:54+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -1409,16 +1429,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
    "date": "2026-11-25T03:57:11+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "f2b98f20e765",
-   "source": "The Guardian",
-   "title": "China investigates politburo star in Xi Jinping’s latest purge",
-   "description": "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025 China has launched an investigation into Shanghai’s Communist party chief Chen Jining, a member of the country’s elite politburo, the state-r",
-   "url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
-   "date": "2026-11-25T01:31:46+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -2190,16 +2200,6 @@
    "date": "2026-11-19T12:00:00+00:00",
    "category": "Jurisprudencia",
    "type": "Oficial"
-  },
-  {
-   "id": "a2e0da9d6f06",
-   "source": "BBC Mundo",
-   "title": "5 formas sorprendentes de aumentar tu hierro (y no tienen nada que ver con la carne)",
-   "description": "Nuestros niveles de este mineral esencial dependen no solo de la cantidad que consumamos, sino de cómo lo absorbamos.",
-   "url": "https://www.bbc.com/mundo/articles/c8e39l3kwv1wo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T10:55:12+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
   },
   {
    "id": "ec27049b0f67",
