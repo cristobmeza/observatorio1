@@ -1,9 +1,10 @@
 {
- "updated": "2026-11-26T13:08:04.936736+00:00",
+ "updated": "2026-11-26T14:54:21.316566+00:00",
  "feeds": {
   "CIPER Chile": {
-   "ok": false,
-   "err": "The read operation timed out"
+   "ok": true,
+   "n": 16,
+   "url": "https://www.ciperchile.cl/feed/"
   },
   "Radio Bío-Bío": {
    "ok": true,
@@ -48,7 +49,7 @@
   },
   "Deutsche Welle": {
    "ok": true,
-   "n": 24,
+   "n": 25,
    "url": "https://rss.dw.com/xml/rss-sp-all"
   },
   "France 24": {
@@ -68,7 +69,7 @@
   },
   "Agencia EFE": {
    "ok": false,
-   "err": "HTTP Error 403: Forbidden"
+   "err": "HTTP Error 500: Internal Server Error"
   },
   "Biblioteca del Congreso Nacional": {
    "ok": false,
