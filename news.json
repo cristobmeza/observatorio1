@@ -1,14 +1,84 @@
 {
- "updated": "2026-11-26T03:53:45.036349+00:00",
+ "updated": "2026-11-26T04:59:52.173582+00:00",
  "items": [
   {
    "id": "3de40d8c832e",
    "source": "The Guardian",
-   "title": "Australian politics live: Liberals ‘tossing up whether to leave or remain’, Albanese says; Coalition warns energy prices to cause Christmas ‘pain’",
+   "title": "Australian politics live: Chalmers says unemployment rise a ‘very bad development’; Liberals ‘tossing up whether to leave or remain’, PM says",
    "description": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-26T03:47:22+00:00",
+   "date": "2026-11-26T04:48:07+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "dfbc8f2cb702",
+   "source": "The Guardian",
+   "title": "Flinders Island bushfire: Out-of-control fire with flames 10-metres high destroys at least six homes in Tasmania",
+   "description": "Fire making a ‘significant run’ towards the south-west of Flinders Island on Thursday, Tasmania Fire Service says Get our breaking news email , free app or daily news podcast Residents in the north of Flinders Island in Tasmania have been told to take shelter, as an out-of-contro",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
+   "date": "2026-11-26T04:47:36+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "4f4d7b597ab2",
+   "source": "Deutsche Welle",
+   "title": "EE.UU. y la OTAN instan a Rusia a abstenerse de “expandir la guerra” en Ucrania y a obtener una solución pacífica",
+   "description": "El presidente estadounidense, Donald Trump, y el jefe de la OTAN, Mark Rutte sostuvieron un encuentro en la residencia del presidente norteamericano en Florida.",
+   "url": "https://www.dw.com/es/ee-uu-y-la-otan-instan-a-rusia-a-abstenerse-de-expandir-la-guerra-en-ucrania-y-a-obtener-una-solución-pacífica/a-80056210?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-26T04:45:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "b2484eee6539",
+   "source": "The Guardian",
+   "title": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
+   "description": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused about who to vote fo",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+   "date": "2026-11-26T04:34:12+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "80ad484ffae0",
+   "source": "Deutsche Welle",
+   "title": "Arabia Saudita derriba más misiles hutíes dirigidos a su capital tras ataques en Yemen",
+   "description": "Antes, los hutíes reivindicaron ataques contra dos puertos saudíes en el mar Rojo, y contra el Centro Financiero Rey Abdullah de Riad y la refinería de Ras Tanura.",
+   "url": "https://www.dw.com/es/arabia-saudita-derriba-más-misiles-hutíes-dirigidos-a-su-capital-tras-ataques-en-yemen/a-80056045?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-26T04:19:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "15685680af39",
+   "source": "Al Jazeera",
+   "title": "Racecourse office blown away in Brazil",
+   "description": "A powerful storm shattered windows and sent debris flying inside a racetrack office in Brazil.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss",
+   "date": "2026-11-26T04:17:31+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "2694185ba0f1",
+   "source": "The Guardian",
+   "title": "Teen’s homicidal thoughts dismissed as ‘crap’ days before she killed 10-year-old, inquest hears",
+   "description": "Circumstances surrounding Bridgette ‘Biddy’ Porter’s death on rural NSW property being examined by coroner’s court Get our breaking news email , free app or daily news podcast Two days before a teenager killed a young girl while in the grips of psychosis, her father dismissed her",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/26/teens-homicidal-thoughts-dismissed-as-crap-before-killed-10-year-old-inquest-ntwnfb",
+   "date": "2026-11-26T04:11:34+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "42ed601d8567",
+   "source": "The Guardian",
+   "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+   "description": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat” and China accused Washi",
+   "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+   "date": "2026-11-26T03:54:24+00:00",
+   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -19,6 +89,26 @@
    "url": "https://www.cooperativa.cl/noticias/sociedad/astronomia/espacio/la-mision-hera-presento-hallazgos-sorprendentes-del-experimento-dart-de/2026-11-26/003333.html",
    "date": "2026-11-26T03:33:33+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "2e4eea76bcd7",
+   "source": "Al Jazeera",
+   "title": "Colombian president taunts arrested supermarket hostage-takers",
+   "description": "Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
+   "date": "2026-11-26T03:23:24+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "2ecc50ea4544",
+   "source": "Al Jazeera",
+   "title": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
+   "description": "Dario Amodei's remarks come amid predictions that AI may soon match or surpass human intelligence.",
+   "url": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
+   "date": "2026-11-26T03:20:23+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -62,6 +152,36 @@
    "type": "Prensa"
   },
   {
+   "id": "eafb9827983a",
+   "source": "France 24",
+   "title": "¿Qué tan graves son las consecuencias de la exposición al plomo para la salud y el medioambiente?",
+   "description": "El Ejército de Estados Unidos llevó a cabo una controvertida detonación controlada de cerca de 68 barriles de azida de plomo almacenados en la planta militar de municiones de Iowa, tras advertir que el material se había vuelto inestable y podía explotar de forma espontánea. La op",
+   "url": "https://www.france24.com/es/video/20261126-qu%C3%A9-tan-graves-son-las-consecuencias-de-la-exposici%C3%B3n-al-plomo-para-la-salud-y-el-medioambiente",
+   "date": "2026-11-26T02:52:14+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "80eb37faee98",
+   "source": "France 24",
+   "title": "EE. UU. celebra Acción de Gracias bajo la presión de la inflación y con alimentos y viajes caros",
+   "description": "Con una inflación interanual del 3,8% en octubre, los estadounidenses afrontan una celebración de Acción de Gracias marcada por el encarecimiento de la energía, los alimentos y los viajes. Los minoristas intentan contener los precios para atraer compradores de cara al Black Frida",
+   "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261126-ee-uu-celebra-acci%C3%B3n-de-gacias-bajo-la-presi%C3%B3n-de-la-inflaci%C3%B3n-y-con-alimentos-y-viajes-caros",
+   "date": "2026-11-26T02:51:17+00:00",
+   "category": "Economía nacional",
+   "type": "Prensa"
+  },
+  {
+   "id": "4f3cc1be7576",
+   "source": "France 24",
+   "title": "Colombia: rescatan a rehenes tras 16 horas de secuestro en supermercado de Cartagena",
+   "description": "Momentos de tensión se vivieron en Cartagena, donde un grupo de hombres armados mantuvo secuestrados durante 16 horas a trabajadores y clientes de un supermercado tras un fallido intento de robo a un vehículo blindado. En un operativo conjunto, la Policía y las Fuerzas Militares ",
+   "url": "https://www.france24.com/es/video/20261126-colombia-rescatan-a-rehenes-tras-16-horas-de-secuestro-en-supermercado-en-cartagena",
+   "date": "2026-11-26T02:49:37+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
    "id": "859ffcf2c4e0",
    "source": "Radio Cooperativa",
    "title": "Iansa anunció el fin de su producción de azúcar de remolacha",
@@ -74,7 +194,7 @@
   {
    "id": "1a30ea7bbaa5",
    "source": "BBC Mundo",
-   "title": "¿Podríamos desviar un asteroide peligroso? Los científicos publican imágenes de su primer intento",
+   "title": "Las imágenes del asteroide seleccionado para poner a prueba las defensas de la Tierra revelan un cráter del tamaño de un estadio",
    "description": "La superficie del asteroide se transformó después de que una nave espacial se estrellara deliberadamente contra él hace cuatro años.",
    "url": "https://www.bbc.com/mundo/articles/ck1l0j9lg0l7o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-26T02:44:48+00:00",
@@ -82,13 +202,13 @@
    "type": "Prensa"
   },
   {
-   "id": "b2484eee6539",
-   "source": "The Guardian",
-   "title": "Coalition would privatise Melbourne’s sewage treatment while selling state-owned land and renewables to fund Victorian election promises",
-   "description": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused about who to vote fo",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
-   "date": "2026-11-26T02:35:09+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "id": "1b651864c523",
+   "source": "France 24",
+   "title": "EE. UU. reaviva la guerra comercial: Brasil y China, en la mira de nuevos aranceles",
+   "description": "La política comercial de Donald Trump vuelve al centro del debate de cara a las elecciones de mitad de mandato en Estados Unidos. Tras una nueva investigación, Washington acusa a varios socios comerciales, entre ellos China, la Unión Europea, Japón y Brasil, de aplicar prácticas ",
+   "url": "https://www.france24.com/es/video/20261126-ee-uu-reaviva-la-guerra-comercial-brasil-y-china-en-la-mira-de-nuevos-aranceles",
+   "date": "2026-11-26T02:34:42+00:00",
+   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -99,6 +219,16 @@
    "url": "https://www.cooperativa.cl/noticias/mundo/argentina/ministro-de-economia-relativiza-la-recesion-argentina-la-definicion-es/2026-11-25/233339.html",
    "date": "2026-11-26T02:33:39+00:00",
    "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "128c4f8f3087",
+   "source": "France 24",
+   "title": "Las incógnitas del 7 de octubre: Israel busca crear una posible comisión de investigación",
+   "description": "La posible creación de una comisión de investigación sobre los ataques del 7 de octubre de 2023 marca un giro en la política israelí. Tras años de resistencia por parte de Benjamin Netanyahu, el Parlamento dio un primer paso para esclarecer los hechos que precedieron al ataque de",
+   "url": "https://www.france24.com/es/video/20261126-las-inc%C3%B3gnitas-del-7-de-octubre-israel-busca-crear-una-posible-comisi%C3%B3n-de-investigaci%C3%B3n",
+   "date": "2026-11-26T02:32:53+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -142,13 +272,13 @@
    "type": "Prensa"
   },
   {
-   "id": "dfbc8f2cb702",
-   "source": "The Guardian",
-   "title": "Out-of-control bushfire with flames 10-metres high destroys at least six homes on Flinders Island",
-   "description": "Fire making a ‘significant run’ towards the south-west of Flinders Island on Thursday, Tasmania Fire Service says Get our breaking news email , free app or daily news podcast Residents in the north of Flinders Island in Tasmania have been told to take shelter, as an out-of-contro",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
-   "date": "2026-11-26T01:59:30+00:00",
-   "category": "Relaciones internacionales y geopolítica",
+   "id": "71930a4eacf6",
+   "source": "Radio Cooperativa",
+   "title": "Concepción: comerciantes de Plaza Perú acusan impacto en ventas por desórdenes y enfrentamientos",
+   "description": "Comerciantes de Plaza Perú de Concepción (Región del Biobío) manifestaron su preocupación por los incidentes registrados en los últimos días durante manifestaciones en el sector , que terminaron con enfrentamientos con Carabineros y daños en las inmediaciones de una obra pública ",
+   "url": "https://www.cooperativa.cl/noticias/pais/manifestaciones/concepcion-comerciantes-de-plaza-peru-acusan-impacto-en-ventas-por/2026-11-25/225755.html",
+   "date": "2026-11-26T01:57:55+00:00",
+   "category": "América Latina",
    "type": "Prensa"
   },
   {
@@ -232,16 +362,6 @@
    "type": "Prensa"
   },
   {
-   "id": "37dfbdce0e4a",
-   "source": "The Guardian",
-   "title": "‘Turncoat’: Liberal senator Leah Blyth announces defection to One Nation, blindsiding Coalition",
-   "description": "South Australian senator labels One Nation the ‘only party with the bold ideas needed to turn this country around’ Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Leah Blyth, federal Liberal senator for Sou",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
-   "date": "2026-11-26T00:58:49+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "499847b8ecb4",
    "source": "France 24",
    "title": "25N: \"Ya no tendrás hijos, te hemos curado\", drama e impunidad ante las esterilizaciones forzadas",
@@ -269,16 +389,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
    "date": "2026-11-26T00:51:17+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "8ba11843d55f",
-   "source": "Radio Cooperativa",
-   "title": "El irónico mensaje de Javier Correa por su nominación en la Gala Crack 2026",
-   "description": "El argentino Javier Correa , delantero de Colo Colo, publicó un irónico comentario contra TNT Sports por su nominación como \"delantero por izquierda\" en la Gala Crack 2026, ceremonia que premiará el 7 de diciembre a los mejores de la temporada en el fútbol chileno. Correa compart",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/el-ironico-mensaje-de-javier-correa-por-su-nominacion-en-la-gala-crack/2026-11-25/215107.html",
-   "date": "2026-11-26T00:51:07+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -762,16 +872,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c57c24fd0a97",
-   "source": "Al Jazeera",
-   "title": "Migrant wrongly deported by Trump leaves US for Spain",
-   "description": "Kilmar Abrego Garcia has arrived in Spain with his wife after a 20-month legal battle with the Trump administration.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/migrant-wrongly-deported-by-trump-leaves-us-for-spain?traffic_source=rss",
-   "date": "2026-11-25T20:14:28+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "4f2feb16ccb2",
    "source": "The Guardian",
    "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
@@ -782,16 +882,6 @@
    "type": "Prensa"
   },
   {
-   "id": "fa8293d85003",
-   "source": "Al Jazeera",
-   "title": "Elderly man with Alzheimer’s rescued after 11 days in Amazon jungle",
-   "description": "A 74-year-old man with Alzheimer's has been found alive after missing for 11 days in Brazil's Amazon rainforest.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_man-with-alzheimers-rescued-after-11-days-in-amazon-251126?traffic_source=rss",
-   "date": "2026-11-25T19:57:08+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "a2b65ee6b8d2",
    "source": "Ex-Ante",
    "title": "No es un bache: es una tendencia",
@@ -799,16 +889,6 @@
    "url": "https://www.ex-ante.cl/afteroffice/no-es-un-bache-es-una-tendencia/",
    "date": "2026-11-25T19:50:58+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "035bca8c01ae",
-   "source": "Al Jazeera",
-   "title": "US Army declares Iowa lead azide detonation ‘tremendously successful’",
-   "description": "Army hails Iowa's lead azide disposal operation as some experts warn of potentially hidden toxins.",
-   "url": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
-   "date": "2026-11-25T19:41:49+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -942,16 +1022,6 @@
    "type": "Prensa"
   },
   {
-   "id": "803134bd1b2c",
-   "source": "Deutsche Welle",
-   "title": "Por qué los jóvenes de Albania protestan en lugar de emigrar",
-   "description": "Las manifestaciones de jóvenes contra un sistema político estancado y la corrupción sacuden al primer ministro de Albania, Edi Rama. Cada vez menos jóvenes están dispuestos a abandonar su país.",
-   "url": "https://www.dw.com/es/por-qué-los-jóvenes-de-albania-protestan-en-lugar-de-emigrar/a-80053516?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-25T18:36:00+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "5ebb4fca8395",
    "source": "France 24",
    "title": "25N | Del feminicidio al #MeToo: el papel de la justicia entre la denuncia y la supervivencia",
@@ -979,16 +1049,6 @@
    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261125-economia-brasil-tarifas-china-aranceles",
    "date": "2026-11-25T18:12:27+00:00",
    "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
-   "id": "49e4c4219cb7",
-   "source": "Deutsche Welle",
-   "title": "Canarias enfrenta crisis por masiva llegada de migrantes africanos",
-   "description": "El presidente canario declaró la emergencia sanitaria y pidió el despliegue de fuerzas militares. En solo un día llegaron 2.000 personas a bordo de cayucos.",
-   "url": "https://www.dw.com/es/canarias-enfrenta-crisis-por-masiva-llegada-de-migrantes-africanos/a-80054164?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-25T17:57:00+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -1072,16 +1132,6 @@
    "type": "Prensa"
   },
   {
-   "id": "1e6db347e9e9",
-   "source": "France 24",
-   "title": "¿Cómo se desarrolló la toma y el rescate de rehenes en un supermercado de Colombia?",
-   "description": "",
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261125-c%C3%B3mo-se-desarroll%C3%B3-la-toma-y-el-rescate-de-rehenes-en-un-supermercado-de-colombia",
-   "date": "2026-11-25T16:35:34+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
    "id": "a2d95639c95d",
    "source": "Ex-Ante",
    "title": "El Rosal: el ambicioso proyecto de Max Luksic para crear un nuevo pulmón verde en Santiago",
@@ -1099,36 +1149,6 @@
    "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
    "date": "2026-11-25T16:20:53+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "8839206878e3",
-   "source": "France 24",
-   "title": "Informe desde Beijing: investigan al jefe del Partido en Shanghái por corrupción",
-   "description": "El organismo anticorrupción de China inició una investigación contra el jefe del Partido Comunista en Shanghái, Chen Jining. Se trata de la cuarta investigación de este tipo en el Politburó desde 2025. Chen es investigado por presuntas violaciones \"graves de la disciplina y las l",
-   "url": "https://www.france24.com/es/video/20261125-informe-desde-beijing-investigan-al-jefe-del-partido-en-shangh%C3%A1i-por-corrupci%C3%B3n",
-   "date": "2026-11-25T15:58:24+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "6848317b2448",
-   "source": "France 24",
-   "title": "Hutíes reivindican ataque contra emblemático rascacielos de Arabia Saudita",
-   "description": "El rascacielos, símbolo del poderío financiero de Arabia Saudita, fue alcanzado por un ataque perpetrado por los hutíes de Yemen y dejó varias personas heridas, según la Defensa Civil del Gobierno. Hace una semana, el mismo rascacielos fue alcanzado por proyectiles, lo que dañó l",
-   "url": "https://www.france24.com/es/video/20261125-hut%C3%ADes-reivindican-ataque-contra-emblem%C3%A1tico-rascacielos-de-arabia-saudita",
-   "date": "2026-11-25T15:54:50+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "a0cc063f20c5",
-   "source": "France 24",
-   "title": "España: una economía que crece, pero con salarios que no alcanzan",
-   "description": "En España, el país que más crece de la zona euro, el alto costo de la vida dificulta cubrir todos los gastos. Amalia Germania Vera Vera hace largas filas en Madrid para acudir a un mercado gratuito para personas vulnerables. El Instituto Nacional de Estadística refleja una subida",
-   "url": "https://www.france24.com/es/video/20261125-espa%C3%B1a-una-econom%C3%ADa-que-crece-pero-con-salarios-que-no-alcanzan",
-   "date": "2026-11-25T15:54:25+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -1589,16 +1609,6 @@
    "url": "https://www.dw.com/es/el-drama-de-jamal-musiala-desmayos-y-millones-sacuden-al-bayern/a-80035521?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-24T15:25:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "1c38c944ca24",
-   "source": "The Guardian",
-   "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
-   "description": "Trump’s reaction to sensitive information that contradicts his worldview mirrors his conduct towards war with Iran Donald Trump’s unwillingness to heed warnings of suspected Chinese penetration of the tech giant Nvidia follows a pattern of the US president ignoring sensitive inte",
-   "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
-   "date": "2026-11-24T14:00:48+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
