@@ -1,6 +1,146 @@
 {
- "updated": "2026-11-26T07:18:00.709354+00:00",
+ "updated": "2026-11-26T08:57:19.008893+00:00",
  "items": [
+  {
+   "id": "d6b8e41f0b62",
+   "source": "Al Jazeera",
+   "title": "Explosion occurs at oil facility in Thailand’s Bangkok",
+   "description": "Authorities urge residents in area surrounding oil depot in eastern Bangkok to evacuate their homes.",
+   "url": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss",
+   "date": "2026-11-26T08:49:20+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "faa5822928ae",
+   "source": "France 24",
+   "title": "¿Quién es Santiago Abascal? El líder de Vox y el cohesionador de la ultraderecha española",
+   "description": "Santiago Abascal es el candidato para la Presidencia del Gobierno del partido Vox. Tras más de una década al frente de esta formación, este líder vasco se ha consolidado como la cara visible del sector más conservador del espectro político de España. Ahora, para las elecciones ge",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261126-qui%C3%A9n-es-santiago-abascal-el-l%C3%ADder-de-vox-y-el-cohesionador-de-la-ultraderecha-espa%C3%B1ola",
+   "date": "2026-11-26T08:44:29+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "03a2e65fc209",
+   "source": "The Guardian",
+   "title": "EU leaders brace for tough talks on budget and Ukraine – Europe live",
+   "description": "António Costa says the next long-term budget is ‘the most important’ item on the agenda Sweden’s Ulf Kristersson suggested the talks could even go beyond December and into 2027, as with the budget kicking in only in 2028, “we aren’t in that hurry.” He said the leaders should see ",
+   "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+   "date": "2026-11-26T08:39:02+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "feb3ddcfdce0",
+   "source": "Al Jazeera",
+   "title": "Thanksgiving and National Day of Mourning: What is the history?",
+   "description": "Indigenous activists challenge Thanksgiving narratives and highlight ongoing struggles for sovereignty and recognition.",
+   "url": "https://www.aljazeera.com/news/2026/11/26/thanksgiving-and-national-day-of-mourning-what-is-the-history?traffic_source=rss",
+   "date": "2026-11-26T08:33:51+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "b742b9bc004d",
+   "source": "Al Jazeera",
+   "title": "Ms Rachel on Gaza: ‘everybody should speak out’",
+   "description": "US content creator Ms Rachel has called for more celebrities to speak out against the Gaza genocide.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ms-rachel-on-gaza-everybody-should-speak?traffic_source=rss",
+   "date": "2026-11-26T08:29:53+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "c2bedfa3892c",
+   "source": "Al Jazeera",
+   "title": "Rescuers recover bodies after flood at illegal Indonesia gold mine",
+   "description": "At least 13 miners died and others remain missing after heavy rain flooded an illegal gold mine in West Java, Indonesia.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/rescuers-recover-bodies-after-flood-at-illegal-indonesia-gold-mine?traffic_source=rss",
+   "date": "2026-11-26T08:23:51+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "199fb92e4f7e",
+   "source": "The Guardian",
+   "title": "UK watchdog calls for shake-up of private dentistry market amid ‘catalogue of concerns’",
+   "description": "CMA report highlights inflation-busting annual rises and practices that ‘may not operate in patients’ best interests’ Business live – latest updates The UK’s competition watchdog has called for a shake-up of the £8bn private dentistry market , after an investigation identified a ",
+   "url": "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
+   "date": "2026-11-26T08:13:01+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "b2484eee6539",
+   "source": "The Guardian",
+   "title": "Coalition to privatise Melbourne sewage plants and sell state land and renewables if it wins election",
+   "description": "Liberal and Nationals’ policy costings also reveal ‘air rights’ between Richmond train station and MCG would be sold Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies Get our daily political email , f",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+   "date": "2026-11-26T08:07:24+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "462f10d487a1",
+   "source": "The Guardian",
+   "title": "Children’s hospitals close beds to comply with NHS cost-cutting targets",
+   "description": "Sheffield children’s hospital, Liverpool’s Alder Hey and London’s Great Ormond Street make cuts amid efforts to major savings Children’s hospitals are closing beds and shedding staff to comply with swingeing cost-cutting targets set by NHS chiefs to stop the health service oversp",
+   "url": "https://www.theguardian.com/society/2026/nov/26/childrens-hospitals-close-beds-to-comply-with-nhs-cost-cutting-targets",
+   "date": "2026-11-26T08:05:47+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "83f4d95fbfd8",
+   "source": "Al Jazeera",
+   "title": "Photos: Rallies around the world denounce violence against women",
+   "description": "About 47,000 women and girls were intentionally killed by an intimate partner or family member last year, UN data shows.",
+   "url": "https://www.aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women?traffic_source=rss",
+   "date": "2026-11-26T07:43:14+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "3cb845771bd3",
+   "source": "Al Jazeera",
+   "title": "DR Congo Ebola cases surpass 12,000 as fighting disrupts response in east",
+   "description": "Authorities struggle to contain country's worst Ebola outbreak, as fighting in east displaces health workers, civilians.",
+   "url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
+   "date": "2026-11-26T07:41:30+00:00",
+   "category": "África",
+   "type": "Prensa"
+  },
+  {
+   "id": "8b7f1bcfe3ca",
+   "source": "Al Jazeera",
+   "title": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
+   "description": "Rescue workers facing tough conditions, with narrow, deep and slippery excavation pits and minimal lighting.",
+   "url": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
+   "date": "2026-11-26T07:38:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "03ec637ec24b",
+   "source": "Al Jazeera",
+   "title": "French navy intercepts suspected drug-smuggling semi-submersible",
+   "description": "French forces intercepted a semi-submersible suspected of drug trafficking in the Atlantic.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/french-navy-intercepts-suspected-drug-smuggling-semi-submersible?traffic_source=rss",
+   "date": "2026-11-26T07:15:39+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "d20351a12ab2",
+   "source": "France 24",
+   "title": "En directo: la Unión Europea llega dividida a una cumbre clave sobre la financiación de Kiev",
+   "description": "Los líderes de la Unión Europea se reúnen en Bruselas entre desacuerdos sobre un nuevo préstamo de 45.000 millones de euros para Ucrania. En la zona de Zaporizhia ocupada por Rusia, un ataque con drones dejó al menos cinco muertos, según las autoridades prorrusas. Moscú afirma ha",
+   "url": "https://www.france24.com/es/europa/20261126-en-directo-la-uni%C3%B3n-europea-llega-dividida-a-una-cumbre-clave-sobre-la-financiaci%C3%B3n-de-kiev",
+   "date": "2026-11-26T07:13:41+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
   {
    "id": "b182cbc717a6",
    "source": "Al Jazeera",
@@ -134,8 +274,8 @@
   {
    "id": "3b158ca2805e",
    "source": "The Guardian",
-   "title": "Timms review puts rare focus on improving benefits system for disabled claimants",
-   "description": "The review tackles some big questions about a flawed system – but leaves other issues in the ‘maybe later’ drawer Stephen Timms would be forgiven for feeling his thunder has been stolen. The minister for social security has spent the last year reviewing personal independence paym",
+   "title": "Welfare overhaul plans put rare focus on improving benefits system for disabled claimants",
+   "description": "Timms review tackles some big questions about a flawed system – but leaves other issues in the ‘maybe later’ drawer Stephen Timms would be forgiven for feeling his thunder has been stolen. The minister for social security has spent the last year reviewing personal independence pa",
    "url": "https://www.theguardian.com/world/2026/nov/26/timms-review-pip-disability-benefits-claimants",
    "date": "2026-11-26T06:00:47+00:00",
    "category": "Relaciones internacionales y geopolítica",
@@ -154,21 +294,11 @@
   {
    "id": "3537728779eb",
    "source": "Al Jazeera",
-   "title": "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
-   "description": "Bank of Korea raises key rate by 0.25 percent amid booming exports of AI chips.",
+   "title": "South Korea’s central bank hikes interest rates amid AI chip boom",
+   "description": "Bank of Korea raises key rate by 0.25 percent amid booming exports of semiconductors.",
    "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
    "date": "2026-11-26T05:49:40+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "b2484eee6539",
-   "source": "The Guardian",
-   "title": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
-   "description": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused about who to vote fo",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
-   "date": "2026-11-26T05:30:32+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -502,36 +632,6 @@
    "type": "Prensa"
   },
   {
-   "id": "44c3c9798752",
-   "source": "Al Jazeera",
-   "title": "Photos: Storms and an El Nino-charged king tide batter California’s coast",
-   "description": "Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.",
-   "url": "https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss",
-   "date": "2026-11-26T01:40:13+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "bc0e73efb5ea",
-   "source": "Al Jazeera",
-   "title": "Ukraine says five jets damaged in attack on Russia’s Savasleyka airbase",
-   "description": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
-   "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
-   "date": "2026-11-26T01:39:46+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "684cc950aa33",
-   "source": "Al Jazeera",
-   "title": "ICE officers smash car window, pepper spray bystanders",
-   "description": "Masked ICE agents smashed a car window and forcibly opened its door to arrest a man in California.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ice-officers-smash-car-window-pepper-spray-bystanders?traffic_source=rss",
-   "date": "2026-11-26T01:33:50+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "ce4cd4113558",
    "source": "Radio Cooperativa",
    "title": "Kast: La Sala Cuna Universal elimina una barrera que por 100 años condicionó la contratación femenina",
@@ -552,16 +652,6 @@
    "type": "Prensa"
   },
   {
-   "id": "bc516cefee34",
-   "source": "Al Jazeera",
-   "title": "Judges recommend prosecutors end corruption case against Netanyahu",
-   "description": "Israeli judges have ruled there is little prospect Benjamin Netanyahu will be convicted of corruption.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
-   "date": "2026-11-26T01:08:43+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "499847b8ecb4",
    "source": "France 24",
    "title": "25N: \"Ya no tendrás hijos, te hemos curado\", drama e impunidad ante las esterilizaciones forzadas",
@@ -569,26 +659,6 @@
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261126-25n-ya-no-tendr%C3%A1s-hijos-te-hemos-curado-drama-e-impunidad-ante-las-esterilizaciones-forzadas",
    "date": "2026-11-26T00:56:28+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "2807ae60000d",
-   "source": "Al Jazeera",
-   "title": "Storms push Macy’s Thanksgiving Day Parade in New York City to Saturday",
-   "description": "The parade, which marks its 100th edition, got a last-minute rain check ahead of heavy gusts on Thursday.",
-   "url": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss",
-   "date": "2026-11-26T00:52:56+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "04445e7df011",
-   "source": "Al Jazeera",
-   "title": "ISIL blamed for multiple suicide attacks in Syria",
-   "description": "ISIL suicide attack kills two in an assault on a security post in northeastern Syria.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
-   "date": "2026-11-26T00:51:17+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -612,16 +682,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e8f747977a60",
-   "source": "Al Jazeera",
-   "title": "Two Syrian security personnel killed in ISIL suicide attack",
-   "description": "Syrian forces say the attack in northeastern Syria's city of Hasakah involved four assailants who were all killed.",
-   "url": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss",
-   "date": "2026-11-26T00:41:49+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "0b1eb490ffe7",
    "source": "The Guardian",
    "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
@@ -632,16 +692,6 @@
    "type": "Prensa"
   },
   {
-   "id": "00df02f8718a",
-   "source": "Al Jazeera",
-   "title": "Zambia bans protest against push to remove presidential term limits",
-   "description": "Critics fear the campaign could undermine democratic safeguards as senior opposition figures remain behind bars.",
-   "url": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss",
-   "date": "2026-11-26T00:22:15+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "41f704b05c32",
    "source": "The Guardian",
    "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
@@ -649,26 +699,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
    "date": "2026-11-26T00:05:50+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "3907d9ad6ad8",
-   "source": "The Guardian",
-   "title": "Ministers to create new stalking offence and scrap need for proof of fear or distress",
-   "description": "Victims’ commissioner welcomes strengthening of law in England and Wales but calls for measures to tackle convicted stalkers Ministers will create a new stalking offence so that victims will no longer have to prove fear or distress to seek protection under the law, the Home Offic",
-   "url": "https://www.theguardian.com/world/2026/nov/26/ministers-create-new-stalking-offence-scrap-need-for-proof-victims-fear-distress",
-   "date": "2026-11-26T00:01:40+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "daf8bd52689f",
-   "source": "The Guardian",
-   "title": "Social media making it harder for UK parents to raise families, survey finds",
-   "description": "Poll of parents of young children finds three-quarters think pressure from influencers has increased their anxiety Parents of children aged five and under say pressure from social media influencers to be “the perfect parent” is making it harder to raise a family, according to a s",
-   "url": "https://www.theguardian.com/media/2026/nov/26/social-media-making-it-harder-for-uk-parents-to-raise-families-survey-finds",
-   "date": "2026-11-26T00:01:40+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1082,16 +1112,6 @@
    "type": "Prensa"
   },
   {
-   "id": "deedf0f75cb2",
-   "source": "France 24",
-   "title": "Estados Unidos propone nuevos aranceles tras investigación de la USTR",
-   "description": "Un total de 14 economías, entre ellas China y la Unión Europea, se verían afectadas por nuevas tarifas si en definitiva la Oficina del Representante Comercial de Estados Unidos (USTR) aplica la medida tras concluir una investigación en la que determina que las prácticas aplicadas",
-   "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261125-economia-brasil-tarifas-china-aranceles",
-   "date": "2026-11-25T18:12:27+00:00",
-   "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
    "id": "ecd204d8c2ef",
    "source": "CIPER Chile",
    "title": "Chats de conservador Yáber revelan supuestas gestiones de Sergio Gahona e Issa Kort para nombrar a Bárbara Quintana en la Corte de Rancagua",
@@ -1169,16 +1189,6 @@
    "url": "https://www.ex-ante.cl/cronica/el-ambicioso-proyecto-de-max-luksic/",
    "date": "2026-11-25T16:31:19+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "abcd8e112d57",
-   "source": "The Guardian",
-   "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – as it happened",
-   "description": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ If you want to hear more about the new death toll, listen to today’s Today in Focus podcast with our Russia expert, Pjotr Sauer. “Two groups of hackers accessed Russia’s main statistics data",
-   "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
-   "date": "2026-11-25T16:20:53+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
