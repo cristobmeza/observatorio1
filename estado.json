@@ -1,9 +1,10 @@
 {
- "updated": "2026-11-26T02:21:46.190643+00:00",
+ "updated": "2026-11-26T03:53:45.036349+00:00",
  "feeds": {
   "CIPER Chile": {
-   "ok": false,
-   "err": "The read operation timed out"
+   "ok": true,
+   "n": 16,
+   "url": "https://www.ciperchile.cl/feed/"
   },
   "Radio Bío-Bío": {
    "ok": true,
