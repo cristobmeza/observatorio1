@@ -1,6 +1,196 @@
 {
- "updated": "2026-11-27T06:03:42.532966+00:00",
+ "updated": "2026-11-27T08:27:06.520173+00:00",
  "items": [
+  {
+   "id": "756c348064dd",
+   "source": "Al Jazeera",
+   "title": "Deadly floods leave parts of Ecuador under water",
+   "description": "Deadly floods have submerged homes, businesses and roads across Ecuador.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/deadly-floods-leave-parts-of-ecuador-under-water?traffic_source=rss",
+   "date": "2026-11-27T08:24:18+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "3e4b7fe5288b",
+   "source": "The Guardian",
+   "title": "Banks may pass on £1.5bn tax rise on to customers, warns Bank of England chief",
+   "description": "Big lenders will aim to ‘protect their earnings’ amid temporary increase in corporation tax surcharge, says Andrew Bailey Business live – latest updates The governor of the Bank of England has warned that banks could look to pass on the £1.5bn cost of Labour’s increase to tax on ",
+   "url": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
+   "date": "2026-11-27T08:17:13+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "36a40c271127",
+   "source": "Al Jazeera",
+   "title": "New Zealand election results set up tricky talks for conservative incumbent",
+   "description": "Conservative PM Luxon and populist coalition partners face negotiations with centrist kingmaker.",
+   "url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
+   "date": "2026-11-27T07:55:32+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "017adef29d92",
+   "source": "Al Jazeera",
+   "title": "‘Borrowing to make ends meet’: The rising cost of living in Europe",
+   "description": "Prices are climbing again across Europe as energy costs surge.",
+   "url": "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss",
+   "date": "2026-11-27T07:53:59+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "97317ca9149c",
+   "source": "Al Jazeera",
+   "title": "Brazilian footballer arrested in drug trafficking investigation",
+   "description": "Brazilian footballer David Correa da Fonseca was arrested during a Vasco da Gama training session in Rio de Janeiro.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-brazil-footballer-arrested-drug-trafficking-investigation?traffic_source=rss",
+   "date": "2026-11-27T07:32:12+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "5ef259466dae",
+   "source": "Al Jazeera",
+   "title": "Sandpapergate forum to investigate Australia-England Ashes Tests",
+   "description": "Sandpapergate forum scope to cover entire 2017-18 season, including Ashes series, in South Africa allegations follow-up.",
+   "url": "https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss",
+   "date": "2026-11-27T07:24:45+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "837c1e3faed7",
+   "source": "Al Jazeera",
+   "title": "Can the Mecca pact turn its collective defence promise into real support?",
+   "description": "Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the kingdom continue and Iran talks stay open.",
+   "url": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss",
+   "date": "2026-11-27T07:16:30+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "9ea9ee579459",
+   "source": "Al Jazeera",
+   "title": "Hakeem Jeffries has disarmed a progressive revolt, but can he deliver?",
+   "description": "The presumptive House speaker's political pragmatism will be tested by divisions over healthcare, Israel and Iran.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/27/hakeem-jeffries-has-disarmed-a-progressive-revolt-but-can-he-deliver?traffic_source=rss",
+   "date": "2026-11-27T07:11:19+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "8ca9c85e175f",
+   "source": "Al Jazeera",
+   "title": "Western sanctions on Israeli settlers serve to shield the Israeli state",
+   "description": "The settler takeover in Jericho exposes the inadequacy of sanctions targeting only settlers and their organisations.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state?traffic_source=rss",
+   "date": "2026-11-27T07:09:53+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "14bffb612818",
+   "source": "The Guardian",
+   "title": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
+   "description": "Body urged Bristol city council to reject plan because of risk to nearby protected wildlife and habitats Natural England objected to the building of a large AI datacentre near Bristol weeks before the government threatened to abolish the independent environmental adviser. The nat",
+   "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
+   "date": "2026-11-27T07:00:57+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "fd2ac5b0ce02",
+   "source": "The Guardian",
+   "title": "Grace Tame calls out ex-Murdoch media executive who said she ‘must be looking to be raped again’",
+   "description": "Matt Handbury, nephew of Rupert Murdoch, admits making offensive remark and says he was referencing assault survivor’s ‘strikingly attractive get-up’ Get our breaking news email , free app or daily news podcast A former Murdoch media executive has admitted he said Grace Tame “mus",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/27/grace-tame-responds-former-murdoch-executive-nephew-rape-comment-ntwnfb",
+   "date": "2026-11-27T06:54:59+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c9f8f0b7cdf2",
+   "source": "Al Jazeera",
+   "title": "Messi confirms Tevez testimonial as Ronaldo showdown in offing",
+   "description": "Argentina footballer Lionel Messi confirms testimonial game for Carlos Tevez, with Cristiano Ronaldo role also sought.",
+   "url": "https://www.aljazeera.com/sports/2026/11/27/messi-confirms-tevez-testimonial-as-ronaldo-showdown-in-offing?traffic_source=rss",
+   "date": "2026-11-27T06:54:12+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "9f5dcaf2507a",
+   "source": "Deutsche Welle",
+   "title": "Australia sanciona a dos hombres ligados a Irán y a la coordinación de ataques antisemitas en ese país",
+   "description": "Los sancionados son Zohair Hassib y Kazem Hamad, a quienes se les vincula a dos ataques en Australia.",
+   "url": "https://www.dw.com/es/australia-sanciona-a-dos-hombres-ligados-a-irán-y-a-la-coordinación-de-ataques-antisemitas-en-ese-país/a-80070666?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-27T06:38:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "cb9c9daf5b26",
+   "source": "Al Jazeera",
+   "title": "French, Bulgarian presidents slam Marseille violence, five fans in hospital",
+   "description": "French and Bulgarian presidents slam Marseille fans after violent scenes in UEFA Europa League match with Levski Sofia.",
+   "url": "https://www.aljazeera.com/sports/2026/11/27/french-bulgarian-presidents-slam-marseille-violence-five-fans-in-hospital?traffic_source=rss",
+   "date": "2026-11-27T06:37:34+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "2ef1479eef00",
+   "source": "The Guardian",
+   "title": "‘Absolute jerk’: police investigating after 500-year-old ‘King Jarrah’ tree chainsawed in WA national park",
+   "description": "Western Australian authorities are scrambling to save the ‘iconic’ 36-metre tree in Wellington national park south of Perth Get our breaking news email , free app or daily news podcast Western Australian authorities say they are considering “all options” in their race to save a b",
+   "url": "https://www.theguardian.com/environment/2026/nov/27/wa-police-investigating-after-iconic-500-year-old-king-jarrah-tree-chainsawed-in-national-park",
+   "date": "2026-11-27T06:36:40+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a13d70a1a595",
+   "source": "Al Jazeera",
+   "title": "‘You can’t stop it’: Indians embrace Pakistani dramas, defying bans",
+   "description": "India has tried to keep Pakistani dramas off its screens since May 2025. But Indians can't get enough of these shows.",
+   "url": "https://www.aljazeera.com/news/2026/11/27/you-cant-stop-it-indians-embrace-pakistani-dramas-defying-bans?traffic_source=rss",
+   "date": "2026-11-27T06:31:28+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "1f4524a58f5d",
+   "source": "The Guardian",
+   "title": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+   "description": "What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscape As a student in the central Nigerian city of Ilorin, Lawal Habeeb Kola loved staying in his hostel room to produce beats rather than retu",
+   "url": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+   "date": "2026-11-27T06:00:56+00:00",
+   "category": "África",
+   "type": "Prensa"
+  },
+  {
+   "id": "8bca290f9628",
+   "source": "The Guardian",
+   "title": "Up to 1.4m UK workers risk missing out on zero-hours shake-up, say unions",
+   "description": "Andy Burnham is warned against calls from bosses to water down employment rights legislation Andy Burnham is being warned that 1.4 million workers will be at risk of being stuck in insecure jobs if a forthcoming ban on zero-hours contracts is watered down. The prime minister is u",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up",
+   "date": "2026-11-27T06:00:55+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "b4fe363ef1f6",
+   "source": "Al Jazeera",
+   "title": "India’s Pant plays for New Zealand side under false name ‘Stan Stan’",
+   "description": "Rishabh Pant plays for Open House Swingers in New Zealand on eve of second Test as India wicketkeeper uses false name.",
+   "url": "https://www.aljazeera.com/sports/2026/11/27/indias-pant-plays-for-new-zealand-side-under-false-name-stan-stan?traffic_source=rss",
+   "date": "2026-11-27T06:00:39+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
   {
    "id": "33483bb3d9d3",
    "source": "Al Jazeera",
@@ -122,10 +312,20 @@
    "type": "Prensa"
   },
   {
+   "id": "a50e89a1179a",
+   "source": "France 24",
+   "title": "¿Quiebre en la relación Canadá-monarquía? Diputados de Quebec se niegan a jurar lealtad a Carlos III",
+   "description": "Los recién posicionados diputados del partido independentista de Quebec y su primer ministro anunciaron que en la próxima legislatura no jurarán lealtad al rey Carlos III, quien sigue siendo el mandatario de los canadienses, pese a una orden del Tribunal Superior. ¿Se trata de un",
+   "url": "https://www.france24.com/es/video/20261127-quiebre-en-la-relaci%C3%B3n-canad%C3%A1-monarqu%C3%ADa-diputados-de-quebec-se-niegan-a-jurar-lealtad-a-carlos-iii",
+   "date": "2026-11-27T03:47:28+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
+  {
    "id": "c80ae0d68d55",
    "source": "Deutsche Welle",
    "title": "Los candidatos a la Presidencia del Gobierno de España se enfrentan en último debate antes de las elecciones",
-   "description": "Los principales líderes se enfrentaron a solo tres días para que se desarrollen las elecciones generales.",
+   "description": "Los principales líderes se enfrentaron a solo tres días de que se desarrollen las elecciones generales.",
    "url": "https://www.dw.com/es/los-candidatos-a-la-presidencia-del-gobierno-de-españa-se-enfrentan-en-último-debate-antes-de-las-elecciones/a-80070402?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-27T03:46:00+00:00",
    "category": "Elecciones",
@@ -159,16 +359,6 @@
    "url": "https://www.cooperativa.cl/noticias/pais/dd-hh/caso-rabat-los-violadores-de-derechos-humanos-liberados-en-los-ultimos/2026-11-27/001427.html",
    "date": "2026-11-27T03:14:27+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "62a09ac8f1b9",
-   "source": "The Guardian",
-   "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
-   "description": "As bushfires ravage Flinders Island, Victorians can expect a wet and windy election day as storms forecast on east coast Get our breaking news email , free app or daily news podcast Major fires are among a multitude of weather extremes forecast across Australia on Friday and into",
-   "url": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
-   "date": "2026-11-27T03:14:10+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -412,26 +602,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0ba5a718a9e6",
-   "source": "Al Jazeera",
-   "title": "Inside Ukraine’s power crisis amid its war with Russia",
-   "description": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
-   "date": "2026-11-27T00:46:19+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "fb27591d4294",
-   "source": "Al Jazeera",
-   "title": "America’s Thanksgiving holiday seen through different eyes",
-   "description": "As millions of Americans celebrate Thanksgiving, Indigenous people gather in Plymouth for the National Day of Mourning.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss",
-   "date": "2026-11-27T00:41:28+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "7c31c6680723",
    "source": "Radio Cooperativa",
    "title": "Codelco anunció dos nuevos vicepresidentes y una nueva gerenta general",
@@ -439,26 +609,6 @@
    "url": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/codelco-anuncio-dos-nuevos-vicepresidentes-y-una-nueva-gerenta-general/2026-11-26/212948.html",
    "date": "2026-11-27T00:29:48+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "03e04fbaa7b4",
-   "source": "Al Jazeera",
-   "title": "Argentina bars Central Bank from printing money to fund government spending",
-   "description": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
-   "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
-   "date": "2026-11-27T00:11:16+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "625520aa7dc0",
-   "source": "The Guardian",
-   "title": "Qantas and Air New Zealand planes too close at Sydney airport as ‘mental models’ of crews to be investigated",
-   "description": "Aborted descent on Wednesday morning is latest in a series of landing incidents at Sydney airport Get our breaking news email , free app or daily news podcast The Australian Transport Safety Bureau is investigating flight crews’ “mental models” after a Qantas plane aborted its la",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
-   "date": "2026-11-27T00:10:55+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -502,26 +652,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b2b08ac43e47",
-   "source": "Al Jazeera",
-   "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
-   "description": "Iran's FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
-   "date": "2026-11-27T00:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "99372a6602c9",
-   "source": "Al Jazeera",
-   "title": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
-   "description": "Match between Besiktas and Hapoel Beer-Sheva suspended for 30 minutes after confrontation between fans and police.",
-   "url": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
-   "date": "2026-11-26T23:37:17+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "7b1cc5cf029a",
    "source": "Ex-Ante",
    "title": "Ex embajadora y ex oficial de la CIA asumirá cargo ejecutivo clave en minera de tierras raras en Chile",
@@ -529,26 +659,6 @@
    "url": "https://www.ex-ante.cl/negocios/tierras-raras-cia-aclara-minera/",
    "date": "2026-11-26T23:08:01+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "363f7edcbef7",
-   "source": "Al Jazeera",
-   "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
-   "description": "The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.",
-   "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
-   "date": "2026-11-26T23:07:36+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "1b1ee684f987",
-   "source": "The Guardian",
-   "title": "Chance of snow forecast for northern England and Scotland in next few days",
-   "description": "Met Office warns of icy roads and risk of freezing rain on higher ground as weather turns cold and unsettled Parts of England could see snow in the coming days as cold and unsettled weather continues into the weekend, forecasters have said. Heavy rain sweeping eastwards on Friday",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/26/chance-of-snow-forecast-northern-england-scotland",
-   "date": "2026-11-26T23:01:40+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -569,16 +679,6 @@
    "url": "https://www.bbc.com/mundo/articles/cj62p7wv9qnxo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-26T22:58:00+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "fd22509e69ea",
-   "source": "Al Jazeera",
-   "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
-   "description": "Canada’s top court weighs Bill 21, the Quebec law that shapes where Muslim women can work and where they feel welcome.",
-   "url": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
-   "date": "2026-11-26T22:51:55+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -609,16 +709,6 @@
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261126-ecuador-vota-en-unas-elecciones-locales-que-medir%C3%A1n-la-fuerza-de-noboa-frente-a-un-corre%C3%ADsmo-sin-partido",
    "date": "2026-11-26T22:10:50+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "6a6d23d7e9ec",
-   "source": "Al Jazeera",
-   "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
-   "description": "A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.",
-   "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
-   "date": "2026-11-26T22:06:54+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -672,26 +762,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4cdbe19bddf2",
-   "source": "Al Jazeera",
-   "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
-   "description": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
-   "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
-   "date": "2026-11-26T21:08:44+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "602db8cc7f51",
-   "source": "Al Jazeera",
-   "title": "Bangladesh garment workers clash with police over low wages",
-   "description": "Bangladeshi garment workers clashed with police after a 36% minimum wage increase fell short of their demands.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
-   "date": "2026-11-26T21:04:39+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "f444978d2e7f",
    "source": "France 24",
    "title": "El economista español Pablo Hernández de Cos sucederá a Lagarde al frente del BCE",
@@ -712,16 +782,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0193a7794856",
-   "source": "Al Jazeera",
-   "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
-   "description": "The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.",
-   "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
-   "date": "2026-11-26T20:34:34+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "71634d4c6ef1",
    "source": "The Guardian",
    "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
@@ -729,16 +789,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
    "date": "2026-11-26T20:33:07+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "5845f6f2111a",
-   "source": "Al Jazeera",
-   "title": "Indian politician facing murder charges hosts 400,000-guest wedding",
-   "description": "An estimated 400,000 people attended politician Anant Singh’s daughter’s lavish wedding in Bihar, India’s poorest state.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
-   "date": "2026-11-26T20:32:43+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -769,26 +819,6 @@
    "url": "https://www.ex-ante.cl/internacional/malvinas-litigio-argentina-reino/",
    "date": "2026-11-26T20:19:29+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "172415efc7d8",
-   "source": "The Guardian",
-   "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
-   "description": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June Analysis: How much of the fall in UK immigration is due to Labour’s policies? Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
-   "date": "2026-11-26T20:01:47+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "13cbceacb5c5",
-   "source": "The Guardian",
-   "title": "Nottingham man jailed for 12 years for drugging and sexually assaulting partner",
-   "description": "‘Depraved’ predator attacked victim while she was under the influence of sleeping tablets he had given her A man has been jailed for 12 years for drugging his long-term partner and sexually assaulting her while she slept. The man, who is in his 30s and from Nottingham, cannot be ",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/26/nottingham-man-jailed-for-12-years-for-drugging-and-sexually-assaulting-partner",
-   "date": "2026-11-26T19:54:05+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1082,16 +1112,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e90e6b2901f7",
-   "source": "France 24",
-   "title": "Inmigración, eje de campaña en España: ¿qué piensan las personas migrantes de cara a las elecciones?",
-   "description": "La inmigración es uno de los ejes principales de la campaña electoral en España, con modelos enfrentados. El Gobierno de Pedro Sánchez ha defendido medidas como la reciente regularización extraordinaria de migrantes, pero ha sido cuestionado por la gestión de la llegada masiva de",
-   "url": "https://www.france24.com/es/video/20261126-inmigraci%C3%B3n-eje-de-campa%C3%B1a-en-espa%C3%B1a-qu%C3%A9-piensan-las-personas-migrantes-de-cara-a-las-elecciones",
-   "date": "2026-11-26T15:51:29+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "926cb77c1fb5",
    "source": "Ex-Ante",
    "title": "La comida de la noche anterior",
@@ -1339,16 +1359,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
    "date": "2026-11-26T10:00:52+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "ecbaaff12b59",
-   "source": "Deutsche Welle",
-   "title": "La RDC supera la barrera de los 12.000 casos de ébola, incluidos más de 5.900 muertos",
-   "description": "El brote de ébola que avanza rápidamente en el este del Congo ha superado los 12.000 casos confirmados, según datos gubernamentales, mientras los combates propician la propagación de la enfermedad.",
-   "url": "https://www.dw.com/es/la-rdc-supera-la-barrera-de-los-12-000-casos-de-ébola-incluidos-más-de-5-900-muertos/a-80057782?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-26T09:52:00+00:00",
-   "category": "África",
    "type": "Prensa"
   },
   {
@@ -1869,16 +1879,6 @@
    "url": "https://www.bbc.com/mundo/articles/cr930kp5eq12o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-24T16:48:51+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "0c9a3c411ab5",
-   "source": "The Guardian",
-   "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-   "description": "Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard. Within the first hour, checkpoints on the ",
-   "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
-   "date": "2026-11-24T16:00:50+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
