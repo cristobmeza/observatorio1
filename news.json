@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-27T05:00:27.064794+00:00",
+ "updated": "2026-11-27T06:03:42.532966+00:00",
  "items": [
+  {
+   "id": "33483bb3d9d3",
+   "source": "Al Jazeera",
+   "title": "Spain’s 2026 election explained in maps and charts",
+   "description": "Spaniards vote on November 29 in a snap general election. Here is how the system works, the parties and the key issues.",
+   "url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss",
+   "date": "2026-11-27T05:57:37+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "8b9880975b85",
+   "source": "The Guardian",
+   "title": "Erin Patterson launches high court appeal bid over mushroom murder convictions",
+   "description": "Patterson, 52, seeks leave to appeal to Australia’s highest court over deaths of estranged family members after fatal beef wellington lunch Get our breaking news email , free app or daily news podcast Erin Patterson has applied to the high court seeking leave to appeal after a fa",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
+   "date": "2026-11-27T05:31:38+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c212a6a0bc93",
+   "source": "Al Jazeera",
+   "title": "Israel uses south Lebanon Christian villages to try to divide and conquer",
+   "description": "Israel is trying to fragment Lebanon by separating its Christian residents in south Lebanon from the rest.",
+   "url": "https://www.aljazeera.com/features/2026/11/27/israel-uses-christian-villages-in-southern-lebanon-to-divide-and-conquer?traffic_source=rss",
+   "date": "2026-11-27T05:27:18+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "99ee91b5a067",
+   "source": "The Guardian",
+   "title": "Alan Jones defence opens and closes in space of a few hours as indecent assault trial draws to a close",
+   "description": "Former broadcaster, 85, has pleaded not guilty to 21 counts of sexual touching and indecent assault Get our breaking news email , free app or daily news podcast Alan Jones’s defence in his indecent assault and sexual touching trial has lasted only a few hours, with closing submis",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb",
+   "date": "2026-11-27T05:02:40+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "59ac691973a6",
+   "source": "The Guardian",
+   "title": "Race hate exploded in this Spanish town last year. Now its residents are bracing for more",
+   "description": "Torre-Pacheco’s diverse communities are fearful that the far-right Vox party will enter government after Sunday’s election Sitting on a park bench, taking in the sunny day, Naima reflected on all that had seemingly changed since she moved to Spain three decades earlier. Back then",
+   "url": "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe",
+   "date": "2026-11-27T05:00:55+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "b26f6c00c28e",
+   "source": "Al Jazeera",
+   "title": "New Zealand’s Opportunity Party poised to become election kingmaker",
+   "description": "The newly-elected Opportunity party is now in a position to swing New Zealand’s next parliament to the left or right.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss",
+   "date": "2026-11-27T04:59:53+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "568f32e64442",
+   "source": "The Guardian",
+   "title": "Former RAAF pilot convicted of murder after staging wife’s death as lawnmower accident",
+   "description": "Brisbane supreme court jury finds Robert John Crawford guilty of murder after he stood to lose financially in divorce settlement Get our breaking news email , free app or daily news podcast Former air force pilot Robert John Crawford has been found guilty of the murder of his wif",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
+   "date": "2026-11-27T04:56:32+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "4ddd179b80d2",
+   "source": "BBC Mundo",
+   "title": "4 datos económicos que explican cómo llega España a las elecciones generales del 29N",
+   "description": "Analizamos, de cara a las elecciones generales del 29 de noviembre, por qué el crecimiento del PIB y el récord de empleo en España conviven con salarios que han perdido poder adquisitivo y una de las tasas de pobreza infantil más altas de Europa.",
+   "url": "https://www.bbc.com/mundo/articles/c3rrgd44kqk2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T04:53:27+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "168378f58c32",
+   "source": "Al Jazeera",
+   "title": "Estonia closing land borders with Russia to keep out spies",
+   "description": "Estonia is set to close its land border crossings to Russia by December 1.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/estonia-closing-land-borders-with-russia-to-keep-out-spies?traffic_source=rss",
+   "date": "2026-11-27T04:46:15+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "b02d258651f5",
    "source": "Al Jazeera",
@@ -392,16 +482,6 @@
    "type": "Prensa"
   },
   {
-   "id": "bc7b3b886dc8",
-   "source": "The Guardian",
-   "title": "Coalition teams up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
-   "description": "Labor passes final major piece of legislation for 2026, denying Greens’ bid for 25% tax on exports Get our daily political email , free app or daily news podcast A federal gas reservation scheme requiring Australia’s largest exporters to keep up to 20% of their product for domest",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
-   "date": "2026-11-27T00:02:10+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "878c4e7cceb2",
    "source": "The Guardian",
    "title": "Water firms to identify 250,000 vulnerable households in England eligible for discounts",
@@ -429,16 +509,6 @@
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
    "date": "2026-11-27T00:00:00+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "93c855622015",
-   "source": "The Guardian",
-   "title": "Sam Wood to spend Christmas in jail after again being denied bail over alleged assault of wife Snezana",
-   "description": "Former Bachelor star and fitness influencer stands accused of assaulting wife at Noosa in Queensland during family holiday in October Get our breaking news email , free app or daily news podcast Reality star Sam Wood will spend Christmas in jail after again being denied bail on d",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/27/sam-wood-denied-bail-alleged-assault-queensland-ntwnfb",
-   "date": "2026-11-26T23:54:28+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -582,16 +652,6 @@
    "type": "Prensa"
   },
   {
-   "id": "91c327eb9a00",
-   "source": "The Guardian",
-   "title": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
-   "description": "Fire chiefs say large swathes of the country are at risk from fires driven by high fuel loads, dry soil and hot weather Get our breaking news email , free app or daily news podcast Large parts of southern and central Australia face elevated fire risk this summer, authorities say,",
-   "url": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
-   "date": "2026-11-26T21:33:36+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "3fe7d0390d45",
    "source": "CIPER Chile",
    "title": "Los 16 nombramientos judiciales en La Araucanía en que Mery pidió la opinión de Hermosilla",
@@ -702,16 +762,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e8967e33c8e7",
-   "source": "Al Jazeera",
-   "title": "Mexico seeks US talks about suspected SpaceX debris",
-   "description": "Mexico concerned as SpaceX ramps up rocket launches from Starbase near border in Texas.",
-   "url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
-   "date": "2026-11-26T20:31:50+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "449b09751f95",
    "source": "Ex-Ante",
    "title": "Malvinas: Tribunal internacional alista fallo por demanda de Argentina a Reino Unido (y lo que implica para Chile)",
@@ -719,16 +769,6 @@
    "url": "https://www.ex-ante.cl/internacional/malvinas-litigio-argentina-reino/",
    "date": "2026-11-26T20:19:29+00:00",
    "category": "Jurisprudencia",
-   "type": "Prensa"
-  },
-  {
-   "id": "02c841266dfe",
-   "source": "Al Jazeera",
-   "title": "Musk pledges two SpaceX shares for every US child",
-   "description": "US children would receive one share from SpaceX and one from him personally, Musk said.",
-   "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss",
-   "date": "2026-11-26T20:19:22+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -752,16 +792,6 @@
    "type": "Prensa"
   },
   {
-   "id": "8f9bb0c59734",
-   "source": "Al Jazeera",
-   "title": "Peru burns more than 10 tonnes of seized drugs",
-   "description": "Peru began burning 10.7 tonnes of seized narcotics in its seventh and final drug disposal operation of 2026",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss",
-   "date": "2026-11-26T19:44:05+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "670709dc9753",
    "source": "The Guardian",
    "title": "How much of the sharp fall in UK immigration is due to Labour’s policies?",
@@ -779,16 +809,6 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/liguilla-antofagasta-espera-aprovechar-la-localia-ante-copiapo-y/2026-11-26/163115.html",
    "date": "2026-11-26T19:31:15+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "f35290bd9c9a",
-   "source": "Al Jazeera",
-   "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
-   "description": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
-   "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
-   "date": "2026-11-26T19:19:12+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -959,16 +979,6 @@
    "url": "https://www.dw.com/es/trump-pide-a-putin-que-retire-toda-agresión-militar-contra-europa/a-80068205?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-26T17:12:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "6a434d1c641c",
-   "source": "The Guardian",
-   "title": "Labour’s EU reset deal will be ‘floor not ceiling’, says Burnham cabinet ally",
-   "description": "Scottish secretary Douglas Alexander to say Britain cannot secure the change it needs ‘without changing our relationship with Europe’ Labour’s EU reset deal will be a “floor not a ceiling”, according to a close cabinet ally of Andy Burnham, who says the UK has been a “cork bobbin",
-   "url": "https://www.theguardian.com/politics/2026/nov/26/uk-bill-to-implement-eu-deal-closer-future-ties",
-   "date": "2026-11-26T17:00:52+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1970,16 +1980,6 @@
    "date": "2026-11-24T00:00:00+00:00",
    "category": "Tributación",
    "type": "Oficial"
-  },
-  {
-   "id": "326ba37cb221",
-   "source": "BBC Mundo",
-   "title": "La cantante iraní que recibió 74 latigazos por actuar en YouTube sin el velo",
-   "description": "Según sus abogados, Parastoo Ahmadi, tres músicos y un productor recibieron 74 latigazos en Qom.",
-   "url": "https://www.bbc.com/mundo/articles/cmly7qnw55z4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T21:19:36+00:00",
-   "category": "América Latina",
-   "type": "Prensa"
   },
   {
    "id": "f71a27b19f76",
