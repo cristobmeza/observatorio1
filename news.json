@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-27T08:27:06.520173+00:00",
+ "updated": "2026-11-27T10:00:20.959275+00:00",
  "items": [
+  {
+   "id": "7a64c55ed087",
+   "source": "The Guardian",
+   "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
+   "description": "The department is working with cyber security experts to restore services and limit disruption The Press Association has reported that services which appear to be unavailable include: applying for Universal Credit; signing in to an existing Universal Credit account; and searching",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+   "date": "2026-11-27T09:45:27+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "b2c3caec1886",
+   "source": "The Guardian",
+   "title": "Trump calling Putin ‘friend’ like declaring friendship with Hitler during WW2, Zelenskyy says – Europe live",
+   "description": "Ukraine’s president labels US counterpart’s comments ‘strange’ and urges Washington to increase pressure on Moscow Overnight, Nato fighter jets and an interceptor drone were scrambled overnight in Latvia after a drone briefly entered the country’s airspace near its border with Ru",
+   "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+   "date": "2026-11-27T09:42:32+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "c6a1c4cf5cb8",
+   "source": "Deutsche Welle",
+   "title": "Ucrania ataca San Petersburgo, además de una fábrica de caucho al sur de Moscú y la región de Krasnodar",
+   "description": "Ucrania llevó a cabo ataques en San Petersburgo, donde una mujer habría resultado herida, además de atacar una fábrica de caucho en la región de Tula, según autoridades locales y medios independientes rusos y ucranianos.",
+   "url": "https://www.dw.com/es/ucrania-ataca-san-petersburgo-además-de-una-fábrica-de-caucho-al-sur-de-moscú-y-la-región-de-krasnodar/a-80071915?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-27T09:26:00+00:00",
+   "category": "Rusia y espacio postsoviético",
+   "type": "Prensa"
+  },
+  {
+   "id": "f901d28ff7dd",
+   "source": "Al Jazeera",
+   "title": "South Korea sends rescued fishermen back to North",
+   "description": "Pyongyang has not commented on a seventh fisherman who chose to remain in the South.",
+   "url": "https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss",
+   "date": "2026-11-27T09:02:20+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ed68be44baaa",
+   "source": "Al Jazeera",
+   "title": "India upbeat about first Olympics after ‘very good’ 2036 presentation",
+   "description": "India makes Ahmedabad pitch for 2036 Games as it bids to host first Olympics, but Qatar and South Africa strong rivals.",
+   "url": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
+   "date": "2026-11-27T08:57:37+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "771cb32fd4fd",
+   "source": "Deutsche Welle",
+   "title": "Cierre de campaña en España: Feijóo en Sevilla, Abascal en Valencia, y Sánchez y Colau eligen Madrid",
+   "description": "La campaña para las elecciones generales en España se cierra este viernes tras dos semanas de actos, debates y entrevistas de los candidatos.",
+   "url": "https://www.dw.com/es/cierre-de-campaña-en-españa-feijóo-en-sevilla-abascal-en-valencia-y-sánchez-y-colau-eligen-madrid/a-80071186?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-27T08:47:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "ab878fada549",
+   "source": "The Guardian",
+   "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
+   "description": "Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project Opinion: Why Labour MPs are opposing Rosebank Podcast: are resignations next? Labour’s internal divisions over the giant Rosebank oilfield have spilled into the open, with",
+   "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
+   "date": "2026-11-27T08:39:59+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "6d96a46b6710",
+   "source": "Al Jazeera",
+   "title": "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
+   "description": "Authorities said the UN special rapporteur was blocked from entering the country due to 'national security' risks.",
+   "url": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss",
+   "date": "2026-11-27T08:39:50+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "13f44a30336a",
+   "source": "Al Jazeera",
+   "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
+   "description": "One in eight children is stunted. Many have bones that have not matured the way they should. Treatment is elusive.",
+   "url": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
+   "date": "2026-11-27T08:37:52+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "1eb1b5f46c4b",
+   "source": "The Guardian",
+   "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
+   "description": "German chancellor is on difficult terrain, at home and abroad, as he fights to maintain European backing for Kyiv The German chancellor, Friedrich Merz, is navigating choppy waters both at home and abroad over his insistence that Europe must keep up support – both military and fi",
+   "url": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering",
+   "date": "2026-11-27T08:33:08+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "ae35373a6086",
+   "source": "Al Jazeera",
+   "title": "Police bodycam shows rescue of man from burning car in US",
+   "description": "Dramatic police bodycam video shows the moment an officer and a passing motorist rescued a man inside a burning car",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/police-bodycam-shows-rescue-of-man-from-burning-car-in-us?traffic_source=rss",
+   "date": "2026-11-27T08:24:59+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
   {
    "id": "756c348064dd",
    "source": "Al Jazeera",
@@ -14,7 +124,7 @@
   {
    "id": "3e4b7fe5288b",
    "source": "The Guardian",
-   "title": "Banks may pass on £1.5bn tax rise on to customers, warns Bank of England chief",
+   "title": "Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief",
    "description": "Big lenders will aim to ‘protect their earnings’ amid temporary increase in corporation tax surcharge, says Andrew Bailey Business live – latest updates The governor of the Bank of England has warned that banks could look to pass on the £1.5bn cost of Labour’s increase to tax on ",
    "url": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
    "date": "2026-11-27T08:17:13+00:00",
@@ -392,16 +502,6 @@
    "type": "Prensa"
   },
   {
-   "id": "0fc228e0af83",
-   "source": "Al Jazeera",
-   "title": "Spain and Morocco under-17 stars target World Cup 2030",
-   "description": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
-   "date": "2026-11-27T02:58:48+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "d6a082a47610",
    "source": "The Guardian",
    "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
@@ -452,16 +552,6 @@
    "type": "Prensa"
   },
   {
-   "id": "6a9e7c873bb9",
-   "source": "Al Jazeera",
-   "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
-   "description": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
-   "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
-   "date": "2026-11-27T02:14:25+00:00",
-   "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
    "id": "c2d918451a04",
    "source": "Radio Cooperativa",
    "title": "Mujer fue secuestrada en su trabajo por supuesta deuda de 18 millones",
@@ -492,16 +582,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7d022ae8134e",
-   "source": "Al Jazeera",
-   "title": "Trump says the US has ‘close to 50%’ of world’s oil",
-   "description": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil'.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
-   "date": "2026-11-27T01:44:02+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "3dd3ea18be34",
    "source": "Radio Cooperativa",
    "title": "\"Ese muerto no lo cargo yo\": Voz de Los Viking's 5 quedó con arresto domiciliario nocturno",
@@ -512,16 +592,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e4caee73218d",
-   "source": "Al Jazeera",
-   "title": "Clashes halt match as Turkiye football fans raise Palestinian flags",
-   "description": "Clashes broke out between Georgian police and Turkish club Besiktas supporters during a UEFA match.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/clashes-halt-match-as-turkiye-football-fans-raise-palestinian-flags?traffic_source=rss",
-   "date": "2026-11-27T01:36:23+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "f9a0a8a20bce",
    "source": "Radio Cooperativa",
    "title": "Biobío: Joven de 19 años murió atropellada por un bus que iba a Coronel",
@@ -529,16 +599,6 @@
    "url": "https://www.cooperativa.cl/noticias/pais/policial/accidentes-de-transito/biobio-joven-de-19-anos-murio-atropellada-por-un-bus-que-iba-a-coronel/2026-11-26/222946.html",
    "date": "2026-11-27T01:29:46+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "1dff5d5f05fc",
-   "source": "Al Jazeera",
-   "title": "Global news agency AFP reports cyberattack, shuts down content platform",
-   "description": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
-   "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
-   "date": "2026-11-27T01:07:44+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -629,26 +689,6 @@
    "url": "https://www.rioenlinea.cl/conductor-ebrio-intento-escapar-de-carabineros-lanzandose-a-una-zanja/",
    "date": "2026-11-27T00:05:48+00:00",
    "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
-   "id": "878c4e7cceb2",
-   "source": "The Guardian",
-   "title": "Water firms to identify 250,000 vulnerable households in England eligible for discounts",
-   "description": "Department for Work and Pensions to provide data about households missing out on WaterSure support scheme Water companies will use government data to identify as many as 250,000 vulnerable households in England eligible for discounts, after criticism that not enough people are aw",
-   "url": "https://www.theguardian.com/business/2026/nov/27/water-firms-to-identify-250000-vulnerable-households-in-england-eligible-for-discounts",
-   "date": "2026-11-27T00:01:48+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "b4267bb8a892",
-   "source": "The Guardian",
-   "title": "Nearly half of ethnic minority people in UK have faced racism at work in last year, survey finds",
-   "description": "Figures show impact on mental health, with majority having no confidence HR will take their concerns seriously Nearly half of people from minority ethnic backgrounds have experienced racism at work and the majority have no confidence that HR would take their concerns seriously, a",
-   "url": "https://www.theguardian.com/world/2026/nov/27/nearly-half-of-ethnic-minority-people-in-uk-have-faced-racism-at-work-in-last-year-survey-finds",
-   "date": "2026-11-27T00:01:47+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -972,26 +1012,6 @@
    "type": "Prensa"
   },
   {
-   "id": "37f608b68bf5",
-   "source": "The Guardian",
-   "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
-   "description": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan, as Germany tries to protect funding from possible far-right French presidency Europe live – latest updates EU leaders were bracing for a clash over long-term financial aid for Ukraine amid an effort to finalise ",
-   "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
-   "date": "2026-11-26T17:51:17+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "f0a583f660af",
-   "source": "The Guardian",
-   "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
-   "description": "Former Bank of Spain governor chosen to succeed Christine Lagarde after winning support of EU’s biggest countries Spain’s Pablo Hernández de Cos has been chosen as the next president of the European Central Bank, to succeed Christine Lagarde, after winning support from the EU’s b",
-   "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
-   "date": "2026-11-26T17:50:54+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "e842e2ce8271",
    "source": "BBC Mundo",
    "title": "\"La suerte se le terminó\": el migrante que fue detenido por ICE en EE.UU. días después de ganar la lotería",
@@ -1292,16 +1312,6 @@
    "type": "Oficial"
   },
   {
-   "id": "dfcf7cc42c64",
-   "source": "Deutsche Welle",
-   "title": "La UME envía a El Hierro un equipo sanitario de 120 efectivos por la llegada de más de 2.000 migrantes en un día",
-   "description": "Un equipo sanitario de 120 efectivos fue movilizado por la Unidad Militar de Emergencias en la isla El Hierro, adonde llegaron cerca de 2.000 personas en un solo día.",
-   "url": "https://www.dw.com/es/la-ume-envía-a-el-hierro-un-equipo-sanitario-de-120-efectivos-por-la-llegada-de-más-de-2-000-migrantes-en-un-día/a-80060123?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-26T11:59:00+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "972a74e8acac",
    "source": "Servicio Electoral",
    "title": "Servel presentó su Observatorio en el III Festival Género, Comunicación y Tecnología",
@@ -1339,16 +1349,6 @@
    "url": "https://www.bbc.com/mundo/articles/cw808pxm2ndzo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-26T10:33:47+00:00",
    "category": "América Latina",
-   "type": "Prensa"
-  },
-  {
-   "id": "c679bd980943",
-   "source": "Deutsche Welle",
-   "title": "Merz reitera deseo de recortar el presupuesto de la UE por debajo de planes de la Comisión y pide afianzar ayudas para Ucrania",
-   "description": "En la cumbre en de la Unión Europea en Bruselas, el canciller alemán, Friedrich Merz, insistió en que se recorte el presupuesto del bloque por debajo de los planes de la Comisión y en que Ucrania reciba suficiente apoyo.",
-   "url": "https://www.dw.com/es/merz-reitera-deseo-de-recortar-el-presupuesto-de-la-ue-por-debajo-de-planes-de-la-comisión-y-pide-afianzar-ayudas-para-ucrania/a-80058545?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-26T10:26:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
