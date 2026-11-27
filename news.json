@@ -1,14 +1,224 @@
 {
- "updated": "2026-11-27T15:54:52.105678+00:00",
+ "updated": "2026-11-27T17:00:14.477002+00:00",
  "items": [
+  {
+   "id": "5d866afc9172",
+   "source": "Al Jazeera",
+   "title": "Syria debates citizenship rights for children of foreign fighters",
+   "description": "Syria may amend its nationality law to grant citizenship to children of Syrian mothers and foreign fighters.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_syria-mulls-citizenship-children-foreign-fighters-271126?traffic_source=rss",
+   "date": "2026-11-27T16:47:35+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "15d9888ec9db",
+   "source": "Radio Cooperativa",
+   "title": "Gago sobre Aránguiz: Quiero que renueve",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Fernando Gago, entrenador de Universidad de Chile, manifestó su intención de contar con Charles Aránguiz para la temporada 2027 , en medio de las interrogantes que existen respecto a la renovación del experimentado mediocam",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/gago-sobre-aranguiz-quiero-que-renueve/2026-11-27/133934.html",
+   "date": "2026-11-27T16:39:34+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "21abe2cd07a1",
+   "source": "Río en Línea",
+   "title": "Fiscalización a locales nocturnos de Valdivia termina con extranjero denunciado por trabajar sin autorización",
+   "description": "Un ciudadano argentino fue denunciado por exceder su permanencia como turista y realizar actividades laborales sin contar con el permiso correspondiente, tras una fiscalización interinstitucional realizada durante la madrugada de este viernes 27 de noviembre en Valdivia. El opera",
+   "url": "https://www.rioenlinea.cl/fiscalizacion-a-locales-nocturnos-de-valdivia-termina-con-extranjero-denunciado-por-trabajar-sin-autorizacion/",
+   "date": "2026-11-27T16:39:29+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
+  },
+  {
+   "id": "facd88c549ae",
+   "source": "France 24",
+   "title": "Agua del mar Rojo para Jordania: un plan de 6.700 millones de dólares",
+   "description": "Jordania es uno de los países con menos agua del mundo y busca la solución en el mar Rojo. En Áqaba se construye una gran desalinizadora que costará 6.700 millones de dólares y que, desde 2030, debería cubrir el 40% del agua potable de uso doméstico del país. El agua tendrá que r",
+   "url": "https://www.france24.com/es/programas/medio-ambiente/20261127-agua-del-mar-rojo-para-jordania-un-plan-de-6-700-millones-de-d%C3%B3lares",
+   "date": "2026-11-27T16:39:17+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9e5eb1434f63",
+   "source": "Radio Cooperativa",
+   "title": "[VIDEO] La mala racha de la Roja sub 17: Falló su tercer penal en el Mundial de Catar",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Una llamativa estadística marca el camino de la selección chilena en el Mundial Sub 17 dado que este viernes la Roja volvió a fallar un lanzamiento penal sumando tres disparos desde los 12 pasos sin concretar. Con esta nuev",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mundial-sub-17/video-la-mala-racha-de-la-roja-sub-17-fallo-su-tercer-penal-en-el/2026-11-27/133509.html",
+   "date": "2026-11-27T16:35:09+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "4f17bd93d3fa",
+   "source": "Deutsche Welle",
+   "title": "Marc Márquez anuncia su retirada tras el Gran Premio de Valencia",
+   "description": "El ocho veces campeón de MotoGP hizo el anuncio de forma sorpresiva y con ello termina una de las trayectorias más brillantes del motociclismo.",
+   "url": "https://www.dw.com/es/marc-márquez-anuncia-su-retirada-tras-el-gran-premio-de-valencia/a-80080527?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-27T16:34:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "7a64c55ed087",
+   "source": "The Guardian",
+   "title": "UK pensions department hit by ‘serious cyber incident’, minister says – as it happened",
+   "description": "This blog is now closed, you can read more on this story here According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about 8am this morning. Tory MP Neil Shastri-Hurst has also co",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+   "date": "2026-11-27T16:33:28+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "255ce163e00a",
+   "source": "Al Jazeera",
+   "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
+   "description": "Yashar party chief says Likud wants to drag Israel into another election under the outgoing government.",
+   "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
+   "date": "2026-11-27T16:33:21+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "ae7513249540",
+   "source": "Al Jazeera",
+   "title": "Norse Atlantic files for bankruptcy, halts flights and ticket sales",
+   "description": "Passengers advised to seek refunds via bankruptcy process, though guarantees are not assured, warns Norse Atlantic.",
+   "url": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales?traffic_source=rss",
+   "date": "2026-11-27T16:31:20+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "fd230d75bdae",
+   "source": "Deutsche Welle",
+   "title": "El grupo francés Justice revela cómo creó la banda sonora de Grand Theft Auto VI",
+   "description": "“Flower in a Hurricane” se ha convertido en un éxito mundial. Sus creadores explican por qué la canción conecta tan bien con el universo de Grand Theft Auto.",
+   "url": "https://www.dw.com/es/el-grupo-francés-justice-revela-cómo-creó-la-banda-sonora-de-grand-theft-auto-vi/a-80080339?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-27T16:27:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
+  {
+   "id": "a643bcb428f7",
+   "source": "Radio Cooperativa",
+   "title": "Femicidio en Villa Alemana: Abogada cuestionó falta de fiscalización y prevención de la violencia",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/pais/policial/femicidio/femicidio-en-villa-alemana-abogada-cuestiono-falta-de-fiscalizacion-y/2026-11-27/132602.html",
+   "date": "2026-11-27T16:26:02+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
   {
    "id": "b2c3caec1886",
    "source": "The Guardian",
-   "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
-   "description": "‘I can’t conceive of us losing,’ the leader said Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war rhetoric towards the s",
+   "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
+   "description": "This blog is now closed Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war rhetoric towards the separatist Catalan “enemy ",
    "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
-   "date": "2026-11-27T15:45:14+00:00",
+   "date": "2026-11-27T16:19:50+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "8d8042086235",
+   "source": "BBC Mundo",
+   "title": "Los estafadores que engañaron a miles de migrantes detenidos en EE.UU. con servicios de fianzas fraudulentos",
+   "description": "Ganaron millones de dólares a costa de migrantes detenidos y eludieron los intentos de desmantelar su negocio.",
+   "url": "https://www.bbc.com/mundo/articles/c6gm3jxzy3dro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T16:18:26+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "1397e1c6a572",
+   "source": "Radio Cooperativa",
+   "title": "Cooperativa Deportes: La previa de la penúltima fecha de la Liga de Primera",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/deportes/cooperativa-deportes/opinion/cooperativa-deportes-la-previa-de-la-penultima-fecha-de-la-liga-de/2026-11-27/131450.html",
+   "date": "2026-11-27T16:14:50+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "f4f8dd149b61",
+   "source": "Al Jazeera",
+   "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
+   "description": "Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.",
+   "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+   "date": "2026-11-27T16:13:07+00:00",
+   "category": "Estados Unidos y Canadá",
+   "type": "Prensa"
+  },
+  {
+   "id": "ad035774a17e",
+   "source": "The Guardian",
+   "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+   "description": "Closely watched decision exposes tensions between minority rights and the power of government to override those rights Canada’s top court has largely upheld a controversial secularism law in the province of Quebec barring public sector workers from wearing conspicuous religious s",
+   "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
+   "date": "2026-11-27T16:13:07+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "805eb518206b",
+   "source": "Radio Cooperativa",
+   "title": "Ortiz: Vidal tiene un contrato vigente y considero que es una pieza fundamental",
+   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Fernando Ortiz, entrenador de Colo Colo, abordó este viernes el futuro de Arturo Vidal y destacó la importancia del mediocampista en medio de las conversaciones que sostiene con la dirigencia de Blanco y Negro para conforma",
+   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/ortiz-vidal-tiene-un-contrato-vigente-y-considero-que-es-una-pieza/2026-11-27/131259.html",
+   "date": "2026-11-27T16:12:59+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "7fa268cccf6f",
+   "source": "Ex-Ante",
+   "title": "Invertir en infraestructura para recobrar la confianza",
+   "description": "Llamar a tener paciencia y esperar a que las reformas estructurales den sus frutos, no nos parece suficiente. Es momento de ejecutar, tal como se…",
+   "url": "https://www.ex-ante.cl/afteroffice/invertir-infraestructura-confianza/",
+   "date": "2026-11-27T16:11:16+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "531223d95baf",
+   "source": "Al Jazeera",
+   "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
+   "description": "As Gaza remains under Israeli bombardment, US envoy Jared Kushner calls its reconstruction a ‘huge act of kindness'.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
+   "date": "2026-11-27T16:01:44+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "273032f3ee93",
+   "source": "The Guardian",
+   "title": "British Gas owner seeks urgent government talks over future of storage facility",
+   "description": "Centrica boss memo to 400 workers at gas plant off Yorkshire coast says utility doing all it can ‘to save your jobs’ The boss of the British Gas owner Centrica has told hundreds of staff at its largest gas storage facility that he was seeking urgent talks with Andy Burnham and wo",
+   "url": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
+   "date": "2026-11-27T15:56:32+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a968b9012e25",
+   "source": "The Guardian",
+   "title": "Parents urged to vaccinate children for flu as hospital cases surge in England",
+   "description": "Pharmacies being asked to administer jabs to children for first time amid NHS pre-Christmas vaccination push Parents are being urged to make sure their children are vaccinated against flu before Christmas amid a surge in hospitalisations, with pharmacies being asked to administer",
+   "url": "https://www.theguardian.com/society/2026/nov/27/parents-urged-to-vaccinate-children-for-flu-as-hospital-cases-surge-in-england",
+   "date": "2026-11-27T15:52:57+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "c5ad4277b432",
+   "source": "France 24",
+   "title": "¿Quién es Ada Colau? De la alcaldía de Barcelona al intento de reagrupar a la izquierda española",
+   "description": "",
+   "url": "https://www.france24.com/es/europa/20261127-qui%C3%A9n-es-ada-colau-de-la-alcald%C3%ADa-de-barcelona-al-intento-de-reagrupar-a-la-izquierda-espa%C3%B1ola",
+   "date": "2026-11-27T15:48:18+00:00",
+   "category": "",
    "type": "Prensa"
   },
   {
@@ -19,6 +229,16 @@
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/union-espanola/union-espanola-oficializo-a-cesar-bravo-como-su-nuevo-entrenador-para-la/2026-11-27/124405.html",
    "date": "2026-11-27T15:44:05+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "1601e672a52c",
+   "source": "France 24",
+   "title": "Directo París y los choques violentos entre hinchas del Marsella y el Levski Sofía",
+   "description": "La victoria del Olympique de Marsella sobre Levski Sofía en la Europa League quedó opacada por graves incidentes entre aficionados en el estadio Vélodrome. Los enfrentamientos dejaron hinchas heridos e incluso hospitalizados, y han provocado una investigación de las autoridades f",
+   "url": "https://www.france24.com/es/video/20261127-directo-par%C3%ADs-y-los-choques-violentos-entre-hinchas-del-marsella-y-el-levski-sof%C3%ADa",
+   "date": "2026-11-27T15:42:24+00:00",
+   "category": "Europa",
    "type": "Prensa"
   },
   {
@@ -42,16 +262,6 @@
    "type": "Prensa"
   },
   {
-   "id": "c5ad4277b432",
-   "source": "France 24",
-   "title": "¿Quién es Ada Colau? De la alcaldía de Barcelona al intento de reagrupar a la izquierda española",
-   "description": "Cuando Ada Colau decidió abandonar la política institucional en 2024, pocos se imaginaron que su regreso estaría impulsado por la necesidad de unir a los movimientos de izquierda rumbo a unas elecciones generales. Después de ganar notoriedad por su labor como activista contra los",
-   "url": "https://www.france24.com/es/europa/20261127-qui%C3%A9n-es-ada-colau-de-la-alcald%C3%ADa-de-barcelona-al-intento-de-reagrupar-a-la-izquierda-espa%C3%B1ola",
-   "date": "2026-11-27T15:39:37+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
    "id": "924fdbef7774",
    "source": "Radio Cooperativa",
    "title": "Dominga López es la primera integrante confirmada del jurado de Viña 2027",
@@ -59,16 +269,6 @@
    "url": "https://www.cooperativa.cl/noticias/magazine/festival-de-vina/jurados/dominga-lopez-es-la-primera-integrante-confirmada-del-jurado-de-vina-2027/2026-11-27/123723.html",
    "date": "2026-11-27T15:37:23+00:00",
    "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "273032f3ee93",
-   "source": "The Guardian",
-   "title": "British Gas owner seeks urgent government talks over future of storage facility",
-   "description": "Centrica boss memo to 400 workers at gas plant off Yorkshire coast says utility doing all it can ‘to save your jobs’ The boss of the British Gas owner Centrica has told hundreds of staff at its largest gas storage facility that he was seeking urgent talks with Andy Burnham and wo",
-   "url": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
-   "date": "2026-11-27T15:34:41+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -92,16 +292,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7a64c55ed087",
-   "source": "The Guardian",
-   "title": "UK pensions department hit by ‘serious cyber incident’, minister says – UK politics live",
-   "description": "Pat McFadden says the government doesn’t believe any personal data has been compromised Tell us: have you been affected by the DWP ‘cyber incident’ According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin l",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-   "date": "2026-11-27T15:32:17+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "c49cddd9f2d0",
    "source": "Estudios Públicos (CEP)",
    "title": "Imaginar el futuro. Ciencia, ficción y autobibografía",
@@ -110,6 +300,16 @@
    "date": "2026-11-27T15:31:39+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
+  },
+  {
+   "id": "584e7ccc4288",
+   "source": "Radio Cooperativa",
+   "title": "Deseo, doble moral y secretos políticos: escritora Emma Sepúlveda retrata la historia del Hotel Valdivia",
+   "description": "",
+   "url": "https://www.cooperativa.cl/noticias/sociedad/sucesos/deseo-doble-moral-y-secretos-politicos-escritora-emma-sepulveda/2026-11-27/123113.html",
+   "date": "2026-11-27T15:31:13+00:00",
+   "category": "Regiones (Los Ríos)",
+   "type": "Prensa"
   },
   {
    "id": "10efdd691c16",
@@ -204,7 +404,7 @@
   {
    "id": "5849c3622d70",
    "source": "The Guardian",
-   "title": "Too old for soft toys? Tell that to kidults booking up Harrods Jellycat cafe",
+   "title": "Too old for soft toys? Tell that to kidults booking up the Harrods Jellycat cafe",
    "description": "Department stores are hosting in-person events for those who find comfort in collecting the British soft toy brand They’re cute, cuddly and taking over the homes of young adults. Jellycat, a British soft toy brand founded in 1999, is experiencing a rise in interest from adult buy",
    "url": "https://www.theguardian.com/lifeandstyle/2026/nov/27/jellycat-soft-toys-kidults-harrods-cafe-galerie-lafayette",
    "date": "2026-11-27T15:12:03+00:00",
@@ -295,7 +495,7 @@
    "id": "d5017c95967c",
    "source": "Radio Cooperativa",
    "title": "La Roja sub 17 vence a Montenegro en el Mundial de Catar",
-   "description": "La Roja , tras una caída ante República Dominicana, vive un desafío importante en el Mundial Sub 17 ante Montenegro , por la tercera fecha del Grupo J. Sigue el partido en vivo y online por Cooperativa.cl: - Montenegro 0-1 Chile. Entretiempo . Complejo Aspire Zone, Catar. 0-1: 32",
+   "description": "La Roja , tras una caída ante República Dominicana, vive un desafío importante en el Mundial Sub 17 ante Montenegro , por la tercera fecha del Grupo J. Sigue el partido en vivo y online por Cooperativa.cl: - Montenegro 0-1 Chile. Segundo tiempo . Complejo Aspire Zone, Catar. 0-1:",
    "url": "https://www.cooperativa.cl/noticias/deportes/futbol/mundial-sub-17/la-roja-sub-17-vence-a-montenegro-en-el-mundial-de-catar/2026-11-27/114626.html",
    "date": "2026-11-27T14:46:26+00:00",
    "category": "Partidos políticos",
@@ -352,36 +552,6 @@
    "type": "Oficial"
   },
   {
-   "id": "fdb3c7e9d40f",
-   "source": "Radio Cooperativa",
-   "title": "Chats del Caso Sartor destapan gestión por negocio ligado a la ANFP a espaldas de Michael Clark",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Las revelaciones de la investigación judicial por el Caso Sartor no solo expusieron las tensiones internas en torno a la compra y administración de Azul Azul , sino también reservadas tratativas para incursionar en un negoc",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/chats-del-caso-sartor-destapan-gestion-por-negocio-ligado-a-la-anfp-a/2026-11-27/113214.html",
-   "date": "2026-11-27T14:32:14+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "71042690d2de",
-   "source": "Radio Cooperativa",
-   "title": "Pirata Gate: Exjefa de Dideco de Coquimbo quedó con arresto domiciliario",
-   "description": "La exjefa de la Dirección de Desarrollo Comunitario (Dideco) de Coquimbo quedó con arresto domiciliario total tras el pago de una fianza de ocho millones de pesos , en medio de la tercera jornada de formalización de los imputados en el denominad o caso Pirata Gate. La resolución ",
-   "url": "https://www.cooperativa.cl/noticias/pais/region-de-coquimbo/pirata-gate-exjefa-de-dideco-de-coquimbo-quedo-con-arresto-domiciliario/2026-11-27/113143.html",
-   "date": "2026-11-27T14:31:43+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "42bd115a7aeb",
-   "source": "Radio Cooperativa",
-   "title": "Sartor quiso sacar a Milad de la ANFP",
-   "description": "Súmate aquí al canal de WhatsApp de Cooperativa Deportes Los principales socios de Sartor, Pedro Pablo Larraín y Alfredo Harz, manifestaron su intención de sacar a Pablo Milad de la presidencia de la ANFP en 2022 , cuando el dirigente buscaba su reelección al mando del organismo ",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/sartor-quiso-sacar-a-milad-de-la-anfp/2026-11-27/113040.html",
-   "date": "2026-11-27T14:30:40+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "6e5b03f02eab",
    "source": "The Guardian",
    "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
@@ -402,16 +572,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3f790d013a83",
-   "source": "Radio Cooperativa",
-   "title": "Desempleo en 10%: ¿Resultado de una \"receta ochentera\" del Gobierno?",
-   "description": "Justo cuando comenzaba El Primer Café de este viernes en Cooperativa , se conoció la cifra de desempleo entregada por el Instituto Nacional de Estadísticas (INE), que informó que el 10% de los chilenos están sin trabajo , lo que centró el debate de los panelistas. Esta noticia se",
-   "url": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/desempleo-en-10-resultado-de-una-receta-ochentera-del-gobierno/2026-11-27/112340.html",
-   "date": "2026-11-27T14:23:40+00:00",
-   "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
    "id": "b9daa3984688",
    "source": "France 24",
    "title": "España crece, pero la inflación golpea el bolsillo de las familias",
@@ -419,16 +579,6 @@
    "url": "https://www.france24.com/es/programas/corresponsales/20261127-espa%C3%B1a-crece-pero-la-inflaci%C3%B3n-golpea-el-bolsillo-de-las-familias",
    "date": "2026-11-27T14:22:04+00:00",
    "category": "Economía nacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "11588b5f600e",
-   "source": "Radio Cooperativa",
-   "title": "Festival +Ciper y la fórmula para volver a conectar con las audiencias",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/sociedad/medios/festival-ciper-y-la-formula-para-volver-a-conectar-con-las-audiencias/2026-11-27/111738.html",
-   "date": "2026-11-27T14:17:38+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -509,16 +659,6 @@
    "url": "https://www.theguardian.com/australia-news/2026/nov/28/nsw-labor-is-trampling-over-party-principles-with-preselections-by-captains-call-members-say",
    "date": "2026-11-27T14:00:12+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "f19bdd07b762",
-   "source": "Radio Cooperativa",
-   "title": "Festival de Viña del Mar 2027 confirma algunos artistas de su parrilla: Aún falta una noche y comediantes",
-   "description": "El Festival de Viña del Mar confirmó parte de su parrilla de artistas para su edición 2027, la cual se realizará entre el lunes 22 y el sábado 27 de febrero. Reik, Pablo Alborán, la coreana Jihyo, Arcángel, Damas Gratis y Farruko son parte de lo más destacado en materia musical, ",
-   "url": "https://www.cooperativa.cl/noticias/magazine/festival-de-vina/festival-de-vina-del-mar-2027-confirma-algunos-artistas-de-su-parrilla/2026-11-27/105943.html",
-   "date": "2026-11-27T13:59:43+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
@@ -632,16 +772,6 @@
    "type": "Prensa"
   },
   {
-   "id": "3cb9b23dbbd1",
-   "source": "The Guardian",
-   "title": "UK’s taste for cow’s milk sours as sales hit record low",
-   "description": "Environmental and animal welfare concerns, and taste preferences, are behind rising popularity of vegan alternatives Has milk gotta lotta bottle? It may not have as much as it used to, with official data showing Britons are buying less cow’s milk than at any point since records b",
-   "url": "https://www.theguardian.com/food/2026/nov/27/britain-cows-milk-sales-record-low-oat-almond",
-   "date": "2026-11-27T13:32:07+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "793736861cfa",
    "source": "Al Jazeera",
    "title": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
@@ -709,16 +839,6 @@
    "url": "https://www.france24.com/es/europa/20261127-el-calladita-de-feij%C3%B3o-a-colau-marca-el-%C3%BAltimo-debate-antes-de-las-elecciones-en-espa%C3%B1a",
    "date": "2026-11-27T12:33:24+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "cdb23eaffcd6",
-   "source": "Río en Línea",
-   "title": "Conductor imputado por muerte de Nahuel Ñancul seguirá con arresto domiciliario tras fallo judicial",
-   "description": "El tribunal rechazó la solicitud de la defensa del conductor imputado por el fatal atropello del estudiante de Derecho Nahuel Ñancul, por lo que se mantuvo el arresto domiciliario nocturno como medida cautelar. La resolución se adoptó durante una nueva audiencia realizada este ju",
-   "url": "https://www.rioenlinea.cl/conductor-imputado-por-muerte-de-nahuel-nancul-seguira-con-arresto-domiciliario-tras-fallo-judicial/",
-   "date": "2026-11-27T12:19:59+00:00",
-   "category": "Jurisprudencia",
    "type": "Prensa"
   },
   {
@@ -842,52 +962,12 @@
    "type": "Prensa"
   },
   {
-   "id": "0112980151fe",
-   "source": "Al Jazeera",
-   "title": "Tyson Fury’s wife backtracks on claim boxer suffers from schizophrenia",
-   "description": "Paris Fury had claimed mental health diagnosis for Tyson following his 2015 victory over Ukraine's Wladimir Klitschko.",
-   "url": "https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss",
-   "date": "2026-11-27T11:12:58+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "b459af87cb0c",
-   "source": "Al Jazeera",
-   "title": "Pakistan’s viral cricket catch star hopes to launch career",
-   "description": "The motorbike passenger who went viral for his stunning cricket catch in Pakistan says he hopes to play for his country.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-pakistan-viral-cricket-catch?traffic_source=rss",
-   "date": "2026-11-27T11:12:54+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "17a42a369e5b",
-   "source": "Al Jazeera",
-   "title": "US shoppers get ready for Black Friday and Cyber Monday",
-   "description": "Cyber Monday and Black Friday compete for shoppers, but discounts on electronics may peak after the weekend frenzy.",
-   "url": "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss",
-   "date": "2026-11-27T10:59:27+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "68fe313581ff",
    "source": "Deutsche Welle",
    "title": "Un bombardeo saudita mata a 11 personas en Yemen, según prensa hutí",
    "description": "Según la milicia hutí -afín a Irán-, once personas murieron en un ataque aéreo saudí en Yemen. El objetivo del ataque fue una vivienda en la provincia de Taiz, informó la agencia de noticias hutí Saba.",
    "url": "https://www.dw.com/es/un-bombardeo-saudita-mata-a-11-personas-en-yemen-según-prensa-hutí/a-80073194?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-27T10:58:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "3465293057ae",
-   "source": "Al Jazeera",
-   "title": "Why Benjamin Netanyahu’s corruption trial could be unravelling",
-   "description": "Could Netanyahu escape his most serious corruption charges? Al Jazeera's Lina-Serene explains.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-benjamin-netanyahus-corruption-trial-could-be-unravelling?traffic_source=rss",
-   "date": "2026-11-27T10:54:16+00:00",
    "category": "Oriente Medio",
    "type": "Prensa"
   },
@@ -899,16 +979,6 @@
    "url": "https://www.theguardian.com/us-news/2026/nov/27/king-tides-us-coasts-storms-threaten-thanksgiving-celebrations",
    "date": "2026-11-27T10:50:48+00:00",
    "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "f33f67aa7b08",
-   "source": "Al Jazeera",
-   "title": "Man United vs Brentford: Premier League – Pochettino, predictions, lineups",
-   "description": "Relegation-threatened Manchester United host Brentford in new manager Mauricio Pochettino's first home game in charge.",
-   "url": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-brentford-pochettino-first-home-game-premier-league-football?traffic_source=rss",
-   "date": "2026-11-27T10:48:54+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1072,16 +1142,6 @@
    "type": "Prensa"
   },
   {
-   "id": "37dd84a3cdd2",
-   "source": "France 24",
-   "title": "Estados Unidos rechaza el plan de la Unión Europea para gravar a las tecnológicas",
-   "description": "La propuesta de la Comisión Europea de imponer nuevos impuestos a las grandes compañías tecnológicas, en su mayoría estadounidenses, genera rechazo en Washington y divisiones entre los países del bloque, que buscan nuevas fuentes de financiación para su presupuesto de 2028 a 2034",
-   "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261127-estados-unidos-rechaza-el-plan-de-la-uni%C3%B3n-europea-para-gravar-a-las-tecnol%C3%B3gicas",
-   "date": "2026-11-27T01:44:21+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "d93f6c43e8ef",
    "source": "Ex-Ante",
    "title": "“¿Dónde está la firma?”: El video que revela anomalías en las gestiones de Castro ante la mesa del Senado",
@@ -1099,16 +1159,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
    "date": "2026-11-27T01:00:49+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "63b5e08bfe31",
-   "source": "France 24",
-   "title": "España y los deseos e inquietudes de los migrantes de cara a las elecciones del 29 de noviembre",
-   "description": "",
-   "url": "https://www.france24.com/es/europa/20261127-espa%C3%B1a-y-los-deseos-e-inquietudes-de-los-migrantes-de-cara-a-las-elecciones-del-29-de-noviembre",
-   "date": "2026-11-27T00:06:07+00:00",
-   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -1272,16 +1322,6 @@
    "type": "Prensa"
   },
   {
-   "id": "f2bdd7769a21",
-   "source": "Ex-Ante",
-   "title": "España: Vea el singular video con que Feijóo cerró su campaña (mientras espera el de Sánchez)",
-   "description": "Este domingo los españoles irán a las urnas para decidir si ponen punto final a los 8 años de gestión de Pedro Sánchez, del Partido…",
-   "url": "https://www.ex-ante.cl/internacional/videos-feijoo-sanchez-duelo-moncloa/",
-   "date": "2026-11-26T16:47:56+00:00",
-   "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
    "id": "e979c84eef3e",
    "source": "BBC Mundo",
    "title": "Un petrolero con 7.000 toneladas de combustible se hunde cerca de las costas de la isla de Ibiza",
@@ -1329,16 +1369,6 @@
    "url": "https://www.dw.com/es/la-fifa-sufre-ciberataque-y-robo-de-datos-personales/a-80066313?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-26T15:28:00+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "7a0cf347d207",
-   "source": "BBC Mundo",
-   "title": "El poco conocido origen mexicano del pavo que se come en Acción de Gracias en Estados Unidos",
-   "description": "El plato central de la cena de Acción de Gracias en EE.UU. es el pavo, un ave que fue domesticada hace siglos en la región mesoamericana de México y Centroamérica.",
-   "url": "https://www.bbc.com/mundo/articles/cyv7r0m6g14o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-26T15:27:48+00:00",
-   "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
   {
@@ -1932,6 +1962,16 @@
    "type": "Prensa"
   },
   {
+   "id": "702511aedbdf",
+   "source": "Organización Mundial del Comercio",
+   "title": "Entrada en vigor para Kazajstán de las disciplinas sobre la reglamentación nacional en el ámbito de los servicios",
+   "description": "El 25 de noviembre, Kazajstán notificó a los Miembros de la OMC que, tras la conclusión de sus procedimientos internos de aprobación, las disciplinas sobre la reglamentación nacional en el ámbito de los servicios habían cobrado efecto jurídico y se habían incorporado a la Lista d",
+   "url": "https://www.wto.org/spanish/news_s/news26_s/jssdr_25nov26_566_s.htm",
+   "date": "2026-11-25T00:00:00+00:00",
+   "category": "Comercio internacional",
+   "type": "Oficial"
+  },
+  {
    "id": "5f5b01901c68",
    "source": "The Guardian",
    "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
@@ -1939,16 +1979,6 @@
    "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
    "date": "2026-11-24T23:50:31+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "662a2a647209",
-   "source": "The Guardian",
-   "title": "Canada says it ‘does not report to the US’ after Pentagon criticizes military spending",
-   "description": "Scathing US document memo supposedly ‘atrophied’ defence capabilities of its northern neighbour Canada is a “sovereign nation” that does not “report” to the United States, the country’s defense minister said after the Pentagon released a scathing memo that criticized the supposed",
-   "url": "https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo",
-   "date": "2026-11-24T22:02:13+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
