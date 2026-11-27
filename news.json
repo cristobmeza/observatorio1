@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-27T02:52:29.650956+00:00",
+ "updated": "2026-11-27T03:55:36.345155+00:00",
  "items": [
+  {
+   "id": "73f721ff819a",
+   "source": "Radio Cooperativa",
+   "title": "Caso Rabat: los violadores de derechos humanos liberados en los últimos meses",
+   "description": "Al menos cinco exagentes de la dictadura chilena han quedado en libertad en los últimos meses antes de cumplir sus condenas , un hecho que organizaciones de derechos humanos atribuyen a la \"inacción\" deliberada en los tribunales del Gobierno de José Antonio Kast y que -denuncian-",
+   "url": "https://www.cooperativa.cl/noticias/pais/dd-hh/caso-rabat-los-violadores-de-derechos-humanos-liberados-en-los-ultimos/2026-11-27/001427.html",
+   "date": "2026-11-27T03:14:27+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "62a09ac8f1b9",
+   "source": "The Guardian",
+   "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
+   "description": "As bushfires ravage Flinders Island, Victorians can expect a wet and windy election day as storms forecast on east coast Get our breaking news email , free app or daily news podcast Major fires are among a multitude of weather extremes forecast across Australia on Friday and into",
+   "url": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
+   "date": "2026-11-27T03:14:10+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a8d4a9043c96",
+   "source": "France 24",
+   "title": "Informe desde Caracas: Parlamento evalúa derogación de Ley Orgánica Libertador Simón Bolívar",
+   "description": "El presidente del Parlamento de Venezuela, Jorge Rodríguez, anunció que buscará derogar la Ley Orgánica Libertador Simón Bolívar, una norma promulgada por él mismo, que castiga e inhabilita a quienes defiendan los llamados a sanciones contra el Gobierno venezolano. Nuestra corres",
+   "url": "https://www.france24.com/es/video/20261127-informe-desde-caracas-parlamento-eval%C3%BAa-derogaci%C3%B3n-de-ley-org%C3%A1nica-libertador-sim%C3%B3n-bol%C3%ADvar",
+   "date": "2026-11-27T03:09:12+00:00",
+   "category": "Gobierno y administración pública",
+   "type": "Prensa"
+  },
+  {
+   "id": "6a6d2d49bd68",
+   "source": "France 24",
+   "title": "Argentina: Senado aprueba reforma a ley electoral para suspender las PASO",
+   "description": "El Senado argentino aprobó una reforma a la ley electoral que suspendería las Primarias Abiertas Simultáneas y Obligatorias (PASO), unos comicios que definen quiénes son los candidatos de los partidos para las presidenciales y sirven como termómetro de popularidad. La propuesta, ",
+   "url": "https://www.france24.com/es/video/20261127-argentina-senado-aprueba-reforma-a-ley-electoral-para-suspender-las-paso",
+   "date": "2026-11-27T03:08:08+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "7f1726f426d6",
+   "source": "Radio Cooperativa",
+   "title": "La merluza artesanal llegó por primera vez al menú Junaeb de la Región de Aysén",
+   "description": "Tras cinco horas de navegación, pescadores del Sindicato N°1 de Puerto Gala (Región de Aysén) llegaron hasta el Liceo Arturo Prat Chacón de Puerto Cisnes para concretar un proyecto que tomó más de un año de trabajo: incorporar la merluza austral de la pesca artesanal a la aliment",
+   "url": "https://www.cooperativa.cl/noticias/pais/educacion/colegios/la-merluza-artesanal-llego-por-primera-vez-al-menu-junaeb-de-la-region/2026-11-27/000212.html",
+   "date": "2026-11-27T03:02:12+00:00",
+   "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "0fc228e0af83",
+   "source": "Al Jazeera",
+   "title": "Spain and Morocco under-17 stars target World Cup 2030",
+   "description": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
+   "date": "2026-11-27T02:58:48+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "d6a082a47610",
+   "source": "The Guardian",
+   "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
+   "description": "Incumbent prime minister Christopher Luxon loses majority and needs support of Opportunity party to remain in power, or country faces another election The final results of New Zealand’s general election show the incumbent rightwing coalition will need the support of a centrist ne",
+   "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+   "date": "2026-11-27T02:38:15+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "df6887485ed4",
+   "source": "Radio Cooperativa",
+   "title": "España: a 72 horas de las elecciones, último debate presidencial escenificó los dos bloques enfrentados",
+   "description": "El debate a cuatro escenificó este jueves con claridad los dos bloques políticos enfrentados en las elecciones del próximo domingo en España : por un lado, el del Gobierno de coalición con PSOE y Frente Amplio y, por otro, el formado por el PP y Vox , que ya caminan juntos en var",
+   "url": "https://www.cooperativa.cl/noticias/mundo/espana/elecciones/espana-a-72-horas-de-las-elecciones-ultimo-debate-presidencial/2026-11-26/233115.html",
+   "date": "2026-11-27T02:31:15+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
   {
    "id": "6e73ef7d00da",
    "source": "Radio Cooperativa",
@@ -79,16 +159,6 @@
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
    "date": "2026-11-27T01:44:02+00:00",
    "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "d6a082a47610",
-   "source": "The Guardian",
-   "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
-   "description": "Incumbent prime minister Christopher Luxon loses majority and needs support of Opportunity party to remain in power, or country faces another election The final results of New Zealand’s general election show the incumbent rightwing coalition will need the support of a centrist ne",
-   "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
-   "date": "2026-11-27T01:41:50+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -222,26 +292,6 @@
    "type": "Prensa"
   },
   {
-   "id": "7e10f680a400",
-   "source": "Radio Cooperativa",
-   "title": "La invasión de hinchas de S. Wanderers en el \"Elías Figueroa\" en el duelo contra Recoleta en la Liguilla",
-   "description": "",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/la-invasion-de-hinchas-de-s-wanderers-en-el-elias-figueroa-en-el/2026-11-26/213139.html",
-   "date": "2026-11-27T00:31:39+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "38bd991799f9",
-   "source": "Radio Cooperativa",
-   "title": "Dos camiones se incendiaron tras chocar frontalmente en ruta de Antofagasta",
-   "description": "Dos camiones chocaron frontalmente en la Ruta B-400 en la comuna de Antofagasta, lo que posteriormente originó un incendio de proporciones que afectó a ambos vehículos. El accidente ocurrió a la altura del kilómetro 15 de la autopista, desde donde emanó una intensa columna de hum",
-   "url": "https://www.cooperativa.cl/noticias/pais/policial/accidentes-de-transito/dos-camiones-se-incendiaron-tras-chocar-frontalmente-en-ruta-de-antofagasta/2026-11-26/213131.html",
-   "date": "2026-11-27T00:31:31+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
    "id": "7c31c6680723",
    "source": "Radio Cooperativa",
    "title": "Codelco anunció dos nuevos vicepresidentes y una nueva gerenta general",
@@ -289,16 +339,6 @@
    "url": "https://www.rioenlinea.cl/conductor-ebrio-intento-escapar-de-carabineros-lanzandose-a-una-zanja/",
    "date": "2026-11-27T00:05:48+00:00",
    "category": "Regiones (Los Ríos)",
-   "type": "Prensa"
-  },
-  {
-   "id": "db77c5027fe0",
-   "source": "Radio Cooperativa",
-   "title": "El último deseo de Delfina Guzmán que recordó Elisa Zulueta: \"Ojalá me muera riendo\"",
-   "description": "Elisa Zulueta emocionó con su discurso durante la despedida de Delfina Guzmán, realizada este jueves en la Catedral Metropolitana de Santiago, donde recordó la estrecha relación que mantuvieron durante años. La actriz comenzó su homenaje rememorando \"La grabación\", obra de Rafael",
-   "url": "https://www.cooperativa.cl/noticias/magazine/personajes/el-ultimo-deseo-de-delfina-guzman-que-recordo-elisa-zulueta-ojala-me/2026-11-26/210352.html",
-   "date": "2026-11-27T00:03:52+00:00",
-   "category": "",
    "type": "Prensa"
   },
   {
@@ -572,16 +612,6 @@
    "type": "Prensa"
   },
   {
-   "id": "263c7b3a0c86",
-   "source": "The Guardian",
-   "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
-   "description": "Farmers’ Federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’ Get our breaking news email , free app or daily news podcast Years-old recommendations by Australia’s biosecurity watchdog ha",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
-   "date": "2026-11-26T20:33:26+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "71634d4c6ef1",
    "source": "The Guardian",
    "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
@@ -842,16 +872,6 @@
    "type": "Prensa"
   },
   {
-   "id": "33433bdaedcf",
-   "source": "Al Jazeera",
-   "title": "Trump calls GDP data released before midterms ‘fake’, demands investigation",
-   "description": "President says it was a deliberate decision to release 'fake' growth numbers before US midterm elections.",
-   "url": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss",
-   "date": "2026-11-26T18:27:27+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
    "id": "b0b2493936b6",
    "source": "The Guardian",
    "title": "What would happen if Russia detonated a nuclear weapon in space?",
@@ -1052,16 +1072,6 @@
    "type": "Prensa"
   },
   {
-   "id": "61de641390cb",
-   "source": "France 24",
-   "title": "Émilie König: de la radicalización en Siria a un juicio en Francia",
-   "description": "Émilie König, nacida en Francia en 1984, se convirtió al islam tras su primer matrimonio y se radicalizó. En 2012 se casó con un combatiente del Estado Islámico y dejó Francia. Desde Siria publicó vídeos en los que entrenaba con armas y llamaba a cometer actos violentos en Franci",
-   "url": "https://www.france24.com/es/video/20261126-%C3%A9milie-k%C3%B6nig-de-la-radicalizaci%C3%B3n-en-siria-a-un-juicio-en-francia",
-   "date": "2026-11-26T15:49:05+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "926cb77c1fb5",
    "source": "Ex-Ante",
    "title": "La comida de la noche anterior",
@@ -1079,16 +1089,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/26/india-anant-singh-hosts-400000-guests-wedding-guests-daughter",
    "date": "2026-11-26T15:41:42+00:00",
    "category": "China y Asia",
-   "type": "Prensa"
-  },
-  {
-   "id": "cdae1f5ff31c",
-   "source": "France 24",
-   "title": "Israel mata a diez personas en Gaza, incluido un viceministro nombrado por Hamás",
-   "description": "Khaled Abu Nada, viceministro de Educación de Gaza, murió este jueves junto a su esposa en un ataque aéreo con un dron israelí contra un edificio de apartamentos en Deir al-Balah. El funcionario se convierte en el tercer alto cargo de Hamás asesinado por el ejército de Israel des",
-   "url": "https://www.france24.com/es/medio-oriente/20261126-israel-mata-a-nueve-personas-en-gaza-incluido-un-viceministro-nombrado-por-ham%C3%A1s",
-   "date": "2026-11-26T15:39:07+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
