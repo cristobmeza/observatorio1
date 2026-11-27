@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-27T03:55:36.345155+00:00",
+ "updated": "2026-11-27T05:00:27.064794+00:00",
  "items": [
+  {
+   "id": "b02d258651f5",
+   "source": "Al Jazeera",
+   "title": "Thanksgiving storms leave nearly a million without power across the US",
+   "description": "Severe weather across the US causes outages and flight delays as families and friends gather for the annual holiday.",
+   "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us?traffic_source=rss",
+   "date": "2026-11-27T04:34:43+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "7cdddafd2f8a",
+   "source": "Al Jazeera",
+   "title": "At least 13 Niger soldiers killed in Sanam armed attack",
+   "description": "It remains unclear who carried out the attack on Niger's National Guard in Tillaberi, near the Mali border.",
+   "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+   "date": "2026-11-27T04:06:52+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "46f8a29a8f08",
+   "source": "Al Jazeera",
+   "title": "Trump downplays Russia, China support for Iran during talks with US troops",
+   "description": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.",
+   "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+   "date": "2026-11-27T03:49:08+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "c80ae0d68d55",
+   "source": "Deutsche Welle",
+   "title": "Los candidatos a la Presidencia del Gobierno de España se enfrentan en último debate antes de las elecciones",
+   "description": "Los principales líderes se enfrentaron a solo tres días para que se desarrollen las elecciones generales.",
+   "url": "https://www.dw.com/es/los-candidatos-a-la-presidencia-del-gobierno-de-españa-se-enfrentan-en-último-debate-antes-de-las-elecciones/a-80070402?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-27T03:46:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "db613f758e5b",
+   "source": "Al Jazeera",
+   "title": "Asian stock markets rise after earlier tech rout",
+   "description": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
+   "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
+   "date": "2026-11-27T03:42:16+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "bfabd6e075fb",
+   "source": "Radio Cooperativa",
+   "title": "Doctor denunció uso no autorizado de su firma en licencia médica de Zandra Parisi",
+   "description": "Una grave arista sumó este jueves por la noche la licencia médica presentada por la diputada Zandra Parisi (Partido de la Gente) , justificada por una intervención odontológica de urgencia tras una infección asociada a un implante dental instalado el 30 de octubre. El caso adquir",
+   "url": "https://www.cooperativa.cl/noticias/pais/politica/pdg/doctor-denuncio-uso-no-autorizado-de-su-firma-en-licencia-medica-de/2026-11-27/003549.html",
+   "date": "2026-11-27T03:35:49+00:00",
+   "category": "Congreso Nacional",
+   "type": "Prensa"
+  },
   {
    "id": "73f721ff819a",
    "source": "Radio Cooperativa",
@@ -228,16 +288,6 @@
    "description": "Después de casi siete años alejado de la pantalla abierta, Mauricio Bustamante volverá este fin de semana a la televisión para encabezar \"Siete Días\" , la nueva apuesta de tipo revista de Chilevisión que se emitirá los sábados y domingos entre las 8:30 y las 13:00 horas. En conve",
    "url": "https://www.cooperativa.cl/noticias/magazine/television/mauricio-bustamante-y-su-regreso-a-la-tv-tras-casi-7-anos-fue-una/2026-11-26/220505.html",
    "date": "2026-11-27T01:05:05+00:00",
-   "category": "",
-   "type": "Prensa"
-  },
-  {
-   "id": "3f2c8b9d1dda",
-   "source": "Radio Cooperativa",
-   "title": "[VIDEO] ¡Desde mitad de cancha! El golazo de Francisco Alarcón para Recoleta ante S. Wanderers",
-   "description": "Francisco Alarcón anotó un golazo desde mitad de cancha para Deportes Recoleta ante Santiago Wanderers en Valparaíso, en la revancha de los cuartos de final de la Liguilla del Ascenso. En el minuto 73, el arquero Eduardo Miranda tuvo una mala salida fuera del área y con un pase s",
-   "url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-ascenso/video-desde-mitad-de-cancha-el-golazo-de-francisco-alarcon-para/2026-11-26/220145.html",
-   "date": "2026-11-27T01:01:45+00:00",
    "category": "",
    "type": "Prensa"
   },
@@ -752,26 +802,6 @@
    "type": "Prensa"
   },
   {
-   "id": "4d32950f6f97",
-   "source": "Al Jazeera",
-   "title": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
-   "description": "After a Supreme Court ruling against it, the Trump administration had tried a narrower set of restrictions.",
-   "url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
-   "date": "2026-11-26T19:09:39+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "8cc5ed5bfeb2",
-   "source": "Al Jazeera",
-   "title": "Psychiatric care under scrutiny after abuse scandals in Croatia and Bosnia",
-   "description": "Persistent failures in psychiatric care have been exposed, including staff shortages, poor training and weak oversight.",
-   "url": "https://www.aljazeera.com/news/2026/11/26/behind-the-doors-of-psychiatric-institutions-patient-care-turns-into-abuse?traffic_source=rss",
-   "date": "2026-11-26T19:07:44+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "f683c3f9b558",
    "source": "France 24",
    "title": "Posponen desfile de Acción de Gracias de Macy’s en Nueva York ante pronóstico de tormenta",
@@ -808,16 +838,6 @@
    "description": "La muerte de Carlos Germán Muñoz Jara, alias 'Charlie', señalado por las autoridades ecuatorianas de pertenecer al grupo delincuencial Los Choneros ha derivado en la paralización de las operaciones conjuntas entre Estados Unidos y Ecuador, mientras Washington investiga si el líde",
    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261126-ee-uu-pausa-los-operativos-conjuntos-en-ecuador-por-sospechas-de-asesinatos-extrajudiciales",
    "date": "2026-11-26T18:55:43+00:00",
-   "category": "Estados Unidos y Canadá",
-   "type": "Prensa"
-  },
-  {
-   "id": "d057aa65d193",
-   "source": "Al Jazeera",
-   "title": "What will Trump’s latest tariffs mean for the world?",
-   "description": "New measures come after previous trade tariffs ruled illegal.",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
-   "date": "2026-11-26T18:53:15+00:00",
    "category": "Estados Unidos y Canadá",
    "type": "Prensa"
   },
@@ -860,16 +880,6 @@
    "date": "2026-11-26T18:41:14+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "06c75f33b14b",
-   "source": "Al Jazeera",
-   "title": "Kushner explains the ‘good thing’ about Gaza’s destruction",
-   "description": "Jared Kushner says the “good thing” about Israel’s genocidal war on Gaza is that it can be built into “something new”.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
-   "date": "2026-11-26T18:30:36+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
   },
   {
    "id": "b0b2493936b6",
@@ -1329,16 +1339,6 @@
    "url": "https://www.dw.com/es/la-rdc-supera-la-barrera-de-los-12-000-casos-de-ébola-incluidos-más-de-5-900-muertos/a-80057782?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-26T09:52:00+00:00",
    "category": "África",
-   "type": "Prensa"
-  },
-  {
-   "id": "519aece1326f",
-   "source": "Deutsche Welle",
-   "title": "España activa plan emergencia por posible vertido contaminante de barco naufragado en Ibiza",
-   "description": "Un barco cargado con unas 7.000 toneladas de gasóleo naufragó frente a la costa de la isla mediterránea española de Ibiza, dejando al menos un muerto.",
-   "url": "https://www.dw.com/es/españa-activa-plan-emergencia-por-posible-vertido-contaminante-de-barco-naufragado-en-ibiza/a-80057340?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-26T09:32:00+00:00",
-   "category": "Europa",
    "type": "Prensa"
   },
   {
