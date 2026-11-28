@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:53:52.156853+00:00",
+ "updated": "2026-11-28T07:00:18.728313+00:00",
  "items": [
   {
    "id": "2ed268aded03",
@@ -7,7 +7,47 @@
    "title": "Victorian election 2026 live updates: polls point to Coalition win over Labor in state election results – latest news",
    "description": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies See all ",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
-   "date": "2026-11-28T05:30:51+00:00",
+   "date": "2026-11-28T06:49:41+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "596eb7ca602b",
+   "source": "The Guardian",
+   "title": "Mental health patients refusing NHS treatment over shared therapy notes",
+   "description": "Exclusive: Uploading of intimate psychiatric information to wider medical records prompts some to shun support altogether Some psychiatric patients are refusing treatment over the NHS adding intimate details from therapy sessions to their medical notes, fuelling fears that breach",
+   "url": "https://www.theguardian.com/society/2026/nov/28/mental-health-patients-refusing-nhs-treatment-medical-history-shared",
+   "date": "2026-11-28T06:47:29+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "8e85e6838c40",
+   "source": "Al Jazeera",
+   "title": "Elon Musk can afford a little MAGA amnesia",
+   "description": "His failed bet on the Republicans has done nothing to diminish the bipartisan appeal of his fortune.",
+   "url": "https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss",
+   "date": "2026-11-28T06:25:24+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "9dc2e4fb8c18",
+   "source": "The Guardian",
+   "title": "Palestinian tells of ‘devastating’ struggle after being made redundant by EU in Gaza",
+   "description": "Mohammad Baraka unable to access redundancy pay for almost 20 years’ service as family’s situation becomes ‘increasingly desperate’ A Palestinian man who worked for the EU in Gaza has told of a “devastating” struggle to survive after he was made redundant by bosses in Brussels. H",
+   "url": "https://www.theguardian.com/world/2026/nov/28/mohammad-baraka-palestinian-eu-gaza-redundancy-pay-access",
+   "date": "2026-11-28T06:00:34+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "a6a9e382afc0",
+   "source": "The Guardian",
+   "title": "Stunted sprouts: heatwaves and drought take toll on festive vegetable",
+   "description": "The Christmas staple is smaller this year after a hot, dry summer hit the water-loving – but versatile – brassica They are a key ingredient in many Christmas dinners, but brussels sprouts appearing on diners’ plates this festive season are likely to be smaller than usual, after t",
+   "url": "https://www.theguardian.com/business/2026/nov/28/sprouts-smaller-than-usual-heatwaves-drought-festive-vegetable",
+   "date": "2026-11-28T06:00:34+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
@@ -22,21 +62,21 @@
    "type": "Prensa"
   },
   {
-   "id": "166d2227a688",
-   "source": "The Guardian",
-   "title": "Yuri and I used to play football together. Then I spotted his name among Russia’s war dead",
-   "description": "I had no idea he had gone to fight in Ukraine and without hacked data I would probably never have learned of his death One evening, after weeks spent counting Russia’s war dead, I began looking for names I might recognise. My colleagues and I had been working our way through more",
-   "url": "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine",
-   "date": "2026-11-28T05:00:30+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "3ec1db3de125",
    "source": "The Guardian",
    "title": "La succession: France’s wealthiest family said to be battling over who will take over LVMH",
    "description": "Bernard Arnault’s children – described as ‘modern-day French royals’ – are subject of rivalry rumours over who will succeed him They are France’s richest family, leading the world’s biggest luxury goods empire, dressed in matching Dior suits – a clan so powerful they have been de",
    "url": "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh",
+   "date": "2026-11-28T05:00:30+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "166d2227a688",
+   "source": "The Guardian",
+   "title": "Yuri and I used to play football together. Then I spotted his name among Russia’s war dead",
+   "description": "I had no idea he had gone to fight in Ukraine and without hacked data I would probably never have learned of his death One evening, after weeks spent counting Russia’s war dead, I began looking for names I might recognise. My colleagues and I had been working our way through more",
+   "url": "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine",
    "date": "2026-11-28T05:00:30+00:00",
    "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
@@ -114,7 +154,7 @@
   {
    "id": "3e4402d787cd",
    "source": "Al Jazeera",
-   "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+   "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
    "description": "MSF says Israeli attack on Gaza clinic a 'direct hit' and calls for those responsible to be held accountable.",
    "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
    "date": "2026-11-28T03:45:58+00:00",
@@ -672,16 +712,6 @@
    "type": "Prensa"
   },
   {
-   "id": "e8eb8ea26272",
-   "source": "The Guardian",
-   "title": "Elderly ‘Scrooge’ severs neighbour’s Christmas lights in mobility-scooter raid",
-   "description": "CCTV shows unidentified woman taking scissors to Middlesbrough home’s festive display An elderly woman has been accused of defying the season of goodwill after appearing to cut down her neighbour’s Christmas lights. CCTV footage showed her approaching a property on a mobility sco",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/27/elderly-scrooge-severs-neighbours-christmas-lights-in-mobility-scooter-raid",
-   "date": "2026-11-27T21:31:40+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "f0747c1925b3",
    "source": "France 24",
    "title": "Sánchez hace un último esfuerzo de campaña para vencer a la derecha antes de unas elecciones decisivas",
@@ -812,16 +842,6 @@
    "type": "Prensa"
   },
   {
-   "id": "bbc7a09249e9",
-   "source": "Al Jazeera",
-   "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
-   "description": "Hamas leader Khalil al-Hayya's last surviving son Izzeldeen survived an Israeli assassination attempt on Friday.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
-   "date": "2026-11-27T20:18:45+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "e5a5e607cca9",
    "source": "Deutsche Welle",
    "title": "Zelenski critica a Trump por llamar \"amigo\" a Putin",
@@ -829,16 +849,6 @@
    "url": "https://www.dw.com/es/zelenski-critica-a-trump-por-llamar-amigo-a-putin/a-80082525?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-27T20:10:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "ff52d4d59b99",
-   "source": "The Guardian",
-   "title": "Graham Thorpe’s widow takes legal action against NHS trust after inquest",
-   "description": "Former England Test cricketer was diagnosed with anxiety and depression before he took his own life in 2024 The wife of Graham Thorpe, the former England cricketer who took his own life, has started legal proceedings against an NHS trust after an inquest identified “failings” in ",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/27/graham-thorpe-widow-legal-action-against-nhs-trust-after-inquest",
-   "date": "2026-11-27T19:52:30+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -989,16 +999,6 @@
    "url": "https://www.france24.com/es/programas/en-foco/20261127-prostituci%C3%B3n-forzada-en-corea-en-bases-militares-de-ee-uu-las-v%C3%ADctimas-van-a-juicio",
    "date": "2026-11-27T17:03:35+00:00",
    "category": "Conflictos armados y seguridad internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "b277e8eb2c60",
-   "source": "The Guardian",
-   "title": "Jared Kushner’s 70-minute interview reveals naive bias in handling of Putin’s aggression",
-   "description": "Trump’s son-in-law and senior negotiator paints Russian invasion of Ukraine as a misunderstanding to be resolved In the space of a 70-minute interview, Jared Kushner – Donald Trump’s son-in-law and a prominent US negotiator in Russia, Gaza and Iran – probably did more to reveal w",
-   "url": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
-   "date": "2026-11-27T16:49:59+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1250,6 +1250,36 @@
    "date": "2026-11-27T12:15:00+00:00",
    "category": "Europa",
    "type": "Prensa"
+  },
+  {
+   "id": "c509147958bf",
+   "source": "Naciones Unidas",
+   "title": "Corredor Seco, recortes y refugiadas, Costa Rica, España... Las noticias del viernes",
+   "description": "El Corredor Seco de América Central entra en la lista de focos de hambre por El Niño. Los recortes debilitan la protección de mujeres y niñas refugiadas frente a la violencia. Comité de expertos insta a Costa Rica a permitir la entrada de Francesca Albanese. Un experto pide a Esp",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542220",
+   "date": "2026-11-27T12:00:00+00:00",
+   "category": "Europa",
+   "type": "Oficial"
+  },
+  {
+   "id": "795e269480ec",
+   "source": "Naciones Unidas",
+   "title": "El Corredor Seco de América Central entra en la lista de focos de hambre por El Niño",
+   "description": "El fenómeno de El Niño ha situado al Corredor Seco de América Central y a África austral entre los nuevos focos de hambre del mundo. En total, 16 zonas podrían sufrir un deterioro significativo de la inseguridad alimentaria aguda entre diciembre de 2026 y mayo de 2027, según advi",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542219",
+   "date": "2026-11-27T12:00:00+00:00",
+   "category": "África",
+   "type": "Oficial"
+  },
+  {
+   "id": "56877c1812a8",
+   "source": "Naciones Unidas",
+   "title": "Los recortes debilitan la protección de mujeres y niñas refugiadas frente a la violencia",
+   "description": "Los drásticos recortes presupuestarios están debilitando gravemente los servicios de protección para mujeres y niñas refugiadas y apátridas, así como para otras personas expuestas a la violencia de género. Entre ellas está Mariam, que sobrevivió a una década de cautiverio y viola",
+   "url": "https://news.un.org/feed/view/es/story/2026/11/1542218",
+   "date": "2026-11-27T12:00:00+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Oficial"
   },
   {
    "id": "d0f1c5b76373",
@@ -2369,36 +2399,6 @@
    "url": "https://news.un.org/feed/view/es/story/2026/11/1542182",
    "date": "2026-11-17T12:00:00+00:00",
    "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "fa2de407111c",
-   "source": "Naciones Unidas",
-   "title": "Hambre en Gaza, COP31, obesidad y químicos de la discordia... las noticias del martes",
-   "description": "Casi 1,5 millones de palestinos padece hambre aguda, mientras Israel mantiene los obstáculos al paso de la ayuda humanitaria. La inversión climática en América Latina debe ser vista como una inversión, no como un gasto. España lidera un llamado mundial contra la obesidad. Un info",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542181",
-   "date": "2026-11-17T12:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Oficial"
-  },
-  {
-   "id": "3f3149bb9402",
-   "source": "Naciones Unidas",
-   "title": "La IA responde con la ciencia a la primera pregunta sobre el cambio climático, a la segunda… ya es otro tema",
-   "description": "Entre la ciencia y la complacencia, los grandes modelos de lenguaje eligen la primera cuando se les pregunta y la segunda en cuanto el usuario objeta o niega la evidencia.",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542179",
-   "date": "2026-11-16T12:00:00+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Oficial"
-  },
-  {
-   "id": "ce3260c28665",
-   "source": "Naciones Unidas",
-   "title": "COP31 bloqueada, IA climática, cáncer de cérvix y refugiados… las noticias del martes",
-   "description": "La cumbre del clima entra en su semana final con las negociaciones atascadas y los ministros en camino. UNESCO alerta de que los chatbots ceden ante la presión del usuario y abandonan ciencia cuando se les pregunta por el cambio climático. Un estudio con más de 44.000 mujeres lat",
-   "url": "https://news.un.org/feed/view/es/story/2026/11/1542178",
-   "date": "2026-11-16T12:00:00+00:00",
-   "category": "Gobierno y administración pública",
    "type": "Oficial"
   },
   {

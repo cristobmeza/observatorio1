@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:53:52.156853+00:00",
+ "updated": "2026-11-28T07:00:18.728313+00:00",
  "feeds": {
   "CIPER Chile": {
    "ok": true,
@@ -18,7 +18,7 @@
   },
   "El Mostrador": {
    "ok": false,
-   "err": "<urlopen error timed out>"
+   "err": "HTTP Error 404: Not Found"
   },
   "Ex-Ante": {
    "ok": true,
