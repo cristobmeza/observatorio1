@@ -1,14 +1,74 @@
 {
- "updated": "2026-11-28T04:54:47.758407+00:00",
+ "updated": "2026-11-28T05:53:52.156853+00:00",
  "items": [
   {
    "id": "2ed268aded03",
    "source": "The Guardian",
-   "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
+   "title": "Victorian election 2026 live updates: polls point to Coalition win over Labor in state election results – latest news",
    "description": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies See all ",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
-   "date": "2026-11-28T04:46:33+00:00",
+   "date": "2026-11-28T05:30:51+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "a9a290d6e3c8",
+   "source": "Deutsche Welle",
+   "title": "Taiwán inicia las elecciones locales con una reñida disputa por la capital Taipéi",
+   "description": "Los centros de votación cerrarán a las 16H00 locales, y se espera que los resultados se den a conocer por la noche.",
+   "url": "https://www.dw.com/es/taiwán-inicia-las-elecciones-locales-con-una-reñida-disputa-por-la-capital-taipéi/a-80083393?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-28T05:02:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "166d2227a688",
+   "source": "The Guardian",
+   "title": "Yuri and I used to play football together. Then I spotted his name among Russia’s war dead",
+   "description": "I had no idea he had gone to fight in Ukraine and without hacked data I would probably never have learned of his death One evening, after weeks spent counting Russia’s war dead, I began looking for names I might recognise. My colleagues and I had been working our way through more",
+   "url": "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine",
+   "date": "2026-11-28T05:00:30+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "3ec1db3de125",
+   "source": "The Guardian",
+   "title": "La succession: France’s wealthiest family said to be battling over who will take over LVMH",
+   "description": "Bernard Arnault’s children – described as ‘modern-day French royals’ – are subject of rivalry rumours over who will succeed him They are France’s richest family, leading the world’s biggest luxury goods empire, dressed in matching Dior suits – a clan so powerful they have been de",
+   "url": "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh",
+   "date": "2026-11-28T05:00:30+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "01ccc818b830",
+   "source": "Al Jazeera",
+   "title": "Behind India’s IIT dream: Student suicides and gaps in support",
+   "description": "Rishikesh Kumar made it to IIT, but died months later in a suspected suicide, reviving questions about student support.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/behind-indias-iit-dream-student-suicides-and-gaps-in-support?traffic_source=rss",
+   "date": "2026-11-28T04:59:50+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "dc0dffa7a798",
+   "source": "Al Jazeera",
+   "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
+   "description": "Heavy rains affect 2,000 families in Peru's Piura and 47,000 people in Ecuador, where 34 deaths have been reported.",
+   "url": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
+   "date": "2026-11-28T04:57:32+00:00",
+   "category": "América Latina",
+   "type": "Prensa"
+  },
+  {
+   "id": "58fdd2b8e29c",
+   "source": "Al Jazeera",
+   "title": "UN chief frontrunner urged to speak out over Albanese detention",
+   "description": "Albanese's detention poses a test for Costa Rica's candidate, Rebeca Grynspan, who has led the UN's recent straw poll.",
+   "url": "https://www.aljazeera.com/news/2026/11/28/un-chief-frontrunner-urged-to-speak-out-over-albanese-detention-2?traffic_source=rss",
+   "date": "2026-11-28T04:46:16+00:00",
+   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -762,16 +822,6 @@
    "type": "Prensa"
   },
   {
-   "id": "38f371ba95eb",
-   "source": "Al Jazeera",
-   "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
-   "description": "Costa Rica has barred UN special rapporteur Francesca Albanese, citing unfounded ‘links to terrorist acts’.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
-   "date": "2026-11-27T20:10:30+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "e5a5e607cca9",
    "source": "Deutsche Welle",
    "title": "Zelenski critica a Trump por llamar \"amigo\" a Putin",
@@ -779,26 +829,6 @@
    "url": "https://www.dw.com/es/zelenski-critica-a-trump-por-llamar-amigo-a-putin/a-80082525?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-27T20:10:00+00:00",
    "category": "Rusia y espacio postsoviético",
-   "type": "Prensa"
-  },
-  {
-   "id": "16366034b350",
-   "source": "Al Jazeera",
-   "title": "Is Iraq facing renewed instability?",
-   "description": "PM asserts state control over resources in semi-autonomous Kurdish region",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/27/is-iraq-facing-renewed-instability?traffic_source=rss",
-   "date": "2026-11-27T19:56:35+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "7c25e5a54ed5",
-   "source": "Al Jazeera",
-   "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
-   "description": "Four of Khalil al-Hayya's other sons were previously killed by Israeli forces, according to the Palestinian group.",
-   "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
-   "date": "2026-11-27T19:53:25+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -1002,16 +1032,6 @@
    "type": "Prensa"
   },
   {
-   "id": "b2c3caec1886",
-   "source": "The Guardian",
-   "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
-   "description": "This blog is now closed Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war rhetoric towards the separatist Catalan “enemy ",
-   "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
-   "date": "2026-11-27T16:19:50+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
    "id": "8d8042086235",
    "source": "BBC Mundo",
    "title": "Los estafadores que engañaron a miles de migrantes detenidos en EE.UU. con servicios de fianzas fraudulentos",
@@ -1049,16 +1069,6 @@
    "url": "https://www.france24.com/es/video/20261127-directo-par%C3%ADs-y-los-choques-violentos-entre-hinchas-del-marsella-y-el-levski-sof%C3%ADa",
    "date": "2026-11-27T15:42:24+00:00",
    "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "9f68c01701a7",
-   "source": "The Guardian",
-   "title": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
-   "description": "Norwegian airline tells customers not to come to airports after surging fuel costs caused by Iran war ruin finances Norse Atlantic Airways has filed for bankruptcy and cancelled all future flights after surging fuel costs caused by the Iran war ruined its finances. The Norwegian ",
-   "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
-   "date": "2026-11-27T15:40:35+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -1259,16 +1269,6 @@
    "url": "https://www.dw.com/es/sap-confirma-un-incidente-de-seguridad-informática-y-toma-medidas-de-protección/a-80074314?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-27T11:33:00+00:00",
    "category": "Empresas y mercados",
-   "type": "Prensa"
-  },
-  {
-   "id": "68fe313581ff",
-   "source": "Deutsche Welle",
-   "title": "Un bombardeo saudita mata a 11 personas en Yemen, según prensa hutí",
-   "description": "Según la milicia hutí -afín a Irán-, once personas murieron en un ataque aéreo saudí en Yemen. El objetivo del ataque fue una vivienda en la provincia de Taiz, informó la agencia de noticias hutí Saba.",
-   "url": "https://www.dw.com/es/un-bombardeo-saudita-mata-a-11-personas-en-yemen-según-prensa-hutí/a-80073194?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-27T10:58:00+00:00",
-   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
