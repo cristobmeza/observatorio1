@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-28T09:46:58.068555+00:00",
+ "updated": "2026-11-28T10:47:15.061818+00:00",
  "items": [
+  {
+   "id": "89cba7b204a6",
+   "source": "Deutsche Welle",
+   "title": "Taiwán vota en unas disputadas elecciones locales que podrían adelantar indicios del futuro político del país",
+   "description": "El país cierra los centros de votación e inicia el escrutinio de unos comicios especialmente ajustados en Taipéi, entre denuncias por supuestas injerencias de China.",
+   "url": "https://www.dw.com/es/taiwán-vota-en-unas-disputadas-elecciones-locales-que-podrían-adelantar-indicios-del-futuro-político-del-país/a-80084273?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-28T10:40:00+00:00",
+   "category": "Elecciones",
+   "type": "Prensa"
+  },
+  {
+   "id": "2ed268aded03",
+   "source": "The Guardian",
+   "title": "Victorian election 2026 live results: Ben Carroll projected to lose seat as Coalition wipes out Labor",
+   "description": "Follow live updates and results tonight after ABC says Labor has no path to victory, with Jess Wilson to become state’s 51st premier Full report: Ben Carroll concedes Victorian election to Jess Wilson, ending 12 years of Labor government Victoria election live results: votes trac",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+   "date": "2026-11-28T10:34:08+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "66da49a140c4",
+   "source": "The Guardian",
+   "title": "Victorian election 2026: Ben Carroll concedes to Jess Wilson, ending 12 years of Labor government",
+   "description": "Jess Wilson to become state’s first popularly elected female premier as Ben Carroll projected to lose seat Victoria election live results: votes tracker, map and seat counts Live blog: Victorian election 2026 – latest news and results Victorian Labor has suffered an historic defe",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
+   "date": "2026-11-28T10:29:43+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "6124ff463d63",
+   "source": "Al Jazeera",
+   "title": "Several students killed in blast beside Afghan school",
+   "description": "At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+   "date": "2026-11-28T10:05:26+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "99a68596efc4",
+   "source": "The Guardian",
+   "title": "Woman ‘traumatised’ by Sainsbury’s shoplifting ban after staff facial recognition error",
+   "description": "Monia Indge, 58, who has terminal cancer, escorted from supermarket after staff using FaceWatch technology misidentified her A woman with terminal cancer has been left “traumatised and violated” after being falsely accused of shoplifting and banned from Sainsbury’s by staff using",
+   "url": "https://www.theguardian.com/technology/2026/nov/28/woman-traumatised-sainsburys-shoplifting-ban-after-staff-facial-recognition-error",
+   "date": "2026-11-28T10:00:36+00:00",
+   "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "f1c6ee923886",
+   "source": "BBC Mundo",
+   "title": "Erika Cheung, la joven que creció en la pobreza y terminó exponiendo el fraude multimillonario de Elizabeth Holmes con Theranos",
+   "description": "Recién graduada, empezó a trabajar en una pujante empresa tecnológica que prometía revolucionar la atención médica. Pero descubrió algo oscuro y se atrevió a denunciarlo.",
+   "url": "https://www.bbc.com/mundo/articles/c60qjwen98jdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T09:59:57+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "089048b201bb",
+   "source": "Al Jazeera",
+   "title": "Kenyan starvation cult leader found guilty over deaths of 123 followers",
+   "description": "Paul Mackenzie was convicted of manslaughter over the deaths of 123 followers.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/28-11-sv-kenya-cult-leader-paul-mackenzie?traffic_source=rss",
+   "date": "2026-11-28T09:59:11+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "1f359c22ad17",
+   "source": "Deutsche Welle",
+   "title": "Siete muertos y casi un centenar de heridos en una explosión accidental junto a una escuela en Afganistán",
+   "description": "Los explosivos destinados a la construcción de una carretera se detonaron accidentalmente en una casa cercana a un colegio en la ciudad de Asadabad.",
+   "url": "https://www.dw.com/es/siete-muertos-y-casi-un-centenar-de-heridos-en-una-explosión-accidental-junto-a-una-escuela-en-afganistán/a-80084073?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-28T09:56:00+00:00",
+   "category": "Europa",
+   "type": "Prensa"
+  },
   {
    "id": "3d6e8ea77294",
    "source": "Al Jazeera",
@@ -19,26 +99,6 @@
    "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
    "date": "2026-11-28T09:35:15+00:00",
    "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
-   "id": "2ed268aded03",
-   "source": "The Guardian",
-   "title": "Victorian election 2026 live results: Ben Carroll projected to lose seat as Coalition wipes out Labor",
-   "description": "Follow live updates and results tonight after ABC says Labor has no path to victory, with Jess Wilson to become state’s 51st premier Full report: Coalition projected to win Victorian election, ending 12 years of Labor government Victoria election live results: votes tracker, map ",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
-   "date": "2026-11-28T09:34:43+00:00",
-   "category": "Relaciones internacionales y geopolítica",
-   "type": "Prensa"
-  },
-  {
-   "id": "66da49a140c4",
-   "source": "The Guardian",
-   "title": "Victorian election 2026: Coalition projected to win state poll, ending 12 years of Labor government",
-   "description": "Liberal leader to become state’s first popularly elected female premier as Carroll projected to lose seat Victoria election live results: votes tracker, map and seat counts Live blog: Victorian election 2026 – latest news and results Victorian premier Ben Carroll has called Liber",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
-   "date": "2026-11-28T09:34:05+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -602,16 +662,6 @@
    "type": "Prensa"
   },
   {
-   "id": "d706f531bc68",
-   "source": "Al Jazeera",
-   "title": "Francesca Albanese seeks apology from Costa Rica after entry ban",
-   "description": "UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defamation after being denied entry.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss",
-   "date": "2026-11-28T00:12:20+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "2f46feda0dde",
    "source": "France 24",
    "title": "Eisenkot apunta a una futura coalición de Gobierno en Israel tras un acuerdo con Los Demócratas",
@@ -682,16 +732,6 @@
    "type": "Prensa"
   },
   {
-   "id": "615cbe47fcb4",
-   "source": "Al Jazeera",
-   "title": "Iran war live: Iran’s army ready to respond to any attack ‘from anywhere’",
-   "description": "Deputy chief of Iran's armed forces says military in a state of absolute readiness to respond to any 'misstep by enemy'.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
-   "date": "2026-11-28T00:00:00+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "03eaa1f06ef9",
    "source": "Ex-Ante",
    "title": "Quiénes están detrás de las ONGs tras la ofensiva judicial contra el proyecto Dominga",
@@ -699,16 +739,6 @@
    "url": "https://www.ex-ante.cl/negocios/ong-ofensiva-contra-proyecto-dominga/",
    "date": "2026-11-27T23:50:08+00:00",
    "category": "Conflictos armados y seguridad internacional",
-   "type": "Prensa"
-  },
-  {
-   "id": "ff60e54798c5",
-   "source": "The Guardian",
-   "title": "Schools in England must set aside time for pupils to read for pleasure",
-   "description": "Education secretary expected to announce measures as part of proposed reforms to national curriculum Schools in England will have to allocate time for children to read for pleasure as part of Labour’s proposed reforms of the national curriculum. The education secretary, Lucy Powe",
-   "url": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
-   "date": "2026-11-27T23:34:55+00:00",
-   "category": "Relaciones internacionales y geopolítica",
    "type": "Prensa"
   },
   {
@@ -962,16 +992,6 @@
    "type": "Oficial"
   },
   {
-   "id": "85b23d7fee7c",
-   "source": "Deutsche Welle",
-   "title": "Encuentran muertos a ocho migrantes en una embarcación que trataba de llegar a Canarias",
-   "description": "Desde hace varias semanas, la isla de El Hierro está registrando una fuerte afluencia de migrantes, lo que obligó a las autoridades a tomar medidas de emergencia.",
-   "url": "https://www.dw.com/es/encuentran-muertos-a-ocho-migrantes-en-una-embarcación-que-trataba-de-llegar-a-canarias/a-80081588?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-27T18:23:00+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
    "id": "c98b53e3f5f4",
    "source": "France 24",
    "title": "España reduce la inflación al 4,1% en noviembre tras el repunte de octubre",
@@ -1110,16 +1130,6 @@
    "date": "2026-11-27T15:31:39+00:00",
    "category": "Políticas públicas",
    "type": "Académica"
-  },
-  {
-   "id": "5428a08b83b1",
-   "source": "Deutsche Welle",
-   "title": "Elecciones España 2026: candidatos, fechas y resultados",
-   "description": "Del inicio de las votaciones al escrutinio: las claves de la jornada electoral del 29N en España.",
-   "url": "https://www.dw.com/es/elecciones-españa-2026-candidatos-fechas-y-resultados/a-80078108?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-27T15:24:00+00:00",
-   "category": "Elecciones",
-   "type": "Prensa"
   },
   {
    "id": "534f4ba710da",
@@ -1869,16 +1879,6 @@
    "url": "https://www.bbc.com/mundo/articles/c94gn8rvjg6xo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-25T12:31:54+00:00",
    "category": "Partidos políticos",
-   "type": "Prensa"
-  },
-  {
-   "id": "3122514b4b85",
-   "source": "BBC Mundo",
-   "title": "Cómo China mantiene su enorme influencia en América Latina en pleno pulso geopolítico con EE.UU.",
-   "description": "De distintas formas —y a veces con bajo perfil—, Pekín logra sostener una presencia trascendental en la región aunque Washington busca limitarla.",
-   "url": "https://www.bbc.com/mundo/articles/c32l5enge15go?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T12:02:10+00:00",
-   "category": "China y Asia",
    "type": "Prensa"
   },
   {
