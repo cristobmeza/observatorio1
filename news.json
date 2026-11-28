@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:50:49.798247+00:00",
+ "updated": "2026-11-28T04:54:47.758407+00:00",
  "items": [
   {
    "id": "2ed268aded03",
@@ -7,8 +7,58 @@
    "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
    "description": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies See all ",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
-   "date": "2026-11-28T03:34:26+00:00",
+   "date": "2026-11-28T04:46:33+00:00",
    "category": "Relaciones internacionales y geopolítica",
+   "type": "Prensa"
+  },
+  {
+   "id": "470b0222a560",
+   "source": "Al Jazeera",
+   "title": "‘Last local militant’: India declares victory but Kashmir’s rebels adapt",
+   "description": "Analysts say that shifting tactics, names and geography challenge claims of win against Kashmir's separatist movement.",
+   "url": "https://www.aljazeera.com/news/2026/11/28/last-local-militant-india-declares-victory-but-kashmirs-rebels-adapt?traffic_source=rss",
+   "date": "2026-11-28T04:30:16+00:00",
+   "category": "China y Asia",
+   "type": "Prensa"
+  },
+  {
+   "id": "8a55bcb39992",
+   "source": "Deutsche Welle",
+   "title": "Israel afirma que mató a dos \"terroristas\" que trabajaban para Médicos Sin Fronteras en Gaza",
+   "description": "Médicos Sin Frontera dijo que estaba \"devastada\" por las muertes y denunció que se trataba de un \"ataque directo\" contra la organización.",
+   "url": "https://www.dw.com/es/israel-afirma-que-mató-a-dos-terroristas-que-trabajaban-para-médicos-sin-fronteras-en-gaza/a-80083372?maca=spa-rss-sp-all-1122-xml-mrss",
+   "date": "2026-11-28T04:22:00+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "79ffb928ac51",
+   "source": "France 24",
+   "title": "La venta de tierras frente al glaciar Perito Moreno a un grupo emiratí abre una disputa judicial en Argentina",
+   "description": "Un decreto del gobernador de la provincia de Santa Cruz habilitó, por única vez, la venta de 21 hectáreas dentro de un área protegida frente al glaciar Perito Moreno a una empresa vinculada a un grupo inversor de Emiratos Árabes Unidos, que pretende construir un complejo de cabañ",
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261128-e",
+   "date": "2026-11-28T04:05:42+00:00",
+   "category": "Empresas y mercados",
+   "type": "Prensa"
+  },
+  {
+   "id": "a7c06a47a952",
+   "source": "Al Jazeera",
+   "title": "The split-second teamwork behind an F1 pit stop",
+   "description": "Al Jazeera’s Joanna Gasiorowska stepped into the pit lane to find out just how hard it is to be in a F1 pit crew.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss",
+   "date": "2026-11-28T04:01:24+00:00",
+   "category": "Oriente Medio",
+   "type": "Prensa"
+  },
+  {
+   "id": "3e4402d787cd",
+   "source": "Al Jazeera",
+   "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+   "description": "MSF says Israeli attack on Gaza clinic a 'direct hit' and calls for those responsible to be held accountable.",
+   "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+   "date": "2026-11-28T03:45:58+00:00",
+   "category": "Oriente Medio",
    "type": "Prensa"
   },
   {
@@ -59,6 +109,26 @@
    "url": "https://www.cooperativa.cl/noticias/sociedad/medioambiente/contaminacion/agujero-de-la-capa-de-ozono-alcanzo-uno-de-sus-mayores-tamanos-en-casi/2026-11-27/235509.html",
    "date": "2026-11-28T02:55:09+00:00",
    "category": "",
+   "type": "Prensa"
+  },
+  {
+   "id": "9bda06706574",
+   "source": "France 24",
+   "title": "¿El veto de Costa Rica a Francesca Albanese responde a un alineamiento político con EE. UU.?",
+   "description": "Francesca Albanese, relatora especial de la ONU para los territorios palestinos ocupados, denunció que Costa Rica le prohibió el ingreso al país. Las autoridades migratorias alegaron una supuesta alerta internacional por vínculos con actos terroristas y una amenaza contra la segu",
+   "url": "https://www.france24.com/es/video/20261128-el-veto-de-costa-rica-a-francesca-albanese-responde-a-un-alineamiento-pol%C3%ADtico-con-ee-uu",
+   "date": "2026-11-28T02:45:36+00:00",
+   "category": "Sociedad",
+   "type": "Prensa"
+  },
+  {
+   "id": "9a60dc65b41b",
+   "source": "France 24",
+   "title": "Elecciones en España: PSOE, PP y Vox cierran sus campañas con actos multitudinarios",
+   "description": "En Madrid, Sevilla y Valencia, los candidatos a las elecciones generales en España ya cerraron sus campañas. En Madrid, Pedro Sánchez, del Partido Socialista Obrero Español (PSOE), llevó a cabo su acto más multitudinario desde 2015, acusó a la derecha de haber centrado su campaña",
+   "url": "https://www.france24.com/es/video/20261128-elecciones-en-espa%C3%B1a-psoe-pp-y-vox-cierran-sus-campa%C3%B1as-con-actos-multitudinarios",
+   "date": "2026-11-28T02:44:00+00:00",
+   "category": "Elecciones",
    "type": "Prensa"
   },
   {
@@ -832,16 +902,6 @@
    "type": "Prensa"
   },
   {
-   "id": "71137fe5cf6b",
-   "source": "Al Jazeera",
-   "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
-   "description": "Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.",
-   "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
-   "date": "2026-11-27T17:58:36+00:00",
-   "category": "Oriente Medio",
-   "type": "Prensa"
-  },
-  {
    "id": "c98b53e3f5f4",
    "source": "France 24",
    "title": "España reduce la inflación al 4,1% en noviembre tras el repunte de octubre",
@@ -869,26 +929,6 @@
    "url": "https://www.ex-ante.cl/politica/firmas-pacto-castro-rompio-molestia-quiroz/",
    "date": "2026-11-27T17:52:22+00:00",
    "category": "Gobierno y administración pública",
-   "type": "Prensa"
-  },
-  {
-   "id": "1648f7af7876",
-   "source": "Al Jazeera",
-   "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
-   "description": "Spain's Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
-   "date": "2026-11-27T17:44:50+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "de6be8933548",
-   "source": "Al Jazeera",
-   "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
-   "description": "The proposal comes as President Zelenskyy criticises Trump’s ‘friendship’ with Putin.",
-   "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
-   "date": "2026-11-27T17:44:33+00:00",
-   "category": "Rusia y espacio postsoviético",
    "type": "Prensa"
   },
   {
@@ -1039,26 +1079,6 @@
    "url": "https://www.dw.com/es/elecciones-españa-2026-candidatos-fechas-y-resultados/a-80078108?maca=spa-rss-sp-all-1122-xml-mrss",
    "date": "2026-11-27T15:24:00+00:00",
    "category": "Elecciones",
-   "type": "Prensa"
-  },
-  {
-   "id": "b3e635127d01",
-   "source": "France 24",
-   "title": "Códice Azcatitlán vuelve a México tras 186 años en París",
-   "description": "Tras 186 años en París, el Códice Azcatitlán vuelve temporalmente a México. Francia y México celebran el bicentenario de sus relaciones diplomáticas con el préstamo de este manuscrito, uno de los grandes testimonios de la historia mexica. El gesto abre una nueva etapa en un víncu",
-   "url": "https://www.france24.com/es/programas/escala-en-par%C3%ADs/20261127-c%C3%B3dice-azcatitl%C3%A1n-vuelve-a-m%C3%A9xico-tras-186-a%C3%B1os-en-par%C3%ADs",
-   "date": "2026-11-27T15:20:26+00:00",
-   "category": "Europa",
-   "type": "Prensa"
-  },
-  {
-   "id": "f3e0494a7fe5",
-   "source": "France 24",
-   "title": "Crisis migratoria en Honduras: el doble impacto de las deportaciones desde EE. UU.",
-   "description": "Tras el fin del Estatus de Protección Temporal (TPS) en Estados Unidos, más de 55.000 hondureños quedaron sin amparo migratorio y cerca de 39.000 ya han sido deportados este año. Mientras las familias pierden su principal sustento, analistas advierten que la caída en el envío de ",
-   "url": "https://www.france24.com/es/programas/enlace/20261127-crisis-migratoria-en-honduras-el-doble-impacto-de-las-deportaciones-desde-ee-uu",
-   "date": "2026-11-27T15:13:04+00:00",
-   "category": "Sociedad",
    "type": "Prensa"
   },
   {
@@ -1268,16 +1288,6 @@
    "description": "Nuestra columna es la estructura principal de nuestro cuerpo. Y, aun así, la mayor parte del tiempo le prestamos poca atención.",
    "url": "https://www.bbc.com/mundo/articles/cqevr0l23e1vo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-27T10:45:22+00:00",
-   "category": "Sociedad",
-   "type": "Prensa"
-  },
-  {
-   "id": "cae5cd7a4cbe",
-   "source": "Deutsche Welle",
-   "title": "El Ministerio británico de Trabajo sufre un ciberataque y suspende servicios en línea",
-   "description": "El Departamento de Trabajo y Pensiones del Reino Unido informó que había suspendido algunos servicios tras un \"ciberincidente\", en un contexto de creciente número de ciberataques y amenazas a escala mundial.",
-   "url": "https://www.dw.com/es/el-ministerio-británico-de-trabajo-sufre-un-ciberataque-y-suspende-servicios-en-línea/a-80072766?maca=spa-rss-sp-all-1122-xml-mrss",
-   "date": "2026-11-27T10:30:00+00:00",
    "category": "Sociedad",
    "type": "Prensa"
   },
